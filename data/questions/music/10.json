@@ -8,22 +8,10 @@
     "question_en": "What is Amr Diab's famous nickname among Egyptian fans?",
     "question_ar": "إيه اللقب اللي بيتنادى بيه عمرو دياب بين جمهوره؟",
     "options": [
-      {
-        "en": "El King",
-        "ar": "الكينج"
-      },
-      {
-        "en": "El Hadaba",
-        "ar": "الهضبة"
-      },
-      {
-        "en": "El Kabtin",
-        "ar": "الكابتن"
-      },
-      {
-        "en": "El Andalib",
-        "ar": "العندليب"
-      }
+      { "en": "El King", "ar": "الكينج" },
+      { "en": "El Hadaba", "ar": "الهضبة" },
+      { "en": "El Kabtin", "ar": "الكابتن" },
+      { "en": "El Andalib", "ar": "العندليب" }
     ],
     "correctAnswer": 1,
     "explanation_en": "Amr Diab is nicknamed \"El Hadaba\" (The Plateau).",
@@ -35,29 +23,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Umm Kulthum is famously known as the \"Star of the ___\"?",
-    "question_ar": "أم كلثوم معروفة بلقب \"كوكب ___\"؟",
+    "question_en": "Wegz, one of Egypt's biggest rap stars, is originally from which city?",
+    "question_ar": "ويجز، واحد من أكبر نجوم الراب في مصر، أصله من أنهي مدينة؟",
     "options": [
-      {
-        "en": "Egypt",
-        "ar": "مصر"
-      },
-      {
-        "en": "West",
-        "ar": "الغرب"
-      },
-      {
-        "en": "Nile",
-        "ar": "النيل"
-      },
-      {
-        "en": "East",
-        "ar": "الشرق"
-      }
+      { "en": "Cairo", "ar": "القاهرة" },
+      { "en": "Alexandria", "ar": "الإسكندرية" },
+      { "en": "Giza", "ar": "الجيزة" },
+      { "en": "Mansoura", "ar": "المنصورة" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Umm Kulthum is known as \"Kawkab El Sharq\" (Star of the East).",
-    "explanation_ar": "أم كلثوم لقبها \"كوكب الشرق\"."
+    "correctAnswer": 1,
+    "explanation_en": "Wegz was born and raised in Alexandria, Egypt.",
+    "explanation_ar": "ويجز اتولد وكبر في الإسكندرية."
   },
   {
     "id": "MUS-010-003",
@@ -68,22 +44,10 @@
     "question_en": "Who sang the classic song \"Enta Omri\"?",
     "question_ar": "مين اللي غنى أغنية \"إنت عمري\" الشهيرة؟",
     "options": [
-      {
-        "en": "Fairuz",
-        "ar": "فيروز"
-      },
-      {
-        "en": "Sherine",
-        "ar": "شيرين"
-      },
-      {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
-      },
-      {
-        "en": "Warda",
-        "ar": "وردة"
-      }
+      { "en": "Fairuz", "ar": "فيروز" },
+      { "en": "Sherine", "ar": "شيرين" },
+      { "en": "Umm Kulthum", "ar": "أم كلثوم" },
+      { "en": "Warda", "ar": "وردة" }
     ],
     "correctAnswer": 2,
     "explanation_en": "\"Enta Omri\" is one of Umm Kulthum's most iconic songs.",
@@ -98,22 +62,10 @@
     "question_en": "Which of these is an Egyptian rock band?",
     "question_ar": "مين من دول فرقة روك مصرية؟",
     "options": [
-      {
-        "en": "Coldplay",
-        "ar": "كولدبلاي"
-      },
-      {
-        "en": "Cairokee",
-        "ar": "كايروكي"
-      },
-      {
-        "en": "Maroon 5",
-        "ar": "مارون 5"
-      },
-      {
-        "en": "Metallica",
-        "ar": "ميتاليكا"
-      }
+      { "en": "Coldplay", "ar": "كولدبلاي" },
+      { "en": "Cairokee", "ar": "كايروكي" },
+      { "en": "Maroon 5", "ar": "مارون 5" },
+      { "en": "Metallica", "ar": "ميتاليكا" }
     ],
     "correctAnswer": 1,
     "explanation_en": "Cairokee is a well-known Egyptian rock band.",
@@ -125,29 +77,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Michael Jackson is widely known as the King of what music genre?",
-    "question_ar": "مايكل جاكسون معروف بإنه ملك أنهي نوع من الموسيقى؟",
+    "question_en": "Hamo Bika is a popular Egyptian singer known for which music style?",
+    "question_ar": "حمو بيكا مطرب مصري مشهور بأنهي نوع من الغناء؟",
     "options": [
-      {
-        "en": "Reggae",
-        "ar": "الريجي"
-      },
-      {
-        "en": "Pop",
-        "ar": "البوب"
-      },
-      {
-        "en": "Jazz",
-        "ar": "الجاز"
-      },
-      {
-        "en": "Rock",
-        "ar": "الروك"
-      }
+      { "en": "Mahraganat", "ar": "مهرجانات" },
+      { "en": "Classical", "ar": "كلاسيك" },
+      { "en": "Jazz", "ar": "جاز" },
+      { "en": "Reggae", "ar": "ريجي" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Michael Jackson is called the \"King of Pop\".",
-    "explanation_ar": "مايكل جاكسون لقبه \"ملك البوب\"."
+    "correctAnswer": 0,
+    "explanation_en": "Hamo Bika is one of Egypt's most popular mahraganat singers.",
+    "explanation_ar": "حمو بيكا من أشهر مطربين المهرجانات في مصر."
   },
   {
     "id": "MUS-010-006",
@@ -158,22 +98,10 @@
     "question_en": "How many strings does a standard guitar have?",
     "question_ar": "الجيتار العادي بيبقى فيه كام وتر؟",
     "options": [
-      {
-        "en": "6",
-        "ar": "6"
-      },
-      {
-        "en": "4",
-        "ar": "4"
-      },
-      {
-        "en": "5",
-        "ar": "5"
-      },
-      {
-        "en": "8",
-        "ar": "8"
-      }
+      { "en": "6", "ar": "6" },
+      { "en": "4", "ar": "4" },
+      { "en": "5", "ar": "5" },
+      { "en": "8", "ar": "8" }
     ],
     "correctAnswer": 0,
     "explanation_en": "A standard guitar has 6 strings.",
@@ -185,29 +113,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Elvis Presley is famously called the King of ___?",
-    "question_ar": "إلفيس بريسلي معروف بإنه ملك أنهي حاجة؟",
+    "question_en": "Marwan Moussa is best known in Egypt for which music style?",
+    "question_ar": "مروان موسى معروف في مصر بأنهي نوع موسيقى؟",
     "options": [
-      {
-        "en": "Blues",
-        "ar": "البلوز"
-      },
-      {
-        "en": "Disco",
-        "ar": "الديسكو"
-      },
-      {
-        "en": "Country",
-        "ar": "الكانتري"
-      },
-      {
-        "en": "Rock and Roll",
-        "ar": "الروك آند رول"
-      }
+      { "en": "Trap/Rap", "ar": "تراب/راب" },
+      { "en": "Classical", "ar": "كلاسيك" },
+      { "en": "Jazz", "ar": "جاز" },
+      { "en": "Reggae", "ar": "ريجي" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Elvis Presley is known as the \"King of Rock and Roll\".",
-    "explanation_ar": "إلفيس بريسلي لقبه \"ملك الروك آند رول\"."
+    "correctAnswer": 0,
+    "explanation_en": "Marwan Moussa is a well-known Egyptian rapper and producer.",
+    "explanation_ar": "مروان موسى رابر ومنتج مصري معروف."
   },
   {
     "id": "MUS-010-008",
@@ -218,22 +134,10 @@
     "question_en": "Which Egyptian rapper sang the hit song \"Ezz El Arab\"?",
     "question_ar": "مين المطرب المصري اللي غنى أغنية \"عز العرب\"؟",
     "options": [
-      {
-        "en": "Wegz",
-        "ar": "ويجز"
-      },
-      {
-        "en": "Mohamed Ramadan",
-        "ar": "محمد رمضان"
-      },
-      {
-        "en": "Marwan Pablo",
-        "ar": "مروان بابلو"
-      },
-      {
-        "en": "Afroto",
-        "ar": "أفروتو"
-      }
+      { "en": "Wegz", "ar": "ويجز" },
+      { "en": "Mohamed Ramadan", "ar": "محمد رمضان" },
+      { "en": "Marwan Pablo", "ar": "مروان بابلو" },
+      { "en": "Afroto", "ar": "أفروتو" }
     ],
     "correctAnswer": 0,
     "explanation_en": "\"Ezz El Arab\" is one of Wegz's biggest hits.",
@@ -246,28 +150,16 @@
     "value": 10,
     "difficulty": 1,
     "question_en": "Which of these singers is Egyptian?",
-    "question_ar": "مين من دول مطربة مصرية؟",
+    "question_ar": "مين من دول مطرب مصري؟",
     "options": [
-      {
-        "en": "Fairuz",
-        "ar": "فيروز"
-      },
-      {
-        "en": "Nancy Ajram",
-        "ar": "نانسي عجرم"
-      },
-      {
-        "en": "Sherine",
-        "ar": "شيرين"
-      },
-      {
-        "en": "Elissa",
-        "ar": "إليسا"
-      }
+      { "en": "Omar Kamal", "ar": "عمر كمال" },
+      { "en": "Saad Lamjarred", "ar": "سعد لمجرد" },
+      { "en": "Balqees", "ar": "بلقيس" },
+      { "en": "Ragheb Alama", "ar": "راغب علامة" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Sherine Abdel Wahab is an Egyptian singer.",
-    "explanation_ar": "شيرين عبد الوهاب مطربة مصرية."
+    "correctAnswer": 0,
+    "explanation_en": "Omar Kamal is an Egyptian singer.",
+    "explanation_ar": "عمر كمال مطرب مصري."
   },
   {
     "id": "MUS-010-010",
@@ -275,29 +167,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Ragheb Alama, a famous singer known for hits like \"Betfaker Fiya\", is from which country?",
-    "question_ar": "راغب علامة، المطرب المشهور بأغاني زي \"بتفكر فيا\"، من أنهي بلد؟",
+    "question_en": "Molotof is known in Egypt's music scene as an artist in which genre?",
+    "question_ar": "مولوتوف معروف في مصر كفنان في أنهي نوع موسيقى؟",
     "options": [
-      {
-        "en": "Egypt",
-        "ar": "مصر"
-      },
-      {
-        "en": "Lebanon",
-        "ar": "لبنان"
-      },
-      {
-        "en": "Jordan",
-        "ar": "الأردن"
-      },
-      {
-        "en": "Syria",
-        "ar": "سوريا"
-      }
+      { "en": "Rap/Trap", "ar": "راب/تراب" },
+      { "en": "Classical", "ar": "كلاسيك" },
+      { "en": "Folk", "ar": "فلكلور" },
+      { "en": "Jazz", "ar": "جاز" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Ragheb Alama is a well-known Lebanese singer.",
-    "explanation_ar": "راغب علامة مطرب لبناني معروف."
+    "correctAnswer": 0,
+    "explanation_en": "Molotof is an Egyptian rap/trap artist.",
+    "explanation_ar": "مولوتوف فنان راب/تراب مصري."
   },
   {
     "id": "MUS-010-011",
@@ -305,29 +185,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Which Egyptian singer, known simply as \"Hamaki\", is a popular romantic pop star who rose to fame in the 2000s?",
-    "question_ar": "أنهي مطرب مصري، معروف باسم \"حماقي\"، نجم بوب رومانسي مشهور طلع في الألفينات؟",
+    "question_en": "\"3 Daqat\" is a famous collab track by Wegz, Afroto, and which other Egyptian rapper?",
+    "question_ar": "أغنية \"3 دقات\" تعاون شهير بين ويجز وأفروتو ومين كمان؟",
     "options": [
-      {
-        "en": "Mohamed Hamaki",
-        "ar": "محمد حماقي"
-      },
-      {
-        "en": "Tamer Hosny",
-        "ar": "تامر حسني"
-      },
-      {
-        "en": "Amr Diab",
-        "ar": "عمرو دياب"
-      },
-      {
-        "en": "Ehab Tawfik",
-        "ar": "إيهاب توفيق"
-      }
+      { "en": "Marwan Pablo", "ar": "مروان بابلو" },
+      { "en": "Abyusif", "ar": "أبيوسف" },
+      { "en": "Molotof", "ar": "مولوتوف" },
+      { "en": "Tul8te", "ar": "توليت" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Mohamed Hamaki, known as \"Hamaki\", is a popular Egyptian romantic pop singer.",
-    "explanation_ar": "محمد حماقي، المعروف باسم \"حماقي\"، مطرب بوب رومانسي مصري مشهور."
+    "explanation_en": "\"3 Daqat\" brought together Wegz, Afroto, and Marwan Pablo.",
+    "explanation_ar": "\"3 دقات\" جمعت ويجز وأفروتو ومروان بابلو."
   },
   {
     "id": "MUS-010-012",
@@ -335,29 +203,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Which instrument has 88 keys?",
-    "question_ar": "أنهي آلة موسيقية فيها 88 مفتاح؟",
+    "question_en": "Ahmed Saad, known for wedding/pop hits, is a singer from which country?",
+    "question_ar": "أحمد سعد، المطرب المشهور بأغاني الأفراح والبوب، من أنهي بلد؟",
     "options": [
-      {
-        "en": "Drum",
-        "ar": "طبلة"
-      },
-      {
-        "en": "Piano",
-        "ar": "بيانو"
-      },
-      {
-        "en": "Violin",
-        "ar": "كمان"
-      },
-      {
-        "en": "Guitar",
-        "ar": "جيتار"
-      }
+      { "en": "Egypt", "ar": "مصر" },
+      { "en": "Lebanon", "ar": "لبنان" },
+      { "en": "Jordan", "ar": "الأردن" },
+      { "en": "Syria", "ar": "سوريا" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "A standard piano has 88 keys.",
-    "explanation_ar": "البيانو العادي فيه 88 مفتاح."
+    "correctAnswer": 0,
+    "explanation_en": "Ahmed Saad is a popular Egyptian singer.",
+    "explanation_ar": "أحمد سعد مطرب مصري مشهور."
   },
   {
     "id": "MUS-010-013",
@@ -368,22 +224,10 @@
     "question_en": "Tamer Hosny is famous in Egypt as both a singer and a(n) ___?",
     "question_ar": "تامر حسني مشهور في مصر كمطرب و ___ كمان؟",
     "options": [
-      {
-        "en": "Painter",
-        "ar": "رسام"
-      },
-      {
-        "en": "Chef",
-        "ar": "شيف"
-      },
-      {
-        "en": "Actor",
-        "ar": "ممثل"
-      },
-      {
-        "en": "Footballer",
-        "ar": "لاعب كورة"
-      }
+      { "en": "Painter", "ar": "رسام" },
+      { "en": "Chef", "ar": "شيف" },
+      { "en": "Actor", "ar": "ممثل" },
+      { "en": "Footballer", "ar": "لاعب كورة" }
     ],
     "correctAnswer": 2,
     "explanation_en": "Tamer Hosny is a singer and actor.",
@@ -398,22 +242,10 @@
     "question_en": "Mohamed Mounir is nicknamed \"El ___\" by his fans?",
     "question_ar": "محمد منير جمهوره بينده عليه \"ال ___\"؟",
     "options": [
-      {
-        "en": "Zaeem",
-        "ar": "زعيم"
-      },
-      {
-        "en": "Basha",
-        "ar": "باشا"
-      },
-      {
-        "en": "King",
-        "ar": "كينج"
-      },
-      {
-        "en": "Sultan",
-        "ar": "سلطان"
-      }
+      { "en": "Zaeem", "ar": "زعيم" },
+      { "en": "Basha", "ar": "باشا" },
+      { "en": "King", "ar": "كينج" },
+      { "en": "Sultan", "ar": "سلطان" }
     ],
     "correctAnswer": 2,
     "explanation_en": "Mohamed Mounir is nicknamed \"El King\".",
@@ -425,29 +257,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Abdel Halim Hafez was famously nicknamed \"El ___\" (the Nightingale)?",
-    "question_ar": "عبد الحليم حافظ كان معروف بلقب \"ال ___\" (العندليب)؟",
+    "question_en": "Tul8te is an Egyptian artist best known for which music genre?",
+    "question_ar": "توليت فنان مصري معروف بأنهي نوع موسيقى؟",
     "options": [
-      {
-        "en": "Kabtin",
-        "ar": "كابتن"
-      },
-      {
-        "en": "Sindibad",
-        "ar": "سندباد"
-      },
-      {
-        "en": "Andalib",
-        "ar": "عندليب"
-      },
-      {
-        "en": "Amir",
-        "ar": "أمير"
-      }
+      { "en": "Rap/Trap", "ar": "راب/تراب" },
+      { "en": "Jazz", "ar": "جاز" },
+      { "en": "Classical", "ar": "كلاسيك" },
+      { "en": "Blues", "ar": "بلوز" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Abdel Halim Hafez was known as \"El Andalib\" (The Nightingale).",
-    "explanation_ar": "عبد الحليم حافظ كان لقبه \"العندليب\"."
+    "correctAnswer": 0,
+    "explanation_en": "Tul8te is known as an Egyptian rap/trap artist.",
+    "explanation_ar": "توليت معروف كفنان راب/تراب مصري."
   },
   {
     "id": "MUS-010-016",
@@ -455,29 +275,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Fairuz is one of the most famous singers from which country?",
-    "question_ar": "فيروز من أشهر مطربات أنهي بلد؟",
+    "question_en": "Shahin is an Egyptian rapper known for which music style?",
+    "question_ar": "شاهين رابر مصري معروف بأنهي نوع موسيقى؟",
     "options": [
-      {
-        "en": "Lebanon",
-        "ar": "لبنان"
-      },
-      {
-        "en": "Iraq",
-        "ar": "العراق"
-      },
-      {
-        "en": "Syria",
-        "ar": "سوريا"
-      },
-      {
-        "en": "Jordan",
-        "ar": "الأردن"
-      }
+      { "en": "Trap/Rap", "ar": "تراب/راب" },
+      { "en": "Reggae", "ar": "ريجي" },
+      { "en": "Jazz", "ar": "جاز" },
+      { "en": "Classical", "ar": "كلاسيك" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Fairuz is a legendary Lebanese singer.",
-    "explanation_ar": "فيروز مطربة لبنانية أسطورية."
+    "explanation_en": "Shahin is known as part of Egypt's modern rap/trap scene.",
+    "explanation_ar": "شاهين معروف كجزء من مشهد الراب/التراب المصري الحديث."
   },
   {
     "id": "MUS-010-017",
@@ -485,29 +293,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Najwa Karam, a famous Arab singer known as \"Sultanat Al Tarab\", is from which country?",
-    "question_ar": "نجوى كرم، المطربة العربية المشهورة بلقب \"سلطانة الطرب\"، من أنهي بلد؟",
+    "question_en": "Balqees, a well-known coach on Arabic singing talent shows, is originally from which country?",
+    "question_ar": "بلقيس، المدربة المعروفة في برامج المواهب الغنائية العربية، أصلها من أنهي بلد؟",
     "options": [
-      {
-        "en": "Egypt",
-        "ar": "مصر"
-      },
-      {
-        "en": "Syria",
-        "ar": "سوريا"
-      },
-      {
-        "en": "Lebanon",
-        "ar": "لبنان"
-      },
-      {
-        "en": "Jordan",
-        "ar": "الأردن"
-      }
+      { "en": "Yemen", "ar": "اليمن" },
+      { "en": "Saudi Arabia", "ar": "السعودية" },
+      { "en": "UAE", "ar": "الإمارات" },
+      { "en": "Bahrain", "ar": "البحرين" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Najwa Karam is a Lebanese singer nicknamed \"Sultanat Al Tarab\".",
-    "explanation_ar": "نجوى كرم مطربة لبنانية ملقبة بـ\"سلطانة الطرب\"."
+    "correctAnswer": 0,
+    "explanation_en": "Balqees is a Yemeni singer known across the Arab world.",
+    "explanation_ar": "بلقيس مطربة يمنية معروفة في العالم العربي."
   },
   {
     "id": "MUS-010-018",
@@ -515,29 +311,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Justin Bieber, singer of \"Baby\", is from which country?",
-    "question_ar": "جاستن بيبر مغني أغنية \"Baby\" من أنهي بلد؟",
+    "question_en": "Ragheb Alama, a veteran Arab singer known for hits like \"Betfaker Fiya\", is from which country?",
+    "question_ar": "راغب علامة، المطرب العربي القديم المعروف بأغنية زي \"بتفكر فيا\"، من أنهي بلد؟",
     "options": [
-      {
-        "en": "USA",
-        "ar": "أمريكا"
-      },
-      {
-        "en": "Australia",
-        "ar": "أستراليا"
-      },
-      {
-        "en": "Canada",
-        "ar": "كندا"
-      },
-      {
-        "en": "UK",
-        "ar": "بريطانيا"
-      }
+      { "en": "Egypt", "ar": "مصر" },
+      { "en": "Lebanon", "ar": "لبنان" },
+      { "en": "Jordan", "ar": "الأردن" },
+      { "en": "Syria", "ar": "سوريا" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Justin Bieber is Canadian.",
-    "explanation_ar": "جاستن بيبر كندي الجنسية."
+    "correctAnswer": 1,
+    "explanation_en": "Ragheb Alama is a well-known Lebanese singer.",
+    "explanation_ar": "راغب علامة مطرب لبناني معروف."
   },
   {
     "id": "MUS-010-019",
@@ -548,22 +332,10 @@
     "question_en": "Rihanna, singer of \"Umbrella\", originally comes from which country?",
     "question_ar": "ريهانا مغنية \"Umbrella\" أصلها من أنهي بلد؟",
     "options": [
-      {
-        "en": "Barbados",
-        "ar": "باربادوس"
-      },
-      {
-        "en": "Trinidad",
-        "ar": "ترينيداد"
-      },
-      {
-        "en": "Bahamas",
-        "ar": "الباهاماس"
-      },
-      {
-        "en": "Jamaica",
-        "ar": "جامايكا"
-      }
+      { "en": "Barbados", "ar": "باربادوس" },
+      { "en": "Trinidad", "ar": "ترينيداد" },
+      { "en": "Bahamas", "ar": "الباهاماس" },
+      { "en": "Jamaica", "ar": "جامايكا" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Rihanna is from Barbados.",
@@ -578,22 +350,10 @@
     "question_en": "Ed Sheeran had a massive hit in 2017 called \"Shape of ___\"?",
     "question_ar": "إد شيران عمل هيت ضخم سنة 2017 اسمه \"Shape of ___\"؟",
     "options": [
-      {
-        "en": "Life",
-        "ar": "لايف"
-      },
-      {
-        "en": "Love",
-        "ar": "لاف"
-      },
-      {
-        "en": "You",
-        "ar": "يو"
-      },
-      {
-        "en": "Us",
-        "ar": "أس"
-      }
+      { "en": "Life", "ar": "لايف" },
+      { "en": "Love", "ar": "لاف" },
+      { "en": "You", "ar": "يو" },
+      { "en": "Us", "ar": "أس" }
     ],
     "correctAnswer": 2,
     "explanation_en": "\"Shape of You\" was a global Ed Sheeran hit.",
@@ -608,22 +368,10 @@
     "question_en": "Drake, one of the world's biggest rappers, is from which city?",
     "question_ar": "دريك واحد من أكبر رابرز في العالم من أنهي مدينة؟",
     "options": [
-      {
-        "en": "Los Angeles",
-        "ar": "لوس أنجلوس"
-      },
-      {
-        "en": "New York",
-        "ar": "نيويورك"
-      },
-      {
-        "en": "Atlanta",
-        "ar": "أتلانتا"
-      },
-      {
-        "en": "Toronto",
-        "ar": "تورونتو"
-      }
+      { "en": "Los Angeles", "ar": "لوس أنجلوس" },
+      { "en": "New York", "ar": "نيويورك" },
+      { "en": "Atlanta", "ar": "أتلانتا" },
+      { "en": "Toronto", "ar": "تورونتو" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Drake is from Toronto, Canada.",
@@ -635,29 +383,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Which classic Whitney Houston song famously goes \"I will always love you\"?",
-    "question_ar": "أنهي أغنية شهيرة لويتني هيوستن بيكون فيها \"I will always love you\"؟",
+    "question_en": "The Weeknd, singer of \"Blinding Lights\", is originally from which country?",
+    "question_ar": "ذا ويكند، مغني \"Blinding Lights\"، أصله من أنهي بلد؟",
     "options": [
-      {
-        "en": "I Will Always Love You",
-        "ar": "I Will Always Love You"
-      },
-      {
-        "en": "I Wanna Dance With Somebody",
-        "ar": "I Wanna Dance With Somebody"
-      },
-      {
-        "en": "How Will I Know",
-        "ar": "How Will I Know"
-      },
-      {
-        "en": "Greatest Love of All",
-        "ar": "Greatest Love of All"
-      }
+      { "en": "Canada", "ar": "كندا" },
+      { "en": "USA", "ar": "أمريكا" },
+      { "en": "UK", "ar": "بريطانيا" },
+      { "en": "Jamaica", "ar": "جامايكا" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"I Will Always Love You\" is a Whitney Houston classic.",
-    "explanation_ar": "\"I Will Always Love You\" أغنية كلاسيكية لويتني هيوستن."
+    "explanation_en": "The Weeknd (Abel Tesfaye) was born in Toronto, Canada.",
+    "explanation_ar": "ذا ويكند (أبل تسفاي) اتولد في تورونتو، كندا."
   },
   {
     "id": "MUS-010-023",
@@ -665,29 +401,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "The Beatles, one of the most famous bands ever, came from which city?",
-    "question_ar": "فرقة البيتلز، من أشهر الفرق في التاريخ، جت من أنهي مدينة؟",
+    "question_en": "BTS, one of the biggest K-pop groups in the world, is from which country?",
+    "question_ar": "فرقة BTS، واحدة من أكبر فرق الكي بوب في العالم، من أنهي بلد؟",
     "options": [
-      {
-        "en": "London",
-        "ar": "لندن"
-      },
-      {
-        "en": "Liverpool",
-        "ar": "ليفربول"
-      },
-      {
-        "en": "Glasgow",
-        "ar": "جلاسجو"
-      },
-      {
-        "en": "Manchester",
-        "ar": "مانشستر"
-      }
+      { "en": "South Korea", "ar": "كوريا الجنوبية" },
+      { "en": "Japan", "ar": "اليابان" },
+      { "en": "China", "ar": "الصين" },
+      { "en": "Thailand", "ar": "تايلاند" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "The Beatles formed in Liverpool, England.",
-    "explanation_ar": "فرقة البيتلز اتكونت في مدينة ليفربول."
+    "correctAnswer": 0,
+    "explanation_en": "BTS is a South Korean K-pop group.",
+    "explanation_ar": "BTS فرقة كي بوب من كوريا الجنوبية."
   },
   {
     "id": "MUS-010-024",
@@ -695,29 +419,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Shakira, singer of \"Waka Waka\", is from which country?",
-    "question_ar": "شاكيرا مغنية \"Waka Waka\" من أنهي بلد؟",
+    "question_en": "Bad Bunny, one of the biggest reggaeton stars in the world, is originally from ___?",
+    "question_ar": "باد باني، واحد من أكبر نجوم الريجيتون في العالم، أصله من ___؟",
     "options": [
-      {
-        "en": "Argentina",
-        "ar": "الأرجنتين"
-      },
-      {
-        "en": "Colombia",
-        "ar": "كولومبيا"
-      },
-      {
-        "en": "Mexico",
-        "ar": "المكسيك"
-      },
-      {
-        "en": "Spain",
-        "ar": "إسبانيا"
-      }
+      { "en": "Puerto Rico", "ar": "بورتوريكو" },
+      { "en": "Colombia", "ar": "كولومبيا" },
+      { "en": "Mexico", "ar": "المكسيك" },
+      { "en": "Dominican Republic", "ar": "جمهورية الدومينيكان" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Shakira is Colombian.",
-    "explanation_ar": "شاكيرا كولومبية الجنسية."
+    "correctAnswer": 0,
+    "explanation_en": "Bad Bunny (Benito Martinez Ocasio) is from Puerto Rico.",
+    "explanation_ar": "باد باني (بينيتو مارتينيز أوكاسيو) من بورتوريكو."
   },
   {
     "id": "MUS-010-025",
@@ -728,22 +440,10 @@
     "question_en": "Marwan Pablo is best known in Egypt for which music style?",
     "question_ar": "مروان بابلو معروف في مصر بأنهي نوع موسيقى؟",
     "options": [
-      {
-        "en": "Classical",
-        "ar": "كلاسيك"
-      },
-      {
-        "en": "Reggae",
-        "ar": "ريجي"
-      },
-      {
-        "en": "Jazz",
-        "ar": "جاز"
-      },
-      {
-        "en": "Trap/Rap",
-        "ar": "تراب/راب"
-      }
+      { "en": "Classical", "ar": "كلاسيك" },
+      { "en": "Reggae", "ar": "ريجي" },
+      { "en": "Jazz", "ar": "جاز" },
+      { "en": "Trap/Rap", "ar": "تراب/راب" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Marwan Pablo is a well-known Egyptian trap/rap artist.",
@@ -758,22 +458,10 @@
     "question_en": "Nancy Ajram, singer of \"Ah W Noss\", is originally from which country?",
     "question_ar": "نانسي عجرم مغنية \"آه ونص\" أصلها من أنهي بلد؟",
     "options": [
-      {
-        "en": "Syria",
-        "ar": "سوريا"
-      },
-      {
-        "en": "Egypt",
-        "ar": "مصر"
-      },
-      {
-        "en": "Jordan",
-        "ar": "الأردن"
-      },
-      {
-        "en": "Lebanon",
-        "ar": "لبنان"
-      }
+      { "en": "Syria", "ar": "سوريا" },
+      { "en": "Egypt", "ar": "مصر" },
+      { "en": "Jordan", "ar": "الأردن" },
+      { "en": "Lebanon", "ar": "لبنان" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Nancy Ajram is Lebanese.",
@@ -785,29 +473,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Elissa, one of the top Arab pop singers, is from which country?",
-    "question_ar": "إليسا واحدة من أكبر مطربات البوب العرب، من أنهي بلد؟",
+    "question_en": "Dua Lipa, singer of \"Levitating\" and \"Houdini\", is originally from which country?",
+    "question_ar": "ديوا ليپا، مغنية \"Levitating\" و\"Houdini\"، أصلها من أنهي بلد؟",
     "options": [
-      {
-        "en": "Morocco",
-        "ar": "المغرب"
-      },
-      {
-        "en": "Egypt",
-        "ar": "مصر"
-      },
-      {
-        "en": "Tunisia",
-        "ar": "تونس"
-      },
-      {
-        "en": "Lebanon",
-        "ar": "لبنان"
-      }
+      { "en": "UK", "ar": "بريطانيا" },
+      { "en": "Ireland", "ar": "أيرلندا" },
+      { "en": "Australia", "ar": "أستراليا" },
+      { "en": "USA", "ar": "أمريكا" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Elissa is Lebanese.",
-    "explanation_ar": "إليسا لبنانية الجنسية."
+    "correctAnswer": 0,
+    "explanation_en": "Dua Lipa was born in London, England.",
+    "explanation_ar": "ديوا ليپا اتولدت في لندن، بريطانيا."
   },
   {
     "id": "MUS-010-028",
@@ -818,22 +494,10 @@
     "question_en": "Mohamed Ramadan is known in Egypt as both an actor and a(n) ___?",
     "question_ar": "محمد رمضان معروف في مصر كممثل و ___ كمان؟",
     "options": [
-      {
-        "en": "Football coach",
-        "ar": "مدرب كورة"
-      },
-      {
-        "en": "Chef",
-        "ar": "شيف"
-      },
-      {
-        "en": "Painter",
-        "ar": "رسام"
-      },
-      {
-        "en": "Singer",
-        "ar": "مطرب"
-      }
+      { "en": "Football coach", "ar": "مدرب كورة" },
+      { "en": "Chef", "ar": "شيف" },
+      { "en": "Painter", "ar": "رسام" },
+      { "en": "Singer", "ar": "مطرب" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Mohamed Ramadan is a well-known actor and singer.",
@@ -848,22 +512,10 @@
     "question_en": "What is one of Amr Diab's most famous songs, \"Habibi Ya Nour El ___\"?",
     "question_ar": "إيه تكملة اسم واحدة من أشهر أغاني عمرو دياب \"حبيبي يا نور ال___\"؟",
     "options": [
-      {
-        "en": "Amar",
-        "ar": "قمر"
-      },
-      {
-        "en": "Shams",
-        "ar": "شمس"
-      },
-      {
-        "en": "Donya",
-        "ar": "دنيا"
-      },
-      {
-        "en": "Ain",
-        "ar": "عين"
-      }
+      { "en": "Amar", "ar": "قمر" },
+      { "en": "Shams", "ar": "شمس" },
+      { "en": "Donya", "ar": "دنيا" },
+      { "en": "Ain", "ar": "عين" }
     ],
     "correctAnswer": 3,
     "explanation_en": "\"Habibi Ya Nour El Ain\" is one of Amr Diab's most iconic hits.",
@@ -875,29 +527,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Assala Nasri, a famous Arab singer with a powerful voice, is originally from which country?",
-    "question_ar": "أصالة نصري، المطربة العربية بصوتها القوي، أصلها من أنهي بلد؟",
+    "question_en": "Rema, the Afrobeats star behind the global hit \"Calm Down\", is from which country?",
+    "question_ar": "ريما، نجم الأفروبيتس صاحب هيت \"Calm Down\" العالمي، من أنهي بلد؟",
     "options": [
-      {
-        "en": "Egypt",
-        "ar": "مصر"
-      },
-      {
-        "en": "Lebanon",
-        "ar": "لبنان"
-      },
-      {
-        "en": "Jordan",
-        "ar": "الأردن"
-      },
-      {
-        "en": "Syria",
-        "ar": "سوريا"
-      }
+      { "en": "Nigeria", "ar": "نيجيريا" },
+      { "en": "Ghana", "ar": "غانا" },
+      { "en": "Kenya", "ar": "كينيا" },
+      { "en": "South Africa", "ar": "جنوب أفريقيا" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Assala Nasri is a Syrian singer.",
-    "explanation_ar": "أصالة نصري مطربة سورية."
+    "correctAnswer": 0,
+    "explanation_en": "Rema is a Nigerian Afrobeats artist.",
+    "explanation_ar": "ريما فنان أفروبيتس نيجيري."
   },
   {
     "id": "MUS-010-031",
@@ -905,29 +545,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Which instrument is played using a bow and has 4 strings?",
-    "question_ar": "أنهي آلة موسيقية بتتعزف بقوس وفيها 4 أوتار؟",
+    "question_en": "Lege-Cy is an Egyptian artist known for blending Arabic lyrics with which international sound?",
+    "question_ar": "ليجسي فنان مصري معروف بمزج كلام عربي بأنهي نوع موسيقى عالمي؟",
     "options": [
-      {
-        "en": "Guitar",
-        "ar": "جيتار"
-      },
-      {
-        "en": "Oud",
-        "ar": "عود"
-      },
-      {
-        "en": "Piano",
-        "ar": "بيانو"
-      },
-      {
-        "en": "Violin",
-        "ar": "كمان"
-      }
+      { "en": "R&B", "ar": "آر آند بي" },
+      { "en": "Country", "ar": "كانتري" },
+      { "en": "Metal", "ar": "ميتال" },
+      { "en": "Opera", "ar": "أوبرا" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "The violin is played with a bow and has 4 strings.",
-    "explanation_ar": "الكمان بيتعزف بقوس وفيه 4 أوتار."
+    "correctAnswer": 0,
+    "explanation_en": "Lege-Cy blends Arabic lyrics with R&B-influenced sound.",
+    "explanation_ar": "ليجسي بيمزج الكلام العربي بأسلوب الآر آند بي."
   },
   {
     "id": "MUS-010-032",
@@ -935,29 +563,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Bob Marley, the reggae legend, was from which country?",
-    "question_ar": "بوب مارلي أسطورة الريجي كان من أنهي بلد؟",
+    "question_en": "Felukah is an Egyptian-American artist known for blending rap with which style?",
+    "question_ar": "فلوكة فنانة مصرية-أمريكية معروفة بمزج الراب بأنهي أسلوب؟",
     "options": [
-      {
-        "en": "Jamaica",
-        "ar": "جامايكا"
-      },
-      {
-        "en": "Bahamas",
-        "ar": "الباهاماس"
-      },
-      {
-        "en": "Haiti",
-        "ar": "هايتي"
-      },
-      {
-        "en": "Cuba",
-        "ar": "كوبا"
-      }
+      { "en": "Spoken word/poetry", "ar": "الشعر المنطوق" },
+      { "en": "Classical opera", "ar": "الأوبرا الكلاسيكية" },
+      { "en": "Country", "ar": "الكانتري" },
+      { "en": "Metal", "ar": "الميتال" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Bob Marley was from Jamaica.",
-    "explanation_ar": "بوب مارلي كان من جامايكا."
+    "explanation_en": "Felukah blends rap with poetic spoken word.",
+    "explanation_ar": "فلوكة بتمزج الراب بالشعر المنطوق."
   },
   {
     "id": "MUS-010-033",
@@ -965,29 +581,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Hussain Al Jassmi, singer of \"Boshret Kheir\", is from which country?",
-    "question_ar": "حسين الجسمي، مغني \"بشرة خير\"، من أنهي بلد؟",
+    "question_en": "Sharmoofers is a well-known Egyptian band in which music genre?",
+    "question_ar": "شارموفرز فرقة مصرية معروفة في أنهي نوع موسيقى؟",
     "options": [
-      {
-        "en": "Saudi Arabia",
-        "ar": "السعودية"
-      },
-      {
-        "en": "UAE",
-        "ar": "الإمارات"
-      },
-      {
-        "en": "Bahrain",
-        "ar": "البحرين"
-      },
-      {
-        "en": "Qatar",
-        "ar": "قطر"
-      }
+      { "en": "Indie/alternative pop-rock", "ar": "إندي/بوب روك بديل" },
+      { "en": "Classical", "ar": "كلاسيك" },
+      { "en": "Jazz", "ar": "جاز" },
+      { "en": "Opera", "ar": "أوبرا" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Hussain Al Jassmi is an Emirati singer.",
-    "explanation_ar": "حسين الجسمي مطرب إماراتي."
+    "correctAnswer": 0,
+    "explanation_en": "Sharmoofers is a popular Egyptian indie/alternative band.",
+    "explanation_ar": "شارموفرز فرقة إندي/بديلة مصرية مشهورة."
   },
   {
     "id": "MUS-010-034",
@@ -998,22 +602,10 @@
     "question_en": "Which Egyptian singer became a viral sensation with the mahraganat hit \"Bent El Giran\"?",
     "question_ar": "أنهي مطرب مصري بقى مشهور جدًا بأغنية المهرجانات الفيروسية \"بنت الجيران\"؟",
     "options": [
-      {
-        "en": "Hassan Shakosh",
-        "ar": "حسن شاكوش"
-      },
-      {
-        "en": "Afroto",
-        "ar": "أفروتو"
-      },
-      {
-        "en": "Wegz",
-        "ar": "ويجز"
-      },
-      {
-        "en": "Marwan Pablo",
-        "ar": "مروان بابلو"
-      }
+      { "en": "Hassan Shakosh", "ar": "حسن شاكوش" },
+      { "en": "Afroto", "ar": "أفروتو" },
+      { "en": "Wegz", "ar": "ويجز" },
+      { "en": "Marwan Pablo", "ar": "مروان بابلو" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Hassan Shakosh became hugely popular with \"Bent El Giran\".",
@@ -1025,29 +617,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Sherine Abdel Wahab's song \"Ya Retni\" is one of her most famous hits — she is from which country?",
-    "question_ar": "أغنية شيرين عبد الوهاب \"يا ريتني\" من أشهر أغانيها — هي من أنهي بلد؟",
+    "question_en": "Which of these songs is by Egyptian singer Hamza Namira?",
+    "question_ar": "أنهي أغنية من دول لحمزة نمرة؟",
     "options": [
-      {
-        "en": "Lebanon",
-        "ar": "لبنان"
-      },
-      {
-        "en": "Egypt",
-        "ar": "مصر"
-      },
-      {
-        "en": "Jordan",
-        "ar": "الأردن"
-      },
-      {
-        "en": "Syria",
-        "ar": "سوريا"
-      }
+      { "en": "Insan", "ar": "إنسان" },
+      { "en": "Nour El Ain", "ar": "نور العين" },
+      { "en": "Ezz El Arab", "ar": "عز العرب" },
+      { "en": "Bent El Giran", "ar": "بنت الجيران" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Sherine Abdel Wahab is Egyptian.",
-    "explanation_ar": "شيرين عبد الوهاب مصرية."
+    "correctAnswer": 0,
+    "explanation_en": "\"Insan\" is one of Hamza Namira's well-known songs.",
+    "explanation_ar": "\"إنسان\" من أغاني حمزة نمرة المعروفة."
   },
   {
     "id": "MUS-010-036",
@@ -1055,29 +635,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Which of these is a music streaming app?",
-    "question_ar": "أنهي واحدة من دول تطبيق لسماع الموسيقى؟",
+    "question_en": "Which app is best known for making short clips of songs go viral among young people?",
+    "question_ar": "أنهي تطبيق معروف بنشر مقاطع قصيرة من الأغاني بين الشباب بسرعة؟",
     "options": [
-      {
-        "en": "LinkedIn",
-        "ar": "لينكدإن"
-      },
-      {
-        "en": "Instagram",
-        "ar": "إنستجرام"
-      },
-      {
-        "en": "Snapchat",
-        "ar": "سناب شات"
-      },
-      {
-        "en": "Spotify",
-        "ar": "سبوتيفاي"
-      }
+      { "en": "TikTok", "ar": "تيك توك" },
+      { "en": "LinkedIn", "ar": "لينكدإن" },
+      { "en": "Zoom", "ar": "زوم" },
+      { "en": "Skype", "ar": "سكايب" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Spotify is a popular music streaming service.",
-    "explanation_ar": "سبوتيفاي تطبيق مشهور لسماع الموسيقى."
+    "correctAnswer": 0,
+    "explanation_en": "TikTok is well known for turning song clips into viral trends.",
+    "explanation_ar": "تيك توك معروف بنشر مقاطع الأغاني كترند بسرعة."
   },
   {
     "id": "MUS-010-037",
@@ -1088,22 +656,10 @@
     "question_en": "Which traditional Arabic wind instrument, a reed flute, is a key part of classical Arabic music ensembles?",
     "question_ar": "أنهي آلة نفخ عربية تقليدية، عبارة عن ناي من القصب، أساسية في فرق الموسيقى العربية الكلاسيكية؟",
     "options": [
-      {
-        "en": "Darbuka",
-        "ar": "الدربوكة"
-      },
-      {
-        "en": "Qanun",
-        "ar": "القانون"
-      },
-      {
-        "en": "Nay",
-        "ar": "الناي"
-      },
-      {
-        "en": "Oud",
-        "ar": "العود"
-      }
+      { "en": "Darbuka", "ar": "الدربوكة" },
+      { "en": "Qanun", "ar": "القانون" },
+      { "en": "Nay", "ar": "الناي" },
+      { "en": "Oud", "ar": "العود" }
     ],
     "correctAnswer": 2,
     "explanation_en": "The nay is a traditional reed flute central to Arabic music.",
@@ -1118,22 +674,10 @@
     "question_en": "Taylor Swift, one of the world's biggest pop stars, is from which country?",
     "question_ar": "تايلور سويفت واحدة من أكبر نجمات البوب في العالم، من أنهي بلد؟",
     "options": [
-      {
-        "en": "USA",
-        "ar": "أمريكا"
-      },
-      {
-        "en": "Canada",
-        "ar": "كندا"
-      },
-      {
-        "en": "UK",
-        "ar": "بريطانيا"
-      },
-      {
-        "en": "Australia",
-        "ar": "أستراليا"
-      }
+      { "en": "USA", "ar": "أمريكا" },
+      { "en": "Canada", "ar": "كندا" },
+      { "en": "UK", "ar": "بريطانيا" },
+      { "en": "Australia", "ar": "أستراليا" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Taylor Swift is American.",
@@ -1145,29 +689,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "What do we call a musical performance by a single singer with no other performers?",
-    "question_ar": "بيتقال إيه على أداء غنائي بمطرب واحد بس من غير حد تاني؟",
+    "question_en": "Abyusif is a well-known Egyptian artist in which music genre?",
+    "question_ar": "أبيوسف فنان مصري معروف في أنهي نوع موسيقى؟",
     "options": [
-      {
-        "en": "Solo",
-        "ar": "سولو"
-      },
-      {
-        "en": "Chorus",
-        "ar": "كورال"
-      },
-      {
-        "en": "Duet",
-        "ar": "دويتو"
-      },
-      {
-        "en": "Trio",
-        "ar": "تريو"
-      }
+      { "en": "Rap", "ar": "راب" },
+      { "en": "Reggae", "ar": "ريجي" },
+      { "en": "Classical", "ar": "كلاسيك" },
+      { "en": "Jazz", "ar": "جاز" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "A performance by one singer alone is called a solo.",
-    "explanation_ar": "الأداء بمطرب واحد لوحده اسمه سولو."
+    "explanation_en": "Abyusif is a prominent Egyptian rapper.",
+    "explanation_ar": "أبيوسف رابر مصري بارز."
   },
   {
     "id": "MUS-010-040",
@@ -1178,22 +710,10 @@
     "question_en": "What is a live performance of music in front of an audience usually called?",
     "question_ar": "بيتقال إيه على أداء موسيقى حي قدام جمهور؟",
     "options": [
-      {
-        "en": "Rehearsal",
-        "ar": "بروفة"
-      },
-      {
-        "en": "Broadcast",
-        "ar": "بث"
-      },
-      {
-        "en": "Concert",
-        "ar": "حفلة/كونسير"
-      },
-      {
-        "en": "Recording",
-        "ar": "تسجيل"
-      }
+      { "en": "Rehearsal", "ar": "بروفة" },
+      { "en": "Broadcast", "ar": "بث" },
+      { "en": "Concert", "ar": "حفلة/كونسير" },
+      { "en": "Recording", "ar": "تسجيل" }
     ],
     "correctAnswer": 2,
     "explanation_en": "A live music performance in front of an audience is called a concert.",
@@ -1205,29 +725,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Eminem, one of the most famous rappers ever, is from which US city?",
-    "question_ar": "إيمينم، واحد من أشهر الرابرز في التاريخ، من أنهي مدينة أمريكية؟",
+    "question_en": "Hussain Al Jassmi, singer of \"Boshret Kheir\", is from which country?",
+    "question_ar": "حسين الجسمي، مغني \"بشرة خير\"، من أنهي بلد؟",
     "options": [
-      {
-        "en": "Miami",
-        "ar": "ميامي"
-      },
-      {
-        "en": "Chicago",
-        "ar": "شيكاغو"
-      },
-      {
-        "en": "Boston",
-        "ar": "بوسطن"
-      },
-      {
-        "en": "Detroit",
-        "ar": "ديترويت"
-      }
+      { "en": "Saudi Arabia", "ar": "السعودية" },
+      { "en": "UAE", "ar": "الإمارات" },
+      { "en": "Bahrain", "ar": "البحرين" },
+      { "en": "Qatar", "ar": "قطر" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Eminem is closely associated with Detroit, Michigan.",
-    "explanation_ar": "إيمينم مرتبط بمدينة ديترويت."
+    "correctAnswer": 1,
+    "explanation_en": "Hussain Al Jassmi is an Emirati singer.",
+    "explanation_ar": "حسين الجسمي مطرب إماراتي."
   },
   {
     "id": "MUS-010-042",
@@ -1235,29 +743,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "What do we call the words of a song?",
-    "question_ar": "بيتقال إيه على كلام الأغنية؟",
+    "question_en": "Wizkid, singer of \"Essence\" with Tems, is from which country?",
+    "question_ar": "ويزكيد، مغني \"Essence\" مع تيمز، من أنهي بلد؟",
     "options": [
-      {
-        "en": "Chorus line",
-        "ar": "كورال"
-      },
-      {
-        "en": "Lyrics",
-        "ar": "كلمات"
-      },
-      {
-        "en": "Melody",
-        "ar": "لحن"
-      },
-      {
-        "en": "Rhythm",
-        "ar": "إيقاع"
-      }
+      { "en": "Nigeria", "ar": "نيجيريا" },
+      { "en": "Ghana", "ar": "غانا" },
+      { "en": "Ivory Coast", "ar": "ساحل العاج" },
+      { "en": "Kenya", "ar": "كينيا" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "The words of a song are called the lyrics.",
-    "explanation_ar": "كلام الأغنية اسمه \"كلمات\" (lyrics)."
+    "correctAnswer": 0,
+    "explanation_en": "Wizkid is a Nigerian Afrobeats star.",
+    "explanation_ar": "ويزكيد نجم أفروبيتس نيجيري."
   },
   {
     "id": "MUS-010-043",
@@ -1265,29 +761,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Which artist is famous for the song \"Thriller\" and the album of the same name?",
-    "question_ar": "أنهي فنان مشهور بأغنية وألبوم \"Thriller\"؟",
+    "question_en": "Burna Boy, the Nigerian Afrobeats star known for \"Last Last\", is from which country?",
+    "question_ar": "بيرنا بوي، نجم الأفروبيتس النيجيري صاحب أغنية \"Last Last\"، من أنهي بلد؟",
     "options": [
-      {
-        "en": "Michael Jackson",
-        "ar": "مايكل جاكسون"
-      },
-      {
-        "en": "Stevie Wonder",
-        "ar": "ستيفي وندر"
-      },
-      {
-        "en": "Prince",
-        "ar": "برنس"
-      },
-      {
-        "en": "James Brown",
-        "ar": "جيمس براون"
-      }
+      { "en": "Nigeria", "ar": "نيجيريا" },
+      { "en": "South Africa", "ar": "جنوب أفريقيا" },
+      { "en": "Ghana", "ar": "غانا" },
+      { "en": "Cameroon", "ar": "الكاميرون" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"Thriller\" is one of Michael Jackson's most famous works.",
-    "explanation_ar": "\"Thriller\" من أشهر أعمال مايكل جاكسون."
+    "explanation_en": "Burna Boy is a Grammy-winning Nigerian artist.",
+    "explanation_ar": "بيرنا بوي فنان نيجيري حاصل على جرامي."
   },
   {
     "id": "MUS-010-044",
@@ -1295,29 +779,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Which of these is a wind instrument you blow into?",
-    "question_ar": "أنهي آلة من دول بتتعزف عن طريق النفخ فيها؟",
+    "question_en": "Massar Egbari is a well-known Egyptian band in which music genre?",
+    "question_ar": "مسار إجباري فرقة مصرية معروفة في أنهي نوع موسيقى؟",
     "options": [
-      {
-        "en": "Piano",
-        "ar": "بيانو"
-      },
-      {
-        "en": "Drum",
-        "ar": "طبلة"
-      },
-      {
-        "en": "Flute",
-        "ar": "فلوت"
-      },
-      {
-        "en": "Guitar",
-        "ar": "جيتار"
-      }
+      { "en": "Alternative rock", "ar": "روك بديل" },
+      { "en": "Classical", "ar": "كلاسيك" },
+      { "en": "Jazz", "ar": "جاز" },
+      { "en": "Reggae", "ar": "ريجي" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "The flute is a wind instrument played by blowing.",
-    "explanation_ar": "الفلوت آلة هوائية بتتعزف بالنفخ."
+    "correctAnswer": 0,
+    "explanation_en": "Massar Egbari is a well-known Egyptian alternative rock band.",
+    "explanation_ar": "مسار إجباري فرقة روك بديل مصرية معروفة."
   },
   {
     "id": "MUS-010-045",
@@ -1328,22 +800,10 @@
     "question_en": "Wegz's song \"Dorak Gai\" was linked to which major 2022 sports event?",
     "question_ar": "أغنية ويجز \"دورك جاي\" كانت مرتبطة بأنهي حدث رياضي كبير سنة 2022؟",
     "options": [
-      {
-        "en": "FIFA World Cup",
-        "ar": "كأس العالم"
-      },
-      {
-        "en": "UEFA Euro",
-        "ar": "يورو"
-      },
-      {
-        "en": "Africa Cup of Nations",
-        "ar": "كأس أمم أفريقيا"
-      },
-      {
-        "en": "Olympics",
-        "ar": "الأولمبياد"
-      }
+      { "en": "FIFA World Cup", "ar": "كأس العالم" },
+      { "en": "UEFA Euro", "ar": "يورو" },
+      { "en": "Africa Cup of Nations", "ar": "كأس أمم أفريقيا" },
+      { "en": "Olympics", "ar": "الأولمبياد" }
     ],
     "correctAnswer": 0,
     "explanation_en": "\"Dorak Gai\" was released as part of the 2022 FIFA World Cup in Qatar.",
@@ -1355,29 +815,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "What is the term for a song performed with no instruments, using only voices?",
-    "question_ar": "بيتقال إيه على أغنية بتتغنى بالصوت بس من غير أي آلات؟",
+    "question_en": "Which of these songs is by the Egyptian band Cairokee?",
+    "question_ar": "أنهي أغنية من دول لفرقة كايروكي؟",
     "options": [
-      {
-        "en": "A cappella",
-        "ar": "أكابيلا"
-      },
-      {
-        "en": "Instrumental",
-        "ar": "إنسترومنتال"
-      },
-      {
-        "en": "Remix",
-        "ar": "ريمكس"
-      },
-      {
-        "en": "Cover",
-        "ar": "كفر"
-      }
+      { "en": "Sout El Horeya", "ar": "صوت الحرية" },
+      { "en": "Ezz El Arab", "ar": "عز العرب" },
+      { "en": "Bent El Giran", "ar": "بنت الجيران" },
+      { "en": "Dorak Gai", "ar": "دورك جاي" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "A song performed with voices only is called a cappella.",
-    "explanation_ar": "الأغنية اللي بتتغنى بالصوت بس اسمها أكابيلا."
+    "explanation_en": "\"Sout El Horeya\" (Voice of Freedom) is one of Cairokee's most famous songs.",
+    "explanation_ar": "\"صوت الحرية\" من أشهر أغاني كايروكي."
   },
   {
     "id": "MUS-010-047",
@@ -1388,22 +836,10 @@
     "question_en": "Which legendary Egyptian composer wrote the music for Egypt's national anthem?",
     "question_ar": "أنهي ملحن مصري أسطوري لحن النشيد الوطني المصري؟",
     "options": [
-      {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      },
-      {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
-      },
-      {
-        "en": "Kamal El Taweel",
-        "ar": "كمال الطويل"
-      },
-      {
-        "en": "Sayed Darwish",
-        "ar": "سيد درويش"
-      }
+      { "en": "Mohamed Abdel Wahab", "ar": "محمد عبد الوهاب" },
+      { "en": "Baligh Hamdi", "ar": "بليغ حمدي" },
+      { "en": "Kamal El Taweel", "ar": "كمال الطويل" },
+      { "en": "Sayed Darwish", "ar": "سيد درويش" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Sayed Darwish, the father of Egyptian popular music, composed the anthem's melody.",
@@ -1415,29 +851,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Queen's Freddie Mercury was famous for singing which hit, \"Bohemian ___\"?",
-    "question_ar": "فريدي ميركوري مطرب فرقة كوين اشتهر بأغنية \"Bohemian ___\"؟",
+    "question_en": "Karol G, known for hits like \"Tusa\" and \"Bichota\", is from which country?",
+    "question_ar": "كارول جي، معروفة بأغاني زي \"Tusa\" و\"Bichota\"، من أنهي بلد؟",
     "options": [
-      {
-        "en": "Rhapsody",
-        "ar": "رابسودي"
-      },
-      {
-        "en": "Requiem",
-        "ar": "ريكويم"
-      },
-      {
-        "en": "Symphony",
-        "ar": "سيمفوني"
-      },
-      {
-        "en": "Serenade",
-        "ar": "سيرينيد"
-      }
+      { "en": "Colombia", "ar": "كولومبيا" },
+      { "en": "Mexico", "ar": "المكسيك" },
+      { "en": "Argentina", "ar": "الأرجنتين" },
+      { "en": "Puerto Rico", "ar": "بورتوريكو" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"Bohemian Rhapsody\" is Queen's most iconic song.",
-    "explanation_ar": "\"Bohemian Rhapsody\" أشهر أغاني فرقة كوين."
+    "explanation_en": "Karol G is a Colombian reggaeton/Latin pop star.",
+    "explanation_ar": "كارول جي نجمة ريجيتون/بوب لاتيني كولومبية."
   },
   {
     "id": "MUS-010-049",
@@ -1445,29 +869,17 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "What do you call a small group of usually 3 musicians or singers performing together?",
-    "question_ar": "بيتقال إيه على مجموعة صغيرة من 3 موسيقيين أو مطربين بيغنوا مع بعض؟",
+    "question_en": "Which of these Egyptian artists is known for mahraganat rather than rap/trap?",
+    "question_ar": "مين من دول فنان مصري معروف بالمهرجانات مش الراب/التراب؟",
     "options": [
-      {
-        "en": "Duo",
-        "ar": "ديو"
-      },
-      {
-        "en": "Quartet",
-        "ar": "كوارتيت"
-      },
-      {
-        "en": "Quintet",
-        "ar": "كوينتيت"
-      },
-      {
-        "en": "Trio",
-        "ar": "تريو"
-      }
+      { "en": "Hamo Bika", "ar": "حمو بيكا" },
+      { "en": "Wegz", "ar": "ويجز" },
+      { "en": "Marwan Pablo", "ar": "مروان بابلو" },
+      { "en": "Abyusif", "ar": "أبيوسف" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "A group of three performers is called a trio.",
-    "explanation_ar": "مجموعة من 3 أشخاص بيغنوا مع بعض اسمها تريو."
+    "correctAnswer": 0,
+    "explanation_en": "Hamo Bika is known for mahraganat, while the others are known for rap/trap.",
+    "explanation_ar": "حمو بيكا معروف بالمهرجانات، والباقي معروفين بالراب/التراب."
   },
   {
     "id": "MUS-010-050",
@@ -1475,28 +887,16 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Which international artist is known as the \"Queen of Pop\"?",
-    "question_ar": "أنهي فنانة عالمية معروفة بلقب \"ملكة البوب\"؟",
+    "question_en": "Molotof, Marwan Pablo, and Abyusif are all part of which Egyptian music scene?",
+    "question_ar": "مولوتوف ومروان بابلو وأبيوسف كلهم جزء من أنهي مشهد موسيقي مصري؟",
     "options": [
-      {
-        "en": "Madonna",
-        "ar": "مادونا"
-      },
-      {
-        "en": "Lady Gaga",
-        "ar": "ليدي جاجا"
-      },
-      {
-        "en": "Cher",
-        "ar": "شير"
-      },
-      {
-        "en": "Celine Dion",
-        "ar": "سيلين ديون"
-      }
+      { "en": "Trap/Rap", "ar": "تراب/راب" },
+      { "en": "Shaabi", "ar": "شعبي" },
+      { "en": "Classical", "ar": "كلاسيك" },
+      { "en": "Jazz", "ar": "جاز" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Madonna has long been called the \"Queen of Pop\".",
-    "explanation_ar": "مادونا معروفة من زمان بلقب \"ملكة البوب\"."
+    "explanation_en": "These three are leading figures in Egypt's modern trap/rap scene.",
+    "explanation_ar": "التلاتة دول من أهم أسماء مشهد التراب/الراب المصري الحديث."
   }
 ]

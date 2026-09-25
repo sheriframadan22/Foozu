@@ -8,22 +8,10 @@
     "question_en": "Who composed the music for Umm Kulthum's classic \"Enta Omri\"?",
     "question_ar": "مين اللي لحن أغنية أم كلثوم \"إنت عمري\"؟",
     "options": [
-      {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
-      },
-      {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      },
-      {
-        "en": "Riad El Sonbati",
-        "ar": "رياض السنباطي"
-      },
-      {
-        "en": "Kamal El Taweel",
-        "ar": "كمال الطويل"
-      }
+      { "en": "Baligh Hamdi", "ar": "بليغ حمدي" },
+      { "en": "Mohamed Abdel Wahab", "ar": "محمد عبد الوهاب" },
+      { "en": "Riad El Sonbati", "ar": "رياض السنباطي" },
+      { "en": "Kamal El Taweel", "ar": "كمال الطويل" }
     ],
     "correctAnswer": 1,
     "explanation_en": "Mohamed Abdel Wahab composed \"Enta Omri\" in a landmark collaboration with Umm Kulthum.",
@@ -35,29 +23,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which Egyptian composer wrote the music for most of Umm Kulthum's religious and classical poetry songs, like \"Al Atlal\"?",
-    "question_ar": "أنهي ملحن مصري لحن معظم أغاني أم كلثوم الدينية والقصائد الكلاسيكية زي \"الأطلال\"؟",
+    "question_en": "Amr Diab has repeatedly won which international award for being the region's top-selling artist?",
+    "question_ar": "عمرو دياب فاز أكتر من مرة بأنهي جايزة عالمية كأكتر فنان مبيعًا في الشرق الأوسط؟",
     "options": [
-      {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
-      },
-      {
-        "en": "Riad El Sonbati",
-        "ar": "رياض السنباطي"
-      },
-      {
-        "en": "Mohamed El Mougy",
-        "ar": "محمد الموجي"
-      },
-      {
-        "en": "Sayed Mekawy",
-        "ar": "سيد مكاوي"
-      }
+      { "en": "World Music Awards", "ar": "جوايز الوورلد ميوزيك" },
+      { "en": "Grammy Awards", "ar": "جرامي" },
+      { "en": "MTV Awards", "ar": "إم تي في" },
+      { "en": "Billboard Music Awards", "ar": "بيلبورد" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Riad El Sonbati composed \"Al Atlal\" and many of Umm Kulthum's classical works.",
-    "explanation_ar": "رياض السنباطي هو ملحن \"الأطلال\" وكتير من أغاني أم كلثوم الكلاسيكية."
+    "correctAnswer": 0,
+    "explanation_en": "Amr Diab has won the World Music Award for best-selling Middle Eastern artist multiple times.",
+    "explanation_ar": "عمرو دياب فاز بجايزة الوورلد ميوزيك لأكتر فنان مبيعًا في الشرق الأوسط أكتر من مرة."
   },
   {
     "id": "MUS-050-003",
@@ -68,22 +44,10 @@
     "question_en": "Which Egyptian singer/actor was known as \"El Andalib\" and died at a young age in 1977?",
     "question_ar": "أنهي مطرب وممثل مصري كان معروف بـ\"العندليب\" ومات وهو لسه صغير في 1977؟",
     "options": [
-      {
-        "en": "Mohamed Fawzi",
-        "ar": "محمد فوزي"
-      },
-      {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبد الحليم حافظ"
-      },
-      {
-        "en": "Farid El Atrache",
-        "ar": "فريد الأطرش"
-      },
-      {
-        "en": "Karem Mahmoud",
-        "ar": "كارم محمود"
-      }
+      { "en": "Mohamed Fawzi", "ar": "محمد فوزي" },
+      { "en": "Abdel Halim Hafez", "ar": "عبد الحليم حافظ" },
+      { "en": "Farid El Atrache", "ar": "فريد الأطرش" },
+      { "en": "Karem Mahmoud", "ar": "كارم محمود" }
     ],
     "correctAnswer": 1,
     "explanation_en": "Abdel Halim Hafez, \"El Andalib\", died in 1977 at age 48.",
@@ -95,29 +59,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which pop icon's real name is \"Stefani Joanne Angelina Germanotta\"?",
-    "question_ar": "أنهي نجمة بوب اسمها الحقيقي \"Stefani Joanne Angelina Germanotta\"؟",
+    "question_en": "The Weeknd's real name, rarely used publicly, is ___?",
+    "question_ar": "الاسم الحقيقي لذا ويكند هو ___؟",
     "options": [
-      {
-        "en": "Katy Perry",
-        "ar": "كاتي بيري"
-      },
-      {
-        "en": "Ariana Grande",
-        "ar": "أريانا جراندي"
-      },
-      {
-        "en": "Miley Cyrus",
-        "ar": "مايلي سايرس"
-      },
-      {
-        "en": "Lady Gaga",
-        "ar": "ليدي جاجا"
-      }
+      { "en": "Abel Tesfaye", "ar": "أبل تسفاي" },
+      { "en": "Adam Levine", "ar": "آدم ليفين" },
+      { "en": "Aaron Carter", "ar": "آرون كارتر" },
+      { "en": "Andrew Taggart", "ar": "أندرو تاجارت" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Stefani Germanotta is Lady Gaga's real name.",
-    "explanation_ar": "ستيفاني جيرمانوتا هو الاسم الحقيقي لليدي جاجا."
+    "correctAnswer": 0,
+    "explanation_en": "The Weeknd's real name is Abel Tesfaye.",
+    "explanation_ar": "الاسم الحقيقي لذا ويكند هو أبل تسفاي."
   },
   {
     "id": "MUS-050-005",
@@ -128,22 +80,10 @@
     "question_en": "Which Egyptian mahraganat pioneer, alongside Alaa Fifty, helped popularize the genre with hits like \"Ah Ya Bent\"?",
     "question_ar": "أنهي رائد من رواد المهرجانات في مصر ساعد ينشر النوع ده مع علاء فيفتي بأغاني زي \"آه يا بنت\"؟",
     "options": [
-      {
-        "en": "Sadat",
-        "ar": "سادات"
-      },
-      {
-        "en": "Hassan Shakosh",
-        "ar": "حسن شاكوش"
-      },
-      {
-        "en": "Wegz",
-        "ar": "ويجز"
-      },
-      {
-        "en": "Oka",
-        "ar": "أوكا"
-      }
+      { "en": "Sadat", "ar": "سادات" },
+      { "en": "Hassan Shakosh", "ar": "حسن شاكوش" },
+      { "en": "Wegz", "ar": "ويجز" },
+      { "en": "Oka", "ar": "أوكا" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Sadat, alongside Alaa Fifty, is considered a mahraganat pioneer.",
@@ -155,29 +95,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which international award show is famous for its \"Moon Person\" trophy?",
-    "question_ar": "أنهي حفل جوايز عالمي معروف بجايزته على شكل \"رجل القمر\"؟",
+    "question_en": "In 2022, Wegz won which international award, becoming the first Egyptian rapper to do so?",
+    "question_ar": "سنة 2022، ويجز فاز بأنهي جايزة عالمية وبقى أول رابر مصري ياخدها؟",
     "options": [
-      {
-        "en": "American Music Awards",
-        "ar": "أميريكان ميوزيك أواردز"
-      },
-      {
-        "en": "Grammy Awards",
-        "ar": "جرامي"
-      },
-      {
-        "en": "MTV Video Music Awards",
-        "ar": "إم تي في فيديو ميوزك أواردز"
-      },
-      {
-        "en": "Billboard Music Awards",
-        "ar": "بيلبورد ميوزيك أواردز"
-      }
+      { "en": "MTV Europe Music Award (Best Egyptian Act)", "ar": "جايزة إم تي في يوروبيان (أفضل فنان مصري)" },
+      { "en": "Grammy Award", "ar": "جرامي" },
+      { "en": "World Music Award", "ar": "الوورلد ميوزيك" },
+      { "en": "Billboard Award", "ar": "بيلبورد" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "The MTV VMAs trophy is the iconic \"Moon Person\".",
-    "explanation_ar": "جايزة الـ MTV VMAs هي تمثال \"رجل القمر\"."
+    "correctAnswer": 0,
+    "explanation_en": "Wegz won the MTV EMA for Best Egyptian Act in 2022.",
+    "explanation_ar": "ويجز فاز بجايزة الـMTV EMA لأفضل فنان مصري سنة 2022."
   },
   {
     "id": "MUS-050-007",
@@ -188,22 +116,10 @@
     "question_en": "Which of these is a Middle Eastern zither-like instrument played by plucking strings laid flat, popular in classical Arabic ensembles?",
     "question_ar": "أنهي آلة شرق أوسطية شبه القانون بتتنقر وهي مفرودة، وشائعة في الفرق الكلاسيكية العربية؟",
     "options": [
-      {
-        "en": "Santoor",
-        "ar": "سانتور"
-      },
-      {
-        "en": "Qanun",
-        "ar": "قانون"
-      },
-      {
-        "en": "Buzuq",
-        "ar": "بزق"
-      },
-      {
-        "en": "Oud",
-        "ar": "عود"
-      }
+      { "en": "Santoor", "ar": "سانتور" },
+      { "en": "Qanun", "ar": "قانون" },
+      { "en": "Buzuq", "ar": "بزق" },
+      { "en": "Oud", "ar": "عود" }
     ],
     "correctAnswer": 1,
     "explanation_en": "The qanun is a plucked flat string instrument central to Arabic classical music.",
@@ -218,22 +134,10 @@
     "question_en": "Which Egyptian singer known for \"Habibi Ya Nour El Ain\" also represented Egypt with a Mediterranean/pop fusion sound starting the 1990s?",
     "question_ar": "أنهي مطرب مصري غنى \"حبيبي يا نور العين\" وقدم مزيج بين البوب والموسيقى المتوسطية بداية من التسعينات؟",
     "options": [
-      {
-        "en": "Mostafa Amar",
-        "ar": "مصطفى قمر"
-      },
-      {
-        "en": "Ihab Tawfik",
-        "ar": "إيهاب توفيق"
-      },
-      {
-        "en": "Hisham Abbas",
-        "ar": "هشام عباس"
-      },
-      {
-        "en": "Amr Diab",
-        "ar": "عمرو دياب"
-      }
+      { "en": "Mostafa Amar", "ar": "مصطفى قمر" },
+      { "en": "Ihab Tawfik", "ar": "إيهاب توفيق" },
+      { "en": "Hisham Abbas", "ar": "هشام عباس" },
+      { "en": "Amr Diab", "ar": "عمرو دياب" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Amr Diab pioneered a Mediterranean pop fusion sound in Egyptian music.",
@@ -248,22 +152,10 @@
     "question_en": "What is the term for the key change that shifts a song to a higher or lower pitch mid-performance, common in pop ballads?",
     "question_ar": "بيتقال إيه على تغيير درجة الصوت للأغنية لأعلى أو أقل في نص الأداء؟",
     "options": [
-      {
-        "en": "Harmonization",
-        "ar": "هارمونايزيشن"
-      },
-      {
-        "en": "Improvisation",
-        "ar": "إمبروفيزيشن"
-      },
-      {
-        "en": "Modulation",
-        "ar": "مودوليشن"
-      },
-      {
-        "en": "Syncopation",
-        "ar": "سنكوبيشن"
-      }
+      { "en": "Harmonization", "ar": "هارمونايزيشن" },
+      { "en": "Improvisation", "ar": "إمبروفيزيشن" },
+      { "en": "Modulation", "ar": "مودوليشن" },
+      { "en": "Syncopation", "ar": "سنكوبيشن" }
     ],
     "correctAnswer": 2,
     "explanation_en": "A key change mid-song is called modulation.",
@@ -275,29 +167,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which legendary Egyptian composer and singer was famous for the operetta-style song \"Ya Wabour Ouli Rayeh Fein\"?",
-    "question_ar": "أنهي ملحن ومطرب مصري أسطوري اشتهر بأغنية الأوبريت \"يا واابور قوللي رايح فين\"؟",
+    "question_en": "Mohamed Ramadan is known for having one of the largest ___ followings of any Arab entertainer?",
+    "question_ar": "محمد رمضان معروف بإن عنده واحد من أكبر أعداد المتابعين لأي فنان عربي على أنهي منصة؟",
     "options": [
-      {
-        "en": "Sayed Darwish",
-        "ar": "سيد درويش"
-      },
-      {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      },
-      {
-        "en": "Dawoud Hosni",
-        "ar": "داود حسني"
-      },
-      {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
-      }
+      { "en": "Instagram", "ar": "إنستجرام" },
+      { "en": "LinkedIn", "ar": "لينكدإن" },
+      { "en": "Twitch", "ar": "تويتش" },
+      { "en": "Pinterest", "ar": "بينترست" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Sayed Darwish is known for this operetta-style song from early 20th-century Egyptian musical theatre.",
-    "explanation_ar": "سيد درويش معروف بأغنية الأوبريت دي من مسرح الغناء المصري في أوائل القرن العشرين."
+    "explanation_en": "Mohamed Ramadan has one of the largest Instagram followings among Arab entertainers.",
+    "explanation_ar": "محمد رمضان عنده واحد من أكبر أعداد متابعين إنستجرام بين الفنانين العرب."
   },
   {
     "id": "MUS-050-011",
@@ -305,29 +185,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which US rock band, fronted by Freddie Mercury, performed the legendary set at Live Aid 1985?",
-    "question_ar": "أنهي فرقة روك بريطانية، بقيادة فريدي ميركوري، قدمت الحفلة الأسطورية في لايف إيد 1985؟",
+    "question_en": "Billie Eilish's brother and longtime music producer/co-writer is named?",
+    "question_ar": "أخو بيلي إيليش ومنتج أغانيها من زمان اسمه إيه؟",
     "options": [
-      {
-        "en": "The Who",
-        "ar": "ذا هو"
-      },
-      {
-        "en": "Led Zeppelin",
-        "ar": "ليد زبلين"
-      },
-      {
-        "en": "The Rolling Stones",
-        "ar": "ذا رولينج ستونز"
-      },
-      {
-        "en": "Queen",
-        "ar": "كوين"
-      }
+      { "en": "Finneas", "ar": "فينياس" },
+      { "en": "Justin", "ar": "جاستن" },
+      { "en": "Charlie", "ar": "تشارلي" },
+      { "en": "Jack", "ar": "جاك" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Queen's Live Aid 1985 performance is considered one of the greatest live sets ever.",
-    "explanation_ar": "حفلة كوين في لايف إيد 1985 من أعظم الحفلات الحية في التاريخ."
+    "correctAnswer": 0,
+    "explanation_en": "Finneas O'Connell produces and co-writes most of Billie Eilish's music.",
+    "explanation_ar": "فينياس أوكونيل بيلحن ويشارك في كتابة معظم أغاني بيلي إيليش."
   },
   {
     "id": "MUS-050-012",
@@ -338,22 +206,10 @@
     "question_en": "Which Egyptian singer known for deep, philosophical lyrics is nicknamed \"El King\" and blends Nubian roots into his music?",
     "question_ar": "أنهي مطرب مصري معروف بكلمات عميقة وفلسفية ولقبه \"الكينج\" وبيمزج جذوره النوبية في موسيقاه؟",
     "options": [
-      {
-        "en": "Mohamed Mounir",
-        "ar": "محمد منير"
-      },
-      {
-        "en": "Hamza Namira",
-        "ar": "حمزة نمرة"
-      },
-      {
-        "en": "Ali El Haggar",
-        "ar": "علي الحجار"
-      },
-      {
-        "en": "Fathy Salama",
-        "ar": "فتحي سلامة"
-      }
+      { "en": "Mohamed Mounir", "ar": "محمد منير" },
+      { "en": "Hamza Namira", "ar": "حمزة نمرة" },
+      { "en": "Ali El Haggar", "ar": "علي الحجار" },
+      { "en": "Fathy Salama", "ar": "فتحي سلامة" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Mohamed Mounir, of Nubian descent, is known as \"El King\" for his poetic style.",
@@ -365,29 +221,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which US singer released the game-changing album \"Songs in the Key of Life\" and is celebrated for blindness-defying musical genius?",
-    "question_ar": "أنهي مطرب أمريكي طرح ألبوم \"Songs in the Key of Life\" المؤثر ومشهور بعبقريته الموسيقية رغم إعاقة بصرية؟",
+    "question_en": "Marwan Pablo is known among fans for being unusually private, rarely giving ___?",
+    "question_ar": "مروان بابلو معروف بين جمهوره بإنه شخصية غامضة ونادرًا ما بيعمل ___؟",
     "options": [
-      {
-        "en": "Marvin Gaye",
-        "ar": "مارفن جاي"
-      },
-      {
-        "en": "Stevie Wonder",
-        "ar": "ستيفي وندر"
-      },
-      {
-        "en": "Ray Charles",
-        "ar": "راي تشارلز"
-      },
-      {
-        "en": "Al Green",
-        "ar": "آل جرين"
-      }
+      { "en": "Interviews", "ar": "مقابلات إعلامية" },
+      { "en": "Concerts", "ar": "حفلات" },
+      { "en": "Music videos", "ar": "فيديو كليبات" },
+      { "en": "Albums", "ar": "ألبومات" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Stevie Wonder, who is blind, released the acclaimed album \"Songs in the Key of Life\".",
-    "explanation_ar": "ستيفي وندر، فاقد البصر، طرح ألبوم \"Songs in the Key of Life\" المؤثر جدًا."
+    "correctAnswer": 0,
+    "explanation_en": "Marwan Pablo is known for keeping a low public profile and rarely giving interviews.",
+    "explanation_ar": "مروان بابلو معروف بابتعاده عن الأضواء ونادرًا ما بيعمل مقابلات."
   },
   {
     "id": "MUS-050-014",
@@ -398,22 +242,10 @@
     "question_en": "Which Lebanese-origin composer wrote many hits for Fairuz along with his brother, forming the duo \"Rahbani Brothers\"?",
     "question_ar": "أنهي أخوين لبنانيين لحنوا معظم أغاني فيروز وشكلوا ثنائي \"الأخوين رحباني\"؟",
     "options": [
-      {
-        "en": "Assi and Mansour Rahbani",
-        "ar": "عاصي ومنصور رحباني"
-      },
-      {
-        "en": "Wadih and Elias Safi",
-        "ar": "وديع وإلياس صافي"
-      },
-      {
-        "en": "Philemon and Toufic Wehbe",
-        "ar": "فيلمون وتوفيق وهبة"
-      },
-      {
-        "en": "Ziad and Hali Rahbani",
-        "ar": "زياد وهالي رحباني"
-      }
+      { "en": "Assi and Mansour Rahbani", "ar": "عاصي ومنصور رحباني" },
+      { "en": "Wadih and Elias Safi", "ar": "وديع وإلياس صافي" },
+      { "en": "Philemon and Toufic Wehbe", "ar": "فيلمون وتوفيق وهبة" },
+      { "en": "Ziad and Hali Rahbani", "ar": "زياد وهالي رحباني" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Assi and Mansour Rahbani composed most of Fairuz's iconic repertoire.",
@@ -425,29 +257,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which Egyptian singer's biggest hit \"Wallahi Tign\" popularized modern shaabi-pop fusion in the 2010s?",
-    "question_ar": "أنهي مطرب مصري ساعد ينشر مزيج الشعبي والبوب الحديث في العشرية اللي فاتت؟",
+    "question_en": "Cairokee, one of Egypt's most influential rock bands, was formed in which decade?",
+    "question_ar": "فرقة كايروكي، من أهم فرق الروك في مصر، اتكونت في أنهي عقد؟",
     "options": [
-      {
-        "en": "Hassan Shakosh",
-        "ar": "حسن شاكوش"
-      },
-      {
-        "en": "Saad El Soghayar",
-        "ar": "سعد الصغير"
-      },
-      {
-        "en": "Hamada Helal",
-        "ar": "حماده هلال"
-      },
-      {
-        "en": "Shaaban Abdel Rahim",
-        "ar": "شعبان عبد الرحيم"
-      }
+      { "en": "2000s", "ar": "الألفينات" },
+      { "en": "1990s", "ar": "التسعينات" },
+      { "en": "1980s", "ar": "الثمانينات" },
+      { "en": "2010s", "ar": "العشرية اللي فاتت" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Hassan Shakosh, with hits like \"Bent El Giran\", is a leading figure in modern shaabi/mahraganat fusion.",
-    "explanation_ar": "حسن شاكوش، بأغاني زي \"بنت الجيران\"، من أبرز رموز المهرجانات الشعبية الحديثة."
+    "explanation_en": "Cairokee was formed in Cairo in 2003.",
+    "explanation_ar": "كايروكي اتكونت في القاهرة سنة 2003."
   },
   {
     "id": "MUS-050-016",
@@ -455,29 +275,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which classic rock band's members include Robert Plant and Jimmy Page, known for \"Stairway to Heaven\"?",
-    "question_ar": "أنهي فرقة روك كلاسيكية من أعضائها روبرت بلانت وجيمي بيدج ومعروفة بأغنية \"Stairway to Heaven\"؟",
+    "question_en": "Bad Bunny's 2022 album \"Un Verano Sin Ti\" made history as the first non-English album to do what?",
+    "question_ar": "ألبوم باد باني \"Un Verano Sin Ti\" سنة 2022 عمل تاريخ كأول ألبوم مش إنجليزي يعمل إيه؟",
     "options": [
-      {
-        "en": "Led Zeppelin",
-        "ar": "ليد زبلين"
-      },
-      {
-        "en": "Black Sabbath",
-        "ar": "بلاك ساباث"
-      },
-      {
-        "en": "Deep Purple",
-        "ar": "ديب بيربل"
-      },
-      {
-        "en": "The Who",
-        "ar": "ذا هو"
-      }
+      { "en": "Top the Billboard 200 for the year", "ar": "يتصدر تشارت بيلبورد 200 للسنة كلها" },
+      { "en": "Win a Grammy for Album of the Year", "ar": "ياخد جرامي أفضل ألبوم" },
+      { "en": "Sell 1 billion copies", "ar": "يبيع مليار نسخة" },
+      { "en": "Chart for 10 years straight", "ar": "يفضل في التشارت 10 سنين" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Led Zeppelin, with Robert Plant and Jimmy Page, created \"Stairway to Heaven\".",
-    "explanation_ar": "فرقة ليد زبلين، بروبرت بلانت وجيمي بيدج، هي اللي غنت \"Stairway to Heaven\"."
+    "explanation_en": "\"Un Verano Sin Ti\" was the first predominantly Spanish-language album to top the Billboard 200 year-end chart.",
+    "explanation_ar": "الألبوم كان أول ألبوم غالبيته إسباني يتصدر تشارت بيلبورد 200 السنوي."
   },
   {
     "id": "MUS-050-017",
@@ -485,29 +293,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Who is credited as one of the first Egyptian composers to modernize Arabic music by introducing Western instruments and forms in the early 20th century?",
-    "question_ar": "مين من الأوائل اللي جددوا الموسيقى العربية بإدخال آلات وأشكال غربية في أوائل القرن العشرين؟",
+    "question_en": "Dua Lipa's 2020 album \"Future Nostalgia\" is widely credited with reviving which musical era's disco-pop sound?",
+    "question_ar": "ألبوم ديوا ليپا \"Future Nostalgia\" سنة 2020 اتحسب إنه رجع موضة صوت الديسكو-بوب بتاع أنهي حقبة؟",
     "options": [
-      {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      },
-      {
-        "en": "Sayed Darwish",
-        "ar": "سيد درويش"
-      },
-      {
-        "en": "Abdo El Hamouli",
-        "ar": "عبده الحامولي"
-      },
-      {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
-      }
+      { "en": "1970s-80s disco", "ar": "السبعينات والثمانينات" },
+      { "en": "1950s rock and roll", "ar": "الخمسينات" },
+      { "en": "1990s grunge", "ar": "التسعينات جرانج" },
+      { "en": "2000s emo", "ar": "الألفينات إيمو" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Sayed Darwish is widely credited as the father of modern Egyptian music, blending Western and Arabic forms.",
-    "explanation_ar": "سيد درويش معروف بإنه أبو الموسيقى المصرية الحديثة لأنه مزج الأشكال الغربية والعربية."
+    "correctAnswer": 0,
+    "explanation_en": "\"Future Nostalgia\" drew heavily on 70s-80s disco and dance-pop sounds.",
+    "explanation_ar": "\"Future Nostalgia\" استوحى كتير من صوت الديسكو والدانس-بوب بتاع السبعينات والثمانينات."
   },
   {
     "id": "MUS-050-018",
@@ -515,29 +311,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which Grammy-winning US artist is known for the album \"21\" and the hit \"Someone Like You\"?",
-    "question_ar": "أنهي فنانة حائزة على جرامي معروفة بألبوم \"21\" وأغنية \"Someone Like You\"؟",
+    "question_en": "Hassan Shakosh's viral hit \"Bent El Giran\" was performed as a duet with which other Egyptian singer?",
+    "question_ar": "أغنية \"بنت الجيران\" الفيروسية لحسن شاكوش كانت دويتو مع مين؟",
     "options": [
-      {
-        "en": "Amy Winehouse",
-        "ar": "إيمي واينهاوس"
-      },
-      {
-        "en": "Adele",
-        "ar": "أديل"
-      },
-      {
-        "en": "Sam Smith",
-        "ar": "سام سميث"
-      },
-      {
-        "en": "Duffy",
-        "ar": "دافي"
-      }
+      { "en": "Omar Kamal", "ar": "عمر كمال" },
+      { "en": "Hamo Bika", "ar": "حمو بيكا" },
+      { "en": "Afroto", "ar": "أفروتو" },
+      { "en": "Oka", "ar": "أوكا" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Adele's album \"21\" won multiple Grammys and features \"Someone Like You\".",
-    "explanation_ar": "ألبوم \"21\" لأديل فاز بجوايز جرامي كتير وفيه أغنية \"Someone Like You\"."
+    "correctAnswer": 0,
+    "explanation_en": "\"Bent El Giran\" was a duet between Hassan Shakosh and Omar Kamal.",
+    "explanation_ar": "\"بنت الجيران\" كانت دويتو بين حسن شاكوش وعمر كمال."
   },
   {
     "id": "MUS-050-019",
@@ -548,22 +332,10 @@
     "question_en": "Which Egyptian band, formed by Salah Ashraf and others, is known for alternative rock albums like \"Analog Feelings\"?",
     "question_ar": "أنهي فرقة مصرية، أسسها صلاح أشرف وآخرين، معروفة بألبومات روك بديل زي \"Analog Feelings\"؟",
     "options": [
-      {
-        "en": "Massar Egbari",
-        "ar": "مسار إجباري"
-      },
-      {
-        "en": "Cairokee",
-        "ar": "كايروكي"
-      },
-      {
-        "en": "Sahara",
-        "ar": "سحارة"
-      },
-      {
-        "en": "Wust El Balad",
-        "ar": "وسط البلد"
-      }
+      { "en": "Massar Egbari", "ar": "مسار إجباري" },
+      { "en": "Cairokee", "ar": "كايروكي" },
+      { "en": "Sahara", "ar": "سحارة" },
+      { "en": "Wust El Balad", "ar": "وسط البلد" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Massar Egbari is known for alternative rock work including the \"Analog Feelings\" album.",
@@ -575,29 +347,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which US singer, part of the Jackson family, had earlier fame in \"The Jackson 5\" before his solo career?",
-    "question_ar": "أنهي مطرب أمريكي، من عيلة جاكسون، كان مشهور في فرقة \"The Jackson 5\" قبل مشواره الفردي؟",
+    "question_en": "Billie Eilish made Grammy history in 2020 by sweeping the four main categories, becoming the ___ artist ever to do so?",
+    "question_ar": "بيلي إيليش عملت تاريخ في الجرامي سنة 2020 لما كسحت الفئات الأربعة الكبرى، وبقت ___ فنانة تعمل كده؟",
     "options": [
-      {
-        "en": "Michael Jackson",
-        "ar": "مايكل جاكسون"
-      },
-      {
-        "en": "Jermaine Jackson",
-        "ar": "جيرمين جاكسون"
-      },
-      {
-        "en": "Marlon Jackson",
-        "ar": "مارلون جاكسون"
-      },
-      {
-        "en": "Tito Jackson",
-        "ar": "تيتو جاكسون"
-      }
+      { "en": "Youngest", "ar": "الأصغر سنًا" },
+      { "en": "Oldest", "ar": "الأكبر سنًا" },
+      { "en": "First female", "ar": "أول مطربة" },
+      { "en": "First American", "ar": "أول أمريكية" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Michael Jackson began his career as the lead singer of The Jackson 5.",
-    "explanation_ar": "مايكل جاكسون بدأ مشواره كمغني رئيسي في فرقة The Jackson 5."
+    "explanation_en": "Billie Eilish became the youngest artist to win all four major Grammy categories in one night.",
+    "explanation_ar": "بيلي إيليش بقت أصغر فنانة تفوز بالفئات الأربعة الكبرى في الجرامي في ليلة واحدة."
   },
   {
     "id": "MUS-050-021",
@@ -608,22 +368,10 @@
     "question_en": "Which term describes a musician's ability to sing or play without written music, purely by ear?",
     "question_ar": "بيتقال إيه على قدرة الموسيقي إنه يغني أو يعزف من غير نوتة، بالسمع بس؟",
     "options": [
-      {
-        "en": "Playing by ear",
-        "ar": "العزف بالسمع"
-      },
-      {
-        "en": "Sampling",
-        "ar": "السامبلينج"
-      },
-      {
-        "en": "Transposing",
-        "ar": "النقل"
-      },
-      {
-        "en": "Sight-reading",
-        "ar": "القراءة البصرية"
-      }
+      { "en": "Playing by ear", "ar": "العزف بالسمع" },
+      { "en": "Sampling", "ar": "السامبلينج" },
+      { "en": "Transposing", "ar": "النقل" },
+      { "en": "Sight-reading", "ar": "القراءة البصرية" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Performing music without sheet music, by ear, is called \"playing by ear\".",
@@ -635,29 +383,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which Egyptian singer's song \"Aa Bali Habibi\" became a huge wedding hit, and he's also known for \"Aa Wesh El Bahr\"?",
-    "question_ar": "أنهي مطرب مصري غنى \"ع بالي حبيبي\" و\"ع وش البحر\"؟",
+    "question_en": "Amr Diab, \"El Hadaba\", was born in which Egyptian city?",
+    "question_ar": "عمرو دياب، \"الهضبة\"، اتولد في أنهي مدينة مصرية؟",
     "options": [
-      {
-        "en": "Hamada Helal",
-        "ar": "حماده هلال"
-      },
-      {
-        "en": "Mohamed Fouad",
-        "ar": "محمد فؤاد"
-      },
-      {
-        "en": "Amr Mostafa",
-        "ar": "عمرو مصطفى"
-      },
-      {
-        "en": "Medhat Saleh",
-        "ar": "مدحت صالح"
-      }
+      { "en": "Port Said", "ar": "بورسعيد" },
+      { "en": "Cairo", "ar": "القاهرة" },
+      { "en": "Alexandria", "ar": "الإسكندرية" },
+      { "en": "Mansoura", "ar": "المنصورة" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Hamada Helal is known for both \"Aa Bali Habibi\" and \"Aa Wesh El Bahr\".",
-    "explanation_ar": "حماده هلال معروف بأغنيتي \"ع بالي حبيبي\" و\"ع وش البحر\"."
+    "explanation_en": "Amr Diab was born in Port Said, Egypt.",
+    "explanation_ar": "عمرو دياب اتولد في بورسعيد."
   },
   {
     "id": "MUS-050-023",
@@ -665,29 +401,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which US rapper's real name is Marshall Mathers?",
-    "question_ar": "أنهي رابر أمريكي اسمه الحقيقي Marshall Mathers؟",
+    "question_en": "Doja Cat's real name is ___?",
+    "question_ar": "الاسم الحقيقي لدوجا كات هو ___؟",
     "options": [
-      {
-        "en": "Jay-Z",
-        "ar": "جاي زي"
-      },
-      {
-        "en": "Eminem",
-        "ar": "إيمينم"
-      },
-      {
-        "en": "50 Cent",
-        "ar": "فيفتي سنت"
-      },
-      {
-        "en": "Snoop Dogg",
-        "ar": "سنوب دوج"
-      }
+      { "en": "Amala Ratna Zandile Dlamini", "ar": "أمالا راتنا زانديلي دلاميني" },
+      { "en": "Amanda Cole", "ar": "أماندا كول" },
+      { "en": "Angelica Ross", "ar": "أنجيليكا روس" },
+      { "en": "Alicia Moore", "ar": "أليشا مور" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Eminem's real name is Marshall Bruce Mathers III.",
-    "explanation_ar": "الاسم الحقيقي لإيمينم هو Marshall Bruce Mathers III."
+    "correctAnswer": 0,
+    "explanation_en": "Doja Cat's real name is Amala Ratna Zandile Dlamini.",
+    "explanation_ar": "الاسم الحقيقي لدوجا كات هو أمالا راتنا زانديلي دلاميني."
   },
   {
     "id": "MUS-050-024",
@@ -698,22 +422,10 @@
     "question_en": "Which classic Egyptian singer, born in Syria and famous for oud playing, competed artistically with Umm Kulthum for decades?",
     "question_ar": "أنهي مطرب كلاسيكي، مولود في سوريا ومشهور بالعزف على العود، كان في منافسة فنية مع أم كلثوم لعقود؟",
     "options": [
-      {
-        "en": "Farid El Atrache",
-        "ar": "فريد الأطرش"
-      },
-      {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      },
-      {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبد الحليم حافظ"
-      },
-      {
-        "en": "Karem Mahmoud",
-        "ar": "كارم محمود"
-      }
+      { "en": "Farid El Atrache", "ar": "فريد الأطرش" },
+      { "en": "Mohamed Abdel Wahab", "ar": "محمد عبد الوهاب" },
+      { "en": "Abdel Halim Hafez", "ar": "عبد الحليم حافظ" },
+      { "en": "Karem Mahmoud", "ar": "كارم محمود" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Farid El Atrache, born in Syria, was a legendary oud player and singer.",
@@ -725,29 +437,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which US band, formed by Kurt Cobain, is considered the leading act of the grunge movement with the album \"Nevermind\"?",
-    "question_ar": "أنهي فرقة أمريكية، أسسها كورت كوبين، من أهم فرق حركة الجرانج بألبوم \"Nevermind\"؟",
+    "question_en": "Wegz's 2021 album, one of the most-streamed Arabic albums of that year, was titled ___?",
+    "question_ar": "ألبوم ويجز سنة 2021، من أكتر الألبومات العربية استماعًا في السنة دي، اسمه ___؟",
     "options": [
-      {
-        "en": "Alice in Chains",
-        "ar": "أليس إن تشينز"
-      },
-      {
-        "en": "Soundgarden",
-        "ar": "ساوندجاردن"
-      },
-      {
-        "en": "Nirvana",
-        "ar": "نيرفانا"
-      },
-      {
-        "en": "Pearl Jam",
-        "ar": "بيرل جام"
-      }
+      { "en": "Lil Gemyat", "ar": "ليل چمعات" },
+      { "en": "El Motareb", "ar": "المطرب" },
+      { "en": "Free Mars", "ar": "فري مارس" },
+      { "en": "3 Daqat", "ar": "3 دقات" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Nirvana, led by Kurt Cobain, defined grunge with \"Nevermind\".",
-    "explanation_ar": "نيرفانا، بقيادة كورت كوبين، من أهم فرق الجرانج بألبوم \"Nevermind\"."
+    "correctAnswer": 0,
+    "explanation_en": "\"Lil Gemyat\" is Wegz's acclaimed 2021 album.",
+    "explanation_ar": "\"ليل چمعات\" ألبوم ويجز المشهور سنة 2021."
   },
   {
     "id": "MUS-050-026",
@@ -755,29 +455,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which Egyptian singer known as \"Sultan El Tarab\" for his emotional, romantic style, sang \"Ala Baly Habibi\" and \"Khadany El Marad\"?",
-    "question_ar": "أنهي مطرب مصري لقبه \"سلطان الطرب\" غنى \"ع بالي حبيبي\" و\"خدني المرض\"؟",
+    "question_en": "\"Aymen\" is a well-known solo track by which Egyptian rapper?",
+    "question_ar": "أغنية \"أيمن\" لأنهي رابر مصري بمفرده؟",
     "options": [
-      {
-        "en": "Medhat Saleh",
-        "ar": "مدحت صالح"
-      },
-      {
-        "en": "Ali El Haggar",
-        "ar": "علي الحجار"
-      },
-      {
-        "en": "Ihab Tawfik",
-        "ar": "إيهاب توفيق"
-      },
-      {
-        "en": "Mohamed Adaweya",
-        "ar": "محمد عدوية"
-      }
+      { "en": "Afroto", "ar": "أفروتو" },
+      { "en": "Wegz", "ar": "ويجز" },
+      { "en": "Marwan Pablo", "ar": "مروان بابلو" },
+      { "en": "Abyusif", "ar": "أبيوسف" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Ihab Tawfik is nicknamed \"Sultan El Tarab\" (Sultan of Tarab).",
-    "explanation_ar": "إيهاب توفيق معروف بلقب \"سلطان الطرب\"."
+    "correctAnswer": 0,
+    "explanation_en": "\"Aymen\" is one of Afroto's solo hits.",
+    "explanation_ar": "\"أيمن\" من أغاني أفروتو المنفردة."
   },
   {
     "id": "MUS-050-027",
@@ -785,29 +473,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which US artist's stage name comes from combining his real first name with an Egyptian-inspired reference, known for \"Blinding Lights\"?",
-    "question_ar": "أنهي فنان أمريكي-كندي معروف بأغنية \"Blinding Lights\" واسمه الفني \"ذا ويكند\"؟",
+    "question_en": "Hamza Namira's music is often associated with themes of hope and social change, especially following which historic Egyptian event?",
+    "question_ar": "موسيقى حمزة نمرة غالبًا مرتبطة بمواضيع الأمل والتغيير الاجتماعي، خصوصًا بعد أنهي حدث تاريخي مصري؟",
     "options": [
-      {
-        "en": "The Weeknd",
-        "ar": "ذا ويكند"
-      },
-      {
-        "en": "Frank Ocean",
-        "ar": "فرانك أوشن"
-      },
-      {
-        "en": "Bruno Mars",
-        "ar": "برونو مارس"
-      },
-      {
-        "en": "Usher",
-        "ar": "أشر"
-      }
+      { "en": "The 2011 revolution", "ar": "ثورة 2011" },
+      { "en": "The 1952 revolution", "ar": "ثورة 1952" },
+      { "en": "The 1973 war", "ar": "حرب أكتوبر" },
+      { "en": "Egypt's 2018 World Cup run", "ar": "كأس العالم 2018" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "The Weeknd (Abel Tesfaye) is known for the hit \"Blinding Lights\".",
-    "explanation_ar": "ذا ويكند (أبل تسفاي) معروف بأغنية \"Blinding Lights\"."
+    "explanation_en": "Hamza Namira's music became closely associated with hope and change around the 2011 revolution.",
+    "explanation_ar": "موسيقى حمزة نمرة ارتبطت بشكل كبير بالأمل والتغيير حوالين ثورة 2011."
   },
   {
     "id": "MUS-050-028",
@@ -818,22 +494,10 @@
     "question_en": "Which Egyptian musical term refers to the improvised vocal or instrumental introduction before a song, showcasing a singer's or musician's skill?",
     "question_ar": "بيتقال إيه في الموسيقى العربية على المقدمة الغنائية أو الموسيقية المرتجلة اللي بتظهر مهارة المطرب أو العازف؟",
     "options": [
-      {
-        "en": "Taqsim",
-        "ar": "تقسيم"
-      },
-      {
-        "en": "Muwashah",
-        "ar": "موشح"
-      },
-      {
-        "en": "Qasida",
-        "ar": "قصيدة"
-      },
-      {
-        "en": "Mawwal",
-        "ar": "موال"
-      }
+      { "en": "Taqsim", "ar": "تقسيم" },
+      { "en": "Muwashah", "ar": "موشح" },
+      { "en": "Qasida", "ar": "قصيدة" },
+      { "en": "Mawwal", "ar": "موال" }
     ],
     "correctAnswer": 3,
     "explanation_en": "A mawwal is an improvised vocal introduction in Arabic music.",
@@ -848,22 +512,10 @@
     "question_en": "Which US singer, famous for the song \"Halo\", is married to Jay-Z and was part of Destiny's Child?",
     "question_ar": "أنهي مطربة أمريكية، مشهورة بأغنية \"Halo\"، متجوزة جاي زي وكانت في فريق ديستنيز تشايلد؟",
     "options": [
-      {
-        "en": "Beyoncé",
-        "ar": "بيونسيه"
-      },
-      {
-        "en": "Michelle Williams",
-        "ar": "ميشيل ويليامز"
-      },
-      {
-        "en": "Kelly Rowland",
-        "ar": "كيلي رولاند"
-      },
-      {
-        "en": "Rihanna",
-        "ar": "ريهانا"
-      }
+      { "en": "Beyoncé", "ar": "بيونسيه" },
+      { "en": "Michelle Williams", "ar": "ميشيل ويليامز" },
+      { "en": "Kelly Rowland", "ar": "كيلي رولاند" },
+      { "en": "Rihanna", "ar": "ريهانا" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Beyoncé, known for \"Halo\", is married to Jay-Z.",
@@ -875,29 +527,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which Egyptian singer is known for combining Nubian musical heritage with pop/rock in songs like \"Etkalemy\"?",
-    "question_ar": "أنهي مطرب مصري معروف بمزج التراث النوبي بالبوب/الروك في أغاني زي \"اتكلمي\"؟",
+    "question_en": "Abyusif is known among fans for blending trap music with which distinctive lyrical style?",
+    "question_ar": "أبيوسف معروف بين جمهوره بمزج التراب بأنهي أسلوب مميز في كلماته؟",
     "options": [
-      {
-        "en": "Hamza Namira",
-        "ar": "حمزة نمرة"
-      },
-      {
-        "en": "Fathy Salama",
-        "ar": "فتحي سلامة"
-      },
-      {
-        "en": "Ali El Haggar",
-        "ar": "علي الحجار"
-      },
-      {
-        "en": "Mohamed Mounir",
-        "ar": "محمد منير"
-      }
+      { "en": "Humor/satire", "ar": "سخرية/كوميديا" },
+      { "en": "Religious poetry", "ar": "شعر ديني" },
+      { "en": "Classical Arabic", "ar": "فصحى كلاسيكية" },
+      { "en": "Opera vocals", "ar": "غناء أوبرالي" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Mohamed Mounir is known for blending Nubian roots into his music, including in \"Etkalemy\".",
-    "explanation_ar": "محمد منير معروف بمزج جذوره النوبية في موسيقاه ومنها \"اتكلمي\"."
+    "correctAnswer": 0,
+    "explanation_en": "Abyusif is known for injecting humor and satire into his trap tracks.",
+    "explanation_ar": "أبيوسف معروف بإدخال السخرية والكوميديا في أغانيه."
   },
   {
     "id": "MUS-050-031",
@@ -905,29 +545,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which UK singer, known for soulful ballads, recorded the hit song \"Back to Black\" before her early death in 2011?",
-    "question_ar": "أنهي مطربة بريطانية، معروفة بأغاني السول، غنت \"Back to Black\" قبل وفاتها المبكرة سنة 2011؟",
+    "question_en": "Karol G's 2023 album \"Mañana Será Bonito\" made history as the first all-Spanish album by a woman to do what?",
+    "question_ar": "ألبوم كارول جي \"Mañana Será Bonito\" سنة 2023 عمل تاريخ كأول ألبوم إسباني بالكامل لمطربة يعمل إيه؟",
     "options": [
-      {
-        "en": "Adele",
-        "ar": "أديل"
-      },
-      {
-        "en": "Duffy",
-        "ar": "دافي"
-      },
-      {
-        "en": "Joss Stone",
-        "ar": "جوس ستون"
-      },
-      {
-        "en": "Amy Winehouse",
-        "ar": "إيمي واينهاوس"
-      }
+      { "en": "Top the Billboard 200 chart", "ar": "يتصدر تشارت بيلبورد 200" },
+      { "en": "Win Album of the Year Grammy", "ar": "ياخد جرامي أفضل ألبوم" },
+      { "en": "Sell out a world tour in one day", "ar": "يبيع كل تذاكر جولة عالمية في يوم" },
+      { "en": "Chart in 50 countries", "ar": "يدخل تشارت 50 دولة" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Amy Winehouse recorded \"Back to Black\" and passed away in 2011.",
-    "explanation_ar": "إيمي واينهاوس غنت \"Back to Black\" وتوفيت سنة 2011."
+    "correctAnswer": 0,
+    "explanation_en": "Karol G's album became the first all-Spanish-language album by a woman to top the Billboard 200.",
+    "explanation_ar": "ألبوم كارول جي بقى أول ألبوم إسباني بالكامل لمطربة يتصدر بيلبورد 200."
   },
   {
     "id": "MUS-050-032",
@@ -938,22 +566,10 @@
     "question_en": "Which term describes music built around a repeating short rhythmic/melodic pattern, common in dance and mahraganat tracks?",
     "question_ar": "بيتقال إيه على الموسيقى المبنية على نمط إيقاعي أو لحني قصير بيتكرر، شائع في أغاني المهرجانات والدانس؟",
     "options": [
-      {
-        "en": "Cadence",
-        "ar": "كادنس"
-      },
-      {
-        "en": "Overture",
-        "ar": "أوفرتشر"
-      },
-      {
-        "en": "Bridge",
-        "ar": "بريدج"
-      },
-      {
-        "en": "Loop",
-        "ar": "لوب"
-      }
+      { "en": "Cadence", "ar": "كادنس" },
+      { "en": "Overture", "ar": "أوفرتشر" },
+      { "en": "Bridge", "ar": "بريدج" },
+      { "en": "Loop", "ar": "لوب" }
     ],
     "correctAnswer": 3,
     "explanation_en": "A repeating musical pattern is called a loop.",
@@ -965,29 +581,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which Egyptian composer known for hits with Umm Kulthum and Abdel Halim wrote the music for \"Ahsan Nas\" and \"Zay El Hawa\"?",
-    "question_ar": "أنهي ملحن مصري لحن لأم كلثوم وعبد الحليم أغاني زي \"أحسن الناس\" و\"زي الهوا\"؟",
+    "question_en": "Massar Egbari has been part of Egypt's alternative rock scene since which decade?",
+    "question_ar": "مسار إجباري جزء من مشهد الروك البديل في مصر من أنهي عقد؟",
     "options": [
-      {
-        "en": "Sayed Mekawy",
-        "ar": "سيد مكاوي"
-      },
-      {
-        "en": "Mohamed El Mougy",
-        "ar": "محمد الموجي"
-      },
-      {
-        "en": "Kamal El Taweel",
-        "ar": "كمال الطويل"
-      },
-      {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
-      }
+      { "en": "2000s", "ar": "الألفينات" },
+      { "en": "1990s", "ar": "التسعينات" },
+      { "en": "1980s", "ar": "الثمانينات" },
+      { "en": "2010s", "ar": "العشرية اللي فاتت" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Baligh Hamdi composed both \"Ahsan Nas\" and \"Zay El Hawa\" among many other classics.",
-    "explanation_ar": "بليغ حمدي لحن \"أحسن الناس\" و\"زي الهوا\" ضمن كلاسيكيات تانية كتير."
+    "correctAnswer": 0,
+    "explanation_en": "Massar Egbari has been active in Egypt's alternative rock scene since the 2000s.",
+    "explanation_ar": "مسار إجباري نشطة في مشهد الروك البديل المصري من الألفينات."
   },
   {
     "id": "MUS-050-034",
@@ -995,29 +599,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which US band's 1977 album \"Rumours\" is one of the best-selling albums of all time?",
-    "question_ar": "أنهي فرقة أمريكية-بريطانية طرحت ألبوم \"Rumours\" سنة 1977، من أكتر الألبومات مبيعًا في التاريخ؟",
+    "question_en": "Sherine Abdel Wahab is widely praised by fans and critics for her exceptionally powerful ___?",
+    "question_ar": "شيرين عبد الوهاب مشهورة بين جمهورها والنقاد بقوة ___ الاستثنائية؟",
     "options": [
-      {
-        "en": "Fleetwood Mac",
-        "ar": "فليتوود ماك"
-      },
-      {
-        "en": "Eagles",
-        "ar": "إيجلز"
-      },
-      {
-        "en": "Chicago",
-        "ar": "شيكاجو"
-      },
-      {
-        "en": "Steely Dan",
-        "ar": "ستيلي دان"
-      }
+      { "en": "Vocal range/voice", "ar": "الصوت/المدى الصوتي" },
+      { "en": "Dance skills", "ar": "مهارات الرقص" },
+      { "en": "Guitar playing", "ar": "العزف على الجيتار" },
+      { "en": "Songwriting speed", "ar": "سرعة كتابة الأغاني" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Fleetwood Mac's \"Rumours\" is one of history's best-selling albums.",
-    "explanation_ar": "ألبوم \"Rumours\" لفليتوود ماك من أكتر الألبومات مبيعًا في التاريخ."
+    "explanation_en": "Sherine is widely regarded as one of Egypt's most powerful vocalists.",
+    "explanation_ar": "شيرين من أقوى الأصوات الغنائية في مصر بشهادة النقاد والجمهور."
   },
   {
     "id": "MUS-050-035",
@@ -1025,29 +617,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which Tunisian-Egyptian singer, famous in Egypt, sang the classic hit \"Fakerni\"?",
-    "question_ar": "أنهي مطربة تونسية اشتهرت في مصر وغنت أغنية \"فاكرني\"؟",
+    "question_en": "Besides rapping, Marwan Moussa is also known in Egypt's music scene as a ___?",
+    "question_ar": "غير الراب، مروان موسى معروف كمان في الوسط الموسيقي المصري كـ ___؟",
     "options": [
-      {
-        "en": "Samira Said",
-        "ar": "سميرة سعيد"
-      },
-      {
-        "en": "Saber Rebaï",
-        "ar": "صابر الرباعي"
-      },
-      {
-        "en": "Amina Fakher",
-        "ar": "أمينة فاخر"
-      },
-      {
-        "en": "Latifa",
-        "ar": "لطيفة"
-      }
+      { "en": "Producer", "ar": "منتج موسيقي" },
+      { "en": "Film director", "ar": "مخرج أفلام" },
+      { "en": "Radio host", "ar": "مذيع راديو" },
+      { "en": "Football commentator", "ar": "معلق كورة" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "\"Fakerni\" is a well-known hit by Latifa.",
-    "explanation_ar": "\"فاكرني\" من أغاني لطيفة المشهورة."
+    "correctAnswer": 0,
+    "explanation_en": "Marwan Moussa is also known as a music producer in the Egyptian rap scene.",
+    "explanation_ar": "مروان موسى معروف كمان كمنتج موسيقي في مشهد الراب المصري."
   },
   {
     "id": "MUS-050-036",
@@ -1058,22 +638,10 @@
     "question_en": "What does the musical term \"a cappella\" literally translate to from Italian?",
     "question_ar": "إيه معنى مصطلح \"أكابيلا\" حرفيًا في اللغة الإيطالية؟",
     "options": [
-      {
-        "en": "In the style of the chapel",
-        "ar": "على طريقة الكنيسة/الكابيلا"
-      },
-      {
-        "en": "Free style",
-        "ar": "أسلوب حر"
-      },
-      {
-        "en": "Without rhythm",
-        "ar": "من غير إيقاع"
-      },
-      {
-        "en": "High voice",
-        "ar": "صوت عالي"
-      }
+      { "en": "In the style of the chapel", "ar": "على طريقة الكنيسة/الكابيلا" },
+      { "en": "Free style", "ar": "أسلوب حر" },
+      { "en": "Without rhythm", "ar": "من غير إيقاع" },
+      { "en": "High voice", "ar": "صوت عالي" }
     ],
     "correctAnswer": 0,
     "explanation_en": "\"A cappella\" literally means \"in the style of the chapel\" in Italian, referring to church choir singing.",
@@ -1085,25 +653,13 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which Egyptian singer known as \"Sherine\" won the reality show \"Star Academy\"-style fame through the show \"The Voice\" as a coach, not contestant, in Arabic TV?",
+    "question_en": "Which Egyptian singer known as \"Sherine\" served as a coach (not contestant) on the show \"The Voice\" in Arabic TV?",
     "question_ar": "أنهي مطربة مصرية معروفة بمشاركتها كمدربة (مش متسابقة) في برنامج \"ذا فويس\" بالعربي؟",
     "options": [
-      {
-        "en": "Nawal El Zoghbi",
-        "ar": "نوال الزغبي"
-      },
-      {
-        "en": "Angham",
-        "ar": "أنغام"
-      },
-      {
-        "en": "Sherine",
-        "ar": "شيرين"
-      },
-      {
-        "en": "Assala",
-        "ar": "أصالة"
-      }
+      { "en": "Nawal El Zoghbi", "ar": "نوال الزغبي" },
+      { "en": "Angham", "ar": "أنغام" },
+      { "en": "Sherine", "ar": "شيرين" },
+      { "en": "Assala", "ar": "أصالة" }
     ],
     "correctAnswer": 2,
     "explanation_en": "Sherine has served as a coach on \"The Voice\" Arabic editions.",
@@ -1115,29 +671,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which classic Egyptian song by Abdel Halim Hafez, about a mother, is one of the most emotionally iconic songs in Arabic music?",
-    "question_ar": "أنهي أغنية كلاسيكية لعبد الحليم حافظ عن الأم من أكتر الأغاني تأثيرًا في الموسيقى العربية؟",
+    "question_en": "Sharmoofers rose to fame partly through cover songs and viral videos before releasing original music, becoming known for their ___ sound?",
+    "question_ar": "شارموفرز اشتهروا الأول بكفرات وفيديوهات فيروسية قبل ما يطلعوا أغاني أصلية، وبقوا معروفين بصوتهم الـ ___؟",
     "options": [
-      {
-        "en": "Kanary Ya Habib El Rouh",
-        "ar": "قارئ يا حبيب الروح"
-      },
-      {
-        "en": "Ahwak",
-        "ar": "أهواك"
-      },
-      {
-        "en": "Sawah",
-        "ar": "الصعيدي شاطر"
-      },
-      {
-        "en": "Risalah Men Taht El Maa",
-        "ar": "رسالة من تحت الماء"
-      }
+      { "en": "Indie/alternative", "ar": "إندي/بديل" },
+      { "en": "Classical", "ar": "كلاسيك" },
+      { "en": "Heavy metal", "ar": "هيفي ميتال" },
+      { "en": "Opera", "ar": "أوبرا" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "\"Risalah Men Taht El Maa\" is one of Abdel Halim Hafez's most emotionally powerful songs.",
-    "explanation_ar": "\"رسالة من تحت الماء\" من أكتر أغاني عبد الحليم حافظ تأثيرًا."
+    "correctAnswer": 0,
+    "explanation_en": "Sharmoofers became known for their indie/alternative sound after early viral covers.",
+    "explanation_ar": "شارموفرز بقوا معروفين بصوتهم الإندي/البديل بعد كفراتهم الفيروسية الأولى."
   },
   {
     "id": "MUS-050-039",
@@ -1145,29 +689,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which US singer/actress, famous for \"Man! I Feel Like a Woman!\", rose to fame in country music before crossing over to pop?",
-    "question_ar": "أنهي مطربة أمريكية اشتهرت بأغنية \"Man! I Feel Like a Woman!\" وبدأت في الكانتري قبل ما تنتقل للبوب؟",
+    "question_en": "Wust El Balad is known for blending traditional Egyptian instruments like the oud with which Western genre?",
+    "question_ar": "وسط البلد معروفة بمزج آلات مصرية تقليدية زي العود بأنهي نوع غربي؟",
     "options": [
-      {
-        "en": "Reba McEntire",
-        "ar": "ريبا ماكنتاير"
-      },
-      {
-        "en": "Faith Hill",
-        "ar": "فيث هيل"
-      },
-      {
-        "en": "LeAnn Rimes",
-        "ar": "لي آن رايمز"
-      },
-      {
-        "en": "Shania Twain",
-        "ar": "شانايا تواين"
-      }
+      { "en": "Jazz", "ar": "جاز" },
+      { "en": "Metal", "ar": "ميتال" },
+      { "en": "Country", "ar": "كانتري" },
+      { "en": "Opera", "ar": "أوبرا" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Shania Twain crossed over from country to pop stardom.",
-    "explanation_ar": "شانايا تواين انتقلت من الكانتري لنجومية البوب."
+    "correctAnswer": 0,
+    "explanation_en": "Wust El Balad blends traditional instruments like the oud with jazz influences.",
+    "explanation_ar": "وسط البلد بتمزج آلات تقليدية زي العود بتأثيرات الجاز."
   },
   {
     "id": "MUS-050-040",
@@ -1175,25 +707,13 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which term describes an unofficial version of a song performed by an artist other than the original singer?",
+    "question_en": "What term describes an unofficial version of a song performed by an artist other than the original singer?",
     "question_ar": "بيتقال إيه على نسخة مش رسمية من أغنية بيؤديها فنان مش المطرب الأصلي؟",
     "options": [
-      {
-        "en": "Remix",
-        "ar": "ريمكس"
-      },
-      {
-        "en": "Bootleg",
-        "ar": "بوتليج"
-      },
-      {
-        "en": "Cover",
-        "ar": "كفر"
-      },
-      {
-        "en": "Mashup",
-        "ar": "ماش أب"
-      }
+      { "en": "Remix", "ar": "ريمكس" },
+      { "en": "Bootleg", "ar": "بوتليج" },
+      { "en": "Cover", "ar": "كفر" },
+      { "en": "Mashup", "ar": "ماش أب" }
     ],
     "correctAnswer": 2,
     "explanation_en": "A cover is a performance of a song by someone other than the original artist.",
@@ -1205,29 +725,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which Egyptian singer, known for the patriotic-toned voice and songs like \"Aal El Hob\", was a major voice on Egyptian state radio for decades?",
-    "question_ar": "أنهي مطرب مصري، معروف بصوته وأغاني زي \"قال الحب\"، كان من أهم أصوات الإذاعة المصرية لعقود؟",
+    "question_en": "Wegz performed live at the FIFA Fan Festival during which major 2022 event?",
+    "question_ar": "ويجز غنى لايف في الفان فيستيفال بتاع أنهي حدث كبير سنة 2022؟",
     "options": [
-      {
-        "en": "Medhat Saleh",
-        "ar": "مدحت صالح"
-      },
-      {
-        "en": "Mohamed Mounir",
-        "ar": "محمد منير"
-      },
-      {
-        "en": "Ali El Haggar",
-        "ar": "علي الحجار"
-      },
-      {
-        "en": "Hany Shaker",
-        "ar": "هاني شاكر"
-      }
+      { "en": "The FIFA World Cup in Qatar", "ar": "كأس العالم في قطر" },
+      { "en": "The Africa Cup of Nations", "ar": "كأس أمم أفريقيا" },
+      { "en": "The Olympics", "ar": "الأولمبياد" },
+      { "en": "The Arab Cup", "ar": "كأس العرب" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Ali El Haggar has long been a prominent voice on Egyptian radio and stage.",
-    "explanation_ar": "علي الحجار من أبرز الأصوات في الإذاعة والمسرح المصري لعقود."
+    "correctAnswer": 0,
+    "explanation_en": "Wegz performed at the FIFA Fan Festival during the 2022 World Cup in Qatar.",
+    "explanation_ar": "ويجز غنى في الفان فيستيفال خلال كأس العالم 2022 في قطر."
   },
   {
     "id": "MUS-050-042",
@@ -1235,29 +743,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which US rock band, led by Mick Jagger and Keith Richards, is famous for \"Satisfaction\"?",
-    "question_ar": "أنهي فرقة روك أمريكية-بريطانية، بقيادة ميك جاجر وكيث ريتشاردز، مشهورة بأغنية \"Satisfaction\"؟",
+    "question_en": "Travis Scott's \"Astroworld\" is named after an actual amusement park that used to exist in which US city?",
+    "question_ar": "ألبوم ترافيس سكوت \"Astroworld\" سمي على اسم مدينة ملاهي حقيقية كانت موجودة في أنهي مدينة أمريكية؟",
     "options": [
-      {
-        "en": "The Animals",
-        "ar": "ذا أنيمالز"
-      },
-      {
-        "en": "The Who",
-        "ar": "ذا هو"
-      },
-      {
-        "en": "The Rolling Stones",
-        "ar": "ذا رولينج ستونز"
-      },
-      {
-        "en": "The Kinks",
-        "ar": "ذا كينكس"
-      }
+      { "en": "Houston", "ar": "هيوستن" },
+      { "en": "Dallas", "ar": "دالاس" },
+      { "en": "Atlanta", "ar": "أتلانتا" },
+      { "en": "Miami", "ar": "ميامي" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "The Rolling Stones, fronted by Mick Jagger, made \"Satisfaction\" iconic.",
-    "explanation_ar": "فرقة ذا رولينج ستونز، بقيادة ميك جاجر، غنت \"Satisfaction\" الأسطورية."
+    "correctAnswer": 0,
+    "explanation_en": "Astroworld was a real amusement park in Houston, Travis Scott's hometown.",
+    "explanation_ar": "أستروورلد كانت مدينة ملاهي حقيقية في هيوستن، مسقط رأس ترافيس سكوت."
   },
   {
     "id": "MUS-050-043",
@@ -1265,29 +761,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which classical Arabic vocal improvisation is typically performed without fixed rhythm, showcasing emotional depth before a structured song begins?",
-    "question_ar": "أنهي نوع من الارتجال الغنائي العربي الكلاسيكي بيتقدم من غير إيقاع ثابت قبل الأغنية المنظمة؟",
+    "question_en": "What Arabic term describes the state of musical ecstasy audiences feel during a powerful live performance of classical Arabic song?",
+    "question_ar": "إيه المصطلح العربي اللي بيوصف حالة النشوة اللي بيحسها الجمهور في حفلة طرب قوية؟",
     "options": [
-      {
-        "en": "Zajal",
-        "ar": "زجل"
-      },
-      {
-        "en": "Dabke",
-        "ar": "دبكة"
-      },
-      {
-        "en": "Ataba",
-        "ar": "عتابا"
-      },
-      {
-        "en": "Mawwal",
-        "ar": "موال"
-      }
+      { "en": "Tarab", "ar": "طرب" },
+      { "en": "Maqam", "ar": "مقام" },
+      { "en": "Iqa", "ar": "إيقاع" },
+      { "en": "Mawwal", "ar": "موال" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "The mawwal is a free-rhythm vocal improvisation preceding structured songs.",
-    "explanation_ar": "الموال هو ارتجال غنائي من غير إيقاع ثابت بيتقدم قبل الأغنية المنظمة."
+    "correctAnswer": 0,
+    "explanation_en": "\"Tarab\" describes the musical ecstasy central to Arabic classical performance.",
+    "explanation_ar": "\"الطرب\" بيوصف حالة النشوة الموسيقية الأساسية في الأداء العربي الكلاسيكي."
   },
   {
     "id": "MUS-050-044",
@@ -1295,29 +779,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which Egyptian pop singer's debut hit \"Wana Kolt\" (or similar) launched her career in the late 1990s / early 2000s as one of the top female pop voices?",
-    "question_ar": "أنهي مطربة مصرية بدأت مشوارها كواحدة من أهم أصوات البوب النسائية أواخر التسعينات وبداية الألفينات؟",
+    "question_en": "Felukah, the Egyptian-American rapper/poet, splits her artistic life between Cairo and which US city?",
+    "question_ar": "فلوكة، الرابر والشاعرة المصرية-الأمريكية، بتقسم حياتها الفنية بين القاهرة وأنهي مدينة أمريكية؟",
     "options": [
-      {
-        "en": "Ruby",
-        "ar": "روبي"
-      },
-      {
-        "en": "Angham",
-        "ar": "أنغام"
-      },
-      {
-        "en": "Donia Samir Ghanem",
-        "ar": "دنيا سمير غانم"
-      },
-      {
-        "en": "Sherine",
-        "ar": "شيرين"
-      }
+      { "en": "New York", "ar": "نيويورك" },
+      { "en": "Los Angeles", "ar": "لوس أنجلوس" },
+      { "en": "Chicago", "ar": "شيكاغو" },
+      { "en": "Boston", "ar": "بوسطن" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Sherine debuted in the late 1990s and became one of Egypt's leading female pop voices.",
-    "explanation_ar": "شيرين بدأت مشوارها أواخر التسعينات وبقت من أهم أصوات البوب النسائية في مصر."
+    "correctAnswer": 0,
+    "explanation_en": "Felukah is based between Cairo and New York City.",
+    "explanation_ar": "فلوكة بتعيش بين القاهرة ونيويورك."
   },
   {
     "id": "MUS-050-045",
@@ -1325,29 +797,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which US musician known as \"The Piano Man\" wrote and performed the hit song of the same name in 1973?",
-    "question_ar": "أنهي موسيقي أمريكي معروف بلقب \"The Piano Man\" وغنى أغنية بنفس الاسم سنة 1973؟",
+    "question_en": "Peso Pluma's genre, \"corridos tumbados\", blends traditional Mexican corridos with which modern style?",
+    "question_ar": "أسلوب بيسو بلوما \"كوريدوس توميادوس\" بيمزج الكوريدوس المكسيكي التقليدي بأنهي أسلوب حديث؟",
     "options": [
-      {
-        "en": "Neil Diamond",
-        "ar": "نيل دايموند"
-      },
-      {
-        "en": "Billy Joel",
-        "ar": "بيلي جول"
-      },
-      {
-        "en": "Elton John",
-        "ar": "إلتون جون"
-      },
-      {
-        "en": "Barry Manilow",
-        "ar": "باري مانيلو"
-      }
+      { "en": "Trap", "ar": "تراب" },
+      { "en": "Reggae", "ar": "ريجي" },
+      { "en": "Disco", "ar": "ديسكو" },
+      { "en": "Opera", "ar": "أوبرا" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Billy Joel wrote and performed \"Piano Man\" in 1973.",
-    "explanation_ar": "بيلي جول غنى ولحن \"Piano Man\" سنة 1973."
+    "correctAnswer": 0,
+    "explanation_en": "Corridos tumbados blend traditional Mexican corridos with trap music.",
+    "explanation_ar": "الكوريدوس توميادوس بيمزج الكوريدوس المكسيكي التقليدي بالتراب."
   },
   {
     "id": "MUS-050-046",
@@ -1355,29 +815,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which of these Egyptian singers became widely known through the show \"Star Academy Arabia\" and later had a successful pop career?",
-    "question_ar": "أنهي مطرب مصري بقى مشهور بعد مشاركته في \"ستار أكاديمي العرب\" وبعدين بقى نجم بوب؟",
+    "question_en": "Which of these best describes the mahraganat genre that artists like Hamo Bika and Hassan Shakosh popularized?",
+    "question_ar": "إيه أفضل وصف لنوع المهرجانات اللي نشره فنانين زي حمو بيكا وحسن شاكوش؟",
     "options": [
-      {
-        "en": "Mohamed Attia",
-        "ar": "محمد عطية"
-      },
-      {
-        "en": "Bahaa Sultan",
-        "ar": "بهاء سلطان"
-      },
-      {
-        "en": "Ramy Ayach",
-        "ar": "رامي عياش"
-      },
-      {
-        "en": "Hazem Sherif",
-        "ar": "حازم شريف"
-      }
+      { "en": "Electronic beats with street/shaabi vocals", "ar": "إيقاعات إلكترونية مع غناء شعبي" },
+      { "en": "Classical orchestral music", "ar": "موسيقى أوركسترالية كلاسيكية" },
+      { "en": "Acoustic folk ballads", "ar": "بالادات فلكلورية أكوستيك" },
+      { "en": "Opera-influenced vocals", "ar": "غناء متأثر بالأوبرا" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Bahaa Sultan gained fame through Star Academy and became a successful Egyptian pop singer.",
-    "explanation_ar": "بهاء سلطان بقى معروف من خلال ستار أكاديمي وبعدين بقى مطرب بوب ناجح في مصر."
+    "correctAnswer": 0,
+    "explanation_en": "Mahraganat blends electronic beats with street/shaabi-style vocals and lyrics.",
+    "explanation_ar": "المهرجانات بتمزج الإيقاعات الإلكترونية بالغناء والكلام الشعبي."
   },
   {
     "id": "MUS-050-047",
@@ -1388,22 +836,10 @@
     "question_en": "What is the standard tuning name for a guitar's six open strings, from lowest to highest?",
     "question_ar": "إيه اسم الضبط القياسي لأوتار الجيتار الستة من الأوطى للأعلى؟",
     "options": [
-      {
-        "en": "A D G C E A",
-        "ar": "A D G C E A"
-      },
-      {
-        "en": "G C E A D G",
-        "ar": "G C E A D G"
-      },
-      {
-        "en": "C F A D G C",
-        "ar": "C F A D G C"
-      },
-      {
-        "en": "E A D G B E",
-        "ar": "E A D G B E"
-      }
+      { "en": "A D G C E A", "ar": "A D G C E A" },
+      { "en": "G C E A D G", "ar": "G C E A D G" },
+      { "en": "C F A D G C", "ar": "C F A D G C" },
+      { "en": "E A D G B E", "ar": "E A D G B E" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Standard guitar tuning, low to high, is E A D G B E.",
@@ -1418,22 +854,10 @@
     "question_en": "Which Egyptian singer known for the deep, husky voice sang the shaabi classic \"Zahma Ya Donia Zahma\" and became iconic in the 1990s?",
     "question_ar": "أنهي مطرب مصري بصوته الأجش أصبح أيقونة الشعبي في التسعينات بأغنية \"زحمة يا دنيا زحمة\"؟",
     "options": [
-      {
-        "en": "Ahmed Adaweya",
-        "ar": "أحمد عدوية"
-      },
-      {
-        "en": "Saad El Soghayar",
-        "ar": "سعد الصغير"
-      },
-      {
-        "en": "Hakim",
-        "ar": "حكيم"
-      },
-      {
-        "en": "Shaaban Abdel Rahim",
-        "ar": "شعبان عبد الرحيم"
-      }
+      { "en": "Ahmed Adaweya", "ar": "أحمد عدوية" },
+      { "en": "Saad El Soghayar", "ar": "سعد الصغير" },
+      { "en": "Hakim", "ar": "حكيم" },
+      { "en": "Shaaban Abdel Rahim", "ar": "شعبان عبد الرحيم" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Shaaban Abdel Rahim became a shaabi icon with \"Zahma Ya Donia Zahma\".",
@@ -1445,29 +869,17 @@
     "category_ar": "مزيكا",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which US singer, known for \"Vision of Love\" and record-breaking vocal range, is often called the \"Songbird Supreme\"?",
-    "question_ar": "أنهي مطربة أمريكية معروفة بأغنية \"Vision of Love\" ومدى صوتي أسطوري ولقبها \"Songbird Supreme\"؟",
+    "question_en": "In 2022, Bad Bunny became the most-streamed artist globally on which major platform, for a record third year in a row?",
+    "question_ar": "سنة 2022، باد باني بقى أكتر فنان استماعًا في العالم على أنهي منصة، لثالث سنة على التوالي؟",
     "options": [
-      {
-        "en": "Whitney Houston",
-        "ar": "ويتني هيوستن"
-      },
-      {
-        "en": "Mariah Carey",
-        "ar": "ماريا كاري"
-      },
-      {
-        "en": "Celine Dion",
-        "ar": "سيلين ديون"
-      },
-      {
-        "en": "Christina Aguilera",
-        "ar": "كريستينا أغيليرا"
-      }
+      { "en": "Spotify", "ar": "سبوتيفاي" },
+      { "en": "Apple Music", "ar": "أبل ميوزيك" },
+      { "en": "YouTube Music", "ar": "يوتيوب ميوزيك" },
+      { "en": "SoundCloud", "ar": "ساوند كلاود" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Mariah Carey is renowned for her exceptional vocal range and hits like \"Vision of Love\".",
-    "explanation_ar": "ماريا كاري معروفة بمدى صوتي استثنائي وأغاني زي \"Vision of Love\"."
+    "correctAnswer": 0,
+    "explanation_en": "Bad Bunny was Spotify's most-streamed global artist for three consecutive years (2020-2022).",
+    "explanation_ar": "باد باني كان أكتر فنان استماعًا على سبوتيفاي عالميًا لثلاث سنين متتالية (2020-2022)."
   },
   {
     "id": "MUS-050-050",
@@ -1478,22 +890,10 @@
     "question_en": "Which Egyptian singer, considered the godfather of shaabi music, rose to fame in the 1970s with a distinctive raspy voice and wedding-favorite songs?",
     "question_ar": "أنهي مطرب مصري بيتعتبر عراب الغناء الشعبي وبقى مشهور في السبعينات بصوته الأجش وأغاني الأفراح؟",
     "options": [
-      {
-        "en": "Ahmed Adaweya",
-        "ar": "أحمد عدوية"
-      },
-      {
-        "en": "Hakim",
-        "ar": "حكيم"
-      },
-      {
-        "en": "Shaaban Abdel Rahim",
-        "ar": "شعبان عبد الرحيم"
-      },
-      {
-        "en": "Ali El Haggar",
-        "ar": "علي الحجار"
-      }
+      { "en": "Ahmed Adaweya", "ar": "أحمد عدوية" },
+      { "en": "Hakim", "ar": "حكيم" },
+      { "en": "Shaaban Abdel Rahim", "ar": "شعبان عبد الرحيم" },
+      { "en": "Ali El Haggar", "ar": "علي الحجار" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Ahmed Adaweya is widely regarded as the godfather of modern Egyptian shaabi music.",
