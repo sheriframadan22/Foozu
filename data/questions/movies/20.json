@@ -1205,29 +1205,29 @@
     "category_ar": "افلام",
     "value": 20,
     "difficulty": 2,
-    "question_en": "Which Egyptian actress plays a key role alongside Ahmed Ezz in \"El Khaleya\" (The Cell)?",
-    "question_ar": "مين النجمة المصرية اللي بتمثل دور أساسي مع أحمد عز في فيلم \"الخلية\"؟",
+    "question_en": "In \"El Khaleya\" (The Cell), Ahmed Ezz's officer character seeks revenge after terrorists kill who?",
+    "question_ar": "في فيلم \"الخلية\"، شخصية الضابط اللي بيمثلها أحمد عز بتاخد بالتار بعد ما الإرهابيين بيقتلوا مين؟",
     "options": [
       {
-        "en": "Menna Shalaby",
-        "ar": "منة شلبي"
+        "en": "His close friend",
+        "ar": "صاحبه المقرب"
       },
       {
-        "en": "Yasmin Raeis",
-        "ar": "ياسمين رئيس"
+        "en": "His father",
+        "ar": "والده"
       },
       {
-        "en": "Amina Khalil",
-        "ar": "أمينة خليل"
+        "en": "His commanding officer",
+        "ar": "قائده المباشر"
       },
       {
-        "en": "Nelly Karim",
-        "ar": "نيللي كريم"
+        "en": "His wife",
+        "ar": "زوجته"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Amina Khalil plays a key role in \"El Khaleya\" (The Cell), alongside lead Ahmed Ezz.",
-    "explanation_ar": "أمينة خليل بتمثل دور أساسي في فيلم الخلية مع البطل أحمد عز."
+    "correctAnswer": 0,
+    "explanation_en": "Ahmed Ezz's character seeks revenge after terrorists kill his close friend.",
+    "explanation_ar": "شخصية أحمد عز بتاخد بالتار بعد ما الإرهابيين بيقتلوا صاحبه المقرب."
   },
   {
     "id": "MOV-020-042",
