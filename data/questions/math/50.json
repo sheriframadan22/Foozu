@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "MTH-050-001",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How much is 20% of 150?",
+    "question_ar": "20% من 150 بكام؟",
+    "options": [
+      {
+        "en": "25",
+        "ar": "25"
+      },
+      {
+        "en": "35",
+        "ar": "35"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "20% of 150 = 150/5 = 30.",
+    "explanation_ar": "20% من 150 = 150÷5 = 30."
+  },
+  {
+    "id": "MTH-050-002",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How much is 15% of 80?",
+    "question_ar": "15% من 80 بكام؟",
+    "options": [
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "10% of 80 is 8, half of that (5%) is 4, so 15% = 12.",
+    "explanation_ar": "10% من 80 = 8، و5% = 4، يبقى 15% = 12."
+  },
+  {
+    "id": "MTH-050-003",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How much is 75% of 60?",
+    "question_ar": "75% من 60 بكام؟",
+    "options": [
+      {
+        "en": "50",
+        "ar": "50"
+      },
+      {
+        "en": "40",
+        "ar": "40"
+      },
+      {
+        "en": "45",
+        "ar": "45"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "75% is three quarters: 60 x 3/4 = 45.",
+    "explanation_ar": "75% تلت أرباع: 60 × 3/4 = 45."
+  },
+  {
+    "id": "MTH-050-004",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How much is 40% of 50?",
+    "question_ar": "40% من 50 بكام؟",
+    "options": [
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "25",
+        "ar": "25"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "40% of 50 = 20.",
+    "explanation_ar": "40% من 50 = 20."
+  },
+  {
+    "id": "MTH-050-005",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How much is 60% of 20?",
+    "question_ar": "60% من 20 بكام؟",
+    "options": [
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "14",
+        "ar": "14"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "60% of 20 = 12.",
+    "explanation_ar": "60% من 20 = 12."
+  },
+  {
+    "id": "MTH-050-006",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How much is 20% of 45?",
+    "question_ar": "20% من 45 بكام؟",
+    "options": [
+      {
+        "en": "11",
+        "ar": "11"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "20% of 45 = 45/5 = 9.",
+    "explanation_ar": "20% من 45 = 45÷5 = 9."
+  },
+  {
+    "id": "MTH-050-007",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How much is 30% of 90?",
+    "question_ar": "30% من 90 بكام؟",
+    "options": [
+      {
+        "en": "27",
+        "ar": "27"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      },
+      {
+        "en": "21",
+        "ar": "21"
+      },
+      {
+        "en": "24",
+        "ar": "24"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "30% of 90 = 27.",
+    "explanation_ar": "30% من 90 = 27."
+  },
+  {
+    "id": "MTH-050-008",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How much is 70% of 10?",
+    "question_ar": "70% من 10 بكام؟",
+    "options": [
+      {
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "70% of 10 = 7.",
+    "explanation_ar": "70% من 10 = 7."
+  },
+  {
+    "id": "MTH-050-009",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How much is 90% of 20?",
+    "question_ar": "90% من 20 بكام؟",
+    "options": [
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "19",
+        "ar": "19"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "90% of 20 = 18.",
+    "explanation_ar": "90% من 20 = 18."
+  },
+  {
+    "id": "MTH-050-010",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How much is 35% of 40?",
+    "question_ar": "35% من 40 بكام؟",
+    "options": [
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "35% of 40 = 14.",
+    "explanation_ar": "35% من 40 = 14."
+  },
+  {
+    "id": "MTH-050-011",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is 5/6 of 24?",
+    "question_ar": "5/6 من 24 بكام؟",
+    "options": [
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "22",
+        "ar": "22"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "24 ÷ 6 = 4, and 4 x 5 = 20.",
+    "explanation_ar": "24 ÷ 6 = 4، و4 × 5 = 20."
+  },
+  {
+    "id": "MTH-050-012",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is 7/8 of 16?",
+    "question_ar": "7/8 من 16 بكام؟",
+    "options": [
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "15",
+        "ar": "15"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "16 ÷ 8 = 2, and 2 x 7 = 14.",
+    "explanation_ar": "16 ÷ 8 = 2، و2 × 7 = 14."
+  },
+  {
+    "id": "MTH-050-013",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is 3/5 of 40?",
+    "question_ar": "3/5 من 40 بكام؟",
+    "options": [
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      },
+      {
+        "en": "28",
+        "ar": "28"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "40 ÷ 5 = 8, and 8 x 3 = 24.",
+    "explanation_ar": "40 ÷ 5 = 8، و8 × 3 = 24."
+  },
+  {
+    "id": "MTH-050-014",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is 2/7 of 21?",
+    "question_ar": "2/7 من 21 بكام؟",
+    "options": [
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "21 ÷ 7 = 3, and 3 x 2 = 6.",
+    "explanation_ar": "21 ÷ 7 = 3، و3 × 2 = 6."
+  },
+  {
+    "id": "MTH-050-015",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is 5/8 of 24?",
+    "question_ar": "5/8 من 24 بكام؟",
+    "options": [
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "24 ÷ 8 = 3, and 3 x 5 = 15.",
+    "explanation_ar": "24 ÷ 8 = 3، و3 × 5 = 15."
+  },
+  {
+    "id": "MTH-050-016",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is 4/9 of 27?",
+    "question_ar": "4/9 من 27 بكام؟",
+    "options": [
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "27 ÷ 9 = 3, and 3 x 4 = 12.",
+    "explanation_ar": "27 ÷ 9 = 3، و3 × 4 = 12."
+  },
+  {
+    "id": "MTH-050-017",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is 3/8 of 32?",
+    "question_ar": "3/8 من 32 بكام؟",
+    "options": [
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "32 ÷ 8 = 4, and 4 x 3 = 12.",
+    "explanation_ar": "32 ÷ 8 = 4، و4 × 3 = 12."
+  },
+  {
+    "id": "MTH-050-018",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is 5/12 of 24?",
+    "question_ar": "5/12 من 24 بكام؟",
+    "options": [
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "24 ÷ 12 = 2, and 2 x 5 = 10.",
+    "explanation_ar": "24 ÷ 12 = 2، و2 × 5 = 10."
+  },
+  {
+    "id": "MTH-050-019",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Split 20 in the ratio 1:3. What is the smaller share?",
+    "question_ar": "اقسم 20 بنسبة 1:3، إيه أصغر نصيب؟",
+    "options": [
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "1+3=4 parts, each part = 5, smaller share = 5.",
+    "explanation_ar": "1+3 = 4 حصص، كل حصة 5، فأصغر نصيب = 5."
+  },
+  {
+    "id": "MTH-050-020",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Split 30 in the ratio 2:1. What is the larger share?",
+    "question_ar": "اقسم 30 بنسبة 2:1، إيه أكبر نصيب؟",
+    "options": [
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "25",
+        "ar": "25"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "2+1=3 parts, each part = 10, larger share = 20.",
+    "explanation_ar": "2+1 = 3 حصص، كل حصة 10، فأكبر نصيب = 20."
+  },
+  {
+    "id": "MTH-050-021",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "A recipe needs flour and sugar in ratio 3:1. For 12 cups of flour, how much sugar?",
+    "question_ar": "الوصفة محتاجة دقيق وسكر بنسبة 3:1، لو الدقيق 12 كوب، السكر كام كوب؟",
+    "options": [
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "3",
+        "ar": "3"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "12 ÷ 3 = 4 cups of sugar.",
+    "explanation_ar": "12 ÷ 3 = 4 أكواب سكر."
+  },
+  {
+    "id": "MTH-050-022",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Split 40 in the ratio 1:1. What is each share?",
+    "question_ar": "اقسم 40 بنسبة 1:1، كل نصيب بكام؟",
+    "options": [
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "15",
+        "ar": "15"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Equal ratio means each share is 20.",
+    "explanation_ar": "نسبة متساوية يبقى كل نصيب 20."
+  },
+  {
+    "id": "MTH-050-023",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "In a class of 25, the ratio of boys to girls is 2:3. How many girls?",
+    "question_ar": "فصل فيه 25 طالب، نسبة الولاد للبنات 2:3، البنات كام؟",
+    "options": [
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "2+3=5 parts, each = 5, girls = 3x5 = 15.",
+    "explanation_ar": "2+3 = 5 حصص، كل حصة 5، البنات = 3×5 = 15."
+  },
+  {
+    "id": "MTH-050-024",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Split 18 in the ratio 2:1. What is the smaller share?",
+    "question_ar": "اقسم 18 بنسبة 2:1، إيه أصغر نصيب؟",
+    "options": [
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "3",
+        "ar": "3"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "2+1=3 parts, each part = 6, smaller share = 6.",
+    "explanation_ar": "2+1 = 3 حصص، كل حصة 6، أصغر نصيب = 6."
+  },
+  {
+    "id": "MTH-050-025",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "A map has a scale of 1:100. 3 cm on the map equals how many cm in real life?",
+    "question_ar": "خريطة بمقياس 1:100، 3 سم على الخريطة تساوي كام سم في الواقع؟",
+    "options": [
+      {
+        "en": "30",
+        "ar": "30"
+      },
+      {
+        "en": "103",
+        "ar": "103"
+      },
+      {
+        "en": "100",
+        "ar": "100"
+      },
+      {
+        "en": "300",
+        "ar": "300"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "3 x 100 = 300 cm.",
+    "explanation_ar": "3 × 100 = 300 سم."
+  },
+  {
+    "id": "MTH-050-026",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Split 50 in the ratio 3:2. What is the larger share?",
+    "question_ar": "اقسم 50 بنسبة 3:2، إيه أكبر نصيب؟",
+    "options": [
+      {
+        "en": "25",
+        "ar": "25"
+      },
+      {
+        "en": "35",
+        "ar": "35"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "3+2=5 parts, each = 10, larger = 3x10 = 30.",
+    "explanation_ar": "3+2 = 5 حصص، كل حصة 10، أكبر نصيب = 3×10 = 30."
+  },
+  {
+    "id": "MTH-050-027",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the perimeter of a square with side 5?",
+    "question_ar": "محيط مربع طول ضلعه 5 بكام؟",
+    "options": [
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "25",
+        "ar": "25"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Perimeter = 4 x 5 = 20.",
+    "explanation_ar": "المحيط = 4 × 5 = 20."
+  },
+  {
+    "id": "MTH-050-028",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the perimeter of a square with side 8?",
+    "question_ar": "محيط مربع طول ضلعه 8 بكام؟",
+    "options": [
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "40",
+        "ar": "40"
+      },
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "32",
+        "ar": "32"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Perimeter = 4 x 8 = 32.",
+    "explanation_ar": "المحيط = 4 × 8 = 32."
+  },
+  {
+    "id": "MTH-050-029",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the area of a square with side 4?",
+    "question_ar": "مساحة مربع طول ضلعه 4 بكام؟",
+    "options": [
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Area = 4 x 4 = 16.",
+    "explanation_ar": "المساحة = 4 × 4 = 16."
+  },
+  {
+    "id": "MTH-050-030",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the area of a square with side 6?",
+    "question_ar": "مساحة مربع طول ضلعه 6 بكام؟",
+    "options": [
+      {
+        "en": "42",
+        "ar": "42"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      },
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "36",
+        "ar": "36"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Area = 6 x 6 = 36.",
+    "explanation_ar": "المساحة = 6 × 6 = 36."
+  },
+  {
+    "id": "MTH-050-031",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the perimeter of a rectangle 4 by 6?",
+    "question_ar": "محيط مستطيل أبعاده 4 في 6 بكام؟",
+    "options": [
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "24",
+        "ar": "24"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Perimeter = 2 x (4+6) = 20.",
+    "explanation_ar": "المحيط = 2 × (4+6) = 20."
+  },
+  {
+    "id": "MTH-050-032",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the perimeter of a rectangle 3 by 9?",
+    "question_ar": "محيط مستطيل أبعاده 3 في 9 بكام؟",
+    "options": [
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "27",
+        "ar": "27"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Perimeter = 2 x (3+9) = 24.",
+    "explanation_ar": "المحيط = 2 × (3+9) = 24."
+  },
+  {
+    "id": "MTH-050-033",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the area of a rectangle 5 by 4?",
+    "question_ar": "مساحة مستطيل أبعاده 5 في 4 بكام؟",
+    "options": [
+      {
+        "en": "25",
+        "ar": "25"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Area = 5 x 4 = 20.",
+    "explanation_ar": "المساحة = 5 × 4 = 20."
+  },
+  {
+    "id": "MTH-050-034",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the area of a rectangle 6 by 3?",
+    "question_ar": "مساحة مستطيل أبعاده 6 في 3 بكام؟",
+    "options": [
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "24",
+        "ar": "24"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Area = 6 x 3 = 18.",
+    "explanation_ar": "المساحة = 6 × 3 = 18."
+  },
+  {
+    "id": "MTH-050-035",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the area of a square with side 7?",
+    "question_ar": "مساحة مربع طول ضلعه 7 بكام؟",
+    "options": [
+      {
+        "en": "49",
+        "ar": "49"
+      },
+      {
+        "en": "56",
+        "ar": "56"
+      },
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "42",
+        "ar": "42"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Area = 7 x 7 = 49.",
+    "explanation_ar": "المساحة = 7 × 7 = 49."
+  },
+  {
+    "id": "MTH-050-036",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the perimeter of a square with side 10?",
+    "question_ar": "محيط مربع طول ضلعه 10 بكام؟",
+    "options": [
+      {
+        "en": "100",
+        "ar": "100"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      },
+      {
+        "en": "40",
+        "ar": "40"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Perimeter = 4 x 10 = 40.",
+    "explanation_ar": "المحيط = 4 × 10 = 40."
+  },
+  {
+    "id": "MTH-050-037",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the area of a rectangle 8 by 2?",
+    "question_ar": "مساحة مستطيل أبعاده 8 في 2 بكام؟",
+    "options": [
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Area = 8 x 2 = 16.",
+    "explanation_ar": "المساحة = 8 × 2 = 16."
+  },
+  {
+    "id": "MTH-050-038",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the perimeter of a rectangle 7 by 3?",
+    "question_ar": "محيط مستطيل أبعاده 7 في 3 بكام؟",
+    "options": [
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "21",
+        "ar": "21"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Perimeter = 2 x (7+3) = 20.",
+    "explanation_ar": "المحيط = 2 × (7+3) = 20."
+  },
+  {
+    "id": "MTH-050-039",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the area of a square with side 9?",
+    "question_ar": "مساحة مربع طول ضلعه 9 بكام؟",
+    "options": [
+      {
+        "en": "81",
+        "ar": "81"
+      },
+      {
+        "en": "72",
+        "ar": "72"
+      },
+      {
+        "en": "90",
+        "ar": "90"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Area = 9 x 9 = 81.",
+    "explanation_ar": "المساحة = 9 × 9 = 81."
+  },
+  {
+    "id": "MTH-050-040",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the perimeter of a rectangle 12 by 4?",
+    "question_ar": "محيط مستطيل أبعاده 12 في 4 بكام؟",
+    "options": [
+      {
+        "en": "48",
+        "ar": "48"
+      },
+      {
+        "en": "32",
+        "ar": "32"
+      },
+      {
+        "en": "28",
+        "ar": "28"
+      },
+      {
+        "en": "16",
+        "ar": "16"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Perimeter = 2 x (12+4) = 32.",
+    "explanation_ar": "المحيط = 2 × (12+4) = 32."
+  },
+  {
+    "id": "MTH-050-041",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What comes next: 2, 4, 6, 8, ?",
+    "question_ar": "إيه اللي بعد كده: 2، 4، 6، 8، ...؟",
+    "options": [
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "11",
+        "ar": "11"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The pattern adds 2 each time: next is 10.",
+    "explanation_ar": "النمط بيزود 2 كل مرة، فاللي بعد كده 10."
+  },
+  {
+    "id": "MTH-050-042",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What comes next: 5, 10, 15, 20, ?",
+    "question_ar": "إيه اللي بعد كده: 5، 10، 15، 20، ...؟",
+    "options": [
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "22",
+        "ar": "22"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      },
+      {
+        "en": "25",
+        "ar": "25"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The pattern adds 5 each time: next is 25.",
+    "explanation_ar": "النمط بيزود 5 كل مرة، فاللي بعد كده 25."
+  },
+  {
+    "id": "MTH-050-043",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What comes next: 1, 2, 4, 8, ?",
+    "question_ar": "إيه اللي بعد كده: 1، 2، 4، 8، ...؟",
+    "options": [
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Each number doubles: next is 16.",
+    "explanation_ar": "كل رقم بيتضاعف، فاللي بعد كده 16."
+  },
+  {
+    "id": "MTH-050-044",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What comes next: 3, 6, 9, 12, ?",
+    "question_ar": "إيه اللي بعد كده: 3، 6، 9، 12، ...؟",
+    "options": [
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "13",
+        "ar": "13"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The pattern adds 3 each time: next is 15.",
+    "explanation_ar": "النمط بيزود 3 كل مرة، فاللي بعد كده 15."
+  },
+  {
+    "id": "MTH-050-045",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What comes next: 100, 90, 80, ?",
+    "question_ar": "إيه اللي بعد كده: 100، 90، 80، ...؟",
+    "options": [
+      {
+        "en": "65",
+        "ar": "65"
+      },
+      {
+        "en": "70",
+        "ar": "70"
+      },
+      {
+        "en": "75",
+        "ar": "75"
+      },
+      {
+        "en": "60",
+        "ar": "60"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The pattern subtracts 10 each time: next is 70.",
+    "explanation_ar": "النمط بينقص 10 كل مرة، فاللي بعد كده 70."
+  },
+  {
+    "id": "MTH-050-046",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What comes next: 1, 3, 5, 7, ?",
+    "question_ar": "إيه اللي بعد كده: 1، 3، 5، 7، ...؟",
+    "options": [
+      {
+        "en": "11",
+        "ar": "11"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The odd numbers pattern: next is 9.",
+    "explanation_ar": "نمط الأرقام الفردية، فاللي بعد كده 9."
+  },
+  {
+    "id": "MTH-050-047",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What comes next: 10, 20, 40, 80, ?",
+    "question_ar": "إيه اللي بعد كده: 10، 20، 40، 80، ...؟",
+    "options": [
+      {
+        "en": "160",
+        "ar": "160"
+      },
+      {
+        "en": "120",
+        "ar": "120"
+      },
+      {
+        "en": "140",
+        "ar": "140"
+      },
+      {
+        "en": "100",
+        "ar": "100"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Each number doubles: next is 160.",
+    "explanation_ar": "كل رقم بيتضاعف، فاللي بعد كده 160."
+  },
+  {
+    "id": "MTH-050-048",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What comes next: 50, 40, 30, ?",
+    "question_ar": "إيه اللي بعد كده: 50، 40، 30، ...؟",
+    "options": [
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "25",
+        "ar": "25"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The pattern subtracts 10 each time: next is 20.",
+    "explanation_ar": "النمط بينقص 10 كل مرة، فاللي بعد كده 20."
+  },
+  {
+    "id": "MTH-050-049",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What comes next: 2, 5, 8, 11, ?",
+    "question_ar": "إيه اللي بعد كده: 2، 5، 8، 11، ...؟",
+    "options": [
+      {
+        "en": "13",
+        "ar": "13"
+      },
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The pattern adds 3 each time: next is 14.",
+    "explanation_ar": "النمط بيزود 3 كل مرة، فاللي بعد كده 14."
+  },
+  {
+    "id": "MTH-050-050",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What comes next: 1, 4, 9, 16, ?",
+    "question_ar": "إيه اللي بعد كده: 1، 4، 9، 16، ...؟",
+    "options": [
+      {
+        "en": "22",
+        "ar": "22"
+      },
+      {
+        "en": "25",
+        "ar": "25"
+      },
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "These are square numbers (1²,2²,3²,4²...): next is 5² = 25.",
+    "explanation_ar": "دي أرقام تربيع (1²,2²,3²,4²...)، فاللي بعد كده 5² = 25."
+  }
+]

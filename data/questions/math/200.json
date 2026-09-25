@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "MTH-200-001",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Think of any number: double it, add 10, halve it, then subtract your original number. What do you always get?",
+    "question_ar": "افتكر أي رقم: ضاعفه، وزود عليه 10، وبعدين نصّه، وبعد كده اطرح منه رقمك الأصلي. هتلاقي طلعلك كام على طول؟",
+    "options": [
+      {
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "0",
+        "ar": "0"
+      },
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "2x+10 halved is x+5; minus x leaves 5, always.",
+    "explanation_ar": "2x+10 لما تتنص بتبقى x+5، واطرح x يفضل 5 دايمًا."
+  },
+  {
+    "id": "MTH-200-002",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Think of any number: add 4, double the result, subtract 8, halve it, then subtract your original number. What do you always get?",
+    "question_ar": "افتكر أي رقم: زود عليه 4، وضاعف الناتج، واطرح 8، وبعدين نصّه، وبعد كده اطرح رقمك الأصلي. هتلاقي طلعلك كام؟",
+    "options": [
+      {
+        "en": "0",
+        "ar": "0"
+      },
+      {
+        "en": "2",
+        "ar": "2"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "All the steps cancel out perfectly, so the answer is always 0.",
+    "explanation_ar": "كل الخطوات بتلغي بعض بالظبط، فالناتج دايمًا صفر."
+  },
+  {
+    "id": "MTH-200-003",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Think of any number: multiply it by 3, add 6, divide by 3, then subtract your original number. What do you always get?",
+    "question_ar": "افتكر أي رقم: اضربه في 3، وزود عليه 6، واقسمه على 3، وبعد كده اطرح رقمك الأصلي. هتلاقي طلعلك كام؟",
+    "options": [
+      {
+        "en": "2",
+        "ar": "2"
+      },
+      {
+        "en": "3",
+        "ar": "3"
+      },
+      {
+        "en": "0",
+        "ar": "0"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "3x+6 divided by 3 is x+2; minus x leaves 2, always.",
+    "explanation_ar": "3x+6 لما تتقسم على 3 بتبقى x+2، واطرح x يفضل 2 دايمًا."
+  },
+  {
+    "id": "MTH-200-004",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Think of any number: add 10, double it, subtract 4, halve it, then subtract your original number. What do you always get?",
+    "question_ar": "افتكر أي رقم: زود عليه 10، وضاعفه، واطرح 4، وبعدين نصّه، وبعد كده اطرح رقمك الأصلي. هتلاقي طلعلك كام؟",
+    "options": [
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The steps always simplify to your number plus 8, minus itself, leaving 8.",
+    "explanation_ar": "الخطوات بترجع دايمًا لرقمك زائد 8، وبعد الطرح يفضل 8."
+  },
+  {
+    "id": "MTH-200-005",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Think of any number: multiply it by 3, add 12, divide by 3, then subtract your original number. What do you always get?",
+    "question_ar": "افتكر أي رقم: اضربه في 3، وزود عليه 12، واقسمه على 3، وبعد كده اطرح رقمك الأصلي. هتلاقي طلعلك كام؟",
+    "options": [
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "3",
+        "ar": "3"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "3x+12 divided by 3 is x+4; minus x leaves 4, always.",
+    "explanation_ar": "3x+12 لما تتقسم على 3 بتبقى x+4، واطرح x يفضل 4 دايمًا."
+  },
+  {
+    "id": "MTH-200-006",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Think of any number: add 6, multiply by 3, subtract 9, divide by 3, then subtract your original number. What do you always get?",
+    "question_ar": "افتكر أي رقم: زود عليه 6، واضربه في 3، واطرح 9، واقسمه على 3، وبعد كده اطرح رقمك الأصلي. هتلاقي طلعلك كام؟",
+    "options": [
+      {
+        "en": "2",
+        "ar": "2"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "3",
+        "ar": "3"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Every step simplifies to your number plus 3; minus itself leaves 3.",
+    "explanation_ar": "الخطوات كلها بترجع لرقمك زائد 3، وبعد الطرح يفضل 3."
+  },
+  {
+    "id": "MTH-200-007",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is 99 x 101?",
+    "question_ar": "99 × 101 بكام؟",
+    "options": [
+      {
+        "en": "9909",
+        "ar": "9909"
+      },
+      {
+        "en": "10099",
+        "ar": "10099"
+      },
+      {
+        "en": "9989",
+        "ar": "9989"
+      },
+      {
+        "en": "9999",
+        "ar": "9999"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "99 x 101 = (100-1)(100+1) = 10000-1 = 9999.",
+    "explanation_ar": "99 × 101 = (100-1)(100+1) = 10000-1 = 9999."
+  },
+  {
+    "id": "MTH-200-008",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is 98 x 102?",
+    "question_ar": "98 × 102 بكام؟",
+    "options": [
+      {
+        "en": "9906",
+        "ar": "9906"
+      },
+      {
+        "en": "10004",
+        "ar": "10004"
+      },
+      {
+        "en": "9996",
+        "ar": "9996"
+      },
+      {
+        "en": "9986",
+        "ar": "9986"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "98 x 102 = (100-2)(100+2) = 10000-4 = 9996.",
+    "explanation_ar": "98 × 102 = (100-2)(100+2) = 10000-4 = 9996."
+  },
+  {
+    "id": "MTH-200-009",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is 25 x 44?",
+    "question_ar": "25 × 44 بكام؟",
+    "options": [
+      {
+        "en": "1100",
+        "ar": "1100"
+      },
+      {
+        "en": "1000",
+        "ar": "1000"
+      },
+      {
+        "en": "1200",
+        "ar": "1200"
+      },
+      {
+        "en": "900",
+        "ar": "900"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "25 x 44 = 25 x 4 x 11 = 100 x 11 = 1100.",
+    "explanation_ar": "25 × 44 = 25 × 4 × 11 = 100 × 11 = 1100."
+  },
+  {
+    "id": "MTH-200-010",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is 11 x 99?",
+    "question_ar": "11 × 99 بكام؟",
+    "options": [
+      {
+        "en": "1189",
+        "ar": "1189"
+      },
+      {
+        "en": "989",
+        "ar": "989"
+      },
+      {
+        "en": "1099",
+        "ar": "1099"
+      },
+      {
+        "en": "1089",
+        "ar": "1089"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "11 x 99 = 11 x 100 - 11 = 1100 - 11 = 1089.",
+    "explanation_ar": "11 × 99 = 11 × 100 - 11 = 1100 - 11 = 1089."
+  },
+  {
+    "id": "MTH-200-011",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is 15 x 15?",
+    "question_ar": "15 في 15 بكام؟",
+    "options": [
+      {
+        "en": "235",
+        "ar": "235"
+      },
+      {
+        "en": "225",
+        "ar": "225"
+      },
+      {
+        "en": "205",
+        "ar": "205"
+      },
+      {
+        "en": "215",
+        "ar": "215"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "(10+5)² = 100 + 100 + 25 = 225.",
+    "explanation_ar": "(10+5)² = 100 + 100 + 25 = 225."
+  },
+  {
+    "id": "MTH-200-012",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is 45 x 45?",
+    "question_ar": "45 × 45 بكام؟",
+    "options": [
+      {
+        "en": "2005",
+        "ar": "2005"
+      },
+      {
+        "en": "1985",
+        "ar": "1985"
+      },
+      {
+        "en": "2025",
+        "ar": "2025"
+      },
+      {
+        "en": "2045",
+        "ar": "2045"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "(40+5)² = 1600 + 400 + 25 = 2025.",
+    "explanation_ar": "(40+5)² = 1600 + 400 + 25 = 2025."
+  },
+  {
+    "id": "MTH-200-013",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is 35 x 35?",
+    "question_ar": "35 × 35 بكام؟",
+    "options": [
+      {
+        "en": "1225",
+        "ar": "1225"
+      },
+      {
+        "en": "1205",
+        "ar": "1205"
+      },
+      {
+        "en": "1215",
+        "ar": "1215"
+      },
+      {
+        "en": "1325",
+        "ar": "1325"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "(30+5)² = 900 + 300 + 25 = 1225.",
+    "explanation_ar": "(30+5)² = 900 + 300 + 25 = 1225."
+  },
+  {
+    "id": "MTH-200-014",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is 96 x 104?",
+    "question_ar": "96 × 104 بكام؟",
+    "options": [
+      {
+        "en": "9984",
+        "ar": "9984"
+      },
+      {
+        "en": "9974",
+        "ar": "9974"
+      },
+      {
+        "en": "9994",
+        "ar": "9994"
+      },
+      {
+        "en": "10004",
+        "ar": "10004"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "96 x 104 = (100-4)(100+4) = 10000-16 = 9984.",
+    "explanation_ar": "96 × 104 = (100-4)(100+4) = 10000-16 = 9984."
+  },
+  {
+    "id": "MTH-200-015",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the sum of all numbers from 1 to 10?",
+    "question_ar": "مجموع كل الأرقام من 1 لـ 10 بكام؟",
+    "options": [
+      {
+        "en": "45",
+        "ar": "45"
+      },
+      {
+        "en": "50",
+        "ar": "50"
+      },
+      {
+        "en": "60",
+        "ar": "60"
+      },
+      {
+        "en": "55",
+        "ar": "55"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Gauss's trick: (1+10) x 10 ÷ 2 = 55.",
+    "explanation_ar": "طريقة جاوس: (1+10) × 10 ÷ 2 = 55."
+  },
+  {
+    "id": "MTH-200-016",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the sum of all numbers from 1 to 20?",
+    "question_ar": "مجموع كل الأرقام من 1 لـ 20 بكام؟",
+    "options": [
+      {
+        "en": "220",
+        "ar": "220"
+      },
+      {
+        "en": "210",
+        "ar": "210"
+      },
+      {
+        "en": "190",
+        "ar": "190"
+      },
+      {
+        "en": "200",
+        "ar": "200"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "(1+20) x 20 ÷ 2 = 210.",
+    "explanation_ar": "(1+20) × 20 ÷ 2 = 210."
+  },
+  {
+    "id": "MTH-200-017",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the sum of all numbers from 1 to 50?",
+    "question_ar": "مجموع كل الأرقام من 1 لـ 50 بكام؟",
+    "options": [
+      {
+        "en": "1275",
+        "ar": "1275"
+      },
+      {
+        "en": "1250",
+        "ar": "1250"
+      },
+      {
+        "en": "1300",
+        "ar": "1300"
+      },
+      {
+        "en": "1225",
+        "ar": "1225"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "(1+50) x 50 ÷ 2 = 1275.",
+    "explanation_ar": "(1+50) × 50 ÷ 2 = 1275."
+  },
+  {
+    "id": "MTH-200-018",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the sum of all numbers from 1 to 100?",
+    "question_ar": "مجموع كل الأرقام من 1 لـ 100 بكام؟",
+    "options": [
+      {
+        "en": "5150",
+        "ar": "5150"
+      },
+      {
+        "en": "4950",
+        "ar": "4950"
+      },
+      {
+        "en": "5000",
+        "ar": "5000"
+      },
+      {
+        "en": "5050",
+        "ar": "5050"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The famous Gauss trick: (1+100) x 100 ÷ 2 = 5050.",
+    "explanation_ar": "طريقة جاوس الشهيرة: (1+100) × 100 ÷ 2 = 5050."
+  },
+  {
+    "id": "MTH-200-019",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the sum of the first 10 even numbers (2+4+...+20)?",
+    "question_ar": "مجموع أول 10 أرقام زوجية (2+4+...+20) بكام؟",
+    "options": [
+      {
+        "en": "90",
+        "ar": "90"
+      },
+      {
+        "en": "100",
+        "ar": "100"
+      },
+      {
+        "en": "120",
+        "ar": "120"
+      },
+      {
+        "en": "110",
+        "ar": "110"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "It's double the sum of 1 to 10: 2 x 55 = 110.",
+    "explanation_ar": "هو ضعف مجموع 1 لـ 10: 2 × 55 = 110."
+  },
+  {
+    "id": "MTH-200-020",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the sum of the first 10 odd numbers (1+3+...+19)?",
+    "question_ar": "مجموع أول 10 أرقام فردية (1+3+...+19) بكام؟",
+    "options": [
+      {
+        "en": "81",
+        "ar": "81"
+      },
+      {
+        "en": "90",
+        "ar": "90"
+      },
+      {
+        "en": "110",
+        "ar": "110"
+      },
+      {
+        "en": "100",
+        "ar": "100"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The sum of the first n odd numbers is always n²: 10² = 100.",
+    "explanation_ar": "مجموع أول n رقم فردي دايمًا بيساوي n²: 10² = 100."
+  },
+  {
+    "id": "MTH-200-021",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the sum of all numbers from 1 to 30?",
+    "question_ar": "مجموع كل الأرقام من 1 لـ 30 بكام؟",
+    "options": [
+      {
+        "en": "465",
+        "ar": "465"
+      },
+      {
+        "en": "435",
+        "ar": "435"
+      },
+      {
+        "en": "450",
+        "ar": "450"
+      },
+      {
+        "en": "480",
+        "ar": "480"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "(1+30) x 30 ÷ 2 = 465.",
+    "explanation_ar": "(1+30) × 30 ÷ 2 = 465."
+  },
+  {
+    "id": "MTH-200-022",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the sum of the first 5 multiples of 4 (4+8+12+16+20)?",
+    "question_ar": "مجموع أول 5 مضاعفات للرقم 4 (4+8+12+16+20) بكام؟",
+    "options": [
+      {
+        "en": "56",
+        "ar": "56"
+      },
+      {
+        "en": "60",
+        "ar": "60"
+      },
+      {
+        "en": "64",
+        "ar": "64"
+      },
+      {
+        "en": "50",
+        "ar": "50"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "4+8+12+16+20 = 60.",
+    "explanation_ar": "4+8+12+16+20 = 60."
+  },
+  {
+    "id": "MTH-200-023",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the sum of the digits of 999?",
+    "question_ar": "مجموع أرقام العدد 999 بكام؟",
+    "options": [
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "27",
+        "ar": "27"
+      },
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "36",
+        "ar": "36"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "9+9+9 = 27.",
+    "explanation_ar": "9+9+9 = 27."
+  },
+  {
+    "id": "MTH-200-024",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "How many times does the digit 7 appear when you write all the numbers from 1 to 100?",
+    "question_ar": "الرقم 7 بيتكرر كام مرة لو كتبت كل الأرقام من 1 لـ 100؟",
+    "options": [
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "19",
+        "ar": "19"
+      },
+      {
+        "en": "11",
+        "ar": "11"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "It appears 10 times as a units digit and 10 times as a tens digit (70-79): 20 total.",
+    "explanation_ar": "بيظهر 10 مرات في خانة الآحاد و10 مرات في خانة العشرات (70-79)، المجموع 20."
+  },
+  {
+    "id": "MTH-200-025",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the sum of the digits of 123456789?",
+    "question_ar": "مجموع أرقام العدد 123456789 بكام؟",
+    "options": [
+      {
+        "en": "40",
+        "ar": "40"
+      },
+      {
+        "en": "36",
+        "ar": "36"
+      },
+      {
+        "en": "50",
+        "ar": "50"
+      },
+      {
+        "en": "45",
+        "ar": "45"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "1+2+3+4+5+6+7+8+9 = 45.",
+    "explanation_ar": "1+2+3+4+5+6+7+8+9 = 45."
+  },
+  {
+    "id": "MTH-200-026",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the sum of the digits of 1,000,000 (one million)?",
+    "question_ar": "مجموع أرقام العدد 1,000,000 (مليون) بكام؟",
+    "options": [
+      {
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "en": "0",
+        "ar": "0"
+      },
+      {
+        "en": "1",
+        "ar": "1"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "One million is 1 followed by six zeros, so the digit sum is 1.",
+    "explanation_ar": "المليون هو 1 وبعده 6 أصفار، فمجموع أرقامه 1."
+  },
+  {
+    "id": "MTH-200-027",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "A two-digit number's digits add up to 9. Reversing its digits gives a number 9 less than the original. What is it?",
+    "question_ar": "عدد من رقمين مجموع رقميه 9، ولو عكست رقميه يطلع أصغر من الأصلي بـ 9، إيه هو العدد؟",
+    "options": [
+      {
+        "en": "72",
+        "ar": "72"
+      },
+      {
+        "en": "63",
+        "ar": "63"
+      },
+      {
+        "en": "45",
+        "ar": "45"
+      },
+      {
+        "en": "54",
+        "ar": "54"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "54 reversed is 45, and 54-45=9, with digits 5+4=9.",
+    "explanation_ar": "54 مقلوبة 45، و54-45=9، ومجموع رقميه 5+4=9."
+  },
+  {
+    "id": "MTH-200-028",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the sum of the digits of 4096?",
+    "question_ar": "مجموع أرقام العدد 4096 بكام؟",
+    "options": [
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "21",
+        "ar": "21"
+      },
+      {
+        "en": "17",
+        "ar": "17"
+      },
+      {
+        "en": "19",
+        "ar": "19"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "4+0+9+6 = 19.",
+    "explanation_ar": "4+0+9+6 = 19."
+  },
+  {
+    "id": "MTH-200-029",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Take any 3-digit number with different first and last digits, and subtract its digit-reversal. The result is always a multiple of what number?",
+    "question_ar": "خد أي عدد من 3 أرقام أول رقم فيه مختلف عن آخر رقم، واطرح منه العدد بعد ما تقلبه، الناتج دايمًا مضاعف لأنهي رقم؟",
+    "options": [
+      {
+        "en": "11",
+        "ar": "11"
+      },
+      {
+        "en": "100",
+        "ar": "100"
+      },
+      {
+        "en": "99",
+        "ar": "99"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The difference always equals 99 times the difference of the first and last digits.",
+    "explanation_ar": "الفرق دايمًا بيساوي 99 مضروبة في الفرق بين أول رقم وآخر رقم."
+  },
+  {
+    "id": "MTH-200-030",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the sum of the digits of 87654321?",
+    "question_ar": "مجموع أرقام العدد 87654321 بكام؟",
+    "options": [
+      {
+        "en": "45",
+        "ar": "45"
+      },
+      {
+        "en": "36",
+        "ar": "36"
+      },
+      {
+        "en": "40",
+        "ar": "40"
+      },
+      {
+        "en": "32",
+        "ar": "32"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "8+7+6+5+4+3+2+1 = 36.",
+    "explanation_ar": "8+7+6+5+4+3+2+1 = 36."
+  },
+  {
+    "id": "MTH-200-031",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "5 people at a party each shake hands with every other person exactly once. How many handshakes happen in total?",
+    "question_ar": "5 أشخاص في حفلة، كل واحد بيصافح كل واحد تاني مرة واحدة بس، فيه كام مصافحة بالظبط؟",
+    "options": [
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "25",
+        "ar": "25"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "5 x 4 ÷ 2 = 10 handshakes.",
+    "explanation_ar": "5 × 4 ÷ 2 = 10 مصافحات."
+  },
+  {
+    "id": "MTH-200-032",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "How many diagonals does a hexagon (6-sided shape) have?",
+    "question_ar": "الشكل السداسي ليه كام قطر؟",
+    "options": [
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "n(n-3)/2 = 6x3/2 = 9 diagonals.",
+    "explanation_ar": "n(n-3)/2 = 6×3/2 = 9 أقطار."
+  },
+  {
+    "id": "MTH-200-033",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "How many diagonals does an octagon (8-sided shape) have?",
+    "question_ar": "الشكل الثماني ليه كام قطر؟",
+    "options": [
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "28",
+        "ar": "28"
+      },
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "n(n-3)/2 = 8x5/2 = 20 diagonals.",
+    "explanation_ar": "n(n-3)/2 = 8×5/2 = 20 قطر."
+  },
+  {
+    "id": "MTH-200-034",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "In a knockout tournament with 16 teams, how many matches are played until there is one champion?",
+    "question_ar": "بطولة إقصاء فيها 16 فريق، فيه كام ماتش لحد ما يطلع بطل واحد؟",
+    "options": [
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "31",
+        "ar": "31"
+      },
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "15",
+        "ar": "15"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Each match eliminates exactly one team, so 15 matches are needed to eliminate 15 teams.",
+    "explanation_ar": "كل ماتش بيقصي فريق واحد بس، يبقى محتاجين 15 ماتش عشان يقصوا 15 فريق."
+  },
+  {
+    "id": "MTH-200-035",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "In a round-robin tournament, 8 players each play every other player exactly once. How many games are played in total?",
+    "question_ar": "بطولة دوري كامل فيها 8 لاعبين، كل واحد بيلعب مع كل واحد تاني مرة واحدة، فيه كام ماتش بالظبط؟",
+    "options": [
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "28",
+        "ar": "28"
+      },
+      {
+        "en": "32",
+        "ar": "32"
+      },
+      {
+        "en": "24",
+        "ar": "24"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "8 x 7 ÷ 2 = 28 games.",
+    "explanation_ar": "8 × 7 ÷ 2 = 28 ماتش."
+  },
+  {
+    "id": "MTH-200-036",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "A single-elimination tournament has 32 players. How many total matches are needed to find the champion?",
+    "question_ar": "بطولة إقصاء فردي فيها 32 لاعب، فيه كام ماتش لازم عشان يطلع بطل واحد؟",
+    "options": [
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "32",
+        "ar": "32"
+      },
+      {
+        "en": "31",
+        "ar": "31"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Each match eliminates one player; 31 players must be eliminated, so 31 matches.",
+    "explanation_ar": "كل ماتش بيقصي لاعب واحد، فمحتاجين نقصي 31 لاعب يعني 31 ماتش."
+  },
+  {
+    "id": "MTH-200-037",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "If today is Wednesday, what day of the week will it be in 100 days?",
+    "question_ar": "لو النهاردة الأربع، هيكون بعد 100 يوم إيه؟",
+    "options": [
+      {
+        "en": "Monday",
+        "ar": "الاتنين"
+      },
+      {
+        "en": "Saturday",
+        "ar": "السبت"
+      },
+      {
+        "en": "Friday",
+        "ar": "الجمعة"
+      },
+      {
+        "en": "Thursday",
+        "ar": "الخميس"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "100 ÷ 7 leaves remainder 2, so 2 days after Wednesday is Friday.",
+    "explanation_ar": "100 ÷ 7 الباقي 2، يبقى بعد الأربع بيومين يطلع الجمعة."
+  },
+  {
+    "id": "MTH-200-038",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "If today is Monday, what day of the week will it be in 50 days?",
+    "question_ar": "لو النهاردة الاتنين، هيكون بعد 50 يوم إيه؟",
+    "options": [
+      {
+        "en": "Tuesday",
+        "ar": "الثلاثاء"
+      },
+      {
+        "en": "Thursday",
+        "ar": "الخميس"
+      },
+      {
+        "en": "Sunday",
+        "ar": "الحد"
+      },
+      {
+        "en": "Wednesday",
+        "ar": "الأربع"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "50 ÷ 7 leaves remainder 1, so 1 day after Monday is Tuesday.",
+    "explanation_ar": "50 ÷ 7 الباقي 1، يبقى بعد الاتنين بيوم يطلع الثلاثاء."
+  },
+  {
+    "id": "MTH-200-039",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "If today is Sunday, what day of the week will it be in 30 days?",
+    "question_ar": "لو النهاردة الحد، هيكون بعد 30 يوم إيه؟",
+    "options": [
+      {
+        "en": "Monday",
+        "ar": "الاتنين"
+      },
+      {
+        "en": "Saturday",
+        "ar": "السبت"
+      },
+      {
+        "en": "Tuesday",
+        "ar": "الثلاثاء"
+      },
+      {
+        "en": "Wednesday",
+        "ar": "الأربع"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "30 ÷ 7 leaves remainder 2, so 2 days after Sunday is Tuesday.",
+    "explanation_ar": "30 ÷ 7 الباقي 2، يبقى بعد الحد بيومين يطلع الثلاثاء."
+  },
+  {
+    "id": "MTH-200-040",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "If today is Friday, what day of the week was it 15 days ago?",
+    "question_ar": "لو النهاردة الجمعة، كان يوم إيه من 15 يوم؟",
+    "options": [
+      {
+        "en": "Saturday",
+        "ar": "السبت"
+      },
+      {
+        "en": "Wednesday",
+        "ar": "الأربع"
+      },
+      {
+        "en": "Friday",
+        "ar": "الجمعة"
+      },
+      {
+        "en": "Thursday",
+        "ar": "الخميس"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "15 ÷ 7 leaves remainder 1, so 1 day before Friday is Thursday.",
+    "explanation_ar": "15 ÷ 7 الباقي 1، يبقى قبل الجمعة بيوم يطلع الخميس."
+  },
+  {
+    "id": "MTH-200-041",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "A farmer has 17 sheep. All but 9 die. How many sheep are left?",
+    "question_ar": "عند مزارع 17 خروف، ماتوا كلهم إلا 9، فاضل كام خروف؟",
+    "options": [
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "17",
+        "ar": "17"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "0",
+        "ar": "0"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "\"All but 9\" means 9 survive — the other 8 died.",
+    "explanation_ar": "\"كلهم إلا 9\" يعني إن 9 عايشين، والـ 8 الباقيين ماتوا."
+  },
+  {
+    "id": "MTH-200-042",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "How many months of the year have 28 days?",
+    "question_ar": "كام شهر في السنة فيه 28 يوم؟",
+    "options": [
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "11",
+        "ar": "11"
+      },
+      {
+        "en": "1",
+        "ar": "1"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Every month has at least 28 days, so all 12 qualify.",
+    "explanation_ar": "كل شهور السنة فيها 28 يوم على الأقل، يبقى الـ 12 كلهم بيتحققوا."
+  },
+  {
+    "id": "MTH-200-043",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "A clock strikes 6 times in 5 seconds. How many seconds will it take to strike 12 times, at the same rate?",
+    "question_ar": "ساعة بتدق 6 دقات في 5 ثواني، هتاخد كام ثانية عشان تدق 12 دقة بنفس السرعة؟",
+    "options": [
+      {
+        "en": "11",
+        "ar": "11"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "6 strikes have 5 gaps between them (1 sec each); 12 strikes have 11 gaps, so 11 seconds.",
+    "explanation_ar": "6 دقات فيها 5 فجوات بينهم (ثانية لكل فجوة)، و12 دقة فيها 11 فجوة، يبقى 11 ثانية."
+  },
+  {
+    "id": "MTH-200-044",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "If 1 man digs a hole in 1 hour, how long would it take 2 men working at the same rate to dig the same hole?",
+    "question_ar": "لو راجل بيحفر حفرة في ساعة، هياخد راجلين بنفس السرعة كام عشان يحفروا نفس الحفرة؟",
+    "options": [
+      {
+        "en": "30 minutes",
+        "ar": "30 دقيقة"
+      },
+      {
+        "en": "45 minutes",
+        "ar": "45 دقيقة"
+      },
+      {
+        "en": "1 hour",
+        "ar": "ساعة"
+      },
+      {
+        "en": "2 hours",
+        "ar": "ساعتين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Two men work twice as fast together, halving the time to 30 minutes.",
+    "explanation_ar": "الاتنين بيشتغلوا بضعف السرعة مع بعض، فالوقت بينص لـ 30 دقيقة."
+  },
+  {
+    "id": "MTH-200-045",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Two fathers and two sons go fishing, and each catches exactly one fish, yet only 3 fish are caught in total. How?",
+    "question_ar": "أبهات واتنين ولاد راحوا يصطادوا، وكل واحد صاد سمكة واحدة، بس العدد الكلي كان 3 سمكات بس، إزاي؟",
+    "options": [
+      {
+        "en": "One man didn't catch a fish",
+        "ar": "واحد منهم ملحقش يصطاد"
+      },
+      {
+        "en": "They are a grandfather, a father, and a son",
+        "ar": "هما جد وأب وابن (3 أشخاص بس)"
+      },
+      {
+        "en": "A fish was shared",
+        "ar": "سمكة اتقسمت بينهم"
+      },
+      {
+        "en": "It's impossible",
+        "ar": "ده مستحيل"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Three people: grandfather, father, son — that's two fathers and two sons in one group of three.",
+    "explanation_ar": "3 أشخاص بس: جد وأب وابن، يبقى فيهم أبهات اتنين وولاد اتنين في نفس الوقت."
+  },
+  {
+    "id": "MTH-200-046",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "If 5 machines take 5 minutes to make 5 widgets, how long would 100 machines take to make 100 widgets, at the same rate?",
+    "question_ar": "لو 5 ماكينات بتاخد 5 دقايق تصنع 5 قطع، 100 ماكينة هتاخد كام دقيقة تصنع 100 قطعة بنفس المعدل؟",
+    "options": [
+      {
+        "en": "20 minutes",
+        "ar": "20 دقيقة"
+      },
+      {
+        "en": "100 minutes",
+        "ar": "100 دقيقة"
+      },
+      {
+        "en": "50 minutes",
+        "ar": "50 دقيقة"
+      },
+      {
+        "en": "5 minutes",
+        "ar": "5 دقايق"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Each machine still takes 5 minutes per widget; 100 machines just work in parallel.",
+    "explanation_ar": "كل ماكينة لسه بتاخد 5 دقايق للقطعة، والـ 100 ماكينة بيشتغلوا مع بعض في نفس الوقت."
+  },
+  {
+    "id": "MTH-200-047",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the smallest positive number exactly divisible by both 4 and 6?",
+    "question_ar": "إيه أصغر رقم موجب بينقسم بالظبط على 4 و6 مع بعض؟",
+    "options": [
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "24",
+        "ar": "24"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The LCM of 4 and 6 is 12.",
+    "explanation_ar": "المضاعف المشترك الأصغر لـ 4 و6 هو 12."
+  },
+  {
+    "id": "MTH-200-048",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the greatest common factor of 18 and 24?",
+    "question_ar": "إيه أكبر عامل مشترك بين 18 و24؟",
+    "options": [
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "3",
+        "ar": "3"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "18 = 6x3 and 24 = 6x4, so the greatest common factor is 6.",
+    "explanation_ar": "18 = 6×3 و24 = 6×4، يبقى أكبر عامل مشترك هو 6."
+  },
+  {
+    "id": "MTH-200-049",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "A number leaves remainder 3 when divided by 5, and remainder 1 when divided by 4. What is the smallest such positive number?",
+    "question_ar": "رقم لما تقسمه على 5 يفضل منه 3، ولما تقسمه على 4 يفضل منه 1، إيه أصغر رقم كده؟",
+    "options": [
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "13",
+        "ar": "13"
+      },
+      {
+        "en": "23",
+        "ar": "23"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "13 ÷ 5 leaves 3, and 13 ÷ 4 leaves 1 — the smallest number fitting both.",
+    "explanation_ar": "13 ÷ 5 يفضل 3، و13 ÷ 4 يفضل 1، وهو أصغر رقم بيحقق الشرطين."
+  },
+  {
+    "id": "MTH-200-050",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "What is the smallest positive number exactly divisible by both 6 and 8?",
+    "question_ar": "إيه أصغر رقم موجب بينقسم بالظبط على 6 و8 مع بعض؟",
+    "options": [
+      {
+        "en": "48",
+        "ar": "48"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "16",
+        "ar": "16"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The LCM of 6 and 8 is 24.",
+    "explanation_ar": "المضاعف المشترك الأصغر لـ 6 و8 هو 24."
+  }
+]

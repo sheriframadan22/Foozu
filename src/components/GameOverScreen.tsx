@@ -1,0 +1,30 @@
+interface Props {
+  playerName: string;
+  prize: number;
+  onPlayAgain: () => void;
+}
+
+export default function GameOverScreen({ playerName, prize, onPlayAgain }: Props) {
+  return (
+    <div className="flex flex-col items-center justify-center min-h-[80vh] text-center px-4 animate-popIn">
+      <div className="font-display font-extrabold text-3xl sm:text-5xl text-white/80 mb-2 tracking-wide">GAME OVER</div>
+      <div className="text-lg sm:text-xl text-white/70 mb-4">{playerName}</div>
+      <p className="text-white/60 mb-1">You won</p>
+      <div className="font-display font-black text-6xl sm:text-7xl text-foozu-teal drop-shadow-lg">{prize}</div>
+      <div className="text-xl font-bold text-white/70 -mt-1 mb-4">EGP</div>
+      <p dir="rtl" className="font-arabic text-xl sm:text-2xl font-bold text-white/80">
+        هتخرج بـ {prize} جنيه
+      </p>
+      <div className="font-display font-extrabold text-2xl mt-8">
+        <span className="text-foozu-pink">FOO</span>
+        <span className="text-foozu-teal">ZU</span>
+      </div>
+      <button
+        onClick={onPlayAgain}
+        className="touch-target mt-8 rounded-2xl bg-foozu-pink px-8 py-4 font-display font-bold text-lg active:scale-95 hover:brightness-110 transition"
+      >
+        NEW GAME
+      </button>
+    </div>
+  );
+}

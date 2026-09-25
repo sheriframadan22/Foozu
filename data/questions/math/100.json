@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "MTH-100-001",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A shirt costs 90 EGP after a 10% discount. What was the original price?",
+    "question_ar": "قميص سعره 90 جنيه بعد خصم 10%، السعر الأصلي كام؟",
+    "options": [
+      {
+        "en": "110",
+        "ar": "110"
+      },
+      {
+        "en": "95",
+        "ar": "95"
+      },
+      {
+        "en": "99",
+        "ar": "99"
+      },
+      {
+        "en": "100",
+        "ar": "100"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "90 ÷ 0.9 = 100 EGP.",
+    "explanation_ar": "90 ÷ 0.9 = 100 جنيه."
+  },
+  {
+    "id": "MTH-100-002",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A bag costs 96 EGP after a 20% discount. What was the original price?",
+    "question_ar": "شنطة سعرها 96 جنيه بعد خصم 20%، السعر الأصلي كام؟",
+    "options": [
+      {
+        "en": "110",
+        "ar": "110"
+      },
+      {
+        "en": "115",
+        "ar": "115"
+      },
+      {
+        "en": "100",
+        "ar": "100"
+      },
+      {
+        "en": "120",
+        "ar": "120"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "96 ÷ 0.8 = 120 EGP.",
+    "explanation_ar": "96 ÷ 0.8 = 120 جنيه."
+  },
+  {
+    "id": "MTH-100-003",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A book costs 45 EGP after a 25% discount. What was the original price?",
+    "question_ar": "كتاب سعره 45 جنيه بعد خصم 25%، السعر الأصلي كام؟",
+    "options": [
+      {
+        "en": "50",
+        "ar": "50"
+      },
+      {
+        "en": "55",
+        "ar": "55"
+      },
+      {
+        "en": "60",
+        "ar": "60"
+      },
+      {
+        "en": "65",
+        "ar": "65"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "45 ÷ 0.75 = 60 EGP.",
+    "explanation_ar": "45 ÷ 0.75 = 60 جنيه."
+  },
+  {
+    "id": "MTH-100-004",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Shoes cost 150 EGP after a 50% discount. What was the original price?",
+    "question_ar": "جزمة سعرها 150 جنيه بعد خصم 50%، السعر الأصلي كام؟",
+    "options": [
+      {
+        "en": "200",
+        "ar": "200"
+      },
+      {
+        "en": "250",
+        "ar": "250"
+      },
+      {
+        "en": "350",
+        "ar": "350"
+      },
+      {
+        "en": "300",
+        "ar": "300"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "150 ÷ 0.5 = 300 EGP.",
+    "explanation_ar": "150 ÷ 0.5 = 300 جنيه."
+  },
+  {
+    "id": "MTH-100-005",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A watch costs 160 EGP after a 20% discount. What was the original price?",
+    "question_ar": "ساعة سعرها 160 جنيه بعد خصم 20%، السعر الأصلي كام؟",
+    "options": [
+      {
+        "en": "180",
+        "ar": "180"
+      },
+      {
+        "en": "210",
+        "ar": "210"
+      },
+      {
+        "en": "190",
+        "ar": "190"
+      },
+      {
+        "en": "200",
+        "ar": "200"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "160 ÷ 0.8 = 200 EGP.",
+    "explanation_ar": "160 ÷ 0.8 = 200 جنيه."
+  },
+  {
+    "id": "MTH-100-006",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A toy costs 27 EGP after a 10% discount. What was the original price?",
+    "question_ar": "لعبة سعرها 27 جنيه بعد خصم 10%، السعر الأصلي كام؟",
+    "options": [
+      {
+        "en": "35",
+        "ar": "35"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      },
+      {
+        "en": "32",
+        "ar": "32"
+      },
+      {
+        "en": "28",
+        "ar": "28"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "27 ÷ 0.9 = 30 EGP.",
+    "explanation_ar": "27 ÷ 0.9 = 30 جنيه."
+  },
+  {
+    "id": "MTH-100-007",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A phone case costs 36 EGP after a 25% discount. What was the original price?",
+    "question_ar": "جراب موبايل سعره 36 جنيه بعد خصم 25%، السعر الأصلي كام؟",
+    "options": [
+      {
+        "en": "52",
+        "ar": "52"
+      },
+      {
+        "en": "40",
+        "ar": "40"
+      },
+      {
+        "en": "48",
+        "ar": "48"
+      },
+      {
+        "en": "44",
+        "ar": "44"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "36 ÷ 0.75 = 48 EGP.",
+    "explanation_ar": "36 ÷ 0.75 = 48 جنيه."
+  },
+  {
+    "id": "MTH-100-008",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "An item costs 40 EGP after a 50% discount. What was the original price?",
+    "question_ar": "منتج سعره 40 جنيه بعد خصم 50%، السعر الأصلي كام؟",
+    "options": [
+      {
+        "en": "80",
+        "ar": "80"
+      },
+      {
+        "en": "60",
+        "ar": "60"
+      },
+      {
+        "en": "70",
+        "ar": "70"
+      },
+      {
+        "en": "90",
+        "ar": "90"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "40 ÷ 0.5 = 80 EGP.",
+    "explanation_ar": "40 ÷ 0.5 = 80 جنيه."
+  },
+  {
+    "id": "MTH-100-009",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "An item costs 63 EGP after a 10% discount. What was the original price?",
+    "question_ar": "منتج سعره 63 جنيه بعد خصم 10%، السعر الأصلي كام؟",
+    "options": [
+      {
+        "en": "68",
+        "ar": "68"
+      },
+      {
+        "en": "73",
+        "ar": "73"
+      },
+      {
+        "en": "65",
+        "ar": "65"
+      },
+      {
+        "en": "70",
+        "ar": "70"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "63 ÷ 0.9 = 70 EGP.",
+    "explanation_ar": "63 ÷ 0.9 = 70 جنيه."
+  },
+  {
+    "id": "MTH-100-010",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "An item costs 54 EGP after a 10% discount. What was the original price?",
+    "question_ar": "منتج سعره 54 جنيه بعد خصم 10%، السعر الأصلي كام؟",
+    "options": [
+      {
+        "en": "50",
+        "ar": "50"
+      },
+      {
+        "en": "64",
+        "ar": "64"
+      },
+      {
+        "en": "60",
+        "ar": "60"
+      },
+      {
+        "en": "58",
+        "ar": "58"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "54 ÷ 0.9 = 60 EGP.",
+    "explanation_ar": "54 ÷ 0.9 = 60 جنيه."
+  },
+  {
+    "id": "MTH-100-011",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "An item costs 72 EGP after a 20% discount. What was the original price?",
+    "question_ar": "منتج سعره 72 جنيه بعد خصم 20%، السعر الأصلي كام؟",
+    "options": [
+      {
+        "en": "80",
+        "ar": "80"
+      },
+      {
+        "en": "85",
+        "ar": "85"
+      },
+      {
+        "en": "90",
+        "ar": "90"
+      },
+      {
+        "en": "95",
+        "ar": "95"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "72 ÷ 0.8 = 90 EGP.",
+    "explanation_ar": "72 ÷ 0.8 = 90 جنيه."
+  },
+  {
+    "id": "MTH-100-012",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "An item costs 42 EGP after a 30% discount. What was the original price?",
+    "question_ar": "منتج سعره 42 جنيه بعد خصم 30%، السعر الأصلي كام؟",
+    "options": [
+      {
+        "en": "65",
+        "ar": "65"
+      },
+      {
+        "en": "60",
+        "ar": "60"
+      },
+      {
+        "en": "55",
+        "ar": "55"
+      },
+      {
+        "en": "50",
+        "ar": "50"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "42 ÷ 0.7 = 60 EGP.",
+    "explanation_ar": "42 ÷ 0.7 = 60 جنيه."
+  },
+  {
+    "id": "MTH-100-013",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What comes next: 1, 1, 2, 3, 5, ?",
+    "question_ar": "إيه اللي بعد كده: 1، 1، 2، 3، 5، ...؟",
+    "options": [
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Each number is the sum of the two before it (Fibonacci): 3+5=8.",
+    "explanation_ar": "كل رقم بيساوي مجموع اللي قبله باتنين (فيبوناتشي): 3+5=8."
+  },
+  {
+    "id": "MTH-100-014",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What comes next: 2, 6, 18, 54, ?",
+    "question_ar": "إيه اللي بعد كده: 2، 6، 18، 54، ...؟",
+    "options": [
+      {
+        "en": "216",
+        "ar": "216"
+      },
+      {
+        "en": "108",
+        "ar": "108"
+      },
+      {
+        "en": "162",
+        "ar": "162"
+      },
+      {
+        "en": "150",
+        "ar": "150"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Each number is multiplied by 3: 54 x 3 = 162.",
+    "explanation_ar": "كل رقم بيتضرب في 3: 54 × 3 = 162."
+  },
+  {
+    "id": "MTH-100-015",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What comes next: 80, 40, 20, 10, ?",
+    "question_ar": "إيه اللي بعد كده: 80، 40، 20، 10، ...؟",
+    "options": [
+      {
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "2",
+        "ar": "2"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Each number is divided by 2: 10 ÷ 2 = 5.",
+    "explanation_ar": "كل رقم بينقسم على 2: 10 ÷ 2 = 5."
+  },
+  {
+    "id": "MTH-100-016",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What comes next: 5, 10, 20, 40, ?",
+    "question_ar": "إيه اللي بعد كده: 5، 10، 20، 40، ...؟",
+    "options": [
+      {
+        "en": "70",
+        "ar": "70"
+      },
+      {
+        "en": "80",
+        "ar": "80"
+      },
+      {
+        "en": "90",
+        "ar": "90"
+      },
+      {
+        "en": "60",
+        "ar": "60"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Each number doubles: 40 x 2 = 80.",
+    "explanation_ar": "كل رقم بيتضاعف: 40 × 2 = 80."
+  },
+  {
+    "id": "MTH-100-017",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What comes next: 1, 2, 4, 7, 11, ?",
+    "question_ar": "إيه اللي بعد كده: 1، 2، 4، 7، 11، ...؟",
+    "options": [
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "18",
+        "ar": "18"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The gaps grow by 1 each time (1,2,3,4,5): 11+5=16.",
+    "explanation_ar": "الفرق بين كل رقم واللي بعده بيزيد 1 كل مرة (1،2،3،4،5): 11+5=16."
+  },
+  {
+    "id": "MTH-100-018",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What comes next: 10, 20, 35, 55, ?",
+    "question_ar": "إيه اللي بعد كده: 10، 20، 35، 55، ...؟",
+    "options": [
+      {
+        "en": "80",
+        "ar": "80"
+      },
+      {
+        "en": "85",
+        "ar": "85"
+      },
+      {
+        "en": "70",
+        "ar": "70"
+      },
+      {
+        "en": "75",
+        "ar": "75"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The gaps grow by 5 each time (10,15,20,25): 55+25=80.",
+    "explanation_ar": "الفرق بيزيد 5 كل مرة (10،15،20،25): 55+25=80."
+  },
+  {
+    "id": "MTH-100-019",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What comes next: 3, 7, 15, 31, ?",
+    "question_ar": "إيه اللي بعد كده: 3، 7، 15، 31، ...؟",
+    "options": [
+      {
+        "en": "62",
+        "ar": "62"
+      },
+      {
+        "en": "63",
+        "ar": "63"
+      },
+      {
+        "en": "59",
+        "ar": "59"
+      },
+      {
+        "en": "47",
+        "ar": "47"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Each number doubles then adds 1: 31 x 2 + 1 = 63.",
+    "explanation_ar": "كل رقم بيتضاعف وبيتزود عليه 1: 31 × 2 + 1 = 63."
+  },
+  {
+    "id": "MTH-100-020",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What comes next: 64, 32, 16, 8, ?",
+    "question_ar": "إيه اللي بعد كده: 64، 32، 16، 8، ...؟",
+    "options": [
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "0",
+        "ar": "0"
+      },
+      {
+        "en": "2",
+        "ar": "2"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Each number is divided by 2: 8 ÷ 2 = 4.",
+    "explanation_ar": "كل رقم بينقسم على 2: 8 ÷ 2 = 4."
+  },
+  {
+    "id": "MTH-100-021",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "You roll a fair 6-sided die once. What is the probability of rolling a 4?",
+    "question_ar": "رميت زهر مرة واحدة، إيه احتمال إنه يطلع رقم 4؟",
+    "options": [
+      {
+        "en": "1/2",
+        "ar": "1/2"
+      },
+      {
+        "en": "1/4",
+        "ar": "1/4"
+      },
+      {
+        "en": "1/6",
+        "ar": "1/6"
+      },
+      {
+        "en": "1/3",
+        "ar": "1/3"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "There's one 4 out of 6 faces: 1/6.",
+    "explanation_ar": "فيه رقم 4 واحد من أصل 6 وشوش: 1/6."
+  },
+  {
+    "id": "MTH-100-022",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "You flip a fair coin once. What is the probability of getting heads?",
+    "question_ar": "قلبت عملة مرة واحدة، إيه احتمال إنها تطلع وش؟",
+    "options": [
+      {
+        "en": "1/3",
+        "ar": "1/3"
+      },
+      {
+        "en": "1/4",
+        "ar": "1/4"
+      },
+      {
+        "en": "1/2",
+        "ar": "1/2"
+      },
+      {
+        "en": "2/3",
+        "ar": "2/3"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "A coin has 2 sides, one is heads: 1/2.",
+    "explanation_ar": "العملة ليها وشين، واحد منهم وش: 1/2."
+  },
+  {
+    "id": "MTH-100-023",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "You roll a die once. What is the probability of rolling an even number?",
+    "question_ar": "رميت زهر مرة واحدة، إيه احتمال إنه يطلع رقم زوجي؟",
+    "options": [
+      {
+        "en": "1/3",
+        "ar": "1/3"
+      },
+      {
+        "en": "1/2",
+        "ar": "1/2"
+      },
+      {
+        "en": "2/3",
+        "ar": "2/3"
+      },
+      {
+        "en": "1/6",
+        "ar": "1/6"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "3 of the 6 faces (2,4,6) are even: 3/6 = 1/2.",
+    "explanation_ar": "3 من الـ 6 وشوش زوجي (2،4،6): 3/6 = 1/2."
+  },
+  {
+    "id": "MTH-100-024",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "You flip a fair coin twice. What is the probability of getting heads both times?",
+    "question_ar": "قلبت عملة مرتين، إيه احتمال إنها تطلع وش المرتين؟",
+    "options": [
+      {
+        "en": "1/4",
+        "ar": "1/4"
+      },
+      {
+        "en": "1/2",
+        "ar": "1/2"
+      },
+      {
+        "en": "1/8",
+        "ar": "1/8"
+      },
+      {
+        "en": "1/3",
+        "ar": "1/3"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "1/2 x 1/2 = 1/4.",
+    "explanation_ar": "1/2 × 1/2 = 1/4."
+  },
+  {
+    "id": "MTH-100-025",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "You roll a die once. What is the probability of rolling a number greater than 4?",
+    "question_ar": "رميت زهر مرة واحدة، إيه احتمال إنه يطلع رقم أكبر من 4؟",
+    "options": [
+      {
+        "en": "1/6",
+        "ar": "1/6"
+      },
+      {
+        "en": "1/3",
+        "ar": "1/3"
+      },
+      {
+        "en": "1/2",
+        "ar": "1/2"
+      },
+      {
+        "en": "2/3",
+        "ar": "2/3"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Only 5 and 6 qualify: 2/6 = 1/3.",
+    "explanation_ar": "بس 5 و6 هما اللي بيحققوا الشرط: 2/6 = 1/3."
+  },
+  {
+    "id": "MTH-100-026",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "You roll a die once. What is the probability of NOT rolling a 6?",
+    "question_ar": "رميت زهر مرة واحدة، إيه احتمال إنه ميطلعش 6؟",
+    "options": [
+      {
+        "en": "1/6",
+        "ar": "1/6"
+      },
+      {
+        "en": "4/6",
+        "ar": "4/6"
+      },
+      {
+        "en": "5/6",
+        "ar": "5/6"
+      },
+      {
+        "en": "1/2",
+        "ar": "1/2"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "5 of the 6 faces are not 6: 5/6.",
+    "explanation_ar": "5 من الـ 6 وشوش مش 6: 5/6."
+  },
+  {
+    "id": "MTH-100-027",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A bag has 3 red balls and 2 blue balls. What is the probability of picking a red ball?",
+    "question_ar": "شنطة فيها 3 كور حمرا و2 كور زرقا، إيه احتمال إنك تسحب حمرا؟",
+    "options": [
+      {
+        "en": "2/5",
+        "ar": "2/5"
+      },
+      {
+        "en": "3/2",
+        "ar": "3/2"
+      },
+      {
+        "en": "1/2",
+        "ar": "1/2"
+      },
+      {
+        "en": "3/5",
+        "ar": "3/5"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "3 red out of 5 total balls: 3/5.",
+    "explanation_ar": "3 حمرا من أصل 5 كور: 3/5."
+  },
+  {
+    "id": "MTH-100-028",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "You roll a die once. What is the probability of rolling a 1 or a 2?",
+    "question_ar": "رميت زهر مرة واحدة، إيه احتمال إنه يطلع 1 أو 2؟",
+    "options": [
+      {
+        "en": "2/3",
+        "ar": "2/3"
+      },
+      {
+        "en": "1/3",
+        "ar": "1/3"
+      },
+      {
+        "en": "1/6",
+        "ar": "1/6"
+      },
+      {
+        "en": "1/2",
+        "ar": "1/2"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "2 favorable faces out of 6: 2/6 = 1/3.",
+    "explanation_ar": "2 وشوش مناسبين من أصل 6: 2/6 = 1/3."
+  },
+  {
+    "id": "MTH-100-029",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "You flip a fair coin 3 times. What is the probability all three are tails?",
+    "question_ar": "قلبت عملة 3 مرات، إيه احتمال إنها تطلع كتابة في التلات مرات؟",
+    "options": [
+      {
+        "en": "3/8",
+        "ar": "3/8"
+      },
+      {
+        "en": "1/4",
+        "ar": "1/4"
+      },
+      {
+        "en": "1/8",
+        "ar": "1/8"
+      },
+      {
+        "en": "1/6",
+        "ar": "1/6"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "1/2 x 1/2 x 1/2 = 1/8.",
+    "explanation_ar": "1/2 × 1/2 × 1/2 = 1/8."
+  },
+  {
+    "id": "MTH-100-030",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A bag has 4 red balls and 1 blue ball. What is the probability of picking the blue ball?",
+    "question_ar": "شنطة فيها 4 كور حمرا وكورة زرقا واحدة، إيه احتمال إنك تسحب الزرقا؟",
+    "options": [
+      {
+        "en": "1/3",
+        "ar": "1/3"
+      },
+      {
+        "en": "4/5",
+        "ar": "4/5"
+      },
+      {
+        "en": "1/5",
+        "ar": "1/5"
+      },
+      {
+        "en": "1/4",
+        "ar": "1/4"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "1 blue out of 5 total balls: 1/5.",
+    "explanation_ar": "كورة زرقا واحدة من أصل 5 كور: 1/5."
+  },
+  {
+    "id": "MTH-100-031",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "If x + 5 = 12, what is x?",
+    "question_ar": "لو x + 5 = 12، x بكام؟",
+    "options": [
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "17",
+        "ar": "17"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "x = 12 - 5 = 7.",
+    "explanation_ar": "x = 12 - 5 = 7."
+  },
+  {
+    "id": "MTH-100-032",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "If 2x = 18, what is x?",
+    "question_ar": "لو 2x = 18، x بكام؟",
+    "options": [
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "36",
+        "ar": "36"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "x = 18 ÷ 2 = 9.",
+    "explanation_ar": "x = 18 ÷ 2 = 9."
+  },
+  {
+    "id": "MTH-100-033",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "If x - 4 = 10, what is x?",
+    "question_ar": "لو x - 4 = 10، x بكام؟",
+    "options": [
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "13",
+        "ar": "13"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "x = 10 + 4 = 14.",
+    "explanation_ar": "x = 10 + 4 = 14."
+  },
+  {
+    "id": "MTH-100-034",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "If 3x = 27, what is x?",
+    "question_ar": "لو 3x = 27، x بكام؟",
+    "options": [
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "81",
+        "ar": "81"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "x = 27 ÷ 3 = 9.",
+    "explanation_ar": "x = 27 ÷ 3 = 9."
+  },
+  {
+    "id": "MTH-100-035",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "If x/2 = 8, what is x?",
+    "question_ar": "لو x/2 = 8، x بكام؟",
+    "options": [
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "x = 8 x 2 = 16.",
+    "explanation_ar": "x = 8 × 2 = 16."
+  },
+  {
+    "id": "MTH-100-036",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "If 4x = 44, what is x?",
+    "question_ar": "لو 4x = 44، x بكام؟",
+    "options": [
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "40",
+        "ar": "40"
+      },
+      {
+        "en": "11",
+        "ar": "11"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "x = 44 ÷ 4 = 11.",
+    "explanation_ar": "x = 44 ÷ 4 = 11."
+  },
+  {
+    "id": "MTH-100-037",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "If x + 9 = 20, what is x?",
+    "question_ar": "لو x + 9 = 20، x بكام؟",
+    "options": [
+      {
+        "en": "11",
+        "ar": "11"
+      },
+      {
+        "en": "29",
+        "ar": "29"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "x = 20 - 9 = 11.",
+    "explanation_ar": "x = 20 - 9 = 11."
+  },
+  {
+    "id": "MTH-100-038",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "If 5x = 45, what is x?",
+    "question_ar": "لو 5x = 45، x بكام؟",
+    "options": [
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "40",
+        "ar": "40"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "x = 45 ÷ 5 = 9.",
+    "explanation_ar": "x = 45 ÷ 5 = 9."
+  },
+  {
+    "id": "MTH-100-039",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "If x - 7 = 13, what is x?",
+    "question_ar": "لو x - 7 = 13، x بكام؟",
+    "options": [
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "19",
+        "ar": "19"
+      },
+      {
+        "en": "21",
+        "ar": "21"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "x = 13 + 7 = 20.",
+    "explanation_ar": "x = 13 + 7 = 20."
+  },
+  {
+    "id": "MTH-100-040",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "If x/4 = 6, what is x?",
+    "question_ar": "لو x/4 = 6، x بكام؟",
+    "options": [
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "28",
+        "ar": "28"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "x = 6 x 4 = 24.",
+    "explanation_ar": "x = 6 × 4 = 24."
+  },
+  {
+    "id": "MTH-100-041",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "If 2x + 1 = 15, what is x?",
+    "question_ar": "لو 2x + 1 = 15، x بكام؟",
+    "options": [
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "2x = 14, so x = 7.",
+    "explanation_ar": "2x = 14، يبقى x = 7."
+  },
+  {
+    "id": "MTH-100-042",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "If 3x - 2 = 19, what is x?",
+    "question_ar": "لو 3x - 2 = 19، x بكام؟",
+    "options": [
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "en": "17",
+        "ar": "17"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "3x = 21, so x = 7.",
+    "explanation_ar": "3x = 21، يبقى x = 7."
+  },
+  {
+    "id": "MTH-100-043",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A pizza is cut into 8 equal slices. You eat 3 slices. What fraction is left?",
+    "question_ar": "بيتزا مقسومة 8 قطع متساوية، أكلت 3 قطع، إيه الكسر اللي فضل؟",
+    "options": [
+      {
+        "en": "2/8",
+        "ar": "2/8"
+      },
+      {
+        "en": "1/2",
+        "ar": "1/2"
+      },
+      {
+        "en": "3/8",
+        "ar": "3/8"
+      },
+      {
+        "en": "5/8",
+        "ar": "5/8"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "8 - 3 = 5 slices left out of 8: 5/8.",
+    "explanation_ar": "8 - 3 = 5 قطع فاضلة من 8: 5/8."
+  },
+  {
+    "id": "MTH-100-044",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Tickets cost 20 EGP each. How much do 6 tickets cost?",
+    "question_ar": "التذكرة بـ 20 جنيه، 6 تذاكر بكام؟",
+    "options": [
+      {
+        "en": "100",
+        "ar": "100"
+      },
+      {
+        "en": "140",
+        "ar": "140"
+      },
+      {
+        "en": "110",
+        "ar": "110"
+      },
+      {
+        "en": "120",
+        "ar": "120"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "6 x 20 = 120 EGP.",
+    "explanation_ar": "6 × 20 = 120 جنيه."
+  },
+  {
+    "id": "MTH-100-045",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "You have 100 EGP. You spend 40, then spend half of what's left. How much do you have now?",
+    "question_ar": "معاك 100 جنيه، صرفت 40، وبعدين صرفت نص اللي فضل، معاك دلوقتي كام؟",
+    "options": [
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "35",
+        "ar": "35"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      },
+      {
+        "en": "40",
+        "ar": "40"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "100-40=60, half of 60 is spent, leaving 30.",
+    "explanation_ar": "100-40=60، ونص الـ 60 اتصرف، فضل 30."
+  },
+  {
+    "id": "MTH-100-046",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A car travels 60 km in 1 hour. How far does it travel in 3 hours at the same speed?",
+    "question_ar": "عربية بتقطع 60 كم في ساعة، هتقطع كام في 3 ساعات بنفس السرعة؟",
+    "options": [
+      {
+        "en": "120",
+        "ar": "120"
+      },
+      {
+        "en": "180",
+        "ar": "180"
+      },
+      {
+        "en": "150",
+        "ar": "150"
+      },
+      {
+        "en": "200",
+        "ar": "200"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "60 x 3 = 180 km.",
+    "explanation_ar": "60 × 3 = 180 كم."
+  },
+  {
+    "id": "MTH-100-047",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "If 3 notebooks cost 45 EGP, how much do 5 notebooks cost at the same price each?",
+    "question_ar": "لو 3 كراسات بـ 45 جنيه، 5 كراسات بكام بنفس السعر؟",
+    "options": [
+      {
+        "en": "60",
+        "ar": "60"
+      },
+      {
+        "en": "70",
+        "ar": "70"
+      },
+      {
+        "en": "90",
+        "ar": "90"
+      },
+      {
+        "en": "75",
+        "ar": "75"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "45 ÷ 3 = 15 per notebook, 15 x 5 = 75.",
+    "explanation_ar": "45 ÷ 3 = 15 للكراسة، 15 × 5 = 75."
+  },
+  {
+    "id": "MTH-100-048",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A train leaves at 3:00 PM and arrives 2 hours 30 minutes later. What time does it arrive?",
+    "question_ar": "قطر مسافر الساعة 3 العصر، ووصل بعد ساعتين ونص، هيوصل الساعة كام؟",
+    "options": [
+      {
+        "en": "4:30 PM",
+        "ar": "4:30 العصر"
+      },
+      {
+        "en": "6:00 PM",
+        "ar": "6:00 بليل"
+      },
+      {
+        "en": "5:30 PM",
+        "ar": "5:30 المغرب"
+      },
+      {
+        "en": "5:00 PM",
+        "ar": "5:00 المغرب"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "3:00 PM + 2h30m = 5:30 PM.",
+    "explanation_ar": "3:00 العصر + ساعتين ونص = 5:30 المغرب."
+  },
+  {
+    "id": "MTH-100-049",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "You buy 4 items at 25 EGP each and pay with a 200 EGP note. How much change do you get?",
+    "question_ar": "اشتريت 4 حاجات بـ 25 جنيه للحاجة، ودفعت بورقة 200 جنيه، الباقي كام؟",
+    "options": [
+      {
+        "en": "75",
+        "ar": "75"
+      },
+      {
+        "en": "90",
+        "ar": "90"
+      },
+      {
+        "en": "125",
+        "ar": "125"
+      },
+      {
+        "en": "100",
+        "ar": "100"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "4 x 25 = 100, 200 - 100 = 100.",
+    "explanation_ar": "4 × 25 = 100، و200 - 100 = 100."
+  },
+  {
+    "id": "MTH-100-050",
+    "category": "Math",
+    "category_ar": "رياضيات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A number is doubled, then 6 is added, giving 26. What was the original number?",
+    "question_ar": "رقم اتضاعف وبعدين اتزود عليه 6 بقى 26، الرقم الأصلي كان كام؟",
+    "options": [
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "13",
+        "ar": "13"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "2x + 6 = 26, so 2x = 20, x = 10.",
+    "explanation_ar": "2x + 6 = 26، يبقى 2x = 20، وx = 10."
+  }
+]
