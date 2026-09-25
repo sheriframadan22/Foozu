@@ -9,16 +9,19 @@ export default {
         body: ['"Tajawal"', 'system-ui', 'sans-serif']
       },
       colors: {
+        // Sampled directly from the official Foozu brand artwork (logo + banner).
         foozu: {
-          navy: '#1B1030',
-          navy2: '#241645',
-          purple: '#3B1E7A',
-          pink: '#FF4F8B',
-          red: '#E8505B',
-          orange: '#FF8A3D',
-          teal: '#1FC8B4',
-          yellow: '#FFC23D',
-          ink: '#0F0A1E'
+          navy: '#28286E',
+          navy2: '#1F1F58',
+          purple: '#325996',
+          pink: '#E31367',
+          red: '#EF4F41',
+          orange: '#EF4F41',
+          teal: '#3BBC9C',
+          yellow: '#F4B231',
+          blue: '#325996',
+          cyan: '#13B2D2',
+          ink: '#181850'
         }
       },
       boxShadow: {

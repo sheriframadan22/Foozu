@@ -18,9 +18,10 @@ export default function WinnerScreen({ playerName, onPlayAgain }: Props) {
         <p dir="rtl" className="font-arabic text-2xl sm:text-3xl font-bold text-foozu-teal mt-4">
           كسبت الـ {MAX_PRIZE} جنيه!
         </p>
-        <div className="font-display font-extrabold text-2xl mt-8">
-          <span className="text-foozu-pink">FOO</span>
-          <span className="text-foozu-teal">ZU</span>
+        <div className="flex items-center justify-center gap-1 font-display font-extrabold text-2xl text-white mt-8">
+          <span>FOO</span>
+          <img src="./brand/foozu-z-mark.png" alt="Z" className="h-6 w-auto" />
+          <span>U</span>
         </div>
         <button
           onClick={onPlayAgain}

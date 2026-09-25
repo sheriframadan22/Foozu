@@ -14,19 +14,19 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['icons/*.svg'],
+      includeAssets: ['icons/*.png', 'brand/*.png'],
       manifest: {
-        name: 'FOOZU — Quiz Game',
+        name: 'FOOZU — Rewarding Every Moment',
         short_name: 'FOOZU',
         description: 'FOOZU on-ground quiz activation game',
-        theme_color: '#1B1030',
-        background_color: '#1B1030',
+        theme_color: '#28286E',
+        background_color: '#28286E',
         display: 'standalone',
         orientation: 'landscape',
         start_url: '.',
         icons: [
-          { src: 'icons/icon-192.svg', sizes: '192x192', type: 'image/svg+xml', purpose: 'any' },
-          { src: 'icons/icon-512.svg', sizes: '512x512', type: 'image/svg+xml', purpose: 'any' }
+          { src: 'icons/icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' },
+          { src: 'icons/icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any' }
         ]
       },
       workbox: {

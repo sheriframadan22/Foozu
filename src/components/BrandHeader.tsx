@@ -9,13 +9,23 @@ export default function BrandHeader({ playerName, securedAmount, compact }: Prop
     <header className="flex items-center justify-between gap-4 px-4 sm:px-6 py-3">
       <div className="flex items-center gap-3">
         <div
-          className={`font-display font-extrabold tracking-tight ${compact ? 'text-2xl' : 'text-3xl sm:text-4xl'}`}
+          className={`flex items-center font-display font-extrabold tracking-tight text-white ${compact ? 'text-2xl gap-0.5' : 'text-3xl sm:text-4xl gap-1'}`}
           style={{ letterSpacing: '-0.02em' }}
         >
-          <span className="text-foozu-pink">FOO</span>
-          <span className="text-foozu-teal">ZU</span>
+          <span>FOO</span>
+          <img
+            src="./brand/foozu-z-mark.png"
+            alt="Z"
+            className={compact ? 'h-6 sm:h-7 w-auto' : 'h-8 sm:h-10 w-auto'}
+          />
+          <span>U</span>
         </div>
-        {!compact && <span className="hidden sm:inline text-xs text-white/50 font-arabic">اكسب مع فوزو</span>}
+        {!compact && (
+          <span className="hidden sm:flex flex-col leading-none">
+            <span className="text-[10px] uppercase tracking-widest text-foozu-cyan font-semibold">Rewarding Every Moment</span>
+            <span className="text-xs text-white/50 font-arabic mt-0.5">اكسب مع فوزو</span>
+          </span>
+        )}
       </div>
       {playerName ? (
         <div className="flex items-center gap-4 sm:gap-6">

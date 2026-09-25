@@ -27,9 +27,10 @@ function PinGate({ onUnlock }: { onUnlock: () => void }) {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center px-4 text-center">
-      <div className="font-display font-extrabold text-3xl mb-6">
-        <span className="text-foozu-pink">FOO</span>
-        <span className="text-foozu-teal">ZU</span> <span className="text-white/50 text-xl">Operator</span>
+      <div className="flex items-center gap-1 font-display font-extrabold text-3xl text-white mb-6">
+        <span>FOO</span>
+        <img src="./brand/foozu-z-mark.png" alt="Z" className="h-7 w-auto" />
+        <span>U</span> <span className="text-white/50 text-xl ml-1">Operator</span>
       </div>
       <input
         autoFocus
@@ -103,9 +104,10 @@ function Dashboard() {
   return (
     <div className="min-h-screen px-4 sm:px-6 py-6 max-w-6xl mx-auto">
       <div className="flex items-center justify-between mb-6">
-        <div className="font-display font-extrabold text-2xl">
-          <span className="text-foozu-pink">FOO</span>
-          <span className="text-foozu-teal">ZU</span> <span className="text-white/50 text-base">Activation Dashboard</span>
+        <div className="flex items-center gap-1 font-display font-extrabold text-2xl text-white">
+          <span>FOO</span>
+          <img src="./brand/foozu-z-mark.png" alt="Z" className="h-6 w-auto" />
+          <span>U</span> <span className="text-white/50 text-base ml-1">Activation Dashboard</span>
         </div>
         <Link to="/" className="text-sm text-white/50 hover:text-white/80">
           ← game screen

@@ -14,10 +14,14 @@ export default function NameEntry({ onStart }: Props) {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-[70vh] px-4 text-center animate-popIn">
-      <div className="font-display font-extrabold text-5xl sm:text-7xl mb-2">
-        <span className="text-foozu-pink">FOO</span>
-        <span className="text-foozu-teal">ZU</span>
+      <div className="flex items-center justify-center gap-2 font-display font-extrabold text-5xl sm:text-7xl text-white mb-2">
+        <span>FOO</span>
+        <img src="./brand/foozu-z-mark.png" alt="Z" className="h-12 sm:h-16 w-auto" />
+        <span>U</span>
       </div>
+      <p className="text-xs sm:text-sm uppercase tracking-[0.3em] text-foozu-cyan font-semibold mb-3">
+        Rewarding Every Moment
+      </p>
       <p dir="rtl" className="font-arabic text-xl sm:text-2xl text-white/80 mb-8">
         اكسب مع FOOZU
       </p>

@@ -2,15 +2,15 @@
   "values": [10, 20, 50, 100, 200],
   "questionsPerSlot": 50,
   "categories": [
-    { "key": "math", "prefix": "MTH", "name_en": "Math", "name_ar": "رياضيات", "color": "#FF4F8B", "icon": "➗" },
-    { "key": "series", "prefix": "SER", "name_en": "Series", "name_ar": "مسلسلات", "color": "#FF8A3D", "icon": "📺" },
-    { "key": "world", "prefix": "WLD", "name_en": "Around the World", "name_ar": "حول العالم", "color": "#1FC8B4", "icon": "🌍" },
-    { "key": "science", "prefix": "SCI", "name_en": "Science", "name_ar": "خمن العلم", "color": "#7B6CFF", "icon": "🔬" },
-    { "key": "animals", "prefix": "ANM", "name_en": "Animals", "name_ar": "حيوانات", "color": "#FFC23D", "icon": "🦁" },
-    { "key": "history", "prefix": "HIS", "name_en": "History", "name_ar": "تاريخ", "color": "#E8505B", "icon": "🏛️" },
-    { "key": "general", "prefix": "GEN", "name_en": "General Knowledge", "name_ar": "عامة", "color": "#38B6FF", "icon": "💡" },
-    { "key": "movies", "prefix": "MOV", "name_en": "Movies", "name_ar": "افلام", "color": "#FF5E3A", "icon": "🎬" },
-    { "key": "music", "prefix": "MUS", "name_en": "Music", "name_ar": "مزيكا", "color": "#C86BFA", "icon": "🎵" },
-    { "key": "football", "prefix": "FTB", "name_en": "Football", "name_ar": "كرة قدم", "color": "#2ED47A", "icon": "⚽" }
+    { "key": "math", "prefix": "MTH", "name_en": "Math", "name_ar": "رياضيات", "color": "#E31367", "icon": "➗" },
+    { "key": "series", "prefix": "SER", "name_en": "Series", "name_ar": "مسلسلات", "color": "#EF4F41", "icon": "📺" },
+    { "key": "world", "prefix": "WLD", "name_en": "Around the World", "name_ar": "حول العالم", "color": "#3BBC9C", "icon": "🌍" },
+    { "key": "science", "prefix": "SCI", "name_en": "Science", "name_ar": "خمن العلم", "color": "#325996", "icon": "🔬" },
+    { "key": "animals", "prefix": "ANM", "name_en": "Animals", "name_ar": "حيوانات", "color": "#F4B231", "icon": "🦁" },
+    { "key": "history", "prefix": "HIS", "name_en": "History", "name_ar": "تاريخ", "color": "#D6432E", "icon": "🏛️" },
+    { "key": "general", "prefix": "GEN", "name_en": "General Knowledge", "name_ar": "عامة", "color": "#13B2D2", "icon": "💡" },
+    { "key": "movies", "prefix": "MOV", "name_en": "Movies", "name_ar": "افلام", "color": "#C20E56", "icon": "🎬" },
+    { "key": "music", "prefix": "MUS", "name_en": "Music", "name_ar": "مزيكا", "color": "#4A73B8", "icon": "🎵" },
+    { "key": "football", "prefix": "FTB", "name_en": "Football", "name_ar": "كرة قدم", "color": "#2A9B80", "icon": "⚽" }
   ]
 }

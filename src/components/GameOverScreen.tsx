@@ -15,9 +15,10 @@ export default function GameOverScreen({ playerName, prize, onPlayAgain }: Props
       <p dir="rtl" className="font-arabic text-xl sm:text-2xl font-bold text-white/80">
         هتخرج بـ {prize} جنيه
       </p>
-      <div className="font-display font-extrabold text-2xl mt-8">
-        <span className="text-foozu-pink">FOO</span>
-        <span className="text-foozu-teal">ZU</span>
+      <div className="flex items-center justify-center gap-1 font-display font-extrabold text-2xl text-white mt-8">
+        <span>FOO</span>
+        <img src="./brand/foozu-z-mark.png" alt="Z" className="h-6 w-auto" />
+        <span>U</span>
       </div>
       <button
         onClick={onPlayAgain}
