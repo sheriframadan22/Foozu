@@ -1,9 +1,10 @@
 import { useMemo, useState } from 'react';
-import { Link } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { gameStore, questionStatsStore, playerRegistryStore } from '@/utils/storage';
 import { gamesToCsv, downloadCsv } from '@/utils/exportCsv';
 import { MAX_PRIZE } from '@/game/scoring';
 import type { CompletedGame } from '@/types/player';
+import BackButton from '@/components/BackButton';
 
 const ADMIN_PIN = '1234';
 
@@ -16,6 +17,7 @@ function isToday(iso: string): boolean {
 function PinGate({ onUnlock }: { onUnlock: () => void }) {
   const [pin, setPin] = useState('');
   const [error, setError] = useState(false);
+  const navigate = useNavigate();
 
   const submit = () => {
     if (pin === ADMIN_PIN) onUnlock();
@@ -26,7 +28,10 @@ function PinGate({ onUnlock }: { onUnlock: () => void }) {
   };
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center px-4 text-center">
+    <div className="min-h-screen flex flex-col items-center justify-center px-4 text-center relative">
+      <div className="absolute top-4 left-4">
+        <BackButton onClick={() => navigate('/')} label="Back to game" />
+      </div>
       <div className="flex items-center gap-1 font-display font-extrabold text-3xl text-white mb-6">
         <span>FOO</span>
         <img src="./brand/foozu-z-mark.png" alt="Z" className="h-7 w-auto" />
@@ -54,9 +59,6 @@ function PinGate({ onUnlock }: { onUnlock: () => void }) {
       >
         UNLOCK
       </button>
-      <Link to="/" className="text-xs text-white/40 mt-8 hover:text-white/70">
-        ← back to game
-      </Link>
     </div>
   );
 }
@@ -71,6 +73,7 @@ function StatTile({ label, value, accent }: { label: string; value: string | num
 }
 
 function Dashboard() {
+  const navigate = useNavigate();
   const [query, setQuery] = useState('');
   const [tick, setTick] = useState(0); // bump to force re-read from storage
   // `tick` isn't read inside these — it's a deliberate cache-buster so this component
@@ -114,14 +117,14 @@ function Dashboard() {
   return (
     <div className="min-h-screen px-4 sm:px-6 py-6 max-w-6xl mx-auto">
       <div className="flex items-center justify-between mb-6">
-        <div className="flex items-center gap-1 font-display font-extrabold text-2xl text-white">
-          <span>FOO</span>
-          <img src="./brand/foozu-z-mark.png" alt="Z" className="h-6 w-auto" />
-          <span>U</span> <span className="text-white/50 text-base ml-1">Activation Dashboard</span>
+        <div className="flex items-center gap-3">
+          <BackButton onClick={() => navigate('/')} label="Back to game" />
+          <div className="flex items-center gap-1 font-display font-extrabold text-2xl text-white">
+            <span>FOO</span>
+            <img src="./brand/foozu-z-mark.png" alt="Z" className="h-6 w-auto" />
+            <span>U</span> <span className="text-white/50 text-base ml-1">Activation Dashboard</span>
+          </div>
         </div>
-        <Link to="/" className="text-sm text-white/50 hover:text-white/80">
-          ← game screen
-        </Link>
       </div>
 
       <div className="text-xs uppercase tracking-widest text-white/40 mb-2">Today</div>

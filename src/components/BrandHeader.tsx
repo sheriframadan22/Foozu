@@ -1,13 +1,17 @@
+import BackButton from './BackButton';
+
 interface Props {
   playerName?: string;
   securedAmount?: number;
   compact?: boolean;
+  onBack?: () => void;
 }
 
-export default function BrandHeader({ playerName, securedAmount, compact }: Props) {
+export default function BrandHeader({ playerName, securedAmount, compact, onBack }: Props) {
   return (
     <header className="flex items-center justify-between gap-4 px-4 sm:px-6 py-3">
       <div className="flex items-center gap-3">
+        {onBack && <BackButton onClick={onBack} />}
         <div
           className={`flex items-center font-display font-extrabold tracking-tight text-white ${compact ? 'text-2xl gap-0.5' : 'text-3xl sm:text-4xl gap-1'}`}
           style={{ letterSpacing: '-0.02em' }}

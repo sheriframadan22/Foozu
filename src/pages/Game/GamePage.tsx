@@ -98,11 +98,41 @@ export default function GamePage() {
     setState(engine.resetGame());
   };
 
+  /** From the category board: ends the current attempt without recording it (nothing was won yet to lose). */
+  const handleBackToStart = () => {
+    if (state.securedAmount > 0 && !confirm('Go back and end this game? The secured amount will not be awarded.')) {
+      return;
+    }
+    selectionsRef.current = [];
+    setState(engine.resetGame());
+  };
+
+  /** From a question/reveal screen: discards the in-flight question (never recorded) and returns to the board. */
+  const handleBackToBoard = () => {
+    setState((s) => ({
+      ...s,
+      phase: 'category-board',
+      currentCategory: undefined,
+      currentQuestion: undefined,
+      selectedAnswerIndex: undefined,
+      timeUp: false
+    }));
+  };
+
   return (
     <div className="min-h-screen flex flex-col">
       <BrandHeader
         playerName={state.phase !== 'name-entry' ? state.playerName : undefined}
         securedAmount={state.phase !== 'name-entry' ? state.securedAmount : undefined}
+        onBack={
+          state.phase === 'category-board'
+            ? handleBackToStart
+            : state.phase === 'question' || state.phase === 'reveal'
+              ? handleBackToBoard
+              : state.phase === 'win' || state.phase === 'loss'
+                ? handlePlayAgain
+                : undefined
+        }
       />
 
       <main className="flex-1 px-4 sm:px-6 pb-8">

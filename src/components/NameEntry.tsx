@@ -1,12 +1,11 @@
 import { useState } from 'react';
 import { playerRegistryStore } from '@/utils/storage';
 import type { PlayerRecord } from '@/types/player';
+import BackButton from './BackButton';
 
 interface Props {
   onStart: (name: string, phoneNumber: string, age: number) => void;
 }
-
-const ADMIN_OVERRIDE_PIN = '1234';
 
 function timeAgo(iso: string): string {
   const d = new Date(iso);
@@ -19,8 +18,6 @@ export default function NameEntry({ onStart }: Props) {
   const [age, setAge] = useState('');
   const [error, setError] = useState('');
   const [duplicate, setDuplicate] = useState<PlayerRecord | null>(null);
-  const [overridePin, setOverridePin] = useState('');
-  const [overrideError, setOverrideError] = useState(false);
 
   const validate = (): string => {
     if (name.trim().length === 0) return 'Enter the contestant\'s name.';
@@ -38,6 +35,7 @@ export default function NameEntry({ onStart }: Props) {
       return;
     }
     setError('');
+    // Hard restriction: one play per phone number, no bypass. See src/utils/storage.ts.
     const existing = playerRegistryStore.find(phone);
     if (existing) {
       setDuplicate(existing);
@@ -46,80 +44,51 @@ export default function NameEntry({ onStart }: Props) {
     onStart(name.trim(), phone.trim(), Number(age));
   };
 
-  const confirmOverride = () => {
-    if (overridePin !== ADMIN_OVERRIDE_PIN) {
-      setOverrideError(true);
-      setOverridePin('');
-      return;
-    }
-    onStart(name.trim(), phone.trim(), Number(age));
+  const useDifferentNumber = () => {
+    setDuplicate(null);
+    setPhone('');
   };
 
   if (duplicate) {
     return (
-      <div className="flex flex-col items-center justify-center min-h-[70vh] px-4 text-center animate-popIn">
-        <div className="text-5xl mb-3">⚠️</div>
-        <div className="font-display font-extrabold text-2xl sm:text-3xl text-foozu-yellow mb-2">Already Played</div>
-        <p dir="rtl" className="font-arabic text-lg text-white/80 mb-4">الرقم ده لعب قبل كده</p>
-
-        <div className="w-full max-w-sm bg-white/8 border border-white/15 rounded-2xl p-4 text-left mb-6">
-          <div className="flex justify-between text-sm mb-1">
-            <span className="text-white/50">Name on file</span>
-            <span className="font-semibold">{duplicate.playerName}</span>
-          </div>
-          <div className="flex justify-between text-sm mb-1">
-            <span className="text-white/50">Played on</span>
-            <span className="font-semibold">{timeAgo(duplicate.firstPlayedAt)}</span>
-          </div>
-          <div className="flex justify-between text-sm mb-1">
-            <span className="text-white/50">Times played</span>
-            <span className="font-semibold">{duplicate.timesPlayed}</span>
-          </div>
-          {duplicate.lastPrize !== undefined && (
-            <div className="flex justify-between text-sm">
-              <span className="text-white/50">Last prize</span>
-              <span className="font-semibold text-foozu-yellow">{duplicate.lastPrize} EGP</span>
-            </div>
-          )}
+      <div className="min-h-[70vh] px-4">
+        <div className="pt-2 pb-4">
+          <BackButton onClick={useDifferentNumber} label="Back" />
         </div>
+        <div className="flex flex-col items-center justify-center text-center animate-popIn">
+          <div className="text-5xl mb-3">⚠️</div>
+          <div className="font-display font-extrabold text-2xl sm:text-3xl text-foozu-yellow mb-2">Already Played</div>
+          <p dir="rtl" className="font-arabic text-lg text-white/80 mb-4">الرقم ده لعب قبل كده — كل رقم يلعب مرة واحدة بس</p>
 
-        <div className="w-full max-w-sm">
-          <button
-            onClick={() => {
-              setDuplicate(null);
-              setPhone('');
-            }}
-            className="touch-target w-full rounded-2xl bg-white/15 hover:bg-white/25 font-display font-bold text-lg py-4 active:scale-95 transition mb-3"
-          >
-            USE A DIFFERENT NUMBER
-          </button>
-
-          <details className="text-left">
-            <summary className="text-xs text-white/40 cursor-pointer select-none">Usher override (PIN required)</summary>
-            <div className="mt-3 flex gap-2">
-              <input
-                type="password"
-                inputMode="numeric"
-                maxLength={8}
-                value={overridePin}
-                onChange={(e) => {
-                  setOverrideError(false);
-                  setOverridePin(e.target.value);
-                }}
-                onKeyDown={(e) => e.key === 'Enter' && confirmOverride()}
-                placeholder="PIN"
-                className={`flex-1 rounded-xl bg-white/10 border-2 ${
-                  overrideError ? 'border-foozu-red animate-shake' : 'border-white/20'
-                } focus:border-foozu-pink outline-none px-3 py-2 text-center tracking-widest`}
-              />
-              <button
-                onClick={confirmOverride}
-                className="touch-target rounded-xl bg-foozu-orange px-4 font-display font-bold active:scale-95 transition"
-              >
-                ALLOW
-              </button>
+          <div className="w-full max-w-sm bg-white/8 border border-white/15 rounded-2xl p-4 text-left mb-6">
+            <div className="flex justify-between text-sm mb-1">
+              <span className="text-white/50">Name on file</span>
+              <span className="font-semibold">{duplicate.playerName}</span>
             </div>
-          </details>
+            <div className="flex justify-between text-sm mb-1">
+              <span className="text-white/50">Played on</span>
+              <span className="font-semibold">{timeAgo(duplicate.firstPlayedAt)}</span>
+            </div>
+            <div className="flex justify-between text-sm mb-1">
+              <span className="text-white/50">Times played</span>
+              <span className="font-semibold">{duplicate.timesPlayed}</span>
+            </div>
+            {duplicate.lastPrize !== undefined && (
+              <div className="flex justify-between text-sm">
+                <span className="text-white/50">Last prize</span>
+                <span className="font-semibold text-foozu-yellow">{duplicate.lastPrize} EGP</span>
+              </div>
+            )}
+          </div>
+
+          <div className="w-full max-w-sm">
+            <button
+              onClick={useDifferentNumber}
+              className="touch-target w-full rounded-2xl bg-foozu-pink font-display font-bold text-lg py-4 hover:brightness-110 active:scale-95 transition"
+            >
+              USE A DIFFERENT NUMBER
+            </button>
+          </div>
         </div>
       </div>
     );
