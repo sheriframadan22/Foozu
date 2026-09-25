@@ -8,12 +8,24 @@
     "question_en": "In the classic film \"Al-Kit Kat\", Mahmoud Abdel Aziz plays a blind man named what?",
     "question_ar": "في فيلم \"الكيت كات\"، محمود عبدالعزيز بيمثل دور راجل أعمى اسمه إيه؟",
     "options": [
-      { "en": "Am Hassanein", "ar": "عم حسنين" },
-      { "en": "Am Abdo", "ar": "عم عبده" },
-      { "en": "Sheikh Metwalli", "ar": "الشيخ متولي" },
-      { "en": "Sheikh Hosni", "ar": "الشيخ حسني" }
+      {
+        "en": "Am Abdo",
+        "ar": "عم عبده"
+      },
+      {
+        "en": "Sheikh Hosni",
+        "ar": "الشيخ حسني"
+      },
+      {
+        "en": "Sheikh Metwalli",
+        "ar": "الشيخ متولي"
+      },
+      {
+        "en": "Am Hassanein",
+        "ar": "عم حسنين"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Mahmoud Abdel Aziz plays the blind Sheikh Hosni in \"Al-Kit Kat\" (1991).",
     "explanation_ar": "محمود عبدالعزيز مثل دور الشيخ حسني الأعمى في فيلم الكيت كات سنة 1991."
   },
@@ -26,12 +38,24 @@
     "question_en": "\"Kira & El Gin\" (2022), starring Karim Abdel Aziz and Ahmed Ezz, is widely reported as having what kind of production budget for Egyptian cinema?",
     "question_ar": "فيلم \"كيرة والجن\" سنة 2022 بطولة كريم عبدالعزيز وأحمد عز اتقال عليه إنه من أكبر إيه في تاريخ السينما المصرية؟",
     "options": [
-      { "en": "One of the biggest budgets ever", "ar": "من أكبر ميزانيات الإنتاج على الإطلاق" },
-      { "en": "The lowest budget of the year", "ar": "أقل ميزانية في السنة" },
-      { "en": "Fully crowdfunded", "ar": "ممول بالكامل من التبرعات" },
-      { "en": "Shot entirely on a phone camera", "ar": "متصور بالكامل بكاميرا موبايل" }
+      {
+        "en": "Shot entirely on a phone camera",
+        "ar": "متصور بالكامل بكاميرا موبايل"
+      },
+      {
+        "en": "The lowest budget of the year",
+        "ar": "أقل ميزانية في السنة"
+      },
+      {
+        "en": "Fully crowdfunded",
+        "ar": "ممول بالكامل من التبرعات"
+      },
+      {
+        "en": "One of the biggest budgets ever",
+        "ar": "من أكبر ميزانيات الإنتاج على الإطلاق"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Kira & El Gin\" was widely reported as one of the biggest-budget productions in Egyptian cinema history.",
     "explanation_ar": "فيلم كيرة والجن اتقال عليه إنه من أكبر ميزانيات الإنتاج في تاريخ السينما المصرية."
   },
@@ -44,12 +68,24 @@
     "question_en": "The \"El Feel El Azraq\" (Blue Elephant) films blend psychological thriller with which supernatural element?",
     "question_ar": "أفلام \"الفيل الأزرق\" بتمزج بين الإثارة النفسية وإيه عنصر خيالي/غيبي؟",
     "options": [
-      { "en": "Time travel", "ar": "السفر عبر الزمن" },
-      { "en": "Djinn (evil spirits)", "ar": "الجن" },
-      { "en": "Alien visitors", "ar": "زوار فضائيين" },
-      { "en": "Zombies", "ar": "زومبي" }
+      {
+        "en": "Time travel",
+        "ar": "السفر عبر الزمن"
+      },
+      {
+        "en": "Zombies",
+        "ar": "زومبي"
+      },
+      {
+        "en": "Djinn (evil spirits)",
+        "ar": "الجن"
+      },
+      {
+        "en": "Alien visitors",
+        "ar": "زوار فضائيين"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Based on Ahmed Mourad's novel, the films mix a psychiatric-hospital thriller with djinn/supernatural horror.",
     "explanation_ar": "مأخوذ عن رواية أحمد مراد، الأفلام بتمزج بين إثارة نفسية جوه مستشفى للأمراض العقلية وعناصر غيبية جن."
   },
@@ -62,12 +98,24 @@
     "question_en": "Ahmed El Sakka plays a rising crime lord in which 2009 drama, directed by Marwan Hamed?",
     "question_ar": "أحمد السقا بيمثل دور زعيم إجرام صاعد في إيه فيلم درامي سنة 2009 من إخراج مروان حامد؟",
     "options": [
-      { "en": "Ibrahim El Abyad", "ar": "إبراهيم الأبيض" },
-      { "en": "El Gezira", "ar": "الجزيرة" },
-      { "en": "Tito", "ar": "تيتو" },
-      { "en": "Mafia", "ar": "مافيا" }
+      {
+        "en": "Tito",
+        "ar": "تيتو"
+      },
+      {
+        "en": "Mafia",
+        "ar": "مافيا"
+      },
+      {
+        "en": "Ibrahim El Abyad",
+        "ar": "إبراهيم الأبيض"
+      },
+      {
+        "en": "El Gezira",
+        "ar": "الجزيرة"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"Ibrahim El Abyad\" (2009), directed by Marwan Hamed, stars Ahmed El Sakka as a rising crime figure.",
     "explanation_ar": "فيلم إبراهيم الأبيض سنة 2009 من إخراج مروان حامد بطولة أحمد السقا كزعيم إجرام صاعد."
   },
@@ -80,12 +128,24 @@
     "question_en": "Who directed Ahmed El Sakka's 2002 action hit \"Mafia\"?",
     "question_ar": "مين اللي أخرج فيلم أحمد السقا الأكشن \"مافيا\" سنة 2002؟",
     "options": [
-      { "en": "Sherif Arafa", "ar": "شريف عرفة" },
-      { "en": "Sandra Nashaat", "ar": "ساندرا نشأت" },
-      { "en": "Marwan Hamed", "ar": "مروان حامد" },
-      { "en": "Tarek El Eryan", "ar": "طارق العريان" }
+      {
+        "en": "Marwan Hamed",
+        "ar": "مروان حامد"
+      },
+      {
+        "en": "Sandra Nashaat",
+        "ar": "ساندرا نشأت"
+      },
+      {
+        "en": "Sherif Arafa",
+        "ar": "شريف عرفة"
+      },
+      {
+        "en": "Tarek El Eryan",
+        "ar": "طارق العريان"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Sherif Arafa directed \"Mafia\" (2002).",
     "explanation_ar": "شريف عرفة أخرج فيلم مافيا سنة 2002."
   },
@@ -98,10 +158,22 @@
     "question_en": "In \"Ashab Wala Aazz\", which real-life on-screen pairing plays one of the married couples at the dinner?",
     "question_ar": "في فيلم \"أصحاب ولا أعز\"، مين الزوجين اللي بيمثلوا واحدة من الأزواج على العزومة؟",
     "options": [
-      { "en": "Nelly Karim & Ahmed Dawood", "ar": "نيللي كريم وأحمد داوود" },
-      { "en": "Yousra & Hussein Fahmy", "ar": "يسرا وحسين فهمي" },
-      { "en": "Elham Shahin & Hany Salama", "ar": "إلهام شاهين وهاني سلامة" },
-      { "en": "Menna Shalaby & Amr Saad", "ar": "منة شلبي وعمرو سعد" }
+      {
+        "en": "Nelly Karim & Ahmed Dawood",
+        "ar": "نيللي كريم وأحمد داوود"
+      },
+      {
+        "en": "Menna Shalaby & Amr Saad",
+        "ar": "منة شلبي وعمرو سعد"
+      },
+      {
+        "en": "Yousra & Hussein Fahmy",
+        "ar": "يسرا وحسين فهمي"
+      },
+      {
+        "en": "Elham Shahin & Hany Salama",
+        "ar": "إلهام شاهين وهاني سلامة"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Nelly Karim and Ahmed Dawood play one of the married couples in \"Ashab Wala Aazz\".",
@@ -116,10 +188,22 @@
     "question_en": "In \"The Yacoubian Building\", which veteran actor plays the corrupt businessman Haj Azzam?",
     "question_ar": "في فيلم \"عمارة يعقوبيان\"، مين اللي مثل دور الحاج عزام رجل الأعمال الفاسد؟",
     "options": [
-      { "en": "Nour El-Sherif", "ar": "نور الشريف" },
-      { "en": "Hussein Fahmy", "ar": "حسين فهمي" },
-      { "en": "Yehia El-Fakharany", "ar": "يحيى الفخراني" },
-      { "en": "Mahmoud Abdel Aziz", "ar": "محمود عبدالعزيز" }
+      {
+        "en": "Nour El-Sherif",
+        "ar": "نور الشريف"
+      },
+      {
+        "en": "Yehia El-Fakharany",
+        "ar": "يحيى الفخراني"
+      },
+      {
+        "en": "Mahmoud Abdel Aziz",
+        "ar": "محمود عبدالعزيز"
+      },
+      {
+        "en": "Hussein Fahmy",
+        "ar": "حسين فهمي"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Nour El-Sherif played the corrupt Haj Azzam.",
@@ -134,12 +218,24 @@
     "question_en": "In \"The Yacoubian Building\", Adel Imam plays an aging aristocrat named what?",
     "question_ar": "في فيلم \"عمارة يعقوبيان\"، عادل إمام بيمثل دور أرستقراطي كبير في السن اسمه إيه؟",
     "options": [
-      { "en": "Taha El Shazli", "ar": "طه الشاذلي" },
-      { "en": "Kamal El Fouli", "ar": "كمال الفولي" },
-      { "en": "Zaki El Dessouki", "ar": "زكي الدسوقي" },
-      { "en": "Hatim Rashid", "ar": "حاتم رشيد" }
+      {
+        "en": "Kamal El Fouli",
+        "ar": "كمال الفولي"
+      },
+      {
+        "en": "Zaki El Dessouki",
+        "ar": "زكي الدسوقي"
+      },
+      {
+        "en": "Hatim Rashid",
+        "ar": "حاتم رشيد"
+      },
+      {
+        "en": "Taha El Shazli",
+        "ar": "طه الشاذلي"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Adel Imam plays Zaki El Dessouki, the building's aging aristocrat.",
     "explanation_ar": "عادل إمام مثل شخصية زكي الدسوقي الأرستقراطي الكبير في السن."
   },
@@ -152,12 +248,24 @@
     "question_en": "The ensemble hit \"El Kenz\" (The Treasure) was released to theaters as how many connected films (2017 and 2019)?",
     "question_ar": "فيلم \"الكنز\" الجماعي اتعرض في السينما كام جزء متصل (سنة 2017 و2019)؟",
     "options": [
-      { "en": "Two parts", "ar": "جزئين" },
-      { "en": "One long film only", "ar": "جزء واحد بس" },
-      { "en": "Three parts", "ar": "تلات أجزاء" },
-      { "en": "Four parts", "ar": "أربع أجزاء" }
+      {
+        "en": "Four parts",
+        "ar": "أربع أجزاء"
+      },
+      {
+        "en": "Three parts",
+        "ar": "تلات أجزاء"
+      },
+      {
+        "en": "One long film only",
+        "ar": "جزء واحد بس"
+      },
+      {
+        "en": "Two parts",
+        "ar": "جزئين"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"El Kenz\" was released as two connected parts, in 2017 and 2019.",
     "explanation_ar": "فيلم الكنز اتعرض كجزئين متصلين، سنة 2017 وسنة 2019."
   },
@@ -170,12 +278,24 @@
     "question_en": "\"Sheikh Jackson\" (2017), Egypt's Oscar submission that year, follows an imam obsessed with which pop star's death?",
     "question_ar": "فيلم \"شيخ جاكسون\" سنة 2017، ترشيح مصر للأوسكار وقتها، بيحكي عن إمام متأثر بوفاة إيه نجم بوب؟",
     "options": [
-      { "en": "Michael Jackson", "ar": "مايكل جاكسون" },
-      { "en": "Elvis Presley", "ar": "إلفيس بريسلي" },
-      { "en": "Prince", "ar": "برينس" },
-      { "en": "David Bowie", "ar": "ديفيد بوي" }
+      {
+        "en": "Prince",
+        "ar": "برينس"
+      },
+      {
+        "en": "David Bowie",
+        "ar": "ديفيد بوي"
+      },
+      {
+        "en": "Elvis Presley",
+        "ar": "إلفيس بريسلي"
+      },
+      {
+        "en": "Michael Jackson",
+        "ar": "مايكل جاكسون"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Sheikh Jackson\", directed by Amr Salama and starring Ahmed El Fishawy, follows an imam shaken by Michael Jackson's death.",
     "explanation_ar": "فيلم شيخ جاكسون، إخراج عمرو سلامة وبطولة أحمد الفيشاوي، بيحكي عن إمام اتهز لما مايكل جاكسون مات."
   },
@@ -188,12 +308,24 @@
     "question_en": "Which veteran actor stars as a lonely photocopy-shop owner in the acclaimed drama \"Photocopy\" (2017)?",
     "question_ar": "مين النجم القديم اللي مثل دور صاحب محل فوتوكوبي وحيد في فيلم \"فوتوكوبي\" المتميز سنة 2017؟",
     "options": [
-      { "en": "Mahmoud Hemida", "ar": "محمود حميدة" },
-      { "en": "Hussein Fahmy", "ar": "حسين فهمي" },
-      { "en": "Khaled El Sawy", "ar": "خالد الصاوي" },
-      { "en": "Sherif Mounir", "ar": "شريف منير" }
+      {
+        "en": "Khaled El Sawy",
+        "ar": "خالد الصاوي"
+      },
+      {
+        "en": "Hussein Fahmy",
+        "ar": "حسين فهمي"
+      },
+      {
+        "en": "Mahmoud Hemida",
+        "ar": "محمود حميدة"
+      },
+      {
+        "en": "Sherif Mounir",
+        "ar": "شريف منير"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Mahmoud Hemida stars as the lonely shop owner in \"Photocopy\" (2017).",
     "explanation_ar": "محمود حميدة بيمثل دور صاحب محل الفوتوكوبي الوحيد في فيلم فوتوكوبي سنة 2017."
   },
@@ -206,12 +338,24 @@
     "question_en": "Mohamed Ramadan's \"El Prince\" is remembered for which repeated catchphrase about his chair/seat of power?",
     "question_ar": "فيلم \"البرنس\" لمحمد رمضان اتشهر بإيه جملة متكررة عن الكرسي بتاعه؟",
     "options": [
-      { "en": "\"Mafeesh had fou2 el korsy beta3y\"", "ar": "\"مفيش حد فوق الكرسي بتاعي\"" },
-      { "en": "\"Ana el zaeem\"", "ar": "\"أنا الزعيم\"" },
-      { "en": "\"El korsy da beta3 meen\"", "ar": "\"الكرسي ده بتاع مين\"" },
-      { "en": "\"Hena betlazam el adab\"", "ar": "\"هنا بيتلزم الأدب\"" }
+      {
+        "en": "\"El korsy da beta3 meen\"",
+        "ar": "\"الكرسي ده بتاع مين\""
+      },
+      {
+        "en": "\"Hena betlazam el adab\"",
+        "ar": "\"هنا بيتلزم الأدب\""
+      },
+      {
+        "en": "\"Ana el zaeem\"",
+        "ar": "\"أنا الزعيم\""
+      },
+      {
+        "en": "\"Mafeesh had fou2 el korsy beta3y\"",
+        "ar": "\"مفيش حد فوق الكرسي بتاعي\""
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Mafeesh had fou2 el korsy beta3y\" (Nobody's above my chair) is a widely quoted line from \"El Prince\".",
     "explanation_ar": "جملة \"مفيش حد فوق الكرسي بتاعي\" من أشهر جمل فيلم البرنس."
   },
@@ -224,12 +368,24 @@
     "question_en": "Ahmed El Sakka and Mona Zaki co-starred as young leads in which acclaimed 2001 adventure comedy?",
     "question_ar": "أحمد السقا ومنى زكي مثلوا مع بعض بطولة شباب في إيه فيلم مغامرات كوميدي سنة 2001 لاقى نجاح كبير؟",
     "options": [
-      { "en": "Africano", "ar": "أفريكانو" },
-      { "en": "Omar 2000", "ar": "عمر 2000" },
-      { "en": "Sahar El Layali", "ar": "سهر الليالي" },
-      { "en": "Kaboria", "ar": "كابوريا" }
+      {
+        "en": "Omar 2000",
+        "ar": "عمر 2000"
+      },
+      {
+        "en": "Kaboria",
+        "ar": "كابوريا"
+      },
+      {
+        "en": "Africano",
+        "ar": "أفريكانو"
+      },
+      {
+        "en": "Sahar El Layali",
+        "ar": "سهر الليالي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"Africano\" (2001) starred Ahmed El Sakka and Mona Zaki and was a big hit.",
     "explanation_ar": "فيلم أفريكانو سنة 2001 بطولة أحمد السقا ومنى زكي ولاقى نجاح كبير."
   },
@@ -242,12 +398,24 @@
     "question_en": "\"Kira & El Gin\" is loosely inspired by two real figures known in 1920s Alexandria for what?",
     "question_ar": "فيلم \"كيرة والجن\" مستوحى من شخصيتين حقيقيتين اشتهروا في إسكندرية العشرينات بإيه؟",
     "options": [
-      { "en": "Evading police for years while pulling off robberies", "ar": "الهروب من البوليس لسنين وهم بيعملوا سرقات" },
-      { "en": "Founding the city's first cinema", "ar": "تأسيس أول سينما في المدينة" },
-      { "en": "Leading a political revolution", "ar": "قيادة ثورة سياسية" },
-      { "en": "Writing famous poetry", "ar": "كتابة شعر مشهور" }
+      {
+        "en": "Writing famous poetry",
+        "ar": "كتابة شعر مشهور"
+      },
+      {
+        "en": "Evading police for years while pulling off robberies",
+        "ar": "الهروب من البوليس لسنين وهم بيعملوا سرقات"
+      },
+      {
+        "en": "Leading a political revolution",
+        "ar": "قيادة ثورة سياسية"
+      },
+      {
+        "en": "Founding the city's first cinema",
+        "ar": "تأسيس أول سينما في المدينة"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Kira and El-Gina were real Alexandria figures known for years of daring robberies while evading capture.",
     "explanation_ar": "كيرة والجنة كانوا شخصيات حقيقية في إسكندرية اشتهروا بسرقات جريئة وهربهم من البوليس لسنين."
   },
@@ -260,12 +428,24 @@
     "question_en": "The \"El Gezira\" films draw loosely on real stories of drug-farming and vendettas from which part of Egypt?",
     "question_ar": "أفلام \"الجزيرة\" مستوحاة بشكل غير مباشر من قصص حقيقية عن زراعة المخدرات والثأر في إيه منطقة من مصر؟",
     "options": [
-      { "en": "Upper Egypt (Al-Sa'id)", "ar": "الصعيد" },
-      { "en": "The Nile Delta", "ar": "الدلتا" },
-      { "en": "Sinai", "ar": "سيناء" },
-      { "en": "The Red Sea coast", "ar": "ساحل البحر الأحمر" }
+      {
+        "en": "The Nile Delta",
+        "ar": "الدلتا"
+      },
+      {
+        "en": "The Red Sea coast",
+        "ar": "ساحل البحر الأحمر"
+      },
+      {
+        "en": "Sinai",
+        "ar": "سيناء"
+      },
+      {
+        "en": "Upper Egypt (Al-Sa'id)",
+        "ar": "الصعيد"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"El Gezira\" draws loosely on real stories from Upper Egypt about drug-farming villages and vendettas.",
     "explanation_ar": "أفلام الجزيرة مستوحاة من قصص حقيقية عن قرى زراعة المخدرات والثأر في الصعيد."
   },
@@ -278,10 +458,22 @@
     "question_en": "Who directed Mohamed Ramadan's action hit \"Qalb El-Asad\" (2013)?",
     "question_ar": "مين اللي أخرج فيلم محمد رمضان \"قلب الأسد\" سنة 2013؟",
     "options": [
-      { "en": "Karim El Sobky", "ar": "كريم السبكي" },
-      { "en": "Peter Mimi", "ar": "بيتر ميمي" },
-      { "en": "Sherif Arafa", "ar": "شريف عرفة" },
-      { "en": "Marwan Hamed", "ar": "مروان حامد" }
+      {
+        "en": "Karim El Sobky",
+        "ar": "كريم السبكي"
+      },
+      {
+        "en": "Marwan Hamed",
+        "ar": "مروان حامد"
+      },
+      {
+        "en": "Peter Mimi",
+        "ar": "بيتر ميمي"
+      },
+      {
+        "en": "Sherif Arafa",
+        "ar": "شريف عرفة"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Karim El Sobky directed \"Qalb El-Asad\" (2013).",
@@ -296,12 +488,24 @@
     "question_en": "Who directed Mohamed Ramadan's breakout hit \"Abdo Mota\" (2012)?",
     "question_ar": "مين اللي أخرج فيلم محمد رمضان \"عبده موتة\" سنة 2012 اللي فتحله الطريق؟",
     "options": [
-      { "en": "Ismail Farouk", "ar": "إسماعيل فاروق" },
-      { "en": "Karim El Sobky", "ar": "كريم السبكي" },
-      { "en": "Sandra Nashaat", "ar": "ساندرا نشأت" },
-      { "en": "Ahmed Nader Galal", "ar": "أحمد نادر جلال" }
+      {
+        "en": "Karim El Sobky",
+        "ar": "كريم السبكي"
+      },
+      {
+        "en": "Ismail Farouk",
+        "ar": "إسماعيل فاروق"
+      },
+      {
+        "en": "Ahmed Nader Galal",
+        "ar": "أحمد نادر جلال"
+      },
+      {
+        "en": "Sandra Nashaat",
+        "ar": "ساندرا نشأت"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Ismail Farouk directed \"Abdo Mota\" (2012).",
     "explanation_ar": "إسماعيل فاروق أخرج فيلم عبده موتة سنة 2012."
   },
@@ -314,12 +518,24 @@
     "question_en": "Who directed \"Halawet Rooh\" (2014), starring Haifa Wehbe?",
     "question_ar": "مين اللي أخرج فيلم \"حلاوة روح\" سنة 2014 بطولة هيفاء وهبي؟",
     "options": [
-      { "en": "Sameh Abdel Aziz", "ar": "سامح عبدالعزيز" },
-      { "en": "Wael Ehsan", "ar": "وائل إحسان" },
-      { "en": "Ahmed Nader Galal", "ar": "أحمد نادر جلال" },
-      { "en": "Tarek El Eryan", "ar": "طارق العريان" }
+      {
+        "en": "Ahmed Nader Galal",
+        "ar": "أحمد نادر جلال"
+      },
+      {
+        "en": "Sameh Abdel Aziz",
+        "ar": "سامح عبدالعزيز"
+      },
+      {
+        "en": "Tarek El Eryan",
+        "ar": "طارق العريان"
+      },
+      {
+        "en": "Wael Ehsan",
+        "ar": "وائل إحسان"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Sameh Abdel Aziz directed \"Halawet Rooh\" (2014).",
     "explanation_ar": "سامح عبدالعزيز أخرج فيلم حلاوة روح سنة 2014."
   },
@@ -332,12 +548,24 @@
     "question_en": "Who directed the kung-fu spoof comedy \"Zaki Chan\" (2005), starring Ahmed Helmy?",
     "question_ar": "مين اللي أخرج فيلم \"زكي شان\" سنة 2005 بطولة أحمد حلمي؟",
     "options": [
-      { "en": "Wael Ehsan", "ar": "وائل إحسان" },
-      { "en": "Sherif Arafa", "ar": "شريف عرفة" },
-      { "en": "Sandra Nashaat", "ar": "ساندرا نشأت" },
-      { "en": "Ahmed Nader Galal", "ar": "أحمد نادر جلال" }
+      {
+        "en": "Sandra Nashaat",
+        "ar": "ساندرا نشأت"
+      },
+      {
+        "en": "Wael Ehsan",
+        "ar": "وائل إحسان"
+      },
+      {
+        "en": "Sherif Arafa",
+        "ar": "شريف عرفة"
+      },
+      {
+        "en": "Ahmed Nader Galal",
+        "ar": "أحمد نادر جلال"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Wael Ehsan directed \"Zaki Chan\" (2005).",
     "explanation_ar": "وائل إحسان أخرج فيلم زكي شان سنة 2005."
   },
@@ -350,12 +578,24 @@
     "question_en": "Who directed the comedy hit \"El Nazer\" (2000), starring Ahmed Helmy and Mohamed Saad?",
     "question_ar": "مين اللي أخرج فيلم \"الناظر\" الكوميدي سنة 2000 بطولة أحمد حلمي ومحمد سعد؟",
     "options": [
-      { "en": "Sherif Arafa", "ar": "شريف عرفة" },
-      { "en": "Sandra Nashaat", "ar": "ساندرا نشأت" },
-      { "en": "Ahmed Nader Galal", "ar": "أحمد نادر جلال" },
-      { "en": "Marwan Hamed", "ar": "مروان حامد" }
+      {
+        "en": "Ahmed Nader Galal",
+        "ar": "أحمد نادر جلال"
+      },
+      {
+        "en": "Sherif Arafa",
+        "ar": "شريف عرفة"
+      },
+      {
+        "en": "Marwan Hamed",
+        "ar": "مروان حامد"
+      },
+      {
+        "en": "Sandra Nashaat",
+        "ar": "ساندرا نشأت"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Sherif Arafa directed \"El Nazer\" (2000).",
     "explanation_ar": "شريف عرفة أخرج فيلم الناظر سنة 2000."
   },
@@ -368,12 +608,24 @@
     "question_en": "Who directed Ahmed El Sakka's \"Tito\" (2004)?",
     "question_ar": "مين اللي أخرج فيلم أحمد السقا \"تيتو\" سنة 2004؟",
     "options": [
-      { "en": "Tarek El Eryan", "ar": "طارق العريان" },
-      { "en": "Sherif Arafa", "ar": "شريف عرفة" },
-      { "en": "Sameh Abdel Aziz", "ar": "سامح عبدالعزيز" },
-      { "en": "Marwan Hamed", "ar": "مروان حامد" }
+      {
+        "en": "Sherif Arafa",
+        "ar": "شريف عرفة"
+      },
+      {
+        "en": "Marwan Hamed",
+        "ar": "مروان حامد"
+      },
+      {
+        "en": "Sameh Abdel Aziz",
+        "ar": "سامح عبدالعزيز"
+      },
+      {
+        "en": "Tarek El Eryan",
+        "ar": "طارق العريان"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Tarek El Eryan directed \"Tito\" (2004).",
     "explanation_ar": "طارق العريان أخرج فيلم تيتو سنة 2004."
   },
@@ -386,12 +638,24 @@
     "question_en": "\"Awlad Rizk\" (Sons of Rizk, 2015) follows four brothers played by Ahmed Ezz, Amr Youssef, Ahmed Dawood and which other actor?",
     "question_ar": "فيلم \"أولاد رزق\" سنة 2015 بيحكي عن أربع إخوة بيمثلهم أحمد عز وعمرو يوسف وأحمد داوود ومين كمان؟",
     "options": [
-      { "en": "Ahmed El-Fishawy", "ar": "أحمد الفيشاوي" },
-      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" },
-      { "en": "Amr Saad", "ar": "عمرو سعد" },
-      { "en": "Khaled El Sawy", "ar": "خالد الصاوي" }
+      {
+        "en": "Amr Saad",
+        "ar": "عمرو سعد"
+      },
+      {
+        "en": "Ahmed El-Fishawy",
+        "ar": "أحمد الفيشاوي"
+      },
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبدالعزيز"
+      },
+      {
+        "en": "Khaled El Sawy",
+        "ar": "خالد الصاوي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Ahmed El-Fishawy plays one of the four Rizk brothers alongside Ahmed Ezz, Amr Youssef and Ahmed Dawood.",
     "explanation_ar": "أحمد الفيشاوي بيمثل واحد من إخوة رزق الأربعة مع أحمد عز وعمرو يوسف وأحمد داوود."
   },
@@ -404,12 +668,24 @@
     "question_en": "Khaled Abol Naga stars as a reclusive architect in which acclaimed 2013 Egyptian indie drama?",
     "question_ar": "خالد أبو النجا بيمثل دور مهندس معماري منعزل في إيه فيلم مصري مستقل متميز سنة 2013؟",
     "options": [
-      { "en": "Villa 69", "ar": "فيلا 69" },
-      { "en": "Photocopy", "ar": "فوتوكوبي" },
-      { "en": "Heena Maysara", "ar": "حين ميسرة" },
-      { "en": "Asmaa", "ar": "أسماء" }
+      {
+        "en": "Photocopy",
+        "ar": "فوتوكوبي"
+      },
+      {
+        "en": "Heena Maysara",
+        "ar": "حين ميسرة"
+      },
+      {
+        "en": "Asmaa",
+        "ar": "أسماء"
+      },
+      {
+        "en": "Villa 69",
+        "ar": "فيلا 69"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Khaled Abol Naga stars in the acclaimed indie drama \"Villa 69\" (2013).",
     "explanation_ar": "خالد أبو النجا بطل الفيلم المستقل المتميز فيلا 69 سنة 2013."
   },
@@ -422,12 +698,24 @@
     "question_en": "Which female Egyptian director made the acclaimed indie drama \"Villa 69\" (2013)?",
     "question_ar": "مين المخرجة المصرية اللي عملت فيلم \"فيلا 69\" المستقل المتميز سنة 2013؟",
     "options": [
-      { "en": "Ayten Amin", "ar": "آيتن أمين" },
-      { "en": "Kamla Abu Zekry", "ar": "كاملة أبو ذكري" },
-      { "en": "Hala Khalil", "ar": "هالة خليل" },
-      { "en": "Sandra Nashaat", "ar": "ساندرا نشأت" }
+      {
+        "en": "Hala Khalil",
+        "ar": "هالة خليل"
+      },
+      {
+        "en": "Sandra Nashaat",
+        "ar": "ساندرا نشأت"
+      },
+      {
+        "en": "Kamla Abu Zekry",
+        "ar": "كاملة أبو ذكري"
+      },
+      {
+        "en": "Ayten Amin",
+        "ar": "آيتن أمين"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Ayten Amin directed \"Villa 69\" (2013).",
     "explanation_ar": "آيتن أمين أخرجت فيلم فيلا 69 سنة 2013."
   },
@@ -440,12 +728,24 @@
     "question_en": "Real-life couple Ahmed Helmy and Mona Zaki also appear as one of the couples in which 2003 ensemble drama?",
     "question_ar": "الزوجين في الحقيقة أحمد حلمي ومنى زكي بيظهروا كمان كواحد من الأزواج في إيه فيلم درامي جماعي سنة 2003؟",
     "options": [
-      { "en": "Sahar El Layali", "ar": "سهر الليالي" },
-      { "en": "Asrar Al Banat", "ar": "أسرار البنات" },
-      { "en": "Heena Maysara", "ar": "حين ميسرة" },
-      { "en": "Al-Gezira", "ar": "الجزيرة" }
+      {
+        "en": "Al-Gezira",
+        "ar": "الجزيرة"
+      },
+      {
+        "en": "Asrar Al Banat",
+        "ar": "أسرار البنات"
+      },
+      {
+        "en": "Sahar El Layali",
+        "ar": "سهر الليالي"
+      },
+      {
+        "en": "Heena Maysara",
+        "ar": "حين ميسرة"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Ahmed Helmy and Mona Zaki appear as one of the couples in \"Sahar El Layali\" (2003).",
     "explanation_ar": "أحمد حلمي ومنى زكي ظهروا كواحد من الأزواج في فيلم سهر الليالي سنة 2003."
   },
@@ -458,12 +758,24 @@
     "question_en": "Which director made \"Pulp Fiction\" and is famous for nonlinear storytelling?",
     "question_ar": "مين المخرج اللي عمل \"بلب فيكشن\" ومشهور بأسلوب السرد الغير خطي؟",
     "options": [
-      { "en": "Quentin Tarantino", "ar": "كوينتين تارانتينو" },
-      { "en": "Guy Ritchie", "ar": "جاي ريتشي" },
-      { "en": "David Fincher", "ar": "ديفيد فينشر" },
-      { "en": "Martin Scorsese", "ar": "مارتن سكورسيزي" }
+      {
+        "en": "Martin Scorsese",
+        "ar": "مارتن سكورسيزي"
+      },
+      {
+        "en": "David Fincher",
+        "ar": "ديفيد فينشر"
+      },
+      {
+        "en": "Guy Ritchie",
+        "ar": "جاي ريتشي"
+      },
+      {
+        "en": "Quentin Tarantino",
+        "ar": "كوينتين تارانتينو"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Quentin Tarantino directed \"Pulp Fiction\" (1994).",
     "explanation_ar": "كوينتين تارانتينو أخرج فيلم بلب فيكشن سنة 1994."
   },
@@ -476,12 +788,24 @@
     "question_en": "Which Mohamed Henedy comedy about a bachelor terrified of marriage still has widely quoted lines today?",
     "question_ar": "إيه فيلم محمد هنيدي الكوميدي عن أعزب خايف من الجواز اللي لسه جمله بتتقال لحد دلوقتي؟",
     "options": [
-      { "en": "Fool El Sen", "ar": "فول الصين العظيم" },
-      { "en": "El Nazer", "ar": "الناظر" },
-      { "en": "Hamam Fi Amsterdam", "ar": "حمام في أمستردام" },
-      { "en": "Saheb Sahbo", "ar": "صاحب صاحبه" }
+      {
+        "en": "Saheb Sahbo",
+        "ar": "صاحب صاحبه"
+      },
+      {
+        "en": "Fool El Sen",
+        "ar": "فول الصين العظيم"
+      },
+      {
+        "en": "El Nazer",
+        "ar": "الناظر"
+      },
+      {
+        "en": "Hamam Fi Amsterdam",
+        "ar": "حمام في أمستردام"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "\"Fool El Sen\" (2001) is a Henedy comedy whose lines remain popularly quoted.",
     "explanation_ar": "فيلم فول الصين العظيم سنة 2001 بطولة هنيدي لسه جمله بتتقال."
   },
@@ -494,12 +818,24 @@
     "question_en": "Which Christopher Nolan film centers on entering people's dreams to plant an idea?",
     "question_ar": "إيه فيلم كريستوفر نولان اللي بيدور حول دخول أحلام الناس عشان تزرع فكرة؟",
     "options": [
-      { "en": "Interstellar", "ar": "إنترستيلار" },
-      { "en": "Inception", "ar": "إنسيبشن" },
-      { "en": "Memento", "ar": "ميمنتو" },
-      { "en": "Tenet", "ar": "تينيت" }
+      {
+        "en": "Inception",
+        "ar": "إنسيبشن"
+      },
+      {
+        "en": "Interstellar",
+        "ar": "إنترستيلار"
+      },
+      {
+        "en": "Tenet",
+        "ar": "تينيت"
+      },
+      {
+        "en": "Memento",
+        "ar": "ميمنتو"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "\"Inception\" (2010) is about dream infiltration.",
     "explanation_ar": "فيلم إنسيبشن سنة 2010 بيدور حول دخول الأحلام."
   },
@@ -512,12 +848,24 @@
     "question_en": "Which actor famously played the robotic assassin in \"The Terminator\"?",
     "question_ar": "مين النجم اللي مثل دور الروبوت القاتل في فيلم \"ذا تيرميناتور\"؟",
     "options": [
-      { "en": "Jean-Claude Van Damme", "ar": "جان كلود فان دام" },
-      { "en": "Sylvester Stallone", "ar": "سيلفستر ستالون" },
-      { "en": "Arnold Schwarzenegger", "ar": "أرنولد شوارزنيجر" },
-      { "en": "Dolph Lundgren", "ar": "دولف لندجرين" }
+      {
+        "en": "Arnold Schwarzenegger",
+        "ar": "أرنولد شوارزنيجر"
+      },
+      {
+        "en": "Sylvester Stallone",
+        "ar": "سيلفستر ستالون"
+      },
+      {
+        "en": "Jean-Claude Van Damme",
+        "ar": "جان كلود فان دام"
+      },
+      {
+        "en": "Dolph Lundgren",
+        "ar": "دولف لندجرين"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Arnold Schwarzenegger played the Terminator.",
     "explanation_ar": "أرنولد شوارزنيجر مثل دور التيرميناتور."
   },
@@ -530,12 +878,24 @@
     "question_en": "Who played the cannibalistic psychiatrist Hannibal Lecter in \"The Silence of the Lambs\"?",
     "question_ar": "مين اللي مثل دور الطبيب النفسي المفترس هانيبال ليكتر في فيلم \"ذا سايلنس أوف ذا لامبز\"؟",
     "options": [
-      { "en": "Christopher Walken", "ar": "كريستوفر والكن" },
-      { "en": "Jack Nicholson", "ar": "جاك نيكلسون" },
-      { "en": "Gary Oldman", "ar": "جاري أولدمان" },
-      { "en": "Anthony Hopkins", "ar": "أنتوني هوبكنز" }
+      {
+        "en": "Gary Oldman",
+        "ar": "جاري أولدمان"
+      },
+      {
+        "en": "Anthony Hopkins",
+        "ar": "أنتوني هوبكنز"
+      },
+      {
+        "en": "Jack Nicholson",
+        "ar": "جاك نيكلسون"
+      },
+      {
+        "en": "Christopher Walken",
+        "ar": "كريستوفر والكن"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Anthony Hopkins won an Oscar for playing Hannibal Lecter.",
     "explanation_ar": "أنتوني هوبكنز أخد أوسكار عن دور هانيبال ليكتر."
   },
@@ -548,12 +908,24 @@
     "question_en": "Which Egyptian production reportedly built an extensive replica of a 1920s Alexandria street for its sets?",
     "question_ar": "إيه الفيلم المصري اللي اتقال إنه بنى ديكور واسع لشارع إسكندرية في العشرينات؟",
     "options": [
-      { "en": "Kira & El Gin", "ar": "كيرة والجن" },
-      { "en": "El Khaleya", "ar": "الخلية" },
-      { "en": "Ashab Wala Aazz", "ar": "أصحاب ولا أعز" },
-      { "en": "El Gezira", "ar": "الجزيرة" }
+      {
+        "en": "El Khaleya",
+        "ar": "الخلية"
+      },
+      {
+        "en": "Kira & El Gin",
+        "ar": "كيرة والجن"
+      },
+      {
+        "en": "El Gezira",
+        "ar": "الجزيرة"
+      },
+      {
+        "en": "Ashab Wala Aazz",
+        "ar": "أصحاب ولا أعز"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "\"Kira & El Gin\" reportedly built an extensive 1920s Alexandria street set.",
     "explanation_ar": "فيلم كيرة والجن اتقال عليه إنه بنى ديكور واسع لشارع إسكندرية في العشرينات."
   },
@@ -566,12 +938,24 @@
     "question_en": "In \"The Sixth Sense\", the big twist reveals that Bruce Willis's character is what?",
     "question_ar": "في فيلم \"ذا سيكستس سينس\"، المفاجأة الكبيرة بتكشف إن شخصية بروس ويليس إيه؟",
     "options": [
-      { "en": "An undercover agent", "ar": "عميل سري" },
-      { "en": "A time traveler", "ar": "مسافر عبر الزمن" },
-      { "en": "Dead the whole time", "ar": "ميت من الأول" },
-      { "en": "The boy's real father", "ar": "والد الولد الحقيقي" }
+      {
+        "en": "The boy's real father",
+        "ar": "والد الولد الحقيقي"
+      },
+      {
+        "en": "A time traveler",
+        "ar": "مسافر عبر الزمن"
+      },
+      {
+        "en": "An undercover agent",
+        "ar": "عميل سري"
+      },
+      {
+        "en": "Dead the whole time",
+        "ar": "ميت من الأول"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "His character has been dead throughout the film.",
     "explanation_ar": "شخصيته كانت ميتة من بداية الفيلم."
   },
@@ -584,10 +968,22 @@
     "question_en": "Bruce Banner transforms into which Avenger when angry?",
     "question_ar": "بروس بانر بيتحول لمين من الأفينجرز لما يزعل؟",
     "options": [
-      { "en": "Thor", "ar": "ثور" },
-      { "en": "Vision", "ar": "فيجن" },
-      { "en": "The Hulk", "ar": "الهالك" },
-      { "en": "Ant-Man", "ar": "آنت مان" }
+      {
+        "en": "Thor",
+        "ar": "ثور"
+      },
+      {
+        "en": "Vision",
+        "ar": "فيجن"
+      },
+      {
+        "en": "The Hulk",
+        "ar": "الهالك"
+      },
+      {
+        "en": "Ant-Man",
+        "ar": "آنت مان"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Bruce Banner turns into the Hulk when enraged.",
@@ -602,12 +998,24 @@
     "question_en": "Amr Youssef stars in \"Hepta: The Last Lecture\" (2016), based on a bestselling novel by which author?",
     "question_ar": "عمرو يوسف بطل فيلم \"هيبتا: الحب في سبع محطات\" سنة 2016، مأخوذ عن رواية بيست سيلر لمين؟",
     "options": [
-      { "en": "Mohamed Sadek", "ar": "محمد صادق" },
-      { "en": "Ahmed Mourad", "ar": "أحمد مراد" },
-      { "en": "Alaa Al Aswany", "ar": "علاء الأسواني" },
-      { "en": "Youssef Ziedan", "ar": "يوسف زيدان" }
+      {
+        "en": "Ahmed Mourad",
+        "ar": "أحمد مراد"
+      },
+      {
+        "en": "Youssef Ziedan",
+        "ar": "يوسف زيدان"
+      },
+      {
+        "en": "Mohamed Sadek",
+        "ar": "محمد صادق"
+      },
+      {
+        "en": "Alaa Al Aswany",
+        "ar": "علاء الأسواني"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"Hepta\" is based on the bestselling novel by psychologist Mohamed Sadek.",
     "explanation_ar": "فيلم هيبتا مأخوذ عن رواية بيست سيلر للدكتور محمد صادق."
   },
@@ -620,10 +1028,22 @@
     "question_en": "Which actor played the villain Bane in \"The Dark Knight Rises\"?",
     "question_ar": "مين اللي مثل دور الشرير بين في فيلم \"ذا دارك نايت رايزز\"؟",
     "options": [
-      { "en": "Cillian Murphy", "ar": "كيليان ميرفي" },
-      { "en": "Tom Hardy", "ar": "توم هاردي" },
-      { "en": "Liam Neeson", "ar": "ليام نيسون" },
-      { "en": "Tom Hiddleston", "ar": "توم هيدلستون" }
+      {
+        "en": "Liam Neeson",
+        "ar": "ليام نيسون"
+      },
+      {
+        "en": "Tom Hardy",
+        "ar": "توم هاردي"
+      },
+      {
+        "en": "Tom Hiddleston",
+        "ar": "توم هيدلستون"
+      },
+      {
+        "en": "Cillian Murphy",
+        "ar": "كيليان ميرفي"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Tom Hardy played Bane.",
@@ -638,10 +1058,22 @@
     "question_en": "Which actor won the Best Actor Oscar for playing the title role in \"Joker\" (2019)?",
     "question_ar": "مين اللي أخد أوسكار أفضل ممثل عن دور البطولة في فيلم \"جوكر\" سنة 2019؟",
     "options": [
-      { "en": "Adam Driver", "ar": "آدم درايفر" },
-      { "en": "Christian Bale", "ar": "كريستيان بيل" },
-      { "en": "Jared Leto", "ar": "جاريد ليتو" },
-      { "en": "Joaquin Phoenix", "ar": "واكين فينيكس" }
+      {
+        "en": "Christian Bale",
+        "ar": "كريستيان بيل"
+      },
+      {
+        "en": "Jared Leto",
+        "ar": "جاريد ليتو"
+      },
+      {
+        "en": "Adam Driver",
+        "ar": "آدم درايفر"
+      },
+      {
+        "en": "Joaquin Phoenix",
+        "ar": "واكين فينيكس"
+      }
     ],
     "correctAnswer": 3,
     "explanation_en": "Joaquin Phoenix won Best Actor for \"Joker\".",
@@ -656,12 +1088,24 @@
     "question_en": "\"Parasite\" (2019) made history as the first non-English-language film to win which Oscar category?",
     "question_ar": "فيلم \"باراسايت\" سنة 2019 عمل تاريخ كأول فيلم مش بالإنجليزي ياخد إيه جايزة أوسكار؟",
     "options": [
-      { "en": "Best Picture", "ar": "أفضل فيلم" },
-      { "en": "Best Actor", "ar": "أفضل ممثل" },
-      { "en": "Best Cinematography", "ar": "أفضل تصوير" },
-      { "en": "Best Director", "ar": "أفضل مخرج" }
+      {
+        "en": "Best Actor",
+        "ar": "أفضل ممثل"
+      },
+      {
+        "en": "Best Cinematography",
+        "ar": "أفضل تصوير"
+      },
+      {
+        "en": "Best Director",
+        "ar": "أفضل مخرج"
+      },
+      {
+        "en": "Best Picture",
+        "ar": "أفضل فيلم"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Parasite\" was the first non-English film to win Best Picture.",
     "explanation_ar": "باراسايت كان أول فيلم مش بالإنجليزي ياخد أوسكار أفضل فيلم."
   },
@@ -674,10 +1118,22 @@
     "question_en": "In \"The Lord of the Rings\", which actor plays the hobbit Frodo Baggins?",
     "question_ar": "في \"سيد الخواتم\"، مين اللي بيمثل دور الهوبيت فرودو باجينز؟",
     "options": [
-      { "en": "Viggo Mortensen", "ar": "فيجو مورتنسن" },
-      { "en": "Elijah Wood", "ar": "إيليجا وود" },
-      { "en": "Orlando Bloom", "ar": "أورلاندو بلوم" },
-      { "en": "Sean Astin", "ar": "شون أستن" }
+      {
+        "en": "Sean Astin",
+        "ar": "شون أستن"
+      },
+      {
+        "en": "Elijah Wood",
+        "ar": "إيليجا وود"
+      },
+      {
+        "en": "Orlando Bloom",
+        "ar": "أورلاندو بلوم"
+      },
+      {
+        "en": "Viggo Mortensen",
+        "ar": "فيجو مورتنسن"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Elijah Wood plays Frodo Baggins.",
@@ -692,12 +1148,24 @@
     "question_en": "Who directed \"Hepta: The Last Lecture\" (2016), starring Amr Youssef?",
     "question_ar": "مين اللي أخرج فيلم \"هيبتا: الحب في سبع محطات\" سنة 2016 بطولة عمرو يوسف؟",
     "options": [
-      { "en": "Hadi El Bagoury", "ar": "هادي الباجوري" },
-      { "en": "Peter Mimi", "ar": "بيتر ميمي" },
-      { "en": "Wael Ehsan", "ar": "وائل إحسان" },
-      { "en": "Marwan Hamed", "ar": "مروان حامد" }
+      {
+        "en": "Peter Mimi",
+        "ar": "بيتر ميمي"
+      },
+      {
+        "en": "Marwan Hamed",
+        "ar": "مروان حامد"
+      },
+      {
+        "en": "Hadi El Bagoury",
+        "ar": "هادي الباجوري"
+      },
+      {
+        "en": "Wael Ehsan",
+        "ar": "وائل إحسان"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Hadi El Bagoury directed \"Hepta: The Last Lecture\" (2016).",
     "explanation_ar": "هادي الباجوري أخرج فيلم هيبتا سنة 2016."
   },
@@ -710,12 +1178,24 @@
     "question_en": "Who directed \"El Maslaha\" (2012), starring Ahmed El Sakka and Ahmed Ezz?",
     "question_ar": "مين اللي أخرج فيلم \"المصلحة\" سنة 2012 بطولة أحمد السقا وأحمد عز؟",
     "options": [
-      { "en": "Sandra Nashaat", "ar": "ساندرا نشأت" },
-      { "en": "Sherif Arafa", "ar": "شريف عرفة" },
-      { "en": "Marwan Hamed", "ar": "مروان حامد" },
-      { "en": "Tarek El Eryan", "ar": "طارق العريان" }
+      {
+        "en": "Sherif Arafa",
+        "ar": "شريف عرفة"
+      },
+      {
+        "en": "Tarek El Eryan",
+        "ar": "طارق العريان"
+      },
+      {
+        "en": "Sandra Nashaat",
+        "ar": "ساندرا نشأت"
+      },
+      {
+        "en": "Marwan Hamed",
+        "ar": "مروان حامد"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Sandra Nashaat directed \"El Maslaha\" (2012).",
     "explanation_ar": "ساندرا نشأت أخرجت فيلم المصلحة سنة 2012."
   },
@@ -728,12 +1208,24 @@
     "question_en": "As of recent years, which film holds the record as the highest-grossing movie of all time worldwide (not adjusted for inflation)?",
     "question_ar": "إيه الفيلم اللي عنده رقم أعلى إيرادات في تاريخ السينما عالميًا (من غير حساب التضخم)؟",
     "options": [
-      { "en": "Avatar", "ar": "أفاتار" },
-      { "en": "Star Wars: The Force Awakens", "ar": "ستار وورز: ذا فورس أويكنز" },
-      { "en": "Titanic", "ar": "تايتانيك" },
-      { "en": "Avengers: Endgame", "ar": "أفينجرز: إند جيم" }
+      {
+        "en": "Avengers: Endgame",
+        "ar": "أفينجرز: إند جيم"
+      },
+      {
+        "en": "Titanic",
+        "ar": "تايتانيك"
+      },
+      {
+        "en": "Star Wars: The Force Awakens",
+        "ar": "ستار وورز: ذا فورس أويكنز"
+      },
+      {
+        "en": "Avatar",
+        "ar": "أفاتار"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Avatar\" holds the all-time worldwide box office record.",
     "explanation_ar": "أفاتار صاحب رقم أعلى إيرادات في تاريخ السينما عالميًا.",
     "verified_as_of": "2025-06"
@@ -747,12 +1239,24 @@
     "question_en": "\"Photocopy\" (2017), starring Mahmoud Hemida, won the top prize at which regional festival?",
     "question_ar": "فيلم \"فوتوكوبي\" سنة 2017 بطولة محمود حميدة كسب الجايزة الكبرى في إيه مهرجان إقليمي؟",
     "options": [
-      { "en": "Carthage Film Festival", "ar": "مهرجان قرطاج السينمائي" },
-      { "en": "Cairo International Film Festival", "ar": "مهرجان القاهرة السينمائي الدولي" },
-      { "en": "Marrakech Film Festival", "ar": "مهرجان مراكش السينمائي" },
-      { "en": "Dubai International Film Festival", "ar": "مهرجان دبي السينمائي الدولي" }
+      {
+        "en": "Cairo International Film Festival",
+        "ar": "مهرجان القاهرة السينمائي الدولي"
+      },
+      {
+        "en": "Marrakech Film Festival",
+        "ar": "مهرجان مراكش السينمائي"
+      },
+      {
+        "en": "Dubai International Film Festival",
+        "ar": "مهرجان دبي السينمائي الدولي"
+      },
+      {
+        "en": "Carthage Film Festival",
+        "ar": "مهرجان قرطاج السينمائي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Photocopy\" won the Golden Tanit, the top prize at the Carthage Film Festival.",
     "explanation_ar": "فيلم فوتوكوبي كسب التانيت الذهبي، أعلى جايزة في مهرجان قرطاج السينمائي."
   },
@@ -762,17 +1266,29 @@
     "category_ar": "افلام",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which actress plays Karim Abdel Aziz's love interest in the career-launching comedy \"Africano\" (2001)?",
-    "question_ar": "مين النجمة اللي مثلت حبيبة كريم عبدالعزيز في فيلم \"أفريكانو\" اللي فتحله الطريق سنة 2001؟",
+    "question_en": "\"Africano\" (2001) was the directorial debut of which filmmaker?",
+    "question_ar": "فيلم \"أفريكانو\" سنة 2001 كان أول فيلم إخراج لمين مخرج؟",
     "options": [
-      { "en": "Mona Zaki", "ar": "منى زكي" },
-      { "en": "Menna Shalaby", "ar": "منة شلبي" },
-      { "en": "Ghada Adel", "ar": "غادة عادل" },
-      { "en": "Hend Sabry", "ar": "هند صبري" }
+      {
+        "en": "Marwan Hamed",
+        "ar": "مروان حامد"
+      },
+      {
+        "en": "Wael Ehsan",
+        "ar": "وائل إحسان"
+      },
+      {
+        "en": "Sherif Arafa",
+        "ar": "شريف عرفة"
+      },
+      {
+        "en": "Amr Arafa",
+        "ar": "عمرو عرفة"
+      }
     ],
-    "correctAnswer": 0,
-    "explanation_en": "Mona Zaki plays opposite Karim Abdel Aziz in \"Africano\" (2001).",
-    "explanation_ar": "منى زكي مثلت مع كريم عبدالعزيز في فيلم أفريكانو سنة 2001."
+    "correctAnswer": 3,
+    "explanation_en": "\"Africano\" (2001) was Amr Arafa's directorial debut.",
+    "explanation_ar": "فيلم أفريكانو سنة 2001 كان أول فيلم إخراج لعمرو عرفة."
   },
   {
     "id": "MOV-050-044",
@@ -783,12 +1299,24 @@
     "question_en": "Which comic actor has repeatedly appeared as Ahmed Helmy's sidekick across films like \"Zaki Chan\"?",
     "question_ar": "مين الممثل الكوميدي اللي اتكرر ظهوره كصاحب أحمد حلمي في أفلام زي \"زكي شان\"؟",
     "options": [
-      { "en": "Bayoumi Fouad", "ar": "بيومي فؤاد" },
-      { "en": "Hisham Maged", "ar": "هشام ماجد" },
-      { "en": "Akram Hosny", "ar": "أكرم حسني" },
-      { "en": "Chico", "ar": "شيكو" }
+      {
+        "en": "Chico",
+        "ar": "شيكو"
+      },
+      {
+        "en": "Hisham Maged",
+        "ar": "هشام ماجد"
+      },
+      {
+        "en": "Bayoumi Fouad",
+        "ar": "بيومي فؤاد"
+      },
+      {
+        "en": "Akram Hosny",
+        "ar": "أكرم حسني"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Bayoumi Fouad has repeatedly appeared as Ahmed Helmy's comic sidekick.",
     "explanation_ar": "بيومي فؤاد اتكرر ظهوره كصاحب أحمد حلمي الكوميدي في أفلامه."
   },
@@ -801,12 +1329,24 @@
     "question_en": "Which director won the Oscar for Best Original Screenplay for \"Get Out\" (2017)?",
     "question_ar": "مين المخرج اللي أخد أوسكار أفضل سيناريو أصلي عن فيلم \"جيت آوت\" سنة 2017؟",
     "options": [
-      { "en": "Damien Chazelle", "ar": "دامين شازيل" },
-      { "en": "Barry Jenkins", "ar": "باري جينكينز" },
-      { "en": "Jordan Peele", "ar": "جوردان بيل" },
-      { "en": "Rian Johnson", "ar": "ريان جونسون" }
+      {
+        "en": "Rian Johnson",
+        "ar": "ريان جونسون"
+      },
+      {
+        "en": "Jordan Peele",
+        "ar": "جوردان بيل"
+      },
+      {
+        "en": "Barry Jenkins",
+        "ar": "باري جينكينز"
+      },
+      {
+        "en": "Damien Chazelle",
+        "ar": "دامين شازيل"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Jordan Peele won for writing and directing \"Get Out\".",
     "explanation_ar": "جوردان بيل أخد الأوسكار عن كتابة وإخراج جيت آوت."
   },
@@ -819,12 +1359,24 @@
     "question_en": "Which actress plays Harley Quinn in \"Suicide Squad\" and \"Birds of Prey\"?",
     "question_ar": "مين اللي بتمثل دور هارلي كوين في \"سويسايد سكواد\" و\"بيردز أوف بري\"؟",
     "options": [
-      { "en": "Cara Delevingne", "ar": "كارا ديليفين" },
-      { "en": "Margot Robbie", "ar": "مارجوت روبي" },
-      { "en": "Amber Heard", "ar": "أمبر هيرد" },
-      { "en": "Jaime Pressly", "ar": "جايمي بريسلي" }
+      {
+        "en": "Cara Delevingne",
+        "ar": "كارا ديليفين"
+      },
+      {
+        "en": "Jaime Pressly",
+        "ar": "جايمي بريسلي"
+      },
+      {
+        "en": "Amber Heard",
+        "ar": "أمبر هيرد"
+      },
+      {
+        "en": "Margot Robbie",
+        "ar": "مارجوت روبي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Margot Robbie plays Harley Quinn.",
     "explanation_ar": "مارجوت روبي بتمثل دور هارلي كوين."
   },
@@ -837,12 +1389,24 @@
     "question_en": "\"The Wolf of Wall Street\", directed by Scorsese, stars Leonardo DiCaprio as which real-life figure?",
     "question_ar": "فيلم \"ذا وولف أوف وول ستريت\" لسكورسيزي، دي كابريو بيمثل فيه شخصية حقيقية اسمها إيه؟",
     "options": [
-      { "en": "Bernie Madoff", "ar": "بيرني مادوف" },
-      { "en": "Jordan Belfort", "ar": "جوردان بيلفورت" },
-      { "en": "Gordon Gekko", "ar": "جوردون جيكو" },
-      { "en": "Michael Milken", "ar": "مايكل ميلكين" }
+      {
+        "en": "Bernie Madoff",
+        "ar": "بيرني مادوف"
+      },
+      {
+        "en": "Gordon Gekko",
+        "ar": "جوردون جيكو"
+      },
+      {
+        "en": "Jordan Belfort",
+        "ar": "جوردان بيلفورت"
+      },
+      {
+        "en": "Michael Milken",
+        "ar": "مايكل ميلكين"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "DiCaprio plays real stockbroker Jordan Belfort.",
     "explanation_ar": "دي كابريو بيمثل شخصية السمسار الحقيقي جوردان بيلفورت."
   },
@@ -855,12 +1419,24 @@
     "question_en": "Several modern Egyptian comedy stars, including Henedy and Mohamed Saad, first appeared in small roles in whose classic films?",
     "question_ar": "كتير من نجوم الكوميديا الحاليين زي هنيدي ومحمد سعد ظهروا الأول بأدوار صغيرة في أفلام مين الكلاسيكية؟",
     "options": [
-      { "en": "Adel Imam", "ar": "عادل إمام" },
-      { "en": "Ahmed Zaki", "ar": "أحمد زكي" },
-      { "en": "Omar Sharif", "ar": "عمر الشريف" },
-      { "en": "Nour El-Sherif", "ar": "نور الشريف" }
+      {
+        "en": "Nour El-Sherif",
+        "ar": "نور الشريف"
+      },
+      {
+        "en": "Ahmed Zaki",
+        "ar": "أحمد زكي"
+      },
+      {
+        "en": "Omar Sharif",
+        "ar": "عمر الشريف"
+      },
+      {
+        "en": "Adel Imam",
+        "ar": "عادل إمام"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Many of today's comedy stars got their start in small roles in Adel Imam's films.",
     "explanation_ar": "كتير من نجوم الكوميديا الحاليين بدأوا بأدوار صغيرة في أفلام عادل إمام."
   },
@@ -873,12 +1449,24 @@
     "question_en": "Which actor played Maximus in \"Gladiator\", winning the Best Actor Oscar?",
     "question_ar": "مين اللي مثل دور ماكسيموس في فيلم \"جلاديتور\" وأخد عليه أوسكار أفضل ممثل؟",
     "options": [
-      { "en": "Ridley Scott", "ar": "ريدلي سكوت" },
-      { "en": "Joaquin Phoenix", "ar": "واكين فينيكس" },
-      { "en": "Gerard Butler", "ar": "جيرارد بتلر" },
-      { "en": "Russell Crowe", "ar": "راسل كرو" }
+      {
+        "en": "Joaquin Phoenix",
+        "ar": "واكين فينيكس"
+      },
+      {
+        "en": "Ridley Scott",
+        "ar": "ريدلي سكوت"
+      },
+      {
+        "en": "Russell Crowe",
+        "ar": "راسل كرو"
+      },
+      {
+        "en": "Gerard Butler",
+        "ar": "جيرارد بتلر"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Russell Crowe won Best Actor for playing Maximus.",
     "explanation_ar": "راسل كرو أخد أوسكار أفضل ممثل عن دور ماكسيموس."
   },
@@ -891,12 +1479,24 @@
     "question_en": "\"Fight Club\", based on a novel by Chuck Palahniuk, stars Brad Pitt and which other lead actor?",
     "question_ar": "فيلم \"فايت كلوب\" المأخوذ عن رواية تشاك بالانيك، بطولة براد بيت ومين كمان؟",
     "options": [
-      { "en": "Edward Norton", "ar": "إدوارد نورتون" },
-      { "en": "Jared Leto", "ar": "جاريد ليتو" },
-      { "en": "Matt Damon", "ar": "مات ديمون" },
-      { "en": "Ben Affleck", "ar": "بن أفليك" }
+      {
+        "en": "Ben Affleck",
+        "ar": "بن أفليك"
+      },
+      {
+        "en": "Jared Leto",
+        "ar": "جاريد ليتو"
+      },
+      {
+        "en": "Edward Norton",
+        "ar": "إدوارد نورتون"
+      },
+      {
+        "en": "Matt Damon",
+        "ar": "مات ديمون"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Edward Norton co-stars alongside Brad Pitt in \"Fight Club\".",
     "explanation_ar": "إدوارد نورتون بطل الفيلم مع براد بيت."
   }

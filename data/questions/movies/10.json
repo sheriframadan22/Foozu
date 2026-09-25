@@ -8,12 +8,24 @@
     "question_en": "Egyptian comedy legend Adel Imam is famously nicknamed what?",
     "question_ar": "عادل إمام بيتلقب بإيه في السينما المصرية؟",
     "options": [
-      { "en": "El Nemr", "ar": "النمر" },
-      { "en": "El Zaeem (The Leader)", "ar": "الزعيم" },
-      { "en": "El Bashawat", "ar": "الباشوات" },
-      { "en": "El Wad El Sha2i", "ar": "الواد الشقي" }
+      {
+        "en": "El Bashawat",
+        "ar": "الباشوات"
+      },
+      {
+        "en": "El Nemr",
+        "ar": "النمر"
+      },
+      {
+        "en": "El Wad El Sha2i",
+        "ar": "الواد الشقي"
+      },
+      {
+        "en": "El Zaeem (The Leader)",
+        "ar": "الزعيم"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Adel Imam has been called \"El Zaeem\" (The Leader) for decades.",
     "explanation_ar": "عادل إمام معروف بلقب الزعيم من عشرات السنين."
   },
@@ -26,12 +38,24 @@
     "question_en": "Which Egyptian superstar headlined the 2015 blockbuster \"El Prince\" (البرنس)?",
     "question_ar": "مين النجم المصري بطل فيلم \"البرنس\" سنة 2015؟",
     "options": [
-      { "en": "Ahmed El Sakka", "ar": "أحمد السقا" },
-      { "en": "Tamer Hosny", "ar": "تامر حسني" },
-      { "en": "Mohamed Ramadan", "ar": "محمد رمضان" },
-      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" }
+      {
+        "en": "Tamer Hosny",
+        "ar": "تامر حسني"
+      },
+      {
+        "en": "Ahmed El Sakka",
+        "ar": "أحمد السقا"
+      },
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبدالعزيز"
+      },
+      {
+        "en": "Mohamed Ramadan",
+        "ar": "محمد رمضان"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Mohamed Ramadan starred in and became a bigger star from the hit film \"El Prince\" (2015).",
     "explanation_ar": "محمد رمضان بطل فيلم البرنس سنة 2015 اللي زود شهرته جدًا."
   },
@@ -44,12 +68,24 @@
     "question_en": "Which city is the heart of Egypt's film industry?",
     "question_ar": "إيه المدينة اللي هي قلب صناعة السينما في مصر؟",
     "options": [
-      { "en": "Aswan", "ar": "أسوان" },
-      { "en": "Luxor", "ar": "الأقصر" },
-      { "en": "Alexandria", "ar": "الإسكندرية" },
-      { "en": "Cairo", "ar": "القاهرة" }
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Cairo is home to most Egyptian film studios and production.",
     "explanation_ar": "القاهرة فيها معظم استوديوهات وإنتاج السينما المصرية."
   },
@@ -62,12 +98,24 @@
     "question_en": "Which Egyptian-born actor starred as the lead in \"Lawrence of Arabia\"?",
     "question_ar": "مين الممثل المصري اللي مثل بطولة فيلم \"لورانس العرب\"؟",
     "options": [
-      { "en": "Omar Sharif", "ar": "عمر الشريف" },
-      { "en": "Rushdy Abaza", "ar": "رشدي أباظة" },
-      { "en": "Hussein Fahmy", "ar": "حسين فهمي" },
-      { "en": "Mahmoud Yassin", "ar": "محمود ياسين" }
+      {
+        "en": "Mahmoud Yassin",
+        "ar": "محمود ياسين"
+      },
+      {
+        "en": "Omar Sharif",
+        "ar": "عمر الشريف"
+      },
+      {
+        "en": "Rushdy Abaza",
+        "ar": "رشدي أباظة"
+      },
+      {
+        "en": "Hussein Fahmy",
+        "ar": "حسين فهمي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Omar Sharif became a global star after \"Lawrence of Arabia\" (1962).",
     "explanation_ar": "عمر الشريف بقى نجم عالمي بعد فيلم \"لورانس العرب\" سنة 1962."
   },
@@ -80,12 +128,24 @@
     "question_en": "Which actor plays \"El Limby\" in the famous Egyptian comedy films?",
     "question_ar": "مين اللي بيمثل شخصية \"اللمبي\" في الأفلام الكوميدية؟",
     "options": [
-      { "en": "Ahmed Helmy", "ar": "أحمد حلمي" },
-      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" },
-      { "en": "Mohamed Saad", "ar": "محمد سعد" },
-      { "en": "Mohamed Henedy", "ar": "محمد هنيدي" }
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبدالعزيز"
+      },
+      {
+        "en": "Mohamed Henedy",
+        "ar": "محمد هنيدي"
+      },
+      {
+        "en": "Ahmed Helmy",
+        "ar": "أحمد حلمي"
+      },
+      {
+        "en": "Mohamed Saad",
+        "ar": "محمد سعد"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Mohamed Saad created the iconic character El Limby.",
     "explanation_ar": "محمد سعد هو اللي جسد شخصية اللمبي الشهيرة."
   },
@@ -98,12 +158,24 @@
     "question_en": "Karim Abdel Aziz plays psychiatrist Dr. Yehia in which hit thriller?",
     "question_ar": "كريم عبدالعزيز بيمثل دور الدكتور يحيى الطبيب النفسي في إيه فيلم إثارة؟",
     "options": [
-      { "en": "El Gezira", "ar": "الجزيرة" },
-      { "en": "El Feel El Azraq (The Blue Elephant)", "ar": "الفيل الأزرق" },
-      { "en": "Kira & El Gin", "ar": "كيرة والجن" },
-      { "en": "El Kenz", "ar": "الكنز" }
+      {
+        "en": "Kira & El Gin",
+        "ar": "كيرة والجن"
+      },
+      {
+        "en": "El Kenz",
+        "ar": "الكنز"
+      },
+      {
+        "en": "El Gezira",
+        "ar": "الجزيرة"
+      },
+      {
+        "en": "El Feel El Azraq (The Blue Elephant)",
+        "ar": "الفيل الأزرق"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Karim Abdel Aziz stars as Dr. Yehia in \"El Feel El Azraq\" (The Blue Elephant, 2014) and its sequel.",
     "explanation_ar": "كريم عبدالعزيز مثل دور الدكتور يحيى في فيلم الفيل الأزرق سنة 2014 وجزءه التاني."
   },
@@ -116,12 +188,24 @@
     "question_en": "Which late comedy legend played the title headmaster role in the hit comedy \"El Nazer\"?",
     "question_ar": "مين نجم الكوميديا الراحل اللي مثل دور \"الناظر\" في الفيلم الكوميدي الشهير؟",
     "options": [
-      { "en": "Mohamed Saad", "ar": "محمد سعد" },
-      { "en": "Alaa Waley El Din", "ar": "علاء ولي الدين" },
-      { "en": "Ahmed Helmy", "ar": "أحمد حلمي" },
-      { "en": "Hany Ramzy", "ar": "هاني رمزي" }
+      {
+        "en": "Hany Ramzy",
+        "ar": "هاني رمزي"
+      },
+      {
+        "en": "Mohamed Saad",
+        "ar": "محمد سعد"
+      },
+      {
+        "en": "Alaa Waley El Din",
+        "ar": "علاء ولي الدين"
+      },
+      {
+        "en": "Ahmed Helmy",
+        "ar": "أحمد حلمي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Alaa Waley El Din starred as headmaster Ashour in \"El Nazer\" (2000).",
     "explanation_ar": "علاء ولي الدين مثل دور الناظر عاشور في فيلم الناظر سنة 2000."
   },
@@ -134,12 +218,24 @@
     "question_en": "Which of these is a leading modern Egyptian actor, not a Hollywood star?",
     "question_ar": "مين من دول ممثل مصري حديث مش نجم هوليوود؟",
     "options": [
-      { "en": "Chris Evans", "ar": "كريس إيفانز" },
-      { "en": "Ahmed Ezz", "ar": "أحمد عز" },
-      { "en": "Tom Holland", "ar": "توم هولاند" },
-      { "en": "Ryan Reynolds", "ar": "ريان رينولدز" }
+      {
+        "en": "Ryan Reynolds",
+        "ar": "ريان رينولدز"
+      },
+      {
+        "en": "Tom Holland",
+        "ar": "توم هولاند"
+      },
+      {
+        "en": "Chris Evans",
+        "ar": "كريس إيفانز"
+      },
+      {
+        "en": "Ahmed Ezz",
+        "ar": "أحمد عز"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Ahmed Ezz is a leading modern Egyptian film actor, known for films like \"Kira & El Gin\".",
     "explanation_ar": "أحمد عز من كبار نجوم السينما المصرية الحديثة، وشارك في فيلم كيرة والجن."
   },
@@ -152,12 +248,24 @@
     "question_en": "Which actor starred in the 2010 comedy hit \"Kaboria\"?",
     "question_ar": "مين بطل فيلم \"كابوريا\"؟",
     "options": [
-      { "en": "Amr Youssef", "ar": "عمرو يوسف" },
-      { "en": "Mohamed Saad", "ar": "محمد سعد" },
-      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" },
-      { "en": "Ahmed Helmy", "ar": "أحمد حلمي" }
+      {
+        "en": "Ahmed Helmy",
+        "ar": "أحمد حلمي"
+      },
+      {
+        "en": "Mohamed Saad",
+        "ar": "محمد سعد"
+      },
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبدالعزيز"
+      },
+      {
+        "en": "Amr Youssef",
+        "ar": "عمرو يوسف"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Ahmed Helmy played the boxer lead in \"Kaboria\" (2010).",
     "explanation_ar": "أحمد حلمي مثل دور الملاكم في فيلم كابوريا سنة 2010."
   },
@@ -170,10 +278,22 @@
     "question_en": "Which Egyptian action star headlined the film \"Mafia\"?",
     "question_ar": "مين بطل فيلم \"مافيا\"؟",
     "options": [
-      { "en": "Amr Youssef", "ar": "عمرو يوسف" },
-      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" },
-      { "en": "Ahmed El Sakka", "ar": "أحمد السقا" },
-      { "en": "Hany Salama", "ar": "هاني سلامة" }
+      {
+        "en": "Hany Salama",
+        "ar": "هاني سلامة"
+      },
+      {
+        "en": "Amr Youssef",
+        "ar": "عمرو يوسف"
+      },
+      {
+        "en": "Ahmed El Sakka",
+        "ar": "أحمد السقا"
+      },
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبدالعزيز"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Ahmed El Sakka starred in the action hit \"Mafia\" (2002).",
@@ -188,12 +308,24 @@
     "question_en": "Which of these is a famous Egyptian actress, not a Hollywood star?",
     "question_ar": "مين من دول ممثلة مصرية مش هوليوودية؟",
     "options": [
-      { "en": "Julia Roberts", "ar": "جوليا روبرتس" },
-      { "en": "Angelina Jolie", "ar": "أنجلينا جولي" },
-      { "en": "Yousra", "ar": "يسرا" },
-      { "en": "Nicole Kidman", "ar": "نيكول كيدمان" }
+      {
+        "en": "Yousra",
+        "ar": "يسرا"
+      },
+      {
+        "en": "Julia Roberts",
+        "ar": "جوليا روبرتس"
+      },
+      {
+        "en": "Angelina Jolie",
+        "ar": "أنجلينا جولي"
+      },
+      {
+        "en": "Nicole Kidman",
+        "ar": "نيكول كيدمان"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Yousra is one of Egypt's most famous veteran actresses.",
     "explanation_ar": "يسرا من أشهر النجمات المصريات."
   },
@@ -206,12 +338,24 @@
     "question_en": "Which film shows Adel Imam and Omar Sharif as a Muslim and a Christian friend?",
     "question_ar": "إيه اسم الفيلم اللي بيجمع عادل إمام وعمر الشريف كصحاب واحد مسلم وواحد مسيحي؟",
     "options": [
-      { "en": "Al-Kit Kat", "ar": "الكيت كات" },
-      { "en": "El Nazer", "ar": "الناظر" },
-      { "en": "El Irhab wal Kabab", "ar": "الإرهاب والكباب" },
-      { "en": "Hassan wa Marcus", "ar": "حسن ومرقص" }
+      {
+        "en": "El Irhab wal Kabab",
+        "ar": "الإرهاب والكباب"
+      },
+      {
+        "en": "Al-Kit Kat",
+        "ar": "الكيت كات"
+      },
+      {
+        "en": "Hassan wa Marcus",
+        "ar": "حسن ومرقص"
+      },
+      {
+        "en": "El Nazer",
+        "ar": "الناظر"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "\"Hassan wa Marcus\" (2008) starred Adel Imam and Omar Sharif.",
     "explanation_ar": "فيلم \"حسن ومرقص\" سنة 2008 جمع عادل إمام وعمر الشريف."
   },
@@ -224,12 +368,24 @@
     "question_en": "Karim Abdel Aziz is a leading actor in which country's cinema?",
     "question_ar": "كريم عبدالعزيز نجم كبير في سينما إيه بلد؟",
     "options": [
-      { "en": "Syria", "ar": "سوريا" },
-      { "en": "Egypt", "ar": "مصر" },
-      { "en": "Morocco", "ar": "المغرب" },
-      { "en": "Lebanon", "ar": "لبنان" }
+      {
+        "en": "Lebanon",
+        "ar": "لبنان"
+      },
+      {
+        "en": "Morocco",
+        "ar": "المغرب"
+      },
+      {
+        "en": "Syria",
+        "ar": "سوريا"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Karim Abdel Aziz is a top Egyptian film star.",
     "explanation_ar": "كريم عبدالعزيز من أهم نجوم السينما المصرية."
   },
@@ -242,12 +398,24 @@
     "question_en": "Which of these actresses is Egyptian?",
     "question_ar": "مين من دول ممثلة مصرية؟",
     "options": [
-      { "en": "Nicole Kidman", "ar": "نيكول كيدمان" },
-      { "en": "Emma Stone", "ar": "إيما ستون" },
-      { "en": "Scarlett Johansson", "ar": "سكارليت جوهانسون" },
-      { "en": "Elham Shahin", "ar": "إلهام شاهين" }
+      {
+        "en": "Emma Stone",
+        "ar": "إيما ستون"
+      },
+      {
+        "en": "Elham Shahin",
+        "ar": "إلهام شاهين"
+      },
+      {
+        "en": "Nicole Kidman",
+        "ar": "نيكول كيدمان"
+      },
+      {
+        "en": "Scarlett Johansson",
+        "ar": "سكارليت جوهانسون"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Elham Shahin is a leading Egyptian film actress.",
     "explanation_ar": "إلهام شاهين من كبار نجمات السينما المصرية."
   },
@@ -260,12 +428,24 @@
     "question_en": "Mona Zaki is best known as a star in which country's films?",
     "question_ar": "منى زكي بقت نجمة كبيرة في سينما إيه بلد؟",
     "options": [
-      { "en": "Tunisia", "ar": "تونس" },
-      { "en": "Iraq", "ar": "العراق" },
-      { "en": "Syria", "ar": "سوريا" },
-      { "en": "Egypt", "ar": "مصر" }
+      {
+        "en": "Syria",
+        "ar": "سوريا"
+      },
+      {
+        "en": "Iraq",
+        "ar": "العراق"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Tunisia",
+        "ar": "تونس"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Mona Zaki is a well-known Egyptian actress, and led the cast of the Netflix hit \"Ashab Wala Aazz\" (2023).",
     "explanation_ar": "منى زكي من أشهر الممثلات المصريات، وبطلة فيلم نتفليكس أصحاب ولا أعز سنة 2023."
   },
@@ -278,12 +458,24 @@
     "question_en": "Ahmed El Sakka headlines which hit action series about a fisherman-turned-fighter named Mansour?",
     "question_ar": "أحمد السقا بطل إيه سلسلة أفلام أكشن عن صياد بيتحول لمقاتل اسمه منصور؟",
     "options": [
-      { "en": "Mafia", "ar": "مافيا" },
-      { "en": "El Gezira (The Island)", "ar": "الجزيرة" },
-      { "en": "Tito", "ar": "تيتو" },
-      { "en": "Kaboria", "ar": "كابوريا" }
+      {
+        "en": "El Gezira (The Island)",
+        "ar": "الجزيرة"
+      },
+      {
+        "en": "Tito",
+        "ar": "تيتو"
+      },
+      {
+        "en": "Mafia",
+        "ar": "مافيا"
+      },
+      {
+        "en": "Kaboria",
+        "ar": "كابوريا"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "\"El Gezira\" (The Island, 2007) and its sequel star Ahmed El Sakka as Mansour.",
     "explanation_ar": "فيلم الجزيرة سنة 2007 وجزءه التاني بطولة أحمد السقا في دور منصور."
   },
@@ -296,10 +488,22 @@
     "question_en": "The Netflix Egyptian hit \"Ashab Wala Aazz\" is an Arabic remake of which international film?",
     "question_ar": "فيلم نتفليكس المصري \"أصحاب ولا أعز\" ريميك عربي لإيه فيلم عالمي؟",
     "options": [
-      { "en": "Knives Out", "ar": "نايفز آوت" },
-      { "en": "The Hangover", "ar": "ذا هانج أوفر" },
-      { "en": "Perfect Strangers", "ar": "بيرفكت سترينجرز" },
-      { "en": "Friends with Benefits", "ar": "فرندز ويذ بينيفيتس" }
+      {
+        "en": "Knives Out",
+        "ar": "نايفز آوت"
+      },
+      {
+        "en": "Friends with Benefits",
+        "ar": "فرندز ويذ بينيفيتس"
+      },
+      {
+        "en": "Perfect Strangers",
+        "ar": "بيرفكت سترينجرز"
+      },
+      {
+        "en": "The Hangover",
+        "ar": "ذا هانج أوفر"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "\"Ashab Wala Aazz\" (2023) is Egypt's remake of the Italian hit \"Perfect Strangers\".",
@@ -314,10 +518,22 @@
     "question_en": "Which of these is a well-known Egyptian comedy actor?",
     "question_ar": "مين من دول ممثل كوميدي مصري معروف؟",
     "options": [
-      { "en": "Kevin Hart", "ar": "كيفن هارت" },
-      { "en": "Bayoumi Fouad", "ar": "بيومي فؤاد" },
-      { "en": "Adam Sandler", "ar": "آدم ساندلر" },
-      { "en": "Jim Carrey", "ar": "جيم كاري" }
+      {
+        "en": "Adam Sandler",
+        "ar": "آدم ساندلر"
+      },
+      {
+        "en": "Bayoumi Fouad",
+        "ar": "بيومي فؤاد"
+      },
+      {
+        "en": "Jim Carrey",
+        "ar": "جيم كاري"
+      },
+      {
+        "en": "Kevin Hart",
+        "ar": "كيفن هارت"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Bayoumi Fouad is a popular Egyptian comedy actor known for many hit films.",
@@ -332,12 +548,24 @@
     "question_en": "Singer Tamer Hosny starred with Mai Ezz Eldin in which 2007 romantic hit, the first of a trilogy?",
     "question_ar": "المطرب تامر حسني مثل مع مي عز الدين في إيه فيلم رومانسي سنة 2007، أول جزء من ثلاثية؟",
     "options": [
-      { "en": "Omar we Salma", "ar": "عمر وسلمى" },
-      { "en": "Ana Aasef", "ar": "أنا آسف" },
-      { "en": "El Behansa", "ar": "البهنسة" },
-      { "en": "Wahed Saheeh", "ar": "واحد صحيح" }
+      {
+        "en": "Wahed Saheeh",
+        "ar": "واحد صحيح"
+      },
+      {
+        "en": "El Behansa",
+        "ar": "البهنسة"
+      },
+      {
+        "en": "Ana Aasef",
+        "ar": "أنا آسف"
+      },
+      {
+        "en": "Omar we Salma",
+        "ar": "عمر وسلمى"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Omar we Salma\" (2007) starred Tamer Hosny and Mai Ezz Eldin, launching a trilogy.",
     "explanation_ar": "فيلم عمر وسلمى سنة 2007 جمع تامر حسني ومي عز الدين وكان أول جزء من ثلاثية."
   },
@@ -350,12 +578,24 @@
     "question_en": "Which of these is a leading modern Egyptian actress?",
     "question_ar": "مين من دول ممثلة مصرية حديثة معروفة؟",
     "options": [
-      { "en": "Amina Khalil", "ar": "أمينة خليل" },
-      { "en": "Emma Stone", "ar": "إيما ستون" },
-      { "en": "Zendaya", "ar": "زيندايا" },
-      { "en": "Margot Robbie", "ar": "مارجوت روبي" }
+      {
+        "en": "Margot Robbie",
+        "ar": "مارجوت روبي"
+      },
+      {
+        "en": "Amina Khalil",
+        "ar": "أمينة خليل"
+      },
+      {
+        "en": "Zendaya",
+        "ar": "زيندايا"
+      },
+      {
+        "en": "Emma Stone",
+        "ar": "إيما ستون"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Amina Khalil is a well-known modern Egyptian film and TV actress.",
     "explanation_ar": "أمينة خليل من نجمات السينما والتليفزيون المصرية المعروفة."
   },
@@ -368,12 +608,24 @@
     "question_en": "Amr Youssef is a modern leading actor in which country?",
     "question_ar": "عمرو يوسف نجم شاب كبير في سينما إيه بلد؟",
     "options": [
-      { "en": "Jordan", "ar": "الأردن" },
-      { "en": "Libya", "ar": "ليبيا" },
-      { "en": "Sudan", "ar": "السودان" },
-      { "en": "Egypt", "ar": "مصر" }
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
+      },
+      {
+        "en": "Libya",
+        "ar": "ليبيا"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Sudan",
+        "ar": "السودان"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Amr Youssef is a prominent modern Egyptian actor.",
     "explanation_ar": "عمرو يوسف من أهم نجوم الجيل الجديد في مصر."
   },
@@ -386,10 +638,22 @@
     "question_en": "Mohamed Ramadan's breakout gangster film, still quoted as a meme today, is called what?",
     "question_ar": "فيلم محمد رمضان اللي فتحله الطريق للنجومية وجمله لسه بتتقال كميم، اسمه إيه؟",
     "options": [
-      { "en": "Kalb Asad", "ar": "كلب أسد" },
-      { "en": "El Prince", "ar": "البرنس" },
-      { "en": "Abdo Mota", "ar": "عبده موتة" },
-      { "en": "El-Ostoura", "ar": "الأسطورة" }
+      {
+        "en": "El Prince",
+        "ar": "البرنس"
+      },
+      {
+        "en": "El-Ostoura",
+        "ar": "الأسطورة"
+      },
+      {
+        "en": "Abdo Mota",
+        "ar": "عبده موتة"
+      },
+      {
+        "en": "Kalb Asad",
+        "ar": "كلب أسد"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "\"Abdo Mota\" (2012) launched Mohamed Ramadan's stardom, and its lines remain widely quoted.",
@@ -404,12 +668,24 @@
     "question_en": "Who played Jack Dawson in the movie \"Titanic\"?",
     "question_ar": "مين لعب دور جاك في فيلم \"تايتانيك\"؟",
     "options": [
-      { "en": "Brad Pitt", "ar": "براد بيت" },
-      { "en": "Tom Cruise", "ar": "توم كروز" },
-      { "en": "Johnny Depp", "ar": "جوني ديب" },
-      { "en": "Leonardo DiCaprio", "ar": "ليوناردو دي كابريو" }
+      {
+        "en": "Tom Cruise",
+        "ar": "توم كروز"
+      },
+      {
+        "en": "Johnny Depp",
+        "ar": "جوني ديب"
+      },
+      {
+        "en": "Leonardo DiCaprio",
+        "ar": "ليوناردو دي كابريو"
+      },
+      {
+        "en": "Brad Pitt",
+        "ar": "براد بيت"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Leonardo DiCaprio played Jack opposite Kate Winslet's Rose.",
     "explanation_ar": "ليوناردو دي كابريو مثل دور جاك مع كيت وينسلت في دور روز."
   },
@@ -422,12 +698,24 @@
     "question_en": "Which director made both \"Titanic\" and \"Avatar\"?",
     "question_ar": "مين المخرج اللي عمل \"تايتانيك\" و\"أفاتار\"؟",
     "options": [
-      { "en": "Ridley Scott", "ar": "ريدلي سكوت" },
-      { "en": "Steven Spielberg", "ar": "ستيفن سبيلبرج" },
-      { "en": "James Cameron", "ar": "جيمس كاميرون" },
-      { "en": "Christopher Nolan", "ar": "كريستوفر نولان" }
+      {
+        "en": "Christopher Nolan",
+        "ar": "كريستوفر نولان"
+      },
+      {
+        "en": "Ridley Scott",
+        "ar": "ريدلي سكوت"
+      },
+      {
+        "en": "Steven Spielberg",
+        "ar": "ستيفن سبيلبرج"
+      },
+      {
+        "en": "James Cameron",
+        "ar": "جيمس كاميرون"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "James Cameron directed both blockbusters.",
     "explanation_ar": "جيمس كاميرون هو مخرج الفيلمين."
   },
@@ -440,12 +728,24 @@
     "question_en": "What is the real name of the superhero Spider-Man?",
     "question_ar": "إيه الاسم الحقيقي للسوبرهيرو سبايدرمان؟",
     "options": [
-      { "en": "Tony Stark", "ar": "توني ستارك" },
-      { "en": "Peter Parker", "ar": "بيتر باركر" },
-      { "en": "Bruce Wayne", "ar": "بروس واين" },
-      { "en": "Clark Kent", "ar": "كلارك كينت" }
+      {
+        "en": "Tony Stark",
+        "ar": "توني ستارك"
+      },
+      {
+        "en": "Bruce Wayne",
+        "ar": "بروس واين"
+      },
+      {
+        "en": "Peter Parker",
+        "ar": "بيتر باركر"
+      },
+      {
+        "en": "Clark Kent",
+        "ar": "كلارك كينت"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Spider-Man's secret identity is Peter Parker.",
     "explanation_ar": "الهوية السرية لسبايدرمان هي بيتر باركر."
   },
@@ -458,12 +758,24 @@
     "question_en": "Which comedy trio gains superpowers in the hit film \"Qodrat Ghair Adeya\"?",
     "question_ar": "مين التلاتي الكوميدي اللي بياخدوا قدرات خارقة في فيلم \"قدرات غير عادية\"؟",
     "options": [
-      { "en": "Ahmed Helmy, Mona Zaki & Henedy", "ar": "أحمد حلمي ومنى زكي وهنيدي" },
-      { "en": "Hisham Maged, Ahmed Fahmy & Akram Hosny", "ar": "هشام ماجد وأحمد فهمي وأكرم حسني" },
-      { "en": "Bayoumi Fouad, Ali Rabie & Chico", "ar": "بيومي فؤاد وعلي ربيع وشيكو" },
-      { "en": "Mohamed Saad, Ahmed Eid & Akram Hosny", "ar": "محمد سعد وأحمد عيد وأكرم حسني" }
+      {
+        "en": "Bayoumi Fouad, Ali Rabie & Chico",
+        "ar": "بيومي فؤاد وعلي ربيع وشيكو"
+      },
+      {
+        "en": "Mohamed Saad, Ahmed Eid & Akram Hosny",
+        "ar": "محمد سعد وأحمد عيد وأكرم حسني"
+      },
+      {
+        "en": "Hisham Maged, Ahmed Fahmy & Akram Hosny",
+        "ar": "هشام ماجد وأحمد فهمي وأكرم حسني"
+      },
+      {
+        "en": "Ahmed Helmy, Mona Zaki & Henedy",
+        "ar": "أحمد حلمي ومنى زكي وهنيدي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Hisham Maged, Ahmed Fahmy and Akram Hosny star as the trio gaining powers in \"Qodrat Ghair Adeya\" (2015).",
     "explanation_ar": "هشام ماجد وأحمد فهمي وأكرم حسني بطلوا فيلم قدرات غير عادية سنة 2015."
   },
@@ -476,12 +788,24 @@
     "question_en": "Which villain is known as the \"Clown Prince of Crime\" in Batman movies?",
     "question_ar": "إيه اسم شرير باتمان اللي بيتلقب بـ\"أمير الجريمة المهرج\"؟",
     "options": [
-      { "en": "Riddler", "ar": "الريدلر" },
-      { "en": "Bane", "ar": "بين" },
-      { "en": "Penguin", "ar": "البطريق" },
-      { "en": "Joker", "ar": "الجوكر" }
+      {
+        "en": "Penguin",
+        "ar": "البطريق"
+      },
+      {
+        "en": "Bane",
+        "ar": "بين"
+      },
+      {
+        "en": "Joker",
+        "ar": "الجوكر"
+      },
+      {
+        "en": "Riddler",
+        "ar": "الريدلر"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "The Joker is Batman's most iconic enemy.",
     "explanation_ar": "الجوكر هو أشهر أعداء باتمان."
   },
@@ -494,12 +818,24 @@
     "question_en": "Which star headlines the big-budget ensemble treasure-hunt film \"El Kenz\"?",
     "question_ar": "مين النجم اللي بطل فيلم البحث عن الكنز الكبير \"الكنز\"؟",
     "options": [
-      { "en": "Ahmed El Sakka", "ar": "أحمد السقا" },
-      { "en": "Mohamed Ramadan", "ar": "محمد رمضان" },
-      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" },
-      { "en": "Amr Youssef", "ar": "عمرو يوسف" }
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبدالعزيز"
+      },
+      {
+        "en": "Amr Youssef",
+        "ar": "عمرو يوسف"
+      },
+      {
+        "en": "Ahmed El Sakka",
+        "ar": "أحمد السقا"
+      },
+      {
+        "en": "Mohamed Ramadan",
+        "ar": "محمد رمضان"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "\"El Kenz\" features a large ensemble cast including Mohamed Ramadan and Mohamed Saad.",
     "explanation_ar": "فيلم الكنز فيه نجوم كتير منهم محمد رمضان ومحمد سعد."
   },
@@ -512,12 +848,24 @@
     "question_en": "Mohamed Ramadan plays a street thug raised in a circus among lions and tigers in which 2013 action hit?",
     "question_ar": "محمد رمضان بيمثل دور بلطجي اتربى في سيرك بين الأسود والنمور في إيه فيلم أكشن سنة 2013؟",
     "options": [
-      { "en": "Qalb El-Asad", "ar": "قلب الأسد" },
-      { "en": "El Prince", "ar": "البرنس" },
-      { "en": "El Gezira", "ar": "الجزيرة" },
-      { "en": "Mafia", "ar": "مافيا" }
+      {
+        "en": "El Prince",
+        "ar": "البرنس"
+      },
+      {
+        "en": "Qalb El-Asad",
+        "ar": "قلب الأسد"
+      },
+      {
+        "en": "Mafia",
+        "ar": "مافيا"
+      },
+      {
+        "en": "El Gezira",
+        "ar": "الجزيرة"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "\"Qalb El-Asad\" (2013) stars Mohamed Ramadan as a child raised in a circus among lions and tigers.",
     "explanation_ar": "فيلم قلب الأسد سنة 2013 بطولة محمد رمضان في دور واحد اتربى في سيرك بين الأسود والنمور."
   },
@@ -530,12 +878,24 @@
     "question_en": "What is Batman's real name?",
     "question_ar": "إيه الاسم الحقيقي لباتمان؟",
     "options": [
-      { "en": "Tony Stark", "ar": "توني ستارك" },
-      { "en": "Barry Allen", "ar": "باري ألين" },
-      { "en": "Bruce Wayne", "ar": "بروس واين" },
-      { "en": "Clark Kent", "ar": "كلارك كينت" }
+      {
+        "en": "Bruce Wayne",
+        "ar": "بروس واين"
+      },
+      {
+        "en": "Clark Kent",
+        "ar": "كلارك كينت"
+      },
+      {
+        "en": "Tony Stark",
+        "ar": "توني ستارك"
+      },
+      {
+        "en": "Barry Allen",
+        "ar": "باري ألين"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Bruce Wayne is Batman's secret identity.",
     "explanation_ar": "بروس واين هو الهوية السرية لباتمان."
   },
@@ -548,12 +908,24 @@
     "question_en": "In which Adel Imam comedy does his character buy an entire province to rule it?",
     "question_ar": "في إيه فيلم لعادل إمام بيشتري بطله محافظة كاملة عشان يحكمها؟",
     "options": [
-      { "en": "Al-Avocato", "ar": "الأفوكاتو" },
-      { "en": "Morgan Ahmed Morgan", "ar": "مرجان أحمد مرجان" },
-      { "en": "Al-Za'im", "ar": "الزعيم" },
-      { "en": "Al-Irhabi", "ar": "الإرهابي" }
+      {
+        "en": "Al-Avocato",
+        "ar": "الأفوكاتو"
+      },
+      {
+        "en": "Al-Irhabi",
+        "ar": "الإرهابي"
+      },
+      {
+        "en": "Al-Za'im",
+        "ar": "الزعيم"
+      },
+      {
+        "en": "Morgan Ahmed Morgan",
+        "ar": "مرجان أحمد مرجان"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "\"Morgan Ahmed Morgan\" (2007) is Adel Imam's satire about a rich man buying a governorate.",
     "explanation_ar": "فيلم مرجان أحمد مرجان سنة 2007 بيسخر من راجل غني بيشتري محافظة."
   },
@@ -566,10 +938,22 @@
     "question_en": "Which actor plays Iron Man in the Marvel movies?",
     "question_ar": "مين اللي بيمثل دور آيرون مان في أفلام مارفل؟",
     "options": [
-      { "en": "Robert Downey Jr.", "ar": "روبرت داوني جونيور" },
-      { "en": "Chris Hemsworth", "ar": "كريس هيمسوورث" },
-      { "en": "Mark Ruffalo", "ar": "مارك روفالو" },
-      { "en": "Chris Evans", "ar": "كريس إيفانز" }
+      {
+        "en": "Robert Downey Jr.",
+        "ar": "روبرت داوني جونيور"
+      },
+      {
+        "en": "Mark Ruffalo",
+        "ar": "مارك روفالو"
+      },
+      {
+        "en": "Chris Evans",
+        "ar": "كريس إيفانز"
+      },
+      {
+        "en": "Chris Hemsworth",
+        "ar": "كريس هيمسوورث"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Robert Downey Jr. plays Tony Stark / Iron Man.",
@@ -584,10 +968,22 @@
     "question_en": "Ahmed El Sakka and Ahmed Ezz star together as police officers in which 2012 action film?",
     "question_ar": "أحمد السقا وأحمد عز بيمثلوا دور ضباط شرطة مع بعض في إيه فيلم أكشن سنة 2012؟",
     "options": [
-      { "en": "El Maslaha", "ar": "المصلحة" },
-      { "en": "El Gezira", "ar": "الجزيرة" },
-      { "en": "Kaboria", "ar": "كابوريا" },
-      { "en": "Tito", "ar": "تيتو" }
+      {
+        "en": "El Maslaha",
+        "ar": "المصلحة"
+      },
+      {
+        "en": "El Gezira",
+        "ar": "الجزيرة"
+      },
+      {
+        "en": "Kaboria",
+        "ar": "كابوريا"
+      },
+      {
+        "en": "Tito",
+        "ar": "تيتو"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "\"El Maslaha\" (2012) stars Ahmed El Sakka and Ahmed Ezz as police officers.",
@@ -602,12 +998,24 @@
     "question_en": "Which comedy star headlines the classic hit \"Hamam Fi Amsterdam\"?",
     "question_ar": "مين نجم الكوميديا بطل فيلم \"حمام في أمستردام\"؟",
     "options": [
-      { "en": "Ahmed Helmy", "ar": "أحمد حلمي" },
-      { "en": "Mohamed Henedy", "ar": "محمد هنيدي" },
-      { "en": "Mohamed Saad", "ar": "محمد سعد" },
-      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" }
+      {
+        "en": "Ahmed Helmy",
+        "ar": "أحمد حلمي"
+      },
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبدالعزيز"
+      },
+      {
+        "en": "Mohamed Saad",
+        "ar": "محمد سعد"
+      },
+      {
+        "en": "Mohamed Henedy",
+        "ar": "محمد هنيدي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Mohamed Henedy stars in the popular comedy \"Hamam Fi Amsterdam\" (1999).",
     "explanation_ar": "محمد هنيدي بطل فيلم حمام في أمستردام سنة 1999."
   },
@@ -620,12 +1028,24 @@
     "question_en": "Superman comes from which fictional planet?",
     "question_ar": "سوبرمان أصله من إيه كوكب خيالي؟",
     "options": [
-      { "en": "Asgard", "ar": "أسجارد" },
-      { "en": "Mars", "ar": "المريخ" },
-      { "en": "Krypton", "ar": "كريبتون" },
-      { "en": "Tatooine", "ar": "تاتوين" }
+      {
+        "en": "Krypton",
+        "ar": "كريبتون"
+      },
+      {
+        "en": "Asgard",
+        "ar": "أسجارد"
+      },
+      {
+        "en": "Mars",
+        "ar": "المريخ"
+      },
+      {
+        "en": "Tatooine",
+        "ar": "تاتوين"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Superman was born on the planet Krypton.",
     "explanation_ar": "سوبرمان اتولد في كوكب كريبتون."
   },
@@ -638,12 +1058,24 @@
     "question_en": "What is the last name of the boy wizard Harry in \"Harry Potter\"?",
     "question_ar": "إيه اسم عيلة هاري الساحر الصغير في \"هاري بوتر\"؟",
     "options": [
-      { "en": "Potter", "ar": "بوتر" },
-      { "en": "Weasley", "ar": "ويزلي" },
-      { "en": "Black", "ar": "بلاك" },
-      { "en": "Malfoy", "ar": "مالفوي" }
+      {
+        "en": "Malfoy",
+        "ar": "مالفوي"
+      },
+      {
+        "en": "Potter",
+        "ar": "بوتر"
+      },
+      {
+        "en": "Black",
+        "ar": "بلاك"
+      },
+      {
+        "en": "Weasley",
+        "ar": "ويزلي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Harry's family name is Potter.",
     "explanation_ar": "اسم عيلة هاري هو بوتر."
   },
@@ -656,12 +1088,24 @@
     "question_en": "Which of these is a well-known Egyptian actor, not an American one?",
     "question_ar": "مين من دول ممثل مصري مش أمريكي؟",
     "options": [
-      { "en": "Brad Pitt", "ar": "براد بيت" },
-      { "en": "Khaled El Sawy", "ar": "خالد الصاوي" },
-      { "en": "Matt Damon", "ar": "مات ديمون" },
-      { "en": "George Clooney", "ar": "جورج كلوني" }
+      {
+        "en": "George Clooney",
+        "ar": "جورج كلوني"
+      },
+      {
+        "en": "Brad Pitt",
+        "ar": "براد بيت"
+      },
+      {
+        "en": "Matt Damon",
+        "ar": "مات ديمون"
+      },
+      {
+        "en": "Khaled El Sawy",
+        "ar": "خالد الصاوي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Khaled El Sawy is a leading Egyptian film actor.",
     "explanation_ar": "خالد الصاوي من كبار نجوم السينما المصرية."
   },
@@ -674,10 +1118,22 @@
     "question_en": "Iron Man, Captain America and Thor are all part of which superhero team?",
     "question_ar": "آيرون مان وكابتن أمريكا وثور كلهم جزء من إيه فريق سوبرهيروز؟",
     "options": [
-      { "en": "Justice League", "ar": "جاستيس ليج" },
-      { "en": "The Avengers", "ar": "الأفينجرز" },
-      { "en": "Guardians of the Galaxy", "ar": "حراس المجرة" },
-      { "en": "X-Men", "ar": "إكس مين" }
+      {
+        "en": "Justice League",
+        "ar": "جاستيس ليج"
+      },
+      {
+        "en": "The Avengers",
+        "ar": "الأفينجرز"
+      },
+      {
+        "en": "X-Men",
+        "ar": "إكس مين"
+      },
+      {
+        "en": "Guardians of the Galaxy",
+        "ar": "حراس المجرة"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "They are core members of The Avengers.",
@@ -692,12 +1148,24 @@
     "question_en": "Which actress leads the cast of the Netflix hit \"Ashab Wala Aazz\"?",
     "question_ar": "مين النجمة اللي بطلة فيلم نتفليكس \"أصحاب ولا أعز\"؟",
     "options": [
-      { "en": "Yousra", "ar": "يسرا" },
-      { "en": "Mona Zaki", "ar": "منى زكي" },
-      { "en": "Elham Shahin", "ar": "إلهام شاهين" },
-      { "en": "Nelly Karim", "ar": "نيللي كريم" }
+      {
+        "en": "Elham Shahin",
+        "ar": "إلهام شاهين"
+      },
+      {
+        "en": "Nelly Karim",
+        "ar": "نيللي كريم"
+      },
+      {
+        "en": "Yousra",
+        "ar": "يسرا"
+      },
+      {
+        "en": "Mona Zaki",
+        "ar": "منى زكي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Mona Zaki leads the cast of \"Ashab Wala Aazz\" (2023).",
     "explanation_ar": "منى زكي بطلة فيلم أصحاب ولا أعز سنة 2023."
   },
@@ -710,12 +1178,24 @@
     "question_en": "Which of these is a well-known Egyptian actor?",
     "question_ar": "مين من دول ممثل مصري معروف؟",
     "options": [
-      { "en": "Mostafa Shaaban", "ar": "مصطفى شعبان" },
-      { "en": "Leonardo DiCaprio", "ar": "ليوناردو دي كابريو" },
-      { "en": "Will Smith", "ar": "ويل سميث" },
-      { "en": "Tom Cruise", "ar": "توم كروز" }
+      {
+        "en": "Leonardo DiCaprio",
+        "ar": "ليوناردو دي كابريو"
+      },
+      {
+        "en": "Mostafa Shaaban",
+        "ar": "مصطفى شعبان"
+      },
+      {
+        "en": "Tom Cruise",
+        "ar": "توم كروز"
+      },
+      {
+        "en": "Will Smith",
+        "ar": "ويل سميث"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Mostafa Shaaban is a well-known Egyptian film and TV actor.",
     "explanation_ar": "مصطفى شعبان من نجوم السينما والتليفزيون المصرية المعروفين."
   },
@@ -728,12 +1208,24 @@
     "question_en": "Which actor played the Joker in \"The Dark Knight\" (2008)?",
     "question_ar": "مين اللي مثل دور الجوكر في فيلم \"ذا دارك نايت\" 2008؟",
     "options": [
-      { "en": "Joaquin Phoenix", "ar": "واكين فينيكس" },
-      { "en": "Jared Leto", "ar": "جاريد ليتو" },
-      { "en": "Heath Ledger", "ar": "هيث ليدجر" },
-      { "en": "Jack Nicholson", "ar": "جاك نيكلسون" }
+      {
+        "en": "Jared Leto",
+        "ar": "جاريد ليتو"
+      },
+      {
+        "en": "Joaquin Phoenix",
+        "ar": "واكين فينيكس"
+      },
+      {
+        "en": "Jack Nicholson",
+        "ar": "جاك نيكلسون"
+      },
+      {
+        "en": "Heath Ledger",
+        "ar": "هيث ليدجر"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Heath Ledger's Joker won a posthumous Oscar.",
     "explanation_ar": "هيث ليدجر أخد أوسكار بعد وفاته عن دور الجوكر."
   },
@@ -746,12 +1238,24 @@
     "question_en": "Which of these is a well-known Egyptian actress?",
     "question_ar": "مين من دول ممثلة مصرية معروفة؟",
     "options": [
-      { "en": "Nelly Karim", "ar": "نيللي كريم" },
-      { "en": "Anne Hathaway", "ar": "آن هاثاواي" },
-      { "en": "Natalie Portman", "ar": "ناتالي بورتمان" },
-      { "en": "Jennifer Aniston", "ar": "جينيفر أنيستون" }
+      {
+        "en": "Natalie Portman",
+        "ar": "ناتالي بورتمان"
+      },
+      {
+        "en": "Jennifer Aniston",
+        "ar": "جينيفر أنيستون"
+      },
+      {
+        "en": "Anne Hathaway",
+        "ar": "آن هاثاواي"
+      },
+      {
+        "en": "Nelly Karim",
+        "ar": "نيللي كريم"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Nelly Karim is a leading Egyptian actress in film and TV.",
     "explanation_ar": "نيللي كريم من كبار نجمات السينما والتليفزيون المصرية."
   },
@@ -764,12 +1268,24 @@
     "question_en": "Which spy movie franchise uses the code number \"007\"?",
     "question_ar": "إيه سلسلة أفلام الجاسوسية اللي بتستخدم الرقم السري \"007\"؟",
     "options": [
-      { "en": "Kingsman", "ar": "كينجزمان" },
-      { "en": "James Bond", "ar": "جيمس بوند" },
-      { "en": "The Bourne series", "ar": "سلسلة بورن" },
-      { "en": "Mission Impossible", "ar": "مهمة مستحيلة" }
+      {
+        "en": "Mission Impossible",
+        "ar": "مهمة مستحيلة"
+      },
+      {
+        "en": "The Bourne series",
+        "ar": "سلسلة بورن"
+      },
+      {
+        "en": "James Bond",
+        "ar": "جيمس بوند"
+      },
+      {
+        "en": "Kingsman",
+        "ar": "كينجزمان"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "James Bond's code number is 007.",
     "explanation_ar": "جيمس بوند رقمه السري 007."
   },
@@ -782,10 +1298,22 @@
     "question_en": "Besides the famous Karim Abdel Aziz, Egyptian cinema has another well-known actor with a very similar name — what is it?",
     "question_ar": "غير كريم عبدالعزيز الشهير، في ممثل مصري تاني اسمه شبهه وبيتلخبط فيه الناس، مين هو؟",
     "options": [
-      { "en": "Karim Mahmoud Abdel Aziz", "ar": "كريم محمود عبدالعزيز" },
-      { "en": "Ahmed Abdel Aziz", "ar": "أحمد عبدالعزيز" },
-      { "en": "Mahmoud Karim", "ar": "محمود كريم" },
-      { "en": "Aziz Karim", "ar": "عزيز كريم" }
+      {
+        "en": "Karim Mahmoud Abdel Aziz",
+        "ar": "كريم محمود عبدالعزيز"
+      },
+      {
+        "en": "Ahmed Abdel Aziz",
+        "ar": "أحمد عبدالعزيز"
+      },
+      {
+        "en": "Aziz Karim",
+        "ar": "عزيز كريم"
+      },
+      {
+        "en": "Mahmoud Karim",
+        "ar": "محمود كريم"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Karim Mahmoud Abdel Aziz is a separate, also well-known Egyptian actor, often confused with Karim Abdel Aziz.",
@@ -800,12 +1328,24 @@
     "question_en": "Which Star Wars villain is famously known as Luke's father?",
     "question_ar": "إيه شرير حرب النجوم المشهور إنه والد لوك؟",
     "options": [
-      { "en": "Darth Vader", "ar": "دارث فيدر" },
-      { "en": "Obi-Wan Kenobi", "ar": "أوبي وان كينوبي" },
-      { "en": "Emperor Palpatine", "ar": "الإمبراطور بالباتين" },
-      { "en": "Yoda", "ar": "يودا" }
+      {
+        "en": "Obi-Wan Kenobi",
+        "ar": "أوبي وان كينوبي"
+      },
+      {
+        "en": "Emperor Palpatine",
+        "ar": "الإمبراطور بالباتين"
+      },
+      {
+        "en": "Yoda",
+        "ar": "يودا"
+      },
+      {
+        "en": "Darth Vader",
+        "ar": "دارث فيدر"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Darth Vader is revealed to be Luke's father.",
     "explanation_ar": "دارث فيدر بيتضح إنه والد لوك."
   },
@@ -818,12 +1358,24 @@
     "question_en": "Which of these is a famous Egyptian TV and film actress?",
     "question_ar": "مين من دول ممثلة مصرية مشهورة في السينما والتليفزيون؟",
     "options": [
-      { "en": "Menna Shalaby", "ar": "منة شلبي" },
-      { "en": "Sandra Bullock", "ar": "ساندرا بولوك" },
-      { "en": "Charlize Theron", "ar": "شارليز ثيرون" },
-      { "en": "Reese Witherspoon", "ar": "ريس ويذرسبون" }
+      {
+        "en": "Sandra Bullock",
+        "ar": "ساندرا بولوك"
+      },
+      {
+        "en": "Reese Witherspoon",
+        "ar": "ريس ويذرسبون"
+      },
+      {
+        "en": "Menna Shalaby",
+        "ar": "منة شلبي"
+      },
+      {
+        "en": "Charlize Theron",
+        "ar": "شارليز ثيرون"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Menna Shalaby is a leading Egyptian actress in film and TV.",
     "explanation_ar": "منة شلبي من كبار نجمات السينما والتليفزيون المصرية."
   },
@@ -836,14 +1388,26 @@
     "question_en": "Which actor plays the lead special-forces officer in the Netflix Egyptian hit \"El Khaleya\" (The Cell)?",
     "question_ar": "مين الممثل اللي بيمثل دور ضابط القوات الخاصة بطل فيلم نتفليكس المصري \"الخلية\"؟",
     "options": [
-      { "en": "Ahmed El Sakka", "ar": "أحمد السقا" },
-      { "en": "Fathy Abdel Wahab", "ar": "فتحي عبدالوهاب" },
-      { "en": "Amr Youssef", "ar": "عمرو يوسف" },
-      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" }
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبدالعزيز"
+      },
+      {
+        "en": "Ahmed El Sakka",
+        "ar": "أحمد السقا"
+      },
+      {
+        "en": "Ahmed Ezz",
+        "ar": "أحمد عز"
+      },
+      {
+        "en": "Amr Youssef",
+        "ar": "عمرو يوسف"
+      }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Fathy Abdel Wahab stars as the lead officer in \"El Khaleya\" (The Cell, 2022).",
-    "explanation_ar": "فتحي عبدالوهاب بطل فيلم الخلية سنة 2022."
+    "correctAnswer": 2,
+    "explanation_en": "Ahmed Ezz stars as the lead officer avenging a friend killed by terrorists in \"El Khaleya\" (The Cell).",
+    "explanation_ar": "أحمد عز بطل فيلم الخلية في دور ضابط بياخد بالتار لصاحبه اللي الإرهابيين قتلوه."
   },
   {
     "id": "MOV-010-048",
@@ -854,10 +1418,22 @@
     "question_en": "Which Disney movie follows a Polynesian girl who sails to save her island?",
     "question_ar": "إيه فيلم ديزني اللي بيحكي عن بنت بولينيزية بتسافر بالبحر تنقذ جزيرتها؟",
     "options": [
-      { "en": "Encanto", "ar": "إنكانتو" },
-      { "en": "Pocahontas", "ar": "بوكاهانتاس" },
-      { "en": "Frozen", "ar": "فروزن" },
-      { "en": "Moana", "ar": "موانا" }
+      {
+        "en": "Frozen",
+        "ar": "فروزن"
+      },
+      {
+        "en": "Pocahontas",
+        "ar": "بوكاهانتاس"
+      },
+      {
+        "en": "Encanto",
+        "ar": "إنكانتو"
+      },
+      {
+        "en": "Moana",
+        "ar": "موانا"
+      }
     ],
     "correctAnswer": 3,
     "explanation_en": "\"Moana\" follows a Polynesian girl on a sea voyage.",
@@ -872,12 +1448,24 @@
     "question_en": "Which actor plays Thor in the Marvel movies?",
     "question_ar": "مين اللي بيمثل دور ثور في أفلام مارفل؟",
     "options": [
-      { "en": "Chris Pratt", "ar": "كريس برات" },
-      { "en": "Chris Evans", "ar": "كريس إيفانز" },
-      { "en": "Chris Pine", "ar": "كريس باين" },
-      { "en": "Chris Hemsworth", "ar": "كريس هيمسوورث" }
+      {
+        "en": "Chris Evans",
+        "ar": "كريس إيفانز"
+      },
+      {
+        "en": "Chris Pratt",
+        "ar": "كريس برات"
+      },
+      {
+        "en": "Chris Hemsworth",
+        "ar": "كريس هيمسوورث"
+      },
+      {
+        "en": "Chris Pine",
+        "ar": "كريس باين"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Chris Hemsworth plays the Norse god Thor.",
     "explanation_ar": "كريس هيمسوورث بيمثل دور ثور إله الرعد."
   },
@@ -890,12 +1478,24 @@
     "question_en": "Which actress plays Hermione Granger in the \"Harry Potter\" films?",
     "question_ar": "مين اللي بتمثل دور هيرميون جرينجر في أفلام \"هاري بوتر\"؟",
     "options": [
-      { "en": "Kristen Stewart", "ar": "كريستين ستيوارت" },
-      { "en": "Emma Watson", "ar": "إيما واتسون" },
-      { "en": "Amy Adams", "ar": "إيمي آدامز" },
-      { "en": "Emma Stone", "ar": "إيما ستون" }
+      {
+        "en": "Amy Adams",
+        "ar": "إيمي آدامز"
+      },
+      {
+        "en": "Emma Stone",
+        "ar": "إيما ستون"
+      },
+      {
+        "en": "Emma Watson",
+        "ar": "إيما واتسون"
+      },
+      {
+        "en": "Kristen Stewart",
+        "ar": "كريستين ستيوارت"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Emma Watson plays Hermione Granger throughout the series.",
     "explanation_ar": "إيما واتسون بتمثل دور هيرميون جرينجر في كل الأفلام."
   }

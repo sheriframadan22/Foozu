@@ -8,10 +8,22 @@
     "question_en": "Ahmed Zaki is famously nicknamed what, for his intense acting style?",
     "question_ar": "أحمد زكي معروف بلقب إيه بسبب أسلوبه في التمثيل؟",
     "options": [
-      { "en": "The Black Tiger", "ar": "النمر الأسود" },
-      { "en": "The Eagle", "ar": "النسر" },
-      { "en": "The Golden Boy", "ar": "الولد الدهب" },
-      { "en": "The Lion of Egypt", "ar": "أسد مصر" }
+      {
+        "en": "The Black Tiger",
+        "ar": "النمر الأسود"
+      },
+      {
+        "en": "The Lion of Egypt",
+        "ar": "أسد مصر"
+      },
+      {
+        "en": "The Eagle",
+        "ar": "النسر"
+      },
+      {
+        "en": "The Golden Boy",
+        "ar": "الولد الدهب"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Ahmed Zaki was nicknamed \"The Black Tiger\" (An-Namr al-Aswad).",
@@ -26,12 +38,24 @@
     "question_en": "Mohamed Ramadan is famously known for giving himself which self-declared nickname?",
     "question_ar": "محمد رمضان معروف إنه بيسمي نفسه بإيه لقب؟",
     "options": [
-      { "en": "El Wad El Sha2i", "ar": "الواد الشقي" },
-      { "en": "Number One", "ar": "نمبر وان" },
-      { "en": "El Nemr", "ar": "النمر" },
-      { "en": "El Zaeem", "ar": "الزعيم" }
+      {
+        "en": "El Zaeem",
+        "ar": "الزعيم"
+      },
+      {
+        "en": "El Wad El Sha2i",
+        "ar": "الواد الشقي"
+      },
+      {
+        "en": "El Nemr",
+        "ar": "النمر"
+      },
+      {
+        "en": "Number One",
+        "ar": "نمبر وان"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Mohamed Ramadan is famously known for calling himself \"Number One\".",
     "explanation_ar": "محمد رمضان معروف بإنه بيسمي نفسه \"نمبر وان\"."
   },
@@ -44,12 +68,24 @@
     "question_en": "Who directed the big-budget hit \"Kira & El Gin\" (2022)?",
     "question_ar": "مين اللي أخرج فيلم \"كيرة والجن\" سنة 2022؟",
     "options": [
-      { "en": "Sherif Arafa", "ar": "شريف عرفة" },
-      { "en": "Marwan Hamed", "ar": "مروان حامد" },
-      { "en": "Peter Mimi", "ar": "بيتر ميمي" },
-      { "en": "Amr Arafa", "ar": "عمرو عرفة" }
+      {
+        "en": "Peter Mimi",
+        "ar": "بيتر ميمي"
+      },
+      {
+        "en": "Sherif Arafa",
+        "ar": "شريف عرفة"
+      },
+      {
+        "en": "Marwan Hamed",
+        "ar": "مروان حامد"
+      },
+      {
+        "en": "Amr Arafa",
+        "ar": "عمرو عرفة"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Marwan Hamed directed \"Kira & El Gin\", as he also directed \"The Yacoubian Building\".",
     "explanation_ar": "مروان حامد أخرج فيلم كيرة والجن، زي ما أخرج عمارة يعقوبيان."
   },
@@ -62,12 +98,24 @@
     "question_en": "Adel Imam's classic political satire about a government worker and a fugitive is called what?",
     "question_ar": "إيه اسم فيلم عادل إمام الكوميدي السياسي عن موظف حكومي وهارب؟",
     "options": [
-      { "en": "El Nazer", "ar": "الناظر" },
-      { "en": "Al-Irhab wal Kabab", "ar": "الإرهاب والكباب" },
-      { "en": "Hassan wa Marcus", "ar": "حسن ومرقص" },
-      { "en": "Kaboria", "ar": "كابوريا" }
+      {
+        "en": "El Nazer",
+        "ar": "الناظر"
+      },
+      {
+        "en": "Kaboria",
+        "ar": "كابوريا"
+      },
+      {
+        "en": "Hassan wa Marcus",
+        "ar": "حسن ومرقص"
+      },
+      {
+        "en": "Al-Irhab wal Kabab",
+        "ar": "الإرهاب والكباب"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "\"Al-Irhab wal Kabab\" (Terrorism and Kebab, 1992) is Adel Imam's famous satire, still widely quoted today.",
     "explanation_ar": "فيلم الإرهاب والكباب سنة 1992 من كلاسيكيات عادل إمام ولسه بيتقال."
   },
@@ -80,12 +128,24 @@
     "question_en": "Which Egyptian pop superstar starred in the film \"Ice Cream Fi Gleem\"?",
     "question_ar": "مين النجم المصري اللي مثل فيلم \"آيس كريم في جليم\"؟",
     "options": [
-      { "en": "Mohamed Fouad", "ar": "محمد فؤاد" },
-      { "en": "Amr Diab", "ar": "عمرو دياب" },
-      { "en": "Tamer Hosny", "ar": "تامر حسني" },
-      { "en": "Hamada Helal", "ar": "حماده هلال" }
+      {
+        "en": "Tamer Hosny",
+        "ar": "تامر حسني"
+      },
+      {
+        "en": "Mohamed Fouad",
+        "ar": "محمد فؤاد"
+      },
+      {
+        "en": "Hamada Helal",
+        "ar": "حماده هلال"
+      },
+      {
+        "en": "Amr Diab",
+        "ar": "عمرو دياب"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Amr Diab starred in \"Ice Cream Fi Gleem\" (1992).",
     "explanation_ar": "عمرو دياب مثل فيلم آيس كريم في جليم سنة 1992."
   },
@@ -98,10 +158,22 @@
     "question_en": "Which two famous Egyptian actors are a real-life married couple who have also starred together on screen?",
     "question_ar": "مين النجمين اللي جوازين في الحقيقة ومثلوا مع بعض في أفلام كمان؟",
     "options": [
-      { "en": "Mohamed Henedy & Ghada Adel", "ar": "محمد هنيدي وغادة عادل" },
-      { "en": "Ahmed Helmy & Mona Zaki", "ar": "أحمد حلمي ومنى زكي" },
-      { "en": "Ahmed El Sakka & Menna Shalaby", "ar": "أحمد السقا ومنة شلبي" },
-      { "en": "Karim Abdel Aziz & Yousra", "ar": "كريم عبدالعزيز ويسرا" }
+      {
+        "en": "Karim Abdel Aziz & Yousra",
+        "ar": "كريم عبدالعزيز ويسرا"
+      },
+      {
+        "en": "Ahmed Helmy & Mona Zaki",
+        "ar": "أحمد حلمي ومنى زكي"
+      },
+      {
+        "en": "Ahmed El Sakka & Menna Shalaby",
+        "ar": "أحمد السقا ومنة شلبي"
+      },
+      {
+        "en": "Mohamed Henedy & Ghada Adel",
+        "ar": "محمد هنيدي وغادة عادل"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Ahmed Helmy and Mona Zaki are married in real life and have co-starred on screen.",
@@ -116,12 +188,24 @@
     "question_en": "\"El Feel El Azraq\" (The Blue Elephant), starring Karim Abdel Aziz, is based on a novel by which author?",
     "question_ar": "فيلم \"الفيل الأزرق\" بطولة كريم عبدالعزيز مأخوذ عن رواية لمين؟",
     "options": [
-      { "en": "Ahmed Mourad", "ar": "أحمد مراد" },
-      { "en": "Alaa Al Aswany", "ar": "علاء الأسواني" },
-      { "en": "Ahmed Khaled Tawfik", "ar": "أحمد خالد توفيق" },
-      { "en": "Youssef Ziedan", "ar": "يوسف زيدان" }
+      {
+        "en": "Ahmed Khaled Tawfik",
+        "ar": "أحمد خالد توفيق"
+      },
+      {
+        "en": "Youssef Ziedan",
+        "ar": "يوسف زيدان"
+      },
+      {
+        "en": "Ahmed Mourad",
+        "ar": "أحمد مراد"
+      },
+      {
+        "en": "Alaa Al Aswany",
+        "ar": "علاء الأسواني"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"El Feel El Azraq\" is based on Ahmed Mourad's novel of the same name.",
     "explanation_ar": "فيلم الفيل الأزرق مأخوذ عن رواية أحمد مراد بنفس الاسم."
   },
@@ -131,17 +215,29 @@
     "category_ar": "افلام",
     "value": 20,
     "difficulty": 2,
-    "question_en": "Who directed the Netflix Egyptian action hit \"El Khaleya\" (The Cell, 2022)?",
-    "question_ar": "مين اللي أخرج فيلم نتفليكس المصري \"الخلية\" سنة 2022؟",
+    "question_en": "Which actress plays a key supporting role alongside Ahmed Ezz in the Netflix Egyptian action hit \"El Khaleya\" (The Cell)?",
+    "question_ar": "مين النجمة اللي بتمثل دور مساعد أساسي مع أحمد عز في فيلم نتفليكس المصري \"الخلية\"؟",
     "options": [
-      { "en": "Peter Mimi", "ar": "بيتر ميمي" },
-      { "en": "Marwan Hamed", "ar": "مروان حامد" },
-      { "en": "Sherif Arafa", "ar": "شريف عرفة" },
-      { "en": "Tarik Saleh", "ar": "طارق صالح" }
+      {
+        "en": "Amina Khalil",
+        "ar": "أمينة خليل"
+      },
+      {
+        "en": "Mona Zaki",
+        "ar": "منى زكي"
+      },
+      {
+        "en": "Yousra",
+        "ar": "يسرا"
+      },
+      {
+        "en": "Elham Shahin",
+        "ar": "إلهام شاهين"
+      }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Peter Mimi directed the Netflix Egyptian hit \"El Khaleya\" (The Cell, 2022).",
-    "explanation_ar": "بيتر ميمي أخرج فيلم الخلية سنة 2022."
+    "explanation_en": "Amina Khalil plays a key supporting role in \"El Khaleya\" (The Cell), alongside lead Ahmed Ezz.",
+    "explanation_ar": "أمينة خليل بتمثل دور مساعد أساسي في فيلم الخلية مع البطل أحمد عز."
   },
   {
     "id": "MOV-020-009",
@@ -152,12 +248,24 @@
     "question_en": "Who directed the Netflix hit \"Ashab Wala Aazz\" (2023)?",
     "question_ar": "مين اللي أخرج فيلم نتفليكس \"أصحاب ولا أعز\" سنة 2023؟",
     "options": [
-      { "en": "Wael Ehsan", "ar": "وائل إحسان" },
-      { "en": "Marwan Hamed", "ar": "مروان حامد" },
-      { "en": "Sherif Arafa", "ar": "شريف عرفة" },
-      { "en": "Amr Salama", "ar": "عمرو سلامة" }
+      {
+        "en": "Sherif Arafa",
+        "ar": "شريف عرفة"
+      },
+      {
+        "en": "Marwan Hamed",
+        "ar": "مروان حامد"
+      },
+      {
+        "en": "Wael Ehsan",
+        "ar": "وائل إحسان"
+      },
+      {
+        "en": "Amr Salama",
+        "ar": "عمرو سلامة"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Wael Ehsan directed \"Ashab Wala Aazz\" (2023).",
     "explanation_ar": "وائل إحسان أخرج فيلم أصحاب ولا أعز سنة 2023."
   },
@@ -170,12 +278,24 @@
     "question_en": "Karim Abdel Aziz starred as an ambitious young man in which hit film?",
     "question_ar": "كريم عبدالعزيز مثل دور شاب طموح في إيه فيلم؟",
     "options": [
-      { "en": "Omar 2000", "ar": "عمر 2000" },
-      { "en": "Kaboria", "ar": "كابوريا" },
-      { "en": "Tito", "ar": "تيتو" },
-      { "en": "Al-Kit Kat", "ar": "الكيت كات" }
+      {
+        "en": "Tito",
+        "ar": "تيتو"
+      },
+      {
+        "en": "Omar 2000",
+        "ar": "عمر 2000"
+      },
+      {
+        "en": "Kaboria",
+        "ar": "كابوريا"
+      },
+      {
+        "en": "Al-Kit Kat",
+        "ar": "الكيت كات"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Karim Abdel Aziz starred in \"Omar 2000\" (2004).",
     "explanation_ar": "كريم عبدالعزيز مثل بطولة فيلم عمر 2000 سنة 2004."
   },
@@ -188,12 +308,24 @@
     "question_en": "In which film does Ahmed El Sakka play a fisherman turned fighter for justice?",
     "question_ar": "في إيه فيلم أحمد السقا بيمثل دور صياد بيتحول لمقاتل عن الحق؟",
     "options": [
-      { "en": "Ibrahim El Abyad", "ar": "إبراهيم الأبيض" },
-      { "en": "El Gezira", "ar": "الجزيرة" },
-      { "en": "Tito", "ar": "تيتو" },
-      { "en": "Mafia", "ar": "مافيا" }
+      {
+        "en": "Mafia",
+        "ar": "مافيا"
+      },
+      {
+        "en": "Tito",
+        "ar": "تيتو"
+      },
+      {
+        "en": "El Gezira",
+        "ar": "الجزيرة"
+      },
+      {
+        "en": "Ibrahim El Abyad",
+        "ar": "إبراهيم الأبيض"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Ahmed El Sakka played a fisherman-turned-fighter in \"Tito\" (2004).",
     "explanation_ar": "أحمد السقا مثل دور صياد بيتحول لمقاتل في فيلم تيتو سنة 2004."
   },
@@ -206,10 +338,22 @@
     "question_en": "Which comedy launched the careers of Ahmed Helmy, Hani Ramzy and Mohamed Henedy together in 1998?",
     "question_ar": "إيه الفيلم الكوميدي اللي طلع فيه أحمد حلمي وهاني رمزي ومحمد هنيدي مع بعض سنة 1998؟",
     "options": [
-      { "en": "Abboud Ala El Hedoud", "ar": "عبود على الحدود" },
-      { "en": "Saheb Sahbo", "ar": "صاحب صاحبه" },
-      { "en": "Kaboria", "ar": "كابوريا" },
-      { "en": "El Nazer", "ar": "الناظر" }
+      {
+        "en": "Kaboria",
+        "ar": "كابوريا"
+      },
+      {
+        "en": "Saheb Sahbo",
+        "ar": "صاحب صاحبه"
+      },
+      {
+        "en": "El Nazer",
+        "ar": "الناظر"
+      },
+      {
+        "en": "Abboud Ala El Hedoud",
+        "ar": "عبود على الحدود"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "\"Saheb Sahbo\" (1998) launched several young comedy stars together.",
@@ -224,12 +368,24 @@
     "question_en": "\"Kira & El Gin\" is set in which Egyptian city in the 1920s?",
     "question_ar": "فيلم \"كيرة والجن\" بيدور في إيه مدينة مصرية في العشرينات؟",
     "options": [
-      { "en": "Cairo", "ar": "القاهرة" },
-      { "en": "Alexandria", "ar": "الإسكندرية" },
-      { "en": "Port Said", "ar": "بورسعيد" },
-      { "en": "Luxor", "ar": "الأقصر" }
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Port Said",
+        "ar": "بورسعيد"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "\"Kira & El Gin\" is set in 1920s Alexandria, based on real-life legendary local figures.",
     "explanation_ar": "فيلم كيرة والجن بيدور في إسكندرية العشرينات، مستوحى من شخصيات حقيقية شعبية."
   },
@@ -242,10 +398,22 @@
     "question_en": "In \"Ashab Wala Aazz\", a group of old friends at dinner agree to do what with every call and message?",
     "question_ar": "في فيلم \"أصحاب ولا أعز\"، مجموعة أصحاب قدام بعض بيتفقوا يعملوا إيه في كل مكالمة أو رسالة توصلهم؟",
     "options": [
-      { "en": "Turn their phones off", "ar": "يقفلوا موبايلاتهم" },
-      { "en": "Share every notification out loud", "ar": "يشاركوا أي إشعار بصوت عالي قدام الكل" },
-      { "en": "Give their phones to the host", "ar": "يدوا موبايلاتهم للمضيف" },
-      { "en": "Leave phones in another room", "ar": "يسيبوا الموبايلات في أوضة تانية" }
+      {
+        "en": "Turn their phones off",
+        "ar": "يقفلوا موبايلاتهم"
+      },
+      {
+        "en": "Share every notification out loud",
+        "ar": "يشاركوا أي إشعار بصوت عالي قدام الكل"
+      },
+      {
+        "en": "Give their phones to the host",
+        "ar": "يدوا موبايلاتهم للمضيف"
+      },
+      {
+        "en": "Leave phones in another room",
+        "ar": "يسيبوا الموبايلات في أوضة تانية"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "The friends agree to share every call and message that comes in out loud, sparking chaos.",
@@ -260,10 +428,22 @@
     "question_en": "Yousra starred in the ensemble drama about Cairo nightlife called what?",
     "question_ar": "يسرا مثلت فيلم دراما جماعي عن ليالي القاهرة اسمه إيه؟",
     "options": [
-      { "en": "Sahar El Layali", "ar": "سهر الليالي" },
-      { "en": "Asrar Al Banat", "ar": "أسرار البنات" },
-      { "en": "Al-Gezira", "ar": "الجزيرة" },
-      { "en": "Heena Maysara", "ar": "حين ميسرة" }
+      {
+        "en": "Sahar El Layali",
+        "ar": "سهر الليالي"
+      },
+      {
+        "en": "Heena Maysara",
+        "ar": "حين ميسرة"
+      },
+      {
+        "en": "Asrar Al Banat",
+        "ar": "أسرار البنات"
+      },
+      {
+        "en": "Al-Gezira",
+        "ar": "الجزيرة"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "\"Sahar El Layali\" (Sleepless Nights, 2003) is an ensemble drama starring Yousra.",
@@ -278,12 +458,24 @@
     "question_en": "Which actor plays the character \"Kira\" opposite Ahmed Ezz's \"El Gin\" in the 2022 hit?",
     "question_ar": "مين الممثل اللي بيمثل دور \"كيرة\" قدام أحمد عز في دور \"الجن\" في فيلم سنة 2022؟",
     "options": [
-      { "en": "Ahmed Ezz", "ar": "أحمد عز" },
-      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" },
-      { "en": "Amr Saad", "ar": "عمرو سعد" },
-      { "en": "Ahmed El Sakka", "ar": "أحمد السقا" }
+      {
+        "en": "Amr Saad",
+        "ar": "عمرو سعد"
+      },
+      {
+        "en": "Ahmed El Sakka",
+        "ar": "أحمد السقا"
+      },
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبدالعزيز"
+      },
+      {
+        "en": "Ahmed Ezz",
+        "ar": "أحمد عز"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Karim Abdel Aziz plays the character \"Kira\" in \"Kira & El Gin\".",
     "explanation_ar": "كريم عبدالعزيز بيمثل شخصية كيرة في فيلم كيرة والجن."
   },
@@ -296,10 +488,22 @@
     "question_en": "In the \"El Gezira\" films, Ahmed El Sakka's character Mansour rules an island economy built around what?",
     "question_ar": "في أفلام \"الجزيرة\"، شخصية منصور اللي بيمثلها أحمد السقا بتحكم جزيرة اقتصادها قايم على إيه؟",
     "options": [
-      { "en": "Growing drugs (poppies)", "ar": "زراعة المخدرات (الخشخاش)" },
-      { "en": "Smuggling ships", "ar": "تهريب سفن" },
-      { "en": "Fishing exports", "ar": "تصدير سمك" },
-      { "en": "Gold mining", "ar": "تعدين ذهب" }
+      {
+        "en": "Growing drugs (poppies)",
+        "ar": "زراعة المخدرات (الخشخاش)"
+      },
+      {
+        "en": "Fishing exports",
+        "ar": "تصدير سمك"
+      },
+      {
+        "en": "Smuggling ships",
+        "ar": "تهريب سفن"
+      },
+      {
+        "en": "Gold mining",
+        "ar": "تعدين ذهب"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "\"El Gezira\" follows Mansour, who rules an island economy built on growing drugs.",
@@ -314,10 +518,22 @@
     "question_en": "Which director made both \"Al-Irhab wal Kabab\" with Adel Imam and the modern action hit \"El Gezira\"?",
     "question_ar": "مين المخرج اللي عمل فيلم \"الإرهاب والكباب\" مع عادل إمام وكمان فيلم الأكشن الحديث \"الجزيرة\"؟",
     "options": [
-      { "en": "Daoud Abdel Sayed", "ar": "داوود عبدالسيد" },
-      { "en": "Youssef Chahine", "ar": "يوسف شاهين" },
-      { "en": "Sherif Arafa", "ar": "شريف عرفة" },
-      { "en": "Marwan Hamed", "ar": "مروان حامد" }
+      {
+        "en": "Marwan Hamed",
+        "ar": "مروان حامد"
+      },
+      {
+        "en": "Daoud Abdel Sayed",
+        "ar": "داوود عبدالسيد"
+      },
+      {
+        "en": "Sherif Arafa",
+        "ar": "شريف عرفة"
+      },
+      {
+        "en": "Youssef Chahine",
+        "ar": "يوسف شاهين"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Sherif Arafa directed several Adel Imam classics as well as the \"El Gezira\" films.",
@@ -332,12 +548,24 @@
     "question_en": "\"Emarat Yakoubian\" (The Yacoubian Building) is based on a novel by which author?",
     "question_ar": "فيلم \"عمارة يعقوبيان\" مأخوذ عن رواية لمين؟",
     "options": [
-      { "en": "Youssef Ziedan", "ar": "يوسف زيدان" },
-      { "en": "Naguib Mahfouz", "ar": "نجيب محفوظ" },
-      { "en": "Ihsan Abdel Quddous", "ar": "إحسان عبدالقدوس" },
-      { "en": "Alaa Al Aswany", "ar": "علاء الأسواني" }
+      {
+        "en": "Ihsan Abdel Quddous",
+        "ar": "إحسان عبدالقدوس"
+      },
+      {
+        "en": "Youssef Ziedan",
+        "ar": "يوسف زيدان"
+      },
+      {
+        "en": "Alaa Al Aswany",
+        "ar": "علاء الأسواني"
+      },
+      {
+        "en": "Naguib Mahfouz",
+        "ar": "نجيب محفوظ"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "\"The Yacoubian Building\" is based on Alaa Al Aswany's novel.",
     "explanation_ar": "عمارة يعقوبيان مأخوذ عن رواية علاء الأسواني."
   },
@@ -350,10 +578,22 @@
     "question_en": "Who directed the 2006 film \"Emarat Yakoubian\" (The Yacoubian Building)?",
     "question_ar": "مين مخرج فيلم \"عمارة يعقوبيان\" سنة 2006؟",
     "options": [
-      { "en": "Khaled Youssef", "ar": "خالد يوسف" },
-      { "en": "Yousry Nasrallah", "ar": "يسري نصرالله" },
-      { "en": "Sherif Arafa", "ar": "شريف عرفة" },
-      { "en": "Marwan Hamed", "ar": "مروان حامد" }
+      {
+        "en": "Yousry Nasrallah",
+        "ar": "يسري نصرالله"
+      },
+      {
+        "en": "Sherif Arafa",
+        "ar": "شريف عرفة"
+      },
+      {
+        "en": "Khaled Youssef",
+        "ar": "خالد يوسف"
+      },
+      {
+        "en": "Marwan Hamed",
+        "ar": "مروان حامد"
+      }
     ],
     "correctAnswer": 3,
     "explanation_en": "Marwan Hamed directed \"The Yacoubian Building\" (2006).",
@@ -368,12 +608,24 @@
     "question_en": "Which actor plays the rival officer opposing Ahmed El Sakka's character in \"El Gezira\"?",
     "question_ar": "مين الممثل اللي بيمثل دور الضابط المنافس لشخصية أحمد السقا في فيلم \"الجزيرة\"؟",
     "options": [
-      { "en": "Khaled El Sawy", "ar": "خالد الصاوي" },
-      { "en": "Amr Waked", "ar": "عمرو واكد" },
-      { "en": "Eyad Nassar", "ar": "إياد نصار" },
-      { "en": "Sherif Mounir", "ar": "شريف منير" }
+      {
+        "en": "Amr Waked",
+        "ar": "عمرو واكد"
+      },
+      {
+        "en": "Sherif Mounir",
+        "ar": "شريف منير"
+      },
+      {
+        "en": "Khaled El Sawy",
+        "ar": "خالد الصاوي"
+      },
+      {
+        "en": "Eyad Nassar",
+        "ar": "إياد نصار"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Khaled El Sawy plays the rival officer Bahaa Sorour in \"El Gezira\".",
     "explanation_ar": "خالد الصاوي بيمثل دور الضابط بهاء سرور المنافس لمنصور في فيلم الجزيرة."
   },
@@ -386,12 +638,24 @@
     "question_en": "\"El Kenz\" (The Treasure), the big-ensemble hit, brings together which two major Egyptian stars, Mohamed Ramadan and who else?",
     "question_ar": "فيلم \"الكنز\" اللي جمع نجوم كتير، بيجمع محمد رمضان مع مين كمان من كبار نجوم مصر؟",
     "options": [
-      { "en": "Mohamed Saad", "ar": "محمد سعد" },
-      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" },
-      { "en": "Ahmed El Sakka", "ar": "أحمد السقا" },
-      { "en": "Amr Youssef", "ar": "عمرو يوسف" }
+      {
+        "en": "Amr Youssef",
+        "ar": "عمرو يوسف"
+      },
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبدالعزيز"
+      },
+      {
+        "en": "Ahmed El Sakka",
+        "ar": "أحمد السقا"
+      },
+      {
+        "en": "Mohamed Saad",
+        "ar": "محمد سعد"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"El Kenz\" brings together Mohamed Ramadan and Mohamed Saad among its large ensemble cast.",
     "explanation_ar": "فيلم الكنز بيجمع محمد رمضان ومحمد سعد ضمن نجوم كتير في العمل."
   },
@@ -404,12 +668,24 @@
     "question_en": "In \"Qalb El-Asad\", Mohamed Ramadan plays a street thug who was raised as a child in what unusual setting?",
     "question_ar": "في فيلم \"قلب الأسد\"، محمد رمضان بيمثل دور بلطجي اتربى وهو صغير في إيه مكان غريب؟",
     "options": [
-      { "en": "A circus, among lions and tigers", "ar": "سيرك، بين الأسود والنمور" },
-      { "en": "A police academy", "ar": "كلية الشرطة" },
-      { "en": "A monastery", "ar": "دير" },
-      { "en": "A ship", "ar": "سفينة" }
+      {
+        "en": "A police academy",
+        "ar": "كلية الشرطة"
+      },
+      {
+        "en": "A monastery",
+        "ar": "دير"
+      },
+      {
+        "en": "A circus, among lions and tigers",
+        "ar": "سيرك، بين الأسود والنمور"
+      },
+      {
+        "en": "A ship",
+        "ar": "سفينة"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"Qalb El-Asad\" (2013) follows a kidnapped child raised in a circus among lions and tigers.",
     "explanation_ar": "فيلم قلب الأسد سنة 2013 بيحكي عن طفل مخطوف اتربى في سيرك بين الأسود والنمور."
   },
@@ -422,12 +698,24 @@
     "question_en": "Actor Khaled El Nabawy is a leading figure in which country's cinema?",
     "question_ar": "الفنان خالد النبوي من كبار نجوم سينما إيه بلد؟",
     "options": [
-      { "en": "Egypt", "ar": "مصر" },
-      { "en": "Sudan", "ar": "السودان" },
-      { "en": "Jordan", "ar": "الأردن" },
-      { "en": "Iraq", "ar": "العراق" }
+      {
+        "en": "Sudan",
+        "ar": "السودان"
+      },
+      {
+        "en": "Iraq",
+        "ar": "العراق"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Khaled El Nabawy is a prominent Egyptian actor with international roles too.",
     "explanation_ar": "خالد النبوي فنان مصري كبير له أدوار عالمية كمان."
   },
@@ -440,12 +728,24 @@
     "question_en": "The Netflix Egyptian hit \"El Khaleya\" (The Cell) follows a special forces unit fighting which threat?",
     "question_ar": "فيلم نتفليكس المصري \"الخلية\" بيحكي عن قوات خاصة بتحارب إيه تهديد؟",
     "options": [
-      { "en": "Terrorism", "ar": "الإرهاب" },
-      { "en": "Drug cartels", "ar": "عصابات المخدرات" },
-      { "en": "Human trafficking", "ar": "الاتجار بالبشر" },
-      { "en": "Cybercrime", "ar": "الجرائم الإلكترونية" }
+      {
+        "en": "Drug cartels",
+        "ar": "عصابات المخدرات"
+      },
+      {
+        "en": "Human trafficking",
+        "ar": "الاتجار بالبشر"
+      },
+      {
+        "en": "Cybercrime",
+        "ar": "الجرائم الإلكترونية"
+      },
+      {
+        "en": "Terrorism",
+        "ar": "الإرهاب"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"El Khaleya\" centers on an anti-terrorism special forces unit.",
     "explanation_ar": "فيلم الخلية بيحكي عن قوات خاصة بتحارب الإرهاب."
   },
@@ -458,12 +758,24 @@
     "question_en": "\"The Godfather\" is based on a novel by which author?",
     "question_ar": "فيلم \"ذا جودفاذر\" مأخوذ عن رواية لمين؟",
     "options": [
-      { "en": "Stephen King", "ar": "ستيفن كينج" },
-      { "en": "Mario Puzo", "ar": "ماريو بوزو" },
-      { "en": "John Grisham", "ar": "جون جريشام" },
-      { "en": "Ernest Hemingway", "ar": "إرنست همنجواي" }
+      {
+        "en": "Stephen King",
+        "ar": "ستيفن كينج"
+      },
+      {
+        "en": "Ernest Hemingway",
+        "ar": "إرنست همنجواي"
+      },
+      {
+        "en": "Mario Puzo",
+        "ar": "ماريو بوزو"
+      },
+      {
+        "en": "John Grisham",
+        "ar": "جون جريشام"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "\"The Godfather\" is based on Mario Puzo's novel of the same name.",
     "explanation_ar": "فيلم ذا جودفاذر مأخوذ عن رواية ماريو بوزو بنفس الاسم."
   },
@@ -476,12 +788,24 @@
     "question_en": "Which Egyptian Netflix film became one of the platform's most-watched Arabic titles after its 2023 release?",
     "question_ar": "إيه الفيلم المصري في نتفليكس اللي بقى من أكتر الأفلام العربية مشاهدة بعد ما اتعرض سنة 2023؟",
     "options": [
-      { "en": "Ashab Wala Aazz", "ar": "أصحاب ولا أعز" },
-      { "en": "Kira & El Gin", "ar": "كيرة والجن" },
-      { "en": "El Khaleya", "ar": "الخلية" },
-      { "en": "El Kenz", "ar": "الكنز" }
+      {
+        "en": "El Kenz",
+        "ar": "الكنز"
+      },
+      {
+        "en": "El Khaleya",
+        "ar": "الخلية"
+      },
+      {
+        "en": "Kira & El Gin",
+        "ar": "كيرة والجن"
+      },
+      {
+        "en": "Ashab Wala Aazz",
+        "ar": "أصحاب ولا أعز"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Ashab Wala Aazz\" became one of Netflix's most-watched Arabic titles after its 2023 release.",
     "explanation_ar": "فيلم أصحاب ولا أعز بقى من أكتر الأفلام العربية مشاهدة في نتفليكس بعد عرضه سنة 2023."
   },
@@ -494,12 +818,24 @@
     "question_en": "Which actor played the young wizard Harry in all eight \"Harry Potter\" films?",
     "question_ar": "مين اللي مثل الساحر الصغير هاري في الأفلام التمانية بتوع \"هاري بوتر\"؟",
     "options": [
-      { "en": "Matthew Lewis", "ar": "ماثيو لويس" },
-      { "en": "Tom Felton", "ar": "توم فيلتون" },
-      { "en": "Rupert Grint", "ar": "روبرت جرينت" },
-      { "en": "Daniel Radcliffe", "ar": "دانيال رادكليف" }
+      {
+        "en": "Daniel Radcliffe",
+        "ar": "دانيال رادكليف"
+      },
+      {
+        "en": "Rupert Grint",
+        "ar": "روبرت جرينت"
+      },
+      {
+        "en": "Tom Felton",
+        "ar": "توم فيلتون"
+      },
+      {
+        "en": "Matthew Lewis",
+        "ar": "ماثيو لويس"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Daniel Radcliffe played Harry Potter throughout the series.",
     "explanation_ar": "دانيال رادكليف مثل شخصية هاري بوتر في كل الأفلام."
   },
@@ -512,12 +848,24 @@
     "question_en": "Which director made \"The Lord of the Rings\" trilogy?",
     "question_ar": "مين المخرج اللي عمل ثلاثية \"سيد الخواتم\"؟",
     "options": [
-      { "en": "James Cameron", "ar": "جيمس كاميرون" },
-      { "en": "Peter Jackson", "ar": "بيتر جاكسون" },
-      { "en": "Ridley Scott", "ar": "ريدلي سكوت" },
-      { "en": "Tim Burton", "ar": "تيم بيرتون" }
+      {
+        "en": "Peter Jackson",
+        "ar": "بيتر جاكسون"
+      },
+      {
+        "en": "James Cameron",
+        "ar": "جيمس كاميرون"
+      },
+      {
+        "en": "Ridley Scott",
+        "ar": "ريدلي سكوت"
+      },
+      {
+        "en": "Tim Burton",
+        "ar": "تيم بيرتون"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Peter Jackson directed \"The Lord of the Rings\" trilogy.",
     "explanation_ar": "بيتر جاكسون أخرج ثلاثية سيد الخواتم."
   },
@@ -530,12 +878,24 @@
     "question_en": "Karim Abdel Aziz's comedy \"Ramadan Mabrouk Abul Alamein Hamouda\" follows a poor man who suddenly becomes what?",
     "question_ar": "فيلم \"رمضان مبروك أبو العلمين حمودة\" بطولة كريم عبدالعزيز بيحكي عن راجل فقير بيتحول فجأة لإيه؟",
     "options": [
-      { "en": "A millionaire", "ar": "مليونير" },
-      { "en": "A movie star", "ar": "نجم سينما" },
-      { "en": "A politician", "ar": "سياسي" },
-      { "en": "A king", "ar": "ملك" }
+      {
+        "en": "A politician",
+        "ar": "سياسي"
+      },
+      {
+        "en": "A movie star",
+        "ar": "نجم سينما"
+      },
+      {
+        "en": "A millionaire",
+        "ar": "مليونير"
+      },
+      {
+        "en": "A king",
+        "ar": "ملك"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The comedy follows a poor man who suddenly inherits a fortune and becomes a millionaire.",
     "explanation_ar": "الفيلم بيحكي عن راجل فقير بيرث فلوس فجأة وبيبقى مليونير."
   },
@@ -548,10 +908,22 @@
     "question_en": "In \"Men in Black\", what do agents J and K hunt on Earth?",
     "question_ar": "في فيلم \"مين إن بلاك\"، العملاء بيطاردوا إيه على الأرض؟",
     "options": [
-      { "en": "Aliens", "ar": "كائنات فضائية" },
-      { "en": "Robots", "ar": "روبوتات" },
-      { "en": "Spies", "ar": "جواسيس" },
-      { "en": "Ghosts", "ar": "أشباح" }
+      {
+        "en": "Aliens",
+        "ar": "كائنات فضائية"
+      },
+      {
+        "en": "Robots",
+        "ar": "روبوتات"
+      },
+      {
+        "en": "Ghosts",
+        "ar": "أشباح"
+      },
+      {
+        "en": "Spies",
+        "ar": "جواسيس"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Agents J and K secretly monitor aliens living on Earth.",
@@ -566,12 +938,24 @@
     "question_en": "Who directed Christopher Nolan's Batman trilogy, starting with \"Batman Begins\"?",
     "question_ar": "مين مخرج ثلاثية باتمان اللي بدأت بفيلم \"باتمان بيجينز\"؟",
     "options": [
-      { "en": "Tim Burton", "ar": "تيم بيرتون" },
-      { "en": "Christopher Nolan", "ar": "كريستوفر نولان" },
-      { "en": "Matt Reeves", "ar": "مات ريفز" },
-      { "en": "Zack Snyder", "ar": "زاك سنايدر" }
+      {
+        "en": "Christopher Nolan",
+        "ar": "كريستوفر نولان"
+      },
+      {
+        "en": "Tim Burton",
+        "ar": "تيم بيرتون"
+      },
+      {
+        "en": "Zack Snyder",
+        "ar": "زاك سنايدر"
+      },
+      {
+        "en": "Matt Reeves",
+        "ar": "مات ريفز"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Christopher Nolan directed the Dark Knight trilogy.",
     "explanation_ar": "كريستوفر نولان أخرج ثلاثية باتمان الشهيرة."
   },
@@ -584,10 +968,22 @@
     "question_en": "In Pixar's \"Up\", what does the old man use to fly his house away?",
     "question_ar": "في فيلم \"أب\" لبيكسار، الراجل العجوز بيستخدم إيه عشان يطير ببيته؟",
     "options": [
-      { "en": "Wings", "ar": "جناحين" },
-      { "en": "A helicopter", "ar": "هليكوبتر" },
-      { "en": "Balloons", "ar": "بالونات" },
-      { "en": "A rocket", "ar": "صاروخ" }
+      {
+        "en": "A rocket",
+        "ar": "صاروخ"
+      },
+      {
+        "en": "Wings",
+        "ar": "جناحين"
+      },
+      {
+        "en": "Balloons",
+        "ar": "بالونات"
+      },
+      {
+        "en": "A helicopter",
+        "ar": "هليكوبتر"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Thousands of balloons lift his house into the sky.",
@@ -602,12 +998,24 @@
     "question_en": "Who created the \"Star Wars\" franchise?",
     "question_ar": "مين اللي عمل سلسلة \"ستار وورز\"؟",
     "options": [
-      { "en": "J.J. Abrams", "ar": "جيه جيه أبرامز" },
-      { "en": "James Cameron", "ar": "جيمس كاميرون" },
-      { "en": "Steven Spielberg", "ar": "ستيفن سبيلبرج" },
-      { "en": "George Lucas", "ar": "جورج لوكاس" }
+      {
+        "en": "George Lucas",
+        "ar": "جورج لوكاس"
+      },
+      {
+        "en": "Steven Spielberg",
+        "ar": "ستيفن سبيلبرج"
+      },
+      {
+        "en": "J.J. Abrams",
+        "ar": "جيه جيه أبرامز"
+      },
+      {
+        "en": "James Cameron",
+        "ar": "جيمس كاميرون"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "George Lucas created \"Star Wars\" in 1977.",
     "explanation_ar": "جورج لوكاس عمل ستار وورز سنة 1977."
   },
@@ -620,10 +1028,22 @@
     "question_en": "In Marvel's \"Black Panther\", T'Challa is king of which fictional nation?",
     "question_ar": "في فيلم \"بلاك بانثر\"، تشالا ملك إيه بلد خيالية؟",
     "options": [
-      { "en": "Sokovia", "ar": "سوكوفيا" },
-      { "en": "Wakanda", "ar": "واكاندا" },
-      { "en": "Genosha", "ar": "جينوشا" },
-      { "en": "Latveria", "ar": "لاتفيريا" }
+      {
+        "en": "Latveria",
+        "ar": "لاتفيريا"
+      },
+      {
+        "en": "Wakanda",
+        "ar": "واكاندا"
+      },
+      {
+        "en": "Sokovia",
+        "ar": "سوكوفيا"
+      },
+      {
+        "en": "Genosha",
+        "ar": "جينوشا"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "T'Challa rules the fictional nation of Wakanda.",
@@ -638,12 +1058,24 @@
     "question_en": "Which actor plays Nick Fury, who assembles the Avengers?",
     "question_ar": "مين اللي بيمثل دور نيك فيوري اللي بيجمع فريق الأفينجرز؟",
     "options": [
-      { "en": "Anthony Mackie", "ar": "أنتوني ماكي" },
-      { "en": "Samuel L. Jackson", "ar": "صامويل إل جاكسون" },
-      { "en": "Idris Elba", "ar": "إدريس إلبا" },
-      { "en": "Don Cheadle", "ar": "دون تشيدل" }
+      {
+        "en": "Idris Elba",
+        "ar": "إدريس إلبا"
+      },
+      {
+        "en": "Don Cheadle",
+        "ar": "دون تشيدل"
+      },
+      {
+        "en": "Anthony Mackie",
+        "ar": "أنتوني ماكي"
+      },
+      {
+        "en": "Samuel L. Jackson",
+        "ar": "صامويل إل جاكسون"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Samuel L. Jackson plays Nick Fury throughout the Marvel films.",
     "explanation_ar": "صامويل إل جاكسون بيمثل دور نيك فيوري في أفلام مارفل."
   },
@@ -656,12 +1088,24 @@
     "question_en": "Which actress voices Elsa in Disney's \"Frozen\"?",
     "question_ar": "مين اللي بتلعب صوت إلسا في فيلم \"فروزن\"؟",
     "options": [
-      { "en": "Idina Menzel", "ar": "إيدينا مينزل" },
-      { "en": "Demi Lovato", "ar": "ديمي لوفاتو" },
-      { "en": "Kristen Bell", "ar": "كريستين بيل" },
-      { "en": "Anna Kendrick", "ar": "آنا كيندريك" }
+      {
+        "en": "Demi Lovato",
+        "ar": "ديمي لوفاتو"
+      },
+      {
+        "en": "Kristen Bell",
+        "ar": "كريستين بيل"
+      },
+      {
+        "en": "Idina Menzel",
+        "ar": "إيدينا مينزل"
+      },
+      {
+        "en": "Anna Kendrick",
+        "ar": "آنا كيندريك"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Idina Menzel voices Elsa in \"Frozen\".",
     "explanation_ar": "إيدينا مينزل هي صوت إلسا في فروزن."
   },
@@ -674,12 +1118,24 @@
     "question_en": "Which Egyptian actor headlines the hit comedy \"Zaki Chan\", spoofing kung-fu action films?",
     "question_ar": "مين النجم المصري بطل فيلم \"زكي شان\" الكوميدي اللي بيسخر من أفلام الكونج فو؟",
     "options": [
-      { "en": "Ahmed Helmy", "ar": "أحمد حلمي" },
-      { "en": "Mohamed Henedy", "ar": "محمد هنيدي" },
-      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" },
-      { "en": "Ahmed El Sakka", "ar": "أحمد السقا" }
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبدالعزيز"
+      },
+      {
+        "en": "Mohamed Henedy",
+        "ar": "محمد هنيدي"
+      },
+      {
+        "en": "Ahmed Helmy",
+        "ar": "أحمد حلمي"
+      },
+      {
+        "en": "Ahmed El Sakka",
+        "ar": "أحمد السقا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Ahmed Helmy stars in \"Zaki Chan\" (2005), spoofing kung-fu films.",
     "explanation_ar": "أحمد حلمي بطل فيلم زكي شان سنة 2005 اللي بيسخر من أفلام الكونج فو."
   },
@@ -692,12 +1148,24 @@
     "question_en": "Tom Cruise plays agent Ethan Hunt in which spy franchise?",
     "question_ar": "توم كروز بيمثل دور العميل إيثان هانت في إيه سلسلة أفلام جاسوسية؟",
     "options": [
-      { "en": "The Bourne series", "ar": "سلسلة بورن" },
-      { "en": "James Bond", "ar": "جيمس بوند" },
-      { "en": "Mission: Impossible", "ar": "مهمة مستحيلة" },
-      { "en": "Kingsman", "ar": "كينجزمان" }
+      {
+        "en": "Mission: Impossible",
+        "ar": "مهمة مستحيلة"
+      },
+      {
+        "en": "The Bourne series",
+        "ar": "سلسلة بورن"
+      },
+      {
+        "en": "James Bond",
+        "ar": "جيمس بوند"
+      },
+      {
+        "en": "Kingsman",
+        "ar": "كينجزمان"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Tom Cruise plays Ethan Hunt in \"Mission: Impossible\".",
     "explanation_ar": "توم كروز بيمثل دور إيثان هانت في مهمة مستحيلة."
   },
@@ -710,12 +1178,24 @@
     "question_en": "Haifa Wehbe's \"Halawet Rooh\" caused controversy in Egypt over what?",
     "question_ar": "فيلم \"حلاوة روح\" بطولة هيفاء وهبي عمل جدل في مصر بسبب إيه؟",
     "options": [
-      { "en": "Scenes seen as too bold", "ar": "مشاهد اتشافت جريئة زيادة" },
-      { "en": "Its political content", "ar": "محتواه السياسي" },
-      { "en": "Its religious references", "ar": "إشاراته الدينية" },
-      { "en": "Its violent scenes", "ar": "مشاهده العنيفة" }
+      {
+        "en": "Its religious references",
+        "ar": "إشاراته الدينية"
+      },
+      {
+        "en": "Its political content",
+        "ar": "محتواه السياسي"
+      },
+      {
+        "en": "Scenes seen as too bold",
+        "ar": "مشاهد اتشافت جريئة زيادة"
+      },
+      {
+        "en": "Its violent scenes",
+        "ar": "مشاهده العنيفة"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"Halawet Rooh\" faced controversy in Egypt over scenes considered too bold.",
     "explanation_ar": "فيلم حلاوة روح عمل جدل في مصر بسبب مشاهد اتشافت جريئة."
   },
@@ -725,17 +1205,29 @@
     "category_ar": "افلام",
     "value": 20,
     "difficulty": 2,
-    "question_en": "Which Egyptian actress plays the female lead alongside Fathy Abdel Wahab in \"El Khaleya\" (The Cell)?",
-    "question_ar": "مين النجمة المصرية اللي بتمثل البطولة النسائية مع فتحي عبدالوهاب في فيلم \"الخلية\"؟",
+    "question_en": "Which Egyptian actress plays a key role alongside Ahmed Ezz in \"El Khaleya\" (The Cell)?",
+    "question_ar": "مين النجمة المصرية اللي بتمثل دور أساسي مع أحمد عز في فيلم \"الخلية\"؟",
     "options": [
-      { "en": "Amina Khalil", "ar": "أمينة خليل" },
-      { "en": "Yasmin Raeis", "ar": "ياسمين رئيس" },
-      { "en": "Menna Shalaby", "ar": "منة شلبي" },
-      { "en": "Nelly Karim", "ar": "نيللي كريم" }
+      {
+        "en": "Menna Shalaby",
+        "ar": "منة شلبي"
+      },
+      {
+        "en": "Yasmin Raeis",
+        "ar": "ياسمين رئيس"
+      },
+      {
+        "en": "Amina Khalil",
+        "ar": "أمينة خليل"
+      },
+      {
+        "en": "Nelly Karim",
+        "ar": "نيللي كريم"
+      }
     ],
-    "correctAnswer": 0,
-    "explanation_en": "Amina Khalil plays the female lead in \"El Khaleya\" (The Cell, 2022).",
-    "explanation_ar": "أمينة خليل بتمثل البطولة النسائية في فيلم الخلية سنة 2022."
+    "correctAnswer": 2,
+    "explanation_en": "Amina Khalil plays a key role in \"El Khaleya\" (The Cell), alongside lead Ahmed Ezz.",
+    "explanation_ar": "أمينة خليل بتمثل دور أساسي في فيلم الخلية مع البطل أحمد عز."
   },
   {
     "id": "MOV-020-042",
@@ -746,10 +1238,22 @@
     "question_en": "Which actor plays Neo in \"The Matrix\"?",
     "question_ar": "مين اللي بيمثل دور نيو في فيلم \"ذا ماتريكس\"؟",
     "options": [
-      { "en": "Brad Pitt", "ar": "براد بيت" },
-      { "en": "Matt Damon", "ar": "مات ديمون" },
-      { "en": "Will Smith", "ar": "ويل سميث" },
-      { "en": "Keanu Reeves", "ar": "كيانو ريفز" }
+      {
+        "en": "Matt Damon",
+        "ar": "مات ديمون"
+      },
+      {
+        "en": "Will Smith",
+        "ar": "ويل سميث"
+      },
+      {
+        "en": "Brad Pitt",
+        "ar": "براد بيت"
+      },
+      {
+        "en": "Keanu Reeves",
+        "ar": "كيانو ريفز"
+      }
     ],
     "correctAnswer": 3,
     "explanation_en": "Keanu Reeves plays Neo in \"The Matrix\".",
@@ -764,12 +1268,24 @@
     "question_en": "Pixar's \"Coco\" is set during which Mexican holiday?",
     "question_ar": "فيلم \"كوكو\" لبيكسار بيدور في إيه احتفال مكسيكي؟",
     "options": [
-      { "en": "Carnival", "ar": "الكرنفال" },
-      { "en": "Day of the Dead", "ar": "يوم الموتى" },
-      { "en": "Independence Day", "ar": "عيد الاستقلال" },
-      { "en": "Cinco de Mayo", "ar": "سينكو دي مايو" }
+      {
+        "en": "Cinco de Mayo",
+        "ar": "سينكو دي مايو"
+      },
+      {
+        "en": "Independence Day",
+        "ar": "عيد الاستقلال"
+      },
+      {
+        "en": "Day of the Dead",
+        "ar": "يوم الموتى"
+      },
+      {
+        "en": "Carnival",
+        "ar": "الكرنفال"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "\"Coco\" is set during Mexico's Day of the Dead.",
     "explanation_ar": "فيلم كوكو بيدور في احتفال يوم الموتى المكسيكي."
   },
@@ -782,12 +1298,24 @@
     "question_en": "Which three actors starred together in the comedy hit \"X-Large\" before more hits together?",
     "question_ar": "مين التلات ممثلين اللي جمعهم فيلم \"إكس لارج\" الكوميدي قبل ما يشتغلوا مع بعض في أفلام تانية كتير؟",
     "options": [
-      { "en": "Hisham Maged, Ahmed Fahmy & Akram Hosny", "ar": "هشام ماجد وأحمد فهمي وأكرم حسني" },
-      { "en": "Ahmed Helmy, Henedy & Ramzy", "ar": "أحمد حلمي وهنيدي ورمزي" },
-      { "en": "Bayoumi Fouad, Ali Rabie & Chico", "ar": "بيومي فؤاد وعلي ربيع وشيكو" },
-      { "en": "Mohamed Saad, Ahmed Eid & Akram Hosny", "ar": "محمد سعد وأحمد عيد وأكرم حسني" }
+      {
+        "en": "Bayoumi Fouad, Ali Rabie & Chico",
+        "ar": "بيومي فؤاد وعلي ربيع وشيكو"
+      },
+      {
+        "en": "Ahmed Helmy, Henedy & Ramzy",
+        "ar": "أحمد حلمي وهنيدي ورمزي"
+      },
+      {
+        "en": "Hisham Maged, Ahmed Fahmy & Akram Hosny",
+        "ar": "هشام ماجد وأحمد فهمي وأكرم حسني"
+      },
+      {
+        "en": "Mohamed Saad, Ahmed Eid & Akram Hosny",
+        "ar": "محمد سعد وأحمد عيد وأكرم حسني"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Hisham Maged, Ahmed Fahmy and Akram Hosny starred together in \"X-Large\" (2011) and later hits.",
     "explanation_ar": "هشام ماجد وأحمد فهمي وأكرم حسني جمعهم فيلم إكس لارج سنة 2011 وأفلام تانية كتير بعدها."
   },
@@ -800,12 +1328,24 @@
     "question_en": "Which actor plays Aquaman, the king of Atlantis?",
     "question_ar": "مين اللي بيمثل دور أكوامان ملك أتلانتس؟",
     "options": [
-      { "en": "Jason Momoa", "ar": "جيسون موموا" },
-      { "en": "Ezra Miller", "ar": "إزرا ميلر" },
-      { "en": "Ben Affleck", "ar": "بن أفليك" },
-      { "en": "Henry Cavill", "ar": "هنري كافيل" }
+      {
+        "en": "Ezra Miller",
+        "ar": "إزرا ميلر"
+      },
+      {
+        "en": "Henry Cavill",
+        "ar": "هنري كافيل"
+      },
+      {
+        "en": "Ben Affleck",
+        "ar": "بن أفليك"
+      },
+      {
+        "en": "Jason Momoa",
+        "ar": "جيسون موموا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Jason Momoa plays Aquaman in the DC films.",
     "explanation_ar": "جيسون موموا بيمثل دور أكوامان في أفلام دي سي."
   },
@@ -818,10 +1358,22 @@
     "question_en": "The Netflix hit \"El Khaleya\" (The Cell) is mainly set in which Egyptian city?",
     "question_ar": "فيلم نتفليكس \"الخلية\" بيدور في معظمه في إيه مدينة مصرية؟",
     "options": [
-      { "en": "Alexandria", "ar": "الإسكندرية" },
-      { "en": "Cairo", "ar": "القاهرة" },
-      { "en": "Luxor", "ar": "الأقصر" },
-      { "en": "Sharm El Sheikh", "ar": "شرم الشيخ" }
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      {
+        "en": "Sharm El Sheikh",
+        "ar": "شرم الشيخ"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "\"El Khaleya\" is mainly set in Cairo.",
@@ -836,12 +1388,24 @@
     "question_en": "Which actor plays Mona Zaki's husband, the dinner party's host, in \"Ashab Wala Aazz\"?",
     "question_ar": "مين الممثل اللي بيمثل دور جوز منى زكي، صاحب العزومة، في فيلم \"أصحاب ولا أعز\"؟",
     "options": [
-      { "en": "Eyad Nassar", "ar": "إياد نصار" },
-      { "en": "Ahmed Dawood", "ar": "أحمد داوود" },
-      { "en": "Mohamed Farrag", "ar": "محمد فراج" },
-      { "en": "Khaled El Sawy", "ar": "خالد الصاوي" }
+      {
+        "en": "Khaled El Sawy",
+        "ar": "خالد الصاوي"
+      },
+      {
+        "en": "Mohamed Farrag",
+        "ar": "محمد فراج"
+      },
+      {
+        "en": "Eyad Nassar",
+        "ar": "إياد نصار"
+      },
+      {
+        "en": "Ahmed Dawood",
+        "ar": "أحمد داوود"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Eyad Nassar plays the host husband opposite Mona Zaki in \"Ashab Wala Aazz\".",
     "explanation_ar": "إياد نصار بيمثل دور جوز منى زكي صاحب العزومة في فيلم أصحاب ولا أعز."
   },
@@ -854,12 +1418,24 @@
     "question_en": "Who plays Katniss Everdeen in \"The Hunger Games\" films?",
     "question_ar": "مين اللي بتمثل دور كاتنيس إيفردين في أفلام \"ذا هانجر جيمز\"؟",
     "options": [
-      { "en": "Shailene Woodley", "ar": "شايلين وودلي" },
-      { "en": "Jennifer Lawrence", "ar": "جينيفر لورانس" },
-      { "en": "Kristen Stewart", "ar": "كريستين ستيوارت" },
-      { "en": "Emma Watson", "ar": "إيما واتسون" }
+      {
+        "en": "Jennifer Lawrence",
+        "ar": "جينيفر لورانس"
+      },
+      {
+        "en": "Emma Watson",
+        "ar": "إيما واتسون"
+      },
+      {
+        "en": "Shailene Woodley",
+        "ar": "شايلين وودلي"
+      },
+      {
+        "en": "Kristen Stewart",
+        "ar": "كريستين ستيوارت"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Jennifer Lawrence plays Katniss Everdeen.",
     "explanation_ar": "جينيفر لورانس بتمثل دور كاتنيس إيفردين."
   },
@@ -872,12 +1448,24 @@
     "question_en": "The Egyptian action film \"El Khaleya\" (The Cell) was released as an original on which streaming platform?",
     "question_ar": "فيلم \"الخلية\" المصري اتعرض كإنتاج أصلي على إيه منصة؟",
     "options": [
-      { "en": "Netflix", "ar": "نتفليكس" },
-      { "en": "Shahid", "ar": "شاهد" },
-      { "en": "Watch It", "ar": "واتش إت" },
-      { "en": "Amazon Prime", "ar": "أمازون برايم" }
+      {
+        "en": "Watch It",
+        "ar": "واتش إت"
+      },
+      {
+        "en": "Netflix",
+        "ar": "نتفليكس"
+      },
+      {
+        "en": "Shahid",
+        "ar": "شاهد"
+      },
+      {
+        "en": "Amazon Prime",
+        "ar": "أمازون برايم"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "\"El Khaleya\" (The Cell) was released as a Netflix original.",
     "explanation_ar": "فيلم الخلية اتعرض كإنتاج أصلي لنتفليكس."
   },
@@ -890,10 +1478,22 @@
     "question_en": "Which Egyptian star's huge social-media following grew alongside his fame from \"El Prince\"?",
     "question_ar": "مين النجم المصري اللي متابعينه على السوشيال ميديا زادوا جدًا مع شهرته من فيلم \"البرنس\"؟",
     "options": [
-      { "en": "Mohamed Ramadan", "ar": "محمد رمضان" },
-      { "en": "Ahmed El Sakka", "ar": "أحمد السقا" },
-      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" },
-      { "en": "Amr Youssef", "ar": "عمرو يوسف" }
+      {
+        "en": "Mohamed Ramadan",
+        "ar": "محمد رمضان"
+      },
+      {
+        "en": "Ahmed El Sakka",
+        "ar": "أحمد السقا"
+      },
+      {
+        "en": "Amr Youssef",
+        "ar": "عمرو يوسف"
+      },
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبدالعزيز"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Mohamed Ramadan's social-media fame grew alongside his stardom from \"El Prince\".",
