@@ -8,22 +8,10 @@
     "question_en": "As of recent years, how many times has an Egyptian film been nominated for the Oscar for Best International Feature Film?",
     "question_ar": "لحد دلوقتي، فيلم مصري اترشح كام مرة لأوسكار أفضل فيلم دولي؟",
     "options": [
-      {
-        "en": "Twice",
-        "ar": "مرتين"
-      },
-      {
-        "en": "Five times",
-        "ar": "خمس مرات"
-      },
-      {
-        "en": "Zero times",
-        "ar": "ولا مرة"
-      },
-      {
-        "en": "Once",
-        "ar": "مرة واحدة"
-      }
+      { "en": "Twice", "ar": "مرتين" },
+      { "en": "Five times", "ar": "خمس مرات" },
+      { "en": "Zero times", "ar": "ولا مرة" },
+      { "en": "Once", "ar": "مرة واحدة" }
     ],
     "correctAnswer": 2,
     "explanation_en": "Despite submitting many films over the decades, Egypt has never received a nomination in this category.",
@@ -36,29 +24,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Arab country's film \"Z\" won the Oscar for Best Foreign Language Film in 1969?",
-    "question_ar": "فيلم \"زد\" بتاع إيه دولة عربية كسب أوسكار أفضل فيلم أجنبي سنة 1969؟",
+    "question_en": "Ahmed Zaki portrayed President Gamal Abdel Nasser in which 1996 biopic?",
+    "question_ar": "أحمد زكي جسد شخصية الرئيس جمال عبدالناصر في إيه فيلم سيرة ذاتية سنة 1996؟",
     "options": [
-      {
-        "en": "Egypt",
-        "ar": "مصر"
-      },
-      {
-        "en": "Tunisia",
-        "ar": "تونس"
-      },
-      {
-        "en": "Morocco",
-        "ar": "المغرب"
-      },
-      {
-        "en": "Algeria",
-        "ar": "الجزائر"
-      }
+      { "en": "Ayam El Sadat", "ar": "أيام السادات" },
+      { "en": "Nasser 56", "ar": "ناصر 56" },
+      { "en": "Halim", "ar": "حليم" },
+      { "en": "Al-Karnak", "ar": "الكرنك" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "\"Z\", Algeria's entry directed by Costa-Gavras, won Best Foreign Language Film.",
-    "explanation_ar": "فيلم زد، ترشيح الجزائر بإخراج كوستا جافراس، كسب أوسكار أفضل فيلم أجنبي."
+    "correctAnswer": 1,
+    "explanation_en": "Ahmed Zaki played Gamal Abdel Nasser in \"Nasser 56\" (1996).",
+    "explanation_ar": "أحمد زكي جسد شخصية جمال عبدالناصر في فيلم ناصر 56 سنة 1996."
   },
   {
     "id": "MOV-100-003",
@@ -66,29 +42,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Jordan's 2015 film \"Theeb\", about a Bedouin boy during the Arab Revolt, was nominated for which Oscar category?",
-    "question_ar": "فيلم \"ذيب\" الأردني سنة 2015، عن ولد بدوي وقت الثورة العربية، اترشح لإيه فئة أوسكار؟",
+    "question_en": "Ahmed Zaki also portrayed President Anwar Sadat in which 2001 film?",
+    "question_ar": "أحمد زكي جسد كمان شخصية الرئيس أنور السادات في إيه فيلم سنة 2001؟",
     "options": [
-      {
-        "en": "Best Original Screenplay",
-        "ar": "أفضل سيناريو أصلي"
-      },
-      {
-        "en": "Best Foreign Language Film",
-        "ar": "أفضل فيلم أجنبي"
-      },
-      {
-        "en": "Best Cinematography",
-        "ar": "أفضل تصوير"
-      },
-      {
-        "en": "Best Animated Film",
-        "ar": "أفضل فيلم رسوم متحركة"
-      }
+      { "en": "Nasser 56", "ar": "ناصر 56" },
+      { "en": "Ayam El Sadat", "ar": "أيام السادات" },
+      { "en": "Halim", "ar": "حليم" },
+      { "en": "Ibrahim El Abyad", "ar": "إبراهيم الأبيض" }
     ],
     "correctAnswer": 1,
-    "explanation_en": "\"Theeb\" was nominated for Best Foreign Language Film.",
-    "explanation_ar": "فيلم ذيب اترشح لأفضل فيلم أجنبي."
+    "explanation_en": "Ahmed Zaki played Anwar Sadat in \"Ayam El Sadat\" (2001).",
+    "explanation_ar": "أحمد زكي جسد شخصية أنور السادات في فيلم أيام السادات سنة 2001."
   },
   {
     "id": "MOV-100-004",
@@ -99,22 +63,10 @@
     "question_en": "Lebanese director Nadine Labaki's Oscar-nominated film \"Capernaum\" (2018) follows a boy who does what?",
     "question_ar": "فيلم المخرجة اللبنانية ناردين لبكي \"كفرناحوم\" سنة 2018 اللي اترشح للأوسكار بيحكي عن ولد بيعمل إيه؟",
     "options": [
-      {
-        "en": "Runs away to join the circus",
-        "ar": "بيهرب يشتغل في السيرك"
-      },
-      {
-        "en": "Becomes a street performer",
-        "ar": "بيبقى فنان شارع"
-      },
-      {
-        "en": "Searches for a lost sibling abroad",
-        "ar": "بيدور على أخوه الضايع بره البلد"
-      },
-      {
-        "en": "Sues his own parents",
-        "ar": "بيرفع قضية على أهله"
-      }
+      { "en": "Runs away to join the circus", "ar": "بيهرب يشتغل في السيرك" },
+      { "en": "Becomes a street performer", "ar": "بيبقى فنان شارع" },
+      { "en": "Searches for a lost sibling abroad", "ar": "بيدور على أخوه الضايع بره البلد" },
+      { "en": "Sues his own parents", "ar": "بيرفع قضية على أهله" }
     ],
     "correctAnswer": 3,
     "explanation_en": "The boy sues his parents for giving him life without being able to care for him.",
@@ -126,29 +78,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Classic comedy legend Naguib El Rihani, the father of modern Egyptian comic theatre, is famous for which recurring character?",
-    "question_ar": "نجيب الريحاني، أبو الكوميديا المسرحية المصرية الحديثة، اشتهر بإيه شخصية متكررة؟",
+    "question_en": "By common estimates, Adel Imam has appeared in roughly how many films over his career?",
+    "question_ar": "بحسب التقديرات المتداولة، عادل إمام مثل تقريبًا كام فيلم على مدار مسيرته؟",
     "options": [
-      {
-        "en": "Sheikh Hosni",
-        "ar": "الشيخ حسني"
-      },
-      {
-        "en": "Abu El Ela",
-        "ar": "أبو العلا"
-      },
-      {
-        "en": "Kish Kish Bey",
-        "ar": "كشكش بيه"
-      },
-      {
-        "en": "El Limby",
-        "ar": "اللمبي"
-      }
+      { "en": "Over 100", "ar": "أكتر من 100" },
+      { "en": "Around 20", "ar": "حوالي 20" },
+      { "en": "Around 40", "ar": "حوالي 40" },
+      { "en": "Around 60", "ar": "حوالي 60" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Naguib El Rihani created the beloved recurring character \"Kish Kish Bey\".",
-    "explanation_ar": "نجيب الريحاني ابتكر شخصية كشكش بيه المحبوبة."
+    "correctAnswer": 0,
+    "explanation_en": "Adel Imam is commonly cited as having appeared in more than 100 films.",
+    "explanation_ar": "عادل إمام بيتقال عنه عادة إنه مثل أكتر من 100 فيلم."
   },
   {
     "id": "MOV-100-006",
@@ -156,29 +96,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Naguib El Rihani starred in which classic 1949 comedy alongside singer Layla Mourad?",
-    "question_ar": "نجيب الريحاني مثل إيه فيلم كوميدي كلاسيكي سنة 1949 مع المطربة ليلى مراد؟",
+    "question_en": "Before becoming Egypt's top box-office star, Adel Imam had an early supporting role in which Youssef Chahine classic?",
+    "question_ar": "قبل ما يبقى نجم الشباك الأول في مصر، عادل إمام مثل دور مساعد صغير في إيه فيلم كلاسيكي ليوسف شاهين؟",
     "options": [
-      {
-        "en": "Ghazal El Banat",
-        "ar": "غزل البنات"
-      },
-      {
-        "en": "Wedad",
-        "ar": "وداد"
-      },
-      {
-        "en": "Fatma",
-        "ar": "فاطمة"
-      },
-      {
-        "en": "Layla",
-        "ar": "ليلى"
-      }
+      { "en": "Bab El Hadid", "ar": "باب الحديد" },
+      { "en": "Iskandariya... Leh? (Alexandria... Why?)", "ar": "إسكندرية ليه؟" },
+      { "en": "Al-Ard", "ar": "الأرض" },
+      { "en": "Al-Massir", "ar": "المصير" }
     ],
-    "correctAnswer": 0,
-    "explanation_en": "\"Ghazal El Banat\" (1949) starred Naguib El Rihani and Layla Mourad.",
-    "explanation_ar": "فيلم غزل البنات سنة 1949 جمع نجيب الريحاني وليلى مراد."
+    "correctAnswer": 1,
+    "explanation_en": "Adel Imam had an early supporting role in Chahine's \"Iskandariya... Leh?\" (1979).",
+    "explanation_ar": "عادل إمام مثل دور مساعد صغير في فيلم يوسف شاهين إسكندرية ليه؟ سنة 1979."
   },
   {
     "id": "MOV-100-007",
@@ -186,29 +114,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian director, known for tense thrillers, was nicknamed \"Egypt's Hitchcock\"?",
-    "question_ar": "مين المخرج المصري اللي اتلقب بـ\"هيتشكوك مصر\" بسبب أفلامه المشوقة؟",
+    "question_en": "Which director has made hit adaptations of novels by both Ahmed Mourad (\"El Feel El Azraq\") and Alaa Al Aswany (\"The Yacoubian Building\")?",
+    "question_ar": "مين المخرج اللي عمل أفلام ناجحة من روايات أحمد مراد (\"الفيل الأزرق\") وعلاء الأسواني (\"عمارة يعقوبيان\")؟",
     "options": [
-      {
-        "en": "Salah Abu Seif",
-        "ar": "صلاح أبو سيف"
-      },
-      {
-        "en": "Kamal El Sheikh",
-        "ar": "كمال الشيخ"
-      },
-      {
-        "en": "Henry Barakat",
-        "ar": "هنري بركات"
-      },
-      {
-        "en": "Hassan El Imam",
-        "ar": "حسن الإمام"
-      }
+      { "en": "Sherif Arafa", "ar": "شريف عرفة" },
+      { "en": "Marwan Hamed", "ar": "مروان حامد" },
+      { "en": "Amr Salama", "ar": "عمرو سلامة" },
+      { "en": "Peter Mimi", "ar": "بيتر ميمي" }
     ],
     "correctAnswer": 1,
-    "explanation_en": "Kamal El Sheikh was nicknamed \"Egypt's Hitchcock\" for his suspense films.",
-    "explanation_ar": "كمال الشيخ اتلقب بهيتشكوك مصر بسبب أفلام التشويق بتاعته."
+    "explanation_en": "Marwan Hamed directed both \"El Feel El Azraq\" and \"The Yacoubian Building\".",
+    "explanation_ar": "مروان حامد أخرج الفيل الأزرق وعمارة يعقوبيان."
   },
   {
     "id": "MOV-100-008",
@@ -216,29 +132,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which director made the acclaimed 1991 film \"Al-Kit Kat\"?",
-    "question_ar": "مين المخرج اللي عمل فيلم \"الكيت كات\" المميز سنة 1991؟",
+    "question_en": "Which director helmed the big 2019 ensemble hit \"El Kenz\" (The Treasure)?",
+    "question_ar": "مين المخرج اللي عمل فيلم \"الكنز\" الجماعي الكبير سنة 2019؟",
     "options": [
-      {
-        "en": "Sherif Arafa",
-        "ar": "شريف عرفة"
-      },
-      {
-        "en": "Khairy Beshara",
-        "ar": "خيري بشارة"
-      },
-      {
-        "en": "Daoud Abdel Sayed",
-        "ar": "داوود عبدالسيد"
-      },
-      {
-        "en": "Mohamed Khan",
-        "ar": "محمد خان"
-      }
+      { "en": "Sherif Arafa", "ar": "شريف عرفة" },
+      { "en": "Marwan Hamed", "ar": "مروان حامد" },
+      { "en": "Wael Ehsan", "ar": "وائل إحسان" },
+      { "en": "Sameh Abdel Aziz", "ar": "سامح عبدالعزيز" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Daoud Abdel Sayed directed \"Al-Kit Kat\" (1991).",
-    "explanation_ar": "داوود عبدالسيد أخرج فيلم الكيت كات سنة 1991."
+    "correctAnswer": 0,
+    "explanation_en": "Sherif Arafa directed \"El Kenz\" (2019).",
+    "explanation_ar": "شريف عرفة أخرج فيلم الكنز سنة 2019."
   },
   {
     "id": "MOV-100-009",
@@ -246,29 +150,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which director made the classic Shadia film \"Shai' Min Al-Khawf\" (Something of Fear), about a village terrorized by a strongman?",
-    "question_ar": "مين المخرج اللي عمل فيلم شادية الكلاسيكي \"شيء من الخوف\" عن قرية بيرعبها فتوة؟",
+    "question_en": "\"Sheikh Jackson\" was submitted as Egypt's entry for the Oscars ceremony held in which year?",
+    "question_ar": "فيلم \"شيخ جاكسون\" اترشح كممثل مصر في حفل الأوسكار اللي اتقام سنة كام؟",
     "options": [
-      {
-        "en": "Kamal El Sheikh",
-        "ar": "كمال الشيخ"
-      },
-      {
-        "en": "Ahmed Badrakhan",
-        "ar": "أحمد بدرخان"
-      },
-      {
-        "en": "Salah Abu Seif",
-        "ar": "صلاح أبو سيف"
-      },
-      {
-        "en": "Hussein Kamal",
-        "ar": "حسين كمال"
-      }
+      { "en": "2018", "ar": "2018" },
+      { "en": "2015", "ar": "2015" },
+      { "en": "2020", "ar": "2020" },
+      { "en": "2012", "ar": "2012" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Hussein Kamal directed \"Shai' Min Al-Khawf\" (1969).",
-    "explanation_ar": "حسين كمال أخرج فيلم شيء من الخوف سنة 1969."
+    "correctAnswer": 0,
+    "explanation_en": "\"Sheikh Jackson\" was Egypt's entry for the 90th Academy Awards, held in 2018.",
+    "explanation_ar": "فيلم شيخ جاكسون كان ترشيح مصر لحفل الأوسكار الـ90 سنة 2018."
   },
   {
     "id": "MOV-100-010",
@@ -279,22 +171,10 @@
     "question_en": "The Cairo International Film Festival, launched in 1976, holds what distinction in Africa and the Arab world?",
     "question_ar": "مهرجان القاهرة السينمائي الدولي، اللي بدأ سنة 1976، عنده إيه ميزة في أفريقيا والعالم العربي؟",
     "options": [
-      {
-        "en": "First 3D film festival",
-        "ar": "أول مهرجان أفلام ثلاثي الأبعاد"
-      },
-      {
-        "en": "Largest cinema audience in the world",
-        "ar": "أكبر جمهور سينما في العالم"
-      },
-      {
-        "en": "Oldest film festival in the region",
-        "ar": "أقدم مهرجان سينمائي في المنطقة"
-      },
-      {
-        "en": "Only festival that awards an Oscar",
-        "ar": "المهرجان الوحيد اللي بيدي أوسكار"
-      }
+      { "en": "First 3D film festival", "ar": "أول مهرجان أفلام ثلاثي الأبعاد" },
+      { "en": "Largest cinema audience in the world", "ar": "أكبر جمهور سينما في العالم" },
+      { "en": "Oldest film festival in the region", "ar": "أقدم مهرجان سينمائي في المنطقة" },
+      { "en": "Only festival that awards an Oscar", "ar": "المهرجان الوحيد اللي بيدي أوسكار" }
     ],
     "correctAnswer": 2,
     "explanation_en": "It is the oldest film festival in Africa and the Arab world.",
@@ -306,29 +186,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Youssef Chahine's 1979 film \"Iskandariya... Leh?\" (Alexandria... Why?) won which award at the Berlin Film Festival?",
-    "question_ar": "فيلم يوسف شاهين \"إسكندرية ليه؟\" سنة 1979 كسب إيه جايزة في مهرجان برلين؟",
+    "question_en": "Which veteran screenwriter wrote the screenplay adaptation of \"The Yacoubian Building\" (2006)?",
+    "question_ar": "مين السيناريست القديم اللي كتب سيناريو فيلم \"عمارة يعقوبيان\" سنة 2006؟",
     "options": [
-      {
-        "en": "Golden Bear",
-        "ar": "الدب الذهبي"
-      },
-      {
-        "en": "Silver Bear Special Jury Prize",
-        "ar": "جايزة لجنة التحكيم الخاصة (الدب الفضي)"
-      },
-      {
-        "en": "Golden Lion",
-        "ar": "الأسد الذهبي"
-      },
-      {
-        "en": "Palme d'Or",
-        "ar": "السعفة الذهبية"
-      }
+      { "en": "Wahid Hamed", "ar": "وحيد حامد" },
+      { "en": "Rafik El Sabban", "ar": "رفيق الصبان" },
+      { "en": "Bashir El Deek", "ar": "بشير الديك" },
+      { "en": "Lenin El-Ramly", "ar": "لينين الرملي" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "The film won the Silver Bear Special Jury Prize at Berlin in 1979.",
-    "explanation_ar": "الفيلم كسب جايزة لجنة التحكيم الخاصة (الدب الفضي) في مهرجان برلين سنة 1979."
+    "correctAnswer": 0,
+    "explanation_en": "Wahid Hamed wrote the screenplay for \"The Yacoubian Building\".",
+    "explanation_ar": "وحيد حامد كتب سيناريو فيلم عمارة يعقوبيان."
   },
   {
     "id": "MOV-100-012",
@@ -336,29 +204,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "The 1959 film \"Ana Horra\" (I Am Free), starring Loubna Abdel Aziz, is based on a novel by which writer?",
-    "question_ar": "فيلم \"أنا حرة\" سنة 1959 بطولة لبنى عبدالعزيز مأخوذ عن رواية لمين؟",
+    "question_en": "Director Marwan Hamed is the son of which famous veteran Egyptian screenwriter?",
+    "question_ar": "المخرج مروان حامد ابن مين من كبار السيناريست المصريين؟",
     "options": [
-      {
-        "en": "Taha Hussein",
-        "ar": "طه حسين"
-      },
-      {
-        "en": "Yusuf Idris",
-        "ar": "يوسف إدريس"
-      },
-      {
-        "en": "Naguib Mahfouz",
-        "ar": "نجيب محفوظ"
-      },
-      {
-        "en": "Ihsan Abdel Quddous",
-        "ar": "إحسان عبدالقدوس"
-      }
+      { "en": "Wahid Hamed", "ar": "وحيد حامد" },
+      { "en": "Lenin El-Ramly", "ar": "لينين الرملي" },
+      { "en": "Osama Anwar Okasha", "ar": "أسامة أنور عكاشة" },
+      { "en": "Rafik El Sabban", "ar": "رفيق الصبان" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "\"Ana Horra\" is based on Ihsan Abdel Quddous's novel.",
-    "explanation_ar": "فيلم أنا حرة مأخوذ عن رواية إحسان عبدالقدوس."
+    "correctAnswer": 0,
+    "explanation_en": "Marwan Hamed is the son of screenwriter Wahid Hamed.",
+    "explanation_ar": "مروان حامد هو ابن السيناريست وحيد حامد."
   },
   {
     "id": "MOV-100-013",
@@ -366,29 +222,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "What was the title of Umm Kulthum's final and most successful film, released in 1947?",
-    "question_ar": "إيه اسم آخر وأنجح فيلم لأم كلثوم، اتعرض سنة 1947؟",
+    "question_en": "The Netflix Egyptian action hit \"El Khaleya\" (The Cell) has been compared in style to which Hollywood spy-thriller franchise?",
+    "question_ar": "فيلم نتفليكس المصري \"الخلية\" اتقارن في أسلوبه بإيه سلسلة أفلام جاسوسية هوليوودية؟",
     "options": [
-      {
-        "en": "Aida",
-        "ar": "عايدة"
-      },
-      {
-        "en": "Dananeer",
-        "ar": "دنانير"
-      },
-      {
-        "en": "Wedad",
-        "ar": "وداد"
-      },
-      {
-        "en": "Fatma",
-        "ar": "فاطمة"
-      }
+      { "en": "James Bond", "ar": "جيمس بوند" },
+      { "en": "Mission: Impossible", "ar": "مهمة مستحيلة" },
+      { "en": "The Bourne series", "ar": "سلسلة بورن" },
+      { "en": "Kingsman", "ar": "كينجزمان" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "\"Fatma\" (1947) was Umm Kulthum's final and most successful film.",
-    "explanation_ar": "فيلم فاطمة سنة 1947 كان آخر وأنجح فيلم لأم كلثوم."
+    "correctAnswer": 1,
+    "explanation_en": "\"El Khaleya\" has been compared to Hollywood's \"Mission: Impossible\" style special-forces thrillers.",
+    "explanation_ar": "فيلم الخلية اتقارن بأسلوب أفلام مهمة مستحيلة الجاسوسية."
   },
   {
     "id": "MOV-100-014",
@@ -396,29 +240,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Classic actor Zaki Rostom was famous for repeatedly playing which type of authoritative character?",
-    "question_ar": "النجم الكلاسيكي زكي رستم اشتهر بتكرار تمثيل إيه نوع شخصيات سلطوية؟",
+    "question_en": "How many films make up the \"El Gezira\" (The Island) series so far, starring Ahmed El Sakka?",
+    "question_ar": "سلسلة أفلام \"الجزيرة\" بطولة أحمد السقا مكونة لحد دلوقتي من كام فيلم؟",
     "options": [
-      {
-        "en": "Foreign villains",
-        "ar": "أشرار أجانب"
-      },
-      {
-        "en": "Stern fathers and officials",
-        "ar": "آباء ومسؤولين صارمين"
-      },
-      {
-        "en": "Comic servants",
-        "ar": "خدم كوميديين"
-      },
-      {
-        "en": "Romantic young lovers",
-        "ar": "عشاق شباب رومانسيين"
-      }
+      { "en": "Two", "ar": "اتنين" },
+      { "en": "Three", "ar": "تلاتة" },
+      { "en": "One", "ar": "واحد" },
+      { "en": "Four", "ar": "أربعة" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Zaki Rostom was typecast in stern, authoritative father and official roles.",
-    "explanation_ar": "زكي رستم اشتهر بأدوار الأب والمسؤول الصارم."
+    "correctAnswer": 0,
+    "explanation_en": "There are two \"El Gezira\" films: released in 2007 and 2014.",
+    "explanation_ar": "سلسلة الجزيرة فيها جزئين، اتعرضوا سنة 2007 وسنة 2014."
   },
   {
     "id": "MOV-100-015",
@@ -426,29 +258,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian film, based on a novel about farmers, has appeared in international critics' lists of the greatest films ever made?",
-    "question_ar": "إيه الفيلم المصري عن الفلاحين اللي ظهر في قوايم نقاد عالمية لأعظم أفلام في التاريخ؟",
+    "question_en": "Well-known Egyptian screenwriter Mariam Naoum co-wrote the script for which acclaimed 2013 indie drama, starring Khaled Abol Naga?",
+    "question_ar": "السيناريست المصرية المعروفة مريم نعوم شاركت في كتابة إيه فيلم درامي مستقل متميز سنة 2013 بطولة خالد أبو النجا؟",
     "options": [
-      {
-        "en": "Al-Ard (The Land)",
-        "ar": "الأرض"
-      },
-      {
-        "en": "Al-Irhab wal Kabab",
-        "ar": "الإرهاب والكباب"
-      },
-      {
-        "en": "Al-Kit Kat",
-        "ar": "الكيت كات"
-      },
-      {
-        "en": "Kaboria",
-        "ar": "كابوريا"
-      }
+      { "en": "Villa 69", "ar": "فيلا 69" },
+      { "en": "Asmaa", "ar": "أسماء" },
+      { "en": "Photocopy", "ar": "فوتوكوبي" },
+      { "en": "Heena Maysara", "ar": "حين ميسرة" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"Al-Ard\" (1969) has appeared in international critics' greatest-films lists.",
-    "explanation_ar": "فيلم الأرض سنة 1969 ظهر في قوايم نقاد عالمية لأعظم الأفلام."
+    "explanation_en": "Mariam Naoum co-wrote the script for \"Villa 69\" (2013).",
+    "explanation_ar": "مريم نعوم شاركت في كتابة سيناريو فيلم فيلا 69 سنة 2013."
   },
   {
     "id": "MOV-100-016",
@@ -456,29 +276,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which veteran Egyptian actor served as head of the Cairo International Film Festival for several years?",
-    "question_ar": "مين النجم المصري القديم اللي ترأس مهرجان القاهرة السينمائي الدولي لسنين؟",
+    "question_en": "Actress Hend Sabry, star of \"Asmaa\", holds dual nationality from Egypt and which other country?",
+    "question_ar": "الممثلة هند صبري، بطلة فيلم أسماء، عندها جنسية مزدوجة من مصر وإيه بلد تانية؟",
     "options": [
-      {
-        "en": "Kamal El Shennawi",
-        "ar": "كمال الشناوي"
-      },
-      {
-        "en": "Hussein Fahmy",
-        "ar": "حسين فهمي"
-      },
-      {
-        "en": "Mahmoud Yassin",
-        "ar": "محمود ياسين"
-      },
-      {
-        "en": "Ahmed Mazhar",
-        "ar": "أحمد مظهر"
-      }
+      { "en": "Tunisia", "ar": "تونس" },
+      { "en": "Lebanon", "ar": "لبنان" },
+      { "en": "Morocco", "ar": "المغرب" },
+      { "en": "Jordan", "ar": "الأردن" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Hussein Fahmy served as head of the Cairo International Film Festival.",
-    "explanation_ar": "حسين فهمي ترأس مهرجان القاهرة السينمائي الدولي."
+    "correctAnswer": 0,
+    "explanation_en": "Hend Sabry is originally Tunisian and holds Egyptian nationality too, and is a major star in both countries.",
+    "explanation_ar": "هند صبري أصلها تونسي وعندها الجنسية المصرية كمان، وهي نجمة كبيرة في البلدين."
   },
   {
     "id": "MOV-100-017",
@@ -486,29 +294,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which director, alongside Khairy Beshara and Daoud Abdel Sayed, pioneered the 1980s \"New Realism\" wave in Egyptian cinema?",
-    "question_ar": "مين المخرج اللي مع خيري بشارة وداوود عبدالسيد كان من رواد موجة \"الواقعية الجديدة\" في الثمانينات؟",
+    "question_en": "\"The Yacoubian Building\" (2006) was which director's debut feature film?",
+    "question_ar": "فيلم \"عمارة يعقوبيان\" سنة 2006 كان أول فيلم روائي طويل لمين مخرج؟",
     "options": [
-      {
-        "en": "Sherif Arafa",
-        "ar": "شريف عرفة"
-      },
-      {
-        "en": "Mohamed Khan",
-        "ar": "محمد خان"
-      },
-      {
-        "en": "Yousry Nasrallah",
-        "ar": "يسري نصرالله"
-      },
-      {
-        "en": "Marwan Hamed",
-        "ar": "مروان حامد"
-      }
+      { "en": "Marwan Hamed", "ar": "مروان حامد" },
+      { "en": "Amr Salama", "ar": "عمرو سلامة" },
+      { "en": "Ayten Amin", "ar": "آيتن أمين" },
+      { "en": "Peter Mimi", "ar": "بيتر ميمي" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Mohamed Khan was a key pioneer of the 1980s Egyptian New Realism movement.",
-    "explanation_ar": "محمد خان كان من أهم رواد موجة الواقعية الجديدة في الثمانينات."
+    "correctAnswer": 0,
+    "explanation_en": "\"The Yacoubian Building\" was Marwan Hamed's debut feature film.",
+    "explanation_ar": "فيلم عمارة يعقوبيان كان أول فيلم روائي طويل لمروان حامد."
   },
   {
     "id": "MOV-100-018",
@@ -516,29 +312,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Mohamed Khan's 1988 film \"Ahlam Hind wa Camelia\" follows the lives of two women working as what?",
-    "question_ar": "فيلم محمد خان \"أحلام هند وكاميليا\" سنة 1988 بيحكي عن حياة بنتين شغالتين إيه؟",
+    "question_en": "Which actress stars as the female lead in both \"Awlad Rizk\" (Sons of Rizk) and \"El Khaleya\" (The Cell)?",
+    "question_ar": "مين النجمة اللي مثلت البطولة النسائية في فيلمي \"أولاد رزق\" و\"الخلية\"؟",
     "options": [
-      {
-        "en": "Factory workers",
-        "ar": "عاملات في مصنع"
-      },
-      {
-        "en": "Street vendors",
-        "ar": "بياعات في الشارع"
-      },
-      {
-        "en": "Domestic workers",
-        "ar": "شغالات في البيوت"
-      },
-      {
-        "en": "Nurses",
-        "ar": "ممرضات"
-      }
+      { "en": "Amina Khalil", "ar": "أمينة خليل" },
+      { "en": "Yasmin Raeis", "ar": "ياسمين رئيس" },
+      { "en": "Menna Shalaby", "ar": "منة شلبي" },
+      { "en": "Donia Samir Ghanem", "ar": "دنيا سمير غانم" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "The film follows two domestic workers in Cairo.",
-    "explanation_ar": "الفيلم بيحكي عن حياة شغالتين في بيوت في القاهرة."
+    "correctAnswer": 0,
+    "explanation_en": "Amina Khalil stars in both \"Awlad Rizk\" and \"El Khaleya\".",
+    "explanation_ar": "أمينة خليل مثلت البطولة النسائية في أولاد رزق والخلية."
   },
   {
     "id": "MOV-100-019",
@@ -546,29 +330,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which veteran Egyptian actress is often called the \"First Lady of Arab Theatre\"?",
-    "question_ar": "مين النجمة المصرية القديمة اللي بتتلقب بـ\"سيدة المسرح العربي\"؟",
+    "question_en": "\"Kira & El Gin\" premiered during which major Egyptian cinema season in 2022?",
+    "question_ar": "فيلم \"كيرة والجن\" اتعرض في إيه موسم سينمائي كبير في مصر سنة 2022؟",
     "options": [
-      {
-        "en": "Zouzou Nabil",
-        "ar": "زوزو نبيل"
-      },
-      {
-        "en": "Aqila Ratib",
-        "ar": "عقيلة راتب"
-      },
-      {
-        "en": "Samiha Ayoub",
-        "ar": "سميحة أيوب"
-      },
-      {
-        "en": "Amina Rizk",
-        "ar": "أمينة رزق"
-      }
+      { "en": "Eid Al-Fitr", "ar": "عيد الفطر" },
+      { "en": "New Year's Eve", "ar": "ليلة رأس السنة" },
+      { "en": "Ramadan (TV season only)", "ar": "موسم رمضان (التليفزيون بس)" },
+      { "en": "Coptic Christmas", "ar": "عيد الميلاد القبطي" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Samiha Ayoub is famously called the \"First Lady of Arab Theatre\".",
-    "explanation_ar": "سميحة أيوب معروفة بلقب سيدة المسرح العربي."
+    "correctAnswer": 0,
+    "explanation_en": "\"Kira & El Gin\" premiered during the Eid Al-Fitr cinema season of 2022.",
+    "explanation_ar": "فيلم كيرة والجن اتعرض في موسم عيد الفطر سنة 2022."
   },
   {
     "id": "MOV-100-020",
@@ -576,29 +348,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which veteran character actor appeared in dozens of Adel Imam comedies as a recurring comic supporting actor?",
-    "question_ar": "مين ممثل الأدوار المساعدة القديم اللي ظهر في عشرات أفلام عادل إمام الكوميدية؟",
+    "question_en": "\"El Kenz\" (The Treasure) was released during which season, when Egyptian blockbusters typically compete for the biggest audiences?",
+    "question_ar": "فيلم \"الكنز\" اتعرض في إيه موسم اللي فيه الأفلام الكبيرة في مصر بتتنافس على أكبر جمهور؟",
     "options": [
-      {
-        "en": "Salah Nazmy",
-        "ar": "صلاح نظمي"
-      },
-      {
-        "en": "Abdel Moneim Madbouly",
-        "ar": "عبدالمنعم مدبولي"
-      },
-      {
-        "en": "Hassan Mostafa",
-        "ar": "حسن مصطفى"
-      },
-      {
-        "en": "Abdel Ghani Kamar",
-        "ar": "عبدالغني قمر"
-      }
+      { "en": "Eid season", "ar": "موسم الأعياد" },
+      { "en": "Summer only", "ar": "الصيف بس" },
+      { "en": "Autumn", "ar": "الخريف" },
+      { "en": "January only", "ar": "شهر يناير بس" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Abdel Moneim Madbouly recurred as a supporting comic actor in many Adel Imam films.",
-    "explanation_ar": "عبدالمنعم مدبولي ظهر كممثل مساعد كوميدي في أفلام كتير لعادل إمام."
+    "correctAnswer": 0,
+    "explanation_en": "Eid is the biggest cinema season in Egypt, when the year's major blockbusters typically release.",
+    "explanation_ar": "موسم الأعياد هو أكبر موسم سينمائي في مصر، وفيه بتتعرض أكبر أفلام السنة."
   },
   {
     "id": "MOV-100-021",
@@ -609,22 +369,10 @@
     "question_en": "Which screenwriter, known for tackling extremism and politics, wrote \"Al-Irhabi\" and \"Toyour Al-Zalam\" for Adel Imam?",
     "question_ar": "مين السيناريست اللي اشتهر بمعالجة قضايا الإرهاب والسياسة وكتب \"الإرهابي\" و\"طيور الظلام\" لعادل إمام؟",
     "options": [
-      {
-        "en": "Osama Anwar Okasha",
-        "ar": "أسامة أنور عكاشة"
-      },
-      {
-        "en": "Rafik El Sabban",
-        "ar": "رفيق الصبان"
-      },
-      {
-        "en": "Wahid Hamed",
-        "ar": "وحيد حامد"
-      },
-      {
-        "en": "Bashir El Deek",
-        "ar": "بشير الديك"
-      }
+      { "en": "Osama Anwar Okasha", "ar": "أسامة أنور عكاشة" },
+      { "en": "Rafik El Sabban", "ar": "رفيق الصبان" },
+      { "en": "Wahid Hamed", "ar": "وحيد حامد" },
+      { "en": "Bashir El Deek", "ar": "بشير الديك" }
     ],
     "correctAnswer": 2,
     "explanation_en": "Wahid Hamed wrote both \"Al-Irhabi\" and \"Toyour Al-Zalam\".",
@@ -636,29 +384,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which glamorous Egyptian actress was often called the \"Empress\" of Egyptian cinema for her roles in the 1980s-90s?",
-    "question_ar": "مين النجمة المصرية اللي كانت بتتلقب بـ\"إمبراطورة\" السينما المصرية في الثمانينات والتسعينات؟",
+    "question_en": "Which young actress co-stars alongside Mahmoud Hemida in the acclaimed drama \"Photocopy\" (2017)?",
+    "question_ar": "مين النجمة الشابة اللي مثلت مع محمود حميدة في فيلم \"فوتوكوبي\" سنة 2017؟",
     "options": [
-      {
-        "en": "Nabila Ebeid",
-        "ar": "نبيلة عبيد"
-      },
-      {
-        "en": "Nadia El Guindy",
-        "ar": "ناديه الجندي"
-      },
-      {
-        "en": "Yousra",
-        "ar": "يسرا"
-      },
-      {
-        "en": "Elham Shahin",
-        "ar": "إلهام شاهين"
-      }
+      { "en": "Aisha Ben Ahmed", "ar": "عائشة بن أحمد" },
+      { "en": "Amina Khalil", "ar": "أمينة خليل" },
+      { "en": "Yasmin Raeis", "ar": "ياسمين رئيس" },
+      { "en": "Menna Shalaby", "ar": "منة شلبي" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Nabila Ebeid was known as the \"Empress\" of Egyptian cinema.",
-    "explanation_ar": "نبيلة عبيد كانت معروفة بلقب إمبراطورة السينما المصرية."
+    "explanation_en": "Aisha Ben Ahmed co-stars with Mahmoud Hemida in \"Photocopy\" (2017).",
+    "explanation_ar": "عائشة بن أحمد مثلت مع محمود حميدة في فيلم فوتوكوبي سنة 2017."
   },
   {
     "id": "MOV-100-023",
@@ -669,22 +405,10 @@
     "question_en": "Ahmed Zaki's final film role, released after his death in 2005, was a biopic of which legendary singer?",
     "question_ar": "آخر دور لأحمد زكي، اتعرض بعد وفاته سنة 2005، كان في فيلم سيرة ذاتية عن مين مطرب أسطوري؟",
     "options": [
-      {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبدالحليم حافظ"
-      },
-      {
-        "en": "Abdel Wahab El Beltagy",
-        "ar": "عبدالوهاب البلتاجي"
-      },
-      {
-        "en": "Farid Al Atrash",
-        "ar": "فريد الأطرش"
-      },
-      {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبدالوهاب"
-      }
+      { "en": "Abdel Halim Hafez", "ar": "عبدالحليم حافظ" },
+      { "en": "Abdel Wahab El Beltagy", "ar": "عبدالوهاب البلتاجي" },
+      { "en": "Farid Al Atrash", "ar": "فريد الأطرش" },
+      { "en": "Mohamed Abdel Wahab", "ar": "محمد عبدالوهاب" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Ahmed Zaki's final role was the title character in \"Halim\", a biopic of Abdel Halim Hafez.",
@@ -699,22 +423,10 @@
     "question_en": "Which actress co-starred with singer Amr Diab as the female lead in \"Ice Cream Fi Gleem\"?",
     "question_ar": "مين النجمة اللي مثلت البطولة النسائية مع عمرو دياب في فيلم \"آيس كريم في جليم\"؟",
     "options": [
-      {
-        "en": "Layla Elwi",
-        "ar": "ليلى علوي"
-      },
-      {
-        "en": "Elham Shahin",
-        "ar": "إلهام شاهين"
-      },
-      {
-        "en": "Athar El Hakim",
-        "ar": "آثار الحكيم"
-      },
-      {
-        "en": "Yousra",
-        "ar": "يسرا"
-      }
+      { "en": "Layla Elwi", "ar": "ليلى علوي" },
+      { "en": "Elham Shahin", "ar": "إلهام شاهين" },
+      { "en": "Athar El Hakim", "ar": "آثار الحكيم" },
+      { "en": "Yousra", "ar": "يسرا" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Layla Elwi starred opposite Amr Diab in \"Ice Cream Fi Gleem\" (1992).",
@@ -726,29 +438,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which film won the very first Academy Award for Best Picture, at the 1929 ceremony?",
-    "question_ar": "إيه الفيلم اللي كسب أول أوسكار أفضل فيلم في تاريخ الحفل سنة 1929؟",
+    "question_en": "Which Amr Salama film, about a Christian boy who pretends to be Muslim at his new school, was also submitted as an Egyptian Oscar entry?",
+    "question_ar": "إيه فيلم عمرو سلامة عن ولد مسيحي بيتظاهر إنه مسلم في مدرسته الجديدة، واللي كان كمان ترشيح مصر للأوسكار؟",
     "options": [
-      {
-        "en": "7th Heaven",
-        "ar": "سيفنث هيفن"
-      },
-      {
-        "en": "The Jazz Singer",
-        "ar": "ذا جاز سينجر"
-      },
-      {
-        "en": "Sunrise",
-        "ar": "صن رايز"
-      },
-      {
-        "en": "Wings",
-        "ar": "وينجز"
-      }
+      { "en": "Excuse My French (La Mo2akhza)", "ar": "لا مؤاخذة" },
+      { "en": "Sheikh Jackson", "ar": "شيخ جاكسون" },
+      { "en": "Asmaa", "ar": "أسماء" },
+      { "en": "Villa 69", "ar": "فيلا 69" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "\"Wings\" (1927) won the first Best Picture Oscar.",
-    "explanation_ar": "فيلم وينجز سنة 1927 كسب أول أوسكار أفضل فيلم."
+    "correctAnswer": 0,
+    "explanation_en": "\"Excuse My French\" (La Mo2akhza, 2014) was submitted as Egypt's Oscar entry.",
+    "explanation_ar": "فيلم لا مؤاخذة سنة 2014 كان ترشيح مصر للأوسكار."
   },
   {
     "id": "MOV-100-026",
@@ -756,29 +456,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which director has won the most Best Director Oscars in history, with four wins?",
-    "question_ar": "مين المخرج اللي كسب أكتر عدد أوسكارات إخراج في التاريخ، أربع مرات؟",
+    "question_en": "Which director made both \"Sheikh Jackson\" and \"Excuse My French\" (La Mo2akhza)?",
+    "question_ar": "مين المخرج اللي عمل فيلمي \"شيخ جاكسون\" و\"لا مؤاخذة\"؟",
     "options": [
-      {
-        "en": "John Ford",
-        "ar": "جون فورد"
-      },
-      {
-        "en": "Frank Capra",
-        "ar": "فرانك كابرا"
-      },
-      {
-        "en": "William Wyler",
-        "ar": "وليام وايلر"
-      },
-      {
-        "en": "Steven Spielberg",
-        "ar": "ستيفن سبيلبرج"
-      }
+      { "en": "Amr Salama", "ar": "عمرو سلامة" },
+      { "en": "Marwan Hamed", "ar": "مروان حامد" },
+      { "en": "Ayten Amin", "ar": "آيتن أمين" },
+      { "en": "Mohamed Diab", "ar": "محمد دياب" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "John Ford won four Best Director Oscars, the most ever.",
-    "explanation_ar": "جون فورد كسب أربع أوسكارات إخراج، وهو أكتر رقم في التاريخ."
+    "explanation_en": "Amr Salama directed both \"Sheikh Jackson\" and \"Excuse My French\".",
+    "explanation_ar": "عمرو سلامة أخرج فيلمي شيخ جاكسون ولا مؤاخذة."
   },
   {
     "id": "MOV-100-027",
@@ -786,29 +474,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which actress holds the record for the most Best Actress Oscar wins, with four?",
-    "question_ar": "مين الممثلة اللي عندها أكتر عدد أوسكارات أفضل ممثلة، أربع مرات؟",
+    "question_en": "Besides directing \"El Kenz\", Sherif Arafa also directs which hit action franchise starring Ahmed El Sakka?",
+    "question_ar": "غير إخراج فيلم \"الكنز\"، شريف عرفة كمان أخرج إيه سلسلة أفلام أكشن بطولة أحمد السقا؟",
     "options": [
-      {
-        "en": "Bette Davis",
-        "ar": "بيتي ديفيس"
-      },
-      {
-        "en": "Katharine Hepburn",
-        "ar": "كاثرين هيبورن"
-      },
-      {
-        "en": "Meryl Streep",
-        "ar": "ميريل ستريب"
-      },
-      {
-        "en": "Ingrid Bergman",
-        "ar": "إنجريد برجمان"
-      }
+      { "en": "El Gezira", "ar": "الجزيرة" },
+      { "en": "Tito", "ar": "تيتو" },
+      { "en": "Ibrahim El Abyad", "ar": "إبراهيم الأبيض" },
+      { "en": "El Maslaha", "ar": "المصلحة" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Katharine Hepburn won Best Actress four times.",
-    "explanation_ar": "كاثرين هيبورن كسبت أوسكار أفضل ممثلة أربع مرات."
+    "correctAnswer": 0,
+    "explanation_en": "Sherif Arafa also directs the \"El Gezira\" action franchise.",
+    "explanation_ar": "شريف عرفة كمان أخرج سلسلة أفلام الجزيرة."
   },
   {
     "id": "MOV-100-028",
@@ -819,22 +495,10 @@
     "question_en": "Which 1941 Orson Welles film is frequently cited by critics as the greatest film ever made?",
     "question_ar": "إيه فيلم أورسون ويلز سنة 1941 اللي النقاد كتير بيعتبروه أعظم فيلم في التاريخ؟",
     "options": [
-      {
-        "en": "The Third Man",
-        "ar": "ذا ثيرد مان"
-      },
-      {
-        "en": "Touch of Evil",
-        "ar": "تاتش أوف إيفل"
-      },
-      {
-        "en": "Citizen Kane",
-        "ar": "سيتيزن كين"
-      },
-      {
-        "en": "The Magnificent Ambersons",
-        "ar": "ذا ماجنيفيسنت أمبيرسونز"
-      }
+      { "en": "The Third Man", "ar": "ذا ثيرد مان" },
+      { "en": "Touch of Evil", "ar": "تاتش أوف إيفل" },
+      { "en": "Citizen Kane", "ar": "سيتيزن كين" },
+      { "en": "The Magnificent Ambersons", "ar": "ذا ماجنيفيسنت أمبيرسونز" }
     ],
     "correctAnswer": 2,
     "explanation_en": "\"Citizen Kane\" (1941) tops many all-time greatest-films lists.",
@@ -849,22 +513,10 @@
     "question_en": "John Williams's iconic two-note score builds dread in which Spielberg film?",
     "question_ar": "موسيقى جون ويليامز الشهيرة بالنغمتين المتكررة بتبني الرعب في إيه فيلم لسبيلبرج؟",
     "options": [
-      {
-        "en": "Jurassic Park",
-        "ar": "جوراسيك بارك"
-      },
-      {
-        "en": "Close Encounters",
-        "ar": "كلوز إنكاونترز"
-      },
-      {
-        "en": "Jaws",
-        "ar": "جوز"
-      },
-      {
-        "en": "E.T.",
-        "ar": "إي تي"
-      }
+      { "en": "Jurassic Park", "ar": "جوراسيك بارك" },
+      { "en": "Close Encounters", "ar": "كلوز إنكاونترز" },
+      { "en": "Jaws", "ar": "جوز" },
+      { "en": "E.T.", "ar": "إي تي" }
     ],
     "correctAnswer": 2,
     "explanation_en": "The famous two-note theme signals the shark's approach in \"Jaws\".",
@@ -876,29 +528,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Kubrick's \"A Clockwork Orange\", based on Anthony Burgess's novel, centers on a violent gang leader named what?",
-    "question_ar": "فيلم \"أ كلوكورك أورانج\" لكوبريك، المأخوذ عن رواية أنتوني برجيس، بيدور حول زعيم عصابة عنيف اسمه إيه؟",
+    "question_en": "Which actress plays the female lead opposite Karim Abdel Aziz's character in \"Kira & El Gin\" (2022)?",
+    "question_ar": "مين النجمة اللي مثلت البطولة النسائية مع شخصية كريم عبدالعزيز في فيلم \"كيرة والجن\" سنة 2022؟",
     "options": [
-      {
-        "en": "Frank",
-        "ar": "فرانك"
-      },
-      {
-        "en": "Jack",
-        "ar": "جاك"
-      },
-      {
-        "en": "Alex",
-        "ar": "أليكس"
-      },
-      {
-        "en": "Danny",
-        "ar": "داني"
-      }
+      { "en": "Hana El Zahed", "ar": "هنا الزاهد" },
+      { "en": "Amina Khalil", "ar": "أمينة خليل" },
+      { "en": "Yasmin Raeis", "ar": "ياسمين رئيس" },
+      { "en": "Menna Shalaby", "ar": "منة شلبي" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "The protagonist is a violent young gang leader named Alex.",
-    "explanation_ar": "البطل هو زعيم عصابة شاب عنيف اسمه أليكس."
+    "correctAnswer": 0,
+    "explanation_en": "Hana El Zahed plays a lead female role in \"Kira & El Gin\" (2022).",
+    "explanation_ar": "هنا الزاهد مثلت دور نسائي أساسي في فيلم كيرة والجن سنة 2022."
   },
   {
     "id": "MOV-100-031",
@@ -909,22 +549,10 @@
     "question_en": "Which actress won Best Actress for playing real-life legal clerk Erin Brockovich?",
     "question_ar": "مين اللي أخدت أوسكار أفضل ممثلة عن دور إرين بروكوفيتش الحقيقية؟",
     "options": [
-      {
-        "en": "Reese Witherspoon",
-        "ar": "ريس ويذرسبون"
-      },
-      {
-        "en": "Charlize Theron",
-        "ar": "شارليز ثيرون"
-      },
-      {
-        "en": "Julia Roberts",
-        "ar": "جوليا روبرتس"
-      },
-      {
-        "en": "Sandra Bullock",
-        "ar": "ساندرا بولوك"
-      }
+      { "en": "Reese Witherspoon", "ar": "ريس ويذرسبون" },
+      { "en": "Charlize Theron", "ar": "شارليز ثيرون" },
+      { "en": "Julia Roberts", "ar": "جوليا روبرتس" },
+      { "en": "Sandra Bullock", "ar": "ساندرا بولوك" }
     ],
     "correctAnswer": 2,
     "explanation_en": "Julia Roberts won Best Actress for \"Erin Brockovich\" (2000).",
@@ -936,29 +564,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Hitchcock film, starring James Stewart, later topped Sight & Sound's poll of the greatest films ever made?",
-    "question_ar": "إيه فيلم هيتشكوك بطولة جيمس ستيوارت اللي طلع بعدين على قمة قايمة سايت آند ساوند لأعظم الأفلام؟",
+    "question_en": "Which Egyptian Netflix film reportedly topped Netflix's non-English movie chart across MENA countries after its release?",
+    "question_ar": "إيه الفيلم المصري في نتفليكس اللي اتقال عليه إنه طلع على قمة قايمة الأفلام الغير إنجليزية في منطقة الشرق الأوسط بعد عرضه؟",
     "options": [
-      {
-        "en": "North by Northwest",
-        "ar": "نورث باي نورث ويست"
-      },
-      {
-        "en": "Psycho",
-        "ar": "سايكو"
-      },
-      {
-        "en": "Rear Window",
-        "ar": "رير ويندو"
-      },
-      {
-        "en": "Vertigo",
-        "ar": "فيرتيجو"
-      }
+      { "en": "Ashab Wala Aazz", "ar": "أصحاب ولا أعز" },
+      { "en": "Kira & El Gin", "ar": "كيرة والجن" },
+      { "en": "El Khaleya", "ar": "الخلية" },
+      { "en": "El Kenz", "ar": "الكنز" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "\"Vertigo\" (1958) topped the 2012 Sight & Sound critics' poll.",
-    "explanation_ar": "فيرتيجو سنة 1958 طلع على قمة قايمة سايت آند ساوند للنقاد سنة 2012."
+    "correctAnswer": 0,
+    "explanation_en": "\"Ashab Wala Aazz\" reportedly topped Netflix's non-English movie chart across MENA countries.",
+    "explanation_ar": "فيلم أصحاب ولا أعز اتقال عليه إنه طلع على قمة قايمة الأفلام الغير إنجليزية في نتفليكس بمنطقة الشرق الأوسط."
   },
   {
     "id": "MOV-100-033",
@@ -969,22 +585,10 @@
     "question_en": "Which actor played Michael Corleone in \"The Godfather\" films?",
     "question_ar": "مين اللي مثل دور مايكل كورليوني في أفلام \"ذا جودفاذر\"؟",
     "options": [
-      {
-        "en": "Al Pacino",
-        "ar": "آل باتشينو"
-      },
-      {
-        "en": "James Caan",
-        "ar": "جيمس كان"
-      },
-      {
-        "en": "John Cazale",
-        "ar": "جون كازالي"
-      },
-      {
-        "en": "Robert De Niro",
-        "ar": "روبرت دي نيرو"
-      }
+      { "en": "Al Pacino", "ar": "آل باتشينو" },
+      { "en": "James Caan", "ar": "جيمس كان" },
+      { "en": "John Cazale", "ar": "جون كازالي" },
+      { "en": "Robert De Niro", "ar": "روبرت دي نيرو" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Al Pacino played Michael Corleone.",
@@ -999,22 +603,10 @@
     "question_en": "Who played the original patriarch Vito Corleone in \"The Godfather\" (1972)?",
     "question_ar": "مين اللي مثل دور الأب فيتو كورليوني في \"ذا جودفاذر\" الأصلي سنة 1972؟",
     "options": [
-      {
-        "en": "Richard Castellano",
-        "ar": "ريتشارد كاستيلانو"
-      },
-      {
-        "en": "Al Pacino",
-        "ar": "آل باتشينو"
-      },
-      {
-        "en": "Robert Duvall",
-        "ar": "روبرت دوفال"
-      },
-      {
-        "en": "Marlon Brando",
-        "ar": "مارلون براندو"
-      }
+      { "en": "Richard Castellano", "ar": "ريتشارد كاستيلانو" },
+      { "en": "Al Pacino", "ar": "آل باتشينو" },
+      { "en": "Robert Duvall", "ar": "روبرت دوفال" },
+      { "en": "Marlon Brando", "ar": "مارلون براندو" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Marlon Brando won an Oscar playing Vito Corleone.",
@@ -1029,22 +621,10 @@
     "question_en": "Which 1976 film about an underdog boxer from Philadelphia won Best Picture?",
     "question_ar": "إيه فيلم سنة 1976 عن ملاكم مغمور من فيلادلفيا كسب أوسكار أفضل فيلم؟",
     "options": [
-      {
-        "en": "The Champ",
-        "ar": "ذا تشامب"
-      },
-      {
-        "en": "Cinderella Man",
-        "ar": "سندريلا مان"
-      },
-      {
-        "en": "Rocky",
-        "ar": "روكي"
-      },
-      {
-        "en": "Raging Bull",
-        "ar": "رايجينج بول"
-      }
+      { "en": "The Champ", "ar": "ذا تشامب" },
+      { "en": "Cinderella Man", "ar": "سندريلا مان" },
+      { "en": "Rocky", "ar": "روكي" },
+      { "en": "Raging Bull", "ar": "رايجينج بول" }
     ],
     "correctAnswer": 2,
     "explanation_en": "\"Rocky\" (1976) won Best Picture.",
@@ -1056,29 +636,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Marlee Matlin became the youngest Best Actress Oscar winner, at age 21, for which 1986 film?",
-    "question_ar": "مارلي ماتلن بقت أصغر واحدة تكسب أوسكار أفضل ممثلة، في سن 21، عن إيه فيلم سنة 1986؟",
+    "question_en": "Which actress in \"Ashab Wala Aazz\" is the daughter of the legendary Egyptian comedian Samir Ghanem?",
+    "question_ar": "مين النجمة في فيلم \"أصحاب ولا أعز\" اللي هي بنت الفنان الكوميدي الكبير سمير غانم؟",
     "options": [
-      {
-        "en": "Silent Voice",
-        "ar": "سايلنت فويس"
-      },
-      {
-        "en": "Children of a Lesser God",
-        "ar": "تشيلدرين أوف أ ليسر جود"
-      },
-      {
-        "en": "The Miracle Worker",
-        "ar": "ذا ميراكل ووركر"
-      },
-      {
-        "en": "Coda",
-        "ar": "كودا"
-      }
+      { "en": "Donia Samir Ghanem", "ar": "دنيا سمير غانم" },
+      { "en": "Nelly Karim", "ar": "نيللي كريم" },
+      { "en": "Mona Zaki", "ar": "منى زكي" },
+      { "en": "Amina Khalil", "ar": "أمينة خليل" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Marlee Matlin won for \"Children of a Lesser God\", playing a deaf woman.",
-    "explanation_ar": "مارلي ماتلن أخدت الأوسكار عن فيلم تشيلدرين أوف أ ليسر جود بدور سيدة صماء."
+    "correctAnswer": 0,
+    "explanation_en": "Donia Samir Ghanem, part of the \"Ashab Wala Aazz\" cast, is Samir Ghanem's daughter.",
+    "explanation_ar": "دنيا سمير غانم، من نجوم فيلم أصحاب ولا أعز، هي بنت الفنان سمير غانم."
   },
   {
     "id": "MOV-100-037",
@@ -1089,22 +657,10 @@
     "question_en": "In Hitchcock's \"North by Northwest\", an advertising executive is famously chased across which landmark?",
     "question_ar": "في فيلم هيتشكوك \"نورث باي نورث ويست\"، رجل إعلانات بيتلاحق فوق إيه معلم شهير؟",
     "options": [
-      {
-        "en": "The Golden Gate Bridge",
-        "ar": "جسر البوابة الذهبية"
-      },
-      {
-        "en": "The Empire State Building",
-        "ar": "إمباير ستيت بيلدينج"
-      },
-      {
-        "en": "Niagara Falls",
-        "ar": "شلالات نياجرا"
-      },
-      {
-        "en": "Mount Rushmore",
-        "ar": "جبل راشمور"
-      }
+      { "en": "The Golden Gate Bridge", "ar": "جسر البوابة الذهبية" },
+      { "en": "The Empire State Building", "ar": "إمباير ستيت بيلدينج" },
+      { "en": "Niagara Falls", "ar": "شلالات نياجرا" },
+      { "en": "Mount Rushmore", "ar": "جبل راشمور" }
     ],
     "correctAnswer": 3,
     "explanation_en": "The famous climax takes place on Mount Rushmore.",
@@ -1119,22 +675,10 @@
     "question_en": "Daniel Day-Lewis won Best Actor for playing ruthless oil tycoon Daniel Plainview in which film?",
     "question_ar": "دانيال داي لويس أخد أوسكار أفضل ممثل عن دور تاجر بترول قاسي اسمه دانيال بلاينفيو في إيه فيلم؟",
     "options": [
-      {
-        "en": "Gangs of New York",
-        "ar": "جانجز أوف نيويورك"
-      },
-      {
-        "en": "Lincoln",
-        "ar": "لينكولن"
-      },
-      {
-        "en": "There Will Be Blood",
-        "ar": "ذير ويل بي بلود"
-      },
-      {
-        "en": "My Left Foot",
-        "ar": "ماي ليفت فوت"
-      }
+      { "en": "Gangs of New York", "ar": "جانجز أوف نيويورك" },
+      { "en": "Lincoln", "ar": "لينكولن" },
+      { "en": "There Will Be Blood", "ar": "ذير ويل بي بلود" },
+      { "en": "My Left Foot", "ar": "ماي ليفت فوت" }
     ],
     "correctAnswer": 2,
     "explanation_en": "Daniel Day-Lewis won for \"There Will Be Blood\" (2007).",
@@ -1149,22 +693,10 @@
     "question_en": "Which director made the Vietnam War epic \"Apocalypse Now\"?",
     "question_ar": "مين المخرج اللي عمل ملحمة حرب فيتنام \"أبوكاليبس ناو\"؟",
     "options": [
-      {
-        "en": "Michael Cimino",
-        "ar": "مايكل سيمينو"
-      },
-      {
-        "en": "Stanley Kubrick",
-        "ar": "ستانلي كوبريك"
-      },
-      {
-        "en": "Oliver Stone",
-        "ar": "أوليفر ستون"
-      },
-      {
-        "en": "Francis Ford Coppola",
-        "ar": "فرانسيس فورد كوبولا"
-      }
+      { "en": "Michael Cimino", "ar": "مايكل سيمينو" },
+      { "en": "Stanley Kubrick", "ar": "ستانلي كوبريك" },
+      { "en": "Oliver Stone", "ar": "أوليفر ستون" },
+      { "en": "Francis Ford Coppola", "ar": "فرانسيس فورد كوبولا" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Francis Ford Coppola directed \"Apocalypse Now\" (1979).",
@@ -1179,22 +711,10 @@
     "question_en": "In Hitchcock's \"Psycho\", which character is famously murdered in the shower scene?",
     "question_ar": "في فيلم هيتشكوك \"سايكو\"، مين الشخصية اللي بتتقتل في مشهد الدش الشهير؟",
     "options": [
-      {
-        "en": "Marion Crane",
-        "ar": "ماريون كرين"
-      },
-      {
-        "en": "Norma Bates",
-        "ar": "نورما بيتس"
-      },
-      {
-        "en": "Lila Crane",
-        "ar": "لايلا كرين"
-      },
-      {
-        "en": "Caroline",
-        "ar": "كارولين"
-      }
+      { "en": "Marion Crane", "ar": "ماريون كرين" },
+      { "en": "Norma Bates", "ar": "نورما بيتس" },
+      { "en": "Lila Crane", "ar": "لايلا كرين" },
+      { "en": "Caroline", "ar": "كارولين" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Marion Crane is murdered in the famous shower scene.",
@@ -1209,22 +729,10 @@
     "question_en": "The 1962 Best Picture winner \"Lawrence of Arabia\" starred Peter O'Toole alongside which Egyptian actor?",
     "question_ar": "فيلم \"لورانس العرب\" اللي كسب أوسكار أفضل فيلم سنة 1962 جمع بيتر أوتول مع مين ممثل مصري؟",
     "options": [
-      {
-        "en": "Rushdy Abaza",
-        "ar": "رشدي أباظة"
-      },
-      {
-        "en": "Omar Sharif",
-        "ar": "عمر الشريف"
-      },
-      {
-        "en": "Hussein Fahmy",
-        "ar": "حسين فهمي"
-      },
-      {
-        "en": "Ahmed Mazhar",
-        "ar": "أحمد مظهر"
-      }
+      { "en": "Rushdy Abaza", "ar": "رشدي أباظة" },
+      { "en": "Omar Sharif", "ar": "عمر الشريف" },
+      { "en": "Hussein Fahmy", "ar": "حسين فهمي" },
+      { "en": "Ahmed Mazhar", "ar": "أحمد مظهر" }
     ],
     "correctAnswer": 1,
     "explanation_en": "Omar Sharif co-starred in \"Lawrence of Arabia\".",
@@ -1236,29 +744,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which actress won back-to-back Best Actress Oscars in 1937 and 1938, a rare feat?",
-    "question_ar": "مين الممثلة اللي كسبت أوسكار أفضل ممثلة سنتين ورا بعض 1937 و1938، وهو إنجاز نادر؟",
+    "question_en": "Which prolific screenwriter and playwright wrote both \"Al-Irhab wal Kabab\" and \"Al-Irhabi\" for Adel Imam?",
+    "question_ar": "مين السيناريست والكاتب المسرحي الكبير اللي كتب فيلمي \"الإرهاب والكباب\" و\"الإرهابي\" لعادل إمام؟",
     "options": [
-      {
-        "en": "Greer Garson",
-        "ar": "جرير جارسون"
-      },
-      {
-        "en": "Bette Davis",
-        "ar": "بيتي ديفيس"
-      },
-      {
-        "en": "Luise Rainer",
-        "ar": "لويز راينر"
-      },
-      {
-        "en": "Vivien Leigh",
-        "ar": "فيفيان لي"
-      }
+      { "en": "Lenin El-Ramly", "ar": "لينين الرملي" },
+      { "en": "Wahid Hamed", "ar": "وحيد حامد" },
+      { "en": "Rafik El Sabban", "ar": "رفيق الصبان" },
+      { "en": "Bashir El Deek", "ar": "بشير الديك" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Luise Rainer won consecutive Best Actress Oscars in 1937 and 1938.",
-    "explanation_ar": "لويز راينر كسبت أوسكار أفضل ممثلة سنتين ورا بعض 1937 و1938."
+    "correctAnswer": 0,
+    "explanation_en": "Lenin El-Ramly wrote both \"Al-Irhab wal Kabab\" and \"Al-Irhabi\".",
+    "explanation_ar": "لينين الرملي كتب فيلمي الإرهاب والكباب والإرهابي."
   },
   {
     "id": "MOV-100-043",
@@ -1266,29 +762,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Director Stanley Kubrick died shortly before the release of which final film of his?",
-    "question_ar": "المخرج ستانلي كوبريك مات قبل ما إيه فيلم أخير له يتعرض؟",
+    "question_en": "Which of these is a well-known modern Egyptian actor, part of the \"Ashab Wala Aazz\" ensemble?",
+    "question_ar": "مين من دول ممثل مصري حديث معروف، من نجوم فيلم \"أصحاب ولا أعز\"؟",
     "options": [
-      {
-        "en": "Full Metal Jacket",
-        "ar": "فول ميتال جاكيت"
-      },
-      {
-        "en": "The Shining",
-        "ar": "ذا شايننج"
-      },
-      {
-        "en": "Barry Lyndon",
-        "ar": "باري ليندون"
-      },
-      {
-        "en": "Eyes Wide Shut",
-        "ar": "آيز وايد شت"
-      }
+      { "en": "Mohamed Farrag", "ar": "محمد فراج" },
+      { "en": "Tom Holland", "ar": "توم هولاند" },
+      { "en": "Timothée Chalamet", "ar": "تيموثي شالامي" },
+      { "en": "Andrew Garfield", "ar": "أندرو جارفيلد" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Kubrick died in 1999, shortly before \"Eyes Wide Shut\" was released.",
-    "explanation_ar": "كوبريك مات سنة 1999 قبل ما فيلم آيز وايد شت يتعرض بشوية."
+    "correctAnswer": 0,
+    "explanation_en": "Mohamed Farrag is part of the \"Ashab Wala Aazz\" ensemble cast.",
+    "explanation_ar": "محمد فراج من نجوم فيلم أصحاب ولا أعز."
   },
   {
     "id": "MOV-100-044",
@@ -1299,22 +783,10 @@
     "question_en": "Which director made \"Do the Right Thing\" (1989) and \"Malcolm X\" (1992)?",
     "question_ar": "مين المخرج اللي عمل \"دو ذا رايت ثينج\" سنة 1989 و\"مالكوم إكس\" سنة 1992؟",
     "options": [
-      {
-        "en": "John Singleton",
-        "ar": "جون سينجلتون"
-      },
-      {
-        "en": "Barry Jenkins",
-        "ar": "باري جينكينز"
-      },
-      {
-        "en": "F. Gary Gray",
-        "ar": "إف جاري جراي"
-      },
-      {
-        "en": "Spike Lee",
-        "ar": "سبايك لي"
-      }
+      { "en": "John Singleton", "ar": "جون سينجلتون" },
+      { "en": "Barry Jenkins", "ar": "باري جينكينز" },
+      { "en": "F. Gary Gray", "ar": "إف جاري جراي" },
+      { "en": "Spike Lee", "ar": "سبايك لي" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Spike Lee directed both films.",
@@ -1326,29 +798,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "In John Carpenter's \"The Thing\" (1982), which actor leads the team facing a shape-shifting alien?",
-    "question_ar": "في فيلم \"ذا ثينج\" لجون كاربنتر سنة 1982، مين اللي بيقود الفريق ضد كائن فضائي بيغير شكله؟",
+    "question_en": "Which of these is a well-known modern Egyptian actor, also part of the \"Ashab Wala Aazz\" cast?",
+    "question_ar": "مين من دول ممثل مصري حديث معروف، وكمان من نجوم فيلم \"أصحاب ولا أعز\"؟",
     "options": [
-      {
-        "en": "Kurt Russell",
-        "ar": "كيرت راسل"
-      },
-      {
-        "en": "Richard Dysart",
-        "ar": "ريتشارد دايسارت"
-      },
-      {
-        "en": "Keith David",
-        "ar": "كيث ديفيد"
-      },
-      {
-        "en": "Wilford Brimley",
-        "ar": "ويلفورد بريملي"
-      }
+      { "en": "Ahmed Dawood", "ar": "أحمد داوود" },
+      { "en": "Ryan Gosling", "ar": "ريان جوسلينج" },
+      { "en": "Cillian Murphy", "ar": "كيليان ميرفي" },
+      { "en": "Paul Mescal", "ar": "بول ميسكال" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Kurt Russell plays R.J. MacReady, the team's leader.",
-    "explanation_ar": "كيرت راسل بيمثل دور آر جيه ماكريدي قائد الفريق."
+    "explanation_en": "Ahmed Dawood is part of the \"Ashab Wala Aazz\" ensemble cast.",
+    "explanation_ar": "أحمد داوود من نجوم فيلم أصحاب ولا أعز."
   },
   {
     "id": "MOV-100-046",
@@ -1359,26 +819,14 @@
     "question_en": "Which composer wrote the iconic scores for \"Star Wars\", \"Jaws\", \"E.T.\" and \"Indiana Jones\"?",
     "question_ar": "مين الملحن اللي كتب موسيقى \"ستار وورز\" و\"جوز\" و\"إي تي\" و\"إنديانا جونز\" الشهيرة؟",
     "options": [
-      {
-        "en": "Ennio Morricone",
-        "ar": "إينيو موريكوني"
-      },
-      {
-        "en": "Hans Zimmer",
-        "ar": "هانز زيمر"
-      },
-      {
-        "en": "James Horner",
-        "ar": "جيمس هورنر"
-      },
-      {
-        "en": "John Williams",
-        "ar": "جون ويليامز"
-      }
+      { "en": "Ennio Morricone", "ar": "إينيو موريكوني" },
+      { "en": "Hans Zimmer", "ar": "هانز زيمر" },
+      { "en": "James Horner", "ar": "جيمس هورنر" },
+      { "en": "John Williams", "ar": "جون ويليامز" }
     ],
     "correctAnswer": 3,
     "explanation_en": "John Williams composed all four iconic scores.",
-    "explanation_ar": "جون ويليامز لحن موسيقى الأفلام التمانية دي كلها."
+    "explanation_ar": "جون ويليامز لحن موسيقى الأفلام الأربعة دي كلها."
   },
   {
     "id": "MOV-100-047",
@@ -1386,29 +834,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Kubrick's \"The Shining\", based on a Stephen King novel, stars Jack Nicholson as a writer who goes insane in what setting?",
-    "question_ar": "فيلم \"ذا شايننج\" لكوبريك، المأخوذ عن رواية ستيفن كينج، جاك نيكلسون فيه كاتب بيتجنن في إيه مكان؟",
+    "question_en": "Director Ayten Amin's 2020 drama \"Souad\" premiered at which section of the Cannes Film Festival?",
+    "question_ar": "فيلم \"أسوأد\" للمخرجة آيتن أمين سنة 2020 اتعرض لأول مرة في إيه قسم من مهرجان كان؟",
     "options": [
-      {
-        "en": "A haunted, isolated hotel",
-        "ar": "فندق مسكون ومعزول"
-      },
-      {
-        "en": "An abandoned asylum",
-        "ar": "مصحة مهجورة"
-      },
-      {
-        "en": "A snowbound cabin",
-        "ar": "كابينة محاصرة بالثلج"
-      },
-      {
-        "en": "A remote lighthouse",
-        "ar": "منارة نائية"
-      }
+      { "en": "Un Certain Regard", "ar": "نظرة ما" },
+      { "en": "The main competition", "ar": "المسابقة الرسمية" },
+      { "en": "Directors' Fortnight", "ar": "أسبوعا المخرجين" },
+      { "en": "Critics' Week", "ar": "أسبوع النقاد" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "He goes insane as caretaker of an isolated, haunted hotel.",
-    "explanation_ar": "بيتجنن وهو حارس فندق معزول ومسكون."
+    "explanation_en": "\"Souad\" (2020) premiered in Cannes' Un Certain Regard section.",
+    "explanation_ar": "فيلم أسوأد سنة 2020 اتعرض لأول مرة في قسم نظرة ما بمهرجان كان."
   },
   {
     "id": "MOV-100-048",
@@ -1419,22 +855,10 @@
     "question_en": "Tarantino's \"Pulp Fiction\" interweaves a diner robbery, two hitmen, and a boxer who was supposed to do what?",
     "question_ar": "فيلم \"بلب فيكشن\" لتارانتينو بيربط بين سرقة مطعم واتنين قتلة وملاكم كان المفروض يعمل إيه؟",
     "options": [
-      {
-        "en": "Train a young boxer",
-        "ar": "يدرب ملاكم شاب"
-      },
-      {
-        "en": "Fake his own death",
-        "ar": "يزور موته"
-      },
-      {
-        "en": "Retire after one last match",
-        "ar": "يعتزل بعد آخر مباراة"
-      },
-      {
-        "en": "Throw a fixed fight",
-        "ar": "يخسر مباراة متفق عليها"
-      }
+      { "en": "Train a young boxer", "ar": "يدرب ملاكم شاب" },
+      { "en": "Fake his own death", "ar": "يزور موته" },
+      { "en": "Retire after one last match", "ar": "يعتزل بعد آخر مباراة" },
+      { "en": "Throw a fixed fight", "ar": "يخسر مباراة متفق عليها" }
     ],
     "correctAnswer": 3,
     "explanation_en": "The boxer Butch was supposed to throw a fixed fight but doesn't.",
@@ -1446,29 +870,17 @@
     "category_ar": "افلام",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which 1931 Universal film introduced Bela Lugosi as the iconic vampire count?",
-    "question_ar": "إيه فيلم يونيفرسال سنة 1931 اللي قدم بيلا لوجوسي كأيقونة الكونت مصاص الدماء؟",
+    "question_en": "Which of these is a well-known modern Egyptian actress, part of the \"Kira & El Gin\" or \"El Kenz\" ensemble casts?",
+    "question_ar": "مين من دول ممثلة مصرية حديثة معروفة من نجمات فيلمي \"كيرة والجن\" أو \"الكنز\"؟",
     "options": [
-      {
-        "en": "Frankenstein",
-        "ar": "فرانكشتاين"
-      },
-      {
-        "en": "Dracula",
-        "ar": "دراكولا"
-      },
-      {
-        "en": "The Mummy",
-        "ar": "ذا موميي"
-      },
-      {
-        "en": "Nosferatu",
-        "ar": "نوسفيراتو"
-      }
+      { "en": "Hana El Zahed", "ar": "هنا الزاهد" },
+      { "en": "Florence Pugh", "ar": "فلورنس بيو" },
+      { "en": "Anya Taylor-Joy", "ar": "آنيا تايلور جوي" },
+      { "en": "Zendaya", "ar": "زيندايا" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "\"Dracula\" (1931) introduced Bela Lugosi's iconic role.",
-    "explanation_ar": "فيلم دراكولا سنة 1931 قدم دور بيلا لوجوسي الأيقوني."
+    "correctAnswer": 0,
+    "explanation_en": "Hana El Zahed is a modern Egyptian actress featured in \"Kira & El Gin\".",
+    "explanation_ar": "هنا الزاهد ممثلة مصرية حديثة ظهرت في فيلم كيرة والجن."
   },
   {
     "id": "MOV-100-050",
@@ -1479,22 +891,10 @@
     "question_en": "Which director filmed a single 1917 WWI story to appear as one continuous unbroken shot, in \"1917\" (2019)?",
     "question_ar": "مين المخرج اللي صور فيلم \"1917\" سنة 2019 وكأنه لقطة واحدة متواصلة من غير قطع؟",
     "options": [
-      {
-        "en": "Denis Villeneuve",
-        "ar": "دينيس فيلنوف"
-      },
-      {
-        "en": "Sam Mendes",
-        "ar": "سام مينديز"
-      },
-      {
-        "en": "Christopher Nolan",
-        "ar": "كريستوفر نولان"
-      },
-      {
-        "en": "Alejandro Iñárritu",
-        "ar": "أليخاندرو إيناريتو"
-      }
+      { "en": "Denis Villeneuve", "ar": "دينيس فيلنوف" },
+      { "en": "Sam Mendes", "ar": "سام مينديز" },
+      { "en": "Christopher Nolan", "ar": "كريستوفر نولان" },
+      { "en": "Alejandro Iñárritu", "ar": "أليخاندرو إيناريتو" }
     ],
     "correctAnswer": 1,
     "explanation_en": "Sam Mendes directed \"1917\" with its famous one-shot technique.",
