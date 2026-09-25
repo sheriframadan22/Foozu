@@ -1,52 +1,1502 @@
 [
-  {"id":"SCI-010-001","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What is the Sun?","question_ar":"إيه هي الشمس؟","options":[{"en":"A star","ar":"نجمة"},{"en":"A planet","ar":"كوكب"},{"en":"A moon","ar":"قمر"},{"en":"A comet","ar":"مذنب"}],"correctAnswer":0,"explanation_en":"The Sun is a star at the center of our solar system.","explanation_ar":"الشمس نجمة في نص المجموعة الشمسية."},
-  {"id":"SCI-010-002","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"How many planets are in our solar system?","question_ar":"كام كوكب في المجموعة الشمسية؟","options":[{"en":"7","ar":"7"},{"en":"8","ar":"8"},{"en":"9","ar":"9"},{"en":"10","ar":"10"}],"correctAnswer":1,"explanation_en":"There are 8 planets since Pluto was reclassified in 2006.","explanation_ar":"فيه 8 كواكب بعد ما بلوتو اتشال من القايمة سنة 2006."},
-  {"id":"SCI-010-003","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which gas do humans need to breathe to survive?","question_ar":"أنهي غاز الإنسان لازم يتنفسه عشان يعيش؟","options":[{"en":"Oxygen","ar":"الأكسجين"},{"en":"Nitrogen","ar":"النيتروجين"},{"en":"Carbon dioxide","ar":"ثاني أكسيد الكربون"},{"en":"Hydrogen","ar":"الهيدروجين"}],"correctAnswer":0,"explanation_en":"Our bodies need oxygen to turn food into energy.","explanation_ar":"جسمنا محتاج الأكسجين عشان يحول الأكل لطاقة."},
-  {"id":"SCI-010-004","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"At what temperature does water boil, in Celsius?","question_ar":"المية بتغلي عند كام درجة مئوية؟","options":[{"en":"90°C","ar":"90 درجة"},{"en":"100°C","ar":"100 درجة"},{"en":"110°C","ar":"110 درجة"},{"en":"120°C","ar":"120 درجة"}],"correctAnswer":1,"explanation_en":"Water boils at 100°C at sea level.","explanation_ar":"المية بتغلي عند 100 درجة مئوية عند سطح البحر."},
-  {"id":"SCI-010-005","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"At what temperature does water freeze, in Celsius?","question_ar":"المية بتتجمد عند كام درجة مئوية؟","options":[{"en":"0°C","ar":"صفر"},{"en":"10°C","ar":"10 درجة"},{"en":"-10°C","ar":"-10 درجة"},{"en":"32°C","ar":"32 درجة"}],"correctAnswer":0,"explanation_en":"Pure water freezes at 0°C.","explanation_ar":"المية النقية بتتجمد عند صفر درجة مئوية."},
-  {"id":"SCI-010-006","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which organ pumps blood around the body?","question_ar":"أنهي عضو بيضخ الدم في الجسم؟","options":[{"en":"The heart","ar":"القلب"},{"en":"The lungs","ar":"الرئتين"},{"en":"The liver","ar":"الكبد"},{"en":"The kidney","ar":"الكلى"}],"correctAnswer":0,"explanation_en":"The heart pumps blood through the whole body.","explanation_ar":"القلب هو اللي بيضخ الدم في كل الجسم."},
-  {"id":"SCI-010-007","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which planet is closest to the Sun?","question_ar":"أنهي كوكب أقرب للشمس؟","options":[{"en":"Mercury","ar":"عطارد"},{"en":"Venus","ar":"الزهرة"},{"en":"Earth","ar":"الأرض"},{"en":"Mars","ar":"المريخ"}],"correctAnswer":0,"explanation_en":"Mercury is the closest planet to the Sun.","explanation_ar":"عطارد هو أقرب كوكب للشمس."},
-  {"id":"SCI-010-008","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which is the largest planet in the solar system?","question_ar":"أنهي أكبر كوكب في المجموعة الشمسية؟","options":[{"en":"Jupiter","ar":"المشترى"},{"en":"Saturn","ar":"زحل"},{"en":"Earth","ar":"الأرض"},{"en":"Neptune","ar":"نبتون"}],"correctAnswer":0,"explanation_en":"Jupiter is by far the largest planet.","explanation_ar":"المشترى هو أكبر كوكب من غير منافسة."},
-  {"id":"SCI-010-009","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which planet is known as the \"Red Planet\"?","question_ar":"أنهي كوكب معروف باسم \"الكوكب الأحمر\"؟","options":[{"en":"Mars","ar":"المريخ"},{"en":"Venus","ar":"الزهرة"},{"en":"Mercury","ar":"عطارد"},{"en":"Saturn","ar":"زحل"}],"correctAnswer":0,"explanation_en":"Mars looks red because of iron oxide (rust) on its surface.","explanation_ar":"المريخ شكله أحمر بسبب أكسيد الحديد (الصدأ) على سطحه."},
-  {"id":"SCI-010-010","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What is Earth's only natural satellite?","question_ar":"إيه القمر الطبيعي الوحيد بتاع الأرض؟","options":[{"en":"The Moon","ar":"القمر"},{"en":"Mars","ar":"المريخ"},{"en":"The Sun","ar":"الشمس"},{"en":"A star","ar":"نجمة"}],"correctAnswer":0,"explanation_en":"The Moon is Earth's only natural satellite.","explanation_ar":"القمر هو القمر الطبيعي الوحيد للأرض."},
-  {"id":"SCI-010-011","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"How many legs does a spider have?","question_ar":"كام رجل عند العنكبوت؟","options":[{"en":"6","ar":"6"},{"en":"8","ar":"8"},{"en":"10","ar":"10"},{"en":"4","ar":"4"}],"correctAnswer":1,"explanation_en":"Spiders have 8 legs, unlike insects which have 6.","explanation_ar":"العنكبوت عنده 8 أرجل، عكس الحشرات اللي عندها 6."},
-  {"id":"SCI-010-012","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What do bees make?","question_ar":"إيه اللي النحل بينتجه؟","options":[{"en":"Honey","ar":"العسل"},{"en":"Milk","ar":"اللبن"},{"en":"Silk","ar":"الحرير"},{"en":"Sugar","ar":"السكر"}],"correctAnswer":0,"explanation_en":"Bees make honey from flower nectar.","explanation_ar":"النحل بينتج العسل من رحيق الزهور."},
-  {"id":"SCI-010-013","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What does a caterpillar turn into?","question_ar":"الدودة (اليرقة) بتتحول لإيه؟","options":[{"en":"A butterfly","ar":"فراشة"},{"en":"A bee","ar":"نحلة"},{"en":"A bird","ar":"عصفورة"},{"en":"A fly","ar":"دبانة"}],"correctAnswer":0,"explanation_en":"Caterpillars transform into butterflies.","explanation_ar":"اليرقة بتتحول لفراشة."},
-  {"id":"SCI-010-014","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What is the chemical formula for water?","question_ar":"إيه الصيغة الكيميائية للمية؟","options":[{"en":"H2O","ar":"H2O"},{"en":"CO2","ar":"CO2"},{"en":"O2","ar":"O2"},{"en":"NaCl","ar":"NaCl"}],"correctAnswer":0,"explanation_en":"Water is made of two hydrogen atoms and one oxygen atom.","explanation_ar":"المية بتتكون من ذرتين هيدروجين وذرة أكسجين."},
-  {"id":"SCI-010-015","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which organ do we use to see?","question_ar":"بأنهي عضو بنشوف؟","options":[{"en":"Eyes","ar":"العين"},{"en":"Ears","ar":"الأذن"},{"en":"Nose","ar":"الأنف"},{"en":"Skin","ar":"الجلد"}],"correctAnswer":0,"explanation_en":"The eyes are the organs of sight.","explanation_ar":"العين هي عضو الإبصار."},
-  {"id":"SCI-010-016","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which organ do we use to breathe?","question_ar":"بأنهي عضو بنتنفس؟","options":[{"en":"Lungs","ar":"الرئتين"},{"en":"Heart","ar":"القلب"},{"en":"Liver","ar":"الكبد"},{"en":"Stomach","ar":"المعدة"}],"correctAnswer":0,"explanation_en":"The lungs take in oxygen and release carbon dioxide.","explanation_ar":"الرئتين بياخدوا الأكسجين وبيطلعوا ثاني أكسيد الكربون."},
-  {"id":"SCI-010-017","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"How many continents are there on Earth?","question_ar":"الأرض فيها كام قارة؟","options":[{"en":"5","ar":"5"},{"en":"6","ar":"6"},{"en":"7","ar":"7"},{"en":"8","ar":"8"}],"correctAnswer":2,"explanation_en":"Earth has 7 continents.","explanation_ar":"الأرض فيها 7 قارات."},
-  {"id":"SCI-010-018","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"About how many days does Earth take to orbit the Sun once?","question_ar":"الأرض بتلف حوالين الشمس في حوالي كام يوم؟","options":[{"en":"300","ar":"300"},{"en":"365","ar":"365"},{"en":"400","ar":"400"},{"en":"200","ar":"200"}],"correctAnswer":1,"explanation_en":"Earth takes about 365 days to complete one orbit around the Sun.","explanation_ar":"الأرض بتاخد حوالي 365 يوم عشان تلف لفة كاملة حوالين الشمس."},
-  {"id":"SCI-010-019","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"How many hours are in one day?","question_ar":"اليوم فيه كام ساعة؟","options":[{"en":"12","ar":"12"},{"en":"20","ar":"20"},{"en":"24","ar":"24"},{"en":"30","ar":"30"}],"correctAnswer":2,"explanation_en":"A full day-night cycle is 24 hours.","explanation_ar":"اليوم بالليلة بتاعته 24 ساعة."},
-  {"id":"SCI-010-020","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which force pulls objects down toward the ground?","question_ar":"أنهي قوة بتشد الحاجات لتحت ناحية الأرض؟","options":[{"en":"Gravity","ar":"الجاذبية"},{"en":"Magnetism","ar":"المغناطيسية"},{"en":"Friction","ar":"الاحتكاك"},{"en":"Energy","ar":"الطاقة"}],"correctAnswer":0,"explanation_en":"Gravity is the force that pulls objects toward Earth.","explanation_ar":"الجاذبية هي القوة اللي بتشد الحاجات ناحية الأرض."},
-  {"id":"SCI-010-021","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What is the largest organ in the human body?","question_ar":"إيه أكبر عضو في جسم الإنسان؟","options":[{"en":"Skin","ar":"الجلد"},{"en":"Liver","ar":"الكبد"},{"en":"Heart","ar":"القلب"},{"en":"Brain","ar":"المخ"}],"correctAnswer":0,"explanation_en":"The skin is the body's largest organ.","explanation_ar":"الجلد هو أكبر عضو في جسم الإنسان."},
-  {"id":"SCI-010-022","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What is ice?","question_ar":"إيه هو التلج (الجليد)؟","options":[{"en":"Frozen water","ar":"مية متجمدة"},{"en":"Frozen air","ar":"هوا متجمد"},{"en":"Solid oxygen","ar":"أكسجين صلب"},{"en":"Frozen salt","ar":"ملح متجمد"}],"correctAnswer":0,"explanation_en":"Ice is simply water in its solid, frozen form.","explanation_ar":"التلج هو المية في شكلها المتجمد الصلب."},
-  {"id":"SCI-010-023","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What do plants need most, besides water and soil, to grow well?","question_ar":"النبات محتاج إيه كمان غير المية والتربة عشان ينمو كويس؟","options":[{"en":"Sunlight","ar":"ضوء الشمس"},{"en":"Darkness","ar":"الضلمة"},{"en":"Salt","ar":"الملح"},{"en":"Smoke","ar":"الدخان"}],"correctAnswer":0,"explanation_en":"Plants use sunlight to make their own food.","explanation_ar":"النبات بيستخدم ضوء الشمس عشان يعمل غذاؤه بنفسه."},
-  {"id":"SCI-010-024","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"How many basic senses do humans have?","question_ar":"الإنسان عنده كام حاسة أساسية؟","options":[{"en":"3","ar":"3"},{"en":"4","ar":"4"},{"en":"5","ar":"5"},{"en":"6","ar":"6"}],"correctAnswer":2,"explanation_en":"Humans have 5 basic senses: sight, hearing, smell, taste and touch.","explanation_ar":"الإنسان عنده 5 حواس أساسية: البصر والسمع والشم والتذوق واللمس."},
-  {"id":"SCI-010-025","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What do we call the science that studies stars and space?","question_ar":"بيتقال إيه للعلم اللي بيدرس النجوم والفضاء؟","options":[{"en":"Astronomy","ar":"علم الفلك"},{"en":"Biology","ar":"علم الأحياء"},{"en":"Geology","ar":"علم الجيولوجيا"},{"en":"Chemistry","ar":"الكيمياء"}],"correctAnswer":0,"explanation_en":"Astronomy is the study of stars, planets and space.","explanation_ar":"علم الفلك بيدرس النجوم والكواكب والفضاء."},
-  {"id":"SCI-010-026","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What are clouds mainly made of?","question_ar":"السحاب بيتكون بشكل أساسي من إيه؟","options":[{"en":"Tiny water droplets","ar":"قطرات مية صغيرة"},{"en":"Smoke","ar":"دخان"},{"en":"Dust","ar":"تراب"},{"en":"Sand","ar":"رمل"}],"correctAnswer":0,"explanation_en":"Clouds form from tiny droplets of water suspended in the air.","explanation_ar":"السحاب بيتكون من قطرات مية صغيرة عايمة في الهوا."},
-  {"id":"SCI-010-027","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which planet do humans live on?","question_ar":"الإنسان عايش على أنهي كوكب؟","options":[{"en":"Earth","ar":"الأرض"},{"en":"Mars","ar":"المريخ"},{"en":"Venus","ar":"الزهرة"},{"en":"Mercury","ar":"عطارد"}],"correctAnswer":0,"explanation_en":"Humans live on planet Earth.","explanation_ar":"الإنسان عايش على كوكب الأرض."},
-  {"id":"SCI-010-028","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What tool is used to measure temperature?","question_ar":"إيه الأداة اللي بتقيس درجة الحرارة؟","options":[{"en":"Thermometer","ar":"الترمومتر"},{"en":"Barometer","ar":"البارومتر"},{"en":"Telescope","ar":"التليسكوب"},{"en":"Microscope","ar":"الميكروسكوب"}],"correctAnswer":0,"explanation_en":"A thermometer is used to measure temperature.","explanation_ar":"الترمومتر هو اللي بيستخدم لقياس درجة الحرارة."},
-  {"id":"SCI-010-029","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What do we call the flash of light seen during a storm?","question_ar":"بيتقال إيه لومضة الضوء اللي بنشوفها وقت العاصفة؟","options":[{"en":"Lightning","ar":"البرق"},{"en":"Thunder","ar":"الرعد"},{"en":"Rainbow","ar":"قوس قزح"},{"en":"Hail","ar":"البرد"}],"correctAnswer":0,"explanation_en":"Lightning is the sudden flash of light during a storm.","explanation_ar":"البرق هو ومضة الضوء المفاجئة وقت العاصفة."},
-  {"id":"SCI-010-030","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What do we call the loud sound that follows lightning?","question_ar":"بيتقال إيه للصوت العالي اللي بيجي بعد البرق؟","options":[{"en":"Thunder","ar":"الرعد"},{"en":"Lightning","ar":"البرق"},{"en":"Echo","ar":"الصدى"},{"en":"Wind","ar":"الريح"}],"correctAnswer":0,"explanation_en":"Thunder is the sound caused by lightning.","explanation_ar":"الرعد هو الصوت اللي بيسببه البرق."},
-  {"id":"SCI-010-031","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What color is human blood?","question_ar":"دم الإنسان لونه إيه؟","options":[{"en":"Red","ar":"أحمر"},{"en":"Blue","ar":"أزرق"},{"en":"Green","ar":"أخضر"},{"en":"Yellow","ar":"أصفر"}],"correctAnswer":0,"explanation_en":"Human blood is red because of hemoglobin.","explanation_ar":"دم الإنسان لونه أحمر بسبب مادة الهيموجلوبين."},
-  {"id":"SCI-010-032","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What is the closest star to Earth?","question_ar":"إيه أقرب نجمة للأرض؟","options":[{"en":"The Sun","ar":"الشمس"},{"en":"Sirius","ar":"الشعرى اليمانية"},{"en":"Polaris","ar":"النجم القطبي"},{"en":"Alpha Centauri","ar":"ألفا سنتوري"}],"correctAnswer":0,"explanation_en":"The Sun is the star closest to Earth.","explanation_ar":"الشمس هي أقرب نجمة للأرض."},
-  {"id":"SCI-010-033","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which organ do we use to smell?","question_ar":"بأنهي عضو بنشم؟","options":[{"en":"Nose","ar":"الأنف"},{"en":"Ears","ar":"الأذن"},{"en":"Eyes","ar":"العين"},{"en":"Tongue","ar":"اللسان"}],"correctAnswer":0,"explanation_en":"The nose is the organ used for smelling.","explanation_ar":"الأنف هو عضو الشم."},
-  {"id":"SCI-010-034","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which organ do we use to hear?","question_ar":"بأنهي عضو بنسمع؟","options":[{"en":"Ears","ar":"الأذن"},{"en":"Eyes","ar":"العين"},{"en":"Nose","ar":"الأنف"},{"en":"Skin","ar":"الجلد"}],"correctAnswer":0,"explanation_en":"The ears are the organs used for hearing.","explanation_ar":"الأذن هي عضو السمع."},
-  {"id":"SCI-010-035","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What causes day and night on Earth?","question_ar":"إيه سبب الليل والنهار على الأرض؟","options":[{"en":"Earth's rotation on its axis","ar":"دوران الأرض حوالين نفسها"},{"en":"The Moon's orbit","ar":"دوران القمر"},{"en":"The Sun moving around Earth","ar":"الشمس بتلف حوالين الأرض"},{"en":"Clouds","ar":"السحاب"}],"correctAnswer":0,"explanation_en":"Earth rotating on its axis causes day and night.","explanation_ar":"دوران الأرض حوالين نفسها هو سبب الليل والنهار."},
-  {"id":"SCI-010-036","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What do we call the science that studies living things?","question_ar":"بيتقال إيه للعلم اللي بيدرس الكائنات الحية؟","options":[{"en":"Biology","ar":"علم الأحياء"},{"en":"Astronomy","ar":"علم الفلك"},{"en":"Geology","ar":"علم الجيولوجيا"},{"en":"Physics","ar":"الفيزياء"}],"correctAnswer":0,"explanation_en":"Biology is the study of living organisms.","explanation_ar":"علم الأحياء بيدرس الكائنات الحية."},
-  {"id":"SCI-010-037","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What do we call water when it turns into gas form?","question_ar":"بيتقال إيه للمية لما تتحول لشكل غازي؟","options":[{"en":"Steam","ar":"بخار"},{"en":"Ice","ar":"تلج"},{"en":"Snow","ar":"ثلج"},{"en":"Frost","ar":"صقيع"}],"correctAnswer":0,"explanation_en":"Water turns into steam when heated enough.","explanation_ar":"المية بتتحول لبخار لما تتسخن بدرجة كفاية."},
-  {"id":"SCI-010-038","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What do we call frozen precipitation that falls in cold weather?","question_ar":"بيتقال إيه للمطر المتجمد اللي بينزل في الجو البارد؟","options":[{"en":"Snow","ar":"الثلج"},{"en":"Rain","ar":"المطر"},{"en":"Steam","ar":"البخار"},{"en":"Dew","ar":"الندى"}],"correctAnswer":0,"explanation_en":"Snow is precipitation that falls as ice crystals in cold weather.","explanation_ar":"الثلج أمطار بتنزل في شكل بلورات جليد وقت البرد."},
-  {"id":"SCI-010-039","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"How do fish breathe underwater?","question_ar":"السمك بيتنفس تحت المية إزاي؟","options":[{"en":"Using gills","ar":"بالخياشيم"},{"en":"Using lungs","ar":"بالرئتين"},{"en":"Using skin only","ar":"بالجلد بس"},{"en":"Holding their breath","ar":"بيحبس نفسه"}],"correctAnswer":0,"explanation_en":"Fish use gills to extract oxygen from water.","explanation_ar":"السمك بيستخدم الخياشيم عشان ياخد الأكسجين من المية."},
-  {"id":"SCI-010-040","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What do birds use to fly?","question_ar":"الطيور بتستخدم إيه عشان تطير؟","options":[{"en":"Wings","ar":"الأجنحة"},{"en":"Legs","ar":"الأرجل"},{"en":"Tails","ar":"الديل"},{"en":"Beaks","ar":"المنقار"}],"correctAnswer":0,"explanation_en":"Birds use their wings to fly.","explanation_ar":"الطيور بتستخدم أجنحتها عشان تطير."},
-  {"id":"SCI-010-041","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which gas do plants absorb from the air to make food?","question_ar":"أنهي غاز النبات بياخده من الهوا عشان يعمل غذاؤه؟","options":[{"en":"Carbon dioxide","ar":"ثاني أكسيد الكربون"},{"en":"Oxygen","ar":"الأكسجين"},{"en":"Nitrogen","ar":"النيتروجين"},{"en":"Hydrogen","ar":"الهيدروجين"}],"correctAnswer":0,"explanation_en":"Plants absorb carbon dioxide for photosynthesis.","explanation_ar":"النبات بياخد ثاني أكسيد الكربون عشان يعمل عملية البناء الضوئي."},
-  {"id":"SCI-010-042","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What do we usually see in the sky after it rains, when the sun comes out?","question_ar":"بنشوف إيه عادة في السما بعد المطر لما الشمس تطلع؟","options":[{"en":"A rainbow","ar":"قوس قزح"},{"en":"A comet","ar":"مذنب"},{"en":"A meteor","ar":"شهاب"},{"en":"A star","ar":"نجمة"}],"correctAnswer":0,"explanation_en":"Sunlight passing through raindrops creates a rainbow.","explanation_ar":"ضوء الشمس لما بيعدي جوه قطرات المطر بيكوّن قوس قزح."},
-  {"id":"SCI-010-043","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which organ controls the whole body and its actions?","question_ar":"أنهي عضو بيتحكم في الجسم كله وحركاته؟","options":[{"en":"The brain","ar":"المخ"},{"en":"The heart","ar":"القلب"},{"en":"The liver","ar":"الكبد"},{"en":"The skin","ar":"الجلد"}],"correctAnswer":0,"explanation_en":"The brain controls all body functions and actions.","explanation_ar":"المخ هو اللي بيتحكم في كل وظائف وحركات الجسم."},
-  {"id":"SCI-010-044","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Which organ helps digest the food we eat?","question_ar":"أنهي عضو بيساعد على هضم الأكل اللي بناكله؟","options":[{"en":"Stomach","ar":"المعدة"},{"en":"Lungs","ar":"الرئتين"},{"en":"Heart","ar":"القلب"},{"en":"Skin","ar":"الجلد"}],"correctAnswer":0,"explanation_en":"The stomach breaks down food as part of digestion.","explanation_ar":"المعدة بتفكك الأكل كجزء من عملية الهضم."},
-  {"id":"SCI-010-045","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"Is a whale a fish or a mammal?","question_ar":"الحوت سمكة ولا من الثدييات؟","options":[{"en":"A mammal","ar":"من الثدييات"},{"en":"A fish","ar":"سمكة"},{"en":"A reptile","ar":"زاحف"},{"en":"An amphibian","ar":"برمائي"}],"correctAnswer":0,"explanation_en":"Whales are mammals that breathe air and nurse their young.","explanation_ar":"الحوت من الثدييات، بيتنفس هوا وبيرضع صغاره."},
-  {"id":"SCI-010-046","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What do volcanoes release when they erupt?","question_ar":"البركان بيطلع إيه لما ينفجر؟","options":[{"en":"Lava","ar":"الحمم (اللابا)"},{"en":"Snow","ar":"ثلج"},{"en":"Sand only","ar":"رمل بس"},{"en":"Water only","ar":"مية بس"}],"correctAnswer":0,"explanation_en":"Volcanoes release hot molten rock called lava.","explanation_ar":"البركان بيطلع صخر منصهر ساخن اسمه الحمم (اللابا)."},
-  {"id":"SCI-010-047","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What natural event causes the ground to shake suddenly?","question_ar":"إيه الحدث الطبيعي اللي بيخلي الأرض تهتز فجأة؟","options":[{"en":"An earthquake","ar":"الزلزال"},{"en":"A volcano","ar":"البركان"},{"en":"A tornado","ar":"الإعصار"},{"en":"A flood","ar":"الفيضان"}],"correctAnswer":0,"explanation_en":"Earthquakes are sudden shaking caused by movement of Earth's plates.","explanation_ar":"الزلزال اهتزاز مفاجئ للأرض بسبب حركة الصفائح الأرضية."},
-  {"id":"SCI-010-048","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What is the human skeleton mainly made of?","question_ar":"الهيكل العظمي للإنسان بيتكون من إيه بشكل أساسي؟","options":[{"en":"Bones","ar":"العظام"},{"en":"Muscles","ar":"العضلات"},{"en":"Fat","ar":"الدهون"},{"en":"Skin","ar":"الجلد"}],"correctAnswer":0,"explanation_en":"The human skeleton is made up of bones.","explanation_ar":"الهيكل العظمي للإنسان بيتكون من العظام."},
-  {"id":"SCI-010-049","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What do we call small balls of ice that sometimes fall during storms?","question_ar":"بيتقال إيه لحبات التلج الصغيرة اللي بتنزل أحيانًا وقت العواصف؟","options":[{"en":"Hail","ar":"البرد"},{"en":"Snow","ar":"الثلج"},{"en":"Rain","ar":"المطر"},{"en":"Fog","ar":"الضباب"}],"correctAnswer":0,"explanation_en":"Hail is small lumps of ice that fall during some storms.","explanation_ar":"البرد كور تلج صغيرة بتنزل وقت بعض العواصف."},
-  {"id":"SCI-010-050","category":"Science","category_ar":"خمن العلم","value":10,"difficulty":1,"question_en":"What is the only mammal that can truly fly?","question_ar":"إيه هو الثديي الوحيد اللي بيقدر يطير طيران حقيقي؟","options":[{"en":"The bat","ar":"الخفاش"},{"en":"The flying squirrel","ar":"السنجاب الطيار"},{"en":"The eagle","ar":"النسر"},{"en":"The ostrich","ar":"النعامة"}],"correctAnswer":0,"explanation_en":"Bats are the only mammals capable of sustained flight.","explanation_ar":"الخفاش هو الثديي الوحيد اللي بيقدر يطير طيران حقيقي مستمر."}
+  {
+    "id": "SCI-010-001",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the Sun?",
+    "question_ar": "إيه هي الشمس؟",
+    "options": [
+      {
+        "en": "A moon",
+        "ar": "قمر"
+      },
+      {
+        "en": "A comet",
+        "ar": "مذنب"
+      },
+      {
+        "en": "A planet",
+        "ar": "كوكب"
+      },
+      {
+        "en": "A star",
+        "ar": "نجمة"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The Sun is a star at the center of our solar system.",
+    "explanation_ar": "الشمس نجمة في نص المجموعة الشمسية."
+  },
+  {
+    "id": "SCI-010-002",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "How many planets are in our solar system?",
+    "question_ar": "كام كوكب في المجموعة الشمسية؟",
+    "options": [
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "There are 8 planets since Pluto was reclassified in 2006.",
+    "explanation_ar": "فيه 8 كواكب بعد ما بلوتو اتشال من القايمة سنة 2006."
+  },
+  {
+    "id": "SCI-010-003",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which gas do humans need to breathe to survive?",
+    "question_ar": "أنهي غاز الإنسان لازم يتنفسه عشان يعيش؟",
+    "options": [
+      {
+        "en": "Oxygen",
+        "ar": "الأكسجين"
+      },
+      {
+        "en": "Nitrogen",
+        "ar": "النيتروجين"
+      },
+      {
+        "en": "Carbon dioxide",
+        "ar": "ثاني أكسيد الكربون"
+      },
+      {
+        "en": "Hydrogen",
+        "ar": "الهيدروجين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Our bodies need oxygen to turn food into energy.",
+    "explanation_ar": "جسمنا محتاج الأكسجين عشان يحول الأكل لطاقة."
+  },
+  {
+    "id": "SCI-010-004",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "At what temperature does water boil, in Celsius?",
+    "question_ar": "المية بتغلي عند كام درجة مئوية؟",
+    "options": [
+      {
+        "en": "90°C",
+        "ar": "90 درجة"
+      },
+      {
+        "en": "120°C",
+        "ar": "120 درجة"
+      },
+      {
+        "en": "110°C",
+        "ar": "110 درجة"
+      },
+      {
+        "en": "100°C",
+        "ar": "100 درجة"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Water boils at 100°C at sea level.",
+    "explanation_ar": "المية بتغلي عند 100 درجة مئوية عند سطح البحر."
+  },
+  {
+    "id": "SCI-010-005",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "At what temperature does water freeze, in Celsius?",
+    "question_ar": "المية بتتجمد عند كام درجة مئوية؟",
+    "options": [
+      {
+        "en": "10°C",
+        "ar": "10 درجة"
+      },
+      {
+        "en": "-5°C",
+        "ar": "-5 درجة"
+      },
+      {
+        "en": "32°C",
+        "ar": "32 درجة"
+      },
+      {
+        "en": "0°C",
+        "ar": "صفر"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Pure water freezes at 0°C.",
+    "explanation_ar": "المية النقية بتتجمد عند صفر درجة مئوية."
+  },
+  {
+    "id": "SCI-010-006",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which organ pumps blood around the body?",
+    "question_ar": "أنهي عضو بيضخ الدم في الجسم؟",
+    "options": [
+      {
+        "en": "The heart",
+        "ar": "القلب"
+      },
+      {
+        "en": "The kidney",
+        "ar": "الكلى"
+      },
+      {
+        "en": "The lungs",
+        "ar": "الرئتين"
+      },
+      {
+        "en": "The liver",
+        "ar": "الكبد"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The heart pumps blood through the whole body.",
+    "explanation_ar": "القلب هو اللي بيضخ الدم في كل الجسم."
+  },
+  {
+    "id": "SCI-010-007",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which planet is closest to the Sun?",
+    "question_ar": "أنهي كوكب أقرب للشمس؟",
+    "options": [
+      {
+        "en": "Venus",
+        "ar": "الزهرة"
+      },
+      {
+        "en": "Earth",
+        "ar": "الأرض"
+      },
+      {
+        "en": "Mars",
+        "ar": "المريخ"
+      },
+      {
+        "en": "Mercury",
+        "ar": "عطارد"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Mercury is the closest planet to the Sun.",
+    "explanation_ar": "عطارد هو أقرب كوكب للشمس."
+  },
+  {
+    "id": "SCI-010-008",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which is the largest planet in the solar system?",
+    "question_ar": "أنهي أكبر كوكب في المجموعة الشمسية؟",
+    "options": [
+      {
+        "en": "Saturn",
+        "ar": "زحل"
+      },
+      {
+        "en": "Earth",
+        "ar": "الأرض"
+      },
+      {
+        "en": "Neptune",
+        "ar": "نبتون"
+      },
+      {
+        "en": "Jupiter",
+        "ar": "المشترى"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Jupiter is by far the largest planet.",
+    "explanation_ar": "المشترى هو أكبر كوكب من غير منافسة."
+  },
+  {
+    "id": "SCI-010-009",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which planet is known as the \"Red Planet\"?",
+    "question_ar": "أنهي كوكب معروف باسم \"الكوكب الأحمر\"؟",
+    "options": [
+      {
+        "en": "Mercury",
+        "ar": "عطارد"
+      },
+      {
+        "en": "Mars",
+        "ar": "المريخ"
+      },
+      {
+        "en": "Saturn",
+        "ar": "زحل"
+      },
+      {
+        "en": "Venus",
+        "ar": "الزهرة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Mars looks red because of iron oxide (rust) on its surface.",
+    "explanation_ar": "المريخ شكله أحمر بسبب أكسيد الحديد (الصدأ) على سطحه."
+  },
+  {
+    "id": "SCI-010-010",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is Earth's only natural satellite?",
+    "question_ar": "إيه القمر الطبيعي الوحيد بتاع الأرض؟",
+    "options": [
+      {
+        "en": "The Moon",
+        "ar": "القمر"
+      },
+      {
+        "en": "The Sun",
+        "ar": "الشمس"
+      },
+      {
+        "en": "Mars",
+        "ar": "المريخ"
+      },
+      {
+        "en": "A star",
+        "ar": "نجمة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Moon is Earth's only natural satellite.",
+    "explanation_ar": "القمر هو القمر الطبيعي الوحيد للأرض."
+  },
+  {
+    "id": "SCI-010-011",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "How many legs does a spider have?",
+    "question_ar": "كام رجل عند العنكبوت؟",
+    "options": [
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Spiders have 8 legs, unlike insects which have 6.",
+    "explanation_ar": "العنكبوت عنده 8 أرجل، عكس الحشرات اللي عندها 6."
+  },
+  {
+    "id": "SCI-010-012",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do bees make?",
+    "question_ar": "إيه اللي النحل بينتجه؟",
+    "options": [
+      {
+        "en": "Sugar",
+        "ar": "السكر"
+      },
+      {
+        "en": "Milk",
+        "ar": "اللبن"
+      },
+      {
+        "en": "Silk",
+        "ar": "الحرير"
+      },
+      {
+        "en": "Honey",
+        "ar": "العسل"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Bees make honey from flower nectar.",
+    "explanation_ar": "النحل بينتج العسل من رحيق الزهور."
+  },
+  {
+    "id": "SCI-010-013",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What does a caterpillar turn into?",
+    "question_ar": "الدودة (اليرقة) بتتحول لإيه؟",
+    "options": [
+      {
+        "en": "A butterfly",
+        "ar": "فراشة"
+      },
+      {
+        "en": "A bee",
+        "ar": "نحلة"
+      },
+      {
+        "en": "A bird",
+        "ar": "عصفورة"
+      },
+      {
+        "en": "A fly",
+        "ar": "دبانة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Caterpillars transform into butterflies.",
+    "explanation_ar": "اليرقة بتتحول لفراشة."
+  },
+  {
+    "id": "SCI-010-014",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the chemical formula for water?",
+    "question_ar": "إيه الصيغة الكيميائية للمية؟",
+    "options": [
+      {
+        "en": "H2O",
+        "ar": "H2O"
+      },
+      {
+        "en": "CO2",
+        "ar": "CO2"
+      },
+      {
+        "en": "NaCl",
+        "ar": "NaCl"
+      },
+      {
+        "en": "O2",
+        "ar": "O2"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Water is made of two hydrogen atoms and one oxygen atom.",
+    "explanation_ar": "المية بتتكون من ذرتين هيدروجين وذرة أكسجين."
+  },
+  {
+    "id": "SCI-010-015",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which organ do we use to see?",
+    "question_ar": "بأنهي عضو بنشوف؟",
+    "options": [
+      {
+        "en": "Skin",
+        "ar": "الجلد"
+      },
+      {
+        "en": "Nose",
+        "ar": "الأنف"
+      },
+      {
+        "en": "Ears",
+        "ar": "الأذن"
+      },
+      {
+        "en": "Eyes",
+        "ar": "العين"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The eyes are the organs of sight.",
+    "explanation_ar": "العين هي عضو الإبصار."
+  },
+  {
+    "id": "SCI-010-016",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which organ do we use to breathe?",
+    "question_ar": "بأنهي عضو بنتنفس؟",
+    "options": [
+      {
+        "en": "Heart",
+        "ar": "القلب"
+      },
+      {
+        "en": "Stomach",
+        "ar": "المعدة"
+      },
+      {
+        "en": "Liver",
+        "ar": "الكبد"
+      },
+      {
+        "en": "Lungs",
+        "ar": "الرئتين"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The lungs take in oxygen and release carbon dioxide.",
+    "explanation_ar": "الرئتين بياخدوا الأكسجين وبيطلعوا ثاني أكسيد الكربون."
+  },
+  {
+    "id": "SCI-010-017",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "How many continents are there on Earth?",
+    "question_ar": "الأرض فيها كام قارة؟",
+    "options": [
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "5",
+        "ar": "5"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Earth has 7 continents.",
+    "explanation_ar": "الأرض فيها 7 قارات."
+  },
+  {
+    "id": "SCI-010-018",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "About how many days does Earth take to orbit the Sun once?",
+    "question_ar": "الأرض بتلف حوالين الشمس في حوالي كام يوم؟",
+    "options": [
+      {
+        "en": "400",
+        "ar": "400"
+      },
+      {
+        "en": "300",
+        "ar": "300"
+      },
+      {
+        "en": "365",
+        "ar": "365"
+      },
+      {
+        "en": "200",
+        "ar": "200"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Earth takes about 365 days to complete one orbit around the Sun.",
+    "explanation_ar": "الأرض بتاخد حوالي 365 يوم عشان تلف لفة كاملة حوالين الشمس."
+  },
+  {
+    "id": "SCI-010-019",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "How many hours are in one day?",
+    "question_ar": "اليوم فيه كام ساعة؟",
+    "options": [
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A full day-night cycle is 24 hours.",
+    "explanation_ar": "اليوم بالليلة بتاعته 24 ساعة."
+  },
+  {
+    "id": "SCI-010-020",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which force pulls objects down toward the ground?",
+    "question_ar": "أنهي قوة بتشد الحاجات لتحت ناحية الأرض؟",
+    "options": [
+      {
+        "en": "Friction",
+        "ar": "الاحتكاك"
+      },
+      {
+        "en": "Energy",
+        "ar": "الطاقة"
+      },
+      {
+        "en": "Magnetism",
+        "ar": "المغناطيسية"
+      },
+      {
+        "en": "Gravity",
+        "ar": "الجاذبية"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Gravity is the force that pulls objects toward Earth.",
+    "explanation_ar": "الجاذبية هي القوة اللي بتشد الحاجات ناحية الأرض."
+  },
+  {
+    "id": "SCI-010-021",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the largest organ in the human body?",
+    "question_ar": "إيه أكبر عضو في جسم الإنسان؟",
+    "options": [
+      {
+        "en": "Skin",
+        "ar": "الجلد"
+      },
+      {
+        "en": "Heart",
+        "ar": "القلب"
+      },
+      {
+        "en": "Liver",
+        "ar": "الكبد"
+      },
+      {
+        "en": "Brain",
+        "ar": "المخ"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The skin is the body's largest organ.",
+    "explanation_ar": "الجلد هو أكبر عضو في جسم الإنسان."
+  },
+  {
+    "id": "SCI-010-022",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is ice?",
+    "question_ar": "إيه هو التلج (الجليد)؟",
+    "options": [
+      {
+        "en": "Frozen salt",
+        "ar": "ملح متجمد"
+      },
+      {
+        "en": "Frozen air",
+        "ar": "هوا متجمد"
+      },
+      {
+        "en": "Frozen water",
+        "ar": "مية متجمدة"
+      },
+      {
+        "en": "Solid oxygen",
+        "ar": "أكسجين صلب"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Ice is simply water in its solid, frozen form.",
+    "explanation_ar": "التلج هو المية في شكلها المتجمد الصلب."
+  },
+  {
+    "id": "SCI-010-023",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do plants need most, besides water and soil, to grow well?",
+    "question_ar": "النبات محتاج إيه كمان غير المية والتربة عشان ينمو كويس؟",
+    "options": [
+      {
+        "en": "Darkness",
+        "ar": "الضلمة"
+      },
+      {
+        "en": "Sunlight",
+        "ar": "ضوء الشمس"
+      },
+      {
+        "en": "Salt",
+        "ar": "الملح"
+      },
+      {
+        "en": "Smoke",
+        "ar": "الدخان"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Plants use sunlight to make their own food.",
+    "explanation_ar": "النبات بيستخدم ضوء الشمس عشان يعمل غذاؤه بنفسه."
+  },
+  {
+    "id": "SCI-010-024",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "How many basic senses do humans have?",
+    "question_ar": "الإنسان عنده كام حاسة أساسية؟",
+    "options": [
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "3",
+        "ar": "3"
+      },
+      {
+        "en": "5",
+        "ar": "5"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Humans have 5 basic senses: sight, hearing, smell, taste and touch.",
+    "explanation_ar": "الإنسان عنده 5 حواس أساسية: البصر والسمع والشم والتذوق واللمس."
+  },
+  {
+    "id": "SCI-010-025",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do we call the science that studies stars and space?",
+    "question_ar": "بيتقال إيه للعلم اللي بيدرس النجوم والفضاء؟",
+    "options": [
+      {
+        "en": "Chemistry",
+        "ar": "الكيمياء"
+      },
+      {
+        "en": "Geology",
+        "ar": "علم الجيولوجيا"
+      },
+      {
+        "en": "Astronomy",
+        "ar": "علم الفلك"
+      },
+      {
+        "en": "Biology",
+        "ar": "علم الأحياء"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Astronomy is the study of stars, planets and space.",
+    "explanation_ar": "علم الفلك بيدرس النجوم والكواكب والفضاء."
+  },
+  {
+    "id": "SCI-010-026",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What are clouds mainly made of?",
+    "question_ar": "السحاب بيتكون بشكل أساسي من إيه؟",
+    "options": [
+      {
+        "en": "Tiny water droplets",
+        "ar": "قطرات مية صغيرة"
+      },
+      {
+        "en": "Smoke",
+        "ar": "دخان"
+      },
+      {
+        "en": "Dust",
+        "ar": "تراب"
+      },
+      {
+        "en": "Sand",
+        "ar": "رمل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Clouds form from tiny droplets of water suspended in the air.",
+    "explanation_ar": "السحاب بيتكون من قطرات مية صغيرة عايمة في الهوا."
+  },
+  {
+    "id": "SCI-010-027",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which planet do humans live on?",
+    "question_ar": "الإنسان عايش على أنهي كوكب؟",
+    "options": [
+      {
+        "en": "Earth",
+        "ar": "الأرض"
+      },
+      {
+        "en": "Venus",
+        "ar": "الزهرة"
+      },
+      {
+        "en": "Mars",
+        "ar": "المريخ"
+      },
+      {
+        "en": "Mercury",
+        "ar": "عطارد"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Humans live on planet Earth.",
+    "explanation_ar": "الإنسان عايش على كوكب الأرض."
+  },
+  {
+    "id": "SCI-010-028",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What tool is used to measure temperature?",
+    "question_ar": "إيه الأداة اللي بتقيس درجة الحرارة؟",
+    "options": [
+      {
+        "en": "Telescope",
+        "ar": "التليسكوب"
+      },
+      {
+        "en": "Barometer",
+        "ar": "البارومتر"
+      },
+      {
+        "en": "Microscope",
+        "ar": "الميكروسكوب"
+      },
+      {
+        "en": "Thermometer",
+        "ar": "الترمومتر"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "A thermometer is used to measure temperature.",
+    "explanation_ar": "الترمومتر هو اللي بيستخدم لقياس درجة الحرارة."
+  },
+  {
+    "id": "SCI-010-029",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do we call the flash of light seen during a storm?",
+    "question_ar": "بيتقال إيه لومضة الضوء اللي بنشوفها وقت العاصفة؟",
+    "options": [
+      {
+        "en": "Thunder",
+        "ar": "الرعد"
+      },
+      {
+        "en": "Rainbow",
+        "ar": "قوس قزح"
+      },
+      {
+        "en": "Hail",
+        "ar": "البرد"
+      },
+      {
+        "en": "Lightning",
+        "ar": "البرق"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Lightning is the sudden flash of light during a storm.",
+    "explanation_ar": "البرق هو ومضة الضوء المفاجئة وقت العاصفة."
+  },
+  {
+    "id": "SCI-010-030",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do we call the loud sound that follows lightning?",
+    "question_ar": "بيتقال إيه للصوت العالي اللي بيجي بعد البرق؟",
+    "options": [
+      {
+        "en": "Thunder",
+        "ar": "الرعد"
+      },
+      {
+        "en": "Lightning",
+        "ar": "البرق"
+      },
+      {
+        "en": "Wind",
+        "ar": "الريح"
+      },
+      {
+        "en": "Echo",
+        "ar": "الصدى"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Thunder is the sound caused by lightning.",
+    "explanation_ar": "الرعد هو الصوت اللي بيسببه البرق."
+  },
+  {
+    "id": "SCI-010-031",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What color is human blood?",
+    "question_ar": "دم الإنسان لونه إيه؟",
+    "options": [
+      {
+        "en": "Blue",
+        "ar": "أزرق"
+      },
+      {
+        "en": "Yellow",
+        "ar": "أصفر"
+      },
+      {
+        "en": "Red",
+        "ar": "أحمر"
+      },
+      {
+        "en": "Green",
+        "ar": "أخضر"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Human blood is red because of hemoglobin.",
+    "explanation_ar": "دم الإنسان لونه أحمر بسبب مادة الهيموجلوبين."
+  },
+  {
+    "id": "SCI-010-032",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the closest star to Earth?",
+    "question_ar": "إيه أقرب نجمة للأرض؟",
+    "options": [
+      {
+        "en": "Sirius",
+        "ar": "الشعرى اليمانية"
+      },
+      {
+        "en": "Polaris",
+        "ar": "النجم القطبي"
+      },
+      {
+        "en": "Alpha Centauri",
+        "ar": "ألفا سنتوري"
+      },
+      {
+        "en": "The Sun",
+        "ar": "الشمس"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The Sun is the star closest to Earth.",
+    "explanation_ar": "الشمس هي أقرب نجمة للأرض."
+  },
+  {
+    "id": "SCI-010-033",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which organ do we use to smell?",
+    "question_ar": "بأنهي عضو بنشم؟",
+    "options": [
+      {
+        "en": "Tongue",
+        "ar": "اللسان"
+      },
+      {
+        "en": "Nose",
+        "ar": "الأنف"
+      },
+      {
+        "en": "Ears",
+        "ar": "الأذن"
+      },
+      {
+        "en": "Eyes",
+        "ar": "العين"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The nose is the organ used for smelling.",
+    "explanation_ar": "الأنف هو عضو الشم."
+  },
+  {
+    "id": "SCI-010-034",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which organ do we use to hear?",
+    "question_ar": "بأنهي عضو بنسمع؟",
+    "options": [
+      {
+        "en": "Nose",
+        "ar": "الأنف"
+      },
+      {
+        "en": "Ears",
+        "ar": "الأذن"
+      },
+      {
+        "en": "Eyes",
+        "ar": "العين"
+      },
+      {
+        "en": "Skin",
+        "ar": "الجلد"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The ears are the organs used for hearing.",
+    "explanation_ar": "الأذن هي عضو السمع."
+  },
+  {
+    "id": "SCI-010-035",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What causes day and night on Earth?",
+    "question_ar": "إيه سبب الليل والنهار على الأرض؟",
+    "options": [
+      {
+        "en": "Earth's rotation on its axis",
+        "ar": "دوران الأرض حوالين نفسها"
+      },
+      {
+        "en": "The Sun moving around Earth",
+        "ar": "الشمس بتلف حوالين الأرض"
+      },
+      {
+        "en": "Clouds",
+        "ar": "السحاب"
+      },
+      {
+        "en": "The Moon's orbit",
+        "ar": "دوران القمر"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Earth rotating on its axis causes day and night.",
+    "explanation_ar": "دوران الأرض حوالين نفسها هو سبب الليل والنهار."
+  },
+  {
+    "id": "SCI-010-036",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do we call the science that studies living things?",
+    "question_ar": "بيتقال إيه للعلم اللي بيدرس الكائنات الحية؟",
+    "options": [
+      {
+        "en": "Physics",
+        "ar": "الفيزياء"
+      },
+      {
+        "en": "Biology",
+        "ar": "علم الأحياء"
+      },
+      {
+        "en": "Astronomy",
+        "ar": "علم الفلك"
+      },
+      {
+        "en": "Geology",
+        "ar": "علم الجيولوجيا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Biology is the study of living organisms.",
+    "explanation_ar": "علم الأحياء بيدرس الكائنات الحية."
+  },
+  {
+    "id": "SCI-010-037",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do we call water when it turns into gas form?",
+    "question_ar": "بيتقال إيه للمية لما تتحول لشكل غازي؟",
+    "options": [
+      {
+        "en": "Ice",
+        "ar": "تلج"
+      },
+      {
+        "en": "Frost",
+        "ar": "صقيع"
+      },
+      {
+        "en": "Snow",
+        "ar": "ثلج"
+      },
+      {
+        "en": "Steam",
+        "ar": "بخار"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Water turns into steam when heated enough.",
+    "explanation_ar": "المية بتتحول لبخار لما تتسخن بدرجة كفاية."
+  },
+  {
+    "id": "SCI-010-038",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do we call frozen precipitation that falls in cold weather?",
+    "question_ar": "بيتقال إيه للمطر المتجمد اللي بينزل في الجو البارد؟",
+    "options": [
+      {
+        "en": "Rain",
+        "ar": "المطر"
+      },
+      {
+        "en": "Dew",
+        "ar": "الندى"
+      },
+      {
+        "en": "Steam",
+        "ar": "البخار"
+      },
+      {
+        "en": "Snow",
+        "ar": "الثلج"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Snow is precipitation that falls as ice crystals in cold weather.",
+    "explanation_ar": "الثلج أمطار بتنزل في شكل بلورات جليد وقت البرد."
+  },
+  {
+    "id": "SCI-010-039",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "How do fish breathe underwater?",
+    "question_ar": "السمك بيتنفس تحت المية إزاي؟",
+    "options": [
+      {
+        "en": "Using gills",
+        "ar": "بالخياشيم"
+      },
+      {
+        "en": "Holding their breath",
+        "ar": "بيحبس نفسه"
+      },
+      {
+        "en": "Using skin only",
+        "ar": "بالجلد بس"
+      },
+      {
+        "en": "Using lungs",
+        "ar": "بالرئتين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Fish use gills to extract oxygen from water.",
+    "explanation_ar": "السمك بيستخدم الخياشيم عشان ياخد الأكسجين من المية."
+  },
+  {
+    "id": "SCI-010-040",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do birds use to fly?",
+    "question_ar": "الطيور بتستخدم إيه عشان تطير؟",
+    "options": [
+      {
+        "en": "Wings",
+        "ar": "الأجنحة"
+      },
+      {
+        "en": "Legs",
+        "ar": "الأرجل"
+      },
+      {
+        "en": "Beaks",
+        "ar": "المنقار"
+      },
+      {
+        "en": "Tails",
+        "ar": "الديل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Birds use their wings to fly.",
+    "explanation_ar": "الطيور بتستخدم أجنحتها عشان تطير."
+  },
+  {
+    "id": "SCI-010-041",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which gas do plants absorb from the air to make food?",
+    "question_ar": "أنهي غاز النبات بياخده من الهوا عشان يعمل غذاؤه؟",
+    "options": [
+      {
+        "en": "Hydrogen",
+        "ar": "الهيدروجين"
+      },
+      {
+        "en": "Oxygen",
+        "ar": "الأكسجين"
+      },
+      {
+        "en": "Carbon dioxide",
+        "ar": "ثاني أكسيد الكربون"
+      },
+      {
+        "en": "Nitrogen",
+        "ar": "النيتروجين"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Plants absorb carbon dioxide for photosynthesis.",
+    "explanation_ar": "النبات بياخد ثاني أكسيد الكربون عشان يعمل عملية البناء الضوئي."
+  },
+  {
+    "id": "SCI-010-042",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do we usually see in the sky after it rains, when the sun comes out?",
+    "question_ar": "بنشوف إيه عادة في السما بعد المطر لما الشمس تطلع؟",
+    "options": [
+      {
+        "en": "A star",
+        "ar": "نجمة"
+      },
+      {
+        "en": "A comet",
+        "ar": "مذنب"
+      },
+      {
+        "en": "A rainbow",
+        "ar": "قوس قزح"
+      },
+      {
+        "en": "A meteor",
+        "ar": "شهاب"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Sunlight passing through raindrops creates a rainbow.",
+    "explanation_ar": "ضوء الشمس لما بيعدي جوه قطرات المطر بيكوّن قوس قزح."
+  },
+  {
+    "id": "SCI-010-043",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which organ controls the whole body and its actions?",
+    "question_ar": "أنهي عضو بيتحكم في الجسم كله وحركاته؟",
+    "options": [
+      {
+        "en": "The skin",
+        "ar": "الجلد"
+      },
+      {
+        "en": "The heart",
+        "ar": "القلب"
+      },
+      {
+        "en": "The brain",
+        "ar": "المخ"
+      },
+      {
+        "en": "The liver",
+        "ar": "الكبد"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The brain controls all body functions and actions.",
+    "explanation_ar": "المخ هو اللي بيتحكم في كل وظائف وحركات الجسم."
+  },
+  {
+    "id": "SCI-010-044",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which organ helps digest the food we eat?",
+    "question_ar": "أنهي عضو بيساعد على هضم الأكل اللي بناكله؟",
+    "options": [
+      {
+        "en": "Skin",
+        "ar": "الجلد"
+      },
+      {
+        "en": "Stomach",
+        "ar": "المعدة"
+      },
+      {
+        "en": "Lungs",
+        "ar": "الرئتين"
+      },
+      {
+        "en": "Heart",
+        "ar": "القلب"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The stomach breaks down food as part of digestion.",
+    "explanation_ar": "المعدة بتفكك الأكل كجزء من عملية الهضم."
+  },
+  {
+    "id": "SCI-010-045",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Is a whale a fish or a mammal?",
+    "question_ar": "الحوت سمكة ولا من الثدييات؟",
+    "options": [
+      {
+        "en": "A fish",
+        "ar": "سمكة"
+      },
+      {
+        "en": "A reptile",
+        "ar": "زاحف"
+      },
+      {
+        "en": "A mammal",
+        "ar": "من الثدييات"
+      },
+      {
+        "en": "An amphibian",
+        "ar": "برمائي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Whales are mammals that breathe air and nurse their young.",
+    "explanation_ar": "الحوت من الثدييات، بيتنفس هوا وبيرضع صغاره."
+  },
+  {
+    "id": "SCI-010-046",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do volcanoes release when they erupt?",
+    "question_ar": "البركان بيطلع إيه لما ينفجر؟",
+    "options": [
+      {
+        "en": "Sand only",
+        "ar": "رمل بس"
+      },
+      {
+        "en": "Snow",
+        "ar": "ثلج"
+      },
+      {
+        "en": "Water only",
+        "ar": "مية بس"
+      },
+      {
+        "en": "Lava",
+        "ar": "الحمم (اللابا)"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Volcanoes release hot molten rock called lava.",
+    "explanation_ar": "البركان بيطلع صخر منصهر ساخن اسمه الحمم (اللابا)."
+  },
+  {
+    "id": "SCI-010-047",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What natural event causes the ground to shake suddenly?",
+    "question_ar": "إيه الحدث الطبيعي اللي بيخلي الأرض تهتز فجأة؟",
+    "options": [
+      {
+        "en": "A tornado",
+        "ar": "الإعصار"
+      },
+      {
+        "en": "A volcano",
+        "ar": "البركان"
+      },
+      {
+        "en": "A flood",
+        "ar": "الفيضان"
+      },
+      {
+        "en": "An earthquake",
+        "ar": "الزلزال"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Earthquakes are sudden shaking caused by movement of Earth's plates.",
+    "explanation_ar": "الزلزال اهتزاز مفاجئ للأرض بسبب حركة الصفائح الأرضية."
+  },
+  {
+    "id": "SCI-010-048",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the human skeleton mainly made of?",
+    "question_ar": "الهيكل العظمي للإنسان بيتكون من إيه بشكل أساسي؟",
+    "options": [
+      {
+        "en": "Muscles",
+        "ar": "العضلات"
+      },
+      {
+        "en": "Fat",
+        "ar": "الدهون"
+      },
+      {
+        "en": "Bones",
+        "ar": "العظام"
+      },
+      {
+        "en": "Skin",
+        "ar": "الجلد"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The human skeleton is made up of bones.",
+    "explanation_ar": "الهيكل العظمي للإنسان بيتكون من العظام."
+  },
+  {
+    "id": "SCI-010-049",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do we call small balls of ice that sometimes fall during storms?",
+    "question_ar": "بيتقال إيه لحبات التلج الصغيرة اللي بتنزل أحيانًا وقت العواصف؟",
+    "options": [
+      {
+        "en": "Hail",
+        "ar": "البرد"
+      },
+      {
+        "en": "Rain",
+        "ar": "المطر"
+      },
+      {
+        "en": "Snow",
+        "ar": "الثلج"
+      },
+      {
+        "en": "Fog",
+        "ar": "الضباب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Hail is small lumps of ice that fall during some storms.",
+    "explanation_ar": "البرد كور تلج صغيرة بتنزل وقت بعض العواصف."
+  },
+  {
+    "id": "SCI-010-050",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the only mammal that can truly fly?",
+    "question_ar": "إيه هو الثديي الوحيد اللي بيقدر يطير طيران حقيقي؟",
+    "options": [
+      {
+        "en": "The eagle",
+        "ar": "النسر"
+      },
+      {
+        "en": "The ostrich",
+        "ar": "النعامة"
+      },
+      {
+        "en": "The flying squirrel",
+        "ar": "السنجاب الطيار"
+      },
+      {
+        "en": "The bat",
+        "ar": "الخفاش"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Bats are the only mammals capable of sustained flight.",
+    "explanation_ar": "الخفاش هو الثديي الوحيد اللي بيقدر يطير طيران حقيقي مستمر."
+  }
 ]

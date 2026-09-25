@@ -1,0 +1,1503 @@
+[
+  {
+    "id": "HIS-010-001",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Who built the Great Pyramids of Giza?",
+    "question_ar": "مين اللي بنى أهرامات الجيزة؟",
+    "options": [
+      {
+        "en": "The Ancient Egyptians",
+        "ar": "المصريين القدماء"
+      },
+      {
+        "en": "The Romans",
+        "ar": "الرومان"
+      },
+      {
+        "en": "The Ottomans",
+        "ar": "العثمانيين"
+      },
+      {
+        "en": "The Greeks",
+        "ar": "اليونانيين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Ancient Egyptians built the pyramids as royal tombs.",
+    "explanation_ar": "المصريين القدماء بنوا الأهرامات كمقابر للملوك."
+  },
+  {
+    "id": "HIS-010-002",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "In which country are the Great Pyramids located?",
+    "question_ar": "أهرامات الجيزة موجودة في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Sudan",
+        "ar": "السودان"
+      },
+      {
+        "en": "Libya",
+        "ar": "ليبيا"
+      },
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The pyramids stand in Giza, Egypt.",
+    "explanation_ar": "الأهرامات موجودة في الجيزة، مصر."
+  },
+  {
+    "id": "HIS-010-003",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Tutankhamun is famously known as what?",
+    "question_ar": "توت عنخ آمون معروف بإيه؟",
+    "options": [
+      {
+        "en": "The boy king",
+        "ar": "الملك الطفل"
+      },
+      {
+        "en": "The warrior queen",
+        "ar": "الملكة المحاربة"
+      },
+      {
+        "en": "The sun god",
+        "ar": "إله الشمس"
+      },
+      {
+        "en": "The last pharaoh",
+        "ar": "آخر فرعون"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Tutankhamun became pharaoh as a child, so he's called the boy king.",
+    "explanation_ar": "توت عنخ آمون بقى فرعون وهو لسه صغير، عشان كده بيتقال له الملك الطفل."
+  },
+  {
+    "id": "HIS-010-004",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Cleopatra was the queen of which ancient land?",
+    "question_ar": "كيلوباترا كانت ملكة أنهي بلد قديم؟",
+    "options": [
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Persia",
+        "ar": "بلاد فارس"
+      },
+      {
+        "en": "Babylon",
+        "ar": "بابل"
+      },
+      {
+        "en": "Nubia",
+        "ar": "النوبة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Cleopatra VII was the last active ruler of Ptolemaic Egypt.",
+    "explanation_ar": "كيلوباترا السابعة كانت آخر حاكمة فعلية لمصر في عصر البطالمة."
+  },
+  {
+    "id": "HIS-010-005",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Great Sphinx stands next to which famous monuments?",
+    "question_ar": "أبو الهول موجود جنب أنهي أثر مشهور؟",
+    "options": [
+      {
+        "en": "The Giza pyramids",
+        "ar": "أهرامات الجيزة"
+      },
+      {
+        "en": "The Karnak temple",
+        "ar": "معبد الكرنك"
+      },
+      {
+        "en": "Abu Simbel",
+        "ar": "أبو سمبل"
+      },
+      {
+        "en": "The Valley of the Kings",
+        "ar": "وادي الملوك"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Sphinx sits on the Giza plateau beside the pyramids.",
+    "explanation_ar": "أبو الهول موجود في هضبة الجيزة جنب الأهرامات."
+  },
+  {
+    "id": "HIS-010-006",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Ancient Egyptian civilization grew along which river?",
+    "question_ar": "الحضارة المصرية القديمة قامت على ضفاف أنهي نهر؟",
+    "options": [
+      {
+        "en": "The Nile",
+        "ar": "النيل"
+      },
+      {
+        "en": "The Tigris",
+        "ar": "دجلة"
+      },
+      {
+        "en": "The Euphrates",
+        "ar": "الفرات"
+      },
+      {
+        "en": "The Jordan",
+        "ar": "الأردن"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Nile's yearly floods made farming possible in ancient Egypt.",
+    "explanation_ar": "فيضان النيل كل سنة كان بيخلي الزراعة ممكنة في مصر القديمة."
+  },
+  {
+    "id": "HIS-010-007",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What was the ancient Egyptian writing system called?",
+    "question_ar": "إيه اسم نظام الكتابة عند المصريين القدماء؟",
+    "options": [
+      {
+        "en": "Hieroglyphics",
+        "ar": "الهيروغليفية"
+      },
+      {
+        "en": "Cuneiform",
+        "ar": "المسمارية"
+      },
+      {
+        "en": "Cyrillic",
+        "ar": "السيريلية"
+      },
+      {
+        "en": "Latin script",
+        "ar": "الخط اللاتيني"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Hieroglyphics used pictures and symbols to write words.",
+    "explanation_ar": "الهيروغليفية كانت بتستخدم رسومات ورموز عشان تكتب كلمات."
+  },
+  {
+    "id": "HIS-010-008",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What did ancient Egyptians call the process of preserving bodies?",
+    "question_ar": "إيه اسم العملية اللي كان المصريين القدماء بيحافظوا بيها على الجثث؟",
+    "options": [
+      {
+        "en": "Mummification",
+        "ar": "التحنيط"
+      },
+      {
+        "en": "Cremation",
+        "ar": "الحرق"
+      },
+      {
+        "en": "Fermentation",
+        "ar": "التخمير"
+      },
+      {
+        "en": "Excavation",
+        "ar": "التنقيب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mummification preserved the body for the afterlife.",
+    "explanation_ar": "التحنيط كان بيحافظ على الجسد عشان الحياة التانية."
+  },
+  {
+    "id": "HIS-010-009",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What were the rulers of ancient Egypt called?",
+    "question_ar": "إيه اسم حكام مصر القديمة؟",
+    "options": [
+      {
+        "en": "Pharaohs",
+        "ar": "فراعنة"
+      },
+      {
+        "en": "Sultans",
+        "ar": "سلاطين"
+      },
+      {
+        "en": "Emperors",
+        "ar": "أباطرة"
+      },
+      {
+        "en": "Caliphs",
+        "ar": "خلفاء"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Egypt's ancient kings were called pharaohs.",
+    "explanation_ar": "ملوك مصر القدماء كانوا بيتسموا فراعنة."
+  },
+  {
+    "id": "HIS-010-010",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Who was the first man to walk on the Moon?",
+    "question_ar": "مين أول إنسان مشى على سطح القمر؟",
+    "options": [
+      {
+        "en": "Neil Armstrong",
+        "ar": "نيل أرمسترونج"
+      },
+      {
+        "en": "Buzz Aldrin",
+        "ar": "باز ألدرين"
+      },
+      {
+        "en": "Yuri Gagarin",
+        "ar": "يوري جاجارين"
+      },
+      {
+        "en": "John Glenn",
+        "ar": "جون جلين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Neil Armstrong stepped onto the Moon in 1969.",
+    "explanation_ar": "نيل أرمسترونج نزل على سطح القمر سنة 1969.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "HIS-010-011",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Christopher Columbus is famous for reaching which lands?",
+    "question_ar": "كريستوفر كولومبوس معروف بوصوله لأنهي أراضي؟",
+    "options": [
+      {
+        "en": "The Americas",
+        "ar": "القارة الأمريكية"
+      },
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      },
+      {
+        "en": "India",
+        "ar": "الهند"
+      },
+      {
+        "en": "Antarctica",
+        "ar": "القارة القطبية الجنوبية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Columbus reached the Americas in 1492.",
+    "explanation_ar": "كولومبوس وصل لأمريكا سنة 1492."
+  },
+  {
+    "id": "HIS-010-012",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Nefertiti was an ancient Egyptian what?",
+    "question_ar": "نفرتيتي كانت إيه في مصر القديمة؟",
+    "options": [
+      {
+        "en": "Queen",
+        "ar": "ملكة"
+      },
+      {
+        "en": "General",
+        "ar": "قائدة جيش"
+      },
+      {
+        "en": "Priestess of Ra only",
+        "ar": "كاهنة رع بس"
+      },
+      {
+        "en": "Foreign ambassador",
+        "ar": "سفيرة أجنبية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Nefertiti was a queen famous for her beauty and her painted bust.",
+    "explanation_ar": "نفرتيتي كانت ملكة مشهورة بجمالها وتمثالها الملون."
+  },
+  {
+    "id": "HIS-010-013",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Great Wall, built to block invaders, is found in which country?",
+    "question_ar": "سور الصين العظيم اتبنى عشان يمنع الغزاة، موجود في أنهي بلد؟",
+    "options": [
+      {
+        "en": "China",
+        "ar": "الصين"
+      },
+      {
+        "en": "Japan",
+        "ar": "اليابان"
+      },
+      {
+        "en": "Mongolia",
+        "ar": "منغوليا"
+      },
+      {
+        "en": "India",
+        "ar": "الهند"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Great Wall of China stretches thousands of kilometers.",
+    "explanation_ar": "سور الصين العظيم بيمتد لآلاف الكيلومترات."
+  },
+  {
+    "id": "HIS-010-014",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Titanic sank after hitting what?",
+    "question_ar": "التيتانيك غرقت بعد ما اصطدمت بإيه؟",
+    "options": [
+      {
+        "en": "An iceberg",
+        "ar": "جبل جليد"
+      },
+      {
+        "en": "A rock",
+        "ar": "صخرة"
+      },
+      {
+        "en": "Another ship",
+        "ar": "سفينة تانية"
+      },
+      {
+        "en": "A storm wave",
+        "ar": "موجة عاصفة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Titanic hit an iceberg in 1912 and sank.",
+    "explanation_ar": "التيتانيك اصطدمت بجبل جليد سنة 1912 وغرقت."
+  },
+  {
+    "id": "HIS-010-015",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Julius Caesar was a famous ruler of which ancient power?",
+    "question_ar": "يوليوس قيصر كان حاكم مشهور لأنهي قوة قديمة؟",
+    "options": [
+      {
+        "en": "Rome",
+        "ar": "روما"
+      },
+      {
+        "en": "Athens",
+        "ar": "أثينا"
+      },
+      {
+        "en": "Carthage",
+        "ar": "قرطاج"
+      },
+      {
+        "en": "Persia",
+        "ar": "بلاد فارس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Julius Caesar led Rome before being assassinated.",
+    "explanation_ar": "يوليوس قيصر كان بيحكم روما قبل ما يتقتل."
+  },
+  {
+    "id": "HIS-010-016",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Alexander the Great was king of which ancient kingdom?",
+    "question_ar": "الإسكندر الأكبر كان ملك أنهي مملكة قديمة؟",
+    "options": [
+      {
+        "en": "Macedonia",
+        "ar": "مقدونيا"
+      },
+      {
+        "en": "Persia",
+        "ar": "بلاد فارس"
+      },
+      {
+        "en": "Egypt only",
+        "ar": "مصر بس"
+      },
+      {
+        "en": "Sparta",
+        "ar": "إسبرطة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Alexander the Great came from Macedonia and built a huge empire.",
+    "explanation_ar": "الإسكندر الأكبر كان من مقدونيا وبنى إمبراطورية ضخمة."
+  },
+  {
+    "id": "HIS-010-017",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Statue of Liberty was a gift to the USA from which country?",
+    "question_ar": "تمثال الحرية كان هدية لأمريكا من أنهي بلد؟",
+    "options": [
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "Britain",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "France gave the Statue of Liberty to the United States.",
+    "explanation_ar": "فرنسا اهدت تمثال الحرية للولايات المتحدة."
+  },
+  {
+    "id": "HIS-010-018",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The original Olympic Games began in which ancient land?",
+    "question_ar": "الألعاب الأولمبية الأصلية بدأت في أنهي بلد قديم؟",
+    "options": [
+      {
+        "en": "Ancient Greece",
+        "ar": "اليونان القديمة"
+      },
+      {
+        "en": "Ancient Egypt",
+        "ar": "مصر القديمة"
+      },
+      {
+        "en": "Ancient Rome",
+        "ar": "روما القديمة"
+      },
+      {
+        "en": "Ancient Persia",
+        "ar": "بلاد فارس القديمة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Olympics started in ancient Greece.",
+    "explanation_ar": "الأولمبياد بدأ في اليونان القديمة."
+  },
+  {
+    "id": "HIS-010-019",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "King Farouk was Egypt's last what?",
+    "question_ar": "الملك فاروق كان آخر إيه في مصر؟",
+    "options": [
+      {
+        "en": "King",
+        "ar": "ملك"
+      },
+      {
+        "en": "Sultan",
+        "ar": "سلطان"
+      },
+      {
+        "en": "Khedive",
+        "ar": "خديوي"
+      },
+      {
+        "en": "Caliph",
+        "ar": "خليفة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Farouk was Egypt's last king before the 1952 revolution.",
+    "explanation_ar": "فاروق كان آخر ملك لمصر قبل ثورة 1952."
+  },
+  {
+    "id": "HIS-010-020",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Suez Canal connects the Mediterranean Sea with which sea?",
+    "question_ar": "قناة السويس بتربط البحر المتوسط بأنهي بحر؟",
+    "options": [
+      {
+        "en": "The Red Sea",
+        "ar": "البحر الأحمر"
+      },
+      {
+        "en": "The Black Sea",
+        "ar": "البحر الأسود"
+      },
+      {
+        "en": "The Caspian Sea",
+        "ar": "بحر قزوين"
+      },
+      {
+        "en": "The Arabian Sea",
+        "ar": "بحر العرب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Suez Canal links the Mediterranean and Red Seas.",
+    "explanation_ar": "قناة السويس بتوصل بين البحر المتوسط والبحر الأحمر."
+  },
+  {
+    "id": "HIS-010-021",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Gamal Abdel Nasser is known for building which major dam?",
+    "question_ar": "جمال عبد الناصر معروف ببناء أنهي سد كبير؟",
+    "options": [
+      {
+        "en": "The Aswan High Dam",
+        "ar": "السد العالي في أسوان"
+      },
+      {
+        "en": "The Hoover Dam",
+        "ar": "سد هوفر"
+      },
+      {
+        "en": "The Three Gorges Dam",
+        "ar": "سد الممرات الثلاثة"
+      },
+      {
+        "en": "The Akosombo Dam",
+        "ar": "سد أكوسومبو"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Nasser oversaw the building of the Aswan High Dam.",
+    "explanation_ar": "عبد الناصر أشرف على بناء السد العالي."
+  },
+  {
+    "id": "HIS-010-022",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Who discovered the tomb of Tutankhamun?",
+    "question_ar": "مين اكتشف مقبرة توت عنخ آمون؟",
+    "options": [
+      {
+        "en": "Howard Carter",
+        "ar": "هاورد كارتر"
+      },
+      {
+        "en": "Jean-François Champollion",
+        "ar": "جان فرانسوا شامبليون"
+      },
+      {
+        "en": "Flinders Petrie",
+        "ar": "فليندرز بيتري"
+      },
+      {
+        "en": "Zahi Hawass",
+        "ar": "زاهي حواس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Howard Carter found the tomb in 1922.",
+    "explanation_ar": "هاورد كارتر لقى المقبرة سنة 1922."
+  },
+  {
+    "id": "HIS-010-023",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Great Sphinx has the body of which animal?",
+    "question_ar": "أبو الهول له جسم أنهي حيوان؟",
+    "options": [
+      {
+        "en": "A lion",
+        "ar": "أسد"
+      },
+      {
+        "en": "A camel",
+        "ar": "جمل"
+      },
+      {
+        "en": "An eagle",
+        "ar": "نسر"
+      },
+      {
+        "en": "A bull",
+        "ar": "ثور"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Sphinx has a lion's body and a human head.",
+    "explanation_ar": "أبو الهول له جسم أسد وراس إنسان."
+  },
+  {
+    "id": "HIS-010-024",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Muhammad Ali Pasha is considered the founder of what?",
+    "question_ar": "محمد علي باشا بيتعتبر مؤسس إيه؟",
+    "options": [
+      {
+        "en": "Modern Egypt",
+        "ar": "مصر الحديثة"
+      },
+      {
+        "en": "The Suez Canal",
+        "ar": "قناة السويس"
+      },
+      {
+        "en": "The Egyptian Museum",
+        "ar": "المتحف المصري"
+      },
+      {
+        "en": "The Arab League",
+        "ar": "جامعة الدول العربية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Muhammad Ali modernized Egypt's army, economy and state.",
+    "explanation_ar": "محمد علي طور جيش مصر واقتصادها ودولتها."
+  },
+  {
+    "id": "HIS-010-025",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Cairo is the capital of which country?",
+    "question_ar": "القاهرة عاصمة أنهي بلد؟",
+    "options": [
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Sudan",
+        "ar": "السودان"
+      },
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
+      },
+      {
+        "en": "Lebanon",
+        "ar": "لبنان"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Cairo has been Egypt's capital for centuries.",
+    "explanation_ar": "القاهرة عاصمة مصر من قرون."
+  },
+  {
+    "id": "HIS-010-026",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Ra was the ancient Egyptian god of what?",
+    "question_ar": "رع كان إله إيه عند المصريين القدماء؟",
+    "options": [
+      {
+        "en": "The sun",
+        "ar": "الشمس"
+      },
+      {
+        "en": "The Nile",
+        "ar": "النيل"
+      },
+      {
+        "en": "War",
+        "ar": "الحرب"
+      },
+      {
+        "en": "Music",
+        "ar": "الموسيقى"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ra was worshipped as the sun god.",
+    "explanation_ar": "رع كان بيتعبد كإله للشمس."
+  },
+  {
+    "id": "HIS-010-027",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Osiris was the ancient Egyptian god of what?",
+    "question_ar": "أوزوريس كان إله إيه عند المصريين القدماء؟",
+    "options": [
+      {
+        "en": "The afterlife",
+        "ar": "الحياة الآخرة"
+      },
+      {
+        "en": "The sky",
+        "ar": "السماء"
+      },
+      {
+        "en": "Fire",
+        "ar": "النار"
+      },
+      {
+        "en": "The harvest festival only",
+        "ar": "عيد الحصاد بس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Osiris ruled over the underworld and the afterlife.",
+    "explanation_ar": "أوزوريس كان بيحكم العالم السفلي والحياة الآخرة."
+  },
+  {
+    "id": "HIS-010-028",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Napoleon Bonaparte became emperor of which country?",
+    "question_ar": "نابليون بونابرت بقى إمبراطور أنهي بلد؟",
+    "options": [
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "Austria",
+        "ar": "النمسا"
+      },
+      {
+        "en": "Russia",
+        "ar": "روسيا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Napoleon crowned himself emperor of France in 1804.",
+    "explanation_ar": "نابليون توج نفسه إمبراطور فرنسا سنة 1804."
+  },
+  {
+    "id": "HIS-010-029",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "In which year did World War II end?",
+    "question_ar": "الحرب العالمية التانية خلصت سنة كام؟",
+    "options": [
+      {
+        "en": "1945",
+        "ar": "1945"
+      },
+      {
+        "en": "1939",
+        "ar": "1939"
+      },
+      {
+        "en": "1918",
+        "ar": "1918"
+      },
+      {
+        "en": "1950",
+        "ar": "1950"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "World War II ended in 1945.",
+    "explanation_ar": "الحرب العالمية التانية خلصت سنة 1945."
+  },
+  {
+    "id": "HIS-010-030",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Berlin Wall fell in which year?",
+    "question_ar": "سور برلين اتهد سنة كام؟",
+    "options": [
+      {
+        "en": "1989",
+        "ar": "1989"
+      },
+      {
+        "en": "1975",
+        "ar": "1975"
+      },
+      {
+        "en": "1991",
+        "ar": "1991"
+      },
+      {
+        "en": "1963",
+        "ar": "1963"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Berlin Wall came down in 1989.",
+    "explanation_ar": "سور برلين اتهد سنة 1989."
+  },
+  {
+    "id": "HIS-010-031",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Who was the first president of the United States?",
+    "question_ar": "مين كان أول رئيس للولايات المتحدة؟",
+    "options": [
+      {
+        "en": "George Washington",
+        "ar": "جورج واشنطن"
+      },
+      {
+        "en": "Abraham Lincoln",
+        "ar": "أبراهام لينكولن"
+      },
+      {
+        "en": "Thomas Jefferson",
+        "ar": "توماس جيفرسون"
+      },
+      {
+        "en": "Benjamin Franklin",
+        "ar": "بنجامين فرانكلين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "George Washington became the first US president in 1789.",
+    "explanation_ar": "جورج واشنطن بقى أول رئيس أمريكي سنة 1789."
+  },
+  {
+    "id": "HIS-010-032",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Rosetta Stone helped scholars decipher what?",
+    "question_ar": "حجر رشيد ساعد العلماء يفهموا إيه؟",
+    "options": [
+      {
+        "en": "Hieroglyphics",
+        "ar": "الهيروغليفية"
+      },
+      {
+        "en": "Latin",
+        "ar": "اللاتينية"
+      },
+      {
+        "en": "Cuneiform",
+        "ar": "المسمارية"
+      },
+      {
+        "en": "Sanskrit",
+        "ar": "السنسكريتية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Rosetta Stone was the key to reading hieroglyphics.",
+    "explanation_ar": "حجر رشيد كان المفتاح لقراءة الهيروغليفية."
+  },
+  {
+    "id": "HIS-010-033",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Marie Antoinette was queen of which country?",
+    "question_ar": "ماري أنطوانيت كانت ملكة أنهي بلد؟",
+    "options": [
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "Austria",
+        "ar": "النمسا"
+      },
+      {
+        "en": "England",
+        "ar": "إنجلترا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Marie Antoinette was queen of France before the French Revolution.",
+    "explanation_ar": "ماري أنطوانيت كانت ملكة فرنسا قبل الثورة الفرنسية."
+  },
+  {
+    "id": "HIS-010-034",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Amelia Earhart became famous as one of the first female what?",
+    "question_ar": "أميليا إيرهارت اشتهرت كواحدة من أول إيه؟",
+    "options": [
+      {
+        "en": "Aviators",
+        "ar": "طيارات"
+      },
+      {
+        "en": "Astronauts",
+        "ar": "رائدات فضاء"
+      },
+      {
+        "en": "Queens",
+        "ar": "ملكات"
+      },
+      {
+        "en": "Explorers of the Nile",
+        "ar": "مستكشفات للنيل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Amelia Earhart was a pioneering female pilot.",
+    "explanation_ar": "أميليا إيرهارت كانت طيارة رائدة."
+  },
+  {
+    "id": "HIS-010-035",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Ancient Egyptians mainly used the Nile for transportation and what else?",
+    "question_ar": "المصريين القدماء استخدموا النيل للنقل وكمان لإيه؟",
+    "options": [
+      {
+        "en": "Farming",
+        "ar": "الزراعة"
+      },
+      {
+        "en": "Mining gold only",
+        "ar": "تعدين الدهب بس"
+      },
+      {
+        "en": "Building pyramids' stone only",
+        "ar": "نقل حجر الأهرامات بس"
+      },
+      {
+        "en": "Making paper only",
+        "ar": "صناعة الورق بس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Nile's floods watered the fields for farming.",
+    "explanation_ar": "فيضان النيل كان بيروي الأراضي للزراعة."
+  },
+  {
+    "id": "HIS-010-036",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Anubis, the jackal-headed god, was linked to what in ancient Egypt?",
+    "question_ar": "أنوبيس، الإله راس ابن آوى، كان مرتبط بإيه في مصر القديمة؟",
+    "options": [
+      {
+        "en": "Mummification and the afterlife",
+        "ar": "التحنيط والحياة الآخرة"
+      },
+      {
+        "en": "The Nile flood",
+        "ar": "فيضان النيل"
+      },
+      {
+        "en": "War",
+        "ar": "الحرب"
+      },
+      {
+        "en": "Music and dance",
+        "ar": "الموسيقى والرقص"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Anubis guided souls and watched over mummification.",
+    "explanation_ar": "أنوبيس كان بيرشد الأرواح ويشرف على التحنيط."
+  },
+  {
+    "id": "HIS-010-037",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Valley of the Kings, burial site of many pharaohs, is near which city?",
+    "question_ar": "وادي الملوك، مقابر كتير من الفراعنة، موجود جنب أنهي مدينة؟",
+    "options": [
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Valley of the Kings lies across the Nile from Luxor.",
+    "explanation_ar": "وادي الملوك موجود قدام الأقصر على الضفة التانية للنيل."
+  },
+  {
+    "id": "HIS-010-038",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Abu Simbel temples were built by which famous pharaoh?",
+    "question_ar": "معابد أبو سمبل بناها أنهي فرعون مشهور؟",
+    "options": [
+      {
+        "en": "Ramesses II",
+        "ar": "رمسيس التاني"
+      },
+      {
+        "en": "Khufu",
+        "ar": "خوفو"
+      },
+      {
+        "en": "Tutankhamun",
+        "ar": "توت عنخ آمون"
+      },
+      {
+        "en": "Akhenaten",
+        "ar": "إخناتون"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ramesses II built the great temples at Abu Simbel.",
+    "explanation_ar": "رمسيس التاني بنى معابد أبو سمبل الكبيرة."
+  },
+  {
+    "id": "HIS-010-039",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Ramesses II is often nicknamed what?",
+    "question_ar": "رمسيس التاني بيتلقب بإيه غالبًا؟",
+    "options": [
+      {
+        "en": "Ramesses the Great",
+        "ar": "رمسيس العظيم"
+      },
+      {
+        "en": "Ramesses the Wise",
+        "ar": "رمسيس الحكيم"
+      },
+      {
+        "en": "Ramesses the Builder only",
+        "ar": "رمسيس البنّاء بس"
+      },
+      {
+        "en": "Ramesses the Young",
+        "ar": "رمسيس الصغير"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ramesses II ruled long and built extensively, earning the title 'the Great'.",
+    "explanation_ar": "رمسيس التاني حكم لمدة طويلة وبنى كتير، عشان كده بيتلقب بالعظيم."
+  },
+  {
+    "id": "HIS-010-040",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Great Pyramid of Giza was built for which pharaoh?",
+    "question_ar": "الهرم الأكبر في الجيزة اتبنى لأنهي فرعون؟",
+    "options": [
+      {
+        "en": "Khufu",
+        "ar": "خوفو"
+      },
+      {
+        "en": "Ramesses II",
+        "ar": "رمسيس التاني"
+      },
+      {
+        "en": "Tutankhamun",
+        "ar": "توت عنخ آمون"
+      },
+      {
+        "en": "Akhenaten",
+        "ar": "إخناتون"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Great Pyramid was built as Khufu's tomb.",
+    "explanation_ar": "الهرم الأكبر اتبنى كمقبرة للملك خوفو."
+  },
+  {
+    "id": "HIS-010-041",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Karnak Temple, one of Egypt's largest religious sites, is in which city?",
+    "question_ar": "معبد الكرنك، من أكبر المعابد في مصر، موجود في أنهي مدينة؟",
+    "options": [
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Karnak Temple complex stands in Luxor.",
+    "explanation_ar": "معبد الكرنك موجود في الأقصر."
+  },
+  {
+    "id": "HIS-010-042",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The ancient Egyptian calendar was based on the flooding of what?",
+    "question_ar": "التقويم المصري القديم كان مبني على فيضان إيه؟",
+    "options": [
+      {
+        "en": "The Nile",
+        "ar": "النيل"
+      },
+      {
+        "en": "The Red Sea tides",
+        "ar": "مد البحر الأحمر"
+      },
+      {
+        "en": "The Sinai wadis",
+        "ar": "وديان سيناء"
+      },
+      {
+        "en": "Lake Nasser only",
+        "ar": "بحيرة ناصر بس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Egyptians tracked the Nile's flood cycle to set their calendar.",
+    "explanation_ar": "المصريين كانوا بيتابعوا دورة فيضان النيل عشان يظبطوا تقويمهم."
+  },
+  {
+    "id": "HIS-010-043",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Anwar Sadat served as president of which country?",
+    "question_ar": "أنور السادات كان رئيس أنهي بلد؟",
+    "options": [
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Syria",
+        "ar": "سوريا"
+      },
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
+      },
+      {
+        "en": "Libya",
+        "ar": "ليبيا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Anwar Sadat was Egypt's president in the 1970s.",
+    "explanation_ar": "أنور السادات كان رئيس مصر في السبعينات."
+  },
+  {
+    "id": "HIS-010-044",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Tutankhamun's tomb was found in which famous valley?",
+    "question_ar": "مقبرة توت عنخ آمون اتلقيت في أنهي وادي مشهور؟",
+    "options": [
+      {
+        "en": "The Valley of the Kings",
+        "ar": "وادي الملوك"
+      },
+      {
+        "en": "The Valley of the Queens",
+        "ar": "وادي الملكات"
+      },
+      {
+        "en": "Wadi Rum",
+        "ar": "وادي رم"
+      },
+      {
+        "en": "The Valley of the Nobles",
+        "ar": "وادي النبلاء"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Tutankhamun's tomb was discovered in the Valley of the Kings.",
+    "explanation_ar": "مقبرة توت عنخ آمون اتلقيت في وادي الملوك."
+  },
+  {
+    "id": "HIS-010-045",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Ancient Egyptians built pyramids mainly to serve as what?",
+    "question_ar": "المصريين القدماء بنوا الأهرامات أساسًا عشان تكون إيه؟",
+    "options": [
+      {
+        "en": "Tombs for pharaohs",
+        "ar": "مقابر للفراعنة"
+      },
+      {
+        "en": "Grain storehouses only",
+        "ar": "مخازن غلال بس"
+      },
+      {
+        "en": "Water reservoirs only",
+        "ar": "خزانات مياه بس"
+      },
+      {
+        "en": "Military forts only",
+        "ar": "حصون عسكرية بس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Pyramids were built as royal tombs to protect the pharaoh's body.",
+    "explanation_ar": "الأهرامات اتبنت كمقابر ملكية عشان تحمي جسد الفرعون."
+  },
+  {
+    "id": "HIS-010-046",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Nile River flows mainly through which country?",
+    "question_ar": "نهر النيل بيعدي أساسًا في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Morocco",
+        "ar": "المغرب"
+      },
+      {
+        "en": "Iraq",
+        "ar": "العراق"
+      },
+      {
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Nile flows north through Egypt to the Mediterranean.",
+    "explanation_ar": "النيل بيجري شمال عبر مصر لحد البحر المتوسط."
+  },
+  {
+    "id": "HIS-010-047",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Ottoman Empire was centered in which modern-day country?",
+    "question_ar": "الدولة العثمانية كان مركزها في أنهي بلد حاليًا؟",
+    "options": [
+      {
+        "en": "Turkey",
+        "ar": "تركيا"
+      },
+      {
+        "en": "Iran",
+        "ar": "إيران"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Greece",
+        "ar": "اليونان"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Ottoman Empire was based in what is now Turkey.",
+    "explanation_ar": "الدولة العثمانية كانت مركزها فيما هي دلوقتي تركيا."
+  },
+  {
+    "id": "HIS-010-048",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "The Mona Lisa was painted by which artist?",
+    "question_ar": "لوحة الموناليزا رسمها مين؟",
+    "options": [
+      {
+        "en": "Leonardo da Vinci",
+        "ar": "ليوناردو دافينشي"
+      },
+      {
+        "en": "Michelangelo",
+        "ar": "مايكل أنجلو"
+      },
+      {
+        "en": "Pablo Picasso",
+        "ar": "بابلو بيكاسو"
+      },
+      {
+        "en": "Vincent van Gogh",
+        "ar": "فان جوخ"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Leonardo da Vinci painted the Mona Lisa.",
+    "explanation_ar": "ليوناردو دافينشي رسم لوحة الموناليزا."
+  },
+  {
+    "id": "HIS-010-049",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Albert Einstein is famous for developing which theory?",
+    "question_ar": "ألبرت أينشتاين مشهور بتطويره أنهي نظرية؟",
+    "options": [
+      {
+        "en": "Relativity",
+        "ar": "النسبية"
+      },
+      {
+        "en": "Evolution",
+        "ar": "التطور"
+      },
+      {
+        "en": "Gravity's discovery only",
+        "ar": "اكتشاف الجاذبية بس"
+      },
+      {
+        "en": "Electricity's invention only",
+        "ar": "اختراع الكهرباء بس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Einstein developed the theory of relativity.",
+    "explanation_ar": "أينشتاين طور نظرية النسبية."
+  },
+  {
+    "id": "HIS-010-050",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Vasco da Gama sailed and found a sea route to which country?",
+    "question_ar": "فاسكو دا جاما سافر ولقى طريق بحري لأنهي بلد؟",
+    "options": [
+      {
+        "en": "India",
+        "ar": "الهند"
+      },
+      {
+        "en": "China",
+        "ar": "الصين"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Vasco da Gama reached India by sea in 1498.",
+    "explanation_ar": "فاسكو دا جاما وصل للهند عن طريق البحر سنة 1498."
+  }
+]

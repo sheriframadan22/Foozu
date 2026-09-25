@@ -1,0 +1,1503 @@
+[
+  {
+    "id": "HIS-050-001",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Narmer Palette, showing Egypt's unification, depicts which king?",
+    "question_ar": "لوحة نارمر اللي بتصور توحيد مصر بتصور أنهي ملك؟",
+    "options": [
+      {
+        "en": "Narmer",
+        "ar": "نارمر"
+      },
+      {
+        "en": "Djoser",
+        "ar": "زوسر"
+      },
+      {
+        "en": "Khufu",
+        "ar": "خوفو"
+      },
+      {
+        "en": "Menkaure",
+        "ar": "منقرع"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Narmer Palette shows King Narmer wearing both crowns of Egypt.",
+    "explanation_ar": "لوحة نارمر بتصور الملك نارمر لابس تاجي مصر التنين."
+  },
+  {
+    "id": "HIS-050-002",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Ancient Egypt's Old Kingdom is chiefly remembered for building what?",
+    "question_ar": "الدولة القديمة في مصر بتتذكر أساسًا ببناء إيه؟",
+    "options": [
+      {
+        "en": "The great pyramids",
+        "ar": "الأهرامات الكبيرة"
+      },
+      {
+        "en": "The Suez Canal",
+        "ar": "قناة السويس"
+      },
+      {
+        "en": "Al-Azhar Mosque",
+        "ar": "جامع الأزهر"
+      },
+      {
+        "en": "The Cairo Citadel",
+        "ar": "قلعة القاهرة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Old Kingdom era produced Egypt's most famous pyramids.",
+    "explanation_ar": "عصر الدولة القديمة أنتج أشهر أهرامات مصر."
+  },
+  {
+    "id": "HIS-050-003",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which period of ancient Egyptian history followed the collapse of the Old Kingdom?",
+    "question_ar": "أنهي فترة في تاريخ مصر القديم جت بعد سقوط الدولة القديمة؟",
+    "options": [
+      {
+        "en": "The First Intermediate Period",
+        "ar": "عصر الانتقال الأول"
+      },
+      {
+        "en": "The New Kingdom",
+        "ar": "الدولة الحديثة"
+      },
+      {
+        "en": "The Ptolemaic Period",
+        "ar": "العصر البطلمي"
+      },
+      {
+        "en": "The Amarna Period",
+        "ar": "عصر العمارنة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The First Intermediate Period followed the Old Kingdom's decline.",
+    "explanation_ar": "عصر الانتقال الأول جه بعد ضعف الدولة القديمة."
+  },
+  {
+    "id": "HIS-050-004",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Middle Kingdom of Egypt was founded largely through the efforts of which pharaoh?",
+    "question_ar": "الدولة الوسطى في مصر اتأسست أساسًا بفضل مجهود أنهي فرعون؟",
+    "options": [
+      {
+        "en": "Mentuhotep II",
+        "ar": "منتوحتب التاني"
+      },
+      {
+        "en": "Ahmose I",
+        "ar": "أحمس الأول"
+      },
+      {
+        "en": "Ramesses II",
+        "ar": "رمسيس التاني"
+      },
+      {
+        "en": "Psamtik I",
+        "ar": "بسماتيك الأول"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mentuhotep II reunified Egypt and began the Middle Kingdom.",
+    "explanation_ar": "منتوحتب التاني وحد مصر وبدأ عصر الدولة الوسطى."
+  },
+  {
+    "id": "HIS-050-005",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which foreign people invaded and ruled parts of Egypt during the Second Intermediate Period?",
+    "question_ar": "أنهي شعب أجنبي غزا وحكم أجزاء من مصر في عصر الانتقال التاني؟",
+    "options": [
+      {
+        "en": "The Hyksos",
+        "ar": "الهكسوس"
+      },
+      {
+        "en": "The Hittites",
+        "ar": "الحيثيين"
+      },
+      {
+        "en": "The Assyrians",
+        "ar": "الأشوريين"
+      },
+      {
+        "en": "The Persians",
+        "ar": "الفرس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Hyksos ruled parts of Egypt during the Second Intermediate Period.",
+    "explanation_ar": "الهكسوس حكموا أجزاء من مصر في عصر الانتقال التاني."
+  },
+  {
+    "id": "HIS-050-006",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which pharaoh is credited with expelling the Hyksos and founding the New Kingdom?",
+    "question_ar": "أنهي فرعون بيتنسب له طرد الهكسوس وتأسيس الدولة الحديثة؟",
+    "options": [
+      {
+        "en": "Ahmose I",
+        "ar": "أحمس الأول"
+      },
+      {
+        "en": "Mentuhotep II",
+        "ar": "منتوحتب التاني"
+      },
+      {
+        "en": "Narmer",
+        "ar": "نارمر"
+      },
+      {
+        "en": "Ramesses III",
+        "ar": "رمسيس التالت"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ahmose I drove out the Hyksos and started the New Kingdom.",
+    "explanation_ar": "أحمس الأول طرد الهكسوس وبدأ الدولة الحديثة."
+  },
+  {
+    "id": "HIS-050-007",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Queen Hatshepsut famously organized a trade expedition to which land?",
+    "question_ar": "الملكة حتشبسوت نظمت رحلة تجارية مشهورة لأنهي بلد؟",
+    "options": [
+      {
+        "en": "The Land of Punt",
+        "ar": "بلاد بونت"
+      },
+      {
+        "en": "Persia",
+        "ar": "بلاد فارس"
+      },
+      {
+        "en": "Nubia's capital only",
+        "ar": "عاصمة النوبة بس"
+      },
+      {
+        "en": "Crete only",
+        "ar": "كريت بس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Hatshepsut sent a famous trading expedition to Punt.",
+    "explanation_ar": "حتشبسوت أرسلت بعثة تجارية مشهورة لبلاد بونت."
+  },
+  {
+    "id": "HIS-050-008",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which pharaoh moved Egypt's religious capital to Amarna and promoted the god Aten?",
+    "question_ar": "أنهي فرعون نقل العاصمة الدينية لمصر لأخيتاتون ونادى بعبادة آتون؟",
+    "options": [
+      {
+        "en": "Akhenaten",
+        "ar": "إخناتون"
+      },
+      {
+        "en": "Thutmose III",
+        "ar": "تحتمس التالت"
+      },
+      {
+        "en": "Ramesses II",
+        "ar": "رمسيس التاني"
+      },
+      {
+        "en": "Seti I",
+        "ar": "سيتي الأول"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Akhenaten founded Amarna as his new religious capital.",
+    "explanation_ar": "إخناتون أسس أخيتاتون كعاصمته الدينية الجديدة."
+  },
+  {
+    "id": "HIS-050-009",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Battle of Kadesh was fought between Egypt and which other ancient power?",
+    "question_ar": "معركة قادش دارت بين مصر وأنهي قوة قديمة تانية؟",
+    "options": [
+      {
+        "en": "The Hittites",
+        "ar": "الحيثيين"
+      },
+      {
+        "en": "The Assyrians",
+        "ar": "الأشوريين"
+      },
+      {
+        "en": "The Persians",
+        "ar": "الفرس"
+      },
+      {
+        "en": "The Nubians",
+        "ar": "النوبيين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ramesses II fought the Hittites at Kadesh around 1274 BC.",
+    "explanation_ar": "رمسيس التاني حارب الحيثيين في قادش حوالي سنة 1274 قبل الميلاد."
+  },
+  {
+    "id": "HIS-050-010",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Ramesses II is notable for having ruled Egypt for roughly how many years?",
+    "question_ar": "رمسيس التاني معروف بحكمه لمصر لمدة تقارب كام سنة؟",
+    "options": [
+      {
+        "en": "About 66 years",
+        "ar": "حوالي 66 سنة"
+      },
+      {
+        "en": "About 10 years",
+        "ar": "حوالي 10 سنين"
+      },
+      {
+        "en": "About 30 years",
+        "ar": "حوالي 30 سنة"
+      },
+      {
+        "en": "About 100 years",
+        "ar": "حوالي 100 سنة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ramesses II reigned for around 66 years, one of the longest in Egyptian history.",
+    "explanation_ar": "رمسيس التاني حكم حوالي 66 سنة، من أطول فترات الحكم في تاريخ مصر."
+  },
+  {
+    "id": "HIS-050-011",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Merneptah Stele is historically significant for containing the earliest known reference to what?",
+    "question_ar": "لوحة مرنبتاح مهمة تاريخيًا لأنها بتحتوي على أقدم إشارة معروفة لإيه؟",
+    "options": [
+      {
+        "en": "Israel",
+        "ar": "إسرائيل"
+      },
+      {
+        "en": "Rome",
+        "ar": "روما"
+      },
+      {
+        "en": "The Hittites",
+        "ar": "الحيثيين"
+      },
+      {
+        "en": "Carthage",
+        "ar": "قرطاج"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Merneptah Stele has the oldest known mention of Israel.",
+    "explanation_ar": "لوحة مرنبتاح فيها أقدم إشارة معروفة لإسرائيل.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "HIS-050-012",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Egypt's Third Intermediate Period is generally characterized by what political condition?",
+    "question_ar": "عصر الانتقال التالت في مصر بيتميز عمومًا بأنهي وضع سياسي؟",
+    "options": [
+      {
+        "en": "Division and weakened central rule",
+        "ar": "انقسام وضعف الحكم المركزي"
+      },
+      {
+        "en": "Total unification and peak power",
+        "ar": "توحيد كامل وقمة القوة"
+      },
+      {
+        "en": "Full Roman control",
+        "ar": "سيطرة رومانية كاملة"
+      },
+      {
+        "en": "Rule by a single strong dynasty only",
+        "ar": "حكم أسرة واحدة قوية بس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Third Intermediate Period saw Egypt fragmented among rival rulers.",
+    "explanation_ar": "عصر الانتقال التالت شهد انقسام مصر بين حكام متنافسين."
+  },
+  {
+    "id": "HIS-050-013",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Nubian (Kushite) kings ruled Egypt as which dynasty?",
+    "question_ar": "ملوك النوبة (كوش) حكموا مصر كأنهي أسرة؟",
+    "options": [
+      {
+        "en": "The 25th Dynasty",
+        "ar": "الأسرة الـ25"
+      },
+      {
+        "en": "The 18th Dynasty",
+        "ar": "الأسرة الـ18"
+      },
+      {
+        "en": "The 1st Dynasty",
+        "ar": "الأسرة الأولى"
+      },
+      {
+        "en": "The 30th Dynasty",
+        "ar": "الأسرة الـ30"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Kushite pharaohs ruled Egypt as the 25th Dynasty.",
+    "explanation_ar": "ملوك كوش حكموا مصر كأسرة الـ25."
+  },
+  {
+    "id": "HIS-050-014",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Persian conquest of Egypt was led by which Achaemenid king?",
+    "question_ar": "الفتح الفارسي لمصر قاده أنهي ملك أخميني؟",
+    "options": [
+      {
+        "en": "Cambyses II",
+        "ar": "قمبيز التاني"
+      },
+      {
+        "en": "Cyrus the Great",
+        "ar": "قورش الكبير"
+      },
+      {
+        "en": "Darius III",
+        "ar": "دارا التالت"
+      },
+      {
+        "en": "Xerxes I",
+        "ar": "خشايارشا الأول"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Cambyses II conquered Egypt for the Persian Empire in 525 BC.",
+    "explanation_ar": "قمبيز التاني فتح مصر للإمبراطورية الفارسية سنة 525 قبل الميلاد."
+  },
+  {
+    "id": "HIS-050-015",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "In which year did Alexander the Great conquer Egypt?",
+    "question_ar": "الإسكندر الأكبر فتح مصر سنة كام؟",
+    "options": [
+      {
+        "en": "332 BC",
+        "ar": "332 قبل الميلاد"
+      },
+      {
+        "en": "30 BC",
+        "ar": "30 قبل الميلاد"
+      },
+      {
+        "en": "525 BC",
+        "ar": "525 قبل الميلاد"
+      },
+      {
+        "en": "641 AD",
+        "ar": "641 ميلادية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Alexander conquered Egypt from the Persians in 332 BC.",
+    "explanation_ar": "الإسكندر فتح مصر من الفرس سنة 332 قبل الميلاد."
+  },
+  {
+    "id": "HIS-050-016",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The city of Alexandria was founded by whom?",
+    "question_ar": "مدينة الإسكندرية أسسها مين؟",
+    "options": [
+      {
+        "en": "Alexander the Great",
+        "ar": "الإسكندر الأكبر"
+      },
+      {
+        "en": "Ptolemy I",
+        "ar": "بطليموس الأول"
+      },
+      {
+        "en": "Julius Caesar",
+        "ar": "يوليوس قيصر"
+      },
+      {
+        "en": "Cleopatra VII",
+        "ar": "كيلوباترا السابعة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Alexander the Great founded Alexandria in 331 BC.",
+    "explanation_ar": "الإسكندر الأكبر أسس الإسكندرية سنة 331 قبل الميلاد."
+  },
+  {
+    "id": "HIS-050-017",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Ptolemaic Dynasty of Egypt was founded by which general of Alexander?",
+    "question_ar": "الأسرة البطلمية في مصر أسسها أنهي قائد من قواد الإسكندر؟",
+    "options": [
+      {
+        "en": "Ptolemy I Soter",
+        "ar": "بطليموس الأول"
+      },
+      {
+        "en": "Seleucus I",
+        "ar": "سلوقس الأول"
+      },
+      {
+        "en": "Antigonus",
+        "ar": "أنتيجونوس"
+      },
+      {
+        "en": "Perdiccas",
+        "ar": "بيرديكاس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ptolemy I Soter founded the Ptolemaic dynasty after Alexander's death.",
+    "explanation_ar": "بطليموس الأول أسس الأسرة البطلمية بعد وفاة الإسكندر."
+  },
+  {
+    "id": "HIS-050-018",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Cleopatra VII famously allied with which two Roman leaders?",
+    "question_ar": "كيلوباترا السابعة اتحالفت بشكل مشهور مع أنهي قائدين رومان؟",
+    "options": [
+      {
+        "en": "Julius Caesar and Mark Antony",
+        "ar": "يوليوس قيصر ومارك أنطوني"
+      },
+      {
+        "en": "Augustus and Pompey",
+        "ar": "أوغسطس وبومبي"
+      },
+      {
+        "en": "Nero and Caligula",
+        "ar": "نيرون وكاليجولا"
+      },
+      {
+        "en": "Constantine and Diocletian",
+        "ar": "قسطنطين ودقلديانوس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Cleopatra formed political and personal alliances with Caesar and Antony.",
+    "explanation_ar": "كيلوباترا كونت تحالفات سياسية وشخصية مع قيصر وأنطوني."
+  },
+  {
+    "id": "HIS-050-019",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Battle of Actium led to which major outcome for Egypt?",
+    "question_ar": "معركة أكتيوم أدت لأنهي نتيجة كبيرة بالنسبة لمصر؟",
+    "options": [
+      {
+        "en": "Egypt becoming a Roman province",
+        "ar": "مصر بقت ولاية رومانية"
+      },
+      {
+        "en": "Egypt regaining full independence",
+        "ar": "مصر استعادت استقلالها الكامل"
+      },
+      {
+        "en": "Egypt uniting with Persia",
+        "ar": "مصر اتحدت مع بلاد فارس"
+      },
+      {
+        "en": "Egypt's capital moving to Rome",
+        "ar": "عاصمة مصر انتقلت لروما"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "After Actium, Rome annexed Egypt following Cleopatra and Antony's defeat.",
+    "explanation_ar": "بعد أكتيوم، روما ضمت مصر بعد هزيمة كيلوباترا وأنطوني."
+  },
+  {
+    "id": "HIS-050-020",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Egypt formally became a province of which empire in 30 BC?",
+    "question_ar": "مصر بقت رسميًا ولاية تابعة لأنهي إمبراطورية سنة 30 قبل الميلاد؟",
+    "options": [
+      {
+        "en": "The Roman Empire",
+        "ar": "الإمبراطورية الرومانية"
+      },
+      {
+        "en": "The Persian Empire",
+        "ar": "الإمبراطورية الفارسية"
+      },
+      {
+        "en": "The Byzantine Empire only later",
+        "ar": "الإمبراطورية البيزنطية بس بعدين"
+      },
+      {
+        "en": "The Ottoman Empire",
+        "ar": "الدولة العثمانية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Egypt became a Roman province after 30 BC.",
+    "explanation_ar": "مصر بقت ولاية رومانية بعد سنة 30 قبل الميلاد."
+  },
+  {
+    "id": "HIS-050-021",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The early Christian church that took root in Egypt is known as what?",
+    "question_ar": "الكنيسة المسيحية المبكرة اللي انتشرت في مصر معروفة بإيه؟",
+    "options": [
+      {
+        "en": "The Coptic Church",
+        "ar": "الكنيسة القبطية"
+      },
+      {
+        "en": "The Orthodox Church of Rome only",
+        "ar": "كنيسة روما الأرثوذكسية بس"
+      },
+      {
+        "en": "The Anglican Church",
+        "ar": "الكنيسة الأنجليكانية"
+      },
+      {
+        "en": "The Maronite Church",
+        "ar": "الكنيسة المارونية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Coptic Church became Egypt's major early Christian church.",
+    "explanation_ar": "الكنيسة القبطية بقت الكنيسة المسيحية الكبرى في مصر بدري."
+  },
+  {
+    "id": "HIS-050-022",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Arab conquest of Egypt, led by Amr ibn al-As, took place in which year?",
+    "question_ar": "الفتح العربي لمصر، بقيادة عمرو بن العاص، حصل سنة كام؟",
+    "options": [
+      {
+        "en": "641 AD",
+        "ar": "641 ميلادية"
+      },
+      {
+        "en": "969 AD",
+        "ar": "969 ميلادية"
+      },
+      {
+        "en": "1517 AD",
+        "ar": "1517 ميلادية"
+      },
+      {
+        "en": "332 BC",
+        "ar": "332 قبل الميلاد"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Amr ibn al-As completed the conquest of Egypt around 641 AD.",
+    "explanation_ar": "عمرو بن العاص أكمل فتح مصر حوالي سنة 641 ميلادية."
+  },
+  {
+    "id": "HIS-050-023",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Fustat, founded after the Arab conquest, served as what for Egypt?",
+    "question_ar": "الفسطاط، اللي اتأسست بعد الفتح العربي، كانت إيه لمصر؟",
+    "options": [
+      {
+        "en": "Egypt's first Islamic capital",
+        "ar": "أول عاصمة إسلامية لمصر"
+      },
+      {
+        "en": "A Roman military base only",
+        "ar": "قاعدة عسكرية رومانية بس"
+      },
+      {
+        "en": "A Ptolemaic trading post only",
+        "ar": "مركز تجاري بطلمي بس"
+      },
+      {
+        "en": "A Coptic monastery town only",
+        "ar": "بلدة أديرة قبطية بس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Fustat became Egypt's first capital under Islamic rule.",
+    "explanation_ar": "الفسطاط بقت أول عاصمة لمصر في الحكم الإسلامي."
+  },
+  {
+    "id": "HIS-050-024",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Ibn Tulun founded which independent dynasty that ruled Egypt?",
+    "question_ar": "ابن طولون أسس أنهي أسرة مستقلة حكمت مصر؟",
+    "options": [
+      {
+        "en": "The Tulunid dynasty",
+        "ar": "الأسرة الطولونية"
+      },
+      {
+        "en": "The Fatimid dynasty",
+        "ar": "الأسرة الفاطمية"
+      },
+      {
+        "en": "The Ayyubid dynasty",
+        "ar": "الأسرة الأيوبية"
+      },
+      {
+        "en": "The Mamluk dynasty",
+        "ar": "أسرة المماليك"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ibn Tulun established the semi-independent Tulunid dynasty in Egypt.",
+    "explanation_ar": "ابن طولون أسس الأسرة الطولونية شبه المستقلة في مصر."
+  },
+  {
+    "id": "HIS-050-025",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Fatimid Caliphate that conquered Egypt in 969 originated from where?",
+    "question_ar": "الخلافة الفاطمية اللي فتحت مصر سنة 969 أصلها منين؟",
+    "options": [
+      {
+        "en": "Tunisia (Ifriqiya)",
+        "ar": "تونس (إفريقية)"
+      },
+      {
+        "en": "Baghdad",
+        "ar": "بغداد"
+      },
+      {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      {
+        "en": "Yemen",
+        "ar": "اليمن"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Fatimids rose in Tunisia before conquering Egypt.",
+    "explanation_ar": "الفاطميين ظهروا في تونس قبل ما يفتحوا مصر."
+  },
+  {
+    "id": "HIS-050-026",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Al-Azhar, one of the world's oldest universities, was founded by which dynasty?",
+    "question_ar": "الأزهر، من أقدم الجامعات في العالم، أسسته أنهي أسرة حاكمة؟",
+    "options": [
+      {
+        "en": "The Fatimids",
+        "ar": "الفاطميين"
+      },
+      {
+        "en": "The Ayyubids",
+        "ar": "الأيوبيين"
+      },
+      {
+        "en": "The Mamluks",
+        "ar": "المماليك"
+      },
+      {
+        "en": "The Ottomans",
+        "ar": "العثمانيين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Fatimids founded Al-Azhar in Cairo.",
+    "explanation_ar": "الفاطميين أسسوا الأزهر في القاهرة."
+  },
+  {
+    "id": "HIS-050-027",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Salah al-Din (Saladin) founded which dynasty after ending Fatimid rule?",
+    "question_ar": "صلاح الدين أسس أنهي أسرة بعد ما أنهى حكم الفاطميين؟",
+    "options": [
+      {
+        "en": "The Ayyubid dynasty",
+        "ar": "الأسرة الأيوبية"
+      },
+      {
+        "en": "The Tulunid dynasty",
+        "ar": "الأسرة الطولونية"
+      },
+      {
+        "en": "The Mamluk dynasty",
+        "ar": "أسرة المماليك"
+      },
+      {
+        "en": "The Fatimid dynasty again",
+        "ar": "الأسرة الفاطمية تاني"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Saladin established the Ayyubid dynasty in Egypt and Syria.",
+    "explanation_ar": "صلاح الدين أسس الأسرة الأيوبية في مصر والشام."
+  },
+  {
+    "id": "HIS-050-028",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Saladin's decisive victory over the Crusaders came at which battle?",
+    "question_ar": "انتصار صلاح الدين الحاسم على الصليبيين كان في أنهي معركة؟",
+    "options": [
+      {
+        "en": "The Battle of Hattin",
+        "ar": "معركة حطين"
+      },
+      {
+        "en": "The Battle of Ain Jalut",
+        "ar": "معركة عين جالوت"
+      },
+      {
+        "en": "The Battle of Kadesh",
+        "ar": "معركة قادش"
+      },
+      {
+        "en": "The Battle of Marj Dabiq",
+        "ar": "معركة مرج دابق"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Saladin crushed the Crusaders at Hattin in 1187.",
+    "explanation_ar": "صلاح الدين سحق الصليبيين في حطين سنة 1187."
+  },
+  {
+    "id": "HIS-050-029",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Mamluks famously stopped the Mongol advance at which battle?",
+    "question_ar": "المماليك أوقفوا زحف المغول بشكل مشهور في أنهي معركة؟",
+    "options": [
+      {
+        "en": "The Battle of Ain Jalut",
+        "ar": "معركة عين جالوت"
+      },
+      {
+        "en": "The Battle of Hattin",
+        "ar": "معركة حطين"
+      },
+      {
+        "en": "The Battle of Kadesh",
+        "ar": "معركة قادش"
+      },
+      {
+        "en": "The Battle of Tel el-Kebir",
+        "ar": "معركة التل الكبير"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mamluk forces defeated the Mongols at Ain Jalut in 1260.",
+    "explanation_ar": "قوات المماليك هزمت المغول في عين جالوت سنة 1260."
+  },
+  {
+    "id": "HIS-050-030",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Mamluk Sultanate ruled from which city as its capital?",
+    "question_ar": "سلطنة المماليك حكمت من أنهي مدينة كعاصمة؟",
+    "options": [
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Baghdad",
+        "ar": "بغداد"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Cairo was the seat of Mamluk power for over two centuries.",
+    "explanation_ar": "القاهرة كانت مركز حكم المماليك لأكتر من قرنين."
+  },
+  {
+    "id": "HIS-050-031",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which Ottoman Sultan conquered Egypt from the Mamluks in 1517?",
+    "question_ar": "أنهي سلطان عثماني فتح مصر من المماليك سنة 1517؟",
+    "options": [
+      {
+        "en": "Selim I",
+        "ar": "سليم الأول"
+      },
+      {
+        "en": "Mehmed II",
+        "ar": "محمد الفاتح"
+      },
+      {
+        "en": "Suleiman the Magnificent",
+        "ar": "سليمان القانوني"
+      },
+      {
+        "en": "Murad III",
+        "ar": "مراد التالت"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Selim I defeated the Mamluks and annexed Egypt in 1517.",
+    "explanation_ar": "سليم الأول هزم المماليك وضم مصر سنة 1517."
+  },
+  {
+    "id": "HIS-050-032",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "In which year did Napoleon Bonaparte launch his Egyptian campaign?",
+    "question_ar": "نابليون بونابرت بدأ حملته على مصر سنة كام؟",
+    "options": [
+      {
+        "en": "1798",
+        "ar": "1798"
+      },
+      {
+        "en": "1805",
+        "ar": "1805"
+      },
+      {
+        "en": "1517",
+        "ar": "1517"
+      },
+      {
+        "en": "1882",
+        "ar": "1882"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Napoleon invaded Egypt in 1798.",
+    "explanation_ar": "نابليون غزا مصر سنة 1798."
+  },
+  {
+    "id": "HIS-050-033",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "At the Battle of the Pyramids, Napoleon's forces defeated which Egyptian ruling group?",
+    "question_ar": "في معركة الأهرامات، قوات نابليون هزمت أنهي مجموعة حاكمة مصرية؟",
+    "options": [
+      {
+        "en": "The Mamluks",
+        "ar": "المماليك"
+      },
+      {
+        "en": "The Ottomans directly",
+        "ar": "العثمانيين مباشرة"
+      },
+      {
+        "en": "The Fatimids",
+        "ar": "الفاطميين"
+      },
+      {
+        "en": "The Free Officers",
+        "ar": "الضباط الأحرار"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Napoleon's army crushed Mamluk forces near the pyramids in 1798.",
+    "explanation_ar": "جيش نابليون سحق قوات المماليك جنب الأهرامات سنة 1798."
+  },
+  {
+    "id": "HIS-050-034",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Muhammad Ali Pasha rose to become Egypt's ruler around which year?",
+    "question_ar": "محمد علي باشا وصل لحكم مصر حوالي سنة كام؟",
+    "options": [
+      {
+        "en": "1805",
+        "ar": "1805"
+      },
+      {
+        "en": "1798",
+        "ar": "1798"
+      },
+      {
+        "en": "1517",
+        "ar": "1517"
+      },
+      {
+        "en": "1882",
+        "ar": "1882"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Muhammad Ali became Egypt's Ottoman governor in 1805.",
+    "explanation_ar": "محمد علي بقى والي مصر العثماني سنة 1805."
+  },
+  {
+    "id": "HIS-050-035",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Muhammad Ali's dynasty ruled Egypt until which major event ended it?",
+    "question_ar": "أسرة محمد علي حكمت مصر لحد أنهي حدث كبير أنهاها؟",
+    "options": [
+      {
+        "en": "The 1952 revolution",
+        "ar": "ثورة 1952"
+      },
+      {
+        "en": "The 1919 revolution",
+        "ar": "ثورة 1919"
+      },
+      {
+        "en": "The Suez Crisis",
+        "ar": "أزمة السويس"
+      },
+      {
+        "en": "World War I",
+        "ar": "الحرب العالمية الأولى"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Free Officers' 1952 revolution ended Muhammad Ali's dynasty.",
+    "explanation_ar": "ثورة الضباط الأحرار سنة 1952 أنهت حكم أسرة محمد علي."
+  },
+  {
+    "id": "HIS-050-036",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Suez Canal was designed under the direction of which engineer?",
+    "question_ar": "قناة السويس اتصممت تحت إشراف أنهي مهندس؟",
+    "options": [
+      {
+        "en": "Ferdinand de Lesseps",
+        "ar": "فرديناند دي ليسبس"
+      },
+      {
+        "en": "Gustave Eiffel",
+        "ar": "جوستاف إيفل"
+      },
+      {
+        "en": "Thomas Telford",
+        "ar": "توماس تيلفورد"
+      },
+      {
+        "en": "Isambard Kingdom Brunel",
+        "ar": "إيزامبارد كينجدوم برونيل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ferdinand de Lesseps led the Suez Canal's construction project.",
+    "explanation_ar": "فرديناند دي ليسبس قاد مشروع بناء قناة السويس."
+  },
+  {
+    "id": "HIS-050-037",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Orabi Revolt was led by which Egyptian nationalist officer?",
+    "question_ar": "الثورة العرابية قادها أنهي ضابط وطني مصري؟",
+    "options": [
+      {
+        "en": "Ahmed Orabi",
+        "ar": "أحمد عرابي"
+      },
+      {
+        "en": "Saad Zaghloul",
+        "ar": "سعد زغلول"
+      },
+      {
+        "en": "Muhammad Naguib",
+        "ar": "محمد نجيب"
+      },
+      {
+        "en": "Gamal Abdel Nasser",
+        "ar": "جمال عبد الناصر"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ahmed Orabi led the 1879-1882 nationalist revolt.",
+    "explanation_ar": "أحمد عرابي قاد الثورة الوطنية بين 1879 و1882."
+  },
+  {
+    "id": "HIS-050-038",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "British military occupation of Egypt began in which year?",
+    "question_ar": "الاحتلال العسكري البريطاني لمصر بدأ سنة كام؟",
+    "options": [
+      {
+        "en": "1882",
+        "ar": "1882"
+      },
+      {
+        "en": "1798",
+        "ar": "1798"
+      },
+      {
+        "en": "1922",
+        "ar": "1922"
+      },
+      {
+        "en": "1517",
+        "ar": "1517"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Britain occupied Egypt militarily starting in 1882.",
+    "explanation_ar": "بريطانيا احتلت مصر عسكريًا ابتداءً من سنة 1882."
+  },
+  {
+    "id": "HIS-050-039",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Britain declared Egypt a formal protectorate in which year?",
+    "question_ar": "بريطانيا أعلنت مصر محمية رسمية سنة كام؟",
+    "options": [
+      {
+        "en": "1914",
+        "ar": "1914"
+      },
+      {
+        "en": "1882",
+        "ar": "1882"
+      },
+      {
+        "en": "1922",
+        "ar": "1922"
+      },
+      {
+        "en": "1936",
+        "ar": "1936"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Britain declared Egypt a protectorate in 1914, during World War I.",
+    "explanation_ar": "بريطانيا أعلنت مصر محمية سنة 1914، وقت الحرب العالمية الأولى."
+  },
+  {
+    "id": "HIS-050-040",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Free Officers Movement that led the 1952 coup was headed by which two key figures?",
+    "question_ar": "حركة الضباط الأحرار اللي قادت انقلاب 1952 كان على رأسها أنهي شخصيتين رئيسيتين؟",
+    "options": [
+      {
+        "en": "Gamal Abdel Nasser and Muhammad Naguib",
+        "ar": "جمال عبد الناصر ومحمد نجيب"
+      },
+      {
+        "en": "Anwar Sadat and Hosni Mubarak",
+        "ar": "أنور السادات وحسني مبارك"
+      },
+      {
+        "en": "Saad Zaghloul and Ahmed Orabi",
+        "ar": "سعد زغلول وأحمد عرابي"
+      },
+      {
+        "en": "King Farouk and King Fuad",
+        "ar": "الملك فاروق والملك فؤاد"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Nasser and Naguib were the central leaders of the 1952 coup.",
+    "explanation_ar": "عبد الناصر ونجيب كانوا القادة الأساسيين لانقلاب 1952."
+  },
+  {
+    "id": "HIS-050-041",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Muhammad Naguib holds the distinction of being Egypt's first what?",
+    "question_ar": "محمد نجيب له لقب كونه أول إيه لمصر؟",
+    "options": [
+      {
+        "en": "President",
+        "ar": "رئيس"
+      },
+      {
+        "en": "King",
+        "ar": "ملك"
+      },
+      {
+        "en": "Prime Minister ever",
+        "ar": "رئيس وزراء على الإطلاق"
+      },
+      {
+        "en": "Khedive",
+        "ar": "خديوي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Muhammad Naguib became Egypt's first president in 1953.",
+    "explanation_ar": "محمد نجيب بقى أول رئيس لمصر سنة 1953."
+  },
+  {
+    "id": "HIS-050-042",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Suez Crisis, also called the Tripartite Aggression, took place in which year?",
+    "question_ar": "أزمة السويس، أو العدوان الثلاثي، حصلت سنة كام؟",
+    "options": [
+      {
+        "en": "1956",
+        "ar": "1956"
+      },
+      {
+        "en": "1967",
+        "ar": "1967"
+      },
+      {
+        "en": "1973",
+        "ar": "1973"
+      },
+      {
+        "en": "1948",
+        "ar": "1948"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Britain, France, and Israel attacked Egypt in the 1956 Suez Crisis.",
+    "explanation_ar": "بريطانيا وفرنسا وإسرائيل هاجموا مصر في أزمة السويس سنة 1956."
+  },
+  {
+    "id": "HIS-050-043",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Aswan High Dam was built with major financial and technical help from which country?",
+    "question_ar": "السد العالي اتبنى بمساعدة مالية وفنية كبيرة من أنهي بلد؟",
+    "options": [
+      {
+        "en": "The Soviet Union",
+        "ar": "الاتحاد السوفيتي"
+      },
+      {
+        "en": "The United States",
+        "ar": "الولايات المتحدة"
+      },
+      {
+        "en": "Britain",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Soviet Union financed and helped engineer the Aswan High Dam.",
+    "explanation_ar": "الاتحاد السوفيتي مول وساعد هندسيًا في بناء السد العالي."
+  },
+  {
+    "id": "HIS-050-044",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Ottoman Empire was formally dissolved shortly after which major war?",
+    "question_ar": "الدولة العثمانية اتحلت رسميًا بعد أنهي حرب كبيرة؟",
+    "options": [
+      {
+        "en": "World War I",
+        "ar": "الحرب العالمية الأولى"
+      },
+      {
+        "en": "World War II",
+        "ar": "الحرب العالمية التانية"
+      },
+      {
+        "en": "The Crimean War",
+        "ar": "حرب القرم"
+      },
+      {
+        "en": "The Napoleonic Wars",
+        "ar": "الحروب النابليونية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Ottoman Empire ended in the aftermath of World War I.",
+    "explanation_ar": "الدولة العثمانية انتهت في أعقاب الحرب العالمية الأولى."
+  },
+  {
+    "id": "HIS-050-045",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "England's Magna Carta, limiting royal power, was signed in which year?",
+    "question_ar": "الماجنا كارتا الإنجليزية، اللي حدت سلطة الملك، اتوقعت سنة كام؟",
+    "options": [
+      {
+        "en": "1215",
+        "ar": "1215"
+      },
+      {
+        "en": "1789",
+        "ar": "1789"
+      },
+      {
+        "en": "1066",
+        "ar": "1066"
+      },
+      {
+        "en": "1500",
+        "ar": "1500"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "King John signed Magna Carta in 1215.",
+    "explanation_ar": "الملك جون وقع الماجنا كارتا سنة 1215."
+  },
+  {
+    "id": "HIS-050-046",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The American Civil War was fought mainly during which years?",
+    "question_ar": "الحرب الأهلية الأمريكية دارت أساسًا في أنهي سنين؟",
+    "options": [
+      {
+        "en": "1861 to 1865",
+        "ar": "من 1861 لحد 1865"
+      },
+      {
+        "en": "1914 to 1918",
+        "ar": "من 1914 لحد 1918"
+      },
+      {
+        "en": "1776 to 1783",
+        "ar": "من 1776 لحد 1783"
+      },
+      {
+        "en": "1939 to 1945",
+        "ar": "من 1939 لحد 1945"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The US Civil War lasted from 1861 to 1865.",
+    "explanation_ar": "الحرب الأهلية الأمريكية استمرت من 1861 لحد 1865."
+  },
+  {
+    "id": "HIS-050-047",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Industrial Revolution, a major shift to machine manufacturing, began in which country?",
+    "question_ar": "الثورة الصناعية، التحول الكبير للتصنيع بالآلات، بدأت في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Britain",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      },
+      {
+        "en": "The United States",
+        "ar": "الولايات المتحدة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Industrial Revolution began in Britain in the 18th century.",
+    "explanation_ar": "الثورة الصناعية بدأت في بريطانيا في القرن الـ18."
+  },
+  {
+    "id": "HIS-050-048",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which Egyptian pharaoh's temple complex at Abu Simbel was carved directly into a mountainside?",
+    "question_ar": "معبد أنهي فرعون في أبو سمبل اتحفر مباشرة في جبل؟",
+    "options": [
+      {
+        "en": "Ramesses II",
+        "ar": "رمسيس التاني"
+      },
+      {
+        "en": "Khufu",
+        "ar": "خوفو"
+      },
+      {
+        "en": "Hatshepsut",
+        "ar": "حتشبسوت"
+      },
+      {
+        "en": "Akhenaten",
+        "ar": "إخناتون"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ramesses II's rock-cut temples at Abu Simbel are carved into the mountain.",
+    "explanation_ar": "معابد رمسيس التاني الصخرية في أبو سمبل محفورة في الجبل."
+  },
+  {
+    "id": "HIS-050-049",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Wafd Party, a major force in Egypt's independence movement, took its name from what word meaning 'delegation'?",
+    "question_ar": "حزب الوفد، من أهم قوى حركة استقلال مصر، أخد اسمه من كلمة معناها إيه؟",
+    "options": [
+      {
+        "en": "A delegation seeking self-rule at peace talks",
+        "ar": "وفد بيطالب بالحكم الذاتي في مفاوضات السلام"
+      },
+      {
+        "en": "A religious pilgrimage group",
+        "ar": "مجموعة حجاج دينية"
+      },
+      {
+        "en": "A trading caravan",
+        "ar": "قافلة تجارية"
+      },
+      {
+        "en": "A royal council of ministers",
+        "ar": "مجلس وزراء ملكي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "'Wafd' means delegation, referencing the group that sought to represent Egypt at the 1919 peace talks.",
+    "explanation_ar": "'الوفد' معناها مجموعة كانت عايزة تمثل مصر في مفاوضات السلام سنة 1919."
+  },
+  {
+    "id": "HIS-050-050",
+    "category": "History",
+    "category_ar": "تاريخ",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Ancient Egypt's New Kingdom period is generally considered to represent what for the civilization?",
+    "question_ar": "عصر الدولة الحديثة في مصر القديمة بيتعتبر عمومًا إيه بالنسبة للحضارة؟",
+    "options": [
+      {
+        "en": "Its peak of power and empire",
+        "ar": "قمة قوتها وإمبراطوريتها"
+      },
+      {
+        "en": "Its earliest and weakest phase",
+        "ar": "أضعف وأقدم مراحلها"
+      },
+      {
+        "en": "A period of total foreign rule",
+        "ar": "فترة حكم أجنبي كامل"
+      },
+      {
+        "en": "Its final collapse",
+        "ar": "انهيارها النهائي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The New Kingdom marked Egypt's greatest territorial and military power.",
+    "explanation_ar": "الدولة الحديثة كانت قمة قوة مصر العسكرية والإقليمية."
+  }
+]

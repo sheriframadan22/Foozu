@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "SCI-050-001",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is often called the \"powerhouse of the cell\"?",
+    "question_ar": "إيه اللي بيتقاله \"محطة توليد الطاقة\" جوه الخلية؟",
+    "options": [
+      {
+        "en": "The mitochondria",
+        "ar": "الميتوكوندريا"
+      },
+      {
+        "en": "The ribosome",
+        "ar": "الريبوسوم"
+      },
+      {
+        "en": "The nucleus",
+        "ar": "النواة"
+      },
+      {
+        "en": "The cell wall",
+        "ar": "الجدار الخلوي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mitochondria produce most of the cell's energy.",
+    "explanation_ar": "الميتوكوندريا بتنتج معظم طاقة الخلية."
+  },
+  {
+    "id": "SCI-050-002",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What does the abbreviation \"DNA\" stand for?",
+    "question_ar": "اختصار \"DNA\" معناه إيه بالظبط؟",
+    "options": [
+      {
+        "en": "Dynamic nuclear acid",
+        "ar": "حمض نووي ديناميكي"
+      },
+      {
+        "en": "Deoxy nitrogen acid",
+        "ar": "حمض نيتروجين ديوكسي"
+      },
+      {
+        "en": "Deoxyribonucleic acid",
+        "ar": "الحمض النووي الديوكسي ريبوزي"
+      },
+      {
+        "en": "Double nucleic acid",
+        "ar": "حمض نووي مزدوج"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "DNA stands for deoxyribonucleic acid, which carries genetic information.",
+    "explanation_ar": "DNA اختصار للحمض النووي الديوكسي ريبوزي اللي بيحمل المعلومات الوراثية."
+  },
+  {
+    "id": "SCI-050-003",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How many pairs of ribs does the human body normally have?",
+    "question_ar": "جسم الإنسان بيبقى فيه عادةً كام زوج من الأضلاع؟",
+    "options": [
+      {
+        "en": "12 pairs",
+        "ar": "12 زوج"
+      },
+      {
+        "en": "8 pairs",
+        "ar": "8 أزواج"
+      },
+      {
+        "en": "14 pairs",
+        "ar": "14 زوج"
+      },
+      {
+        "en": "10 pairs",
+        "ar": "10 أزواج"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Humans normally have 12 pairs of ribs, 24 in total.",
+    "explanation_ar": "الإنسان بيبقى عنده عادةً 12 زوج أضلاع، يعني 24 ضلع."
+  },
+  {
+    "id": "SCI-050-004",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which blood type is known as the \"universal donor\"?",
+    "question_ar": "أنهي فصيلة دم معروفة إنها \"المتبرع العام\"؟",
+    "options": [
+      {
+        "en": "AB positive",
+        "ar": "AB موجب"
+      },
+      {
+        "en": "A positive",
+        "ar": "A موجب"
+      },
+      {
+        "en": "B negative",
+        "ar": "B سالب"
+      },
+      {
+        "en": "O negative",
+        "ar": "O سالب"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "O negative blood can be given to patients of nearly any blood type.",
+    "explanation_ar": "فصيلة O سالب ممكن تتنقل لمعظم المرضى مهما كانت فصيلتهم."
+  },
+  {
+    "id": "SCI-050-005",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which organ produces the hormone insulin?",
+    "question_ar": "أنهي عضو بينتج هرمون الأنسولين؟",
+    "options": [
+      {
+        "en": "The spleen",
+        "ar": "الطحال"
+      },
+      {
+        "en": "The kidney",
+        "ar": "الكلى"
+      },
+      {
+        "en": "The liver",
+        "ar": "الكبد"
+      },
+      {
+        "en": "The pancreas",
+        "ar": "البنكرياس"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The pancreas produces insulin, which regulates blood sugar.",
+    "explanation_ar": "البنكرياس بينتج الأنسولين اللي بينظم السكر في الدم."
+  },
+  {
+    "id": "SCI-050-006",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which small organ stores bile made by the liver?",
+    "question_ar": "أنهي عضو صغير بيخزن الصفرا اللي بينتجها الكبد؟",
+    "options": [
+      {
+        "en": "The gallbladder",
+        "ar": "المرارة"
+      },
+      {
+        "en": "The spleen",
+        "ar": "الطحال"
+      },
+      {
+        "en": "The appendix",
+        "ar": "الزائدة الدودية"
+      },
+      {
+        "en": "The pancreas",
+        "ar": "البنكرياس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The gallbladder stores and concentrates bile produced by the liver.",
+    "explanation_ar": "المرارة بتخزن وتركز الصفرا اللي بينتجها الكبد."
+  },
+  {
+    "id": "SCI-050-007",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Sound travels fastest through which of these?",
+    "question_ar": "الصوت بينتقل أسرع في أنهي وسط من دول؟",
+    "options": [
+      {
+        "en": "Water",
+        "ar": "المية"
+      },
+      {
+        "en": "A vacuum",
+        "ar": "الفراغ"
+      },
+      {
+        "en": "Steel",
+        "ar": "الصلب"
+      },
+      {
+        "en": "Air",
+        "ar": "الهوا"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Sound travels fastest through solids like steel, slower through liquids, and slowest through air.",
+    "explanation_ar": "الصوت بينتقل أسرع في المواد الصلبة زي الصلب، وأبطأ في السوائل، وأبطأ حاجة في الهوا."
+  },
+  {
+    "id": "SCI-050-008",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which planet has the strongest winds in the solar system?",
+    "question_ar": "أنهي كوكب فيه أقوى رياح في المجموعة الشمسية؟",
+    "options": [
+      {
+        "en": "Venus",
+        "ar": "الزهرة"
+      },
+      {
+        "en": "Neptune",
+        "ar": "نبتون"
+      },
+      {
+        "en": "Earth",
+        "ar": "الأرض"
+      },
+      {
+        "en": "Mars",
+        "ar": "المريخ"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Neptune has the fastest winds recorded of any planet, reaching over 2,000 km/h.",
+    "explanation_ar": "نبتون فيه أسرع رياح مسجلة في أي كوكب، بتوصل لأكتر من 2000 كم/الساعة."
+  },
+  {
+    "id": "SCI-050-009",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which continent is technically the driest on Earth, despite being covered in ice?",
+    "question_ar": "أنهي قارة رسمياً أكتر قارة جافة على الأرض، رغم إنها مغطاة بالتلج؟",
+    "options": [
+      {
+        "en": "Asia",
+        "ar": "آسيا"
+      },
+      {
+        "en": "Africa",
+        "ar": "أفريقيا"
+      },
+      {
+        "en": "Antarctica",
+        "ar": "القارة القطبية الجنوبية"
+      },
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Antarctica gets very little precipitation, making it technically a desert.",
+    "explanation_ar": "القارة القطبية الجنوبية بينزلها أمطار وثلوج قليلة جداً، فبتعتبر رسمياً صحراء."
+  },
+  {
+    "id": "SCI-050-010",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What do we call an object's tendency to resist a change in its motion?",
+    "question_ar": "بيتقال إيه لميل الجسم إنه يقاوم أي تغيير في حركته؟",
+    "options": [
+      {
+        "en": "Acceleration",
+        "ar": "التسارع"
+      },
+      {
+        "en": "Inertia",
+        "ar": "القصور الذاتي"
+      },
+      {
+        "en": "Friction",
+        "ar": "الاحتكاك"
+      },
+      {
+        "en": "Momentum",
+        "ar": "الزخم"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Inertia is described by Newton's first law of motion.",
+    "explanation_ar": "القصور الذاتي موصوف في قانون نيوتن الأول للحركة."
+  },
+  {
+    "id": "SCI-050-011",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which metal is liquid at room temperature?",
+    "question_ar": "أنهي معدن بيفضل سايل في درجة حرارة الغرفة؟",
+    "options": [
+      {
+        "en": "Copper",
+        "ar": "النحاس"
+      },
+      {
+        "en": "Iron",
+        "ar": "الحديد"
+      },
+      {
+        "en": "Mercury",
+        "ar": "الزئبق"
+      },
+      {
+        "en": "Zinc",
+        "ar": "الزنك"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Mercury is the only metal that is liquid at normal room temperature.",
+    "explanation_ar": "الزئبق هو المعدن الوحيد اللي بيفضل سايل في درجة حرارة الغرفة العادية."
+  },
+  {
+    "id": "SCI-050-012",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which gas is commonly used to make balloons float?",
+    "question_ar": "أنهي غاز بيتستخدم عادةً عشان يخلي البالونات تطير؟",
+    "options": [
+      {
+        "en": "Carbon dioxide",
+        "ar": "ثاني أكسيد الكربون"
+      },
+      {
+        "en": "Helium",
+        "ar": "الهيليوم"
+      },
+      {
+        "en": "Oxygen",
+        "ar": "الأكسجين"
+      },
+      {
+        "en": "Nitrogen",
+        "ar": "النيتروجين"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Helium is lighter than air, which is why it makes balloons float.",
+    "explanation_ar": "الهيليوم أخف من الهوا، عشان كده بيخلي البالونات تطير."
+  },
+  {
+    "id": "SCI-050-013",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the chemical symbol for sodium?",
+    "question_ar": "إيه الرمز الكيميائي للصوديوم؟",
+    "options": [
+      {
+        "en": "So",
+        "ar": "So"
+      },
+      {
+        "en": "Nm",
+        "ar": "Nm"
+      },
+      {
+        "en": "Sd",
+        "ar": "Sd"
+      },
+      {
+        "en": "Na",
+        "ar": "Na"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Sodium's symbol, Na, comes from its Latin name \"natrium\".",
+    "explanation_ar": "رمز الصوديوم Na جاي من اسمه اللاتيني \"natrium\"."
+  },
+  {
+    "id": "SCI-050-014",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the most abundant element in the entire universe?",
+    "question_ar": "إيه أكتر عنصر منتشر في الكون كله؟",
+    "options": [
+      {
+        "en": "Helium",
+        "ar": "الهيليوم"
+      },
+      {
+        "en": "Oxygen",
+        "ar": "الأكسجين"
+      },
+      {
+        "en": "Hydrogen",
+        "ar": "الهيدروجين"
+      },
+      {
+        "en": "Carbon",
+        "ar": "الكربون"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Hydrogen is the most abundant element in the universe.",
+    "explanation_ar": "الهيدروجين هو أكتر عنصر منتشر في الكون."
+  },
+  {
+    "id": "SCI-050-015",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Roughly how fast does light travel in a vacuum?",
+    "question_ar": "الضوء بيتحرك بسرعة إيه تقريباً في الفراغ؟",
+    "options": [
+      {
+        "en": "About 300,000 km per hour",
+        "ar": "حوالي 300 ألف كم في الساعة"
+      },
+      {
+        "en": "About 3,000 km per second",
+        "ar": "حوالي 3 آلاف كم في الثانية"
+      },
+      {
+        "en": "About 30,000 km per second",
+        "ar": "حوالي 30 ألف كم في الثانية"
+      },
+      {
+        "en": "About 300,000 km per second",
+        "ar": "حوالي 300 ألف كم في الثانية"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Light travels at roughly 300,000 kilometers per second in a vacuum.",
+    "explanation_ar": "الضوء بيتحرك بسرعة حوالي 300 ألف كيلومتر في الثانية في الفراغ."
+  },
+  {
+    "id": "SCI-050-016",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which medieval scholar wrote the influential \"Book of Optics\" and is considered a pioneer of the scientific method?",
+    "question_ar": "مين العالم اللي كتب \"كتاب المناظر\" المؤثر ويعتبر من رواد المنهج العلمي؟",
+    "options": [
+      {
+        "en": "Ibn Battuta",
+        "ar": "ابن بطوطة"
+      },
+      {
+        "en": "Al-Khwarizmi",
+        "ar": "الخوارزمي"
+      },
+      {
+        "en": "Ibn al-Haytham",
+        "ar": "ابن الهيثم"
+      },
+      {
+        "en": "Al-Farabi",
+        "ar": "الفارابي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Ibn al-Haytham's \"Book of Optics\" laid groundwork for the modern scientific method.",
+    "explanation_ar": "كتاب \"المناظر\" لابن الهيثم وضع أساس المنهج العلمي الحديث."
+  },
+  {
+    "id": "SCI-050-017",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which scientist proposed the theory of evolution by natural selection?",
+    "question_ar": "مين العالم اللي اقترح نظرية التطور بالانتخاب الطبيعي؟",
+    "options": [
+      {
+        "en": "Louis Pasteur",
+        "ar": "لويس باستور"
+      },
+      {
+        "en": "Alfred Wegener",
+        "ar": "ألفريد فيجنر"
+      },
+      {
+        "en": "Gregor Mendel",
+        "ar": "جريجور مندل"
+      },
+      {
+        "en": "Charles Darwin",
+        "ar": "تشارلز داروين"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Charles Darwin proposed the theory of evolution by natural selection.",
+    "explanation_ar": "تشارلز داروين اقترح نظرية التطور بالانتخاب الطبيعي."
+  },
+  {
+    "id": "SCI-050-018",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the largest bone in the human body?",
+    "question_ar": "إيه أكبر عضمة في جسم الإنسان؟",
+    "options": [
+      {
+        "en": "The femur (thigh bone)",
+        "ar": "عظمة الفخذ"
+      },
+      {
+        "en": "The humerus",
+        "ar": "عظمة العضد"
+      },
+      {
+        "en": "The spine",
+        "ar": "العمود الفقري"
+      },
+      {
+        "en": "The skull",
+        "ar": "الجمجمة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The femur, in the thigh, is the largest and strongest bone in the human body.",
+    "explanation_ar": "عظمة الفخذ هي أكبر وأقوى عضمة في جسم الإنسان."
+  },
+  {
+    "id": "SCI-050-019",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the smallest bone in the human body, found in the ear?",
+    "question_ar": "إيه أصغر عضمة في جسم الإنسان، وموجودة في الأذن؟",
+    "options": [
+      {
+        "en": "The femur",
+        "ar": "عظمة الفخذ"
+      },
+      {
+        "en": "The patella",
+        "ar": "الرضفة"
+      },
+      {
+        "en": "The clavicle",
+        "ar": "الترقوة"
+      },
+      {
+        "en": "The stapes",
+        "ar": "الركاب"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The stapes bone in the middle ear is the smallest bone in the human body.",
+    "explanation_ar": "عظمة الركاب في الأذن الوسطى هي أصغر عضمة في جسم الإنسان."
+  },
+  {
+    "id": "SCI-050-020",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which planet has a single day (one full rotation) that is longer than its own year?",
+    "question_ar": "أنهي كوكب يومه (لفة واحدة حوالين نفسه) أطول من سنته؟",
+    "options": [
+      {
+        "en": "Venus",
+        "ar": "الزهرة"
+      },
+      {
+        "en": "Earth",
+        "ar": "الأرض"
+      },
+      {
+        "en": "Jupiter",
+        "ar": "المشترى"
+      },
+      {
+        "en": "Mars",
+        "ar": "المريخ"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Venus rotates so slowly that one of its days is longer than its year.",
+    "explanation_ar": "الزهرة بتلف حوالين نفسها ببطء شديد لدرجة إن يومها أطول من سنتها."
+  },
+  {
+    "id": "SCI-050-021",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the chemical symbol for potassium?",
+    "question_ar": "إيه الرمز الكيميائي للبوتاسيوم؟",
+    "options": [
+      {
+        "en": "P",
+        "ar": "P"
+      },
+      {
+        "en": "K",
+        "ar": "K"
+      },
+      {
+        "en": "Pt",
+        "ar": "Pt"
+      },
+      {
+        "en": "Po",
+        "ar": "Po"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Potassium's symbol, K, comes from its Latin name \"kalium\".",
+    "explanation_ar": "رمز البوتاسيوم K جاي من اسمه اللاتيني \"kalium\"."
+  },
+  {
+    "id": "SCI-050-022",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Roughly what temperature is \"absolute zero\", the coldest possible temperature?",
+    "question_ar": "\"الصفر المطلق\"، أبرد درجة حرارة ممكنة، بيقارب كام درجة مئوية؟",
+    "options": [
+      {
+        "en": "About -50°C",
+        "ar": "حوالي -50 درجة"
+      },
+      {
+        "en": "About -273°C",
+        "ar": "حوالي -273 درجة"
+      },
+      {
+        "en": "About -100°C",
+        "ar": "حوالي -100 درجة"
+      },
+      {
+        "en": "0°C",
+        "ar": "صفر"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Absolute zero is about -273.15°C, where particles have minimal thermal motion.",
+    "explanation_ar": "الصفر المطلق حوالي -273.15 درجة مئوية، وعندها الجزيئات بتكون في أقل حركة حرارية."
+  },
+  {
+    "id": "SCI-050-023",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What do we call animals that are mainly active at night?",
+    "question_ar": "بيتقال إيه للحيوانات اللي بتنشط أساساً بالليل؟",
+    "options": [
+      {
+        "en": "Migratory",
+        "ar": "مهاجرة"
+      },
+      {
+        "en": "Diurnal",
+        "ar": "نهارية"
+      },
+      {
+        "en": "Nocturnal",
+        "ar": "ليلية"
+      },
+      {
+        "en": "Hibernating",
+        "ar": "سباتية"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Nocturnal animals are active mainly at night, like owls and bats.",
+    "explanation_ar": "الحيوانات الليلية بتنشط أساساً بالليل، زي البومة والخفاش."
+  },
+  {
+    "id": "SCI-050-024",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the closest major galaxy to our own Milky Way?",
+    "question_ar": "إيه أقرب مجرة كبيرة لمجرتنا درب التبانة؟",
+    "options": [
+      {
+        "en": "Andromeda",
+        "ar": "المرأة المسلسلة (أندروميدا)"
+      },
+      {
+        "en": "Sombrero Galaxy",
+        "ar": "مجرة القبعة"
+      },
+      {
+        "en": "Whirlpool Galaxy",
+        "ar": "مجرة الدوامة"
+      },
+      {
+        "en": "Triangulum",
+        "ar": "المثلث"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Andromeda galaxy is the closest major galaxy to the Milky Way.",
+    "explanation_ar": "مجرة أندروميدا هي أقرب مجرة كبيرة لمجرة درب التبانة."
+  },
+  {
+    "id": "SCI-050-025",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What do we call a scientist who studies fossils and ancient life?",
+    "question_ar": "بيتقال إيه للعالم اللي بيدرس الحفريات والكائنات القديمة؟",
+    "options": [
+      {
+        "en": "A paleontologist",
+        "ar": "عالم حفريات"
+      },
+      {
+        "en": "A biologist",
+        "ar": "عالم أحياء"
+      },
+      {
+        "en": "An archaeologist",
+        "ar": "عالم آثار"
+      },
+      {
+        "en": "A geologist",
+        "ar": "جيولوجي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A paleontologist studies fossils and prehistoric life.",
+    "explanation_ar": "عالم الحفريات بيدرس الحفريات والكائنات اللي عاشت في العصور القديمة."
+  },
+  {
+    "id": "SCI-050-026",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Deficiency in which vitamin causes the disease scurvy?",
+    "question_ar": "نقص أنهي فيتامين بيسبب مرض الاسقربوط؟",
+    "options": [
+      {
+        "en": "Vitamin B12",
+        "ar": "فيتامين B12"
+      },
+      {
+        "en": "Vitamin D",
+        "ar": "فيتامين D"
+      },
+      {
+        "en": "Vitamin C",
+        "ar": "فيتامين C"
+      },
+      {
+        "en": "Vitamin A",
+        "ar": "فيتامين A"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "A lack of Vitamin C causes scurvy.",
+    "explanation_ar": "نقص فيتامين C بيسبب مرض الاسقربوط."
+  },
+  {
+    "id": "SCI-050-027",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What do we call the body system that includes the heart and blood vessels?",
+    "question_ar": "بيتقال إيه لجهاز الجسم اللي بيضم القلب والأوعية الدموية؟",
+    "options": [
+      {
+        "en": "The nervous system",
+        "ar": "الجهاز العصبي"
+      },
+      {
+        "en": "The respiratory system",
+        "ar": "الجهاز التنفسي"
+      },
+      {
+        "en": "The digestive system",
+        "ar": "الجهاز الهضمي"
+      },
+      {
+        "en": "The circulatory system",
+        "ar": "الجهاز الدوري"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The circulatory system includes the heart and blood vessels.",
+    "explanation_ar": "الجهاز الدوري بيضم القلب والأوعية الدموية."
+  },
+  {
+    "id": "SCI-050-028",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the chemical name for ordinary table salt?",
+    "question_ar": "إيه الاسم الكيميائي لملح الطعام العادي؟",
+    "options": [
+      {
+        "en": "Potassium chloride",
+        "ar": "كلوريد البوتاسيوم"
+      },
+      {
+        "en": "Sodium chloride",
+        "ar": "كلوريد الصوديوم"
+      },
+      {
+        "en": "Calcium chloride",
+        "ar": "كلوريد الكالسيوم"
+      },
+      {
+        "en": "Sodium carbonate",
+        "ar": "كربونات الصوديوم"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Table salt is chemically known as sodium chloride.",
+    "explanation_ar": "ملح الطعام اسمه الكيميائي كلوريد الصوديوم."
+  },
+  {
+    "id": "SCI-050-029",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which planet was discovered through mathematical prediction before it was actually observed?",
+    "question_ar": "أنهي كوكب اتكتشف بالتنبؤ الرياضي قبل ما يتشاف فعلاً بالتليسكوب؟",
+    "options": [
+      {
+        "en": "Mars",
+        "ar": "المريخ"
+      },
+      {
+        "en": "Neptune",
+        "ar": "نبتون"
+      },
+      {
+        "en": "Saturn",
+        "ar": "زحل"
+      },
+      {
+        "en": "Uranus",
+        "ar": "أورانوس"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Neptune's existence was predicted mathematically before it was directly observed.",
+    "explanation_ar": "وجود نبتون اتنبأوا بيه رياضياً قبل ما يتشاف مباشرة."
+  },
+  {
+    "id": "SCI-050-030",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What do we call a rock from space that survives its fall and lands on Earth's surface?",
+    "question_ar": "بيتقال إيه لصخرة فضائية بتعدي جو الأرض وتوصل لسطحها؟",
+    "options": [
+      {
+        "en": "A satellite",
+        "ar": "قمر صناعي"
+      },
+      {
+        "en": "A comet",
+        "ar": "مذنب"
+      },
+      {
+        "en": "A meteorite",
+        "ar": "نيزك"
+      },
+      {
+        "en": "An asteroid",
+        "ar": "كويكب"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "A meteorite is a space rock that survives entry and reaches Earth's surface.",
+    "explanation_ar": "النيزك هو صخرة فضائية بتعدي جو الأرض وتوصل لسطحها."
+  },
+  {
+    "id": "SCI-050-031",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How do bees communicate the direction of food to other bees in the hive?",
+    "question_ar": "النحل بيوصل اتجاه الأكل لباقي النحل في الخلية إزاي؟",
+    "options": [
+      {
+        "en": "Through a \"waggle dance\"",
+        "ar": "من خلال \"رقصة الاهتزاز\""
+      },
+      {
+        "en": "By buzzing loudly",
+        "ar": "بالطنين العالي"
+      },
+      {
+        "en": "By changing color",
+        "ar": "بتغيير اللون"
+      },
+      {
+        "en": "By releasing scent trails only",
+        "ar": "بترك أثر الرايحة بس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Bees perform a \"waggle dance\" to tell other bees the direction and distance of food.",
+    "explanation_ar": "النحل بيعمل \"رقصة اهتزاز\" عشان يوصّل لباقي النحل اتجاه الأكل وبعده."
+  },
+  {
+    "id": "SCI-050-032",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which organ produces the bile that helps digest fats?",
+    "question_ar": "أنهي عضو بينتج الصفرا اللي بتساعد في هضم الدهون؟",
+    "options": [
+      {
+        "en": "The pancreas",
+        "ar": "البنكرياس"
+      },
+      {
+        "en": "The liver",
+        "ar": "الكبد"
+      },
+      {
+        "en": "The spleen",
+        "ar": "الطحال"
+      },
+      {
+        "en": "The stomach",
+        "ar": "المعدة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The liver produces bile, which the gallbladder then stores.",
+    "explanation_ar": "الكبد بينتج الصفرا، واللي بعدين المرارة بتخزنها."
+  },
+  {
+    "id": "SCI-050-033",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What do we call the scientific study of earthquakes?",
+    "question_ar": "بيتقال إيه للعلم اللي بيدرس الزلازل؟",
+    "options": [
+      {
+        "en": "Seismology",
+        "ar": "علم الزلازل"
+      },
+      {
+        "en": "Meteorology",
+        "ar": "علم الأرصاد الجوية"
+      },
+      {
+        "en": "Volcanology",
+        "ar": "علم البراكين"
+      },
+      {
+        "en": "Oceanography",
+        "ar": "علم المحيطات"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Seismology is the scientific study of earthquakes.",
+    "explanation_ar": "علم الزلازل هو العلم اللي بيدرس الزلازل."
+  },
+  {
+    "id": "SCI-050-034",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What do we call a group of lions living together?",
+    "question_ar": "بيتقال إيه لمجموعة أسود بتعيش مع بعض؟",
+    "options": [
+      {
+        "en": "A flock",
+        "ar": "سرب"
+      },
+      {
+        "en": "A pack",
+        "ar": "قطيع ذئاب"
+      },
+      {
+        "en": "A herd",
+        "ar": "قطيع"
+      },
+      {
+        "en": "A pride",
+        "ar": "قطيع (pride)"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "A group of lions is called a \"pride\".",
+    "explanation_ar": "مجموعة الأسود بيتقالها \"pride\"."
+  },
+  {
+    "id": "SCI-050-035",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What natural light phenomenon is caused by charged particles from the Sun hitting Earth's atmosphere near the poles?",
+    "question_ar": "إيه الظاهرة الضوئية الطبيعية اللي بتحصل لما جسيمات مشحونة من الشمس تصطدم بالغلاف الجوي قرب القطبين؟",
+    "options": [
+      {
+        "en": "A rainbow",
+        "ar": "قوس قزح"
+      },
+      {
+        "en": "A solar eclipse",
+        "ar": "كسوف الشمس"
+      },
+      {
+        "en": "The aurora (northern/southern lights)",
+        "ar": "الشفق القطبي"
+      },
+      {
+        "en": "Ball lightning",
+        "ar": "البرق الكروي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The aurora is caused by solar particles interacting with Earth's magnetic field and atmosphere.",
+    "explanation_ar": "الشفق القطبي بيحصل لما جسيمات شمسية تتفاعل مع المجال المغناطيسي والغلاف الجوي للأرض."
+  },
+  {
+    "id": "SCI-050-036",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What do we call a simple machine that is a rigid bar pivoting on a fixed point, used to lift heavy objects?",
+    "question_ar": "بيتقال إيه لآلة بسيطة عبارة عن قضيب صلب بيدور حوالين نقطة ثابتة، بتستخدم لرفع الحاجات التقيلة؟",
+    "options": [
+      {
+        "en": "A screw",
+        "ar": "البرغي"
+      },
+      {
+        "en": "A lever",
+        "ar": "الرافعة"
+      },
+      {
+        "en": "A pulley",
+        "ar": "البكرة"
+      },
+      {
+        "en": "A wedge",
+        "ar": "الإسفين"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "A lever is a rigid bar that pivots on a fixed point to lift objects with less effort.",
+    "explanation_ar": "الرافعة قضيب صلب بيدور حوالين نقطة ثابتة عشان يرفع الحاجات بمجهود أقل."
+  },
+  {
+    "id": "SCI-050-037",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What do we call living things, like plants, that make their own food?",
+    "question_ar": "بيتقال إيه للكائنات الحية زي النبات اللي بتصنع غذاؤها بنفسها؟",
+    "options": [
+      {
+        "en": "Predators",
+        "ar": "مفترسات"
+      },
+      {
+        "en": "Decomposers",
+        "ar": "محللات"
+      },
+      {
+        "en": "Consumers",
+        "ar": "مستهلكات"
+      },
+      {
+        "en": "Producers",
+        "ar": "منتجات"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Producers, like plants, make their own food through photosynthesis.",
+    "explanation_ar": "المنتجات، زي النبات، بتصنع غذاؤها بنفسها من خلال البناء الضوئي."
+  },
+  {
+    "id": "SCI-050-038",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which acid is naturally present in the human stomach to help digest food?",
+    "question_ar": "أنهي حمض موجود بشكل طبيعي في معدة الإنسان عشان يساعد في هضم الأكل؟",
+    "options": [
+      {
+        "en": "Hydrochloric acid",
+        "ar": "حمض الهيدروكلوريك"
+      },
+      {
+        "en": "Sulfuric acid",
+        "ar": "حمض الكبريتيك"
+      },
+      {
+        "en": "Acetic acid",
+        "ar": "حمض الأسيتيك"
+      },
+      {
+        "en": "Citric acid",
+        "ar": "حمض الستريك"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The stomach naturally produces hydrochloric acid to break down food.",
+    "explanation_ar": "المعدة بتنتج طبيعياً حمض الهيدروكلوريك عشان تفكك الأكل."
+  },
+  {
+    "id": "SCI-050-039",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which greenhouse gas is most associated with human-driven climate change?",
+    "question_ar": "أنهي غاز دفيئة أكتر مرتبط بالتغير المناخي اللي سببه الإنسان؟",
+    "options": [
+      {
+        "en": "Oxygen",
+        "ar": "الأكسجين"
+      },
+      {
+        "en": "Carbon dioxide",
+        "ar": "ثاني أكسيد الكربون"
+      },
+      {
+        "en": "Nitrogen",
+        "ar": "النيتروجين"
+      },
+      {
+        "en": "Helium",
+        "ar": "الهيليوم"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Carbon dioxide, released by burning fossil fuels, is the main greenhouse gas linked to climate change.",
+    "explanation_ar": "ثاني أكسيد الكربون، الناتج من حرق الوقود الأحفوري، هو أهم غاز دفيئة مرتبط بالتغير المناخي."
+  },
+  {
+    "id": "SCI-050-040",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Where in the body are most red blood cells produced?",
+    "question_ar": "فين في الجسم بتتكون معظم كرات الدم الحمرا؟",
+    "options": [
+      {
+        "en": "The spleen",
+        "ar": "الطحال"
+      },
+      {
+        "en": "The heart",
+        "ar": "القلب"
+      },
+      {
+        "en": "The liver",
+        "ar": "الكبد"
+      },
+      {
+        "en": "Bone marrow",
+        "ar": "نخاع العظم"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Bone marrow produces most of the body's red blood cells.",
+    "explanation_ar": "نخاع العظم بينتج معظم كرات الدم الحمرا في الجسم."
+  },
+  {
+    "id": "SCI-050-041",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the chemical symbol for silver?",
+    "question_ar": "إيه الرمز الكيميائي للفضة؟",
+    "options": [
+      {
+        "en": "Sv",
+        "ar": "Sv"
+      },
+      {
+        "en": "Ag",
+        "ar": "Ag"
+      },
+      {
+        "en": "Si",
+        "ar": "Si"
+      },
+      {
+        "en": "Sr",
+        "ar": "Sr"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Silver's symbol, Ag, comes from its Latin name \"argentum\".",
+    "explanation_ar": "رمز الفضة Ag جاي من اسمها اللاتيني \"argentum\"."
+  },
+  {
+    "id": "SCI-050-042",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What generates Earth's magnetic field?",
+    "question_ar": "إيه اللي بيولّد المجال المغناطيسي للأرض؟",
+    "options": [
+      {
+        "en": "Ocean currents",
+        "ar": "تيارات المحيط"
+      },
+      {
+        "en": "The Moon's gravity",
+        "ar": "جاذبية القمر"
+      },
+      {
+        "en": "The ozone layer",
+        "ar": "طبقة الأوزون"
+      },
+      {
+        "en": "Molten iron moving in the outer core",
+        "ar": "حديد منصهر بيتحرك في اللب الخارجي"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Earth's magnetic field is generated by the movement of molten iron in its outer core.",
+    "explanation_ar": "المجال المغناطيسي للأرض بيتولّد من حركة الحديد المنصهر في اللب الخارجي."
+  },
+  {
+    "id": "SCI-050-043",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the tallest mountain on Earth, measured above sea level?",
+    "question_ar": "إيه أعلى جبل على وش الأرض، بالقياس من فوق سطح البحر؟",
+    "options": [
+      {
+        "en": "Mont Blanc",
+        "ar": "مون بلان"
+      },
+      {
+        "en": "Mount Kilimanjaro",
+        "ar": "جبل كليمنجارو"
+      },
+      {
+        "en": "Mount Everest",
+        "ar": "جبل إفرست"
+      },
+      {
+        "en": "K2",
+        "ar": "كي 2"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Mount Everest is the tallest mountain above sea level.",
+    "explanation_ar": "جبل إفرست هو أعلى جبل من فوق سطح البحر."
+  },
+  {
+    "id": "SCI-050-044",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which vitamin is produced by bacteria living in the human gut?",
+    "question_ar": "أنهي فيتامين بتنتجه بكتيريا عايشة في أمعاء الإنسان؟",
+    "options": [
+      {
+        "en": "Vitamin A",
+        "ar": "فيتامين A"
+      },
+      {
+        "en": "Vitamin D",
+        "ar": "فيتامين D"
+      },
+      {
+        "en": "Vitamin C",
+        "ar": "فيتامين C"
+      },
+      {
+        "en": "Vitamin K",
+        "ar": "فيتامين K"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Gut bacteria naturally produce Vitamin K, which helps with blood clotting.",
+    "explanation_ar": "بكتيريا الأمعاء بتنتج طبيعياً فيتامين K اللي بيساعد في تجلط الدم."
+  },
+  {
+    "id": "SCI-050-045",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which body system is made up of the brain, spinal cord and nerves?",
+    "question_ar": "أنهي جهاز في الجسم بيتكون من المخ والحبل الشوكي والأعصاب؟",
+    "options": [
+      {
+        "en": "The nervous system",
+        "ar": "الجهاز العصبي"
+      },
+      {
+        "en": "The endocrine system",
+        "ar": "الجهاز الصماوي"
+      },
+      {
+        "en": "The circulatory system",
+        "ar": "الجهاز الدوري"
+      },
+      {
+        "en": "The skeletal system",
+        "ar": "الجهاز الهيكلي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The nervous system consists of the brain, spinal cord, and nerves.",
+    "explanation_ar": "الجهاز العصبي بيتكون من المخ والحبل الشوكي والأعصاب."
+  },
+  {
+    "id": "SCI-050-046",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What do we call the layer of gases that surrounds a planet?",
+    "question_ar": "بيتقال إيه لطبقة الغازات اللي بتحيط بالكوكب؟",
+    "options": [
+      {
+        "en": "The core",
+        "ar": "اللب"
+      },
+      {
+        "en": "The crust",
+        "ar": "القشرة"
+      },
+      {
+        "en": "The atmosphere",
+        "ar": "الغلاف الجوي"
+      },
+      {
+        "en": "The mantle",
+        "ar": "الوشاح"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The atmosphere is the layer of gases surrounding a planet.",
+    "explanation_ar": "الغلاف الجوي هو طبقة الغازات اللي بتحيط بالكوكب."
+  },
+  {
+    "id": "SCI-050-047",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What do we call a young kangaroo?",
+    "question_ar": "بيتقال إيه لصغير الكنجرو؟",
+    "options": [
+      {
+        "en": "A cub",
+        "ar": "شبل"
+      },
+      {
+        "en": "A pup",
+        "ar": "جرو"
+      },
+      {
+        "en": "A calf",
+        "ar": "عجل"
+      },
+      {
+        "en": "A joey",
+        "ar": "جوي"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "A baby kangaroo is called a \"joey\".",
+    "explanation_ar": "صغير الكنجرو بيتقاله \"joey\"."
+  },
+  {
+    "id": "SCI-050-048",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the largest hot desert in the world?",
+    "question_ar": "إيه أكبر صحرا حارة في العالم؟",
+    "options": [
+      {
+        "en": "The Arabian Desert",
+        "ar": "الصحراء العربية"
+      },
+      {
+        "en": "The Gobi Desert",
+        "ar": "صحراء جوبي"
+      },
+      {
+        "en": "The Sahara",
+        "ar": "الصحرا الكبرى"
+      },
+      {
+        "en": "The Kalahari Desert",
+        "ar": "صحراء كالاهاري"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Sahara, covering much of North Africa, is the world's largest hot desert.",
+    "explanation_ar": "الصحرا الكبرى، اللي بتغطي جزء كبير من شمال أفريقيا، هي أكبر صحرا حارة في العالم."
+  },
+  {
+    "id": "SCI-050-049",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which gland, located in the neck, regulates the body's metabolism?",
+    "question_ar": "أنهي غدة موجودة في الرقبة بتنظم عملية الأيض في الجسم؟",
+    "options": [
+      {
+        "en": "The salivary gland",
+        "ar": "الغدة اللعابية"
+      },
+      {
+        "en": "The pituitary gland",
+        "ar": "الغدة النخامية"
+      },
+      {
+        "en": "The thyroid gland",
+        "ar": "الغدة الدرقية"
+      },
+      {
+        "en": "The adrenal gland",
+        "ar": "الغدة الكظرية"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The thyroid gland in the neck regulates metabolism.",
+    "explanation_ar": "الغدة الدرقية في الرقبة بتنظم عملية الأيض في الجسم."
+  },
+  {
+    "id": "SCI-050-050",
+    "category": "Science",
+    "category_ar": "خمن العلم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which internal organ is the largest inside the human body?",
+    "question_ar": "إيه أكبر عضو داخلي في جسم الإنسان؟",
+    "options": [
+      {
+        "en": "The stomach",
+        "ar": "المعدة"
+      },
+      {
+        "en": "The kidneys",
+        "ar": "الكلى"
+      },
+      {
+        "en": "The lungs",
+        "ar": "الرئتين"
+      },
+      {
+        "en": "The liver",
+        "ar": "الكبد"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "While the skin is the largest organ overall, the liver is the largest organ inside the body.",
+    "explanation_ar": "الجلد هو أكبر عضو بشكل عام، لكن الكبد هو أكبر عضو داخلي في الجسم."
+  }
+]
