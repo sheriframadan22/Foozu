@@ -35,29 +35,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian composer's score for \"Enta Omri\" (1964) marked his first-ever collaboration with Umm Kulthum after decades as her artistic rival?",
-    "question_ar": "تلحين أنهي ملحن مصري لأغنية \"إنت عمري\" (1964) كان أول تعاون بينه وبين أم كلثوم بعد عقود من المنافسة الفنية؟",
+    "question_en": "Which Egyptian poet wrote the lyrics for \"Enta Omri\", the classic performed by Umm Kulthum with music by Mohamed Abdel Wahab?",
+    "question_ar": "أنهي شاعر مصري كتب كلمات \"إنت عمري\"، الأغنية الكلاسيكية اللي غنتها أم كلثوم وتلحين محمد عبد الوهاب؟",
     "options": [
       {
-        "en": "Riad El Sonbati",
-        "ar": "رياض السنباطي"
+        "en": "Bayram El Tunisi",
+        "ar": "بيرم التونسي"
       },
       {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
+        "en": "Ahmed Shafiq Kamel",
+        "ar": "أحمد شفيق كامل"
       },
       {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
+        "en": "Nizar Qabbani",
+        "ar": "نزار قباني"
       },
       {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
+        "en": "Salah Jahin",
+        "ar": "صلاح جاهين"
       }
     ],
     "correctAnswer": 1,
-    "explanation_en": "\"Enta Omri\" (1964) was the first collaboration between longtime rivals Umm Kulthum and Mohamed Abdel Wahab.",
-    "explanation_ar": "\"إنت عمري\" (1964) كانت أول تعاون بين أم كلثوم ومحمد عبد الوهاب بعد منافسة فنية طويلة."
+    "explanation_en": "Ahmed Shafiq Kamel wrote the lyrics for \"Enta Omri\".",
+    "explanation_ar": "أحمد شفيق كامل كتب كلمات أغنية \"إنت عمري\"."
   },
   {
     "id": "MUS-200-003",
@@ -65,8 +65,8 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's death in 1977 came just weeks after his final concert, and his funeral drew crowds comparable to Umm Kulthum's 1975 funeral?",
-    "question_ar": "أنهي مطرب مصري توفي سنة 1977 بعد أسابيع بس من آخر حفلة له، وجنازته جمعت حشود شبه جنازة أم كلثوم سنة 1975؟",
+    "question_en": "Which Egyptian singer underwent numerous surgeries abroad for bilharzia-related complications throughout his career, a health struggle widely known to his fans?",
+    "question_ar": "أنهي مطرب مصري خضع لعمليات جراحية كتير في الخارج بسبب مضاعفات مرض البلهارسيا طول مشواره، ومعاناته دي كانت معروفة لجمهوره؟",
     "options": [
       {
         "en": "Farid El Atrache",
@@ -86,8 +86,8 @@
       }
     ],
     "correctAnswer": 2,
-    "explanation_en": "Abdel Halim Hafez's 1977 funeral drew massive crowds, echoing Umm Kulthum's funeral two years earlier.",
-    "explanation_ar": "جنازة عبد الحليم حافظ سنة 1977 جذبت حشود ضخمة شبه جنازة أم كلثوم قبلها بسنتين."
+    "explanation_en": "Abdel Halim Hafez battled bilharzia-related health issues for most of his life, undergoing many surgeries abroad.",
+    "explanation_ar": "عبد الحليم حافظ عانى من مضاعفات البلهارسيا معظم حياته وخضع لعمليات كتير في الخارج."
   },
   {
     "id": "MUS-200-004",

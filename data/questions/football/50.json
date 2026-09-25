@@ -1,0 +1,905 @@
+[
+  {
+    "id": "FTB-050-001",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Before signing permanently for Roma, Mohamed Salah spent half a season on loan at which Italian club?",
+    "question_ar": "قبل ما يتعاقد بشكل نهائي مع روما، محمد صلاح لعب نص موسم إعارة مع أنهي فريق إيطالي؟",
+    "options": [
+      {"en": "Napoli", "ar": "نابولي"},
+      {"en": "Fiorentina", "ar": "فيورنتينا"},
+      {"en": "Inter Milan", "ar": "إنتر ميلان"},
+      {"en": "Lazio", "ar": "لاتسيو"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Salah spent half a season on loan at Fiorentina before joining Roma.",
+    "explanation_ar": "صلاح لعب نص موسم إعارة في فيورنتينا قبل ما ينضم لروما."
+  },
+  {
+    "id": "FTB-050-002",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Mohamed Salah began his European career at FC Basel, a club from which country?",
+    "question_ar": "محمد صلاح بدأ مشواره الأوروبي مع بازل، النادي اللي من أنهي دولة؟",
+    "options": [
+      {"en": "Austria", "ar": "النمسا"},
+      {"en": "Switzerland", "ar": "سويسرا"},
+      {"en": "Belgium", "ar": "بلجيكا"},
+      {"en": "Netherlands", "ar": "هولندا"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "FC Basel, Salah's first European club, is a Swiss team.",
+    "explanation_ar": "بازل، أول فريق أوروبي لعب له صلاح، فريق سويسري."
+  },
+  {
+    "id": "FTB-050-003",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which English club did Mohamed Salah briefly join in 2014, before it loaned him out and later sold him?",
+    "question_ar": "محمد صلاح انضم لأنهي فريق إنجليزي بشكل مؤقت سنة 2014، قبل ما يعيره وبعدين يبيعه؟",
+    "options": [
+      {"en": "Arsenal", "ar": "أرسنال"},
+      {"en": "Chelsea", "ar": "تشيلسي"},
+      {"en": "Manchester City", "ar": "مانشستر سيتي"},
+      {"en": "Tottenham", "ar": "توتنهام"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Salah signed for Chelsea in 2014 but struggled to break into the side before moving on.",
+    "explanation_ar": "صلاح اتعاقد مع تشيلسي سنة 2014 بس ماقدرش ياخد فرصته وبعدين اتنقل."
+  },
+  {
+    "id": "FTB-050-004",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "At the 2018 World Cup, Essam El-Hadary's penalty save against Saudi Arabia made him the oldest player ever to do what at a World Cup?",
+    "question_ar": "في كأس عالم 2018، تصدي عصام الحضري لضربة جزاء السعودية خلاه أكبر لاعب سنًا يعمل إيه في كأس عالم؟",
+    "options": [
+      {"en": "Score a goal", "ar": "يسجل هدف"},
+      {"en": "Captain a team", "ar": "يقود فريق"},
+      {"en": "Save a penalty", "ar": "يتصدى لضربة جزاء"},
+      {"en": "Receive a red card", "ar": "ياخد كارت أحمر"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "El-Hadary became the oldest player ever to save a penalty at a World Cup, at 45 years old.",
+    "explanation_ar": "الحضري بقى أكبر لاعب سنًا يتصدى لضربة جزاء في كأس العالم، بعمر 45 سنة."
+  },
+  {
+    "id": "FTB-050-005",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Mohamed Salah's dramatic stoppage-time penalty against which country sealed Egypt's 2018 World Cup qualification?",
+    "question_ar": "ضربة جزاء محمد صلاح الدرامية في الوقت بدل الضايع أمام أنهي دولة أكدت تأهل مصر لكأس عالم 2018؟",
+    "options": [
+      {"en": "Congo", "ar": "الكونغو"},
+      {"en": "Ghana", "ar": "غانا"},
+      {"en": "Tunisia", "ar": "تونس"},
+      {"en": "Uganda", "ar": "أوغندا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Salah's stoppage-time penalty against Congo in 2017 sent Egypt to the World Cup for the first time in 28 years.",
+    "explanation_ar": "ضربة جزاء صلاح في الوقت بدل الضايع أمام الكونغو سنة 2017 أهلت مصر لكأس العالم بعد غياب 28 سنة."
+  },
+  {
+    "id": "FTB-050-006",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "In the 2018 Champions League final, Mohamed Salah was forced off injured after a challenge by which Real Madrid defender?",
+    "question_ar": "في نهائي دوري أبطال أوروبا 2018، محمد صلاح خرج مصابًا بعد احتكاك مع أنهي مدافع في ريال مدريد؟",
+    "options": [
+      {"en": "Raphaël Varane", "ar": "رافاييل فاران"},
+      {"en": "Sergio Ramos", "ar": "سيرخيو راموس"},
+      {"en": "Marcelo", "ar": "مارسيلو"},
+      {"en": "Nacho", "ar": "ناتشو"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Salah was injured in a challenge with Sergio Ramos in the 2018 Champions League final.",
+    "explanation_ar": "صلاح اتصاب في احتكاك مع سيرخيو راموس في نهائي دوري الأبطال 2018."
+  },
+  {
+    "id": "FTB-050-007",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Liverpool won the 2019 Champions League final, with Salah scoring an early penalty, against which club?",
+    "question_ar": "ليفربول فاز بنهائي دوري أبطال أوروبا 2019، وصلاح سجل ضربة جزاء مبكرة، أمام أنهي فريق؟",
+    "options": [
+      {"en": "Tottenham Hotspur", "ar": "توتنهام هوتسبير"},
+      {"en": "Chelsea", "ar": "تشيلسي"},
+      {"en": "Manchester City", "ar": "مانشستر سيتي"},
+      {"en": "Barcelona", "ar": "برشلونة"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Liverpool beat Tottenham Hotspur 2-0 in the 2019 Champions League final.",
+    "explanation_ar": "ليفربول فاز على توتنهام هوتسبير 2-0 في نهائي دوري أبطال أوروبا 2019."
+  },
+  {
+    "id": "FTB-050-008",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Before Mohamed Salah surpassed him, who was Egypt's all-time leading international goal-scorer?",
+    "question_ar": "قبل ما محمد صلاح يتخطاه، مين كان هداف منتخب مصر التاريخي؟",
+    "options": [
+      {"en": "Hossam Hassan", "ar": "حسام حسن"},
+      {"en": "Ahmed Hassan", "ar": "أحمد حسن"},
+      {"en": "Mahmoud El-Khatib", "ar": "محمود الخطيب"},
+      {"en": "Emad Moteab", "ar": "عماد متعب"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Hossam Hassan held Egypt's all-time scoring record for years before Salah broke it.",
+    "explanation_ar": "حسام حسن كان صاحب رقم هدافية منتخب مصر التاريخي لسنين قبل ما صلاح يكسره."
+  },
+  {
+    "id": "FTB-050-009",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which manager led Egypt to its unmatched three consecutive Africa Cup of Nations titles (2006, 2008, 2010)?",
+    "question_ar": "أنهي مدرب قاد مصر لتحقيق 3 كؤوس أمم أفريقيا متتالية (2006، 2008، 2010)؟",
+    "options": [
+      {"en": "Hassan Shehata", "ar": "حسن شحاتة"},
+      {"en": "Hector Cuper", "ar": "هيكتور كوبر"},
+      {"en": "Mahmoud El-Gohary", "ar": "محمود الجوهري"},
+      {"en": "Shawky Gharib", "ar": "شوقي غريب"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Hassan Shehata managed Egypt to a record three straight AFCON titles.",
+    "explanation_ar": "حسن شحاتة قاد مصر لتحقيق 3 كؤوس أمم أفريقيا متتالية."
+  },
+  {
+    "id": "FTB-050-010",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "At the 1990 World Cup, Egypt's only defeat came in a 1-0 loss to which team?",
+    "question_ar": "في كأس عالم 1990، مصر خسرت مباراتها الوحيدة 1-0 أمام أنهي منتخب؟",
+    "options": [
+      {"en": "Netherlands", "ar": "هولندا"},
+      {"en": "Republic of Ireland", "ar": "أيرلندا"},
+      {"en": "England", "ar": "إنجلترا"},
+      {"en": "West Germany", "ar": "ألمانيا الغربية"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "England beat Egypt 1-0 in their final group match at the 1990 World Cup.",
+    "explanation_ar": "إنجلترا هزمت مصر 1-0 في آخر مباراة بالمجموعة في كأس عالم 1990."
+  },
+  {
+    "id": "FTB-050-011",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Egypt hosted the 2019 Africa Cup of Nations but suffered a shock elimination in the round of 16 by which country?",
+    "question_ar": "مصر استضافت كأس أمم أفريقيا 2019 لكن اتصدمت بالخروج من دور الـ 16 أمام أنهي دولة؟",
+    "options": [
+      {"en": "South Africa", "ar": "جنوب أفريقيا"},
+      {"en": "Senegal", "ar": "السنغال"},
+      {"en": "Morocco", "ar": "المغرب"},
+      {"en": "Uganda", "ar": "أوغندا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Host nation Egypt was shockingly eliminated by South Africa in the 2019 AFCON round of 16.",
+    "explanation_ar": "مصر المستضيفة خرجت بشكل صادم أمام جنوب أفريقيا في دور الـ 16 بكأس أمم أفريقيا 2019."
+  },
+  {
+    "id": "FTB-050-012",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Zamalek lost the 2019-20 CAF Champions League final 2-1 to which Moroccan club?",
+    "question_ar": "الزمالك خسر نهائي دوري أبطال أفريقيا 2019-20 بنتيجة 1-2 أمام أنهي فريق مغربي؟",
+    "options": [
+      {"en": "Wydad Casablanca", "ar": "الوداد"},
+      {"en": "Raja Casablanca", "ar": "الرجاء"},
+      {"en": "RS Berkane", "ar": "نهضة بركان"},
+      {"en": "FAR Rabat", "ar": "الجيش الملكي"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Zamalek lost the 2019-20 CAF Champions League final to Raja Casablanca.",
+    "explanation_ar": "الزمالك خسر نهائي دوري أبطال أفريقيا موسم 2019-20 أمام الرجاء الدار البيضاء."
+  },
+  {
+    "id": "FTB-050-013",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Ahmed Hassan, Egypt's most-capped player, also famously captained the side during which era of AFCON glory?",
+    "question_ar": "أحمد حسن، صاحب أكتر مباريات دولية لمصر، كان كابتن المنتخب في أنهي حقبة من إنجازات كأس الأمم؟",
+    "options": [
+      {"en": "The three-peat of 2006-2010", "ar": "حقبة التتويج 3 مرات متتالية 2006-2010"},
+      {"en": "The 1957/1959 era", "ar": "حقبة 1957/1959"},
+      {"en": "The 1998 title run", "ar": "حقبة كأس 1998"},
+      {"en": "Egypt has never won consecutive AFCONs", "ar": "مصر معملتش تتويج متتالي خالص"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ahmed Hassan captained Egypt through their historic 2006-2010 three consecutive AFCON titles.",
+    "explanation_ar": "أحمد حسن كان كابتن مصر في حقبة التتويج التاريخية 2006-2010."
+  },
+  {
+    "id": "FTB-050-014",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Al Ahly legend Mahmoud El-Khatib \"Bibo,\" a legendary striker and captain, later became the club's what?",
+    "question_ar": "أسطورة الأهلي محمود الخطيب \"بيبو\"، المهاجم والكابتن الأسطوري، بقى إيه في النادي بعد كده؟",
+    "options": [
+      {"en": "Club president", "ar": "رئيس النادي"},
+      {"en": "Kit manager", "ar": "مسؤول الملابس"},
+      {"en": "Referee", "ar": "حكم"},
+      {"en": "Stadium announcer", "ar": "المعلق في الاستاد"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mahmoud El-Khatib went on to become president of Al Ahly.",
+    "explanation_ar": "محمود الخطيب بقى رئيس نادي الأهلي بعد اعتزاله."
+  },
+  {
+    "id": "FTB-050-015",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Striker Amr Zaki became a Premier League fan favorite in the 2008-09 season while playing for which club?",
+    "question_ar": "المهاجم عمرو زكي بقى محبوب جماهير البريميرليج في موسم 2008-09 وهو بيلعب لأنهي فريق؟",
+    "options": [
+      {"en": "Wigan Athletic", "ar": "ويجان أتلتيك"},
+      {"en": "Bolton Wanderers", "ar": "بولتون"},
+      {"en": "Portsmouth", "ar": "بورتسموث"},
+      {"en": "Sunderland", "ar": "سندرلاند"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Amr Zaki scored heavily for Wigan Athletic in the 2008-09 Premier League season.",
+    "explanation_ar": "عمرو زكي سجل أهداف كتير مع ويجان أتلتيك في موسم البريميرليج 2008-09."
+  },
+  {
+    "id": "FTB-050-016",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Egyptian midfielder Mohamed Elneny has spent most of his career at which big Premier League club?",
+    "question_ar": "لاعب الوسط المصري محمد النني قضى معظم مشواره في أنهي فريق كبير بالبريميرليج؟",
+    "options": [
+      {"en": "Everton", "ar": "إيفرتون"},
+      {"en": "Arsenal", "ar": "أرسنال"},
+      {"en": "West Ham", "ar": "وست هام"},
+      {"en": "Leicester City", "ar": "ليستر سيتي"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Mohamed Elneny has been an Arsenal player for many seasons.",
+    "explanation_ar": "محمد النني لعب لأرسنال لمواسم طويلة."
+  },
+  {
+    "id": "FTB-050-017",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Egyptian forward Omar Marmoush earned his big move after a standout spell at Eintracht Frankfurt, a club in which country's top league?",
+    "question_ar": "المهاجم المصري عمر مرموش لفت الأنظار بعد فترة ممتازة مع آينتراخت فرانكفورت، النادي اللي بيلعب في دوري أنهي دولة؟",
+    "options": [
+      {"en": "Germany", "ar": "ألمانيا"},
+      {"en": "Netherlands", "ar": "هولندا"},
+      {"en": "Austria", "ar": "النمسا"},
+      {"en": "Switzerland", "ar": "سويسرا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Omar Marmoush shone for Eintracht Frankfurt in Germany's Bundesliga.",
+    "explanation_ar": "عمر مرموش تألق مع آينتراخت فرانكفورت في البوندسليجا الألمانية.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "FTB-050-018",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Egyptian striker Mostafa Mohamed left Zamalek to join which French Ligue 1 club?",
+    "question_ar": "المهاجم المصري مصطفى محمد ترك الزمالك عشان ينضم لأنهي فريق فرنسي في الليج 1؟",
+    "options": [
+      {"en": "Lyon", "ar": "ليون"},
+      {"en": "FC Nantes", "ar": "نانت"},
+      {"en": "Marseille", "ar": "مارسيليا"},
+      {"en": "Lille", "ar": "ليل"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Mostafa Mohamed moved from Zamalek to French club FC Nantes.",
+    "explanation_ar": "مصطفى محمد انتقل من الزمالك إلى نادي نانت الفرنسي."
+  },
+  {
+    "id": "FTB-050-019",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Winger Mahmoud \"Trezeguet\" Hassan, named after the French striker, became a fan favorite at which Premier League club?",
+    "question_ar": "الجناح محمود حسن \"تريزيجيه\"، اللي اتسمى على اسم المهاجم الفرنسي، بقى محبوب جماهير أنهي فريق بالبريميرليج؟",
+    "options": [
+      {"en": "Aston Villa", "ar": "أستون فيلا"},
+      {"en": "Crystal Palace", "ar": "كريستال بالاس"},
+      {"en": "Burnley", "ar": "بيرنلي"},
+      {"en": "Fulham", "ar": "فولهام"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Trezeguet became a popular player for Aston Villa in the Premier League.",
+    "explanation_ar": "تريزيجيه بقى لاعب محبوب في أستون فيلا بالبريميرليج."
+  },
+  {
+    "id": "FTB-050-020",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "In which Premier League season did Mohamed Salah break the record for most goals in a 38-game season (32 goals)?",
+    "question_ar": "في أنهي موسم بريميرليج كسر محمد صلاح رقم أكتر أهداف في موسم من 38 مباراة (32 هدف)؟",
+    "options": [
+      {"en": "2016-17", "ar": "2016-17"},
+      {"en": "2017-18", "ar": "2017-18"},
+      {"en": "2019-20", "ar": "2019-20"},
+      {"en": "2021-22", "ar": "2021-22"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Salah scored 32 goals in the 2017-18 season, a Premier League record for a 38-game campaign.",
+    "explanation_ar": "صلاح سجل 32 هدف في موسم 2017-18، رقم قياسي في البريميرليج لموسم من 38 مباراة."
+  },
+  {
+    "id": "FTB-050-021",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Egyptian twin brothers Hossam and Ibrahim Hassan caused huge controversy when they left Zamalek to join which fierce rival?",
+    "question_ar": "التوأم حسام وإبراهيم حسن سببوا جدل كبير لما تركوا الزمالك عشان ينضموا لأنهي غريم لدود؟",
+    "options": [
+      {"en": "Al Ahly", "ar": "الأهلي"},
+      {"en": "Ismaily", "ar": "الإسماعيلي"},
+      {"en": "Al Masry", "ar": "المصري"},
+      {"en": "Al Ittihad", "ar": "الاتحاد"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Twins Hossam and Ibrahim Hassan sparked controversy moving from Zamalek to rivals Al Ahly.",
+    "explanation_ar": "التوأم حسام وإبراهيم حسن سببوا جدل بانتقالهم من الزمالك للغريم الأهلي."
+  },
+  {
+    "id": "FTB-050-022",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which Egyptian club, aside from Al Ahly and Zamalek, has still won the CAF Champions League twice?",
+    "question_ar": "أنهي فريق مصري، غير الأهلي والزمالك، فاز بدوري أبطال أفريقيا مرتين؟",
+    "options": [
+      {"en": "Ismaily", "ar": "الإسماعيلي"},
+      {"en": "Al Masry", "ar": "المصري"},
+      {"en": "ENPPI", "ar": "الإنبي"},
+      {"en": "Pyramids FC", "ar": "بيراميدز"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ismaily SC has won the CAF Champions League twice, a rare feat outside the Cairo giants.",
+    "explanation_ar": "نادي الإسماعيلي فاز بدوري أبطال أفريقيا مرتين، إنجاز نادر برا عملاقي القاهرة."
+  },
+  {
+    "id": "FTB-050-023",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which country won the very first FIFA World Cup, held in 1930?",
+    "question_ar": "أنهي دولة فازت بأول كأس عالم في التاريخ، سنة 1930؟",
+    "options": [
+      {"en": "Brazil", "ar": "البرازيل"},
+      {"en": "Italy", "ar": "إيطاليا"},
+      {"en": "Uruguay", "ar": "الأوروجواي"},
+      {"en": "Argentina", "ar": "الأرجنتين"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Uruguay won the inaugural World Cup in 1930, which they also hosted.",
+    "explanation_ar": "الأوروجواي فازت بأول كأس عالم سنة 1930 اللي استضافته كمان."
+  },
+  {
+    "id": "FTB-050-024",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which club won the first-ever European Cup (now Champions League) under its rebranded 1992-93 format?",
+    "question_ar": "أنهي فريق فاز بأول نسخة من دوري أبطال أوروبا بمسماه الجديد في موسم 1992-93؟",
+    "options": [
+      {"en": "AC Milan", "ar": "ميلان"},
+      {"en": "Olympique de Marseille", "ar": "أولمبيك مارسيليا"},
+      {"en": "Barcelona", "ar": "برشلونة"},
+      {"en": "Ajax", "ar": "أياكس"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Olympique de Marseille won the first Champions League under its modern name in 1992-93.",
+    "explanation_ar": "أولمبيك مارسيليا فاز بأول نسخة من دوري أبطال أوروبا بمسماه الجديد موسم 1992-93."
+  },
+  {
+    "id": "FTB-050-025",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Lionel Messi holds the record for most Ballon d'Or wins in history. How many has he won?",
+    "question_ar": "ليونيل ميسي صاحب الرقم القياسي في عدد الكرات الدهبية. فاز بكام كرة دهبية؟",
+    "options": [
+      {"en": "6", "ar": "6"},
+      {"en": "7", "ar": "7"},
+      {"en": "8", "ar": "8"},
+      {"en": "5", "ar": "5"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Lionel Messi holds the all-time record with 8 Ballon d'Or awards.",
+    "explanation_ar": "ليونيل ميسي صاحب الرقم القياسي بـ 8 كرات دهبية.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "FTB-050-026",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which manager holds the record for most Champions League titles won by a coach?",
+    "question_ar": "أنهي مدرب صاحب الرقم القياسي في عدد بطولات دوري أبطال أوروبا؟",
+    "options": [
+      {"en": "Pep Guardiola", "ar": "بيب جوارديولا"},
+      {"en": "Carlo Ancelotti", "ar": "كارلو أنشيلوتي"},
+      {"en": "Zinedine Zidane", "ar": "زين الدين زيدان"},
+      {"en": "Alex Ferguson", "ar": "أليكس فيرجسون"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Carlo Ancelotti holds the record for most Champions League titles won as a manager.",
+    "explanation_ar": "كارلو أنشيلوتي صاحب الرقم القياسي في عدد بطولات دوري الأبطال كمدرب.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "FTB-050-027",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which underdog club shocked football by winning the Premier League title in 2016?",
+    "question_ar": "أنهي فريق مفاجئ صدم الكورة الإنجليزية وفاز بلقب البريميرليج سنة 2016؟",
+    "options": [
+      {"en": "Leicester City", "ar": "ليستر سيتي"},
+      {"en": "Southampton", "ar": "ساوثهامتون"},
+      {"en": "Stoke City", "ar": "ستوك سيتي"},
+      {"en": "West Bromwich Albion", "ar": "ويست بروميتش"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Leicester City's 2016 Premier League title remains one of football's greatest shocks.",
+    "explanation_ar": "لقب ليستر سيتي بالبريميرليج سنة 2016 لسه واحدة من أكبر مفاجآت الكورة."
+  },
+  {
+    "id": "FTB-050-028",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which player famously missed the decisive penalty for Italy in the 1994 World Cup final shootout, sending it over the bar?",
+    "question_ar": "أنهي لاعب ضيع ضربة الجزاء الحاسمة لإيطاليا في ركلات ترجيح نهائي كأس عالم 1994، والكورة طارت فوق العارضة؟",
+    "options": [
+      {"en": "Roberto Baggio", "ar": "روبيرتو باجيو"},
+      {"en": "Paolo Maldini", "ar": "باولو مالديني"},
+      {"en": "Franco Baresi", "ar": "فرانكو باريزي"},
+      {"en": "Alessandro Del Piero", "ar": "أليساندرو ديل بييرو"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Roberto Baggio's missed penalty is one of football's most iconic images from the 1994 final.",
+    "explanation_ar": "ضربة الجزاء الضايعة بتاعة روبيرتو باجيو من أشهر مشاهد نهائي كأس عالم 1994."
+  },
+  {
+    "id": "FTB-050-029",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "In the 1998 World Cup final, Zinedine Zidane scored twice as France beat which country 3-0?",
+    "question_ar": "في نهائي كأس عالم 1998، زين الدين زيدان سجل هدفين وفرنسا فازت 3-0 على أنهي دولة؟",
+    "options": [
+      {"en": "Brazil", "ar": "البرازيل"},
+      {"en": "Argentina", "ar": "الأرجنتين"},
+      {"en": "Croatia", "ar": "كرواتيا"},
+      {"en": "Italy", "ar": "إيطاليا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Zidane scored twice as France beat Brazil 3-0 in the 1998 World Cup final.",
+    "explanation_ar": "زيدان سجل هدفين وفرنسا فازت 3-0 على البرازيل في نهائي كأس عالم 1998."
+  },
+  {
+    "id": "FTB-050-030",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Germany famously thrashed Brazil 7-1 in the semifinal of which World Cup, held in Brazil itself?",
+    "question_ar": "ألمانيا سحقت البرازيل 7-1 في نصف نهائي أنهي كأس عالم، اتقامت في البرازيل نفسها؟",
+    "options": [
+      {"en": "2010", "ar": "2010"},
+      {"en": "2014", "ar": "2014"},
+      {"en": "2006", "ar": "2006"},
+      {"en": "2018", "ar": "2018"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Germany's 7-1 win over hosts Brazil in the 2014 World Cup semifinal shocked the world.",
+    "explanation_ar": "فوز ألمانيا 7-1 على مضيفتها البرازيل في نصف نهائي كأس عالم 2014 صدم العالم كله."
+  },
+  {
+    "id": "FTB-050-031",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Zinedine Zidane scored a famous volley for which club in the 2002 Champions League final?",
+    "question_ar": "زين الدين زيدان سجل فولي شهير لأنهي فريق في نهائي دوري أبطال أوروبا 2002؟",
+    "options": [
+      {"en": "Juventus", "ar": "يوفنتوس"},
+      {"en": "Real Madrid", "ar": "ريال مدريد"},
+      {"en": "Barcelona", "ar": "برشلونة"},
+      {"en": "Bayern Munich", "ar": "بايرن ميونخ"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Zidane's stunning volley for Real Madrid remains one of the greatest Champions League final goals.",
+    "explanation_ar": "فولي زيدان الأسطوري لريال مدريد لسه واحد من أعظم أهداف نهائيات دوري الأبطال."
+  },
+  {
+    "id": "FTB-050-032",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Ronaldinho won the Ballon d'Or in 2005 while playing for which club?",
+    "question_ar": "رونالدينيو فاز بالكرة الدهبية سنة 2005 وهو بيلعب لأنهي فريق؟",
+    "options": [
+      {"en": "AC Milan", "ar": "ميلان"},
+      {"en": "Barcelona", "ar": "برشلونة"},
+      {"en": "PSG", "ar": "باريس سان جيرمان"},
+      {"en": "Flamengo", "ar": "فلامنجو"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Ronaldinho won the Ballon d'Or in 2005 while dazzling for Barcelona.",
+    "explanation_ar": "رونالدينيو فاز بالكرة الدهبية سنة 2005 وهو بيسحر الجماهير مع برشلونة."
+  },
+  {
+    "id": "FTB-050-033",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "In the 2005 Champions League final, the \"Miracle of Istanbul,\" Liverpool came back from 3-0 down to beat which Italian club?",
+    "question_ar": "في نهائي دوري أبطال أوروبا 2005، \"معجزة إسطنبول\"، ليفربول رجع من 0-3 وفاز على أنهي فريق إيطالي؟",
+    "options": [
+      {"en": "Juventus", "ar": "يوفنتوس"},
+      {"en": "AC Milan", "ar": "ميلان"},
+      {"en": "Inter Milan", "ar": "إنتر ميلان"},
+      {"en": "AS Roma", "ar": "روما"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Liverpool's comeback from 3-0 down against AC Milan is one of football's greatest finals.",
+    "explanation_ar": "رجعة ليفربول من 0-3 أمام ميلان واحدة من أعظم نهائيات الكورة."
+  },
+  {
+    "id": "FTB-050-034",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which country is Zlatan Ibrahimović, the tall and confident former striker, from?",
+    "question_ar": "زلاتان إبراهيموفيتش، المهاجم السابق الطويل والواثق من نفسه، أصله من أنهي دولة؟",
+    "options": [
+      {"en": "Norway", "ar": "النرويج"},
+      {"en": "Sweden", "ar": "السويد"},
+      {"en": "Denmark", "ar": "الدنمارك"},
+      {"en": "Netherlands", "ar": "هولندا"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Zlatan Ibrahimović is a Swedish football legend.",
+    "explanation_ar": "زلاتان إبراهيموفيتش أسطورة الكورة السويدية."
+  },
+  {
+    "id": "FTB-050-035",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which Croatian player won the Ballon d'Or in 2018, ending a decade of Messi-Ronaldo dominance?",
+    "question_ar": "أنهي لاعب كرواتي فاز بالكرة الدهبية سنة 2018، وكسر عقد من سيطرة ميسي ورونالدو؟",
+    "options": [
+      {"en": "Ivan Rakitić", "ar": "إيفان راكيتيتش"},
+      {"en": "Luka Modrić", "ar": "لوكا مودريتش"},
+      {"en": "Mario Mandžukić", "ar": "ماريو مانجوكيتش"},
+      {"en": "Dejan Lovren", "ar": "ديان لوفرين"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Luka Modrić won the 2018 Ballon d'Or, breaking Messi and Ronaldo's long streak.",
+    "explanation_ar": "لوكا مودريتش فاز بالكرة الدهبية 2018، وكسر سيطرة ميسي ورونالدو الطويلة."
+  },
+  {
+    "id": "FTB-050-036",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Erling Haaland moved to Manchester City in 2022 from which German club?",
+    "question_ar": "إيرلينج هالاند انتقل لمانشستر سيتي سنة 2022 من أنهي فريق ألماني؟",
+    "options": [
+      {"en": "Bayern Munich", "ar": "بايرن ميونخ"},
+      {"en": "Borussia Dortmund", "ar": "بوروسيا دورتموند"},
+      {"en": "RB Leipzig", "ar": "آر بي لايبزيج"},
+      {"en": "Bayer Leverkusen", "ar": "باير ليفركوزن"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Erling Haaland joined Manchester City from Borussia Dortmund in 2022.",
+    "explanation_ar": "إيرلينج هالاند انضم لمانشستر سيتي قادمًا من بوروسيا دورتموند سنة 2022."
+  },
+  {
+    "id": "FTB-050-037",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Kylian Mbappé scored a hat-trick in the 2022 World Cup final, but France still lost on penalties to which country?",
+    "question_ar": "كيليان مبابي سجل هاتريك في نهائي كأس عالم 2022، لكن فرنسا خسرت بركلات الترجيح أمام أنهي دولة؟",
+    "options": [
+      {"en": "Argentina", "ar": "الأرجنتين"},
+      {"en": "Croatia", "ar": "كرواتيا"},
+      {"en": "Morocco", "ar": "المغرب"},
+      {"en": "Brazil", "ar": "البرازيل"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Despite Mbappé's hat-trick, France lost the 2022 World Cup final to Argentina on penalties.",
+    "explanation_ar": "رغم هاتريك مبابي، فرنسا خسرت نهائي كأس عالم 2022 أمام الأرجنتين بركلات الترجيح."
+  },
+  {
+    "id": "FTB-050-038",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Thierry Henry became the all-time record goal-scorer for which club before being later surpassed?",
+    "question_ar": "تييري هنري بقى هداف تاريخي لأنهي فريق قبل ما ينكسر رقمه بعدين؟",
+    "options": [
+      {"en": "Chelsea", "ar": "تشيلسي"},
+      {"en": "Arsenal", "ar": "أرسنال"},
+      {"en": "Manchester United", "ar": "مانشستر يونايتد"},
+      {"en": "Tottenham", "ar": "توتنهام"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Thierry Henry became Arsenal's all-time top scorer during his years at the club.",
+    "explanation_ar": "تييري هنري بقى الهداف التاريخي لأرسنال في سنينه بالنادي."
+  },
+  {
+    "id": "FTB-050-039",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which country won Euro 2016 as major underdogs, beating hosts France in the final?",
+    "question_ar": "أنهي دولة فازت بيورو 2016 كفريق مفاجئ، وهزمت المضيفة فرنسا في النهائي؟",
+    "options": [
+      {"en": "Portugal", "ar": "البرتغال"},
+      {"en": "Wales", "ar": "ويلز"},
+      {"en": "Iceland", "ar": "آيسلندا"},
+      {"en": "Belgium", "ar": "بلجيكا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Portugal shocked hosts France to win Euro 2016.",
+    "explanation_ar": "البرتغال صدمت المضيفة فرنسا وفازت بيورو 2016."
+  },
+  {
+    "id": "FTB-050-040",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which legendary Dutch manager and player is most associated with the \"Total Football\" philosophy at Ajax and Barcelona?",
+    "question_ar": "أنهي أسطورة هولندية، لاعب ومدرب، مرتبطة بفلسفة \"الكورة الشاملة\" مع أياكس وبرشلونة؟",
+    "options": [
+      {"en": "Johan Cruyff", "ar": "يوهان كرويف"},
+      {"en": "Dennis Bergkamp", "ar": "دينيس بيركامب"},
+      {"en": "Ruud Gullit", "ar": "رود خوليت"},
+      {"en": "Marco van Basten", "ar": "ماركو فان باستن"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Johan Cruyff is the icon most associated with \"Total Football\" at Ajax and Barcelona.",
+    "explanation_ar": "يوهان كرويف هو الأيقونة الأكتر ارتباطًا بفلسفة \"الكورة الشاملة\" مع أياكس وبرشلونة."
+  },
+  {
+    "id": "FTB-050-041",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "San Siro, the famous stadium shared by AC Milan and Inter Milan, is located in which city?",
+    "question_ar": "سان سيرو، الملعب الشهير اللي بيشتركه ميلان وإنتر، موجود في أنهي مدينة؟",
+    "options": [
+      {"en": "Rome", "ar": "روما"},
+      {"en": "Turin", "ar": "تورينو"},
+      {"en": "Milan", "ar": "ميلانو"},
+      {"en": "Naples", "ar": "نابولي"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "San Siro is located in Milan and shared by AC Milan and Inter Milan.",
+    "explanation_ar": "سان سيرو موجود في ميلانو ومشترك بين ميلان وإنتر."
+  },
+  {
+    "id": "FTB-050-042",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Pep Guardiola won a historic treble as a manager with Barcelona in which year?",
+    "question_ar": "بيب جوارديولا حقق ثلاثية تاريخية كمدرب مع برشلونة في أنهي سنة؟",
+    "options": [
+      {"en": "2006", "ar": "2006"},
+      {"en": "2011", "ar": "2011"},
+      {"en": "2009", "ar": "2009"},
+      {"en": "2015", "ar": "2015"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Guardiola won a historic treble with Barcelona in 2009.",
+    "explanation_ar": "جوارديولا حقق ثلاثية تاريخية مع برشلونة سنة 2009."
+  },
+  {
+    "id": "FTB-050-043",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which club famously went unbeaten through an entire Premier League season in 2003-04, nicknamed \"The Invincibles\"?",
+    "question_ar": "أنهي فريق لعب موسم بريميرليج كامل من غير خسارة سنة 2003-04، وسُمّي \"الفريق اللي مايتهزمش\"؟",
+    "options": [
+      {"en": "Chelsea", "ar": "تشيلسي"},
+      {"en": "Manchester United", "ar": "مانشستر يونايتد"},
+      {"en": "Arsenal", "ar": "أرسنال"},
+      {"en": "Liverpool", "ar": "ليفربول"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Arsenal's 2003-04 \"Invincibles\" remain the only team to go unbeaten through a 38-game Premier League season.",
+    "explanation_ar": "أرسنال \"الإنفينسيبلز\" موسم 2003-04 لسه الفريق الوحيد اللي كمل موسم بريميرليج كامل من غير خسارة."
+  },
+  {
+    "id": "FTB-050-044",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Jürgen Klopp managed which German club before taking charge of Liverpool?",
+    "question_ar": "يورجن كلوب كان بيدرب أنهي فريق ألماني قبل ما يتولى تدريب ليفربول؟",
+    "options": [
+      {"en": "Bayern Munich", "ar": "بايرن ميونخ"},
+      {"en": "Borussia Dortmund", "ar": "بوروسيا دورتموند"},
+      {"en": "Schalke 04", "ar": "شالكه 04"},
+      {"en": "Bayer Leverkusen", "ar": "باير ليفركوزن"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Jürgen Klopp made his name at Borussia Dortmund before moving to Liverpool.",
+    "explanation_ar": "يورجن كلوب لمع مع بوروسيا دورتموند قبل ما ينتقل لتدريب ليفربول."
+  },
+  {
+    "id": "FTB-050-045",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which country famously won Euro 2004 as huge underdogs, one of football's biggest shocks?",
+    "question_ar": "أنهي دولة فازت بيورو 2004 كفريق مفاجئ تمامًا، واحدة من أكبر مفاجآت تاريخ الكورة؟",
+    "options": [
+      {"en": "Greece", "ar": "اليونان"},
+      {"en": "Denmark", "ar": "الدنمارك"},
+      {"en": "Czech Republic", "ar": "التشيك"},
+      {"en": "Turkey", "ar": "تركيا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Greece stunned Europe by winning Euro 2004 against all odds.",
+    "explanation_ar": "اليونان صدمت أوروبا وفازت بيورو 2004 رغم كل التوقعات."
+  },
+  {
+    "id": "FTB-050-046",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Neymar's move from Barcelona to PSG in 2017 set a world-record transfer fee, in which country's league?",
+    "question_ar": "انتقال نيمار من برشلونة لباريس سان جيرمان سنة 2017 حقق رقم قياسي عالمي للانتقالات، في دوري أنهي دولة؟",
+    "options": [
+      {"en": "France", "ar": "فرنسا"},
+      {"en": "England", "ar": "إنجلترا"},
+      {"en": "Germany", "ar": "ألمانيا"},
+      {"en": "Italy", "ar": "إيطاليا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Neymar's world-record transfer took him to PSG in France's Ligue 1.",
+    "explanation_ar": "انتقال نيمار القياسي وداه لباريس سان جيرمان في الليج 1 الفرنسي."
+  },
+  {
+    "id": "FTB-050-047",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "England hosted and won the FIFA World Cup in which iconic year?",
+    "question_ar": "إنجلترا استضافت وفازت بكأس العالم في أنهي سنة تاريخية؟",
+    "options": [
+      {"en": "1966", "ar": "1966"},
+      {"en": "1974", "ar": "1974"},
+      {"en": "1958", "ar": "1958"},
+      {"en": "1982", "ar": "1982"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "England won the World Cup on home soil in 1966.",
+    "explanation_ar": "إنجلترا فازت بكأس العالم على أرضها سنة 1966."
+  },
+  {
+    "id": "FTB-050-048",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which club is nicknamed \"Los Blancos\" (The Whites)?",
+    "question_ar": "أنهي فريق ملقب بـ \"لوس بلانكوس\" (البيض)؟",
+    "options": [
+      {"en": "Real Madrid", "ar": "ريال مدريد"},
+      {"en": "Athletic Bilbao", "ar": "أتلتيك بلباو"},
+      {"en": "Espanyol", "ar": "إسبانيول"},
+      {"en": "Valencia", "ar": "فالنسيا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Real Madrid is famously nicknamed \"Los Blancos.\"",
+    "explanation_ar": "ريال مدريد ملقب بـ \"لوس بلانكوس\" (البيض)."
+  },
+  {
+    "id": "FTB-050-049",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which manager remarkably led Chelsea to their first-ever Champions League title in 2012, having only just taken over mid-season?",
+    "question_ar": "أنهي مدرب قاد تشيلسي لأول لقب دوري أبطال أوروبا في تاريخه سنة 2012، بعد ما تولى التدريب في نص الموسم؟",
+    "options": [
+      {"en": "Roberto Di Matteo", "ar": "روبيرتو دي ماتيو"},
+      {"en": "André Villas-Boas", "ar": "أندريه فيلاش بواش"},
+      {"en": "Rafael Benítez", "ar": "رافاييل بينيتيز"},
+      {"en": "Carlo Ancelotti", "ar": "كارلو أنشيلوتي"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Roberto Di Matteo, as interim manager, led Chelsea to their first Champions League title in 2012.",
+    "explanation_ar": "روبيرتو دي ماتيو، كمدرب مؤقت، قاد تشيلسي لأول لقب دوري أبطال في تاريخه سنة 2012."
+  },
+  {
+    "id": "FTB-050-050",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Didier Drogba scored the winning penalty in the 2012 Champions League final shootout, against which club at their own stadium?",
+    "question_ar": "ديديير دروجبا سجل ضربة الجزاء الفائزة في ركلات ترجيح نهائي دوري أبطال أوروبا 2012، أمام أنهي فريق على ملعبه؟",
+    "options": [
+      {"en": "Bayern Munich", "ar": "بايرن ميونخ"},
+      {"en": "Barcelona", "ar": "برشلونة"},
+      {"en": "Real Madrid", "ar": "ريال مدريد"},
+      {"en": "Borussia Dortmund", "ar": "بوروسيا دورتموند"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Drogba scored the decisive penalty as Chelsea beat Bayern Munich at Bayern's own stadium in the 2012 final.",
+    "explanation_ar": "دروجبا سجل ضربة الجزاء الحاسمة وتشيلسي فاز على بايرن ميونخ فوق ملعبه في نهائي 2012."
+  }
+]

@@ -815,29 +815,29 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian composer known for scoring the golden-era film musicals also composed the iconic \"Enta Omri\" arrangement with Umm Kulthum's orchestra?",
-    "question_ar": "أنهي ملحن مصري اشتهر بتلحين أفلام العصر الذهبي الغنائية وشارك في توزيع أغنية \"إنت عمري\" مع أوركسترا أم كلثوم؟",
+    "question_en": "Which Egyptian singer, known as \"Kokab El Sharq\", performed her farewell concert in 1973 before health issues largely ended her live performances?",
+    "question_ar": "أنهي مطربة مصرية، معروفة بـ\"كوكب الشرق\"، قدمت آخر حفلاتها الكبيرة سنة 1973 قبل ما مشاكلها الصحية توقف ظهورها الحي؟",
     "options": [
       {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
+        "en": "Umm Kulthum",
+        "ar": "أم كلثوم"
       },
       {
-        "en": "Ahmed Sedky",
-        "ar": "أحمد صدقي"
+        "en": "Warda",
+        "ar": "وردة"
       },
       {
-        "en": "Andrea Ryder",
-        "ar": "أندريا رايدر"
+        "en": "Fayza Ahmed",
+        "ar": "فايزة أحمد"
       },
       {
-        "en": "Ali Ismail",
-        "ar": "علي إسماعيل"
+        "en": "Shadia",
+        "ar": "شادية"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Mohamed Abdel Wahab both composed and arranged \"Enta Omri\" in collaboration with Umm Kulthum's ensemble.",
-    "explanation_ar": "محمد عبد الوهاب لحن ووزع أغنية \"إنت عمري\" بالتعاون مع فرقة أم كلثوم."
+    "explanation_en": "Umm Kulthum's live performing career largely ended around 1973 due to declining health, before her death in 1975.",
+    "explanation_ar": "مشوار أم كلثوم في الغناء الحي توقف تقريبًا حوالين 1973 بسبب تدهور صحتها، قبل وفاتها سنة 1975."
   },
   {
     "id": "MUS-100-029",
