@@ -695,8 +695,8 @@
     "category_ar": "افلام",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Which director made both \"Titanic\" and \"Avatar\"?",
-    "question_ar": "مين المخرج اللي عمل \"تايتانيك\" و\"أفاتار\"؟",
+    "question_en": "Which of these is a well-known Egyptian film director?",
+    "question_ar": "مين من دول مخرج مصري معروف؟",
     "options": [
       {
         "en": "Christopher Nolan",
@@ -707,17 +707,17 @@
         "ar": "ريدلي سكوت"
       },
       {
-        "en": "Steven Spielberg",
-        "ar": "ستيفن سبيلبرج"
+        "en": "Sherif Arafa",
+        "ar": "شريف عرفة"
       },
       {
         "en": "James Cameron",
         "ar": "جيمس كاميرون"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "James Cameron directed both blockbusters.",
-    "explanation_ar": "جيمس كاميرون هو مخرج الفيلمين."
+    "correctAnswer": 2,
+    "explanation_en": "Sherif Arafa is a leading Egyptian film director behind many major hits.",
+    "explanation_ar": "شريف عرفة من كبار مخرجي السينما المصرية وعمل أفلام ناجحة كتير."
   },
   {
     "id": "MOV-010-025",
