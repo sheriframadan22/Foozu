@@ -9,10 +9,6 @@
     "question_ar": "حفلات أم كلثوم الشهرية كانت بتتذاع لايف في الراديو المصري أول أنهي يوم في الشهر لعقود وبقت طقس وطني؟",
     "options": [
       {
-        "en": "Friday",
-        "ar": "جمعة"
-      },
-      {
         "en": "Sunday",
         "ar": "حد"
       },
@@ -23,9 +19,13 @@
       {
         "en": "Thursday",
         "ar": "خميس"
+      },
+      {
+        "en": "Friday",
+        "ar": "جمعة"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Umm Kulthum's concerts aired on the first Thursday of every month, a beloved national tradition.",
     "explanation_ar": "حفلات أم كلثوم كانت بتتذاع أول خميس من كل شهر، تقليد وطني محبوب."
   },
@@ -35,29 +35,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian poet wrote the lyrics for \"Enta Omri\", the classic performed by Umm Kulthum with music by Mohamed Abdel Wahab?",
-    "question_ar": "أنهي شاعر مصري كتب كلمات \"إنت عمري\"، الأغنية الكلاسيكية اللي غنتها أم كلثوم وتلحين محمد عبد الوهاب؟",
+    "question_en": "Wegz's real name is ___?",
+    "question_ar": "الاسم الحقيقي لويجز هو ___؟",
     "options": [
       {
-        "en": "Ahmed Shafiq Kamel",
-        "ar": "أحمد شفيق كامل"
+        "en": "Ahmed Mahmoud Fathy",
+        "ar": "أحمد محمود فتحي"
       },
       {
-        "en": "Salah Jahin",
-        "ar": "صلاح جاهين"
+        "en": "Ali Ahmed Wagih",
+        "ar": "علي أحمد وجيه"
       },
       {
-        "en": "Nizar Qabbani",
-        "ar": "نزار قباني"
+        "en": "Mahmoud Ali Saad",
+        "ar": "محمود علي سعد"
       },
       {
-        "en": "Bayram El Tunisi",
-        "ar": "بيرم التونسي"
+        "en": "Ahmed Ali Diab",
+        "ar": "أحمد علي دياب"
       }
     ],
-    "correctAnswer": 0,
-    "explanation_en": "Ahmed Shafiq Kamel wrote the lyrics for \"Enta Omri\".",
-    "explanation_ar": "أحمد شفيق كامل كتب كلمات أغنية \"إنت عمري\"."
+    "correctAnswer": 3,
+    "explanation_en": "Wegz's real name is Ahmed Ali Diab.",
+    "explanation_ar": "الاسم الحقيقي لويجز هو أحمد علي دياب."
   },
   {
     "id": "MUS-200-003",
@@ -65,29 +65,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer underwent numerous surgeries abroad for bilharzia-related complications throughout his career, a health struggle widely known to his fans?",
-    "question_ar": "أنهي مطرب مصري خضع لعمليات جراحية كتير في الخارج بسبب مضاعفات مرض البلهارسيا طول مشواره، ومعاناته دي كانت معروفة لجمهوره؟",
+    "question_en": "Before his music career took off, Bad Bunny worked which job?",
+    "question_ar": "قبل ما ينجح في الغناء، باد باني كان بيشتغل إيه؟",
     "options": [
       {
-        "en": "Farid El Atrache",
-        "ar": "فريد الأطرش"
+        "en": "Supermarket bagger",
+        "ar": "شغال في تعبئة أكياس السوبر ماركت"
       },
       {
-        "en": "Karem Mahmoud",
-        "ar": "كارم محمود"
+        "en": "Taxi driver",
+        "ar": "سواق تاكسي"
       },
       {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبد الحليم حافظ"
+        "en": "Waiter",
+        "ar": "جرسون"
       },
       {
-        "en": "Mohamed Fawzi",
-        "ar": "محمد فوزي"
+        "en": "Construction worker",
+        "ar": "عامل بناء"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Abdel Halim Hafez battled bilharzia-related health issues for most of his life, undergoing many surgeries abroad.",
-    "explanation_ar": "عبد الحليم حافظ عانى من مضاعفات البلهارسيا معظم حياته وخضع لعمليات كتير في الخارج."
+    "correctAnswer": 0,
+    "explanation_en": "Bad Bunny worked as a supermarket bagger in Puerto Rico before his breakthrough.",
+    "explanation_ar": "باد باني كان شغال في تعبئة أكياس السوبر ماركت في بورتوريكو قبل نجاحه."
   },
   {
     "id": "MUS-200-004",
@@ -95,29 +95,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Latin rock guitarist's breakout performance of \"Soul Sacrifice\" at Woodstock 1969 launched his band's mainstream fame?",
-    "question_ar": "أداء أنهي عازف جيتار من أصل لاتيني لأغنية \"Soul Sacrifice\" في وودستوك 1969 أطلق شهرة فرقته على المستوى العالمي؟",
+    "question_en": "Burna Boy's grandfather was once the manager of which legendary Afrobeat pioneer?",
+    "question_ar": "جد بيرنا بوي كان مدير أعمال أنهي أسطورة من رواد الأفروبيت؟",
     "options": [
       {
-        "en": "Carlos Santana",
-        "ar": "كارلوس سانتانا"
+        "en": "Femi Kuti",
+        "ar": "فيمي كوتي"
       },
       {
-        "en": "Jorge Santana",
-        "ar": "خورخي سانتانا"
+        "en": "King Sunny Adé",
+        "ar": "كينج سني أديه"
       },
       {
-        "en": "Jimi Hendrix",
-        "ar": "جيمي هيندريكس"
+        "en": "Fela Kuti",
+        "ar": "فيلا كوتي"
       },
       {
-        "en": "Eric Clapton",
-        "ar": "إريك كلابتون"
+        "en": "Bob Marley",
+        "ar": "بوب مارلي"
       }
     ],
-    "correctAnswer": 0,
-    "explanation_en": "Carlos Santana's Woodstock 1969 performance of \"Soul Sacrifice\" launched his band's fame.",
-    "explanation_ar": "أداء كارلوس سانتانا لأغنية \"Soul Sacrifice\" في وودستوك 1969 أطلق شهرة فرقته."
+    "correctAnswer": 2,
+    "explanation_en": "Burna Boy's grandfather, Benson Idonije, managed Afrobeat legend Fela Kuti.",
+    "explanation_ar": "جد بيرنا بوي، بينسون إيدونيجي، كان مدير أعمال أسطورة الأفروبيت فيلا كوتي."
   },
   {
     "id": "MUS-200-005",
@@ -125,29 +125,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian composer's 1920s operetta pioneered using colloquial Egyptian Arabic (rather than classical Arabic) in serious musical works, revolutionizing the genre?",
-    "question_ar": "أنهي ملحن مصري في العشرينات كان من أوائل من استخدموا العامية المصرية (بدل الفصحى) في الأعمال الغنائية الجادة؟",
+    "question_en": "The band name \"Cairokee\" is a blend of \"Cairo\" and which other word?",
+    "question_ar": "اسم فرقة \"كايروكي\" مكون من دمج كلمة \"القاهرة\" مع كلمة إيه كمان؟",
     "options": [
       {
-        "en": "Dawoud Hosni",
-        "ar": "داود حسني"
+        "en": "Rock",
+        "ar": "روك"
       },
       {
-        "en": "Sayed Darwish",
-        "ar": "سيد درويش"
+        "en": "Karaoke",
+        "ar": "كاريوكي"
       },
       {
-        "en": "Kamel El Kholai",
-        "ar": "كامل الخلعي"
+        "en": "Comedy",
+        "ar": "كوميدي"
       },
       {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
+        "en": "Coffee",
+        "ar": "قهوة"
       }
     ],
     "correctAnswer": 1,
-    "explanation_en": "Sayed Darwish pioneered using colloquial Egyptian Arabic in serious musical compositions, a revolutionary shift.",
-    "explanation_ar": "سيد درويش كان من أوائل من استخدموا العامية المصرية في الأعمال الغنائية الجادة، وده كان تحول ثوري."
+    "explanation_en": "\"Cairokee\" blends \"Cairo\" and \"karaoke\".",
+    "explanation_ar": "اسم \"كايروكي\" مكون من دمج \"القاهرة\" و\"كاريوكي\"."
   },
   {
     "id": "MUS-200-006",
@@ -155,29 +155,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US singer's 1959 death in a plane crash alongside Buddy Holly and The Big Bopper became known as \"The Day the Music Died\"?",
-    "question_ar": "وفاة أنهي مطرب أمريكي سنة 1959 في حادثة طيارة مع بادي هولي وذا بيج بوبر بقت معروفة بـ\"يوم موت الموسيقى\"؟",
+    "question_en": "Dua Lipa's 2017 single \"New Rules\" reached which position on the UK Singles Chart?",
+    "question_ar": "أغنية ديوا ليپا \"New Rules\" سنة 2017 وصلت لأنهي مركز في تشارت السينجلز البريطاني؟",
     "options": [
       {
-        "en": "Gene Vincent",
-        "ar": "جين فينسنت"
+        "en": "Number 10",
+        "ar": "المركز العاشر"
       },
       {
-        "en": "Eddie Cochran",
-        "ar": "إيدي كوكران"
+        "en": "Number 5",
+        "ar": "المركز الخامس"
       },
       {
-        "en": "Del Shannon",
-        "ar": "ديل شانون"
+        "en": "Number 20",
+        "ar": "المركز العشرين"
       },
       {
-        "en": "Ritchie Valens",
-        "ar": "ريتشي فالينز"
+        "en": "Number 1",
+        "ar": "المركز الأول"
       }
     ],
     "correctAnswer": 3,
-    "explanation_en": "Ritchie Valens died alongside Buddy Holly and The Big Bopper in the 1959 plane crash known as \"The Day the Music Died\".",
-    "explanation_ar": "ريتشي فالينز مات مع بادي هولي وذا بيج بوبر في حادثة الطيارة سنة 1959 المعروفة بـ\"يوم موت الموسيقى\"."
+    "explanation_en": "\"New Rules\" topped the UK Singles Chart in 2017.",
+    "explanation_ar": "\"New Rules\" تصدرت تشارت السينجلز البريطاني سنة 2017."
   },
   {
     "id": "MUS-200-007",
@@ -185,29 +185,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's iconic song \"Al Atlal\" is based on a poem by Ibrahim Naji, with music composed by Riad El Sonbati?",
-    "question_ar": "أغنية \"الأطلال\" الأيقونية لأنهي مطربة مبنية على قصيدة للشاعر إبراهيم ناجي وتلحين رياض السنباطي؟",
+    "question_en": "\"Slim W Marmar\" is a collaborative track between Marwan Moussa and which other Egyptian rapper?",
+    "question_ar": "أغنية \"سليم ومرمر\" تعاون بين مروان موسى ومين كمان؟",
     "options": [
       {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
+        "en": "Molotof",
+        "ar": "مولوتوف"
       },
       {
-        "en": "Warda",
-        "ar": "وردة"
+        "en": "Wegz",
+        "ar": "ويجز"
       },
       {
-        "en": "Najat El Saghira",
-        "ar": "نجاة الصغيرة"
+        "en": "Afroto",
+        "ar": "أفروتو"
       },
       {
-        "en": "Fairuz",
-        "ar": "فيروز"
+        "en": "Abyusif",
+        "ar": "أبيوسف"
       }
     ],
-    "correctAnswer": 0,
-    "explanation_en": "\"Al Atlal\", performed by Umm Kulthum, is based on Ibrahim Naji's poem, composed by Riad El Sonbati.",
-    "explanation_ar": "\"الأطلال\"، غناء أم كلثوم، مبنية على قصيدة إبراهيم ناجي وتلحين رياض السنباطي."
+    "correctAnswer": 1,
+    "explanation_en": "\"Slim W Marmar\" features both Marwan Moussa and Wegz.",
+    "explanation_ar": "\"سليم ومرمر\" فيها مروان موسى وويجز مع بعض."
   },
   {
     "id": "MUS-200-008",
@@ -215,29 +215,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US musician, a former member of The Yardbirds and Cream, is often cited among the greatest guitarists for songs like \"Layla\"?",
-    "question_ar": "أنهي عازف جيتار أمريكي-بريطاني، كان عضو سابق في The Yardbirds و Cream، معروف بأغنية \"Layla\" ومن أعظم عازفي الجيتار في التاريخ؟",
+    "question_en": "Travis Scott founded his own record label named ___?",
+    "question_ar": "ترافيس سكوت أسس شركة تسجيلات خاصة بيه اسمها ___؟",
     "options": [
       {
-        "en": "Jeff Beck",
-        "ar": "جيف بيك"
+        "en": "Cactus Jack Records",
+        "ar": "كاكتوس جاك ريكوردز"
       },
       {
-        "en": "Pete Townshend",
-        "ar": "بيت تاونسند"
+        "en": "Quality Control",
+        "ar": "كواليتي كونترول"
       },
       {
-        "en": "Eric Clapton",
-        "ar": "إريك كلابتون"
+        "en": "OVO Sound",
+        "ar": "أوفو ساوند"
       },
       {
-        "en": "Jimmy Page",
-        "ar": "جيمي بيدج"
+        "en": "Grand Hustle",
+        "ar": "جراند هاسل"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Eric Clapton, of The Yardbirds and Cream, is famous for \"Layla\" and considered among the greatest guitarists.",
-    "explanation_ar": "إريك كلابتون، من The Yardbirds و Cream، مشهور بأغنية \"Layla\" ومن أعظم عازفي الجيتار."
+    "correctAnswer": 0,
+    "explanation_en": "Travis Scott founded Cactus Jack Records.",
+    "explanation_ar": "ترافيس سكوت أسس شركة كاكتوس جاك ريكوردز."
   },
   {
     "id": "MUS-200-009",
@@ -245,29 +245,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian oud player/composer shaped Umm Kulthum's early sound and also scored 1930s-40s operettas and films?",
-    "question_ar": "أنهي عازف عود وملحن مصري شكّل صوت أم كلثوم الأول ولحن كمان أوبريتات وأفلام الثلاثينات والأربعينات؟",
+    "question_en": "Umm Kulthum's live renditions of a single song could often last how long, reflecting the tarab tradition of extended improvisation?",
+    "question_ar": "حفلات أم كلثوم الحية للأغنية الواحدة كانت ممكن تفضل كام، انعكاسًا لتقليد الطرب والارتجال الممتد؟",
     "options": [
       {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
+        "en": "Over an hour",
+        "ar": "أكتر من ساعة"
       },
       {
-        "en": "Ahmed Sabra",
-        "ar": "أحمد صبرة"
+        "en": "Under 5 minutes",
+        "ar": "أقل من 5 دقايق"
       },
       {
-        "en": "Mohamed El Qasabgi",
-        "ar": "محمد القصبجي"
+        "en": "Exactly 10 minutes",
+        "ar": "10 دقايق بالظبط"
       },
       {
-        "en": "Dawoud Hosni",
-        "ar": "داود حسني"
+        "en": "About 3 minutes",
+        "ar": "حوالي 3 دقايق"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Mohamed El Qasabgi was a pioneering oud player/composer who shaped Umm Kulthum's early sound in the 1920s-30s.",
-    "explanation_ar": "محمد القصبجي كان عازف عود وملحن رائد شكّل صوت أم كلثوم الأول في العشرينات والثلاثينات."
+    "correctAnswer": 0,
+    "explanation_en": "Umm Kulthum's live renditions of a single song could stretch well over an hour due to extended improvisation.",
+    "explanation_ar": "أداء أم كلثوم الحي للأغنية الواحدة كان ممكن يفضل أكتر من ساعة بسبب الارتجال الممتد."
   },
   {
     "id": "MUS-200-010",
@@ -275,29 +275,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US band's bassist John Entwistle and drummer Keith Moon were both famed for explosive live performances, with Moon known for destroying drum kits on stage?",
-    "question_ar": "أنهي فرقة بريطانية عازف الباص فيها جون إنتويسل والدرامز كيث مون كانوا مشهورين بحفلات حية عنيفة وكيث مون بيكسر الدرامز على المسرح؟",
+    "question_en": "Sherine Abdel Wahab released her debut studio album while still a teenager, in which decade?",
+    "question_ar": "شيرين عبد الوهاب طرحت أول ألبوم استوديو ليها وهي لسه مراهقة، في أنهي عقد؟",
     "options": [
       {
-        "en": "Led Zeppelin",
-        "ar": "ليد زبلين"
+        "en": "2000s",
+        "ar": "الألفينات"
       },
       {
-        "en": "Cream",
-        "ar": "كريم"
+        "en": "2010s",
+        "ar": "العشرية اللي فاتت"
       },
       {
-        "en": "The Who",
-        "ar": "ذا هو"
+        "en": "1980s",
+        "ar": "الثمانينات"
       },
       {
-        "en": "The Rolling Stones",
-        "ar": "ذا رولينج ستونز"
+        "en": "1990s",
+        "ar": "التسعينات"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "The Who's Keith Moon was famous for destroying drum kits during performances.",
-    "explanation_ar": "كيث مون من فرقة ذا هو كان مشهور بتكسير الدرامز في الحفلات."
+    "correctAnswer": 3,
+    "explanation_en": "Sherine released her debut album as a teenager in the late 1990s.",
+    "explanation_ar": "شيرين طرحت أول ألبوم ليها وهي مراهقة أواخر التسعينات."
   },
   {
     "id": "MUS-200-011",
@@ -305,29 +305,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's early career included performing dressed as a boy at her father's request, before becoming one of history's most celebrated female voices?",
-    "question_ar": "أنهي مطربة مصرية في بداية مشوارها كانت بتغني وهي لابسة زي ولد بطلب من والدها قبل ما تبقى من أعظم الأصوات النسائية في التاريخ؟",
+    "question_en": "The \"dor\" is a traditional Egyptian vocal song form that was especially popular in which era, before giving way to modern song forms?",
+    "question_ar": "\"الدور\" شكل غنائي مصري تقليدي كان منتشر بشكل خاص في أنهي حقبة قبل ما تظهر الأشكال الغنائية الحديثة؟",
     "options": [
       {
-        "en": "Asmahan",
-        "ar": "أسمهان"
+        "en": "Late 19th/early 20th century",
+        "ar": "أواخر القرن التاسع عشر وبداية العشرين"
       },
       {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
+        "en": "1960s",
+        "ar": "الستينات"
       },
       {
-        "en": "Naima Akef",
-        "ar": "نعيمة عاكف"
+        "en": "1980s",
+        "ar": "الثمانينات"
       },
       {
-        "en": "Shadia",
-        "ar": "شادية"
+        "en": "Ancient Pharaonic era",
+        "ar": "العصر الفرعوني القديم"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Young Umm Kulthum performed dressed as a boy, at her father's insistence, in her earliest public singing.",
-    "explanation_ar": "أم كلثوم وهي صغيرة كانت بتغني وهي لابسة زي ولد بإصرار من والدها في بداية ظهورها للجمهور."
+    "correctAnswer": 0,
+    "explanation_en": "The dor was a popular Egyptian vocal form in the late 19th and early 20th centuries.",
+    "explanation_ar": "الدور كان شكل غنائي مصري منتشر أواخر القرن 19 وبداية العشرين."
   },
   {
     "id": "MUS-200-012",
@@ -335,29 +335,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US record label, founded in Detroit in 1959, became legendary for launching Motown soul artists like The Supremes and Marvin Gaye?",
-    "question_ar": "أنهي شركة تسجيلات أمريكية، اتأسست في ديترويت سنة 1959، بقت أسطورية لإطلاقها فنانين موتاون زي The Supremes ومارفن جاي؟",
+    "question_en": "The \"saidi\" rhythm pattern in Arabic music is especially associated with folk traditions from which part of Egypt?",
+    "question_ar": "إيقاع \"الصعيدي\" في الموسيقى العربية مرتبط بشكل خاص بفلكلور أنهي منطقة في مصر؟",
     "options": [
       {
-        "en": "Chess Records",
-        "ar": "تشيس ريكوردز"
+        "en": "Sinai",
+        "ar": "سيناء"
       },
       {
-        "en": "Motown Records",
-        "ar": "موتاون ريكوردز"
+        "en": "The Western Desert",
+        "ar": "الصحراء الغربية"
       },
       {
-        "en": "Atlantic Records",
-        "ar": "أتلانتيك ريكوردز"
+        "en": "The Nile Delta",
+        "ar": "الدلتا"
       },
       {
-        "en": "Stax Records",
-        "ar": "ستاكس ريكوردز"
+        "en": "Upper Egypt (Saeed)",
+        "ar": "الصعيد"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Motown Records, founded in Detroit in 1959, launched numerous soul legends.",
-    "explanation_ar": "شركة موتاون ريكوردز، اتأسست في ديترويت سنة 1959، أطلقت أساطير سول كتير."
+    "correctAnswer": 3,
+    "explanation_en": "The saidi rhythm is associated with Upper Egyptian (Saeed) folk music and dance.",
+    "explanation_ar": "إيقاع الصعيدي مرتبط بفلكلور ورقص الصعيد."
   },
   {
     "id": "MUS-200-013",
@@ -365,29 +365,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian composer's rivalry with Riad El Sonbati over who would compose Umm Kulthum's songs was a defining tension of 1950s-60s Egyptian music?",
-    "question_ar": "منافسة أنهي ملحن مصري مع رياض السنباطي على تلحين أغاني أم كلثوم كانت من أهم توترات الموسيقى المصرية في الخمسينات والستينات؟",
+    "question_en": "Before his breakout fame, Hassan Shakosh was known for performing informally in which everyday setting?",
+    "question_ar": "قبل شهرته الكبيرة، حسن شاكوش كان معروف بإنه بيغني بشكل غير رسمي في أنهي مكان يومي؟",
     "options": [
       {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
+        "en": "Opera houses",
+        "ar": "دور الأوبرا"
       },
       {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
+        "en": "Five-star hotels",
+        "ar": "فنادق فايف ستارز"
       },
       {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
+        "en": "Street/informal gatherings",
+        "ar": "الشارع/التجمعات الشعبية"
       },
       {
-        "en": "Mohamed El Mougy",
-        "ar": "محمد الموجي"
+        "en": "Television studios",
+        "ar": "استوديوهات تليفزيون"
       }
     ],
-    "correctAnswer": 0,
-    "explanation_en": "Mohamed Abdel Wahab and Riad El Sonbati were seen as rival composers competing for Umm Kulthum's repertoire.",
-    "explanation_ar": "محمد عبد الوهاب ورياض السنباطي كانا يعتبران متنافسين على تلحين أغاني أم كلثوم."
+    "correctAnswer": 2,
+    "explanation_en": "Hassan Shakosh rose from informal street and neighborhood performances before mainstream fame.",
+    "explanation_ar": "حسن شاكوش طلع من الغناء الشعبي في الشارع قبل ما يشتهر."
   },
   {
     "id": "MUS-200-014",
@@ -395,29 +395,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US singer's raspy blues-rock voice on \"Piece of My Heart\" was backed by the band Big Brother and the Holding Company early in her career?",
-    "question_ar": "صوت أنهي مطربة أمريكية الأجش في أغنية \"Piece of My Heart\" كانت مصحوبة بفرقة Big Brother and the Holding Company بداية مشوارها؟",
+    "question_en": "Rema's \"Calm Down\" became the longest-charting ___ song in Billboard Hot 100 history.",
+    "question_ar": "أغنية ريما \"Calm Down\" بقت أطول أغنية ___ في تاريخ تشارت بيلبورد هوت 100.",
     "options": [
       {
-        "en": "Nico",
-        "ar": "نيكو"
+        "en": "Arabic",
+        "ar": "عربية"
       },
       {
-        "en": "Cass Elliot",
-        "ar": "كاس إليوت"
+        "en": "K-pop",
+        "ar": "كي بوب"
       },
       {
-        "en": "Janis Joplin",
-        "ar": "جانيس جوبلين"
+        "en": "African",
+        "ar": "أفريقية"
       },
       {
-        "en": "Grace Slick",
-        "ar": "جريس سليك"
+        "en": "Latin",
+        "ar": "لاتينية"
       }
     ],
     "correctAnswer": 2,
-    "explanation_en": "Janis Joplin rose to fame fronting Big Brother and the Holding Company.",
-    "explanation_ar": "جانيس جوبلين اشتهرت وهي بتغني مع فرقة Big Brother and the Holding Company."
+    "explanation_en": "\"Calm Down\" became the longest-charting African song on the Billboard Hot 100.",
+    "explanation_ar": "\"Calm Down\" بقت أطول أغنية أفريقية في تشارت بيلبورد هوت 100."
   },
   {
     "id": "MUS-200-015",
@@ -429,6 +429,10 @@
     "question_ar": "أغنية \"الوطن الأكبر\" سنة 1968 (تلحين عبد الوهاب) جمعت كام مطرب كبير بيغنوا سوا في نشيد وطني واحد؟",
     "options": [
       {
+        "en": "Umm Kulthum, Abdel Halim Hafez, and others",
+        "ar": "أم كلثوم وعبد الحليم حافظ وغيرهم"
+      },
+      {
         "en": "Fairuz and the Rahbani Brothers",
         "ar": "فيروز والأخوين رحباني"
       },
@@ -439,13 +443,9 @@
       {
         "en": "Only Farid El Atrache solo",
         "ar": "فريد الأطرش بس"
-      },
-      {
-        "en": "Umm Kulthum, Abdel Halim Hafez, and others",
-        "ar": "أم كلثوم وعبد الحليم حافظ وغيرهم"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "\"El Watan El Akbar\" (1968) featured Umm Kulthum, Abdel Halim Hafez, and other top singers together.",
     "explanation_ar": "\"الوطن الأكبر\" (1968) جمعت أم كلثوم وعبد الحليم حافظ ونجوم تانيين في أغنية واحدة."
   },
@@ -455,29 +455,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer had a long, celebrated partnership with Ammar El Sherei, the blind composer known for blending orchestral arrangements with Arabic music in the 1980s-90s?",
-    "question_ar": "أنهي مطرب مصري كان له شراكة طويلة ومحتفى بيها مع عمار الشريعي، الملحن الكفيف اللي اشتهر بمزج التوزيع الأوركسترالي بالموسيقى العربية في الثمانينات والتسعينات؟",
+    "question_en": "Peso Pluma and Eslabon Armado's \"Ella Baila Sola\" made history as the first regional Mexican song to do what?",
+    "question_ar": "أغنية بيسو بلوما وإسلابون أرمادو \"Ella Baila Sola\" عملت تاريخ كأول أغنية مكسيكية إقليمية تعمل إيه؟",
     "options": [
       {
-        "en": "Mohamed Mounir",
-        "ar": "محمد منير"
+        "en": "Win a Grammy",
+        "ar": "تاخد جرامي"
       },
       {
-        "en": "Hany Shaker",
-        "ar": "هاني شاكر"
+        "en": "Reach 1 billion Spotify streams in a week",
+        "ar": "توصل مليار استماع في أسبوع"
       },
       {
-        "en": "Ali El Haggar",
-        "ar": "علي الحجار"
+        "en": "Top the UK charts",
+        "ar": "تتصدر تشارت بريطانيا"
       },
       {
-        "en": "Medhat Saleh",
-        "ar": "مدحت صالح"
+        "en": "Enter the Billboard Hot 100 top 5",
+        "ar": "تدخل أعلى 5 في بيلبورد هوت 100"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Ammar El Sherei, a celebrated blind Egyptian composer, worked closely with singer Ali El Haggar.",
-    "explanation_ar": "عمار الشريعي، الملحن الكفيف المصري الشهير، اشتغل بشكل كبير مع المطرب علي الحجار."
+    "correctAnswer": 3,
+    "explanation_en": "\"Ella Baila Sola\" became the first regional Mexican song to reach the Hot 100's top five.",
+    "explanation_ar": "\"Ella Baila Sola\" بقت أول أغنية مكسيكية إقليمية توصل لأعلى 5 في الهوت 100."
   },
   {
     "id": "MUS-200-017",
@@ -485,29 +485,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's biggest hit \"Ana Baashaa El Bahr\" was one of the last major songs composed for her by Baligh Hamdi before his death in 1993?",
-    "question_ar": "أنهي مطربة مصرية كانت أغنيتها \"أنا بعشق البحر\" من آخر الأغاني اللي لحنها بليغ حمدي قبل وفاته سنة 1993؟",
+    "question_en": "Felukah's debut album, blending rap and poetry, is titled ___?",
+    "question_ar": "أول ألبوم لفلوكة، اللي بيمزج الراب بالشعر، اسمه ___؟",
     "options": [
       {
-        "en": "Angham",
-        "ar": "أنغام"
+        "en": "Cairo Nights",
+        "ar": "كايرو نايتس"
       },
       {
-        "en": "Warda",
-        "ar": "وردة"
+        "en": "Sphinx",
+        "ar": "سفينكس"
       },
       {
-        "en": "Najat El Saghira",
-        "ar": "نجاة الصغيرة"
+        "en": "Citadel",
+        "ar": "سيتاديل"
       },
       {
-        "en": "Sherine",
-        "ar": "شيرين"
+        "en": "Nile Sound",
+        "ar": "نايل ساوند"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Warda's \"Ana Baashaa El Bahr\" was among Baligh Hamdi's late compositions before his 1993 death.",
-    "explanation_ar": "أغنية وردة \"أنا بعشق البحر\" كانت من آخر أعمال بليغ حمدي قبل وفاته سنة 1993."
+    "correctAnswer": 2,
+    "explanation_en": "\"Citadel\" is Felukah's debut album.",
+    "explanation_ar": "\"سيتاديل\" هو أول ألبوم لفلوكة."
   },
   {
     "id": "MUS-200-018",
@@ -519,10 +519,6 @@
     "question_ar": "أنهي اقتصادي ورجل أعمال مصري أسس \"استوديو مصر\" سنة 1934، اللي كان مركز إنتاج الأفلام الغنائية في العصر الذهبي؟",
     "options": [
       {
-        "en": "Talaat Harb",
-        "ar": "طلعت حرب"
-      },
-      {
         "en": "Ismail Sidqi",
         "ar": "إسماعيل صدقي"
       },
@@ -533,9 +529,13 @@
       {
         "en": "Ahmed Abboud",
         "ar": "أحمد عبود"
+      },
+      {
+        "en": "Talaat Harb",
+        "ar": "طلعت حرب"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Talaat Harb, founder of Bank Misr, also established Studio Misr in 1934.",
     "explanation_ar": "طلعت حرب، مؤسس بنك مصر، أسس كمان استوديو مصر سنة 1934."
   },
@@ -545,29 +545,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US singer/actress, star of \"The Wizard of Oz\" (1939), is famous for the song \"Over the Rainbow\"?",
-    "question_ar": "أنهي مطربة وممثلة أمريكية، نجمة فيلم \"The Wizard of Oz\" (1939)، اشتهرت بأغنية \"Over the Rainbow\"؟",
+    "question_en": "Billie Eilish and Finneas won an Academy Award (Oscar) for Best Original Song for which 2023 movie?",
+    "question_ar": "بيلي إيليش وفينياس فازوا بجايزة الأوسكار لأفضل أغنية أصلية عن أنهي فيلم سنة 2023؟",
     "options": [
       {
-        "en": "Ginger Rogers",
-        "ar": "جينجر روجرز"
+        "en": "Oppenheimer",
+        "ar": "أوبنهايمر"
       },
       {
-        "en": "Doris Day",
-        "ar": "دوريس داي"
+        "en": "Barbie",
+        "ar": "باربي"
       },
       {
-        "en": "Deanna Durbin",
-        "ar": "ديانا دوربين"
+        "en": "Elemental",
+        "ar": "إليمنتال"
       },
       {
-        "en": "Judy Garland",
-        "ar": "جودي جارلاند"
+        "en": "Wonka",
+        "ar": "وونكا"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Judy Garland, star of \"The Wizard of Oz\", is famous for \"Over the Rainbow\".",
-    "explanation_ar": "جودي جارلاند، نجمة فيلم \"The Wizard of Oz\"، اشتهرت بأغنية \"Over the Rainbow\"."
+    "correctAnswer": 1,
+    "explanation_en": "\"What Was I Made For?\" from \"Barbie\" won Billie Eilish and Finneas the Oscar for Best Original Song.",
+    "explanation_ar": "أغنية \"What Was I Made For?\" من فيلم \"باربي\" ياخدت أوسكار أفضل أغنية أصلية لبيلي إيليش وفينياس."
   },
   {
     "id": "MUS-200-020",
@@ -575,29 +575,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US singer's 1985 album \"Like a Virgin\" and provocative MTV performances cemented her status as \"Queen of Pop\" amid controversy?",
-    "question_ar": "ألبوم أنهي مطربة أمريكية سنة 1985 \"Like a Virgin\" وأداءاتها الجريئة في MTV رسّخت لقبها \"ملكة البوب\" وسط جدل كبير؟",
+    "question_en": "Sabrina Carpenter's 2024 hit \"Please Please Please\" debuted at which position on the Billboard Hot 100?",
+    "question_ar": "أغنية سابرينا كاربنتر \"Please Please Please\" سنة 2024 دخلت بيلبورد هوت 100 من أنهي مركز؟",
     "options": [
       {
-        "en": "Debbie Gibson",
-        "ar": "ديبي جيبسون"
+        "en": "Number 10",
+        "ar": "المركز العاشر"
       },
       {
-        "en": "Madonna",
-        "ar": "مادونا"
+        "en": "Number 5",
+        "ar": "المركز الخامس"
       },
       {
-        "en": "Janet Jackson",
-        "ar": "جانيت جاكسون"
+        "en": "Number 20",
+        "ar": "المركز العشرين"
       },
       {
-        "en": "Cyndi Lauper",
-        "ar": "سيندي لوبر"
+        "en": "Number 1",
+        "ar": "المركز الأول"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Madonna's \"Like a Virgin\" era and MTV performances cemented her as \"Queen of Pop\".",
-    "explanation_ar": "حقبة مادونا \"Like a Virgin\" وأداءاتها في MTV رسخت لقبها \"ملكة البوب\"."
+    "correctAnswer": 3,
+    "explanation_en": "\"Please Please Please\" debuted at number one on the Billboard Hot 100.",
+    "explanation_ar": "\"Please Please Please\" دخلت بيلبورد هوت 100 من المركز الأول."
   },
   {
     "id": "MUS-200-021",
@@ -605,29 +605,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer, known as a pioneer of the 'new wave' (Al Mawga Al Gadida) alongside Mohamed Mounir in the late 1970s, blended folk and jazz influences?",
-    "question_ar": "أنهي مطرب مصري، من رواد \"الموجة الجديدة\" جنب محمد منير أواخر السبعينات، مزج الفلكلور بالجاز في موسيقاه؟",
+    "question_en": "\"Sagat\" (finger cymbals), an instrument central to Egyptian raqs sharqi (belly dance) music, are typically worn in pairs on how many hands?",
+    "question_ar": "\"الصاجات\"، الآلة الأساسية في موسيقى الرقص الشرقي المصري، بتتلبس عادة زوج في كام إيد؟",
     "options": [
       {
-        "en": "Ali El Haggar",
-        "ar": "علي الحجار"
+        "en": "1",
+        "ar": "1"
       },
       {
-        "en": "Hamid El Shaeri",
-        "ar": "حميد الشاعري"
+        "en": "4",
+        "ar": "4"
       },
       {
-        "en": "Mohamed Fouad",
-        "ar": "محمد فؤاد"
+        "en": "10",
+        "ar": "10"
       },
       {
-        "en": "Hany Shaker",
-        "ar": "هاني شاكر"
+        "en": "2 (one pair per hand)",
+        "ar": "2 (زوج في كل إيد)"
       }
     ],
-    "correctAnswer": 0,
-    "explanation_en": "Ali El Haggar is associated with Egypt's late-1970s 'new wave' movement blending folk and jazz elements.",
-    "explanation_ar": "علي الحجار مرتبط بحركة \"الموجة الجديدة\" أواخر السبعينات اللي مزجت الفلكلور بالجاز."
+    "correctAnswer": 3,
+    "explanation_en": "Sagat are worn one pair per hand, played between thumb and middle finger.",
+    "explanation_ar": "الصاجات بتتلبس زوج في كل إيد، بين الإبهام والوسطى."
   },
   {
     "id": "MUS-200-022",
@@ -635,29 +635,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US musician, called the \"Godfather of Soul\", was known for his electrifying stage presence and the hit \"I Got You (I Feel Good)\"?",
-    "question_ar": "أنهي فنان أمريكي، ملقب بـ\"عراب السول\"، معروف بحضوره الناري على المسرح وأغنية \"I Got You (I Feel Good)\"؟",
+    "question_en": "In 2024, Ariana Grande took on a major film role as Glinda in the movie adaptation of which musical?",
+    "question_ar": "سنة 2024، أريانا جراندي مثلت دور جليندا في فيلم مقتبس من أنهي مسرحية موسيقية؟",
     "options": [
       {
-        "en": "James Brown",
-        "ar": "جيمس براون"
+        "en": "Chicago",
+        "ar": "شيكاجو"
       },
       {
-        "en": "Sam Cooke",
-        "ar": "سام كوك"
+        "en": "Hairspray",
+        "ar": "هيرسبراي"
       },
       {
-        "en": "Otis Redding",
-        "ar": "أوتيس ريدينج"
+        "en": "Wicked",
+        "ar": "ويكد"
       },
       {
-        "en": "Wilson Pickett",
-        "ar": "ويلسون بيكيت"
+        "en": "Wizard of Oz",
+        "ar": "ويزارد أوف أوز"
       }
     ],
-    "correctAnswer": 0,
-    "explanation_en": "James Brown, the \"Godfather of Soul\", was famous for \"I Got You (I Feel Good)\".",
-    "explanation_ar": "جيمس براون، عراب السول، اشتهر بأغنية \"I Got You (I Feel Good)\"."
+    "correctAnswer": 2,
+    "explanation_en": "Ariana Grande played Glinda in the 2024 film adaptation of \"Wicked\".",
+    "explanation_ar": "أريانا جراندي مثلت دور جليندا في فيلم \"ويكد\" سنة 2024."
   },
   {
     "id": "MUS-200-023",
@@ -665,29 +665,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's 1970s hit \"Kollena Lel Watan\" is a patriotic song that became closely tied to national broadcasts and military ceremonies?",
-    "question_ar": "أغنية \"كلنا للوطن\" في السبعينات لأنهي مطرب مصري ارتبطت بالبث الوطني والمناسبات الرسمية؟",
+    "question_en": "Oka and Ortega are considered one of the earliest well-known duos in which Egyptian music genre?",
+    "question_ar": "أوكا وأورتيجا بيتعتبروا من أوائل الثنائيات المعروفة في أنهي نوع موسيقى مصري؟",
     "options": [
       {
-        "en": "Mohamed Roushdy",
-        "ar": "محمد رشدي"
+        "en": "Reggae",
+        "ar": "ريجي"
       },
       {
-        "en": "Mohamed Kandil",
-        "ar": "محمد قنديل"
+        "en": "Mahraganat",
+        "ar": "مهرجانات"
       },
       {
-        "en": "Karem Mahmoud",
-        "ar": "كارم محمود"
+        "en": "Jazz fusion",
+        "ar": "فيوجن جاز"
       },
       {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبد الحليم حافظ"
+        "en": "Classical tarab",
+        "ar": "طرب كلاسيكي"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "\"Kollena Lel Watan\" is closely tied to Abdel Halim Hafez's patriotic repertoire.",
-    "explanation_ar": "\"كلنا للوطن\" مرتبطة بمشوار عبد الحليم حافظ الوطني."
+    "correctAnswer": 1,
+    "explanation_en": "Oka and Ortega were among the earliest well-known mahraganat duos.",
+    "explanation_ar": "أوكا وأورتيجا من أوائل ثنائيات المهرجانات المعروفة."
   },
   {
     "id": "MUS-200-024",
@@ -695,29 +695,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US rock band's founding members Roger Waters and Syd Barrett later became estranged after Barrett's mental health decline forced him out in 1968?",
-    "question_ar": "أنهي فرقة روك أعضاؤها المؤسسين روجر ووترز وسيد باريت انفصلوا بعد ما مشاكل باريت النفسية أدت لخروجه من الفرقة سنة 1968؟",
+    "question_en": "BTS member Jungkook's 2023 solo single \"Seven\" achieved which chart milestone?",
+    "question_ar": "أغنية جونجكوك المنفردة من BTS \"Seven\" سنة 2023 حققت أنهي إنجاز في التشارتات؟",
     "options": [
       {
-        "en": "Genesis",
-        "ar": "جينيسيس"
+        "en": "Debuted at #1 on the Billboard Hot 100",
+        "ar": "دخلت بيلبورد هوت 100 من المركز الأول"
       },
       {
-        "en": "King Crimson",
-        "ar": "كينج كريمسون"
+        "en": "Became the longest song ever released",
+        "ar": "بقت أطول أغنية اتطرحت"
       },
       {
-        "en": "Pink Floyd",
-        "ar": "بينك فلويد"
+        "en": "Won a Grammy for Song of the Year",
+        "ar": "ياخد جرامي أغنية السنة"
       },
       {
-        "en": "Yes",
-        "ar": "يس"
+        "en": "Topped charts for a full year",
+        "ar": "تصدرت التشارت سنة كاملة"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Pink Floyd founder Syd Barrett left the band in 1968 due to declining mental health.",
-    "explanation_ar": "سيد باريت، مؤسس بينك فلويد، خرج من الفرقة سنة 1968 بسبب تدهور حالته النفسية."
+    "correctAnswer": 0,
+    "explanation_en": "\"Seven\" debuted at number one on the Billboard Hot 100.",
+    "explanation_ar": "\"Seven\" دخلت بيلبورد هوت 100 من المركز الأول."
   },
   {
     "id": "MUS-200-025",
@@ -725,29 +725,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer and film star later became a respected member of Egypt's People's Assembly (parliament), unusual for an entertainer of her generation?",
-    "question_ar": "أنهي مطربة ونجمة سينما مصرية بقت بعدين عضوة محترمة في مجلس الشعب المصري، وده كان غير معتاد لفنانة في جيلها؟",
+    "question_en": "Doja Cat's 2023 album, featuring a harder rap-focused sound, is titled ___?",
+    "question_ar": "ألبوم دوجا كات سنة 2023، بصوت راب أقوى، اسمه ___؟",
     "options": [
       {
-        "en": "Shadia",
-        "ar": "شادية"
+        "en": "Scarlet",
+        "ar": "سكارلت"
       },
       {
-        "en": "Naima Akef",
-        "ar": "نعيمة عاكف"
+        "en": "Hot Pink",
+        "ar": "هوت بينك"
       },
       {
-        "en": "Warda",
-        "ar": "وردة"
+        "en": "Amala",
+        "ar": "أمالا"
       },
       {
-        "en": "Fayza Ahmed",
-        "ar": "فايزة أحمد"
+        "en": "Planet Her",
+        "ar": "بلانت هير"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Shadia, beyond her singing/acting career, served in Egypt's parliament.",
-    "explanation_ar": "شادية، غير مشوارها في الغناء والتمثيل، كانت عضوة في مجلس الشعب المصري."
+    "explanation_en": "\"Scarlet\" (2023) is Doja Cat's rap-leaning album.",
+    "explanation_ar": "\"سكارلت\" (2023) ألبوم دوجا كات اللي فيه صوت راب أقوى."
   },
   {
     "id": "MUS-200-026",
@@ -755,29 +755,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US singer, famous as the \"Queen of Rock and Roll\", had a career comeback in the 1980s with the hit \"What's Love Got to Do with It\" after a difficult earlier marriage?",
-    "question_ar": "أنهي مطربة أمريكية، معروفة بلقب \"ملكة الروك آند رول\"، رجعت بقوة في الثمانينات بأغنية \"What's Love Got to Do with It\" بعد زواج أول صعب؟",
+    "question_en": "\"Anghami\" is a major Arabic music streaming platform originally founded in which country?",
+    "question_ar": "\"أنغامي\"، منصة استماع الموسيقى العربية الكبيرة، اتأسست في الأصل في أنهي بلد؟",
     "options": [
       {
-        "en": "Diana Ross",
-        "ar": "دايانا روس"
+        "en": "Egypt",
+        "ar": "مصر"
       },
       {
-        "en": "Tina Turner",
-        "ar": "تينا تيرنر"
+        "en": "UAE",
+        "ar": "الإمارات"
       },
       {
-        "en": "Aretha Franklin",
-        "ar": "أريثا فرانكلين"
+        "en": "Lebanon",
+        "ar": "لبنان"
       },
       {
-        "en": "Patti LaBelle",
-        "ar": "باتي لابيل"
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Tina Turner, the \"Queen of Rock and Roll\", had a major comeback in the 1980s with \"What's Love Got to Do with It\".",
-    "explanation_ar": "تينا تيرنر، ملكة الروك آند رول، رجعت بقوة في الثمانينات بأغنية \"What's Love Got to Do with It\"."
+    "correctAnswer": 2,
+    "explanation_en": "Anghami was founded in Lebanon and became a leading Arabic music streaming platform.",
+    "explanation_ar": "أنغامي اتأسست في لبنان وبقت من أهم منصات الاستماع للموسيقى العربية."
   },
   {
     "id": "MUS-200-027",
@@ -785,29 +785,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian composer, famous for scoring films and songs for Abdel Halim, was known for using unusually large orchestras and Western symphonic arrangements in the 1960s?",
-    "question_ar": "أنهي ملحن مصري، معروف بتلحين أفلام وأغاني لعبد الحليم، استخدم أوركسترات كبيرة وتوزيعات سيمفونية غربية في الستينات؟",
+    "question_en": "Ice Spice and Nicki Minaj's \"Barbie World\" was created for the soundtrack of which 2023 film?",
+    "question_ar": "أغنية آيس سبايس ونيكي ميناج \"Barbie World\" اتعملت لساوند تراك أنهي فيلم سنة 2023؟",
     "options": [
       {
-        "en": "Mohamed El Mougy",
-        "ar": "محمد الموجي"
+        "en": "Barbie",
+        "ar": "باربي"
       },
       {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
+        "en": "Wonka",
+        "ar": "وونكا"
       },
       {
-        "en": "Kamal El Taweel",
-        "ar": "كمال الطويل"
+        "en": "Elemental",
+        "ar": "إليمنتال"
       },
       {
-        "en": "Ahmed Fouad Hassan",
-        "ar": "أحمد فؤاد حسن"
+        "en": "Trolls Band Together",
+        "ar": "ترولز باند توجيذر"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Mohamed El Mougy was known for grand orchestral arrangements in his film and song compositions.",
-    "explanation_ar": "محمد الموجي اشتهر بتوزيعاته الأوركسترالية الكبيرة في أفلامه وأغانيه."
+    "explanation_en": "\"Barbie World\" was made for the 2023 \"Barbie\" movie soundtrack.",
+    "explanation_ar": "\"Barbie World\" اتعملت لساوند تراك فيلم \"باربي\" سنة 2023."
   },
   {
     "id": "MUS-200-028",
@@ -815,29 +815,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US artist's 1971 hit \"American Pie\" is widely interpreted as a tribute to the 1959 plane crash that killed Buddy Holly?",
-    "question_ar": "أغنية أنهي فنان أمريكي سنة 1971 \"American Pie\" بتتفسر غالبًا كتحية لحادثة الطيارة سنة 1959 اللي قتلت بادي هولي؟",
+    "question_en": "\"Baladi\" is a rhythm pattern in Egyptian music especially associated with which style of solo dance?",
+    "question_ar": "إيقاع \"البلدي\" في الموسيقى المصرية مرتبط بشكل خاص بأنهي نوع رقص فردي؟",
     "options": [
       {
-        "en": "Harry Chapin",
-        "ar": "هاري تشابين"
+        "en": "Raqs baladi (Egyptian folk belly dance)",
+        "ar": "الرقص البلدي المصري"
       },
       {
-        "en": "Gordon Lightfoot",
-        "ar": "جوردون لايتفوت"
+        "en": "Tango",
+        "ar": "التانجو"
       },
       {
-        "en": "Jim Croce",
-        "ar": "جيم كروتشي"
+        "en": "Ballet",
+        "ar": "الباليه"
       },
       {
-        "en": "Don McLean",
-        "ar": "دون ماكلين"
+        "en": "Flamenco",
+        "ar": "الفلامنكو"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Don McLean's \"American Pie\" is widely seen as referencing the 1959 plane crash, \"The Day the Music Died\".",
-    "explanation_ar": "أغنية دون ماكلين \"American Pie\" بتتفسر كإشارة لحادثة الطيارة سنة 1959 \"يوم موت الموسيقى\"."
+    "correctAnswer": 0,
+    "explanation_en": "The baladi rhythm is closely tied to Egyptian raqs baladi folk dance.",
+    "explanation_ar": "إيقاع البلدي مرتبط بشكل كبير برقص البلدي المصري الفلكلوري."
   },
   {
     "id": "MUS-200-029",
@@ -845,29 +845,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's classic \"Fakkarouni\" (composed by Mohamed Abdel Wahab) is considered one of the earliest Egyptian songs to use a full Western symphonic orchestra?",
-    "question_ar": "أغنية \"فكروني\" (تلحين محمد عبد الوهاب) لأنهي مطربة بتتعتبر من أوائل الأغاني المصرية اللي استخدمت أوركسترا سيمفونية غربية كاملة؟",
+    "question_en": "A traditional Arabic oud typically has how many strings (usually five paired courses plus one single bass string)?",
+    "question_ar": "العود العربي التقليدي بيبقى فيه كام وتر عادة (5 أزواج ووتر باص مفرد)؟",
     "options": [
       {
-        "en": "Asmahan",
-        "ar": "أسمهان"
+        "en": "11",
+        "ar": "11"
       },
       {
-        "en": "Naima Akef",
-        "ar": "نعيمة عاكف"
+        "en": "6",
+        "ar": "6"
       },
       {
-        "en": "Layla Mourad",
-        "ar": "ليلى مراد"
+        "en": "12",
+        "ar": "12"
       },
       {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
+        "en": "8",
+        "ar": "8"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "\"Fakkarouni\", composed by Mohamed Abdel Wahab for Umm Kulthum, was groundbreaking for its full orchestral arrangement.",
-    "explanation_ar": "\"فكروني\"، تلحين محمد عبد الوهاب لأم كلثوم، كانت مبتكرة لاستخدامها أوركسترا كاملة."
+    "correctAnswer": 0,
+    "explanation_en": "A traditional oud typically has 11 strings: five paired courses and one single bass string.",
+    "explanation_ar": "العود التقليدي فيه عادة 11 وتر: 5 أزواج ووتر باص مفرد."
   },
   {
     "id": "MUS-200-030",
@@ -875,29 +875,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US label's \"Wall of Sound\" production technique, pioneered by producer Phil Spector, layered dense instrumentation on 1960s girl-group hits?",
-    "question_ar": "تقنية إنتاج \"Wall of Sound\" اللي ابتكرها المنتج فيل سبيكتور واستخدمها في أغاني فرق البنات في الستينات كانت مرتبطة بأنهي منتج؟",
+    "question_en": "J Balvin and Bad Bunny's 2019 collaborative album is titled ___?",
+    "question_ar": "الألبوم التعاوني بين جي بالفين وباد باني سنة 2019 اسمه ___؟",
     "options": [
       {
-        "en": "Quincy Jones",
-        "ar": "كوينسي جونز"
+        "en": "YHLQMDLG",
+        "ar": "واي إتش إل كيو إم دي إل جي"
       },
       {
-        "en": "Phil Spector",
-        "ar": "فيل سبيكتور"
+        "en": "Vibras",
+        "ar": "فايبراس"
       },
       {
-        "en": "Berry Gordy",
-        "ar": "بيري جوردي"
+        "en": "Oasis",
+        "ar": "أويسيس"
       },
       {
-        "en": "George Martin",
-        "ar": "جورج مارتن"
+        "en": "Colores",
+        "ar": "كولوريس"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Phil Spector pioneered the \"Wall of Sound\" production technique in the 1960s.",
-    "explanation_ar": "فيل سبيكتور ابتكر تقنية \"Wall of Sound\" الإنتاجية في الستينات."
+    "correctAnswer": 2,
+    "explanation_en": "\"Oasis\" (2019) is a joint album by J Balvin and Bad Bunny.",
+    "explanation_ar": "\"أويسيس\" (2019) ألبوم مشترك بين جي بالفين وباد باني."
   },
   {
     "id": "MUS-200-031",
@@ -905,29 +905,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which major star of 1940s Egyptian musical cinema was of Jewish Egyptian heritage before converting to Islam?",
-    "question_ar": "أنهي نجمة كبيرة في سينما الأربعينات الغنائية المصرية كانت من أصل يهودي مصري قبل ما تعتنق الإسلام؟",
+    "question_en": "Rosalía, the Spanish artist known for blending flamenco with pop, released the acclaimed 2022 album ___?",
+    "question_ar": "روزاليا، الفنانة الإسبانية المعروفة بمزج الفلامنكو بالبوب، طرحت ألبوم مهم سنة 2022 اسمه ___؟",
     "options": [
       {
-        "en": "Naima Akef",
-        "ar": "نعيمة عاكف"
+        "en": "Motomami",
+        "ar": "موتومامي"
       },
       {
-        "en": "Asmahan",
-        "ar": "أسمهان"
+        "en": "Los Ángeles",
+        "ar": "لوس أنجلوس"
       },
       {
-        "en": "Shadia",
-        "ar": "شادية"
+        "en": "El Mal Querer",
+        "ar": "إل مال كيريير"
       },
       {
-        "en": "Layla Mourad",
-        "ar": "ليلى مراد"
+        "en": "Despechá",
+        "ar": "ديسبيتشا"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Layla Mourad was a major 1940s film star of Egyptian Jewish heritage who converted to Islam.",
-    "explanation_ar": "ليلى مراد كانت نجمة سينما كبيرة في الأربعينات من أصل يهودي مصري واعتنقت الإسلام."
+    "correctAnswer": 0,
+    "explanation_en": "\"Motomami\" (2022) is Rosalía's acclaimed album.",
+    "explanation_ar": "\"موتومامي\" (2022) ألبوم روزاليا المهم."
   },
   {
     "id": "MUS-200-032",
@@ -935,29 +935,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US band's 1966 album \"Pet Sounds\" is widely cited as a direct influence on The Beatles' \"Sgt. Pepper's Lonely Hearts Club Band\"?",
-    "question_ar": "ألبوم أنهي فرقة أمريكية سنة 1966 \"Pet Sounds\" بيتقال إنه أثر بشكل مباشر على ألبوم البيتلز \"Sgt. Pepper's\"؟",
+    "question_en": "Yousra El Hawary is an Egyptian singer known for blending the accordion with which genre?",
+    "question_ar": "يسرا الهواري مطربة مصرية معروفة بمزج الأكورديون بأنهي نوع موسيقى؟",
     "options": [
       {
-        "en": "The Turtles",
-        "ar": "ذا تيرتلز"
+        "en": "Classical opera",
+        "ar": "أوبرا كلاسيكية"
       },
       {
-        "en": "The Beach Boys",
-        "ar": "ذا بيتش بويز"
+        "en": "Trap",
+        "ar": "تراب"
       },
       {
-        "en": "The Byrds",
-        "ar": "ذا بيردز"
+        "en": "Indie folk",
+        "ar": "إندي فلك"
       },
       {
-        "en": "The Association",
-        "ar": "ذا أسوسييشن"
+        "en": "Heavy metal",
+        "ar": "هيفي ميتال"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "The Beach Boys' \"Pet Sounds\" is widely credited as influencing The Beatles' \"Sgt. Pepper's\".",
-    "explanation_ar": "ألبوم \"Pet Sounds\" لذا بيتش بويز بيتقال إنه أثر على ألبوم البيتلز \"Sgt. Pepper's\"."
+    "correctAnswer": 2,
+    "explanation_en": "Yousra El Hawary is known for indie folk music featuring accordion.",
+    "explanation_ar": "يسرا الهواري معروفة بموسيقى الإندي فلك مع الأكورديون."
   },
   {
     "id": "MUS-200-033",
@@ -965,29 +965,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian composer, an early collaborator of Umm Kulthum, was known for religious and traditional-style songs?",
-    "question_ar": "أنهي ملحن مصري، تعاون مع أم كلثوم بدري في مشوارها، اشتهر بالأغاني الدينية والتراثية؟",
+    "question_en": "Which well-known Cairo cultural venue helped launch many 2000s indie bands like Cairokee and Wust El Balad?",
+    "question_ar": "أنهي مكان ثقافي مشهور في القاهرة ساعد يطلع فرق إندي كتير في الألفينات زي كايروكي ووسط البلد؟",
     "options": [
       {
-        "en": "Mohamed El Mougy",
-        "ar": "محمد الموجي"
+        "en": "The Cairo Opera House",
+        "ar": "دار الأوبرا المصرية"
       },
       {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
+        "en": "El Sawy Culturewheel",
+        "ar": "ساقية الصاوي"
       },
       {
-        "en": "Ahmed Fouad Hassan",
-        "ar": "أحمد فؤاد حسن"
+        "en": "The Cairo Jazz Club",
+        "ar": "كايرو جاز كلوب"
       },
       {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
+        "en": "The Cairo Puppet Theatre",
+        "ar": "مسرح العرائس"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Zakaria Ahmed collaborated with Umm Kulthum early in her career and was known for religious and traditional Arabic songs.",
-    "explanation_ar": "زكريا أحمد تعاون مع أم كلثوم في بداية مشوارها واشتهر بالأغاني الدينية والتراثية."
+    "correctAnswer": 1,
+    "explanation_en": "El Sawy Culturewheel was a key venue that helped launch Egypt's 2000s indie music scene.",
+    "explanation_ar": "ساقية الصاوي كانت مكان أساسي ساعد يطلع مشهد الإندي المصري في الألفينات."
   },
   {
     "id": "MUS-200-034",
@@ -995,29 +995,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US singer-songwriter's 1971 album \"Blue\" is widely regarded as one of the most emotionally raw and influential folk albums ever recorded?",
-    "question_ar": "ألبوم أنهي مطربة أمريكية-كندية سنة 1971 \"Blue\" بيتعتبر من أكتر ألبومات الفولك تأثيرًا وصدقًا عاطفيًا في التاريخ؟",
+    "question_en": "Grupo Frontera's viral hit \"un x100to\" was a collaboration with which global superstar?",
+    "question_ar": "أغنية جروبو فرونتيرا الفيروسية \"un x100to\" كانت تعاون مع أنهي نجم عالمي؟",
     "options": [
       {
-        "en": "Judy Collins",
-        "ar": "جودي كولينز"
+        "en": "Karol G",
+        "ar": "كارول جي"
       },
       {
-        "en": "Joan Baez",
-        "ar": "جوان بايز"
+        "en": "J Balvin",
+        "ar": "جي بالفين"
       },
       {
-        "en": "Joni Mitchell",
-        "ar": "جوني ميتشل"
+        "en": "Feid",
+        "ar": "فيد"
       },
       {
-        "en": "Carole King",
-        "ar": "كارول كينج"
+        "en": "Bad Bunny",
+        "ar": "باد باني"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Joni Mitchell's \"Blue\" (1971) is considered one of the greatest folk albums ever made.",
-    "explanation_ar": "ألبوم جوني ميتشل \"Blue\" (1971) من أعظم ألبومات الفولك في التاريخ."
+    "correctAnswer": 3,
+    "explanation_en": "\"un x100to\" is a collaboration between Grupo Frontera and Bad Bunny.",
+    "explanation_ar": "\"un x100to\" تعاون بين جروبو فرونتيرا وباد باني."
   },
   {
     "id": "MUS-200-035",
@@ -1055,29 +1055,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US composer and bandleader, known as the \"King of Swing\", led one of the most popular big bands of the 1930s with hits like \"Sing, Sing, Sing\"?",
-    "question_ar": "أنهي قائد فرقة أمريكي، ملقب بـ\"ملك السوينج\"، قاد واحدة من أشهر فرق البيج باند في الثلاثينات بأغنية \"Sing, Sing, Sing\"؟",
+    "question_en": "Tems, the Nigerian singer featured on Future and Drake's \"Wait For U\", won a Grammy for that song in which category?",
+    "question_ar": "تيمز، المطربة النيجيرية اللي شاركت في أغنية فيوتشر ودريك \"Wait For U\"، فازت بجرامي عن الأغنية دي في أنهي فئة؟",
     "options": [
       {
-        "en": "Duke Ellington",
-        "ar": "ديوك إلينجتون"
+        "en": "Record of the Year",
+        "ar": "تسجيل السنة"
       },
       {
-        "en": "Benny Goodman",
-        "ar": "بيني جودمان"
+        "en": "Best Melodic Rap Performance",
+        "ar": "أفضل أداء راب ملحّن"
       },
       {
-        "en": "Count Basie",
-        "ar": "كاونت بيسي"
+        "en": "Best R&B Song",
+        "ar": "أفضل أغنية آر آند بي"
       },
       {
-        "en": "Glenn Miller",
-        "ar": "جلين ميلر"
+        "en": "Best New Artist",
+        "ar": "أفضل فنان جديد"
       }
     ],
     "correctAnswer": 1,
-    "explanation_en": "Benny Goodman, the \"King of Swing\", led a top big band with \"Sing, Sing, Sing\".",
-    "explanation_ar": "بيني جودمان، ملك السوينج، قاد فرقة بيج باند كبيرة بأغنية \"Sing, Sing, Sing\"."
+    "explanation_en": "\"Wait For U\" won the Grammy for Best Melodic Rap Performance.",
+    "explanation_ar": "\"Wait For U\" فازت بجرامي أفضل أداء راب ملحّن."
   },
   {
     "id": "MUS-200-037",
@@ -1085,29 +1085,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's 1980s hits were among the first to top charts across several Gulf countries at once?",
-    "question_ar": "أنهي مطرب مصري كانت أغانيه في الثمانينات من أوائل اللي تصدرت تشارتات دول خليجية متعددة في نفس الوقت؟",
+    "question_en": "Maryam Saleh is an Egyptian singer known for avant-garde collaborations, including the acclaimed album ___?",
+    "question_ar": "مريم صالح مطربة مصرية معروفة بتعاونات فنية غير تقليدية، منها ألبوم مشهور اسمه ___؟",
     "options": [
       {
-        "en": "Medhat Saleh",
-        "ar": "مدحت صالح"
+        "en": "Nour El Ain",
+        "ar": "نور العين"
       },
       {
-        "en": "Ali Hemeda",
-        "ar": "علي حميدة"
+        "en": "Analog Feelings",
+        "ar": "أنالوج فيلينجز"
       },
       {
-        "en": "Hany Shaker",
-        "ar": "هاني شاكر"
+        "en": "Sout El Horeya",
+        "ar": "صوت الحرية"
       },
       {
-        "en": "Mohamed Fouad",
-        "ar": "محمد فؤاد"
+        "en": "Lekhfa",
+        "ar": "لخفة"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Ali Hemeda's 1980s hits achieved wide popularity across the Gulf region alongside Egypt.",
-    "explanation_ar": "أغاني علي حميدة في الثمانينات حققت شهرة واسعة في الخليج جنب مصر."
+    "correctAnswer": 3,
+    "explanation_en": "\"Lekhfa\" is an acclaimed collaborative album featuring Maryam Saleh.",
+    "explanation_ar": "\"لخفة\" ألبوم تعاوني مشهور شاركت فيه مريم صالح."
   },
   {
     "id": "MUS-200-038",
@@ -1115,29 +1115,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US musician, a founding member of Creedence Clearwater Revival, wrote and sang \"Fortunate Son\" as a protest anthem?",
-    "question_ar": "أنهي موسيقي أمريكي، عضو مؤسس في فرقة Creedence Clearwater Revival، كتب وغنى \"Fortunate Son\" كأغنية احتجاجية؟",
+    "question_en": "UK rapper Dave won the prestigious Mercury Prize for which 2019 debut album?",
+    "question_ar": "الرابر البريطاني ديف فاز بجايزة ميركيوري المرموقة عن أول ألبوم ليه سنة 2019 اسمه ___؟",
     "options": [
       {
-        "en": "Doug Clifford",
-        "ar": "دوج كليفورد"
+        "en": "We're All Alone in This Together",
+        "ar": "وير أول ألون إن ذيس توجيذر"
       },
       {
-        "en": "Tom Fogerty",
-        "ar": "توم فوجرتي"
+        "en": "Santan Dave",
+        "ar": "سانتان ديف"
       },
       {
-        "en": "John Fogerty",
-        "ar": "جون فوجرتي"
+        "en": "Game Over",
+        "ar": "جيم أوفر"
       },
       {
-        "en": "Stu Cook",
-        "ar": "ستو كوك"
+        "en": "Psychodrama",
+        "ar": "سايكودراما"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "John Fogerty, CCR's lead singer/songwriter, wrote \"Fortunate Son\".",
-    "explanation_ar": "جون فوجرتي، مطرب وكاتب فرقة CCR، كتب أغنية \"Fortunate Son\"."
+    "correctAnswer": 3,
+    "explanation_en": "Dave won the Mercury Prize for his debut album \"Psychodrama\".",
+    "explanation_ar": "ديف فاز بجايزة ميركيوري عن أول ألبوم ليه \"سايكودراما\"."
   },
   {
     "id": "MUS-200-039",
@@ -1149,23 +1149,23 @@
     "question_ar": "أنهي مطربة لبنانية بصوتها المدرب أوبراليًا وأغنية \"أندلسية\" بقت من القلائل اللي مزجوا تقنية الأوبرا الغربية بالموسيقى العربية؟",
     "options": [
       {
-        "en": "Majida El Roumi",
-        "ar": "ماجدة الرومي"
-      },
-      {
-        "en": "Elissa",
-        "ar": "إليسا"
-      },
-      {
         "en": "Fairuz",
         "ar": "فيروز"
       },
       {
         "en": "Carole Samaha",
         "ar": "كارول سماحة"
+      },
+      {
+        "en": "Majida El Roumi",
+        "ar": "ماجدة الرومي"
+      },
+      {
+        "en": "Elissa",
+        "ar": "إليسا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Majida El Roumi is known for her operatic vocal training blended with Arabic repertoire.",
     "explanation_ar": "ماجدة الرومي معروفة بصوتها المدرب أوبراليًا ومزجه بالتراث العربي."
   },
@@ -1175,29 +1175,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US record producer, known for discovering Elvis Presley, ran Sun Records in Memphis and helped launch Johnny Cash and Jerry Lee Lewis too?",
-    "question_ar": "أنهي منتج أمريكي، معروف باكتشافه إلفيس بريسلي، كان بيدير شركة Sun Records في ممفيس وساعد في إطلاق جوني كاش وجيري لي لويس كمان؟",
+    "question_en": "Egyptian singer Angham comes from a family of musicians — her father was a well-known ___?",
+    "question_ar": "المطربة أنغام من عيلة فنية — والدها كان أنهي حاجة معروفة؟",
     "options": [
       {
-        "en": "Phil Spector",
-        "ar": "فيل سبيكتور"
+        "en": "Football player",
+        "ar": "لاعب كورة"
       },
       {
-        "en": "Ahmet Ertegun",
-        "ar": "أحمد إرتيجن"
+        "en": "Politician",
+        "ar": "سياسي"
       },
       {
-        "en": "Sam Phillips",
-        "ar": "سام فيليبس"
+        "en": "Film director",
+        "ar": "مخرج أفلام"
       },
       {
-        "en": "Berry Gordy",
-        "ar": "بيري جوردي"
+        "en": "Composer",
+        "ar": "ملحن"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Sam Phillips, founder of Sun Records, discovered Elvis Presley and other rock 'n' roll pioneers.",
-    "explanation_ar": "سام فيليبس، مؤسس Sun Records، اكتشف إلفيس بريسلي ورواد تانيين للروك آند رول."
+    "correctAnswer": 3,
+    "explanation_en": "Angham's father, Mohamed Ali Suleiman, was a well-known Egyptian composer.",
+    "explanation_ar": "والد أنغام، محمد علي سليمان، كان ملحن مصري معروف."
   },
   {
     "id": "MUS-200-041",
@@ -1205,29 +1205,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's 1970s song \"Ya Habibi Ta'ala\" (composed by Baligh Hamdi) helped define the romantic Egyptian pop sound before Amr Diab's era?",
-    "question_ar": "أغنية \"يا حبيبي تعالى\" في السبعينات (تلحين بليغ حمدي) لأنهي مطربة ساعدت في تشكيل صوت البوب الرومانسي المصري قبل عصر عمرو دياب؟",
+    "question_en": "In recent years, old clips of legends like Umm Kulthum and Abdel Halim Hafez have found new life among young Egyptians through short clips on which platform?",
+    "question_ar": "في السنين الأخيرة، مقاطع قديمة لأساطير زي أم كلثوم وعبد الحليم حافظ لاقت حياة جديدة بين الشباب المصري من خلال مقاطع أنهي منصة؟",
     "options": [
       {
-        "en": "Fayza Ahmed",
-        "ar": "فايزة أحمد"
+        "en": "LinkedIn",
+        "ar": "لينكدإن"
       },
       {
-        "en": "Shadia",
-        "ar": "شادية"
+        "en": "Skype",
+        "ar": "سكايب"
       },
       {
-        "en": "Warda",
-        "ar": "وردة"
+        "en": "Pinterest",
+        "ar": "بينترست"
       },
       {
-        "en": "Najat El Saghira",
-        "ar": "نجاة الصغيرة"
+        "en": "TikTok",
+        "ar": "تيك توك"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Warda's \"Ya Habibi Ta'ala\", composed by Baligh Hamdi, was a defining romantic hit of the 1970s.",
-    "explanation_ar": "أغنية وردة \"يا حبيبي تعالى\"، تلحين بليغ حمدي، كانت من أهم أغاني الرومانسية في السبعينات."
+    "correctAnswer": 3,
+    "explanation_en": "TikTok has helped introduce classic Egyptian music clips to a new generation.",
+    "explanation_ar": "تيك توك ساعد يعرّف جيل جديد بمقاطع من كلاسيكيات الموسيقى المصرية."
   },
   {
     "id": "MUS-200-042",
@@ -1235,29 +1235,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US guitarist, of the band Van Halen, revolutionized rock guitar playing with his two-handed tapping technique showcased in \"Eruption\"?",
-    "question_ar": "أنهي عازف جيتار أمريكي، من فرقة Van Halen، غيّر أسلوب عزف الجيتار في الروك بتقنية النقر بإيدين في أغنية \"Eruption\"؟",
+    "question_en": "Chappell Roan, the breakout 2024 pop star known for \"Good Luck, Babe!\", is from which country?",
+    "question_ar": "تشابيل رون، نجمة البوب الصاعدة سنة 2024 المعروفة بأغنية \"Good Luck, Babe!\"، من أنهي بلد؟",
     "options": [
       {
-        "en": "Joe Satriani",
-        "ar": "جو ساترياني"
+        "en": "Australia",
+        "ar": "أستراليا"
       },
       {
-        "en": "Eddie Van Halen",
-        "ar": "إيدي فان هيلين"
+        "en": "Canada",
+        "ar": "كندا"
       },
       {
-        "en": "Randy Rhoads",
-        "ar": "راندي رودز"
+        "en": "USA",
+        "ar": "أمريكا"
       },
       {
-        "en": "Yngwie Malmsteen",
-        "ar": "إينجوي مالمستين"
+        "en": "UK",
+        "ar": "بريطانيا"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Eddie Van Halen pioneered two-handed tapping technique, showcased in \"Eruption\".",
-    "explanation_ar": "إيدي فان هيلين ابتكر تقنية النقر بإيدين، وظهرت في أغنية \"Eruption\"."
+    "correctAnswer": 2,
+    "explanation_en": "Chappell Roan is an American pop singer.",
+    "explanation_ar": "تشابيل رون مطربة بوب أمريكية."
   },
   {
     "id": "MUS-200-043",
@@ -1265,7 +1265,7 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's 1988 hit \"Wana Baaraf\" marked one of the first uses of synthesizer-heavy production in mainstream Egyptian pop, ahead of Amr Diab's rise?",
+    "question_en": "Which Egyptian singer's 1988 hit marked one of the first uses of synthesizer-heavy production in mainstream Egyptian pop, ahead of Amr Diab's rise?",
     "question_ar": "أغنية سنة 1988 لأنهي مطرب مصري كانت من أوائل استخدامات إنتاج السينثسايزر الكثيف في البوب المصري السائد قبل صعود عمرو دياب؟",
     "options": [
       {
@@ -1273,19 +1273,19 @@
         "ar": "محمد فؤاد"
       },
       {
-        "en": "Hamid El Shaeri",
-        "ar": "حميد الشاعري"
-      },
-      {
         "en": "Ehab Tawfik",
         "ar": "إيهاب توفيق"
+      },
+      {
+        "en": "Hamid El Shaeri",
+        "ar": "حميد الشاعري"
       },
       {
         "en": "Hisham Abbas",
         "ar": "هشام عباس"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Hamid El Shaeri is widely credited with pioneering synth-heavy 'Al Jeel' pop production in Egypt in the 1980s.",
     "explanation_ar": "حميد الشاعري معروف بإدخاله إنتاج السينثسايزر في موسيقى الجيل المصرية في الثمانينات."
   },
@@ -1295,29 +1295,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US singer, part of the trio Crosby, Stills & Nash, was also a founding member of The Byrds before going solo/group career?",
-    "question_ar": "أنهي مطرب أمريكي، عضو في ثلاثي Crosby, Stills & Nash، كان كمان عضو مؤسس في فرقة The Byrds قبل مشواره الجماعي التاني؟",
+    "question_en": "Manuel Turizo, known for the global hit \"La Bachata\", is from which country?",
+    "question_ar": "مانويل توريزو، المعروف بأغنية \"La Bachata\" العالمية، من أنهي بلد؟",
     "options": [
       {
-        "en": "Graham Nash",
-        "ar": "جراهام ناش"
+        "en": "Puerto Rico",
+        "ar": "بورتوريكو"
       },
       {
-        "en": "David Crosby",
-        "ar": "ديفيد كروسبي"
+        "en": "Dominican Republic",
+        "ar": "جمهورية الدومينيكان"
       },
       {
-        "en": "Neil Young",
-        "ar": "نيل يانج"
+        "en": "Venezuela",
+        "ar": "فنزويلا"
       },
       {
-        "en": "Stephen Stills",
-        "ar": "ستيفن ستيلز"
+        "en": "Colombia",
+        "ar": "كولومبيا"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "David Crosby was a founding member of The Byrds before co-founding Crosby, Stills & Nash.",
-    "explanation_ar": "ديفيد كروسبي كان عضو مؤسس في فرقة The Byrds قبل ما يأسس Crosby, Stills & Nash."
+    "correctAnswer": 3,
+    "explanation_en": "Manuel Turizo is a Colombian singer.",
+    "explanation_ar": "مانويل توريزو مطرب كولومبي."
   },
   {
     "id": "MUS-200-045",
@@ -1325,29 +1325,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian female pop star was known in the early 2000s for high-production music videos shot internationally?",
-    "question_ar": "أنهي مطربة بوب مصرية اشتهرت في بداية الألفينات بفيديو كليبات إنتاج ضخم اتصورت في الخارج؟",
+    "question_en": "Dina El Wedidi has been involved with international collaborative projects promoting music from countries sharing which African river?",
+    "question_ar": "دينا الوديدي شاركت في مشاريع فنية عالمية بتحتفي بموسيقى دول بتشارك أنهي نهر أفريقي؟",
     "options": [
       {
-        "en": "Sherine",
-        "ar": "شيرين"
+        "en": "The Nile",
+        "ar": "نهر النيل"
       },
       {
-        "en": "Angham",
-        "ar": "أنغام"
+        "en": "The Niger River",
+        "ar": "نهر النيجر"
       },
       {
-        "en": "Ruby",
-        "ar": "روبي"
+        "en": "The Congo River",
+        "ar": "نهر الكونغو"
       },
       {
-        "en": "Donia Samir Ghanem",
-        "ar": "دنيا سمير غانم"
+        "en": "The Zambezi",
+        "ar": "نهر الزامبيزي"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Ruby's early-2000s videos were known for high-production, internationally-shot visuals that shaped the era's pop culture.",
-    "explanation_ar": "فيديو كليبات روبي في بداية الألفينات كانت معروفة بإنتاجها الكبير وتصويرها في الخارج."
+    "correctAnswer": 0,
+    "explanation_en": "Dina El Wedidi has participated in Nile Project initiatives celebrating music from Nile Basin countries.",
+    "explanation_ar": "دينا الوديدي شاركت في مبادرات مشروع النيل اللي بتحتفي بموسيقى دول حوض النيل."
   },
   {
     "id": "MUS-200-046",
@@ -1355,29 +1355,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US musician's 1975 album \"Born to Run\" featured the E Street Band and cemented his reputation as a heartland rock storyteller?",
-    "question_ar": "ألبوم أنهي فنان أمريكي سنة 1975 \"Born to Run\" مع فرقة E Street Band رسّخ سمعته كراوي قصص الروك الأمريكي؟",
+    "question_en": "BLACKPINK member Lisa, known for her solo hit \"Money\", is originally from which country?",
+    "question_ar": "ليسا، عضوة فرقة بلاك بينك، المعروفة بأغنيتها المنفردة \"Money\"، أصلها من أنهي بلد؟",
     "options": [
       {
-        "en": "Bob Seger",
-        "ar": "بوب سيجر"
+        "en": "Japan",
+        "ar": "اليابان"
       },
       {
-        "en": "Meat Loaf",
-        "ar": "ميت لوف"
+        "en": "Vietnam",
+        "ar": "فيتنام"
       },
       {
-        "en": "Tom Petty",
-        "ar": "توم بيتي"
+        "en": "Thailand",
+        "ar": "تايلاند"
       },
       {
-        "en": "Bruce Springsteen",
-        "ar": "بروس سبرينجستين"
+        "en": "South Korea",
+        "ar": "كوريا الجنوبية"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Bruce Springsteen's \"Born to Run\" (1975) with the E Street Band was a career-defining album.",
-    "explanation_ar": "ألبوم بروس سبرينجستين \"Born to Run\" (1975) مع فرقة E Street Band كان علامة فارقة في مشواره."
+    "correctAnswer": 2,
+    "explanation_en": "Lisa of BLACKPINK is originally from Thailand.",
+    "explanation_ar": "ليسا من بلاك بينك أصلها من تايلاند."
   },
   {
     "id": "MUS-200-047",
@@ -1385,29 +1385,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer performed the classic \"Amal Hayati\", composed by Riad El Sonbati?",
-    "question_ar": "أنهي مطربة مصرية غنت \"أمل حياتي\" الكلاسيكية، تلحين رياض السنباطي؟",
+    "question_en": "Which historic Cairo street was traditionally known as a hub for musicians, instrument makers, and performers?",
+    "question_ar": "أنهي شارع تاريخي في القاهرة كان معروف تقليديًا كمركز للموسيقيين وصناع الآلات والفنانين؟",
     "options": [
       {
-        "en": "Shadia",
-        "ar": "شادية"
+        "en": "Al-Muizz Street",
+        "ar": "شارع المعز"
       },
       {
-        "en": "Fayza Ahmed",
-        "ar": "فايزة أحمد"
+        "en": "Talaat Harb Street",
+        "ar": "شارع طلعت حرب"
       },
       {
-        "en": "Warda",
-        "ar": "وردة"
+        "en": "Mohamed Ali Street",
+        "ar": "شارع محمد علي"
       },
       {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
+        "en": "Qasr El Nil Street",
+        "ar": "شارع قصر النيل"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "\"Amal Hayati\", composed by Riad El Sonbati for Umm Kulthum, showcased her deep expressive vocal delivery.",
-    "explanation_ar": "\"أمل حياتي\"، تلحين رياض السنباطي لأم كلثوم، أظهرت أداءها الصوتي العميق."
+    "correctAnswer": 2,
+    "explanation_en": "Mohamed Ali Street in Cairo was historically the hub for musicians and instrument makers.",
+    "explanation_ar": "شارع محمد علي في القاهرة كان تاريخيًا مركز الموسيقيين وصناع الآلات."
   },
   {
     "id": "MUS-200-048",
@@ -1415,29 +1415,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US jazz trumpeter and singer, known as \"Satchmo\", was a defining figure of early jazz with the hit \"What a Wonderful World\"?",
-    "question_ar": "أنهي عازف ترومبيت ومطرب جاز أمريكي، ملقب بـ\"ساتشمو\"، كان من أهم رواد الجاز المبكر بأغنية \"What a Wonderful World\"؟",
+    "question_en": "Shakira's 2023 collaboration with Bizarrap, \"BZRP Music Sessions #53\", broke Spotify's record for the most streams in 24 hours for which type of song?",
+    "question_ar": "تعاون شاكيرا مع بيزارآب سنة 2023 \"BZRP Music Sessions #53\" كسر رقم سبوتيفاي القياسي لأكتر استماع في 24 ساعة لأنهي نوع أغنية؟",
     "options": [
       {
-        "en": "Duke Ellington",
-        "ar": "ديوك إلينجتون"
+        "en": "A K-pop song",
+        "ar": "أغنية كي بوب"
       },
       {
-        "en": "Dizzy Gillespie",
-        "ar": "ديزي جيليسبي"
+        "en": "An Arabic song",
+        "ar": "أغنية عربية"
       },
       {
-        "en": "Louis Armstrong",
-        "ar": "لويس أرمسترونج"
+        "en": "A Latin song",
+        "ar": "أغنية لاتينية"
       },
       {
-        "en": "Miles Davis",
-        "ar": "مايلز ديفيس"
+        "en": "A country song",
+        "ar": "أغنية كانتري"
       }
     ],
     "correctAnswer": 2,
-    "explanation_en": "Louis Armstrong, nicknamed \"Satchmo\", was a foundational jazz figure known for \"What a Wonderful World\".",
-    "explanation_ar": "لويس أرمسترونج، ملقب بساتشمو، كان من أهم رواد الجاز واشتهر بأغنية \"What a Wonderful World\"."
+    "explanation_en": "The Shakira-Bizarrap collaboration set a Spotify record for Latin song streams in 24 hours.",
+    "explanation_ar": "تعاون شاكيرا وبيزارآب كسر رقم سبوتيفاي القياسي لاستماع أغنية لاتينية في 24 ساعة."
   },
   {
     "id": "MUS-200-049",
@@ -1445,29 +1445,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which British-Australian band, formed by three Gibb brothers, dominated the disco era with the \"Saturday Night Fever\" soundtrack?",
-    "question_ar": "أنهي فرقة بريطانية-أسترالية، كونها ثلاث إخوة من عيلة جيب، سيطرت على عصر الديسكو بموسيقى فيلم \"Saturday Night Fever\"؟",
+    "question_en": "The word \"oud\" is believed to derive from the Arabic word meaning ___, referring to the wood used in the instrument?",
+    "question_ar": "كلمة \"عود\" بيُعتقد إنها جايه من الكلمة العربية اللي معناها ___، في إشارة للخشب المستخدم في الآلة؟",
     "options": [
       {
-        "en": "Kool & the Gang",
-        "ar": "كول آند ذا جانج"
+        "en": "Voice",
+        "ar": "صوت"
       },
       {
-        "en": "Earth, Wind & Fire",
-        "ar": "إيرث ويند آند فاير"
+        "en": "Music",
+        "ar": "موسيقى"
       },
       {
-        "en": "Chic",
-        "ar": "شيك"
+        "en": "String",
+        "ar": "وتر"
       },
       {
-        "en": "Bee Gees",
-        "ar": "بي جيز"
+        "en": "Wood/flexible rod",
+        "ar": "خشب/عصا مرنة"
       }
     ],
     "correctAnswer": 3,
-    "explanation_en": "The Bee Gees, formed by the three Gibb brothers, dominated disco with \"Saturday Night Fever\".",
-    "explanation_ar": "فرقة بي جيز، اللي كونها إخوة جيب التلاتة، سيطرت على الديسكو بموسيقى \"Saturday Night Fever\"."
+    "explanation_en": "\"Oud\" is believed to derive from the Arabic word for wood, referencing the instrument's wooden construction.",
+    "explanation_ar": "\"عود\" بيُعتقد إنها من كلمة \"عود\" العربية اللي معناها خشب، في إشارة لتصنيع الآلة من الخشب."
   },
   {
     "id": "MUS-200-050",
@@ -1475,28 +1475,28 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US singer-songwriter's 1972 album \"Harvest\" produced his only US number-one single, \"Heart of Gold\"?",
-    "question_ar": "ألبوم أنهي فنان أمريكي-كندي سنة 1972 \"Harvest\" فيه أغنيته الوحيدة اللي وصلت لرقم 1 في أمريكا \"Heart of Gold\"؟",
+    "question_en": "Amr Diab is widely regarded in Arabic music history as ___?",
+    "question_ar": "عمرو دياب بيتوصف غالبًا في تاريخ الموسيقى العربية بإنه ___؟",
     "options": [
       {
-        "en": "Neil Young",
-        "ar": "نيل يانج"
+        "en": "The best-selling Arabic-language singer ever",
+        "ar": "المطرب الناطق بالعربي الأكتر مبيعًا في التاريخ"
       },
       {
-        "en": "James Taylor",
-        "ar": "جيمس تايلور"
+        "en": "The first Egyptian Grammy winner",
+        "ar": "أول مصري ياخد جرامي"
       },
       {
-        "en": "Gordon Lightfoot",
-        "ar": "جوردون لايتفوت"
+        "en": "The only Egyptian in the Rock and Roll Hall of Fame",
+        "ar": "المصري الوحيد في قاعة مشاهير الروك آند رول"
       },
       {
-        "en": "Jackson Browne",
-        "ar": "جاكسون براون"
+        "en": "The youngest Arab singer ever signed",
+        "ar": "أصغر مطرب عربي يتوقع عقد"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Neil Young's \"Heart of Gold\", from the album \"Harvest\", was his only US #1 single.",
-    "explanation_ar": "أغنية نيل يانج \"Heart of Gold\"، من ألبوم \"Harvest\"، كانت أغنيته الوحيدة اللي وصلت لرقم 1 في أمريكا."
+    "explanation_en": "Amr Diab is widely regarded as the best-selling Arabic-language singer in history.",
+    "explanation_ar": "عمرو دياب بيتعتبر غالبًا المطرب الناطق بالعربي الأكتر مبيعًا في التاريخ."
   }
 ]

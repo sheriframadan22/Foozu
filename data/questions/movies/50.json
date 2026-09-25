@@ -149,8 +149,8 @@
     "category_ar": "افلام",
     "value": 50,
     "difficulty": 3,
-    "question_en": "The ensemble hit \"El Kenz\" (The Treasure) was released to theaters as how many connected films in 2019?",
-    "question_ar": "فيلم \"الكنز\" الجماعي اتعرض في السينما كام جزء متصل سنة 2019؟",
+    "question_en": "The ensemble hit \"El Kenz\" (The Treasure) was released to theaters as how many connected films (2017 and 2019)?",
+    "question_ar": "فيلم \"الكنز\" الجماعي اتعرض في السينما كام جزء متصل (سنة 2017 و2019)؟",
     "options": [
       { "en": "Two parts", "ar": "جزئين" },
       { "en": "One long film only", "ar": "جزء واحد بس" },
@@ -158,8 +158,8 @@
       { "en": "Four parts", "ar": "أربع أجزاء" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"El Kenz\" was released as two connected parts in 2019.",
-    "explanation_ar": "فيلم الكنز اتعرض كجزئين متصلين سنة 2019."
+    "explanation_en": "\"El Kenz\" was released as two connected parts, in 2017 and 2019.",
+    "explanation_ar": "فيلم الكنز اتعرض كجزئين متصلين، سنة 2017 وسنة 2019."
   },
   {
     "id": "MOV-050-010",
@@ -221,8 +221,8 @@
     "category_ar": "افلام",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Karim Abdel Aziz and Mona Zaki co-starred as young lovers in which career-launching 2001 romantic comedy?",
-    "question_ar": "كريم عبدالعزيز ومنى زكي مثلوا مع بعض دور حبايب شباب في إيه فيلم رومانسي كوميدي سنة 2001 فتحلهم الطريق؟",
+    "question_en": "Ahmed El Sakka and Mona Zaki co-starred as young leads in which acclaimed 2001 adventure comedy?",
+    "question_ar": "أحمد السقا ومنى زكي مثلوا مع بعض بطولة شباب في إيه فيلم مغامرات كوميدي سنة 2001 لاقى نجاح كبير؟",
     "options": [
       { "en": "Africano", "ar": "أفريكانو" },
       { "en": "Omar 2000", "ar": "عمر 2000" },
@@ -230,8 +230,8 @@
       { "en": "Kaboria", "ar": "كابوريا" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"Africano\" (2001) launched Karim Abdel Aziz and Mona Zaki as a leading on-screen pair.",
-    "explanation_ar": "فيلم أفريكانو سنة 2001 فتح الطريق لكريم عبدالعزيز ومنى زكي كثنائي شاشة ناجح."
+    "explanation_en": "\"Africano\" (2001) starred Ahmed El Sakka and Mona Zaki and was a big hit.",
+    "explanation_ar": "فيلم أفريكانو سنة 2001 بطولة أحمد السقا ومنى زكي ولاقى نجاح كبير."
   },
   {
     "id": "MOV-050-014",
@@ -275,17 +275,17 @@
     "category_ar": "افلام",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Who directed Mohamed Ramadan's action hit \"Kalb Asad\" (2020)?",
-    "question_ar": "مين اللي أخرج فيلم محمد رمضان \"كلب أسد\" سنة 2020؟",
+    "question_en": "Who directed Mohamed Ramadan's action hit \"Qalb El-Asad\" (2013)?",
+    "question_ar": "مين اللي أخرج فيلم محمد رمضان \"قلب الأسد\" سنة 2013؟",
     "options": [
-      { "en": "Karim El Shenawy", "ar": "كريم الشناوي" },
+      { "en": "Karim El Sobky", "ar": "كريم السبكي" },
       { "en": "Peter Mimi", "ar": "بيتر ميمي" },
       { "en": "Sherif Arafa", "ar": "شريف عرفة" },
       { "en": "Marwan Hamed", "ar": "مروان حامد" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Karim El Shenawy directed \"Kalb Asad\" (2020).",
-    "explanation_ar": "كريم الشناوي أخرج فيلم كلب أسد سنة 2020."
+    "explanation_en": "Karim El Sobky directed \"Qalb El-Asad\" (2013).",
+    "explanation_ar": "كريم السبكي أخرج فيلم قلب الأسد سنة 2013."
   },
   {
     "id": "MOV-050-017",
@@ -293,17 +293,17 @@
     "category_ar": "افلام",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Who directed Mohamed Ramadan's hit \"El-Ostoura\" (The Legend, 2014)?",
-    "question_ar": "مين اللي أخرج فيلم محمد رمضان \"الأسطورة\" سنة 2014؟",
+    "question_en": "Who directed Mohamed Ramadan's breakout hit \"Abdo Mota\" (2012)?",
+    "question_ar": "مين اللي أخرج فيلم محمد رمضان \"عبده موتة\" سنة 2012 اللي فتحله الطريق؟",
     "options": [
-      { "en": "Peter Mimi", "ar": "بيتر ميمي" },
-      { "en": "Karim El Shenawy", "ar": "كريم الشناوي" },
+      { "en": "Ismail Farouk", "ar": "إسماعيل فاروق" },
+      { "en": "Karim El Sobky", "ar": "كريم السبكي" },
       { "en": "Sandra Nashaat", "ar": "ساندرا نشأت" },
       { "en": "Ahmed Nader Galal", "ar": "أحمد نادر جلال" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Peter Mimi directed \"El-Ostoura\" (2014).",
-    "explanation_ar": "بيتر ميمي أخرج فيلم الأسطورة سنة 2014."
+    "explanation_en": "Ismail Farouk directed \"Abdo Mota\" (2012).",
+    "explanation_ar": "إسماعيل فاروق أخرج فيلم عبده موتة سنة 2012."
   },
   {
     "id": "MOV-050-018",
@@ -311,8 +311,8 @@
     "category_ar": "افلام",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Who directed \"Halawet Rooh\" (2014), starring Tamer Hosny and Haifa Wehbe?",
-    "question_ar": "مين اللي أخرج فيلم \"حلاوة روح\" سنة 2014 بطولة تامر حسني وهيفاء وهبي؟",
+    "question_en": "Who directed \"Halawet Rooh\" (2014), starring Haifa Wehbe?",
+    "question_ar": "مين اللي أخرج فيلم \"حلاوة روح\" سنة 2014 بطولة هيفاء وهبي؟",
     "options": [
       { "en": "Sameh Abdel Aziz", "ar": "سامح عبدالعزيز" },
       { "en": "Wael Ehsan", "ar": "وائل إحسان" },
@@ -332,14 +332,14 @@
     "question_en": "Who directed the kung-fu spoof comedy \"Zaki Chan\" (2005), starring Ahmed Helmy?",
     "question_ar": "مين اللي أخرج فيلم \"زكي شان\" سنة 2005 بطولة أحمد حلمي؟",
     "options": [
-      { "en": "Ahmed Nader Galal", "ar": "أحمد نادر جلال" },
+      { "en": "Wael Ehsan", "ar": "وائل إحسان" },
       { "en": "Sherif Arafa", "ar": "شريف عرفة" },
       { "en": "Sandra Nashaat", "ar": "ساندرا نشأت" },
-      { "en": "Wael Ehsan", "ar": "وائل إحسان" }
+      { "en": "Ahmed Nader Galal", "ar": "أحمد نادر جلال" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Ahmed Nader Galal directed \"Zaki Chan\" (2005).",
-    "explanation_ar": "أحمد نادر جلال أخرج فيلم زكي شان سنة 2005."
+    "explanation_en": "Wael Ehsan directed \"Zaki Chan\" (2005).",
+    "explanation_ar": "وائل إحسان أخرج فيلم زكي شان سنة 2005."
   },
   {
     "id": "MOV-050-020",
@@ -347,17 +347,17 @@
     "category_ar": "افلام",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Who directed the Henedy comedy hit \"El Nazer\" (2000)?",
-    "question_ar": "مين اللي أخرج فيلم هنيدي الكوميدي \"الناظر\" سنة 2000؟",
+    "question_en": "Who directed the comedy hit \"El Nazer\" (2000), starring Ahmed Helmy and Mohamed Saad?",
+    "question_ar": "مين اللي أخرج فيلم \"الناظر\" الكوميدي سنة 2000 بطولة أحمد حلمي ومحمد سعد؟",
     "options": [
-      { "en": "Sandra Nashaat", "ar": "ساندرا نشأت" },
       { "en": "Sherif Arafa", "ar": "شريف عرفة" },
+      { "en": "Sandra Nashaat", "ar": "ساندرا نشأت" },
       { "en": "Ahmed Nader Galal", "ar": "أحمد نادر جلال" },
       { "en": "Marwan Hamed", "ar": "مروان حامد" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Sandra Nashaat directed \"El Nazer\" (2000).",
-    "explanation_ar": "ساندرا نشأت أخرجت فيلم الناظر سنة 2000."
+    "explanation_en": "Sherif Arafa directed \"El Nazer\" (2000).",
+    "explanation_ar": "شريف عرفة أخرج فيلم الناظر سنة 2000."
   },
   {
     "id": "MOV-050-021",
@@ -383,17 +383,17 @@
     "category_ar": "افلام",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which actress stars as the female lead alongside the comedy trio in \"Awlad Rizk\" (Sons of Rizk)?",
-    "question_ar": "مين النجمة اللي مثلت البطولة النسائية مع التلاتي الكوميدي في فيلم \"أولاد رزق\"؟",
+    "question_en": "\"Awlad Rizk\" (Sons of Rizk, 2015) follows four brothers played by Ahmed Ezz, Amr Youssef, Ahmed Dawood and which other actor?",
+    "question_ar": "فيلم \"أولاد رزق\" سنة 2015 بيحكي عن أربع إخوة بيمثلهم أحمد عز وعمرو يوسف وأحمد داوود ومين كمان؟",
     "options": [
-      { "en": "Amina Khalil", "ar": "أمينة خليل" },
-      { "en": "Menna Shalaby", "ar": "منة شلبي" },
-      { "en": "Yasmin Raeis", "ar": "ياسمين رئيس" },
-      { "en": "Nelly Karim", "ar": "نيللي كريم" }
+      { "en": "Ahmed El-Fishawy", "ar": "أحمد الفيشاوي" },
+      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" },
+      { "en": "Amr Saad", "ar": "عمرو سعد" },
+      { "en": "Khaled El Sawy", "ar": "خالد الصاوي" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Amina Khalil stars alongside the comedy trio in \"Awlad Rizk\" (Sons of Rizk).",
-    "explanation_ar": "أمينة خليل مثلت البطولة النسائية مع التلاتي الكوميدي في فيلم أولاد رزق."
+    "explanation_en": "Ahmed El-Fishawy plays one of the four Rizk brothers alongside Ahmed Ezz, Amr Youssef and Ahmed Dawood.",
+    "explanation_ar": "أحمد الفيشاوي بيمثل واحد من إخوة رزق الأربعة مع أحمد عز وعمرو يوسف وأحمد داوود."
   },
   {
     "id": "MOV-050-023",

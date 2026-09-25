@@ -8,12 +8,24 @@
     "question_en": "Umm Kulthum's real full birth name was Fatma Ibrahim El-Sayed El-Beltagi. In which Egyptian governorate was she born?",
     "question_ar": "أم كلثوم اسمها الحقيقي فاطمة إبراهيم السيد البلتاجي، اتولدت في أنهي محافظة مصرية؟",
     "options": [
-      { "en": "Daqahliya", "ar": "الدقهلية" },
-      { "en": "Gharbiya", "ar": "الغربية" },
-      { "en": "Beheira", "ar": "البحيرة" },
-      { "en": "Sharqiya", "ar": "الشرقية" }
+      {
+        "en": "Gharbiya",
+        "ar": "الغربية"
+      },
+      {
+        "en": "Daqahliya",
+        "ar": "الدقهلية"
+      },
+      {
+        "en": "Sharqiya",
+        "ar": "الشرقية"
+      },
+      {
+        "en": "Beheira",
+        "ar": "البحيرة"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Umm Kulthum was born in the village of Tammay El-Zahayra in Daqahliya governorate.",
     "explanation_ar": "أم كلثوم اتولدت في قرية طماي الزهايرة بمحافظة الدقهلية."
   },
@@ -26,10 +38,22 @@
     "question_en": "Early in his career, Marwan Pablo was known for hiding which part of his identity from the public?",
     "question_ar": "في بداية مشواره، مروان بابلو كان معروف بإخفاء إيه عن الجمهور؟",
     "options": [
-      { "en": "His face/identity", "ar": "وشه/هويته" },
-      { "en": "His voice", "ar": "صوته" },
-      { "en": "His nationality", "ar": "جنسيته" },
-      { "en": "His age", "ar": "سنه" }
+      {
+        "en": "His face/identity",
+        "ar": "وشه/هويته"
+      },
+      {
+        "en": "His nationality",
+        "ar": "جنسيته"
+      },
+      {
+        "en": "His voice",
+        "ar": "صوته"
+      },
+      {
+        "en": "His age",
+        "ar": "سنه"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Marwan Pablo kept his identity and face largely hidden in his early career.",
@@ -44,12 +68,24 @@
     "question_en": "Wegz's breakout song \"Assa7bi\" first went viral after being uploaded to which platform?",
     "question_ar": "أغنية ويجز \"الصح بي\" بقت فيروسية الأول لما اتنزلت على أنهي منصة؟",
     "options": [
-      { "en": "SoundCloud", "ar": "ساوند كلاود" },
-      { "en": "Spotify", "ar": "سبوتيفاي" },
-      { "en": "TikTok", "ar": "تيك توك" },
-      { "en": "YouTube", "ar": "يوتيوب" }
+      {
+        "en": "TikTok",
+        "ar": "تيك توك"
+      },
+      {
+        "en": "SoundCloud",
+        "ar": "ساوند كلاود"
+      },
+      {
+        "en": "Spotify",
+        "ar": "سبوتيفاي"
+      },
+      {
+        "en": "YouTube",
+        "ar": "يوتيوب"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "\"Assa7bi\" first gained traction after being uploaded to SoundCloud.",
     "explanation_ar": "\"الصح بي\" بدأت تنتشر بعد ما اتنزلت على ساوند كلاود."
   },
@@ -62,12 +98,24 @@
     "question_en": "Central Cee's real name is ___?",
     "question_ar": "الاسم الحقيقي لسنترال سي هو ___؟",
     "options": [
-      { "en": "Oakley Caesar-Su", "ar": "أوكلي سيزر-سو" },
-      { "en": "Dave Orobosa Omoregie", "ar": "ديف أوروبوسا أوموريجي" },
-      { "en": "Krept Casyo Johnson", "ar": "كريبت كاسيو جونسون" },
-      { "en": "Konan Maynard", "ar": "كونان ماينارد" }
+      {
+        "en": "Dave Orobosa Omoregie",
+        "ar": "ديف أوروبوسا أوموريجي"
+      },
+      {
+        "en": "Oakley Caesar-Su",
+        "ar": "أوكلي سيزر-سو"
+      },
+      {
+        "en": "Konan Maynard",
+        "ar": "كونان ماينارد"
+      },
+      {
+        "en": "Krept Casyo Johnson",
+        "ar": "كريبت كاسيو جونسون"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Central Cee's real name is Oakley Caesar-Su.",
     "explanation_ar": "الاسم الحقيقي لسنترال سي هو أوكلي سيزر-سو."
   },
@@ -80,12 +128,24 @@
     "question_en": "Which Egyptian singer, a contemporary rival of Umm Kulthum and famous for the song \"Gafnou El Alil\", passed away in 1974?",
     "question_ar": "أنهي مطرب مصري، كان منافس لأم كلثوم في وقتها، اشتهر بأغنية \"جفنه علم الغزل\" وتوفي سنة 1974؟",
     "options": [
-      { "en": "Karem Mahmoud", "ar": "كارم محمود" },
-      { "en": "Farid El Atrache", "ar": "فريد الأطرش" },
-      { "en": "Mohamed Fawzi", "ar": "محمد فوزي" },
-      { "en": "Abdel Halim Hafez", "ar": "عبد الحليم حافظ" }
+      {
+        "en": "Farid El Atrache",
+        "ar": "فريد الأطرش"
+      },
+      {
+        "en": "Mohamed Fawzi",
+        "ar": "محمد فوزي"
+      },
+      {
+        "en": "Abdel Halim Hafez",
+        "ar": "عبد الحليم حافظ"
+      },
+      {
+        "en": "Karem Mahmoud",
+        "ar": "كارم محمود"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Farid El Atrache, known for \"Gafnou El Alil\", passed away in 1974.",
     "explanation_ar": "فريد الأطرش، صاحب أغنية \"جفنه علم الغزل\"، توفي سنة 1974."
   },
@@ -98,12 +158,24 @@
     "question_en": "Hamada Helal's wedding-favorite hits include both \"Aa Bali Habibi\" and which other song?",
     "question_ar": "من أغاني حماده هلال المفضلة في الأفراح \"ع بالي حبيبي\" وكمان ___؟",
     "options": [
-      { "en": "Aa Wesh El Bahr", "ar": "ع وش البحر" },
-      { "en": "Ya Ya", "ar": "يا يا" },
-      { "en": "Insan", "ar": "إنسان" },
-      { "en": "Assa7bi", "ar": "الصح بي" }
+      {
+        "en": "Ya Ya",
+        "ar": "يا يا"
+      },
+      {
+        "en": "Assa7bi",
+        "ar": "الصح بي"
+      },
+      {
+        "en": "Aa Wesh El Bahr",
+        "ar": "ع وش البحر"
+      },
+      {
+        "en": "Insan",
+        "ar": "إنسان"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Hamada Helal is known for both \"Aa Bali Habibi\" and \"Aa Wesh El Bahr\".",
     "explanation_ar": "حماده هلال معروف بأغنيتي \"ع بالي حبيبي\" و\"ع وش البحر\"."
   },
@@ -116,12 +188,24 @@
     "question_en": "PinkPantheress, known for the viral hit \"Boy's a Liar\", is originally from which country?",
     "question_ar": "بينك بانثيريس، معروفة بأغنية \"Boy's a Liar\" الفيروسية، من أنهي بلد؟",
     "options": [
-      { "en": "UK", "ar": "بريطانيا" },
-      { "en": "USA", "ar": "أمريكا" },
-      { "en": "Ireland", "ar": "أيرلندا" },
-      { "en": "Australia", "ar": "أستراليا" }
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      },
+      {
+        "en": "USA",
+        "ar": "أمريكا"
+      },
+      {
+        "en": "Ireland",
+        "ar": "أيرلندا"
+      },
+      {
+        "en": "UK",
+        "ar": "بريطانيا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "PinkPantheress is a British singer known for blending pop with UK garage/drum and bass.",
     "explanation_ar": "بينك بانثيريس مطربة بريطانية معروفة بمزج البوب بالجاراج/الدرام آند بيس."
   },
@@ -134,12 +218,24 @@
     "question_en": "Rema's real name is ___?",
     "question_ar": "الاسم الحقيقي لريما هو ___؟",
     "options": [
-      { "en": "Divine Ikubor", "ar": "ديفاين إيكوبور" },
-      { "en": "Damini Ogulu", "ar": "داميني أوجولو" },
-      { "en": "Ayodeji Balogun", "ar": "أيوديجي بالوجن" },
-      { "en": "David Adeleke", "ar": "ديفيد أديليكي" }
+      {
+        "en": "Ayodeji Balogun",
+        "ar": "أيوديجي بالوجن"
+      },
+      {
+        "en": "Damini Ogulu",
+        "ar": "داميني أوجولو"
+      },
+      {
+        "en": "David Adeleke",
+        "ar": "ديفيد أديليكي"
+      },
+      {
+        "en": "Divine Ikubor",
+        "ar": "ديفاين إيكوبور"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Rema's real name is Divine Ikubor.",
     "explanation_ar": "الاسم الحقيقي لريما هو ديفاين إيكوبور."
   },
@@ -152,10 +248,22 @@
     "question_en": "Karol G's real name is ___?",
     "question_ar": "الاسم الحقيقي لكارول جي هو ___؟",
     "options": [
-      { "en": "Carolina Giraldo Navarro", "ar": "كارولينا جيرالدو نافارو" },
-      { "en": "Belinda Peregrin", "ar": "بليندا بيريجرين" },
-      { "en": "Natti Natasha", "ar": "ناتي ناتاشا" },
-      { "en": "Becky G", "ar": "بيكي جي" }
+      {
+        "en": "Carolina Giraldo Navarro",
+        "ar": "كارولينا جيرالدو نافارو"
+      },
+      {
+        "en": "Natti Natasha",
+        "ar": "ناتي ناتاشا"
+      },
+      {
+        "en": "Becky G",
+        "ar": "بيكي جي"
+      },
+      {
+        "en": "Belinda Peregrin",
+        "ar": "بليندا بيريجرين"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Karol G's real name is Carolina Giraldo Navarro.",
@@ -170,10 +278,22 @@
     "question_en": "Which Egyptian-Syrian singer, a rival to Umm Kulthum, died in a mysterious car accident in the Nile in 1944, sparking espionage rumors for decades?",
     "question_ar": "أنهي مطربة سورية-مصرية، كانت منافسة لأم كلثوم، ماتت في حادثة غامضة في مياه النيل سنة 1944 وأثارت شائعات تجسس لعقود؟",
     "options": [
-      { "en": "Naima Akef", "ar": "نعيمة عاكف" },
-      { "en": "Asmahan", "ar": "أسمهان" },
-      { "en": "Shadia", "ar": "شادية" },
-      { "en": "Nagat El Saghira", "ar": "نجاة الصغيرة" }
+      {
+        "en": "Naima Akef",
+        "ar": "نعيمة عاكف"
+      },
+      {
+        "en": "Asmahan",
+        "ar": "أسمهان"
+      },
+      {
+        "en": "Shadia",
+        "ar": "شادية"
+      },
+      {
+        "en": "Nagat El Saghira",
+        "ar": "نجاة الصغيرة"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Asmahan died in a car accident in 1944 under mysterious circumstances that sparked long-running espionage rumors.",
@@ -188,12 +308,24 @@
     "question_en": "Mohamed Ramadan built part of his global fame through a flashy persona centered on which repeated catchphrase/branding?",
     "question_ar": "محمد رمضان بنى جزء من شهرته العالمية على شخصية استعراضية مرتبطة بأنهي شعار متكرر؟",
     "options": [
-      { "en": "Number One", "ar": "نمبر وان" },
-      { "en": "El Hadaba", "ar": "الهضبة" },
-      { "en": "El King", "ar": "الكينج" },
-      { "en": "El Kabtin", "ar": "الكابتن" }
+      {
+        "en": "El Hadaba",
+        "ar": "الهضبة"
+      },
+      {
+        "en": "El Kabtin",
+        "ar": "الكابتن"
+      },
+      {
+        "en": "El King",
+        "ar": "الكينج"
+      },
+      {
+        "en": "Number One",
+        "ar": "نمبر وان"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Mohamed Ramadan is closely associated with his \"Number One\" branding and persona.",
     "explanation_ar": "محمد رمضان مرتبط بشكل كبير بشخصية وشعار \"نمبر وان\"."
   },
@@ -206,12 +338,24 @@
     "question_en": "Burna Boy's real name is ___?",
     "question_ar": "الاسم الحقيقي لبيرنا بوي هو ___؟",
     "options": [
-      { "en": "Damini Ebunoluwa Ogulu", "ar": "داميني إيبونولوا أوجولو" },
-      { "en": "Divine Ikubor", "ar": "ديفاين إيكوبور" },
-      { "en": "Ayodeji Balogun", "ar": "أيوديجي بالوجن" },
-      { "en": "Folarin Falana", "ar": "فولارين فالانا" }
+      {
+        "en": "Folarin Falana",
+        "ar": "فولارين فالانا"
+      },
+      {
+        "en": "Damini Ebunoluwa Ogulu",
+        "ar": "داميني إيبونولوا أوجولو"
+      },
+      {
+        "en": "Ayodeji Balogun",
+        "ar": "أيوديجي بالوجن"
+      },
+      {
+        "en": "Divine Ikubor",
+        "ar": "ديفاين إيكوبور"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Burna Boy's real name is Damini Ebunoluwa Ogulu.",
     "explanation_ar": "الاسم الحقيقي لبيرنا بوي هو داميني إيبونولوا أوجولو."
   },
@@ -224,12 +368,24 @@
     "question_en": "SZA's real name is ___?",
     "question_ar": "الاسم الحقيقي لـSZA هو ___؟",
     "options": [
-      { "en": "Solána Imani Rowe", "ar": "سولانا إيماني راو" },
-      { "en": "Sasha Denai", "ar": "ساشا ديناي" },
-      { "en": "Kehlani Parrish", "ar": "كيهلاني باريش" },
-      { "en": "Jhené Aiko", "ar": "جيني أيكو" }
+      {
+        "en": "Sasha Denai",
+        "ar": "ساشا ديناي"
+      },
+      {
+        "en": "Kehlani Parrish",
+        "ar": "كيهلاني باريش"
+      },
+      {
+        "en": "Solána Imani Rowe",
+        "ar": "سولانا إيماني راو"
+      },
+      {
+        "en": "Jhené Aiko",
+        "ar": "جيني أيكو"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "SZA's real name is Solána Imani Rowe.",
     "explanation_ar": "الاسم الحقيقي لـSZA هو سولانا إيماني راو."
   },
@@ -242,12 +398,24 @@
     "question_en": "The traditional small ensemble of oud, qanun, nay, violin and percussion in classical Arabic music is called a ___?",
     "question_ar": "التخت الموسيقي التقليدي المكون من عود وقانون وناي وكمان وإيقاع بيتسمى ___؟",
     "options": [
-      { "en": "Takht", "ar": "تخت" },
-      { "en": "Firqa", "ar": "فرقة" },
-      { "en": "Maqam", "ar": "مقام" },
-      { "en": "Sama'i", "ar": "سماعي" }
+      {
+        "en": "Maqam",
+        "ar": "مقام"
+      },
+      {
+        "en": "Firqa",
+        "ar": "فرقة"
+      },
+      {
+        "en": "Sama'i",
+        "ar": "سماعي"
+      },
+      {
+        "en": "Takht",
+        "ar": "تخت"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "A \"takht\" is the traditional small ensemble central to classical Arabic music.",
     "explanation_ar": "التخت هو الفرقة الموسيقية التقليدية الصغيرة الأساسية في الموسيقى العربية الكلاسيكية."
   },
@@ -260,12 +428,24 @@
     "question_en": "Feid's real name is ___?",
     "question_ar": "الاسم الحقيقي لفيد هو ___؟",
     "options": [
-      { "en": "Salomón Villada Hoyos", "ar": "سالومون فيادا هويوس" },
-      { "en": "Anuel AA", "ar": "أنويل إيه إيه" },
-      { "en": "Ozuna", "ar": "أوزونا" },
-      { "en": "J Balvin", "ar": "جي بالفين" }
+      {
+        "en": "Anuel AA",
+        "ar": "أنويل إيه إيه"
+      },
+      {
+        "en": "Salomón Villada Hoyos",
+        "ar": "سالومون فيادا هويوس"
+      },
+      {
+        "en": "Ozuna",
+        "ar": "أوزونا"
+      },
+      {
+        "en": "J Balvin",
+        "ar": "جي بالفين"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Feid's real name is Salomón Villada Hoyos.",
     "explanation_ar": "الاسم الحقيقي لفيد هو سالومون فيادا هويوس."
   },
@@ -278,10 +458,22 @@
     "question_en": "Anitta's real name is ___?",
     "question_ar": "الاسم الحقيقي لأنيتا هو ___؟",
     "options": [
-      { "en": "Larissa de Macedo Machado", "ar": "لاريسا دي ماسيدو ماتشادو" },
-      { "en": "Giselle Bündchen", "ar": "جيزيل بوندشين" },
-      { "en": "Ivete Sangalo", "ar": "إيفيتي سانجالو" },
-      { "en": "Anitta Ferreira", "ar": "أنيتا فيريرا" }
+      {
+        "en": "Larissa de Macedo Machado",
+        "ar": "لاريسا دي ماسيدو ماتشادو"
+      },
+      {
+        "en": "Anitta Ferreira",
+        "ar": "أنيتا فيريرا"
+      },
+      {
+        "en": "Ivete Sangalo",
+        "ar": "إيفيتي سانجالو"
+      },
+      {
+        "en": "Giselle Bündchen",
+        "ar": "جيزيل بوندشين"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Anitta's real name is Larissa de Macedo Machado.",
@@ -296,12 +488,24 @@
     "question_en": "Mahraganat music originated in the late 2000s primarily from working-class neighborhoods of which Egyptian city?",
     "question_ar": "موسيقى المهرجانات ظهرت أواخر الألفينات أساسًا من أحياء شعبية في أنهي مدينة مصرية؟",
     "options": [
-      { "en": "Cairo", "ar": "القاهرة" },
-      { "en": "Alexandria", "ar": "الإسكندرية" },
-      { "en": "Aswan", "ar": "أسوان" },
-      { "en": "Luxor", "ar": "الأقصر" }
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Mahraganat emerged from working-class Cairo neighborhoods in the late 2000s.",
     "explanation_ar": "المهرجانات ظهرت من أحياء شعبية في القاهرة أواخر الألفينات."
   },
@@ -314,12 +518,24 @@
     "question_en": "Which veteran Lebanese singer, often called the \"Voice of Lebanon\", built a legendary folk-rooted career independent of Fairuz?",
     "question_ar": "أنهي مطرب لبناني قديم، معروف بلقب \"صوت لبنان\"، بنى مشوار فلكلوري أسطوري بعيدًا عن فيروز؟",
     "options": [
-      { "en": "Sabah", "ar": "صباح" },
-      { "en": "Wadih El Safi", "ar": "وديع الصافي" },
-      { "en": "Melhem Barakat", "ar": "ملحم بركات" },
-      { "en": "Ragheb Alama", "ar": "راغب علامة" }
+      {
+        "en": "Wadih El Safi",
+        "ar": "وديع الصافي"
+      },
+      {
+        "en": "Sabah",
+        "ar": "صباح"
+      },
+      {
+        "en": "Melhem Barakat",
+        "ar": "ملحم بركات"
+      },
+      {
+        "en": "Ragheb Alama",
+        "ar": "راغب علامة"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Wadih El Safi, nicknamed the \"Voice of Lebanon\", was a towering figure in Lebanese song, independent of Fairuz's circle.",
     "explanation_ar": "وديع الصافي، ملقب بـ\"صوت لبنان\"، كان من أعمدة الغناء اللبناني، بعيدًا عن دائرة فيروز."
   },
@@ -332,12 +548,24 @@
     "question_en": "Ice Spice's real name is ___?",
     "question_ar": "الاسم الحقيقي لآيس سبايس هو ___؟",
     "options": [
-      { "en": "Isis Naija Gaston", "ar": "آيسيس نايجا جاستون" },
-      { "en": "Destiny Frasqueri", "ar": "ديستني فراسكيري" },
-      { "en": "Coi Leray", "ar": "كوي ليراي" },
-      { "en": "Latto", "ar": "لاتو" }
+      {
+        "en": "Coi Leray",
+        "ar": "كوي ليراي"
+      },
+      {
+        "en": "Isis Naija Gaston",
+        "ar": "آيسيس نايجا جاستون"
+      },
+      {
+        "en": "Latto",
+        "ar": "لاتو"
+      },
+      {
+        "en": "Destiny Frasqueri",
+        "ar": "ديستني فراسكيري"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Ice Spice's real name is Isis Naija Gaston.",
     "explanation_ar": "الاسم الحقيقي لآيس سبايس هو آيسيس نايجا جاستون."
   },
@@ -350,12 +578,24 @@
     "question_en": "Which Egyptian singer known for \"Aeesh W Meen\" was a major voice of 1950s-60s cinema musicals and later became a respected film actress?",
     "question_ar": "أنهي مطربة مصرية اشتهرت بأغاني السينما الغنائية في الخمسينات والستينات وبعدين بقت ممثلة سينمائية محترمة؟",
     "options": [
-      { "en": "Soad Hosny", "ar": "سعاد حسني" },
-      { "en": "Shadia", "ar": "شادية" },
-      { "en": "Naima Akef", "ar": "نعيمة عاكف" },
-      { "en": "Faten Hamama", "ar": "فاتن حمامة" }
+      {
+        "en": "Faten Hamama",
+        "ar": "فاتن حمامة"
+      },
+      {
+        "en": "Naima Akef",
+        "ar": "نعيمة عاكف"
+      },
+      {
+        "en": "Soad Hosny",
+        "ar": "سعاد حسني"
+      },
+      {
+        "en": "Shadia",
+        "ar": "شادية"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Shadia was a major singing and acting star of Egyptian cinema's golden era.",
     "explanation_ar": "شادية كانت نجمة غناء وتمثيل كبيرة في العصر الذهبي للسينما المصرية."
   },
@@ -368,12 +608,24 @@
     "question_en": "Mohamed Mounir, known for his Nubian heritage, was born in which Egyptian city?",
     "question_ar": "محمد منير، المعروف بأصوله النوبية، اتولد في أنهي مدينة مصرية؟",
     "options": [
-      { "en": "Aswan", "ar": "أسوان" },
-      { "en": "Luxor", "ar": "الأقصر" },
-      { "en": "Qena", "ar": "قنا" },
-      { "en": "Sohag", "ar": "سوهاج" }
+      {
+        "en": "Qena",
+        "ar": "قنا"
+      },
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      {
+        "en": "Sohag",
+        "ar": "سوهاج"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Mohamed Mounir was born in Aswan, in Egypt's Nubian region.",
     "explanation_ar": "محمد منير اتولد في أسوان، منطقة النوبة في مصر."
   },
@@ -386,12 +638,24 @@
     "question_en": "Before her music career, Olivia Rodrigo was known as an actress on which Disney show?",
     "question_ar": "قبل مشوارها الغنائي، أوليفيا رودريجو كانت معروفة كممثلة في أنهي مسلسل ديزني؟",
     "options": [
-      { "en": "High School Musical: The Musical: The Series", "ar": "هاي سكول ميوزيكال: ذا ميوزيكال: ذا سيريز" },
-      { "en": "Hannah Montana", "ar": "هانا مونتانا" },
-      { "en": "Wizards of Waverly Place", "ar": "وزاردز أوف وايفرلي بليس" },
-      { "en": "Jessie", "ar": "جيسي" }
+      {
+        "en": "Hannah Montana",
+        "ar": "هانا مونتانا"
+      },
+      {
+        "en": "Jessie",
+        "ar": "جيسي"
+      },
+      {
+        "en": "Wizards of Waverly Place",
+        "ar": "وزاردز أوف وايفرلي بليس"
+      },
+      {
+        "en": "High School Musical: The Musical: The Series",
+        "ar": "هاي سكول ميوزيكال: ذا ميوزيكال: ذا سيريز"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Olivia Rodrigo starred in Disney+'s \"High School Musical: The Musical: The Series\" before her music breakthrough.",
     "explanation_ar": "أوليفيا رودريجو مثلت في مسلسل ديزني قبل ما تنطلق في الغناء."
   },
@@ -404,12 +668,24 @@
     "question_en": "Travis Scott's real name is ___?",
     "question_ar": "الاسم الحقيقي لترافيس سكوت هو ___؟",
     "options": [
-      { "en": "Jacques Bermon Webster II", "ar": "چاك بيرمون ويبستر التاني" },
-      { "en": "Aubrey Graham", "ar": "أوبري جراهام" },
-      { "en": "Nayvadius Wilburn", "ar": "نايفاديوس ويلبيرن" },
-      { "en": "Kiari Cephus", "ar": "كياري سيفوس" }
+      {
+        "en": "Kiari Cephus",
+        "ar": "كياري سيفوس"
+      },
+      {
+        "en": "Aubrey Graham",
+        "ar": "أوبري جراهام"
+      },
+      {
+        "en": "Jacques Bermon Webster II",
+        "ar": "چاك بيرمون ويبستر التاني"
+      },
+      {
+        "en": "Nayvadius Wilburn",
+        "ar": "نايفاديوس ويلبيرن"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Travis Scott's real name is Jacques Bermon Webster II.",
     "explanation_ar": "الاسم الحقيقي لترافيس سكوت هو چاك بيرمون ويبستر التاني."
   },
@@ -422,12 +698,24 @@
     "question_en": "Which Egyptian mahraganat/rap artist's 2022 track became an unofficial anthem tied to the FIFA World Cup and topped Arab streaming charts that year?",
     "question_ar": "أنهي فنان مصري في أغنيته سنة 2022 بقت نشيد غير رسمي مرتبط بكأس العالم وصدرت تشارتات الاستماع العربية في السنة دي؟",
     "options": [
-      { "en": "Abyusif — \"Analogy\"", "ar": "أبيوسف – \"أنالوجي\"" },
-      { "en": "Wegz — \"Dorak Gai\"", "ar": "ويجز – \"دورك جاي\"" },
-      { "en": "Afroto — \"Aymen\"", "ar": "أفروتو – \"أيمن\"" },
-      { "en": "Marwan Pablo — \"El Gamaa\"", "ar": "مروان بابلو – \"الجماعة\"" }
+      {
+        "en": "Afroto — \"Aymen\"",
+        "ar": "أفروتو – \"أيمن\""
+      },
+      {
+        "en": "Abyusif — \"Analogy\"",
+        "ar": "أبيوسف – \"أنالوجي\""
+      },
+      {
+        "en": "Marwan Pablo — \"El Gamaa\"",
+        "ar": "مروان بابلو – \"الجماعة\""
+      },
+      {
+        "en": "Wegz — \"Dorak Gai\"",
+        "ar": "ويجز – \"دورك جاي\""
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Wegz's \"Dorak Gai\" was tied to the 2022 FIFA World Cup and became one of the year's biggest Arabic tracks.",
     "explanation_ar": "\"دورك جاي\" لويجز ارتبطت بكأس العالم 2022 وبقت من أنجح الأغاني العربية في السنة دي."
   },
@@ -440,12 +728,24 @@
     "question_en": "Massar Egbari's alternative rock sound is often noted for blending Western rock with traditional Arabic ___?",
     "question_ar": "صوت مسار إجباري الروك البديل غالبًا بيتلاحظ فيه مزج الروك الغربي بأنهي عنصر عربي تقليدي؟",
     "options": [
-      { "en": "Maqam scales", "ar": "سلالم المقامات" },
-      { "en": "Opera vocals", "ar": "غناء أوبرالي" },
-      { "en": "Gregorian chants", "ar": "تراتيل جريجورية" },
-      { "en": "Flamenco rhythms", "ar": "إيقاعات فلامنكو" }
+      {
+        "en": "Gregorian chants",
+        "ar": "تراتيل جريجورية"
+      },
+      {
+        "en": "Opera vocals",
+        "ar": "غناء أوبرالي"
+      },
+      {
+        "en": "Maqam scales",
+        "ar": "سلالم المقامات"
+      },
+      {
+        "en": "Flamenco rhythms",
+        "ar": "إيقاعات فلامنكو"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Massar Egbari blends Western rock instrumentation with traditional Arabic maqam scales.",
     "explanation_ar": "مسار إجباري بتمزج آلات الروك الغربية بسلالم المقامات العربية التقليدية."
   },
@@ -458,10 +758,22 @@
     "question_en": "Dua Lipa's parents are of which ethnic heritage, reflected in her name (\"Dua\" means \"love\" in Albanian)?",
     "question_ar": "أهل ديوا ليپا من أصل عرقي إيه، واللي بينعكس في اسمها (\"ديوا\" معناها \"حب\" بالألباني)؟",
     "options": [
-      { "en": "Kosovo-Albanian", "ar": "ألباني من كوسوفو" },
-      { "en": "Serbian", "ar": "صربي" },
-      { "en": "Greek", "ar": "يوناني" },
-      { "en": "Turkish", "ar": "تركي" }
+      {
+        "en": "Kosovo-Albanian",
+        "ar": "ألباني من كوسوفو"
+      },
+      {
+        "en": "Greek",
+        "ar": "يوناني"
+      },
+      {
+        "en": "Serbian",
+        "ar": "صربي"
+      },
+      {
+        "en": "Turkish",
+        "ar": "تركي"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Dua Lipa's parents are ethnic Albanians from Kosovo.",
@@ -476,12 +788,24 @@
     "question_en": "Peso Pluma's real name is ___?",
     "question_ar": "الاسم الحقيقي لبيسو بلوما هو ___؟",
     "options": [
-      { "en": "Hassan Emilio Kabande Laija", "ar": "حسن إميليو كاباندي لايجا" },
-      { "en": "Natanael Cano", "ar": "ناتانايل كانو" },
-      { "en": "Junior H", "ar": "جونيور إتش" },
-      { "en": "Fuerza Regida", "ar": "فويرزا ريجيدا" }
+      {
+        "en": "Natanael Cano",
+        "ar": "ناتانايل كانو"
+      },
+      {
+        "en": "Junior H",
+        "ar": "جونيور إتش"
+      },
+      {
+        "en": "Hassan Emilio Kabande Laija",
+        "ar": "حسن إميليو كاباندي لايجا"
+      },
+      {
+        "en": "Fuerza Regida",
+        "ar": "فويرزا ريجيدا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Peso Pluma's real name is Hassan Emilio Kabande Laija.",
     "explanation_ar": "الاسم الحقيقي لبيسو بلوما هو حسن إميليو كاباندي لايجا."
   },
@@ -494,12 +818,24 @@
     "question_en": "Before becoming a full-time musician, Hamza Namira studied which field?",
     "question_ar": "قبل ما يبقى مطرب بدوام كامل، حمزة نمرة درس أنهي تخصص؟",
     "options": [
-      { "en": "Pharmacy", "ar": "صيدلة" },
-      { "en": "Medicine", "ar": "طب" },
-      { "en": "Engineering", "ar": "هندسة" },
-      { "en": "Law", "ar": "حقوق" }
+      {
+        "en": "Medicine",
+        "ar": "طب"
+      },
+      {
+        "en": "Law",
+        "ar": "حقوق"
+      },
+      {
+        "en": "Engineering",
+        "ar": "هندسة"
+      },
+      {
+        "en": "Pharmacy",
+        "ar": "صيدلة"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Hamza Namira studied pharmacy before pursuing a full music career.",
     "explanation_ar": "حمزة نمرة درس صيدلة قبل ما يتفرغ للغناء بالكامل."
   },
@@ -512,12 +848,24 @@
     "question_en": "Billie Eilish's breakout debut single, released in 2016 when she was 14, was called ___?",
     "question_ar": "أول أغنية لبيلي إيليش سنة 2016 لما كان عمرها 14 سنة اسمها ___؟",
     "options": [
-      { "en": "Ocean Eyes", "ar": "أوشن آيز" },
-      { "en": "Bad Guy", "ar": "باد جاي" },
-      { "en": "Bury a Friend", "ar": "بيري أ فريند" },
-      { "en": "Happier Than Ever", "ar": "هابيير ذان إيفر" }
+      {
+        "en": "Happier Than Ever",
+        "ar": "هابيير ذان إيفر"
+      },
+      {
+        "en": "Ocean Eyes",
+        "ar": "أوشن آيز"
+      },
+      {
+        "en": "Bury a Friend",
+        "ar": "بيري أ فريند"
+      },
+      {
+        "en": "Bad Guy",
+        "ar": "باد جاي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "\"Ocean Eyes\" was Billie Eilish's breakout debut single.",
     "explanation_ar": "\"أوشن آيز\" كانت أول أغنية أطلقت شهرة بيلي إيليش."
   },
@@ -530,12 +878,24 @@
     "question_en": "Molotof's music is often noted for a darker, more aggressive style within Egypt's ___ scene?",
     "question_ar": "موسيقى مولوتوف غالبًا بتتلاحظ بأسلوبها الأعتم والأعنف في مشهد الـ ___ المصري؟",
     "options": [
-      { "en": "Trap/Rap", "ar": "تراب/راب" },
-      { "en": "Shaabi wedding music", "ar": "موسيقى أفراح شعبي" },
-      { "en": "Classical tarab", "ar": "طرب كلاسيكي" },
-      { "en": "Sufi inshad", "ar": "إنشاد صوفي" }
+      {
+        "en": "Sufi inshad",
+        "ar": "إنشاد صوفي"
+      },
+      {
+        "en": "Trap/Rap",
+        "ar": "تراب/راب"
+      },
+      {
+        "en": "Shaabi wedding music",
+        "ar": "موسيقى أفراح شعبي"
+      },
+      {
+        "en": "Classical tarab",
+        "ar": "طرب كلاسيكي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Molotof is known for a darker, more intense style within Egypt's trap/rap scene.",
     "explanation_ar": "مولوتوف معروف بأسلوبه الأعتم والأقوى في مشهد التراب/الراب المصري."
   },
@@ -548,12 +908,24 @@
     "question_en": "Doja Cat is known for blending pop with which other genre, seen in hits like \"Say So\"?",
     "question_ar": "دوجا كات معروفة بمزج البوب بأنهي نوع تاني، زي ما ظاهر في أغنية \"Say So\"؟",
     "options": [
-      { "en": "Disco/nu-disco", "ar": "ديسكو/نيو ديسكو" },
-      { "en": "Opera", "ar": "أوبرا" },
-      { "en": "Country", "ar": "كانتري" },
-      { "en": "Classical", "ar": "كلاسيك" }
+      {
+        "en": "Country",
+        "ar": "كانتري"
+      },
+      {
+        "en": "Classical",
+        "ar": "كلاسيك"
+      },
+      {
+        "en": "Opera",
+        "ar": "أوبرا"
+      },
+      {
+        "en": "Disco/nu-disco",
+        "ar": "ديسكو/نيو ديسكو"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Say So\" blends pop with a nu-disco/funk influence.",
     "explanation_ar": "\"Say So\" بتمزج البوب بتأثيرات الديسكو/الفانك."
   },
@@ -566,12 +938,24 @@
     "question_en": "Which term describes a distinctive maqam (modal scale) system foundational to Arabic classical music, e.g. Maqam Rast or Maqam Hijaz?",
     "question_ar": "بيتقال إيه على نظام السلالم اللحنية الأساسي في الموسيقى العربية الكلاسيكية، زي مقام راست أو مقام حجاز؟",
     "options": [
-      { "en": "Tarab", "ar": "طرب" },
-      { "en": "Sama'i", "ar": "سماعي" },
-      { "en": "Maqam", "ar": "مقام" },
-      { "en": "Iqa", "ar": "إيقاع" }
+      {
+        "en": "Maqam",
+        "ar": "مقام"
+      },
+      {
+        "en": "Iqa",
+        "ar": "إيقاع"
+      },
+      {
+        "en": "Sama'i",
+        "ar": "سماعي"
+      },
+      {
+        "en": "Tarab",
+        "ar": "طرب"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The maqam system is the foundational modal scale system of Arabic classical music.",
     "explanation_ar": "نظام المقامات هو أساس السلالم اللحنية في الموسيقى العربية الكلاسيكية."
   },
@@ -584,12 +968,24 @@
     "question_en": "J Balvin, one of reggaeton's biggest global stars known for \"Mi Gente\", is from which country?",
     "question_ar": "جي بالفين، واحد من أكبر نجوم الريجيتون العالميين ومعروف بأغنية \"Mi Gente\"، من أنهي بلد؟",
     "options": [
-      { "en": "Colombia", "ar": "كولومبيا" },
-      { "en": "Puerto Rico", "ar": "بورتوريكو" },
-      { "en": "Mexico", "ar": "المكسيك" },
-      { "en": "Venezuela", "ar": "فنزويلا" }
+      {
+        "en": "Puerto Rico",
+        "ar": "بورتوريكو"
+      },
+      {
+        "en": "Mexico",
+        "ar": "المكسيك"
+      },
+      {
+        "en": "Venezuela",
+        "ar": "فنزويلا"
+      },
+      {
+        "en": "Colombia",
+        "ar": "كولومبيا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "J Balvin is a Colombian reggaeton superstar.",
     "explanation_ar": "جي بالفين نجم ريجيتون كولومبي كبير."
   },
@@ -602,12 +998,24 @@
     "question_en": "The word \"mahraganat\" literally translates from Arabic to which English word, reflecting the genre's street-party origins?",
     "question_ar": "كلمة \"مهرجانات\" معناها الحرفي في الإنجليزي إيه، وده بيعكس أصل النوع من حفلات الشارع؟",
     "options": [
-      { "en": "Festivals", "ar": "مهرجانات/احتفالات" },
-      { "en": "Private parties", "ar": "حفلات خاصة" },
-      { "en": "Weddings", "ar": "أفراح" },
-      { "en": "Concerts", "ar": "حفلات موسيقية" }
+      {
+        "en": "Private parties",
+        "ar": "حفلات خاصة"
+      },
+      {
+        "en": "Festivals",
+        "ar": "مهرجانات/احتفالات"
+      },
+      {
+        "en": "Concerts",
+        "ar": "حفلات موسيقية"
+      },
+      {
+        "en": "Weddings",
+        "ar": "أفراح"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "\"Mahraganat\" literally means \"festivals\" in Arabic.",
     "explanation_ar": "\"مهرجانات\" معناها الحرفي \"festivals\" بالإنجليزي."
   },
@@ -620,12 +1028,24 @@
     "question_en": "Rauw Alejandro's 2022 album \"Saturno\" was notable for its heavy use of which retro musical aesthetic?",
     "question_ar": "ألبوم راو أليخاندرو \"Saturno\" سنة 2022 اتميز باستخدامه الكبير لأنهي أسلوب موسيقي قديم؟",
     "options": [
-      { "en": "80s synth-pop/futurism", "ar": "سينث بوب الثمانينات/فيوتشريزم" },
-      { "en": "1950s doo-wop", "ar": "دو-وب الخمسينات" },
-      { "en": "Baroque classical", "ar": "باروك كلاسيكي" },
-      { "en": "Bluegrass", "ar": "بلوجراس" }
+      {
+        "en": "1950s doo-wop",
+        "ar": "دو-وب الخمسينات"
+      },
+      {
+        "en": "80s synth-pop/futurism",
+        "ar": "سينث بوب الثمانينات/فيوتشريزم"
+      },
+      {
+        "en": "Baroque classical",
+        "ar": "باروك كلاسيكي"
+      },
+      {
+        "en": "Bluegrass",
+        "ar": "بلوجراس"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "\"Saturno\" drew on 80s synth-pop and futuristic aesthetics.",
     "explanation_ar": "\"Saturno\" استوحى من أسلوب السينث بوب والفيوتشريزم بتاع الثمانينات."
   },
@@ -638,12 +1058,24 @@
     "question_en": "Wizkid's 2020 album \"Made in Lagos\" pays tribute to which Nigerian city, also his hometown?",
     "question_ar": "ألبوم ويزكيد \"Made in Lagos\" سنة 2020 بيحتفي بأنهي مدينة نيجيرية، وهي كمان مسقط رأسه؟",
     "options": [
-      { "en": "Lagos", "ar": "لاجوس" },
-      { "en": "Abuja", "ar": "أبوجا" },
-      { "en": "Ibadan", "ar": "إيبادان" },
-      { "en": "Port Harcourt", "ar": "بورت هاركورت" }
+      {
+        "en": "Abuja",
+        "ar": "أبوجا"
+      },
+      {
+        "en": "Port Harcourt",
+        "ar": "بورت هاركورت"
+      },
+      {
+        "en": "Ibadan",
+        "ar": "إيبادان"
+      },
+      {
+        "en": "Lagos",
+        "ar": "لاجوس"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Made in Lagos\" pays homage to Lagos, Wizkid's hometown.",
     "explanation_ar": "\"Made in Lagos\" بتحتفي بمدينة لاجوس، مسقط رأس ويزكيد."
   },
@@ -656,10 +1088,22 @@
     "question_en": "Which veteran Egyptian singer, famous for romantic ballads since the 1970s, currently serves as the head of Egypt's Musicians Syndicate?",
     "question_ar": "أنهي مطرب مصري قديم، مشهور بالأغاني الرومانسية من السبعينات، بيشغل حاليًا منصب نقيب المهن الموسيقية في مصر؟",
     "options": [
-      { "en": "Hany Shaker", "ar": "هاني شاكر" },
-      { "en": "Medhat Saleh", "ar": "مدحت صالح" },
-      { "en": "Mohamed Fouad", "ar": "محمد فؤاد" },
-      { "en": "Ali El Haggar", "ar": "علي الحجار" }
+      {
+        "en": "Hany Shaker",
+        "ar": "هاني شاكر"
+      },
+      {
+        "en": "Medhat Saleh",
+        "ar": "مدحت صالح"
+      },
+      {
+        "en": "Ali El Haggar",
+        "ar": "علي الحجار"
+      },
+      {
+        "en": "Mohamed Fouad",
+        "ar": "محمد فؤاد"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Hany Shaker, a veteran romantic singer, has headed Egypt's Musicians Syndicate.",
@@ -674,10 +1118,22 @@
     "question_en": "\"Sama'i\" is a term in Arabic/Ottoman classical music referring to a specific instrumental ___?",
     "question_ar": "\"سماعي\" مصطلح في الموسيقى العربية/العثمانية الكلاسيكية بيشير لأنهي حاجة موسيقية آلاتية؟",
     "options": [
-      { "en": "Rhythmic musical form/composition", "ar": "شكل/تأليف إيقاعي" },
-      { "en": "Vocal improvisation", "ar": "ارتجال غنائي" },
-      { "en": "Percussion instrument", "ar": "آلة إيقاعية" },
-      { "en": "Singing competition", "ar": "مسابقة غناء" }
+      {
+        "en": "Rhythmic musical form/composition",
+        "ar": "شكل/تأليف إيقاعي"
+      },
+      {
+        "en": "Singing competition",
+        "ar": "مسابقة غناء"
+      },
+      {
+        "en": "Percussion instrument",
+        "ar": "آلة إيقاعية"
+      },
+      {
+        "en": "Vocal improvisation",
+        "ar": "ارتجال غنائي"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "A sama'i is a traditional instrumental musical form/composition.",
@@ -692,12 +1148,24 @@
     "question_en": "Central Cee's 2023 collaborative track with Dave, titled \"Sprinter\", broke UK chart records by doing what?",
     "question_ar": "أغنية سنترال سي مع ديف \"Sprinter\" سنة 2023 كسرت أرقام قياسية في تشارت بريطانيا بإنها عملت إيه؟",
     "options": [
-      { "en": "Debuted at #1 on the UK Singles Chart", "ar": "دخلت رقم 1 في تشارت السينجلز البريطاني من أول أسبوع" },
-      { "en": "Stayed #1 for a full year", "ar": "فضلت رقم 1 سنة كاملة" },
-      { "en": "Became the best-selling vinyl ever", "ar": "بقت أكتر فينيل مبيعًا" },
-      { "en": "Won a Grammy", "ar": "ياخد جرامي" }
+      {
+        "en": "Stayed #1 for a full year",
+        "ar": "فضلت رقم 1 سنة كاملة"
+      },
+      {
+        "en": "Won a Grammy",
+        "ar": "ياخد جرامي"
+      },
+      {
+        "en": "Became the best-selling vinyl ever",
+        "ar": "بقت أكتر فينيل مبيعًا"
+      },
+      {
+        "en": "Debuted at #1 on the UK Singles Chart",
+        "ar": "دخلت رقم 1 في تشارت السينجلز البريطاني من أول أسبوع"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Sprinter\" debuted at number one on the UK Singles Chart in 2023.",
     "explanation_ar": "\"Sprinter\" دخلت تشارت السينجلز البريطاني في المركز الأول من أول أسبوع سنة 2023."
   },
@@ -710,12 +1178,24 @@
     "question_en": "Which term describes the traditional rhythmic cycle patterns (like maqsoum or saidi) used in Arabic percussion music?",
     "question_ar": "بيتقال إيه على الأنماط الإيقاعية التقليدية زي المقسوم والصعيدي في الموسيقى العربية الإيقاعية؟",
     "options": [
-      { "en": "Iqa", "ar": "إيقاع" },
-      { "en": "Tarab", "ar": "طرب" },
-      { "en": "Zajal", "ar": "زجل" },
-      { "en": "Maqam", "ar": "مقام" }
+      {
+        "en": "Maqam",
+        "ar": "مقام"
+      },
+      {
+        "en": "Tarab",
+        "ar": "طرب"
+      },
+      {
+        "en": "Zajal",
+        "ar": "زجل"
+      },
+      {
+        "en": "Iqa",
+        "ar": "إيقاع"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "These traditional rhythmic patterns are called \"iqa\" in Arabic music theory.",
     "explanation_ar": "الأنماط الإيقاعية التقليدية دي اسمها \"إيقاع\" في نظرية الموسيقى العربية."
   },
@@ -728,12 +1208,24 @@
     "question_en": "Which small Arabic percussion instrument, a tambourine with metal cymbals, is often used in classical takht ensembles?",
     "question_ar": "أنهي آلة إيقاعية عربية صغيرة، عبارة عن دف بيه صنوج معدنية، بتتستخدم كتير في فرق التخت الكلاسيكية؟",
     "options": [
-      { "en": "Riq", "ar": "رق" },
-      { "en": "Darbuka", "ar": "دربوكة" },
-      { "en": "Mizmar", "ar": "مزمار" },
-      { "en": "Rababa", "ar": "ربابة" }
+      {
+        "en": "Darbuka",
+        "ar": "دربوكة"
+      },
+      {
+        "en": "Rababa",
+        "ar": "ربابة"
+      },
+      {
+        "en": "Riq",
+        "ar": "رق"
+      },
+      {
+        "en": "Mizmar",
+        "ar": "مزمار"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The riq is a small tambourine with cymbals used in classical Arabic ensembles.",
     "explanation_ar": "الرق دف صغير بيه صنوج بيتستخدم في فرق الموسيقى العربية الكلاسيكية."
   },
@@ -746,10 +1238,22 @@
     "question_en": "BTS's 2020 song \"Dynamite\" was significant for being their first song performed almost entirely in which language?",
     "question_ar": "أغنية BTS \"Dynamite\" سنة 2020 كانت مهمة لأنها كانت أول أغنية ليهم بالكامل تقريبًا بأنهي لغة؟",
     "options": [
-      { "en": "English", "ar": "الإنجليزية" },
-      { "en": "Korean", "ar": "الكورية" },
-      { "en": "Japanese", "ar": "اليابانية" },
-      { "en": "Spanish", "ar": "الإسبانية" }
+      {
+        "en": "English",
+        "ar": "الإنجليزية"
+      },
+      {
+        "en": "Japanese",
+        "ar": "اليابانية"
+      },
+      {
+        "en": "Spanish",
+        "ar": "الإسبانية"
+      },
+      {
+        "en": "Korean",
+        "ar": "الكورية"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "\"Dynamite\" was BTS's first all-English single.",
@@ -764,12 +1268,24 @@
     "question_en": "\"Zajal\" is a traditional form of vernacular Arabic poetry often performed in an improvised, rhythmic ___?",
     "question_ar": "\"الزجل\" شكل تقليدي من الشعر العامي العربي غالبًا بيتقال بأسلوب ___ مرتجل وإيقاعي؟",
     "options": [
-      { "en": "Call-and-response verse", "ar": "رد وجواب شعري" },
-      { "en": "Orchestral symphony", "ar": "سيمفونية أوركسترالية" },
-      { "en": "Operatic aria", "ar": "آريا أوبرالية" },
-      { "en": "Electronic beat drops", "ar": "دروبات إلكترونية" }
+      {
+        "en": "Orchestral symphony",
+        "ar": "سيمفونية أوركسترالية"
+      },
+      {
+        "en": "Operatic aria",
+        "ar": "آريا أوبرالية"
+      },
+      {
+        "en": "Electronic beat drops",
+        "ar": "دروبات إلكترونية"
+      },
+      {
+        "en": "Call-and-response verse",
+        "ar": "رد وجواب شعري"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Zajal is vernacular Arabic poetry often performed in improvised, rhythmic call-and-response style.",
     "explanation_ar": "الزجل شعر عامي عربي غالبًا بيتقال بأسلوب رد وجواب مرتجل وإيقاعي."
   },
@@ -782,10 +1298,22 @@
     "question_en": "Which Egyptian composer, brother of a famous actress, wrote music blending jazz and Arabic music, and led the band \"Sharkiat\"?",
     "question_ar": "أنهي ملحن مصري، أخو ممثلة مشهورة، لحن موسيقى بتمزج الجاز بالعربي وأسس فرقة \"شرقيات\"؟",
     "options": [
-      { "en": "Fathy Salama", "ar": "فتحي سلامة" },
-      { "en": "Rageh Daoud", "ar": "راجح داود" },
-      { "en": "Yehia Khalil", "ar": "يحيى خليل" },
-      { "en": "Helmy Bakr", "ar": "حلمي بكر" }
+      {
+        "en": "Fathy Salama",
+        "ar": "فتحي سلامة"
+      },
+      {
+        "en": "Yehia Khalil",
+        "ar": "يحيى خليل"
+      },
+      {
+        "en": "Rageh Daoud",
+        "ar": "راجح داود"
+      },
+      {
+        "en": "Helmy Bakr",
+        "ar": "حلمي بكر"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Fathy Salama, a Grammy-winning composer, founded the band Sharkiat blending jazz and Arabic influences.",
@@ -800,12 +1328,24 @@
     "question_en": "Feid's hit series named after his nickname \"Ferxxo\" showcases his blend of reggaeton with which style?",
     "question_ar": "سلسلة أغاني فيد المسماة على لقبه \"فيركسو\" بتوضح مزجه للريجيتون بأنهي أسلوب؟",
     "options": [
-      { "en": "Trap", "ar": "تراب" },
-      { "en": "Salsa", "ar": "سالسا" },
-      { "en": "Bachata", "ar": "باتشاتا" },
-      { "en": "Cumbia", "ar": "كومبيا" }
+      {
+        "en": "Bachata",
+        "ar": "باتشاتا"
+      },
+      {
+        "en": "Trap",
+        "ar": "تراب"
+      },
+      {
+        "en": "Cumbia",
+        "ar": "كومبيا"
+      },
+      {
+        "en": "Salsa",
+        "ar": "سالسا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Feid blends reggaeton with trap influences in his \"Ferxxo\" series.",
     "explanation_ar": "فيد بيمزج الريجيتون بتأثيرات التراب في سلسلة \"فيركسو\"."
   },
@@ -818,12 +1358,24 @@
     "question_en": "Which Egyptian singer, known for a gravelly, powerful voice and hits like \"Habibi Wala Ala Baly\", rose to fame through Egyptian cinema in the 1950s-60s?",
     "question_ar": "أنهي مطرب مصري، بصوته القوي الخشن وأغاني زي \"حبيبي ولا على بالي\"، اشتهر عن طريق السينما المصرية في الخمسينات والستينات؟",
     "options": [
-      { "en": "Karem Mahmoud", "ar": "كارم محمود" },
-      { "en": "Abdel Aziz Mahmoud", "ar": "عبد العزيز محمود" },
-      { "en": "Mohamed Fawzi", "ar": "محمد فوزي" },
-      { "en": "Mohamed Kandil", "ar": "محمد قنديل" }
+      {
+        "en": "Mohamed Fawzi",
+        "ar": "محمد فوزي"
+      },
+      {
+        "en": "Abdel Aziz Mahmoud",
+        "ar": "عبد العزيز محمود"
+      },
+      {
+        "en": "Karem Mahmoud",
+        "ar": "كارم محمود"
+      },
+      {
+        "en": "Mohamed Kandil",
+        "ar": "محمد قنديل"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Karem Mahmoud was a prominent singer and film star of that era known for his rich voice.",
     "explanation_ar": "كارم محمود كان مطرب ونجم سينما بارز في الفترة دي بصوته الغني."
   },
@@ -836,12 +1388,24 @@
     "question_en": "Before her music breakthrough, Sabrina Carpenter starred as an actress on which Disney Channel show?",
     "question_ar": "قبل نجاحها الغنائي، سابرينا كاربنتر مثلت كممثلة في أنهي مسلسل ديزني تشانل؟",
     "options": [
-      { "en": "Girl Meets World", "ar": "جيرل ميتس وورلد" },
-      { "en": "Jessie", "ar": "جيسي" },
-      { "en": "Austin & Ally", "ar": "أوستن آند آلي" },
-      { "en": "Liv and Maddie", "ar": "ليف آند مادي" }
+      {
+        "en": "Austin & Ally",
+        "ar": "أوستن آند آلي"
+      },
+      {
+        "en": "Liv and Maddie",
+        "ar": "ليف آند مادي"
+      },
+      {
+        "en": "Girl Meets World",
+        "ar": "جيرل ميتس وورلد"
+      },
+      {
+        "en": "Jessie",
+        "ar": "جيسي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Sabrina Carpenter starred in Disney Channel's \"Girl Meets World\".",
     "explanation_ar": "سابرينا كاربنتر مثلت في مسلسل \"Girl Meets World\" بتاع ديزني تشانل."
   },
@@ -854,12 +1418,24 @@
     "question_en": "A \"qasida\" in Arabic musical tradition refers to a classical poem set to music, typically written in which form of Arabic?",
     "question_ar": "\"القصيدة\" في التراث الموسيقي العربي بتشير لقصيدة كلاسيكية بتتلحن، وغالبًا بتتكتب بأنهي شكل من العربي؟",
     "options": [
-      { "en": "Classical Fusha (formal Arabic)", "ar": "الفصحى الكلاسيكية" },
-      { "en": "Egyptian colloquial only", "ar": "العامية المصرية بس" },
-      { "en": "Andalusian Spanish", "ar": "الإسبانية الأندلسية" },
-      { "en": "Ottoman Turkish", "ar": "التركية العثمانية" }
+      {
+        "en": "Andalusian Spanish",
+        "ar": "الإسبانية الأندلسية"
+      },
+      {
+        "en": "Ottoman Turkish",
+        "ar": "التركية العثمانية"
+      },
+      {
+        "en": "Classical Fusha (formal Arabic)",
+        "ar": "الفصحى الكلاسيكية"
+      },
+      {
+        "en": "Egyptian colloquial only",
+        "ar": "العامية المصرية بس"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A qasida is typically a classical poem in formal (fusha) Arabic set to music.",
     "explanation_ar": "القصيدة عادة قصيدة كلاسيكية بالفصحى بتتلحن وتتغنى."
   },
@@ -872,12 +1448,24 @@
     "question_en": "SZA's 2022 album \"SOS\" set a Billboard record for a woman by having an unprecedented number of songs debut simultaneously in the top 10 of which chart?",
     "question_ar": "ألبوم SZA \"SOS\" سنة 2022 كسر رقم قياسي لمطربة بعدد أغاني دخلت مع بعض تصدر أنهي تشارت؟",
     "options": [
-      { "en": "Billboard Hot 100", "ar": "بيلبورد هوت 100" },
-      { "en": "UK Singles Chart", "ar": "تشارت السينجلز البريطاني" },
-      { "en": "Billboard 200 Albums", "ar": "بيلبورد 200 ألبومات" },
-      { "en": "Spotify Global 50", "ar": "سبوتيفاي جلوبال 50" }
+      {
+        "en": "UK Singles Chart",
+        "ar": "تشارت السينجلز البريطاني"
+      },
+      {
+        "en": "Spotify Global 50",
+        "ar": "سبوتيفاي جلوبال 50"
+      },
+      {
+        "en": "Billboard Hot 100",
+        "ar": "بيلبورد هوت 100"
+      },
+      {
+        "en": "Billboard 200 Albums",
+        "ar": "بيلبورد 200 ألبومات"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"SOS\" set a record for a woman with multiple simultaneous top-10 Hot 100 debuts.",
     "explanation_ar": "\"SOS\" كسر رقم قياسي لمطربة بعدد أغاني دخلت مع بعض في أعلى 10 بتشارت الهوت 100."
   },
@@ -890,10 +1478,22 @@
     "question_en": "Which Lebanese-Egyptian composer/oud player, long a key arranger in Fairuz's and other Arab stars' orchestras, is known for blending jazz harmonies into Arabic music?",
     "question_ar": "أنهي ملحن/عازف عود لبناني اشتهر بمزج هارمونيات الجاز في الموسيقى العربية وشارك في توزيع أعمال فيروز ونجوم عرب؟",
     "options": [
-      { "en": "Ziad Rahbani", "ar": "زياد رحباني" },
-      { "en": "Toufic Farroukh", "ar": "توفيق فروخ" },
-      { "en": "Marcel Khalife", "ar": "مارسيل خليفة" },
-      { "en": "Issam Rafea", "ar": "عصام رافع" }
+      {
+        "en": "Ziad Rahbani",
+        "ar": "زياد رحباني"
+      },
+      {
+        "en": "Marcel Khalife",
+        "ar": "مارسيل خليفة"
+      },
+      {
+        "en": "Toufic Farroukh",
+        "ar": "توفيق فروخ"
+      },
+      {
+        "en": "Issam Rafea",
+        "ar": "عصام رافع"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Ziad Rahbani, Fairuz's son, is celebrated for blending jazz harmonies with Arabic music in his compositions.",

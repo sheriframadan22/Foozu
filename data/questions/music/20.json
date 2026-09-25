@@ -8,12 +8,24 @@
     "question_en": "Which Egyptian singer released the hit song \"Aleik Alby\" and is known as a top romantic pop star?",
     "question_ar": "أنهي مطرب مصري غنى أغنية \"عليك قلبي\" ومعروف كنجم بوب رومانسي كبير؟",
     "options": [
-      { "en": "Amr Diab", "ar": "عمرو دياب" },
-      { "en": "Ihab Tawfik", "ar": "إيهاب توفيق" },
-      { "en": "Wael Kfoury", "ar": "وائل كفوري" },
-      { "en": "Ramy Sabry", "ar": "رامي صبري" }
+      {
+        "en": "Wael Kfoury",
+        "ar": "وائل كفوري"
+      },
+      {
+        "en": "Ihab Tawfik",
+        "ar": "إيهاب توفيق"
+      },
+      {
+        "en": "Ramy Sabry",
+        "ar": "رامي صبري"
+      },
+      {
+        "en": "Amr Diab",
+        "ar": "عمرو دياب"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Aleik Alby\" is one of Amr Diab's hit songs.",
     "explanation_ar": "\"عليك قلبي\" من أغاني عمرو دياب."
   },
@@ -26,12 +38,24 @@
     "question_en": "Which of these is a hit song by Mohamed Ramadan?",
     "question_ar": "أنهي أغنية من دول لمحمد رمضان؟",
     "options": [
-      { "en": "Number One", "ar": "نمبر وان" },
-      { "en": "Ezz El Arab", "ar": "عز العرب" },
-      { "en": "Dorak Gai", "ar": "دورك جاي" },
-      { "en": "El Bakht", "ar": "البخت" }
+      {
+        "en": "Ezz El Arab",
+        "ar": "عز العرب"
+      },
+      {
+        "en": "El Bakht",
+        "ar": "البخت"
+      },
+      {
+        "en": "Number One",
+        "ar": "نمبر وان"
+      },
+      {
+        "en": "Dorak Gai",
+        "ar": "دورك جاي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"Number One\" is one of Mohamed Ramadan's signature hits.",
     "explanation_ar": "\"نمبر وان\" من أشهر أغاني محمد رمضان."
   },
@@ -44,10 +68,22 @@
     "question_en": "Which Egyptian rapper is known for the song \"El Bakht\"?",
     "question_ar": "أنهي رابر مصري معروف بأغنية \"البخت\"؟",
     "options": [
-      { "en": "Marwan Moussa", "ar": "مروان موسى" },
-      { "en": "Afroto", "ar": "أفروتو" },
-      { "en": "Wegz", "ar": "ويجز" },
-      { "en": "Abyusif", "ar": "أبيوسف" }
+      {
+        "en": "Abyusif",
+        "ar": "أبيوسف"
+      },
+      {
+        "en": "Marwan Moussa",
+        "ar": "مروان موسى"
+      },
+      {
+        "en": "Wegz",
+        "ar": "ويجز"
+      },
+      {
+        "en": "Afroto",
+        "ar": "أفروتو"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "\"El Bakht\" is one of Wegz's hit songs.",
@@ -62,12 +98,24 @@
     "question_en": "Wust El Balad is a well-known Egyptian band in which music genre?",
     "question_ar": "وسط البلد فرقة مصرية معروفة في أنهي نوع موسيقى؟",
     "options": [
-      { "en": "Fusion/alternative", "ar": "فيوجن/بديل" },
-      { "en": "Classical", "ar": "كلاسيك" },
-      { "en": "Classical jazz standards", "ar": "جاز كلاسيكي" },
-      { "en": "Metal", "ar": "ميتال" }
+      {
+        "en": "Classical",
+        "ar": "كلاسيك"
+      },
+      {
+        "en": "Metal",
+        "ar": "ميتال"
+      },
+      {
+        "en": "Classical jazz standards",
+        "ar": "جاز كلاسيكي"
+      },
+      {
+        "en": "Fusion/alternative",
+        "ar": "فيوجن/بديل"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Wust El Balad blends folk, jazz and alternative influences.",
     "explanation_ar": "وسط البلد بتمزج الفلكلور والجاز والبديل."
   },
@@ -80,10 +128,22 @@
     "question_en": "Doja Cat, known for \"Say So\" and \"Paint The Town Red\", is from which country?",
     "question_ar": "دوجا كات، معروفة بأغنية \"Say So\" و\"Paint The Town Red\"، من أنهي بلد؟",
     "options": [
-      { "en": "USA", "ar": "أمريكا" },
-      { "en": "UK", "ar": "بريطانيا" },
-      { "en": "Canada", "ar": "كندا" },
-      { "en": "Australia", "ar": "أستراليا" }
+      {
+        "en": "USA",
+        "ar": "أمريكا"
+      },
+      {
+        "en": "Canada",
+        "ar": "كندا"
+      },
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      },
+      {
+        "en": "UK",
+        "ar": "بريطانيا"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Doja Cat is an American singer/rapper.",
@@ -98,12 +158,24 @@
     "question_en": "Which Egyptian instrument is a plucked string instrument with no frets, central to Arabic music?",
     "question_ar": "أنهي آلة مصرية/عربية وترية بتتنقر وملهاش فريتات وأساسية في الموسيقى العربية؟",
     "options": [
-      { "en": "Nay", "ar": "ناي" },
-      { "en": "Oud", "ar": "عود" },
-      { "en": "Rababa", "ar": "ربابة" },
-      { "en": "Qanun", "ar": "قانون" }
+      {
+        "en": "Rababa",
+        "ar": "ربابة"
+      },
+      {
+        "en": "Nay",
+        "ar": "ناي"
+      },
+      {
+        "en": "Qanun",
+        "ar": "قانون"
+      },
+      {
+        "en": "Oud",
+        "ar": "عود"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The oud is a fretless plucked string instrument central to Arabic music.",
     "explanation_ar": "العود آلة وترية بتتنقر وملهاش فريتات وأساسية في الموسيقى العربية."
   },
@@ -116,12 +188,24 @@
     "question_en": "Cairokee's lead singer, who also acts, is named?",
     "question_ar": "مين المطرب الرئيسي لفرقة كايروكي واللي بيمثل كمان؟",
     "options": [
-      { "en": "Amir Eid", "ar": "أمير عيد" },
-      { "en": "Hany Adel", "ar": "هاني عادل" },
-      { "en": "Adham Nabulsi", "ar": "أدهم نابلسي" },
-      { "en": "Sherif Mostafa", "ar": "شريف مصطفى" }
+      {
+        "en": "Hany Adel",
+        "ar": "هاني عادل"
+      },
+      {
+        "en": "Adham Nabulsi",
+        "ar": "أدهم نابلسي"
+      },
+      {
+        "en": "Sherif Mostafa",
+        "ar": "شريف مصطفى"
+      },
+      {
+        "en": "Amir Eid",
+        "ar": "أمير عيد"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Amir Eid is Cairokee's lead vocalist.",
     "explanation_ar": "أمير عيد هو المطرب الرئيسي لفرقة كايروكي."
   },
@@ -134,10 +218,22 @@
     "question_en": "Elyanna, the rising Arabic pop star known for blending Latin and Arabic sounds, has roots in which country?",
     "question_ar": "إليانا، نجمة البوب العربي الصاعدة اللي بتمزج اللاتيني بالعربي، أصلها من أنهي بلد؟",
     "options": [
-      { "en": "Palestine", "ar": "فلسطين" },
-      { "en": "Lebanon", "ar": "لبنان" },
-      { "en": "Egypt", "ar": "مصر" },
-      { "en": "Jordan", "ar": "الأردن" }
+      {
+        "en": "Palestine",
+        "ar": "فلسطين"
+      },
+      {
+        "en": "Lebanon",
+        "ar": "لبنان"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Elyanna is of Palestinian descent, born and raised in Chile.",
@@ -152,12 +248,24 @@
     "question_en": "Which international artist released the album \"1989\", named after her birth year?",
     "question_ar": "أنهي فنانة عالمية طرحت ألبوم اسمه \"1989\" على اسم سنة ميلادها؟",
     "options": [
-      { "en": "Taylor Swift", "ar": "تايلور سويفت" },
-      { "en": "Katy Perry", "ar": "كاتي بيري" },
-      { "en": "Ariana Grande", "ar": "أريانا جراندي" },
-      { "en": "Selena Gomez", "ar": "سيلينا جوميز" }
+      {
+        "en": "Katy Perry",
+        "ar": "كاتي بيري"
+      },
+      {
+        "en": "Ariana Grande",
+        "ar": "أريانا جراندي"
+      },
+      {
+        "en": "Taylor Swift",
+        "ar": "تايلور سويفت"
+      },
+      {
+        "en": "Selena Gomez",
+        "ar": "سيلينا جوميز"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Taylor Swift's album \"1989\" is named after her birth year.",
     "explanation_ar": "ألبوم \"1989\" لتايلور سويفت سمي على سنة ميلادها."
   },
@@ -170,12 +278,24 @@
     "question_en": "What is the term for the main repeated part of a song, usually the catchiest section?",
     "question_ar": "بيتقال إيه على الجزء المكرر في الأغنية واللي بيبقى أكتر جزء عالق في الودن؟",
     "options": [
-      { "en": "Verse", "ar": "كوبليه" },
-      { "en": "Chorus", "ar": "كورس" },
-      { "en": "Bridge", "ar": "بريدج" },
-      { "en": "Intro", "ar": "إنترو" }
+      {
+        "en": "Verse",
+        "ar": "كوبليه"
+      },
+      {
+        "en": "Intro",
+        "ar": "إنترو"
+      },
+      {
+        "en": "Chorus",
+        "ar": "كورس"
+      },
+      {
+        "en": "Bridge",
+        "ar": "بريدج"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "The repeated catchy part of a song is called the chorus.",
     "explanation_ar": "الجزء المكرر والعالق في الأغنية اسمه الكورس."
   },
@@ -188,12 +308,24 @@
     "question_en": "Saint Levant, the rapper known for blending Arabic and English in songs like \"Very Few Friends\", has roots in which country?",
     "question_ar": "سانت ليفانت، الرابر المعروف بمزج العربي والإنجليزي في أغاني زي \"Very Few Friends\"، أصله من أنهي بلد؟",
     "options": [
-      { "en": "Palestine", "ar": "فلسطين" },
-      { "en": "Lebanon", "ar": "لبنان" },
-      { "en": "Jordan", "ar": "الأردن" },
-      { "en": "Syria", "ar": "سوريا" }
+      {
+        "en": "Lebanon",
+        "ar": "لبنان"
+      },
+      {
+        "en": "Palestine",
+        "ar": "فلسطين"
+      },
+      {
+        "en": "Syria",
+        "ar": "سوريا"
+      },
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Saint Levant is of Palestinian descent and raps in a mix of Arabic and English.",
     "explanation_ar": "سانت ليفانت من أصل فلسطيني وبيغني بمزيج من العربي والإنجليزي."
   },
@@ -206,12 +338,24 @@
     "question_en": "Ice Spice, known for viral hits like \"Munch\" and \"Barbie World\", is from which country?",
     "question_ar": "آيس سبايس، معروفة بأغاني فيروسية زي \"Munch\" و\"Barbie World\"، من أنهي بلد؟",
     "options": [
-      { "en": "USA", "ar": "أمريكا" },
-      { "en": "UK", "ar": "بريطانيا" },
-      { "en": "Canada", "ar": "كندا" },
-      { "en": "Jamaica", "ar": "جامايكا" }
+      {
+        "en": "Canada",
+        "ar": "كندا"
+      },
+      {
+        "en": "UK",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "USA",
+        "ar": "أمريكا"
+      },
+      {
+        "en": "Jamaica",
+        "ar": "جامايكا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Ice Spice is an American rapper from the Bronx, New York.",
     "explanation_ar": "آيس سبايس رابر أمريكية من حي البرونكس في نيويورك."
   },
@@ -224,12 +368,24 @@
     "question_en": "Which Middle Eastern percussion instrument, held under the arm, is common in Arabic pop and folk music?",
     "question_ar": "أنهي آلة إيقاعية شرق أوسطية بتتحط تحت الدراع وشائعة في البوب والفلكلور العربي؟",
     "options": [
-      { "en": "Darbuka", "ar": "طبلة/دربوكة" },
-      { "en": "Bongo", "ar": "بونجو" },
-      { "en": "Djembe", "ar": "جيمبي" },
-      { "en": "Cajon", "ar": "كاخون" }
+      {
+        "en": "Bongo",
+        "ar": "بونجو"
+      },
+      {
+        "en": "Cajon",
+        "ar": "كاخون"
+      },
+      {
+        "en": "Djembe",
+        "ar": "جيمبي"
+      },
+      {
+        "en": "Darbuka",
+        "ar": "طبلة/دربوكة"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The darbuka is a hand drum widely used in Arabic music.",
     "explanation_ar": "الدربوكة آلة إيقاعية بتتستخدم كتير في الموسيقى العربية."
   },
@@ -242,12 +398,24 @@
     "question_en": "\"Assa7bi\" is a well-known song by which Egyptian rapper?",
     "question_ar": "أغنية \"الصح بي\" لأنهي رابر مصري؟",
     "options": [
-      { "en": "Wegz", "ar": "ويجز" },
-      { "en": "Marwan Pablo", "ar": "مروان بابلو" },
-      { "en": "Afroto", "ar": "أفروتو" },
-      { "en": "Abyusif", "ar": "أبيوسف" }
+      {
+        "en": "Afroto",
+        "ar": "أفروتو"
+      },
+      {
+        "en": "Wegz",
+        "ar": "ويجز"
+      },
+      {
+        "en": "Abyusif",
+        "ar": "أبيوسف"
+      },
+      {
+        "en": "Marwan Pablo",
+        "ar": "مروان بابلو"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "\"Assa7bi\" is one of Wegz's popular tracks.",
     "explanation_ar": "\"الصح بي\" من أغاني ويجز المشهورة."
   },
@@ -260,12 +428,24 @@
     "question_en": "Rauw Alejandro, a major reggaeton/Latin pop star, is from which country?",
     "question_ar": "راو أليخاندرو، نجم الريجيتون والبوب اللاتيني الكبير، من أنهي بلد؟",
     "options": [
-      { "en": "Puerto Rico", "ar": "بورتوريكو" },
-      { "en": "Colombia", "ar": "كولومبيا" },
-      { "en": "Mexico", "ar": "المكسيك" },
-      { "en": "Spain", "ar": "إسبانيا" }
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "Mexico",
+        "ar": "المكسيك"
+      },
+      {
+        "en": "Puerto Rico",
+        "ar": "بورتوريكو"
+      },
+      {
+        "en": "Colombia",
+        "ar": "كولومبيا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Rauw Alejandro is a Puerto Rican reggaeton star.",
     "explanation_ar": "راو أليخاندرو نجم ريجيتون من بورتوريكو."
   },
@@ -278,10 +458,22 @@
     "question_en": "What is the name of the singing style where words are rhythmically spoken rather than sung melodically, central to hip-hop?",
     "question_ar": "بيتقال إيه على أسلوب الغنا اللي بيتقال فيه الكلام بإيقاع من غير لحن، وده أساس الهيب هوب؟",
     "options": [
-      { "en": "Beatboxing", "ar": "البيت بوكس" },
-      { "en": "Yodeling", "ar": "اليودل" },
-      { "en": "Rapping", "ar": "الراب" },
-      { "en": "Scatting", "ar": "السكات" }
+      {
+        "en": "Yodeling",
+        "ar": "اليودل"
+      },
+      {
+        "en": "Beatboxing",
+        "ar": "البيت بوكس"
+      },
+      {
+        "en": "Rapping",
+        "ar": "الراب"
+      },
+      {
+        "en": "Scatting",
+        "ar": "السكات"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Rhythmic spoken vocals central to hip-hop are called rapping.",
@@ -296,10 +488,22 @@
     "question_en": "Which of these is one of Umm Kulthum's most famous songs about heartbreak, \"Al ___\"?",
     "question_ar": "أنهي أغنية من أشهر أغاني أم كلثوم عن الفراق، \"ال___\"؟",
     "options": [
-      { "en": "Amal", "ar": "أمل" },
-      { "en": "Layali", "ar": "ليالي" },
-      { "en": "Donya", "ar": "دنيا" },
-      { "en": "Atlal", "ar": "أطلال" }
+      {
+        "en": "Amal",
+        "ar": "أمل"
+      },
+      {
+        "en": "Layali",
+        "ar": "ليالي"
+      },
+      {
+        "en": "Donya",
+        "ar": "دنيا"
+      },
+      {
+        "en": "Atlal",
+        "ar": "أطلال"
+      }
     ],
     "correctAnswer": 3,
     "explanation_en": "\"Al Atlal\" (The Ruins) is one of Umm Kulthum's most celebrated songs.",
@@ -314,12 +518,24 @@
     "question_en": "Which Egyptian artist is known for popular mahraganat hits with Wegz?",
     "question_ar": "أنهي فنان مصري معروف بأغاني مهرجانات شهيرة اشتغل مع ويجز؟",
     "options": [
-      { "en": "Afroto", "ar": "أفروتو" },
-      { "en": "Hisham Gamal", "ar": "هشام جمال" },
-      { "en": "Sherine", "ar": "شيرين" },
-      { "en": "Angham", "ar": "أنغام" }
+      {
+        "en": "Sherine",
+        "ar": "شيرين"
+      },
+      {
+        "en": "Angham",
+        "ar": "أنغام"
+      },
+      {
+        "en": "Afroto",
+        "ar": "أفروتو"
+      },
+      {
+        "en": "Hisham Gamal",
+        "ar": "هشام جمال"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Afroto is a well-known Egyptian mahraganat/rap artist who has worked with Wegz.",
     "explanation_ar": "أفروتو من فناني المهرجانات المعروفين واللي اشتغل مع ويجز."
   },
@@ -332,12 +548,24 @@
     "question_en": "Hamza Namira, known for songs like \"Insan\" and \"Ala Bali\", is from which country?",
     "question_ar": "حمزة نمرة، معروف بأغاني زي \"إنسان\" و\"على بالي\"، من أنهي بلد؟",
     "options": [
-      { "en": "Egypt", "ar": "مصر" },
-      { "en": "Lebanon", "ar": "لبنان" },
-      { "en": "Jordan", "ar": "الأردن" },
-      { "en": "Syria", "ar": "سوريا" }
+      {
+        "en": "Syria",
+        "ar": "سوريا"
+      },
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Lebanon",
+        "ar": "لبنان"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Hamza Namira is an Egyptian singer-songwriter.",
     "explanation_ar": "حمزة نمرة مطرب وكاتب أغاني مصري."
   },
@@ -350,10 +578,22 @@
     "question_en": "Which Egyptian singer is known for the wedding-favorite song \"Aa Baly Habibi\"?",
     "question_ar": "أنهي مطرب مصري معروف بأغنية الأفراح \"ع بالي حبيبي\"؟",
     "options": [
-      { "en": "Ehab Tawfik", "ar": "إيهاب توفيق" },
-      { "en": "Amr Diab", "ar": "عمرو دياب" },
-      { "en": "Mohamed Fouad", "ar": "محمد فؤاد" },
-      { "en": "Hamada Helal", "ar": "حماده هلال" }
+      {
+        "en": "Amr Diab",
+        "ar": "عمرو دياب"
+      },
+      {
+        "en": "Mohamed Fouad",
+        "ar": "محمد فؤاد"
+      },
+      {
+        "en": "Ehab Tawfik",
+        "ar": "إيهاب توفيق"
+      },
+      {
+        "en": "Hamada Helal",
+        "ar": "حماده هلال"
+      }
     ],
     "correctAnswer": 3,
     "explanation_en": "\"Aa Baly Habibi\" is a well-known Hamada Helal wedding song.",
@@ -368,10 +608,22 @@
     "question_en": "Which of these describes a musical scale of exactly 8 notes returning to the starting note?",
     "question_ar": "أنهي وصف بيوصف السلم الموسيقي المكون من 8 نغمات بيرجع لنفس النغمة اللي بدأ بيها؟",
     "options": [
-      { "en": "Tempo", "ar": "تمبو" },
-      { "en": "Interval", "ar": "إنترفال" },
-      { "en": "Chord", "ar": "كورد" },
-      { "en": "Octave", "ar": "أوكتاف" }
+      {
+        "en": "Chord",
+        "ar": "كورد"
+      },
+      {
+        "en": "Interval",
+        "ar": "إنترفال"
+      },
+      {
+        "en": "Tempo",
+        "ar": "تمبو"
+      },
+      {
+        "en": "Octave",
+        "ar": "أوكتاف"
+      }
     ],
     "correctAnswer": 3,
     "explanation_en": "An octave is a scale of 8 notes returning to the starting pitch.",
@@ -386,12 +638,24 @@
     "question_en": "Which of these songs is by Egyptian singer Sherine?",
     "question_ar": "أنهي أغنية من دول لشيرين؟",
     "options": [
-      { "en": "Ya Retni", "ar": "يا ريتني" },
-      { "en": "Ah W Noss", "ar": "آه ونص" },
-      { "en": "Wehyaty", "ar": "وحياتي" },
-      { "en": "Set El Habayeb", "ar": "ست الحبايب" }
+      {
+        "en": "Wehyaty",
+        "ar": "وحياتي"
+      },
+      {
+        "en": "Ah W Noss",
+        "ar": "آه ونص"
+      },
+      {
+        "en": "Ya Retni",
+        "ar": "يا ريتني"
+      },
+      {
+        "en": "Set El Habayeb",
+        "ar": "ست الحبايب"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"Ya Retni\" is one of Sherine's most beloved songs.",
     "explanation_ar": "\"يا ريتني\" من أشهر أغاني شيرين."
   },
@@ -404,12 +668,24 @@
     "question_en": "Dina El Wedidi is an Egyptian singer known for blending folk with which style?",
     "question_ar": "دينا الوديدي مطربة مصرية معروفة بمزج الفلكلور بأنهي أسلوب؟",
     "options": [
-      { "en": "Alternative/indie", "ar": "إندي/بديل" },
-      { "en": "Classical opera", "ar": "أوبرا كلاسيكية" },
-      { "en": "Reggae", "ar": "ريجي" },
-      { "en": "Metal", "ar": "ميتال" }
+      {
+        "en": "Metal",
+        "ar": "ميتال"
+      },
+      {
+        "en": "Alternative/indie",
+        "ar": "إندي/بديل"
+      },
+      {
+        "en": "Reggae",
+        "ar": "ريجي"
+      },
+      {
+        "en": "Classical opera",
+        "ar": "أوبرا كلاسيكية"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Dina El Wedidi is known for her indie/folk-influenced sound.",
     "explanation_ar": "دينا الوديدي معروفة بأسلوبها الفلكلوري/الإندي."
   },
@@ -422,12 +698,24 @@
     "question_en": "Ariana Grande, known for \"7 rings\" and \"thank u, next\", is from which US state?",
     "question_ar": "أريانا جراندي، معروفة بأغاني \"7 rings\" و\"thank u, next\"، من أنهي ولاية أمريكية؟",
     "options": [
-      { "en": "Florida", "ar": "فلوريدا" },
-      { "en": "California", "ar": "كاليفورنيا" },
-      { "en": "New York", "ar": "نيويورك" },
-      { "en": "Texas", "ar": "تكساس" }
+      {
+        "en": "New York",
+        "ar": "نيويورك"
+      },
+      {
+        "en": "Florida",
+        "ar": "فلوريدا"
+      },
+      {
+        "en": "California",
+        "ar": "كاليفورنيا"
+      },
+      {
+        "en": "Texas",
+        "ar": "تكساس"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Ariana Grande was born in Boca Raton, Florida.",
     "explanation_ar": "أريانا جراندي اتولدت في بوكا راتون، فلوريدا."
   },
@@ -440,10 +728,22 @@
     "question_en": "What do we call an instrumental version of a song, without vocals?",
     "question_ar": "بيتقال إيه على نسخة من الأغنية من غير صوت مطرب؟",
     "options": [
-      { "en": "Instrumental", "ar": "إنسترومنتال" },
-      { "en": "Remix", "ar": "ريمكس" },
-      { "en": "Acapella", "ar": "أكابيلا" },
-      { "en": "Live version", "ar": "نسخة لايف" }
+      {
+        "en": "Instrumental",
+        "ar": "إنسترومنتال"
+      },
+      {
+        "en": "Acapella",
+        "ar": "أكابيلا"
+      },
+      {
+        "en": "Remix",
+        "ar": "ريمكس"
+      },
+      {
+        "en": "Live version",
+        "ar": "نسخة لايف"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "A version of a song without vocals is called an instrumental.",
@@ -458,10 +758,22 @@
     "question_en": "Mohamed Ramadan is known for a music style that blends shaabi with which modern genre?",
     "question_ar": "محمد رمضان معروف بمزج الشعبي بأنهي نوع موسيقى حديث؟",
     "options": [
-      { "en": "Trap/hip-hop", "ar": "تراب/هيب هوب" },
-      { "en": "Classical", "ar": "كلاسيك" },
-      { "en": "Jazz", "ar": "جاز" },
-      { "en": "Country", "ar": "كانتري" }
+      {
+        "en": "Trap/hip-hop",
+        "ar": "تراب/هيب هوب"
+      },
+      {
+        "en": "Classical",
+        "ar": "كلاسيك"
+      },
+      {
+        "en": "Country",
+        "ar": "كانتري"
+      },
+      {
+        "en": "Jazz",
+        "ar": "جاز"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Mohamed Ramadan blends shaabi themes with modern trap/hip-hop production.",
@@ -476,10 +788,22 @@
     "question_en": "Olivia Rodrigo, known for \"drivers license\" and \"vampire\", is from which country?",
     "question_ar": "أوليفيا رودريجو، معروفة بأغنية \"drivers license\" و\"vampire\"، من أنهي بلد؟",
     "options": [
-      { "en": "USA", "ar": "أمريكا" },
-      { "en": "Canada", "ar": "كندا" },
-      { "en": "UK", "ar": "بريطانيا" },
-      { "en": "Australia", "ar": "أستراليا" }
+      {
+        "en": "USA",
+        "ar": "أمريكا"
+      },
+      {
+        "en": "UK",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "Canada",
+        "ar": "كندا"
+      },
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Olivia Rodrigo is an American singer-songwriter.",
@@ -494,12 +818,24 @@
     "question_en": "Faia Younan, a popular Arab singer known for soulful ballads, is originally from which country?",
     "question_ar": "فيا يونان، المطربة العربية المشهورة بالأغاني الرومانسية العميقة، أصلها من أنهي بلد؟",
     "options": [
-      { "en": "Syria", "ar": "سوريا" },
-      { "en": "Lebanon", "ar": "لبنان" },
-      { "en": "Jordan", "ar": "الأردن" },
-      { "en": "Iraq", "ar": "العراق" }
+      {
+        "en": "Lebanon",
+        "ar": "لبنان"
+      },
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
+      },
+      {
+        "en": "Syria",
+        "ar": "سوريا"
+      },
+      {
+        "en": "Iraq",
+        "ar": "العراق"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Faia Younan is a Syrian singer popular across the Arab world.",
     "explanation_ar": "فيا يونان مطربة سورية مشهورة في العالم العربي."
   },
@@ -512,12 +848,24 @@
     "question_en": "What is the standard number of members in a \"quartet\"?",
     "question_ar": "الكوارتيت بيتكون من كام فرد عادة؟",
     "options": [
-      { "en": "4", "ar": "4" },
-      { "en": "3", "ar": "3" },
-      { "en": "2", "ar": "2" },
-      { "en": "5", "ar": "5" }
+      {
+        "en": "3",
+        "ar": "3"
+      },
+      {
+        "en": "2",
+        "ar": "2"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "5",
+        "ar": "5"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A quartet is a group of four performers.",
     "explanation_ar": "الكوارتيت مجموعة من 4 أفراد."
   },
@@ -530,10 +878,22 @@
     "question_en": "Which of these songs is by Lebanese singer Nancy Ajram?",
     "question_ar": "أنهي أغنية من دول لنانسي عجرم؟",
     "options": [
-      { "en": "Ya Ya", "ar": "يا يا" },
-      { "en": "Bent El Giran", "ar": "بنت الجيران" },
-      { "en": "Insan", "ar": "إنسان" },
-      { "en": "Assa7bi", "ar": "الصح بي" }
+      {
+        "en": "Ya Ya",
+        "ar": "يا يا"
+      },
+      {
+        "en": "Assa7bi",
+        "ar": "الصح بي"
+      },
+      {
+        "en": "Bent El Giran",
+        "ar": "بنت الجيران"
+      },
+      {
+        "en": "Insan",
+        "ar": "إنسان"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "\"Ya Ya\" is one of Nancy Ajram's breakout hits.",
@@ -548,12 +908,24 @@
     "question_en": "Sabrina Carpenter, known for the 2024 hit \"Espresso\", is from which country?",
     "question_ar": "سابرينا كاربنتر، معروفة بأغنية \"Espresso\" سنة 2024، من أنهي بلد؟",
     "options": [
-      { "en": "USA", "ar": "أمريكا" },
-      { "en": "Canada", "ar": "كندا" },
-      { "en": "UK", "ar": "بريطانيا" },
-      { "en": "Australia", "ar": "أستراليا" }
+      {
+        "en": "UK",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      },
+      {
+        "en": "Canada",
+        "ar": "كندا"
+      },
+      {
+        "en": "USA",
+        "ar": "أمريكا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Sabrina Carpenter is an American singer.",
     "explanation_ar": "سابرينا كاربنتر مطربة أمريكية."
   },
@@ -566,10 +938,22 @@
     "question_en": "Which of these is a well-known song by Egyptian rapper Abyusif?",
     "question_ar": "أنهي أغنية من دول لأبيوسف؟",
     "options": [
-      { "en": "Analogy", "ar": "أنالوجي" },
-      { "en": "Ezz El Arab", "ar": "عز العرب" },
-      { "en": "El Bakht", "ar": "البخت" },
-      { "en": "Dorak Gai", "ar": "دورك جاي" }
+      {
+        "en": "Analogy",
+        "ar": "أنالوجي"
+      },
+      {
+        "en": "Ezz El Arab",
+        "ar": "عز العرب"
+      },
+      {
+        "en": "Dorak Gai",
+        "ar": "دورك جاي"
+      },
+      {
+        "en": "El Bakht",
+        "ar": "البخت"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "\"Analogy\" is a well-known track by Abyusif.",
@@ -584,12 +968,24 @@
     "question_en": "Peso Pluma, a leading star of the \"corridos tumbados\" genre, is from which country?",
     "question_ar": "بيسو بلوما، نجم كبير في أسلوب \"كوريدوس توميادوس\"، من أنهي بلد؟",
     "options": [
-      { "en": "Mexico", "ar": "المكسيك" },
-      { "en": "Colombia", "ar": "كولومبيا" },
-      { "en": "Argentina", "ar": "الأرجنتين" },
-      { "en": "Spain", "ar": "إسبانيا" }
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Colombia",
+        "ar": "كولومبيا"
+      },
+      {
+        "en": "Mexico",
+        "ar": "المكسيك"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Peso Pluma is a Mexican singer known for popularizing corridos tumbados globally.",
     "explanation_ar": "بيسو بلوما مطرب مكسيكي ساعد في نشر أسلوب الكوريدوس توميادوس عالميًا."
   },
@@ -602,12 +998,24 @@
     "question_en": "What music genre, born in New York in the 1970s, includes rapping, DJing, and breakdancing?",
     "question_ar": "أنهي نوع موسيقي ظهر في نيويورك في السبعينات وبيضم الراب والديچي والبريك دانس؟",
     "options": [
-      { "en": "Hip-hop", "ar": "الهيب هوب" },
-      { "en": "Funk", "ar": "الفانك" },
-      { "en": "Punk", "ar": "البانك" },
-      { "en": "Disco", "ar": "الديسكو" }
+      {
+        "en": "Punk",
+        "ar": "البانك"
+      },
+      {
+        "en": "Disco",
+        "ar": "الديسكو"
+      },
+      {
+        "en": "Funk",
+        "ar": "الفانك"
+      },
+      {
+        "en": "Hip-hop",
+        "ar": "الهيب هوب"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Hip-hop culture, including rap, emerged in 1970s New York.",
     "explanation_ar": "ثقافة الهيب هوب ومنها الراب ظهرت في نيويورك في السبعينات."
   },
@@ -620,12 +1028,24 @@
     "question_en": "Central Cee, a leading UK drill rapper known for \"Doja\" and \"Sprinter\", is from which country?",
     "question_ar": "سنترال سي، رابر الدريل البريطاني المعروف بأغنية \"Doja\" و\"Sprinter\"، من أنهي بلد؟",
     "options": [
-      { "en": "UK", "ar": "بريطانيا" },
-      { "en": "USA", "ar": "أمريكا" },
-      { "en": "Ireland", "ar": "أيرلندا" },
-      { "en": "Canada", "ar": "كندا" }
+      {
+        "en": "USA",
+        "ar": "أمريكا"
+      },
+      {
+        "en": "UK",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "Canada",
+        "ar": "كندا"
+      },
+      {
+        "en": "Ireland",
+        "ar": "أيرلندا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Central Cee is a British rapper from West London.",
     "explanation_ar": "سنترال سي رابر بريطاني من غرب لندن."
   },
@@ -638,12 +1058,24 @@
     "question_en": "Feid, a major reggaeton star known for his \"Ferxxo\" hit series, is from which country?",
     "question_ar": "فيد، نجم الريجيتون المعروف بسلسلة أغاني \"فيركسو\"، من أنهي بلد؟",
     "options": [
-      { "en": "Colombia", "ar": "كولومبيا" },
-      { "en": "Puerto Rico", "ar": "بورتوريكو" },
-      { "en": "Mexico", "ar": "المكسيك" },
-      { "en": "Argentina", "ar": "الأرجنتين" }
+      {
+        "en": "Mexico",
+        "ar": "المكسيك"
+      },
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Puerto Rico",
+        "ar": "بورتوريكو"
+      },
+      {
+        "en": "Colombia",
+        "ar": "كولومبيا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Feid is a Colombian reggaeton artist.",
     "explanation_ar": "فيد فنان ريجيتون كولومبي."
   },
@@ -656,12 +1088,24 @@
     "question_en": "Which of these is a brass instrument played by buzzing your lips into a mouthpiece?",
     "question_ar": "أنهي آلة من دول نحاسية وبتتعزف عن طريق الشفايف في فوهة الآلة؟",
     "options": [
-      { "en": "Violin", "ar": "كمان" },
-      { "en": "Clarinet", "ar": "كلارينيت" },
-      { "en": "Flute", "ar": "فلوت" },
-      { "en": "Trumpet", "ar": "ترومبيت" }
+      {
+        "en": "Trumpet",
+        "ar": "ترومبيت"
+      },
+      {
+        "en": "Flute",
+        "ar": "فلوت"
+      },
+      {
+        "en": "Violin",
+        "ar": "كمان"
+      },
+      {
+        "en": "Clarinet",
+        "ar": "كلارينيت"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "The trumpet is a brass instrument played by buzzing the lips.",
     "explanation_ar": "الترومبيت آلة نحاسية بتتعزف بالنفخ والشفايف."
   },
@@ -674,10 +1118,22 @@
     "question_en": "\"Keda Keda\" is a well-known song by which Egyptian rapper?",
     "question_ar": "أغنية \"كده كده\" لأنهي رابر مصري؟",
     "options": [
-      { "en": "Wegz", "ar": "ويجز" },
-      { "en": "Afroto", "ar": "أفروتو" },
-      { "en": "Marwan Pablo", "ar": "مروان بابلو" },
-      { "en": "Molotof", "ar": "مولوتوف" }
+      {
+        "en": "Wegz",
+        "ar": "ويجز"
+      },
+      {
+        "en": "Molotof",
+        "ar": "مولوتوف"
+      },
+      {
+        "en": "Marwan Pablo",
+        "ar": "مروان بابلو"
+      },
+      {
+        "en": "Afroto",
+        "ar": "أفروتو"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "\"Keda Keda\" is one of Wegz's singles.",
@@ -692,12 +1148,24 @@
     "question_en": "\"Tamally Maak\" is one of the most iconic songs by which Egyptian singer?",
     "question_ar": "أغنية \"تملي معاك\" من أشهر أغاني أنهي مطرب مصري؟",
     "options": [
-      { "en": "Amr Diab", "ar": "عمرو دياب" },
-      { "en": "Tamer Hosny", "ar": "تامر حسني" },
-      { "en": "Mohamed Mounir", "ar": "محمد منير" },
-      { "en": "Hamada Helal", "ar": "حماده هلال" }
+      {
+        "en": "Tamer Hosny",
+        "ar": "تامر حسني"
+      },
+      {
+        "en": "Mohamed Mounir",
+        "ar": "محمد منير"
+      },
+      {
+        "en": "Amr Diab",
+        "ar": "عمرو دياب"
+      },
+      {
+        "en": "Hamada Helal",
+        "ar": "حماده هلال"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"Tamally Maak\" is one of Amr Diab's most beloved hits.",
     "explanation_ar": "\"تملي معاك\" من أحب أغاني عمرو دياب لجمهوره."
   },
@@ -710,10 +1178,22 @@
     "question_en": "Which of these terms describes music played at a fast tempo, energetic pace?",
     "question_ar": "أنهي مصطلح بيوصف الموسيقى اللي بتتعزف بسرعة وإيقاع حماسي؟",
     "options": [
-      { "en": "Dirge", "ar": "مرثية" },
-      { "en": "Ballad", "ar": "بالاد" },
-      { "en": "Upbeat", "ar": "أبتيت" },
-      { "en": "Lullaby", "ar": "تهويدة" }
+      {
+        "en": "Lullaby",
+        "ar": "تهويدة"
+      },
+      {
+        "en": "Dirge",
+        "ar": "مرثية"
+      },
+      {
+        "en": "Upbeat",
+        "ar": "أبتيت"
+      },
+      {
+        "en": "Ballad",
+        "ar": "بالاد"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Fast, energetic music is often described as upbeat.",
@@ -728,12 +1208,24 @@
     "question_en": "Marwan Pablo's breakout mixtape, which helped popularize Egyptian trap, is called ___?",
     "question_ar": "الميكستيب اللي فتح الطريق لمروان بابلو ونشر التراب المصري اسمه ___؟",
     "options": [
-      { "en": "El Motareb", "ar": "المطرب" },
-      { "en": "Free Mars", "ar": "فري مارس" },
-      { "en": "Analogy", "ar": "أنالوجي" },
-      { "en": "3 Daqat", "ar": "3 دقات" }
+      {
+        "en": "Analogy",
+        "ar": "أنالوجي"
+      },
+      {
+        "en": "Free Mars",
+        "ar": "فري مارس"
+      },
+      {
+        "en": "El Motareb",
+        "ar": "المطرب"
+      },
+      {
+        "en": "3 Daqat",
+        "ar": "3 دقات"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"El Motareb\" (2019) was Marwan Pablo's breakout mixtape.",
     "explanation_ar": "\"المطرب\" (2019) كان الميكستيب اللي فتح الطريق لمروان بابلو."
   },
@@ -746,12 +1238,24 @@
     "question_en": "Anitta, the Brazilian pop star known for the viral hit \"Envolver\", is from which country?",
     "question_ar": "أنيتا، نجمة البوب البرازيلية المعروفة بأغنية \"Envolver\" الفيروسية، من أنهي بلد؟",
     "options": [
-      { "en": "Brazil", "ar": "البرازيل" },
-      { "en": "Argentina", "ar": "الأرجنتين" },
-      { "en": "Portugal", "ar": "البرتغال" },
-      { "en": "Colombia", "ar": "كولومبيا" }
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Portugal",
+        "ar": "البرتغال"
+      },
+      {
+        "en": "Colombia",
+        "ar": "كولومبيا"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Anitta is a Brazilian singer known worldwide for \"Envolver\".",
     "explanation_ar": "أنيتا مطربة برازيلية اشتهرت عالميًا بأغنية \"Envolver\"."
   },
@@ -764,12 +1268,24 @@
     "question_en": "What is the term for a song's slower, softer section that provides emotional contrast, often called the \"___\" section?",
     "question_ar": "بيتقال إيه على الجزء الهادي والمختلف عاطفيًا في الأغنية واللي بيقاطع باقي الأغنية؟",
     "options": [
-      { "en": "Outro", "ar": "أوترو" },
-      { "en": "Refrain", "ar": "ريفرين" },
-      { "en": "Hook", "ar": "هوك" },
-      { "en": "Bridge", "ar": "بريدج" }
+      {
+        "en": "Refrain",
+        "ar": "ريفرين"
+      },
+      {
+        "en": "Bridge",
+        "ar": "بريدج"
+      },
+      {
+        "en": "Outro",
+        "ar": "أوترو"
+      },
+      {
+        "en": "Hook",
+        "ar": "هوك"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "This contrasting section of a song is called the bridge.",
     "explanation_ar": "الجزء اللي بيقاطع باقي الأغنية بشكل مختلف اسمه \"بريدج\"."
   },
@@ -782,12 +1298,24 @@
     "question_en": "\"Ya El Medan\" is a Cairokee song strongly associated with which Egyptian square?",
     "question_ar": "أغنية \"يا الميدان\" لكايروكي مرتبطة بأنهي ميدان مصري؟",
     "options": [
-      { "en": "Tahrir Square", "ar": "ميدان التحرير" },
-      { "en": "Ramses Square", "ar": "ميدان رمسيس" },
-      { "en": "Talaat Harb Square", "ar": "ميدان طلعت حرب" },
-      { "en": "Opera Square", "ar": "ميدان الأوبرا" }
+      {
+        "en": "Ramses Square",
+        "ar": "ميدان رمسيس"
+      },
+      {
+        "en": "Opera Square",
+        "ar": "ميدان الأوبرا"
+      },
+      {
+        "en": "Talaat Harb Square",
+        "ar": "ميدان طلعت حرب"
+      },
+      {
+        "en": "Tahrir Square",
+        "ar": "ميدان التحرير"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Ya El Medan\" is linked to Tahrir Square, a symbol of the 2011 revolution.",
     "explanation_ar": "\"يا الميدان\" مرتبطة بميدان التحرير، رمز ثورة 2011."
   },
@@ -800,12 +1328,24 @@
     "question_en": "Which Egyptian singer is known for the romantic hit \"Wehyaty\" and long duets with Amr Diab-era pop stars?",
     "question_ar": "أنهي مطربة مصرية معروفة بأغنية \"وحياتي\"؟",
     "options": [
-      { "en": "Angham", "ar": "أنغام" },
-      { "en": "Nawal El Zoghbi", "ar": "نوال الزغبي" },
-      { "en": "Donia Samir Ghanem", "ar": "دنيا سمير غانم" },
-      { "en": "Latifa", "ar": "لطيفة" }
+      {
+        "en": "Latifa",
+        "ar": "لطيفة"
+      },
+      {
+        "en": "Donia Samir Ghanem",
+        "ar": "دنيا سمير غانم"
+      },
+      {
+        "en": "Angham",
+        "ar": "أنغام"
+      },
+      {
+        "en": "Nawal El Zoghbi",
+        "ar": "نوال الزغبي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"Wehyaty\" is a well-known Angham song.",
     "explanation_ar": "\"وحياتي\" من أغاني أنغام المعروفة."
   },
@@ -818,12 +1358,24 @@
     "question_en": "Which of these Egyptian singers is known for combining shaabi/wedding-song style with modern pop production?",
     "question_ar": "مين من دول مطرب مصري معروف بمزج أسلوب الشعبي/الأفراح بإنتاج بوب حديث؟",
     "options": [
-      { "en": "Ahmed Saad", "ar": "أحمد سعد" },
-      { "en": "Mohamed Mounir", "ar": "محمد منير" },
-      { "en": "Ali El Haggar", "ar": "علي الحجار" },
-      { "en": "Hany Shaker", "ar": "هاني شاكر" }
+      {
+        "en": "Ali El Haggar",
+        "ar": "علي الحجار"
+      },
+      {
+        "en": "Ahmed Saad",
+        "ar": "أحمد سعد"
+      },
+      {
+        "en": "Hany Shaker",
+        "ar": "هاني شاكر"
+      },
+      {
+        "en": "Mohamed Mounir",
+        "ar": "محمد منير"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Ahmed Saad is known for blending shaabi/wedding-song energy with modern pop sounds.",
     "explanation_ar": "أحمد سعد معروف بمزج طاقة الشعبي والأفراح بصوت بوب حديث."
   },
@@ -836,12 +1388,24 @@
     "question_en": "Which of these is a viral hit song by Elyanna?",
     "question_ar": "أنهي أغنية فيروسية من دول لإليانا؟",
     "options": [
-      { "en": "Al Sham", "ar": "الشام" },
-      { "en": "Ah W Noss", "ar": "آه ونص" },
-      { "en": "Ya Ya", "ar": "يا يا" },
-      { "en": "Insan", "ar": "إنسان" }
+      {
+        "en": "Ah W Noss",
+        "ar": "آه ونص"
+      },
+      {
+        "en": "Al Sham",
+        "ar": "الشام"
+      },
+      {
+        "en": "Ya Ya",
+        "ar": "يا يا"
+      },
+      {
+        "en": "Insan",
+        "ar": "إنسان"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "\"Al Sham\" is one of Elyanna's breakout songs.",
     "explanation_ar": "\"الشام\" من أغاني إليانا اللي لفتت الأنظار ليها."
   },
@@ -854,12 +1418,24 @@
     "question_en": "Which Egyptian singer is known for the mega-hit duet \"Alby Etsalab Habibi\" and pop chart success in the 2000s?",
     "question_ar": "أنهي مطرب مصري كان من أنجح نجوم البوب في الألفينات؟",
     "options": [
-      { "en": "Tamer Hosny", "ar": "تامر حسني" },
-      { "en": "Ihab Tawfik", "ar": "إيهاب توفيق" },
-      { "en": "Hisham Abbas", "ar": "هشام عباس" },
-      { "en": "Amr Mostafa", "ar": "عمرو مصطفى" }
+      {
+        "en": "Ihab Tawfik",
+        "ar": "إيهاب توفيق"
+      },
+      {
+        "en": "Hisham Abbas",
+        "ar": "هشام عباس"
+      },
+      {
+        "en": "Amr Mostafa",
+        "ar": "عمرو مصطفى"
+      },
+      {
+        "en": "Tamer Hosny",
+        "ar": "تامر حسني"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Tamer Hosny was one of the biggest pop stars of the 2000s in Egypt.",
     "explanation_ar": "تامر حسني كان من أنجح نجوم البوب في مصر في الألفينات."
   },
@@ -872,12 +1448,24 @@
     "question_en": "Which of these Egyptian bands became especially known for songs tied to the 2011 revolution?",
     "question_ar": "أنهي فرقة مصرية اشتهرت بشكل خاص بأغاني مرتبطة بثورة 2011؟",
     "options": [
-      { "en": "Cairokee", "ar": "كايروكي" },
-      { "en": "Massar Egbari", "ar": "مسار إجباري" },
-      { "en": "Sharmoofers", "ar": "شارموفرز" },
-      { "en": "Wust El Balad", "ar": "وسط البلد" }
+      {
+        "en": "Massar Egbari",
+        "ar": "مسار إجباري"
+      },
+      {
+        "en": "Cairokee",
+        "ar": "كايروكي"
+      },
+      {
+        "en": "Wust El Balad",
+        "ar": "وسط البلد"
+      },
+      {
+        "en": "Sharmoofers",
+        "ar": "شارموفرز"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Cairokee became especially known for revolution-era anthems like \"Sout El Horeya\".",
     "explanation_ar": "كايروكي اشتهرت بشكل خاص بأغاني الثورة زي \"صوت الحرية\"."
   },
@@ -890,10 +1478,22 @@
     "question_en": "Which of these describes music with no copyright, free to use, often called \"___-free\"?",
     "question_ar": "بيتقال إيه على الموسيقى اللي معملهاش حقوق نشر ومسموح تستخدمها؟",
     "options": [
-      { "en": "Royalty", "ar": "رويالتي" },
-      { "en": "Copy", "ar": "كوبي" },
-      { "en": "License", "ar": "لايسنس" },
-      { "en": "Public", "ar": "عام" }
+      {
+        "en": "Royalty",
+        "ar": "رويالتي"
+      },
+      {
+        "en": "Public",
+        "ar": "عام"
+      },
+      {
+        "en": "Copy",
+        "ar": "كوبي"
+      },
+      {
+        "en": "License",
+        "ar": "لايسنس"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Music free of usage fees is called \"royalty-free\".",

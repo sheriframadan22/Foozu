@@ -383,17 +383,17 @@
     "category_ar": "افلام",
     "value": 20,
     "difficulty": 2,
-    "question_en": "\"El Kenz\" (The Treasure), the big-ensemble hit, follows a search for treasure hidden during which era?",
-    "question_ar": "فيلم \"الكنز\" اللي جمع نجوم كتير، بيحكي عن البحث عن كنز اتخبى في إيه حقبة؟",
+    "question_en": "\"El Kenz\" (The Treasure), the big-ensemble hit, brings together which two major Egyptian stars, Mohamed Ramadan and who else?",
+    "question_ar": "فيلم \"الكنز\" اللي جمع نجوم كتير، بيجمع محمد رمضان مع مين كمان من كبار نجوم مصر؟",
     "options": [
-      { "en": "World War II", "ar": "الحرب العالمية التانية" },
-      { "en": "The Crusades", "ar": "الحروب الصليبية" },
-      { "en": "Ottoman rule", "ar": "الحكم العثماني" },
-      { "en": "Ancient Egypt", "ar": "مصر الفرعونية" }
+      { "en": "Mohamed Saad", "ar": "محمد سعد" },
+      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" },
+      { "en": "Ahmed El Sakka", "ar": "أحمد السقا" },
+      { "en": "Amr Youssef", "ar": "عمرو يوسف" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"El Kenz\" follows a search for treasure hidden during the World War II era.",
-    "explanation_ar": "فيلم الكنز بيحكي عن البحث عن كنز اتخبى وقت الحرب العالمية التانية."
+    "explanation_en": "\"El Kenz\" brings together Mohamed Ramadan and Mohamed Saad among its large ensemble cast.",
+    "explanation_ar": "فيلم الكنز بيجمع محمد رمضان ومحمد سعد ضمن نجوم كتير في العمل."
   },
   {
     "id": "MOV-020-023",
@@ -401,17 +401,17 @@
     "category_ar": "افلام",
     "value": 20,
     "difficulty": 2,
-    "question_en": "Mohamed Ramadan's \"Kalb Asad\" sees him play what kind of character, forced to fight to protect his family?",
-    "question_ar": "في فيلم \"كلب أسد\"، محمد رمضان بيمثل دور إيه شخصية بتتحول لمقاتل عشان تحمي عيلتها؟",
+    "question_en": "In \"Qalb El-Asad\", Mohamed Ramadan plays a street thug who was raised as a child in what unusual setting?",
+    "question_ar": "في فيلم \"قلب الأسد\"، محمد رمضان بيمثل دور بلطجي اتربى وهو صغير في إيه مكان غريب؟",
     "options": [
-      { "en": "A nightclub bodyguard", "ar": "حارس شخصي في كباريه" },
-      { "en": "A police detective", "ar": "محقق شرطة" },
-      { "en": "A lawyer", "ar": "محامي" },
-      { "en": "A doctor", "ar": "دكتور" }
+      { "en": "A circus, among lions and tigers", "ar": "سيرك، بين الأسود والنمور" },
+      { "en": "A police academy", "ar": "كلية الشرطة" },
+      { "en": "A monastery", "ar": "دير" },
+      { "en": "A ship", "ar": "سفينة" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"Kalb Asad\" (Lion Heart, 2020) stars Mohamed Ramadan as a bodyguard fighting to protect his family.",
-    "explanation_ar": "فيلم كلب أسد سنة 2020 بطولة محمد رمضان في دور حارس شخصي بيتحول لمقاتل عشان عيلته."
+    "explanation_en": "\"Qalb El-Asad\" (2013) follows a kidnapped child raised in a circus among lions and tigers.",
+    "explanation_ar": "فيلم قلب الأسد سنة 2013 بيحكي عن طفل مخطوف اتربى في سيرك بين الأسود والنمور."
   },
   {
     "id": "MOV-020-024",
@@ -707,8 +707,8 @@
     "category_ar": "افلام",
     "value": 20,
     "difficulty": 2,
-    "question_en": "Tamer Hosny and Haifa Wehbe's \"Halawet Rooh\" caused controversy in Egypt over what?",
-    "question_ar": "فيلم \"حلاوة روح\" بطولة تامر حسني وهيفاء وهبي عمل جدل في مصر بسبب إيه؟",
+    "question_en": "Haifa Wehbe's \"Halawet Rooh\" caused controversy in Egypt over what?",
+    "question_ar": "فيلم \"حلاوة روح\" بطولة هيفاء وهبي عمل جدل في مصر بسبب إيه؟",
     "options": [
       { "en": "Scenes seen as too bold", "ar": "مشاهد اتشافت جريئة زيادة" },
       { "en": "Its political content", "ar": "محتواه السياسي" },

@@ -113,17 +113,17 @@
     "category_ar": "افلام",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Which actor played the strict school principal in the hit comedy \"El Nazer\"?",
-    "question_ar": "مين اللي مثل دور \"الناظر\" في الفيلم الكوميدي الشهير؟",
+    "question_en": "Which late comedy legend played the title headmaster role in the hit comedy \"El Nazer\"?",
+    "question_ar": "مين نجم الكوميديا الراحل اللي مثل دور \"الناظر\" في الفيلم الكوميدي الشهير؟",
     "options": [
       { "en": "Mohamed Saad", "ar": "محمد سعد" },
-      { "en": "Mohamed Henedy", "ar": "محمد هنيدي" },
+      { "en": "Alaa Waley El Din", "ar": "علاء ولي الدين" },
       { "en": "Ahmed Helmy", "ar": "أحمد حلمي" },
       { "en": "Hany Ramzy", "ar": "هاني رمزي" }
     ],
     "correctAnswer": 1,
-    "explanation_en": "Mohamed Henedy starred as the principal in \"El Nazer\" (2000).",
-    "explanation_ar": "محمد هنيدي مثل دور الناظر في فيلم الناظر سنة 2000."
+    "explanation_en": "Alaa Waley El Din starred as headmaster Ashour in \"El Nazer\" (2000).",
+    "explanation_ar": "علاء ولي الدين مثل دور الناظر عاشور في فيلم الناظر سنة 2000."
   },
   {
     "id": "MOV-010-008",
@@ -329,17 +329,17 @@
     "category_ar": "افلام",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Singer Tamer Hosny starred with Haifa Wehbe in which 2014 Egyptian film?",
-    "question_ar": "المطرب تامر حسني مثل مع هيفاء وهبي في إيه فيلم مصري سنة 2014؟",
+    "question_en": "Singer Tamer Hosny starred with Mai Ezz Eldin in which 2007 romantic hit, the first of a trilogy?",
+    "question_ar": "المطرب تامر حسني مثل مع مي عز الدين في إيه فيلم رومانسي سنة 2007، أول جزء من ثلاثية؟",
     "options": [
-      { "en": "Halawet Rooh", "ar": "حلاوة روح" },
+      { "en": "Omar we Salma", "ar": "عمر وسلمى" },
       { "en": "Ana Aasef", "ar": "أنا آسف" },
       { "en": "El Behansa", "ar": "البهنسة" },
       { "en": "Wahed Saheeh", "ar": "واحد صحيح" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"Halawet Rooh\" (2014) starred Tamer Hosny and Haifa Wehbe.",
-    "explanation_ar": "فيلم حلاوة روح سنة 2014 جمع تامر حسني وهيفاء وهبي."
+    "explanation_en": "\"Omar we Salma\" (2007) starred Tamer Hosny and Mai Ezz Eldin, launching a trilogy.",
+    "explanation_ar": "فيلم عمر وسلمى سنة 2007 جمع تامر حسني ومي عز الدين وكان أول جزء من ثلاثية."
   },
   {
     "id": "MOV-010-020",
@@ -499,9 +499,9 @@
       { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" },
       { "en": "Amr Youssef", "ar": "عمرو يوسف" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "\"El Kenz\" (2019) features a large ensemble cast led by Karim Abdel Aziz.",
-    "explanation_ar": "فيلم الكنز سنة 2019 فيه نجوم كتير وبطولة كريم عبدالعزيز."
+    "correctAnswer": 1,
+    "explanation_en": "\"El Kenz\" features a large ensemble cast including Mohamed Ramadan and Mohamed Saad.",
+    "explanation_ar": "فيلم الكنز فيه نجوم كتير منهم محمد رمضان ومحمد سعد."
   },
   {
     "id": "MOV-010-029",
@@ -509,17 +509,17 @@
     "category_ar": "افلام",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Mohamed Ramadan plays a bodyguard-turned-fighter in which 2020 action hit?",
-    "question_ar": "محمد رمضان بيمثل دور حارس شخصي بيتحول لمقاتل في إيه فيلم أكشن سنة 2020؟",
+    "question_en": "Mohamed Ramadan plays a street thug raised in a circus among lions and tigers in which 2013 action hit?",
+    "question_ar": "محمد رمضان بيمثل دور بلطجي اتربى في سيرك بين الأسود والنمور في إيه فيلم أكشن سنة 2013؟",
     "options": [
-      { "en": "Kalb Asad", "ar": "كلب أسد" },
+      { "en": "Qalb El-Asad", "ar": "قلب الأسد" },
       { "en": "El Prince", "ar": "البرنس" },
       { "en": "El Gezira", "ar": "الجزيرة" },
       { "en": "Mafia", "ar": "مافيا" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"Kalb Asad\" (Lion Heart, 2020) is a Mohamed Ramadan action film.",
-    "explanation_ar": "فيلم كلب أسد سنة 2020 بطولة محمد رمضان."
+    "explanation_en": "\"Qalb El-Asad\" (2013) stars Mohamed Ramadan as a child raised in a circus among lions and tigers.",
+    "explanation_ar": "فيلم قلب الأسد سنة 2013 بطولة محمد رمضان في دور واحد اتربى في سيرك بين الأسود والنمور."
   },
   {
     "id": "MOV-010-030",
@@ -581,8 +581,8 @@
     "category_ar": "افلام",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Ahmed El Sakka and Amr Saad star together as police officers in which 2012 action film?",
-    "question_ar": "أحمد السقا وعمرو سعد بيمثلوا دور ضباط شرطة مع بعض في إيه فيلم أكشن سنة 2012؟",
+    "question_en": "Ahmed El Sakka and Ahmed Ezz star together as police officers in which 2012 action film?",
+    "question_ar": "أحمد السقا وأحمد عز بيمثلوا دور ضباط شرطة مع بعض في إيه فيلم أكشن سنة 2012؟",
     "options": [
       { "en": "El Maslaha", "ar": "المصلحة" },
       { "en": "El Gezira", "ar": "الجزيرة" },
@@ -590,8 +590,8 @@
       { "en": "Tito", "ar": "تيتو" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"El Maslaha\" (2012) stars Ahmed El Sakka and Amr Saad as police officers.",
-    "explanation_ar": "فيلم المصلحة سنة 2012 بطولة أحمد السقا وعمرو سعد كضباط شرطة."
+    "explanation_en": "\"El Maslaha\" (2012) stars Ahmed El Sakka and Ahmed Ezz as police officers.",
+    "explanation_ar": "فيلم المصلحة سنة 2012 بطولة أحمد السقا وأحمد عز كضباط شرطة."
   },
   {
     "id": "MOV-010-034",
