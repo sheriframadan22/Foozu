@@ -39,12 +39,12 @@
     "question_ar": "تلحين أنهي ملحن مصري لأغنية \"إنت عمري\" (1964) كان أول تعاون بينه وبين أم كلثوم بعد عقود من المنافسة الفنية؟",
     "options": [
       {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      },
-      {
         "en": "Riad El Sonbati",
         "ar": "رياض السنباطي"
+      },
+      {
+        "en": "Mohamed Abdel Wahab",
+        "ar": "محمد عبد الوهاب"
       },
       {
         "en": "Baligh Hamdi",
@@ -55,7 +55,7 @@
         "ar": "زكريا أحمد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "\"Enta Omri\" (1964) was the first collaboration between longtime rivals Umm Kulthum and Mohamed Abdel Wahab.",
     "explanation_ar": "\"إنت عمري\" (1964) كانت أول تعاون بين أم كلثوم ومحمد عبد الوهاب بعد منافسة فنية طويلة."
   },
@@ -69,10 +69,6 @@
     "question_ar": "أنهي مطرب مصري توفي سنة 1977 بعد أسابيع بس من آخر حفلة له، وجنازته جمعت حشود شبه جنازة أم كلثوم سنة 1975؟",
     "options": [
       {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبد الحليم حافظ"
-      },
-      {
         "en": "Farid El Atrache",
         "ar": "فريد الأطرش"
       },
@@ -81,11 +77,15 @@
         "ar": "كارم محمود"
       },
       {
+        "en": "Abdel Halim Hafez",
+        "ar": "عبد الحليم حافظ"
+      },
+      {
         "en": "Mohamed Fawzi",
         "ar": "محمد فوزي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Abdel Halim Hafez's 1977 funeral drew massive crowds, echoing Umm Kulthum's funeral two years earlier.",
     "explanation_ar": "جنازة عبد الحليم حافظ سنة 1977 جذبت حشود ضخمة شبه جنازة أم كلثوم قبلها بسنتين."
   },
@@ -99,10 +99,6 @@
     "question_ar": "أنهي فرقة/فنان أدى في وودستوك 1969 بعد تأجيل لصباح الاتنين، وختم المهرجان بعد ليلة مطر؟",
     "options": [
       {
-        "en": "Jimi Hendrix",
-        "ar": "جيمي هيندريكس"
-      },
-      {
         "en": "The Grateful Dead",
         "ar": "ذا جريتفل ديد"
       },
@@ -113,9 +109,13 @@
       {
         "en": "Sly and the Family Stone",
         "ar": "سلاي آند ذا فاميلي ستون"
+      },
+      {
+        "en": "Jimi Hendrix",
+        "ar": "جيمي هيندريكس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Jimi Hendrix closed Woodstock on Monday morning after the festival ran long due to weather delays.",
     "explanation_ar": "جيمي هيندريكس ختم وودستوك صباح الاتنين بعد ما اتأجل المهرجان بسبب الجو."
   },
@@ -189,10 +189,6 @@
     "question_ar": "أغنية \"الأطلال\" الأيقونية لأنهي مطربة مبنية على قصيدة للشاعر إبراهيم ناجي وتلحين رياض السنباطي؟",
     "options": [
       {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
-      },
-      {
         "en": "Warda",
         "ar": "وردة"
       },
@@ -203,9 +199,13 @@
       {
         "en": "Najat El Saghira",
         "ar": "نجاة الصغيرة"
+      },
+      {
+        "en": "Umm Kulthum",
+        "ar": "أم كلثوم"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Al Atlal\", performed by Umm Kulthum, is based on Ibrahim Naji's poem, composed by Riad El Sonbati.",
     "explanation_ar": "\"الأطلال\"، غناء أم كلثوم، مبنية على قصيدة إبراهيم ناجي وتلحين رياض السنباطي."
   },
@@ -219,10 +219,6 @@
     "question_ar": "أنهي عازف جيتار أمريكي-بريطاني، كان عضو سابق في The Yardbirds و Cream، معروف بأغنية \"Layla\" ومن أعظم عازفي الجيتار في التاريخ؟",
     "options": [
       {
-        "en": "Eric Clapton",
-        "ar": "إريك كلابتون"
-      },
-      {
         "en": "Jeff Beck",
         "ar": "جيف بيك"
       },
@@ -231,11 +227,15 @@
         "ar": "جيمي بيدج"
       },
       {
+        "en": "Eric Clapton",
+        "ar": "إريك كلابتون"
+      },
+      {
         "en": "Pete Townshend",
         "ar": "بيت تاونسند"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Eric Clapton, of The Yardbirds and Cream, is famous for \"Layla\" and considered among the greatest guitarists.",
     "explanation_ar": "إريك كلابتون، من The Yardbirds و Cream، مشهور بأغنية \"Layla\" ومن أعظم عازفي الجيتار."
   },
@@ -245,8 +245,8 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian composer wrote the score for the 1930s-40s era operettas and later composed for cinema, being a mentor figure to Umm Kulthum's early career under Sheikh Abu El Ela Mohamed's influence?",
-    "question_ar": "أنهي ملحن مصري لحن أوبريتات الثلاثينات والأربعينات وبعدين لحن للسينما، وكان من مين أثروا في بداية مشوار أم كلثوم؟",
+    "question_en": "Which Egyptian oud player/composer shaped Umm Kulthum's early sound and also scored 1930s-40s operettas and films?",
+    "question_ar": "أنهي عازف عود وملحن مصري شكّل صوت أم كلثوم الأول ولحن كمان أوبريتات وأفلام الثلاثينات والأربعينات؟",
     "options": [
       {
         "en": "Zakaria Ahmed",
@@ -279,12 +279,12 @@
     "question_ar": "أنهي فرقة بريطانية عازف الباص فيها جون إنتويسل والدرامز كيث مون كانوا مشهورين بحفلات حية عنيفة وكيث مون بيكسر الدرامز على المسرح؟",
     "options": [
       {
-        "en": "The Who",
-        "ar": "ذا هو"
-      },
-      {
         "en": "The Rolling Stones",
         "ar": "ذا رولينج ستونز"
+      },
+      {
+        "en": "The Who",
+        "ar": "ذا هو"
       },
       {
         "en": "Led Zeppelin",
@@ -295,7 +295,7 @@
         "ar": "كريم"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Who's Keith Moon was famous for destroying drum kits during performances.",
     "explanation_ar": "كيث مون من فرقة ذا هو كان مشهور بتكسير الدرامز في الحفلات."
   },
@@ -309,10 +309,6 @@
     "question_ar": "أنهي مطربة مصرية في بداية مشوارها كانت بتغني وهي لابسة زي ولد بطلب من والدها قبل ما تبقى من أعظم الأصوات النسائية في التاريخ؟",
     "options": [
       {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
-      },
-      {
         "en": "Asmahan",
         "ar": "أسمهان"
       },
@@ -321,11 +317,15 @@
         "ar": "نعيمة عاكف"
       },
       {
+        "en": "Umm Kulthum",
+        "ar": "أم كلثوم"
+      },
+      {
         "en": "Shadia",
         "ar": "شادية"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Young Umm Kulthum performed dressed as a boy, at her father's insistence, in her earliest public singing.",
     "explanation_ar": "أم كلثوم وهي صغيرة كانت بتغني وهي لابسة زي ولد بإصرار من والدها في بداية ظهورها للجمهور."
   },
@@ -339,10 +339,6 @@
     "question_ar": "أنهي شركة تسجيلات أمريكية، اتأسست في ديترويت سنة 1959، بقت أسطورية لإطلاقها فنانين موتاون زي The Supremes ومارفن جاي؟",
     "options": [
       {
-        "en": "Motown Records",
-        "ar": "موتاون ريكوردز"
-      },
-      {
         "en": "Stax Records",
         "ar": "ستاكس ريكوردز"
       },
@@ -353,9 +349,13 @@
       {
         "en": "Chess Records",
         "ar": "تشيس ريكوردز"
+      },
+      {
+        "en": "Motown Records",
+        "ar": "موتاون ريكوردز"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Motown Records, founded in Detroit in 1959, launched numerous soul legends.",
     "explanation_ar": "شركة موتاون ريكوردز، اتأسست في ديترويت سنة 1959، أطلقت أساطير سول كتير."
   },
@@ -369,12 +369,12 @@
     "question_ar": "منافسة أنهي ملحن مصري مع رياض السنباطي على تلحين أغاني أم كلثوم كانت من أهم توترات الموسيقى المصرية في الخمسينات والستينات؟",
     "options": [
       {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      },
-      {
         "en": "Baligh Hamdi",
         "ar": "بليغ حمدي"
+      },
+      {
+        "en": "Mohamed Abdel Wahab",
+        "ar": "محمد عبد الوهاب"
       },
       {
         "en": "Zakaria Ahmed",
@@ -385,7 +385,7 @@
         "ar": "محمد الموجي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Mohamed Abdel Wahab and Riad El Sonbati were seen as rival composers competing for Umm Kulthum's repertoire.",
     "explanation_ar": "محمد عبد الوهاب ورياض السنباطي كانا يعتبران متنافسين على تلحين أغاني أم كلثوم."
   },
@@ -429,10 +429,6 @@
     "question_ar": "أغنية \"الوطن الأكبر\" سنة 1968 (تلحين عبد الوهاب) جمعت كام مطرب كبير بيغنوا سوا في نشيد وطني واحد؟",
     "options": [
       {
-        "en": "Umm Kulthum, Abdel Halim Hafez, and others",
-        "ar": "أم كلثوم وعبد الحليم حافظ وغيرهم"
-      },
-      {
         "en": "Only Umm Kulthum solo",
         "ar": "أم كلثوم بس"
       },
@@ -441,11 +437,15 @@
         "ar": "فريد الأطرش بس"
       },
       {
+        "en": "Umm Kulthum, Abdel Halim Hafez, and others",
+        "ar": "أم كلثوم وعبد الحليم حافظ وغيرهم"
+      },
+      {
         "en": "Fairuz and the Rahbani Brothers",
         "ar": "فيروز والأخوين رحباني"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"El Watan El Akbar\" (1968) featured Umm Kulthum, Abdel Halim Hafez, and other top singers together.",
     "explanation_ar": "\"الوطن الأكبر\" (1968) جمعت أم كلثوم وعبد الحليم حافظ ونجوم تانيين في أغنية واحدة."
   },
@@ -459,10 +459,6 @@
     "question_ar": "أنهي عازف جيتار ومطرب بريطاني، من فرقة The Kinks، كتب أغنية \"You Really Got Me\" المشهورة بالريف بتاعها؟",
     "options": [
       {
-        "en": "Ray Davies",
-        "ar": "راي ديفيز"
-      },
-      {
         "en": "Pete Townshend",
         "ar": "بيت تاونسند"
       },
@@ -473,9 +469,13 @@
       {
         "en": "Eric Clapton",
         "ar": "إريك كلابتون"
+      },
+      {
+        "en": "Ray Davies",
+        "ar": "راي ديفيز"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Ray Davies of The Kinks wrote \"You Really Got Me\", an influential riff-driven rock song.",
     "explanation_ar": "راي ديفيز من فرقة The Kinks كتب أغنية \"You Really Got Me\" المؤثرة."
   },
@@ -489,12 +489,12 @@
     "question_ar": "أنهي مطربة مصرية كانت أغنيتها \"أنا بعشق البحر\" من آخر الأغاني اللي لحنها بليغ حمدي قبل وفاته سنة 1993؟",
     "options": [
       {
-        "en": "Warda",
-        "ar": "وردة"
-      },
-      {
         "en": "Najat El Saghira",
         "ar": "نجاة الصغيرة"
+      },
+      {
+        "en": "Warda",
+        "ar": "وردة"
       },
       {
         "en": "Sherine",
@@ -505,7 +505,7 @@
         "ar": "أنغام"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Warda's \"Ana Baashaa El Bahr\" was among Baligh Hamdi's late compositions before his 1993 death.",
     "explanation_ar": "أغنية وردة \"أنا بعشق البحر\" كانت من آخر أعمال بليغ حمدي قبل وفاته سنة 1993."
   },
@@ -519,12 +519,12 @@
     "question_ar": "أنهي فرقة أمريكية، بقيادة براين ويلسون الرائد في تقنيات إنتاج الاستوديو، غنت \"Good Vibrations\" وألبوم \"Pet Sounds\"؟",
     "options": [
       {
-        "en": "The Beach Boys",
-        "ar": "ذا بيتش بويز"
-      },
-      {
         "en": "The Byrds",
         "ar": "ذا بيردز"
+      },
+      {
+        "en": "The Beach Boys",
+        "ar": "ذا بيتش بويز"
       },
       {
         "en": "The Mamas & the Papas",
@@ -535,7 +535,7 @@
         "ar": "جان آند دين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Brian Wilson led The Beach Boys, known for \"Good Vibrations\" and the landmark album \"Pet Sounds\".",
     "explanation_ar": "براين ويلسون قاد فرقة The Beach Boys صاحبة \"Good Vibrations\" وألبوم \"Pet Sounds\"."
   },
@@ -549,10 +549,6 @@
     "question_ar": "خلاف أنهي مطربة مصرية مع ورثة أم كلثوم بخصوص أداء أغانيها بقى قضية قانونية/ثقافية معروفة في الأوساط الموسيقية المصرية؟",
     "options": [
       {
-        "en": "Warda",
-        "ar": "وردة"
-      },
-      {
         "en": "Najat El Saghira",
         "ar": "نجاة الصغيرة"
       },
@@ -561,11 +557,15 @@
         "ar": "شادية"
       },
       {
+        "en": "Warda",
+        "ar": "وردة"
+      },
+      {
         "en": "Fayza Ahmed",
         "ar": "فايزة أحمد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "There was public controversy around singers performing Umm Kulthum's repertoire, with Warda's renditions notably discussed in Egyptian music circles.",
     "explanation_ar": "كان فيه جدل عام حوالين غناء تراث أم كلثوم، ومحاولات وردة كانت من أكتر الحالات اللي اتناقشت."
   },
@@ -579,12 +579,12 @@
     "question_ar": "ألبوم أنهي مطربة أمريكية سنة 1985 \"Like a Virgin\" وأداءاتها الجريئة في MTV رسّخت لقبها \"ملكة البوب\" وسط جدل كبير؟",
     "options": [
       {
-        "en": "Madonna",
-        "ar": "مادونا"
-      },
-      {
         "en": "Cyndi Lauper",
         "ar": "سيندي لوبر"
+      },
+      {
+        "en": "Madonna",
+        "ar": "مادونا"
       },
       {
         "en": "Debbie Gibson",
@@ -595,7 +595,7 @@
         "ar": "جانيت جاكسون"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Madonna's \"Like a Virgin\" era and MTV performances cemented her as \"Queen of Pop\".",
     "explanation_ar": "حقبة مادونا \"Like a Virgin\" وأداءاتها في MTV رسخت لقبها \"ملكة البوب\"."
   },
@@ -613,19 +613,19 @@
         "ar": "هاني شاكر"
       },
       {
-        "en": "Ali El Haggar",
-        "ar": "علي الحجار"
-      },
-      {
         "en": "Hamid El Shaeri",
         "ar": "حميد الشاعري"
+      },
+      {
+        "en": "Ali El Haggar",
+        "ar": "علي الحجار"
       },
       {
         "en": "Mohamed Fouad",
         "ar": "محمد فؤاد"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Ali El Haggar is associated with Egypt's late-1970s 'new wave' movement blending folk and jazz elements.",
     "explanation_ar": "علي الحجار مرتبط بحركة \"الموجة الجديدة\" أواخر السبعينات اللي مزجت الفلكلور بالجاز."
   },
@@ -639,10 +639,6 @@
     "question_ar": "أنهي فنان أمريكي، ملقب بـ\"عراب السول\"، معروف بحضوره الناري على المسرح وأغنية \"I Got You (I Feel Good)\"؟",
     "options": [
       {
-        "en": "James Brown",
-        "ar": "جيمس براون"
-      },
-      {
         "en": "Otis Redding",
         "ar": "أوتيس ريدينج"
       },
@@ -651,11 +647,15 @@
         "ar": "ويلسون بيكيت"
       },
       {
+        "en": "James Brown",
+        "ar": "جيمس براون"
+      },
+      {
         "en": "Sam Cooke",
         "ar": "سام كوك"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "James Brown, the \"Godfather of Soul\", was famous for \"I Got You (I Feel Good)\".",
     "explanation_ar": "جيمس براون، عراب السول، اشتهر بأغنية \"I Got You (I Feel Good)\"."
   },
@@ -669,12 +669,12 @@
     "question_ar": "أغنية \"كلنا للوطن\" في السبعينات لأنهي مطرب مصري ارتبطت بالبث الوطني والمناسبات الرسمية؟",
     "options": [
       {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبد الحليم حافظ"
-      },
-      {
         "en": "Mohamed Kandil",
         "ar": "محمد قنديل"
+      },
+      {
+        "en": "Abdel Halim Hafez",
+        "ar": "عبد الحليم حافظ"
       },
       {
         "en": "Karem Mahmoud",
@@ -685,7 +685,7 @@
         "ar": "محمد رشدي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "\"Kollena Lel Watan\" is closely tied to Abdel Halim Hafez's patriotic repertoire.",
     "explanation_ar": "\"كلنا للوطن\" مرتبطة بمشوار عبد الحليم حافظ الوطني."
   },
@@ -699,12 +699,12 @@
     "question_ar": "أنهي فرقة روك أعضاؤها المؤسسين روجر ووترز وسيد باريت انفصلوا بعد ما مشاكل باريت النفسية أدت لخروجه من الفرقة سنة 1968؟",
     "options": [
       {
-        "en": "Pink Floyd",
-        "ar": "بينك فلويد"
-      },
-      {
         "en": "Genesis",
         "ar": "جينيسيس"
+      },
+      {
+        "en": "Pink Floyd",
+        "ar": "بينك فلويد"
       },
       {
         "en": "King Crimson",
@@ -715,7 +715,7 @@
         "ar": "يس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Pink Floyd founder Syd Barrett left the band in 1968 due to declining mental health.",
     "explanation_ar": "سيد باريت، مؤسس بينك فلويد، خرج من الفرقة سنة 1968 بسبب تدهور حالته النفسية."
   },
@@ -759,10 +759,6 @@
     "question_ar": "أنهي مطربة أمريكية، معروفة بلقب \"ملكة الروك آند رول\"، رجعت بقوة في الثمانينات بأغنية \"What's Love Got to Do with It\" بعد زواج أول صعب؟",
     "options": [
       {
-        "en": "Tina Turner",
-        "ar": "تينا تيرنر"
-      },
-      {
         "en": "Aretha Franklin",
         "ar": "أريثا فرانكلين"
       },
@@ -771,11 +767,15 @@
         "ar": "دايانا روس"
       },
       {
+        "en": "Tina Turner",
+        "ar": "تينا تيرنر"
+      },
+      {
         "en": "Patti LaBelle",
         "ar": "باتي لابيل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Tina Turner, the \"Queen of Rock and Roll\", had a major comeback in the 1980s with \"What's Love Got to Do with It\".",
     "explanation_ar": "تينا تيرنر، ملكة الروك آند رول، رجعت بقوة في الثمانينات بأغنية \"What's Love Got to Do with It\"."
   },
@@ -819,10 +819,6 @@
     "question_ar": "أغنية أنهي فنان أمريكي سنة 1971 \"American Pie\" بتتفسر غالبًا كتحية لحادثة الطيارة سنة 1959 اللي قتلت بادي هولي؟",
     "options": [
       {
-        "en": "Don McLean",
-        "ar": "دون ماكلين"
-      },
-      {
         "en": "Harry Chapin",
         "ar": "هاري تشابين"
       },
@@ -833,9 +829,13 @@
       {
         "en": "Gordon Lightfoot",
         "ar": "جوردون لايتفوت"
+      },
+      {
+        "en": "Don McLean",
+        "ar": "دون ماكلين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Don McLean's \"American Pie\" is widely seen as referencing the 1959 plane crash, \"The Day the Music Died\".",
     "explanation_ar": "أغنية دون ماكلين \"American Pie\" بتتفسر كإشارة لحادثة الطيارة سنة 1959 \"يوم موت الموسيقى\"."
   },
@@ -849,10 +849,6 @@
     "question_ar": "أغنية \"فكروني\" (تلحين محمد عبد الوهاب) لأنهي مطربة بتتعتبر من أوائل الأغاني المصرية اللي استخدمت أوركسترا سيمفونية غربية كاملة؟",
     "options": [
       {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
-      },
-      {
         "en": "Asmahan",
         "ar": "أسمهان"
       },
@@ -861,11 +857,15 @@
         "ar": "نعيمة عاكف"
       },
       {
+        "en": "Umm Kulthum",
+        "ar": "أم كلثوم"
+      },
+      {
         "en": "Layla Mourad",
         "ar": "ليلى مراد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"Fakkarouni\", composed by Mohamed Abdel Wahab for Umm Kulthum, was groundbreaking for its full orchestral arrangement.",
     "explanation_ar": "\"فكروني\"، تلحين محمد عبد الوهاب لأم كلثوم، كانت مبتكرة لاستخدامها أوركسترا كاملة."
   },
@@ -879,10 +879,6 @@
     "question_ar": "تقنية إنتاج \"Wall of Sound\" اللي ابتكرها المنتج فيل سبيكتور واستخدمها في أغاني فرق البنات في الستينات كانت مرتبطة بأنهي منتج؟",
     "options": [
       {
-        "en": "Phil Spector",
-        "ar": "فيل سبيكتور"
-      },
-      {
         "en": "Berry Gordy",
         "ar": "بيري جوردي"
       },
@@ -893,9 +889,13 @@
       {
         "en": "Quincy Jones",
         "ar": "كوينسي جونز"
+      },
+      {
+        "en": "Phil Spector",
+        "ar": "فيل سبيكتور"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Phil Spector pioneered the \"Wall of Sound\" production technique in the 1960s.",
     "explanation_ar": "فيل سبيكتور ابتكر تقنية \"Wall of Sound\" الإنتاجية في الستينات."
   },
@@ -905,13 +905,9 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer, a major star of 1940s cinema, was known for her role in shaping the golden-era musical film alongside composer Mohamed Abdel Wahab, and was of Jewish Egyptian heritage before converting to Islam?",
-    "question_ar": "أنهي مطربة مصرية، نجمة كبيرة في سينما الأربعينات، ساهمت في تشكيل الفيلم الغنائي في العصر الذهبي مع محمد عبد الوهاب، وكانت من أصل يهودي مصري قبل ما تعتنق الإسلام؟",
+    "question_en": "Which major star of 1940s Egyptian musical cinema was of Jewish Egyptian heritage before converting to Islam?",
+    "question_ar": "أنهي نجمة كبيرة في سينما الأربعينات الغنائية المصرية كانت من أصل يهودي مصري قبل ما تعتنق الإسلام؟",
     "options": [
-      {
-        "en": "Layla Mourad",
-        "ar": "ليلى مراد"
-      },
       {
         "en": "Naima Akef",
         "ar": "نعيمة عاكف"
@@ -923,9 +919,13 @@
       {
         "en": "Asmahan",
         "ar": "أسمهان"
+      },
+      {
+        "en": "Layla Mourad",
+        "ar": "ليلى مراد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Layla Mourad was a major 1940s film star of Egyptian Jewish heritage who converted to Islam.",
     "explanation_ar": "ليلى مراد كانت نجمة سينما كبيرة في الأربعينات من أصل يهودي مصري واعتنقت الإسلام."
   },
@@ -939,10 +939,6 @@
     "question_ar": "ألبوم أنهي فرقة أمريكية سنة 1966 \"Pet Sounds\" بيتقال إنه أثر بشكل مباشر على ألبوم البيتلز \"Sgt. Pepper's\"؟",
     "options": [
       {
-        "en": "The Beach Boys",
-        "ar": "ذا بيتش بويز"
-      },
-      {
         "en": "The Byrds",
         "ar": "ذا بيردز"
       },
@@ -953,9 +949,13 @@
       {
         "en": "The Turtles",
         "ar": "ذا تيرتلز"
+      },
+      {
+        "en": "The Beach Boys",
+        "ar": "ذا بيتش بويز"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The Beach Boys' \"Pet Sounds\" is widely credited as influencing The Beatles' \"Sgt. Pepper's\".",
     "explanation_ar": "ألبوم \"Pet Sounds\" لذا بيتش بويز بيتقال إنه أثر على ألبوم البيتلز \"Sgt. Pepper's\"."
   },
@@ -965,13 +965,9 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian composer, a longtime collaborator of Umm Kulthum in her earliest career and known for religious and traditional songs, was also a respected teacher of Quranic recitation (tajweed) style singing?",
-    "question_ar": "أنهي ملحن مصري، تعاون مع أم كلثوم في بداية مشوارها واشتهر بالأغاني الدينية والتراثية، وكان معروف بأسلوب تلاوة قريب من التجويد؟",
+    "question_en": "Which Egyptian composer, an early collaborator of Umm Kulthum, was known for religious and traditional-style songs?",
+    "question_ar": "أنهي ملحن مصري، تعاون مع أم كلثوم بدري في مشوارها، اشتهر بالأغاني الدينية والتراثية؟",
     "options": [
-      {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
-      },
       {
         "en": "Baligh Hamdi",
         "ar": "بليغ حمدي"
@@ -983,9 +979,13 @@
       {
         "en": "Ahmed Fouad Hassan",
         "ar": "أحمد فؤاد حسن"
+      },
+      {
+        "en": "Zakaria Ahmed",
+        "ar": "زكريا أحمد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Zakaria Ahmed collaborated with Umm Kulthum early in her career and was known for religious and traditional Arabic songs.",
     "explanation_ar": "زكريا أحمد تعاون مع أم كلثوم في بداية مشوارها واشتهر بالأغاني الدينية والتراثية."
   },
@@ -999,10 +999,6 @@
     "question_ar": "ألبوم أنهي مطربة أمريكية-كندية سنة 1971 \"Blue\" بيتعتبر من أكتر ألبومات الفولك تأثيرًا وصدقًا عاطفيًا في التاريخ؟",
     "options": [
       {
-        "en": "Joni Mitchell",
-        "ar": "جوني ميتشل"
-      },
-      {
         "en": "Carole King",
         "ar": "كارول كينج"
       },
@@ -1013,9 +1009,13 @@
       {
         "en": "Judy Collins",
         "ar": "جودي كولينز"
+      },
+      {
+        "en": "Joni Mitchell",
+        "ar": "جوني ميتشل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Joni Mitchell's \"Blue\" (1971) is considered one of the greatest folk albums ever made.",
     "explanation_ar": "ألبوم جوني ميتشل \"Blue\" (1971) من أعظم ألبومات الفولك في التاريخ."
   },
@@ -1029,10 +1029,6 @@
     "question_ar": "ألبوم أنهي مطرب مصري في التسعينات \"نور العين\" كان من أكتر الألبومات العربية مبيعًا في عقده ورسّخ نجوميته في المنطقة كلها؟",
     "options": [
       {
-        "en": "Amr Diab",
-        "ar": "عمرو دياب"
-      },
-      {
         "en": "Tamer Hosny",
         "ar": "تامر حسني"
       },
@@ -1041,11 +1037,15 @@
         "ar": "هشام عباس"
       },
       {
+        "en": "Amr Diab",
+        "ar": "عمرو دياب"
+      },
+      {
         "en": "Mostafa Amar",
         "ar": "مصطفى قمر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Amr Diab's \"Nour El Ain\" (1996) became one of the best-selling Arabic albums of the 1990s.",
     "explanation_ar": "ألبوم عمرو دياب \"نور العين\" (1996) بقى من أكتر الألبومات العربية مبيعًا في التسعينات."
   },
@@ -1085,8 +1085,8 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's rare classical-pop crossover hit \"Alby We Moftaho\" was among the first Egyptian songs to top charts across multiple Gulf countries simultaneously in the 1980s?",
-    "question_ar": "أنهي مطرب مصري كانت أغنيته من أوائل الأغاني المصرية اللي تصدرت تشارتات دول خليجية متعددة في نفس الوقت في الثمانينات؟",
+    "question_en": "Which Egyptian singer's 1980s hits were among the first to top charts across several Gulf countries at once?",
+    "question_ar": "أنهي مطرب مصري كانت أغانيه في الثمانينات من أوائل اللي تصدرت تشارتات دول خليجية متعددة في نفس الوقت؟",
     "options": [
       {
         "en": "Mohamed Fouad",
@@ -1119,10 +1119,6 @@
     "question_ar": "أنهي موسيقي أمريكي، عضو مؤسس في فرقة Creedence Clearwater Revival، كتب وغنى \"Fortunate Son\" كأغنية احتجاجية؟",
     "options": [
       {
-        "en": "John Fogerty",
-        "ar": "جون فوجرتي"
-      },
-      {
         "en": "Stu Cook",
         "ar": "ستو كوك"
       },
@@ -1133,9 +1129,13 @@
       {
         "en": "Tom Fogerty",
         "ar": "توم فوجرتي"
+      },
+      {
+        "en": "John Fogerty",
+        "ar": "جون فوجرتي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "John Fogerty, CCR's lead singer/songwriter, wrote \"Fortunate Son\".",
     "explanation_ar": "جون فوجرتي، مطرب وكاتب فرقة CCR، كتب أغنية \"Fortunate Son\"."
   },
@@ -1149,10 +1149,6 @@
     "question_ar": "أنهي مطربة لبنانية بصوتها المدرب أوبراليًا وأغنية \"أندلسية\" بقت من القلائل اللي مزجوا تقنية الأوبرا الغربية بالموسيقى العربية؟",
     "options": [
       {
-        "en": "Majida El Roumi",
-        "ar": "ماجدة الرومي"
-      },
-      {
         "en": "Fairuz",
         "ar": "فيروز"
       },
@@ -1161,11 +1157,15 @@
         "ar": "كارول سماحة"
       },
       {
+        "en": "Majida El Roumi",
+        "ar": "ماجدة الرومي"
+      },
+      {
         "en": "Elissa",
         "ar": "إليسا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Majida El Roumi is known for her operatic vocal training blended with Arabic repertoire.",
     "explanation_ar": "ماجدة الرومي معروفة بصوتها المدرب أوبراليًا ومزجه بالتراث العربي."
   },
@@ -1179,10 +1179,6 @@
     "question_ar": "أنهي منتج أمريكي، معروف باكتشافه إلفيس بريسلي، كان بيدير شركة Sun Records في ممفيس وساعد في إطلاق جوني كاش وجيري لي لويس كمان؟",
     "options": [
       {
-        "en": "Sam Phillips",
-        "ar": "سام فيليبس"
-      },
-      {
         "en": "Berry Gordy",
         "ar": "بيري جوردي"
       },
@@ -1191,11 +1187,15 @@
         "ar": "فيل سبيكتور"
       },
       {
+        "en": "Sam Phillips",
+        "ar": "سام فيليبس"
+      },
+      {
         "en": "Ahmet Ertegun",
         "ar": "أحمد إرتيجن"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Sam Phillips, founder of Sun Records, discovered Elvis Presley and other rock 'n' roll pioneers.",
     "explanation_ar": "سام فيليبس، مؤسس Sun Records، اكتشف إلفيس بريسلي ورواد تانيين للروك آند رول."
   },
@@ -1209,10 +1209,6 @@
     "question_ar": "أغنية \"يا حبيبي تعالى\" في السبعينات (تلحين بليغ حمدي) لأنهي مطربة ساعدت في تشكيل صوت البوب الرومانسي المصري قبل عصر عمرو دياب؟",
     "options": [
       {
-        "en": "Warda",
-        "ar": "وردة"
-      },
-      {
         "en": "Najat El Saghira",
         "ar": "نجاة الصغيرة"
       },
@@ -1221,11 +1217,15 @@
         "ar": "فايزة أحمد"
       },
       {
+        "en": "Warda",
+        "ar": "وردة"
+      },
+      {
         "en": "Shadia",
         "ar": "شادية"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Warda's \"Ya Habibi Ta'ala\", composed by Baligh Hamdi, was a defining romantic hit of the 1970s.",
     "explanation_ar": "أغنية وردة \"يا حبيبي تعالى\"، تلحين بليغ حمدي، كانت من أهم أغاني الرومانسية في السبعينات."
   },
@@ -1239,12 +1239,12 @@
     "question_ar": "أنهي عازف جيتار أمريكي، من فرقة Van Halen، غيّر أسلوب عزف الجيتار في الروك بتقنية النقر بإيدين في أغنية \"Eruption\"؟",
     "options": [
       {
-        "en": "Eddie Van Halen",
-        "ar": "إيدي فان هيلين"
-      },
-      {
         "en": "Randy Rhoads",
         "ar": "راندي رودز"
+      },
+      {
+        "en": "Eddie Van Halen",
+        "ar": "إيدي فان هيلين"
       },
       {
         "en": "Yngwie Malmsteen",
@@ -1255,7 +1255,7 @@
         "ar": "جو ساترياني"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Eddie Van Halen pioneered two-handed tapping technique, showcased in \"Eruption\".",
     "explanation_ar": "إيدي فان هيلين ابتكر تقنية النقر بإيدين، وظهرت في أغنية \"Eruption\"."
   },
@@ -1269,10 +1269,6 @@
     "question_ar": "أغنية سنة 1988 لأنهي مطرب مصري كانت من أوائل استخدامات إنتاج السينثسايزر الكثيف في البوب المصري السائد قبل صعود عمرو دياب؟",
     "options": [
       {
-        "en": "Hamid El Shaeri",
-        "ar": "حميد الشاعري"
-      },
-      {
         "en": "Mohamed Fouad",
         "ar": "محمد فؤاد"
       },
@@ -1281,11 +1277,15 @@
         "ar": "إيهاب توفيق"
       },
       {
+        "en": "Hamid El Shaeri",
+        "ar": "حميد الشاعري"
+      },
+      {
         "en": "Hisham Abbas",
         "ar": "هشام عباس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Hamid El Shaeri is widely credited with pioneering synth-heavy 'Al Jeel' pop production in Egypt in the 1980s.",
     "explanation_ar": "حميد الشاعري معروف بإدخاله إنتاج السينثسايزر في موسيقى الجيل المصرية في الثمانينات."
   },
@@ -1299,12 +1299,12 @@
     "question_ar": "أنهي مطرب أمريكي، عضو في ثلاثي Crosby, Stills & Nash، كان كمان عضو مؤسس في فرقة The Byrds قبل مشواره الجماعي التاني؟",
     "options": [
       {
-        "en": "David Crosby",
-        "ar": "ديفيد كروسبي"
-      },
-      {
         "en": "Stephen Stills",
         "ar": "ستيفن ستيلز"
+      },
+      {
+        "en": "David Crosby",
+        "ar": "ديفيد كروسبي"
       },
       {
         "en": "Graham Nash",
@@ -1315,7 +1315,7 @@
         "ar": "نيل يانج"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "David Crosby was a founding member of The Byrds before co-founding Crosby, Stills & Nash.",
     "explanation_ar": "ديفيد كروسبي كان عضو مؤسس في فرقة The Byrds قبل ما يأسس Crosby, Stills & Nash."
   },
@@ -1325,16 +1325,16 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's early 2000s hit \"Aa Kalby\" was among the first songs by a female Egyptian pop star to feature a full music video shot internationally, boosting the era's visual pop culture?",
-    "question_ar": "أغنية بداية الألفينات لأنهي مطربة مصرية كانت من أوائل الأغاني اللي اتصور فيديو كليبها في الخارج وساهمت في ثقافة الفيديو كليب البصرية وقتها؟",
+    "question_en": "Which Egyptian female pop star was known in the early 2000s for high-production music videos shot internationally?",
+    "question_ar": "أنهي مطربة بوب مصرية اشتهرت في بداية الألفينات بفيديو كليبات إنتاج ضخم اتصورت في الخارج؟",
     "options": [
-      {
-        "en": "Ruby",
-        "ar": "روبي"
-      },
       {
         "en": "Sherine",
         "ar": "شيرين"
+      },
+      {
+        "en": "Ruby",
+        "ar": "روبي"
       },
       {
         "en": "Angham",
@@ -1345,7 +1345,7 @@
         "ar": "دنيا سمير غانم"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Ruby's early-2000s videos were known for high-production, internationally-shot visuals that shaped the era's pop culture.",
     "explanation_ar": "فيديو كليبات روبي في بداية الألفينات كانت معروفة بإنتاجها الكبير وتصويرها في الخارج."
   },
@@ -1359,12 +1359,12 @@
     "question_ar": "ألبوم أنهي فنان أمريكي سنة 1975 \"Born to Run\" مع فرقة E Street Band رسّخ سمعته كراوي قصص الروك الأمريكي؟",
     "options": [
       {
-        "en": "Bruce Springsteen",
-        "ar": "بروس سبرينجستين"
-      },
-      {
         "en": "Tom Petty",
         "ar": "توم بيتي"
+      },
+      {
+        "en": "Bruce Springsteen",
+        "ar": "بروس سبرينجستين"
       },
       {
         "en": "Bob Seger",
@@ -1375,7 +1375,7 @@
         "ar": "ميت لوف"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Bruce Springsteen's \"Born to Run\" (1975) with the E Street Band was a career-defining album.",
     "explanation_ar": "ألبوم بروس سبرينجستين \"Born to Run\" (1975) مع فرقة E Street Band كان علامة فارقة في مشواره."
   },
@@ -1385,13 +1385,9 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer, celebrated for the classic \"Amal Hayati\" (composed by Riad El Sonbati), was known for a uniquely deep and expressive vocal delivery in traditional qasida-style songs?",
-    "question_ar": "أنهي مطربة مصرية، اشتهرت بأغنية \"أمل حياتي\" الكلاسيكية (تلحين رياض السنباطي)، عُرفت بأداء صوتي عميق ومعبر في أغاني القصيدة التقليدية؟",
+    "question_en": "Which Egyptian singer performed the classic \"Amal Hayati\", composed by Riad El Sonbati?",
+    "question_ar": "أنهي مطربة مصرية غنت \"أمل حياتي\" الكلاسيكية، تلحين رياض السنباطي؟",
     "options": [
-      {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
-      },
       {
         "en": "Warda",
         "ar": "وردة"
@@ -1401,11 +1397,15 @@
         "ar": "فايزة أحمد"
       },
       {
+        "en": "Umm Kulthum",
+        "ar": "أم كلثوم"
+      },
+      {
         "en": "Shadia",
         "ar": "شادية"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"Amal Hayati\", composed by Riad El Sonbati for Umm Kulthum, showcased her deep expressive vocal delivery.",
     "explanation_ar": "\"أمل حياتي\"، تلحين رياض السنباطي لأم كلثوم، أظهرت أداءها الصوتي العميق."
   },
@@ -1445,8 +1445,8 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's 1960s duet performances with Abdel Halim Hafez in shared concerts were rare, as she mostly maintained an independent solo career rivaling Umm Kulthum's stature?",
-    "question_ar": "أنهي مطربة مصرية في الستينات ندر إنها تشارك عبد الحليم حافظ في حفلات مشتركة لأنها حافظت على مشوار فردي منافس لمكانة أم كلثوم؟",
+    "question_en": "Which Egyptian singer built an independent solo career in the 1960s-70s that grew to rival Umm Kulthum's stature?",
+    "question_ar": "أنهي مطربة مصرية بنت مشوار فردي مستقل في الستينات والسبعينات نما ليصبح منافسًا لمكانة أم كلثوم؟",
     "options": [
       {
         "en": "Warda",

@@ -39,12 +39,12 @@
     "question_ar": "هرم سقارة المدرج اتبنى لأنهي فرعون؟",
     "options": [
       {
-        "en": "Djoser",
-        "ar": "زوسر"
-      },
-      {
         "en": "Khufu",
         "ar": "خوفو"
+      },
+      {
+        "en": "Djoser",
+        "ar": "زوسر"
       },
       {
         "en": "Ramesses II",
@@ -55,7 +55,7 @@
         "ar": "إخناتون"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Djoser's Step Pyramid is Egypt's earliest large pyramid.",
     "explanation_ar": "هرم زوسر المدرج هو أقدم هرم كبير في مصر."
   },
@@ -69,10 +69,6 @@
     "question_ar": "هرم زوسر المدرج صممه أنهي مهندس مشهور؟",
     "options": [
       {
-        "en": "Imhotep",
-        "ar": "إمحوتب"
-      },
-      {
         "en": "Hemiunu",
         "ar": "حميونو"
       },
@@ -81,11 +77,15 @@
         "ar": "سننموت"
       },
       {
+        "en": "Imhotep",
+        "ar": "إمحوتب"
+      },
+      {
         "en": "Amenhotep son of Hapu",
         "ar": "أمنحتب بن حابو"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Imhotep is credited as the pyramid's chief architect.",
     "explanation_ar": "إمحوتب هو المهندس الرئيسي اللي بنى الهرم."
   },
@@ -99,10 +99,6 @@
     "question_ar": "أنهي فرعون بيتنسب له توحيد مصر العليا والسفلى؟",
     "options": [
       {
-        "en": "Narmer",
-        "ar": "نارمر"
-      },
-      {
         "en": "Khufu",
         "ar": "خوفو"
       },
@@ -113,9 +109,13 @@
       {
         "en": "Tutankhamun",
         "ar": "توت عنخ آمون"
+      },
+      {
+        "en": "Narmer",
+        "ar": "نارمر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Narmer is traditionally credited with unifying Egypt around 3100 BC.",
     "explanation_ar": "نارمر بيتنسب له توحيد مصر حوالي سنة 3100 قبل الميلاد."
   },
@@ -159,12 +159,12 @@
     "question_ar": "جنود أنهي جيش لقوا حجر رشيد في مصر؟",
     "options": [
       {
-        "en": "Napoleon's French army",
-        "ar": "جيش نابليون الفرنسي"
-      },
-      {
         "en": "The Ottoman army",
         "ar": "الجيش العثماني"
+      },
+      {
+        "en": "Napoleon's French army",
+        "ar": "جيش نابليون الفرنسي"
       },
       {
         "en": "The British army only",
@@ -175,7 +175,7 @@
         "ar": "الجيش الروماني"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "French soldiers found the Rosetta Stone in 1799 during Napoleon's campaign.",
     "explanation_ar": "الجنود الفرنسيين لقوا حجر رشيد سنة 1799 أثناء حملة نابليون."
   },
@@ -189,10 +189,6 @@
     "question_ar": "قناة السويس اتفتحت رسميًا سنة كام؟",
     "options": [
       {
-        "en": "1869",
-        "ar": "1869"
-      },
-      {
         "en": "1882",
         "ar": "1882"
       },
@@ -201,11 +197,15 @@
         "ar": "1956"
       },
       {
+        "en": "1869",
+        "ar": "1869"
+      },
+      {
         "en": "1902",
         "ar": "1902"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Suez Canal opened for navigation in 1869.",
     "explanation_ar": "قناة السويس اتفتحت للملاحة سنة 1869."
   },
@@ -219,10 +219,6 @@
     "question_ar": "مصر أخدت استقلالها الرسمي من بريطانيا سنة كام؟",
     "options": [
       {
-        "en": "1922",
-        "ar": "1922"
-      },
-      {
         "en": "1952",
         "ar": "1952"
       },
@@ -233,9 +229,13 @@
       {
         "en": "1919",
         "ar": "1919"
+      },
+      {
+        "en": "1922",
+        "ar": "1922"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Britain recognized Egypt's independence in 1922, though troops remained.",
     "explanation_ar": "بريطانيا اعترفت باستقلال مصر سنة 1922 رغم بقاء قواتها."
   },
@@ -279,12 +279,12 @@
     "question_ar": "السد العالي اتخلص بناؤه سنة كام؟",
     "options": [
       {
-        "en": "1970",
-        "ar": "1970"
-      },
-      {
         "en": "1952",
         "ar": "1952"
+      },
+      {
+        "en": "1970",
+        "ar": "1970"
       },
       {
         "en": "1985",
@@ -295,7 +295,7 @@
         "ar": "1960"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Aswan High Dam was completed in 1970.",
     "explanation_ar": "السد العالي اتخلص سنة 1970.",
     "verified_as_of": "2025-06"
@@ -310,10 +310,6 @@
     "question_ar": "القاهرة اتأسست كعاصمة على يد أنهي أسرة حاكمة؟",
     "options": [
       {
-        "en": "The Fatimids",
-        "ar": "الفاطميين"
-      },
-      {
         "en": "The Mamluks",
         "ar": "المماليك"
       },
@@ -322,11 +318,15 @@
         "ar": "العثمانيين"
       },
       {
+        "en": "The Fatimids",
+        "ar": "الفاطميين"
+      },
+      {
         "en": "The Ayyubids",
         "ar": "الأيوبيين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Fatimids founded Cairo in 969 AD.",
     "explanation_ar": "الفاطميين أسسوا القاهرة سنة 969 ميلادية."
   },
@@ -340,10 +340,6 @@
     "question_ar": "صلاح الدين مشهور باستعادة أنهي مدينة من الصليبيين؟",
     "options": [
       {
-        "en": "Jerusalem",
-        "ar": "القدس"
-      },
-      {
         "en": "Damascus",
         "ar": "دمشق"
       },
@@ -354,9 +350,13 @@
       {
         "en": "Antioch",
         "ar": "أنطاكية"
+      },
+      {
+        "en": "Jerusalem",
+        "ar": "القدس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Saladin took Jerusalem back from the Crusaders in 1187.",
     "explanation_ar": "صلاح الدين استعاد القدس من الصليبيين سنة 1187."
   },
@@ -400,12 +400,12 @@
     "question_ar": "المماليك اللي حكموا مصر كانوا أساسًا أنهي طبقة؟",
     "options": [
       {
-        "en": "Slave-soldiers",
-        "ar": "جنود مماليك (عبيد سابقين)"
-      },
-      {
         "en": "Farmers",
         "ar": "فلاحين"
+      },
+      {
+        "en": "Slave-soldiers",
+        "ar": "جنود مماليك (عبيد سابقين)"
       },
       {
         "en": "Merchants",
@@ -416,7 +416,7 @@
         "ar": "كهنة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Mamluks were originally purchased slave-soldiers who rose to power.",
     "explanation_ar": "المماليك كانوا أساسًا جنود عبيد اتشتروا وبعدين وصلوا للحكم."
   },
@@ -430,10 +430,6 @@
     "question_ar": "محمد علي باشا، مؤسس أسرة حكم مصر الحديثة، أصله منين؟",
     "options": [
       {
-        "en": "Kavala, in the Ottoman Empire",
-        "ar": "كافالا، في الدولة العثمانية"
-      },
-      {
         "en": "Baghdad",
         "ar": "بغداد"
       },
@@ -442,11 +438,15 @@
         "ar": "القاهرة نفسها"
       },
       {
+        "en": "Kavala, in the Ottoman Empire",
+        "ar": "كافالا، في الدولة العثمانية"
+      },
+      {
         "en": "Tunis",
         "ar": "تونس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Muhammad Ali was born in Kavala, an Ottoman port town.",
     "explanation_ar": "محمد علي اتولد في كافالا، مدينة ساحلية عثمانية."
   },
@@ -460,10 +460,6 @@
     "question_ar": "الحرب العالمية الأولى بدأت سنة كام؟",
     "options": [
       {
-        "en": "1914",
-        "ar": "1914"
-      },
-      {
         "en": "1905",
         "ar": "1905"
       },
@@ -474,9 +470,13 @@
       {
         "en": "1939",
         "ar": "1939"
+      },
+      {
+        "en": "1914",
+        "ar": "1914"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "World War I started in 1914.",
     "explanation_ar": "الحرب العالمية الأولى بدأت سنة 1914."
   },
@@ -520,12 +520,12 @@
     "question_ar": "القنبلة الذرية اتلقت على هيروشيما سنة كام؟",
     "options": [
       {
-        "en": "1945",
-        "ar": "1945"
-      },
-      {
         "en": "1941",
         "ar": "1941"
+      },
+      {
+        "en": "1945",
+        "ar": "1945"
       },
       {
         "en": "1950",
@@ -536,7 +536,7 @@
         "ar": "1939"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The bomb was dropped on Hiroshima in August 1945.",
     "explanation_ar": "القنبلة اتلقت على هيروشيما في أغسطس 1945."
   },
@@ -550,10 +550,6 @@
     "question_ar": "أنهي فيلسوف يوناني قديم كان معلم الإسكندر الأكبر؟",
     "options": [
       {
-        "en": "Aristotle",
-        "ar": "أرسطو"
-      },
-      {
         "en": "Socrates",
         "ar": "سقراط"
       },
@@ -562,11 +558,15 @@
         "ar": "أفلاطون"
       },
       {
+        "en": "Aristotle",
+        "ar": "أرسطو"
+      },
+      {
         "en": "Pythagoras",
         "ar": "فيثاغورس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Aristotle was tutor to the young Alexander.",
     "explanation_ar": "أرسطو كان معلم الإسكندر وهو صغير."
   },
@@ -580,10 +580,6 @@
     "question_ar": "عصر النهضة، الإحياء الكبير للفن والعلم، بدأ في أنهي بلد؟",
     "options": [
       {
-        "en": "Italy",
-        "ar": "إيطاليا"
-      },
-      {
         "en": "France",
         "ar": "فرنسا"
       },
@@ -594,9 +590,13 @@
       {
         "en": "Germany",
         "ar": "ألمانيا"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The Renaissance started in Italy in the 14th century.",
     "explanation_ar": "عصر النهضة بدأ في إيطاليا في القرن الـ14."
   },
@@ -640,12 +640,12 @@
     "question_ar": "أنهي فرعونة حكمت مصر بألقاب ملكية كاملة، ولابسة الزي التقليدي للملك؟",
     "options": [
       {
-        "en": "Hatshepsut",
-        "ar": "حتشبسوت"
-      },
-      {
         "en": "Nefertiti",
         "ar": "نفرتيتي"
+      },
+      {
+        "en": "Hatshepsut",
+        "ar": "حتشبسوت"
       },
       {
         "en": "Cleopatra VII",
@@ -656,7 +656,7 @@
         "ar": "سوبكنفرو بس هي المعروفة كده"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Hatshepsut ruled as pharaoh and often was depicted with a false beard.",
     "explanation_ar": "حتشبسوت حكمت كفرعون وكانت بتتصور غالبًا بلحية مستعارة."
   },
@@ -670,10 +670,6 @@
     "question_ar": "معابد أبو سمبل اتنقلت في الستينات أساسًا بسبب إيه؟",
     "options": [
       {
-        "en": "Flooding from the Aswan High Dam",
-        "ar": "غرق بسبب السد العالي"
-      },
-      {
         "en": "An earthquake",
         "ar": "زلزال"
       },
@@ -682,11 +678,15 @@
         "ar": "حريق"
       },
       {
+        "en": "Flooding from the Aswan High Dam",
+        "ar": "غرق بسبب السد العالي"
+      },
+      {
         "en": "War damage",
         "ar": "أضرار حرب"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A UNESCO project moved the temples to save them from the dam's lake.",
     "explanation_ar": "مشروع تابع لليونسكو نقل المعابد عشان ينقذها من بحيرة السد."
   },
@@ -700,10 +700,6 @@
     "question_ar": "أهرامات الجيزة التلاتة الرئيسية اتبنت لأنهي فراعنة؟",
     "options": [
       {
-        "en": "Khufu, Khafre and Menkaure",
-        "ar": "خوفو وخفرع ومنقرع"
-      },
-      {
         "en": "Djoser, Sneferu and Unas",
         "ar": "زوسر وسنفرو وأوناس"
       },
@@ -714,9 +710,13 @@
       {
         "en": "Amenhotep I, II and III",
         "ar": "أمنحتب الأول والتاني والتالت"
+      },
+      {
+        "en": "Khufu, Khafre and Menkaure",
+        "ar": "خوفو وخفرع ومنقرع"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The Giza pyramids belong to Khufu, Khafre, and Menkaure.",
     "explanation_ar": "أهرامات الجيزة بتاعة خوفو وخفرع ومنقرع."
   },
@@ -760,12 +760,12 @@
     "question_ar": "خطوة محمد علي لتثبيت حكمه بقتل القادة المنافسين معروفة بإيه؟",
     "options": [
       {
-        "en": "The Massacre of the Citadel",
-        "ar": "مذبحة القلعة"
-      },
-      {
         "en": "The Battle of the Pyramids",
         "ar": "معركة الأهرامات"
+      },
+      {
+        "en": "The Massacre of the Citadel",
+        "ar": "مذبحة القلعة"
       },
       {
         "en": "The Urabi Revolt",
@@ -776,7 +776,7 @@
         "ar": "حادثة دنشواي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "In 1811 Muhammad Ali had Mamluk leaders killed at the Cairo Citadel.",
     "explanation_ar": "سنة 1811 محمد علي قتل قادة المماليك في قلعة القاهرة."
   },
@@ -790,10 +790,6 @@
     "question_ar": "مكتبة الإسكندرية القديمة كانت في أنهي مدينة مصرية؟",
     "options": [
       {
-        "en": "Alexandria",
-        "ar": "الإسكندرية"
-      },
-      {
         "en": "Cairo",
         "ar": "القاهرة"
       },
@@ -802,11 +798,15 @@
         "ar": "الأقصر"
       },
       {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
         "en": "Rosetta",
         "ar": "رشيد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The great ancient library stood in Alexandria.",
     "explanation_ar": "المكتبة القديمة الكبيرة كانت في الإسكندرية."
   },
@@ -820,10 +820,6 @@
     "question_ar": "منارة الإسكندرية (فاروس) كانت واحدة من إيه في العالم القديم؟",
     "options": [
       {
-        "en": "Seven Wonders",
-        "ar": "عجائب الدنيا السبع"
-      },
-      {
         "en": "Seven Seas only",
         "ar": "البحار السبعة بس"
       },
@@ -834,9 +830,13 @@
       {
         "en": "Seven Pyramids only",
         "ar": "الأهرامات السبعة بس"
+      },
+      {
+        "en": "Seven Wonders",
+        "ar": "عجائب الدنيا السبع"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The Lighthouse of Alexandria was one of the Seven Wonders of the Ancient World.",
     "explanation_ar": "منارة الإسكندرية كانت من عجائب الدنيا السبع القديمة."
   },
@@ -880,12 +880,12 @@
     "question_ar": "أبو الهول بيتعتقد غالبًا إنه بيمثل وش أنهي فرعون؟",
     "options": [
       {
-        "en": "Khafre",
-        "ar": "خفرع"
-      },
-      {
         "en": "Khufu",
         "ar": "خوفو"
+      },
+      {
+        "en": "Khafre",
+        "ar": "خفرع"
       },
       {
         "en": "Ramesses II",
@@ -896,7 +896,7 @@
         "ar": "إخناتون"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Many Egyptologists link the Sphinx's face to Khafre.",
     "explanation_ar": "كتير من علماء المصريات بيربطوا وش أبو الهول بخفرع."
   },
@@ -910,10 +910,6 @@
     "question_ar": "جان فرانسوا شامبليون مشهور بإيه من الإنجازات التاريخية؟",
     "options": [
       {
-        "en": "Deciphering hieroglyphics",
-        "ar": "فك رموز الهيروغليفية"
-      },
-      {
         "en": "Discovering Tutankhamun's tomb",
         "ar": "اكتشاف مقبرة توت عنخ آمون"
       },
@@ -922,11 +918,15 @@
         "ar": "بناء قناة السويس"
       },
       {
+        "en": "Deciphering hieroglyphics",
+        "ar": "فك رموز الهيروغليفية"
+      },
+      {
         "en": "Founding modern Cairo",
         "ar": "تأسيس القاهرة الحديثة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Champollion used the Rosetta Stone to decode hieroglyphics in 1822.",
     "explanation_ar": "شامبليون استخدم حجر رشيد عشان يفك الهيروغليفية سنة 1822."
   },
@@ -940,10 +940,6 @@
     "question_ar": "إعلان استقلال أمريكا اتوقع سنة كام؟",
     "options": [
       {
-        "en": "1776",
-        "ar": "1776"
-      },
-      {
         "en": "1789",
         "ar": "1789"
       },
@@ -954,9 +950,13 @@
       {
         "en": "1812",
         "ar": "1812"
+      },
+      {
+        "en": "1776",
+        "ar": "1776"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The Declaration of Independence was signed in 1776.",
     "explanation_ar": "إعلان الاستقلال الأمريكي اتوقع سنة 1776."
   },
@@ -1000,12 +1000,12 @@
     "question_ar": "الكتاب المصري القديم اللي بيرشد الموتى في الحياة الآخرة معروف بإيه؟",
     "options": [
       {
-        "en": "The Book of the Dead",
-        "ar": "كتاب الموتى"
-      },
-      {
         "en": "The Book of Kells only",
         "ar": "كتاب كيلز بس"
+      },
+      {
+        "en": "The Book of the Dead",
+        "ar": "كتاب الموتى"
       },
       {
         "en": "The Epic of Gilgamesh only",
@@ -1016,7 +1016,7 @@
         "ar": "كتاب رع بس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Book of the Dead contained spells to help souls in the afterlife.",
     "explanation_ar": "كتاب الموتى كان فيه تعاويذ تساعد الأرواح في الحياة الآخرة."
   },
@@ -1030,10 +1030,6 @@
     "question_ar": "فيضان النيل السنوي فاد الزراعة المصرية القديمة أساسًا بإيه؟",
     "options": [
       {
-        "en": "Fertile silt",
-        "ar": "الطمي الخصب"
-      },
-      {
         "en": "Fresh fish only",
         "ar": "سمك طازة بس"
       },
@@ -1042,11 +1038,15 @@
         "ar": "ملح لحفظ الأكل بس"
       },
       {
+        "en": "Fertile silt",
+        "ar": "الطمي الخصب"
+      },
+      {
         "en": "Drinking water only",
         "ar": "مياه شرب بس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Nile floods deposited rich silt that fertilized the fields.",
     "explanation_ar": "فيضان النيل كان بيسيب طمي غني بيخصب الأرض."
   },
@@ -1060,10 +1060,6 @@
     "question_ar": "قلعة القاهرة، الحصن الشهير، بناها أنهي حاكم؟",
     "options": [
       {
-        "en": "Salah al-Din",
-        "ar": "صلاح الدين"
-      },
-      {
         "en": "Muhammad Ali",
         "ar": "محمد علي"
       },
@@ -1074,9 +1070,13 @@
       {
         "en": "Khedive Ismail",
         "ar": "الخديوي إسماعيل"
+      },
+      {
+        "en": "Salah al-Din",
+        "ar": "صلاح الدين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Saladin began building the Citadel of Cairo in the 12th century.",
     "explanation_ar": "صلاح الدين بدأ بناء قلعة القاهرة في القرن الـ12."
   },
@@ -1120,12 +1120,12 @@
     "question_ar": "أنهي فرعون وقع من أقدم معاهدات السلام المعروفة في التاريخ، مع الحيثيين؟",
     "options": [
       {
-        "en": "Ramesses II",
-        "ar": "رمسيس التاني"
-      },
-      {
         "en": "Thutmose III",
         "ar": "تحتمس التالت"
+      },
+      {
+        "en": "Ramesses II",
+        "ar": "رمسيس التاني"
       },
       {
         "en": "Akhenaten",
@@ -1136,7 +1136,7 @@
         "ar": "توت عنخ آمون"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Ramesses II signed a peace treaty with the Hittites after the Battle of Kadesh.",
     "explanation_ar": "رمسيس التاني وقع معاهدة سلام مع الحيثيين بعد معركة قادش."
   },
@@ -1150,10 +1150,6 @@
     "question_ar": "الملك فاروق اتخلع في ثورة مصر سنة كام؟",
     "options": [
       {
-        "en": "1952",
-        "ar": "1952"
-      },
-      {
         "en": "1919",
         "ar": "1919"
       },
@@ -1162,11 +1158,15 @@
         "ar": "1936"
       },
       {
+        "en": "1952",
+        "ar": "1952"
+      },
+      {
         "en": "1967",
         "ar": "1967"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Free Officers overthrew King Farouk in 1952.",
     "explanation_ar": "الضباط الأحرار خلعوا الملك فاروق سنة 1952."
   },
@@ -1180,10 +1180,6 @@
     "question_ar": "مصر بقت رسميًا جمهورية سنة كام؟",
     "options": [
       {
-        "en": "1953",
-        "ar": "1953"
-      },
-      {
         "en": "1952",
         "ar": "1952"
       },
@@ -1194,9 +1190,13 @@
       {
         "en": "1971",
         "ar": "1971"
+      },
+      {
+        "en": "1953",
+        "ar": "1953"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Egypt was declared a republic in 1953.",
     "explanation_ar": "مصر أعلنت جمهورية سنة 1953."
   },
@@ -1240,12 +1240,12 @@
     "question_ar": "أنهي فرعون نقل عاصمة مصر ونادى بعبادة إله واحد هو قرص الشمس آتون؟",
     "options": [
       {
-        "en": "Akhenaten",
-        "ar": "إخناتون"
-      },
-      {
         "en": "Ramesses II",
         "ar": "رمسيس التاني"
+      },
+      {
+        "en": "Akhenaten",
+        "ar": "إخناتون"
       },
       {
         "en": "Thutmose III",
@@ -1256,7 +1256,7 @@
         "ar": "خوفو"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Akhenaten founded a new capital, Akhetaten, and pushed Aten worship.",
     "explanation_ar": "إخناتون أسس عاصمة جديدة، أخيتاتون، ونادى بعبادة آتون."
   },
@@ -1270,10 +1270,6 @@
     "question_ar": "إخناتون كان والد أنهي فرعون شاب مشهور؟",
     "options": [
       {
-        "en": "Tutankhamun",
-        "ar": "توت عنخ آمون"
-      },
-      {
         "en": "Ramesses II",
         "ar": "رمسيس التاني"
       },
@@ -1282,11 +1278,15 @@
         "ar": "خوفو"
       },
       {
+        "en": "Tutankhamun",
+        "ar": "توت عنخ آمون"
+      },
+      {
         "en": "Thutmose III",
         "ar": "تحتمس التالت"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Tutankhamun was Akhenaten's son.",
     "explanation_ar": "توت عنخ آمون كان ابن إخناتون."
   },
@@ -1300,10 +1300,6 @@
     "question_ar": "أنهي سلطان عثماني فتح القسطنطينية سنة 1453؟",
     "options": [
       {
-        "en": "Mehmed II",
-        "ar": "محمد الفاتح"
-      },
-      {
         "en": "Suleiman the Magnificent",
         "ar": "سليمان القانوني"
       },
@@ -1314,9 +1310,13 @@
       {
         "en": "Osman I",
         "ar": "عثمان الأول"
+      },
+      {
+        "en": "Mehmed II",
+        "ar": "محمد الفاتح"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Mehmed II conquered Constantinople in 1453, ending the Byzantine Empire.",
     "explanation_ar": "محمد الفاتح فتح القسطنطينية سنة 1453 وأنهى الإمبراطورية البيزنطية."
   },
@@ -1360,12 +1360,12 @@
     "question_ar": "مصر القديمة كانت مقسومة تقليديًا لمصر العليا وأنهي منطقة تانية؟",
     "options": [
       {
-        "en": "Lower Egypt",
-        "ar": "مصر السفلى"
-      },
-      {
         "en": "Middle Egypt only formally",
         "ar": "مصر الوسطى بس رسميًا"
+      },
+      {
+        "en": "Lower Egypt",
+        "ar": "مصر السفلى"
       },
       {
         "en": "Nubia only",
@@ -1376,7 +1376,7 @@
         "ar": "سيناء بس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Egypt was split into Upper Egypt (south) and Lower Egypt (north, the Delta).",
     "explanation_ar": "مصر كانت مقسومة لمصر العليا (جنوب) ومصر السفلى (شمال، الدلتا)."
   },
@@ -1390,10 +1390,6 @@
     "question_ar": "قوات نابليون حاربت قوات المماليك المصرية في أنهي معركة مشهورة قرب الجيزة؟",
     "options": [
       {
-        "en": "The Battle of the Pyramids",
-        "ar": "معركة الأهرامات"
-      },
-      {
         "en": "The Battle of Kadesh",
         "ar": "معركة قادش"
       },
@@ -1402,11 +1398,15 @@
         "ar": "معركة عين جالوت"
       },
       {
+        "en": "The Battle of the Pyramids",
+        "ar": "معركة الأهرامات"
+      },
+      {
         "en": "The Battle of Hattin",
         "ar": "معركة حطين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Napoleon defeated the Mamluks at the Battle of the Pyramids in 1798.",
     "explanation_ar": "نابليون هزم المماليك في معركة الأهرامات سنة 1798."
   },
@@ -1420,10 +1420,6 @@
     "question_ar": "ثورة 1919 في مصر اندلعت أساسًا بسبب نفي أنهي زعيم وطني؟",
     "options": [
       {
-        "en": "Saad Zaghloul",
-        "ar": "سعد زغلول"
-      },
-      {
         "en": "Ahmed Orabi",
         "ar": "أحمد عرابي"
       },
@@ -1434,9 +1430,13 @@
       {
         "en": "Muhammad Ali",
         "ar": "محمد علي"
+      },
+      {
+        "en": "Saad Zaghloul",
+        "ar": "سعد زغلول"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The British exile of Saad Zaghloul triggered the 1919 uprising.",
     "explanation_ar": "نفي بريطانيا لسعد زغلول أشعل ثورة 1919."
   },
@@ -1480,12 +1480,12 @@
     "question_ar": "الخديوي إسماعيل معروف بمشاريع بناء كبيرة وقت احتفالات افتتاح أنهي قناة؟",
     "options": [
       {
-        "en": "The Suez Canal",
-        "ar": "قناة السويس"
-      },
-      {
         "en": "The Panama Canal",
         "ar": "قناة بنما"
+      },
+      {
+        "en": "The Suez Canal",
+        "ar": "قناة السويس"
       },
       {
         "en": "The Corinth Canal",
@@ -1496,7 +1496,7 @@
         "ar": "قناة كيل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Khedive Ismail modernized Cairo for the 1869 Suez Canal opening.",
     "explanation_ar": "الخديوي إسماعيل طور القاهرة عشان افتتاح قناة السويس سنة 1869."
   }

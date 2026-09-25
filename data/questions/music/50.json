@@ -9,12 +9,12 @@
     "question_ar": "مين اللي لحن أغنية أم كلثوم \"إنت عمري\"؟",
     "options": [
       {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      },
-      {
         "en": "Baligh Hamdi",
         "ar": "بليغ حمدي"
+      },
+      {
+        "en": "Mohamed Abdel Wahab",
+        "ar": "محمد عبد الوهاب"
       },
       {
         "en": "Riad El Sonbati",
@@ -25,7 +25,7 @@
         "ar": "كمال الطويل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Mohamed Abdel Wahab composed \"Enta Omri\" in a landmark collaboration with Umm Kulthum.",
     "explanation_ar": "محمد عبد الوهاب هو اللي لحن \"إنت عمري\" في أول تعاون بينه وبين أم كلثوم."
   },
@@ -39,10 +39,6 @@
     "question_ar": "أنهي ملحن مصري لحن معظم أغاني أم كلثوم الدينية والقصائد الكلاسيكية زي \"الأطلال\"؟",
     "options": [
       {
-        "en": "Riad El Sonbati",
-        "ar": "رياض السنباطي"
-      },
-      {
         "en": "Baligh Hamdi",
         "ar": "بليغ حمدي"
       },
@@ -51,11 +47,15 @@
         "ar": "سيد مكاوي"
       },
       {
+        "en": "Riad El Sonbati",
+        "ar": "رياض السنباطي"
+      },
+      {
         "en": "Mohamed El Mougy",
         "ar": "محمد الموجي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Riad El Sonbati composed \"Al Atlal\" and many of Umm Kulthum's classical works.",
     "explanation_ar": "رياض السنباطي هو ملحن \"الأطلال\" وكتير من أغاني أم كلثوم الكلاسيكية."
   },
@@ -69,12 +69,12 @@
     "question_ar": "أنهي مطرب وممثل مصري كان معروف بـ\"العندليب\" ومات وهو لسه صغير في 1977؟",
     "options": [
       {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبد الحليم حافظ"
-      },
-      {
         "en": "Farid El Atrache",
         "ar": "فريد الأطرش"
+      },
+      {
+        "en": "Abdel Halim Hafez",
+        "ar": "عبد الحليم حافظ"
       },
       {
         "en": "Karem Mahmoud",
@@ -85,7 +85,7 @@
         "ar": "محمد فوزي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Abdel Halim Hafez, \"El Andalib\", died in 1977 at age 48.",
     "explanation_ar": "عبد الحليم حافظ، العندليب، اتوفى سنة 1977 وعمره 48 سنة."
   },
@@ -159,10 +159,6 @@
     "question_ar": "أنهي حفل جوايز عالمي معروف بجايزته على شكل \"رجل القمر\"؟",
     "options": [
       {
-        "en": "MTV Video Music Awards",
-        "ar": "إم تي في فيديو ميوزك أواردز"
-      },
-      {
         "en": "Grammy Awards",
         "ar": "جرامي"
       },
@@ -173,9 +169,13 @@
       {
         "en": "American Music Awards",
         "ar": "أميريكان ميوزيك أواردز"
+      },
+      {
+        "en": "MTV Video Music Awards",
+        "ar": "إم تي في فيديو ميوزك أواردز"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The MTV VMAs trophy is the iconic \"Moon Person\".",
     "explanation_ar": "جايزة الـ MTV VMAs هي تمثال \"رجل القمر\"."
   },
@@ -189,10 +189,6 @@
     "question_ar": "أنهي آلة شرق أوسطية شبه القانون بتتنقر وهي مفرودة، وشائعة في الفرق الكلاسيكية العربية؟",
     "options": [
       {
-        "en": "Qanun",
-        "ar": "قانون"
-      },
-      {
         "en": "Oud",
         "ar": "عود"
       },
@@ -203,9 +199,13 @@
       {
         "en": "Buzuq",
         "ar": "بزق"
+      },
+      {
+        "en": "Qanun",
+        "ar": "قانون"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The qanun is a plucked flat string instrument central to Arabic classical music.",
     "explanation_ar": "القانون آلة وترية بتتنقر وهي مفرودة، وأساسية في الموسيقى الكلاسيكية العربية."
   },
@@ -219,10 +219,6 @@
     "question_ar": "أنهي مطرب مصري غنى \"حبيبي يا نور العين\" وقدم مزيج بين البوب والموسيقى المتوسطية بداية من التسعينات؟",
     "options": [
       {
-        "en": "Amr Diab",
-        "ar": "عمرو دياب"
-      },
-      {
         "en": "Mostafa Amar",
         "ar": "مصطفى قمر"
       },
@@ -231,11 +227,15 @@
         "ar": "هشام عباس"
       },
       {
+        "en": "Amr Diab",
+        "ar": "عمرو دياب"
+      },
+      {
         "en": "Ihab Tawfik",
         "ar": "إيهاب توفيق"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Amr Diab pioneered a Mediterranean pop fusion sound in Egyptian music.",
     "explanation_ar": "عمرو دياب من رواد مزج البوب بالموسيقى المتوسطية في مصر."
   },
@@ -249,10 +249,6 @@
     "question_ar": "بيتقال إيه على تغيير درجة الصوت للأغنية لأعلى أو أقل في نص الأداء؟",
     "options": [
       {
-        "en": "Modulation",
-        "ar": "مودوليشن"
-      },
-      {
         "en": "Syncopation",
         "ar": "سنكوبيشن"
       },
@@ -261,11 +257,15 @@
         "ar": "هارمونايزيشن"
       },
       {
+        "en": "Modulation",
+        "ar": "مودوليشن"
+      },
+      {
         "en": "Improvisation",
         "ar": "إمبروفيزيشن"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A key change mid-song is called modulation.",
     "explanation_ar": "تغيير درجة الصوت في نص الأغنية اسمه مودوليشن."
   },
@@ -279,12 +279,12 @@
     "question_ar": "أنهي ملحن ومطرب مصري أسطوري اشتهر بأغنية الأوبريت \"يا واابور قوللي رايح فين\"؟",
     "options": [
       {
-        "en": "Sayed Darwish",
-        "ar": "سيد درويش"
-      },
-      {
         "en": "Mohamed Abdel Wahab",
         "ar": "محمد عبد الوهاب"
+      },
+      {
+        "en": "Sayed Darwish",
+        "ar": "سيد درويش"
       },
       {
         "en": "Zakaria Ahmed",
@@ -295,7 +295,7 @@
         "ar": "داود حسني"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Sayed Darwish is known for this operetta-style song from early 20th-century Egyptian musical theatre.",
     "explanation_ar": "سيد درويش معروف بأغنية الأوبريت دي من مسرح الغناء المصري في أوائل القرن العشرين."
   },
@@ -309,12 +309,12 @@
     "question_ar": "أنهي فرقة روك بريطانية، بقيادة فريدي ميركوري، قدمت الحفلة الأسطورية في لايف إيد 1985؟",
     "options": [
       {
-        "en": "Queen",
-        "ar": "كوين"
-      },
-      {
         "en": "The Rolling Stones",
         "ar": "ذا رولينج ستونز"
+      },
+      {
+        "en": "Queen",
+        "ar": "كوين"
       },
       {
         "en": "Led Zeppelin",
@@ -325,7 +325,7 @@
         "ar": "ذا هو"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Queen's Live Aid 1985 performance is considered one of the greatest live sets ever.",
     "explanation_ar": "حفلة كوين في لايف إيد 1985 من أعظم الحفلات الحية في التاريخ."
   },
@@ -339,10 +339,6 @@
     "question_ar": "أنهي مطرب مصري معروف بكلمات عميقة وفلسفية ولقبه \"الكينج\" وبيمزج جذوره النوبية في موسيقاه؟",
     "options": [
       {
-        "en": "Mohamed Mounir",
-        "ar": "محمد منير"
-      },
-      {
         "en": "Ali El Haggar",
         "ar": "علي الحجار"
       },
@@ -353,9 +349,13 @@
       {
         "en": "Fathy Salama",
         "ar": "فتحي سلامة"
+      },
+      {
+        "en": "Mohamed Mounir",
+        "ar": "محمد منير"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Mohamed Mounir, of Nubian descent, is known as \"El King\" for his poetic style.",
     "explanation_ar": "محمد منير، من أصل نوبي، معروف بلقب \"الكينج\" وكلماته الفلسفية."
   },
@@ -369,10 +369,6 @@
     "question_ar": "أنهي مطرب أمريكي طرح ألبوم \"Songs in the Key of Life\" المؤثر ومشهور بعبقريته الموسيقية رغم إعاقة بصرية؟",
     "options": [
       {
-        "en": "Stevie Wonder",
-        "ar": "ستيفي وندر"
-      },
-      {
         "en": "Ray Charles",
         "ar": "راي تشارلز"
       },
@@ -383,9 +379,13 @@
       {
         "en": "Al Green",
         "ar": "آل جرين"
+      },
+      {
+        "en": "Stevie Wonder",
+        "ar": "ستيفي وندر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Stevie Wonder, who is blind, released the acclaimed album \"Songs in the Key of Life\".",
     "explanation_ar": "ستيفي وندر، فاقد البصر، طرح ألبوم \"Songs in the Key of Life\" المؤثر جدًا."
   },
@@ -399,10 +399,6 @@
     "question_ar": "أنهي أخوين لبنانيين لحنوا معظم أغاني فيروز وشكلوا ثنائي \"الأخوين رحباني\"؟",
     "options": [
       {
-        "en": "Assi and Mansour Rahbani",
-        "ar": "عاصي ومنصور رحباني"
-      },
-      {
         "en": "Ziad and Hali Rahbani",
         "ar": "زياد وهالي رحباني"
       },
@@ -413,9 +409,13 @@
       {
         "en": "Philemon and Toufic Wehbe",
         "ar": "فيلمون وتوفيق وهبة"
+      },
+      {
+        "en": "Assi and Mansour Rahbani",
+        "ar": "عاصي ومنصور رحباني"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Assi and Mansour Rahbani composed most of Fairuz's iconic repertoire.",
     "explanation_ar": "عاصي ومنصور رحباني لحنوا معظم أغاني فيروز الشهيرة."
   },
@@ -437,15 +437,15 @@
         "ar": "سعد الصغير"
       },
       {
-        "en": "Shaaban Abdel Rahim",
-        "ar": "شعبان عبد الرحيم"
-      },
-      {
         "en": "Hassan Shakosh",
         "ar": "حسن شاكوش"
+      },
+      {
+        "en": "Shaaban Abdel Rahim",
+        "ar": "شعبان عبد الرحيم"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Hassan Shakosh, with hits like \"Bent El Giran\", is a leading figure in modern shaabi/mahraganat fusion.",
     "explanation_ar": "حسن شاكوش، بأغاني زي \"بنت الجيران\"، من أبرز رموز المهرجانات الشعبية الحديثة."
   },
@@ -459,10 +459,6 @@
     "question_ar": "أنهي فرقة روك كلاسيكية من أعضائها روبرت بلانت وجيمي بيدج ومعروفة بأغنية \"Stairway to Heaven\"؟",
     "options": [
       {
-        "en": "Led Zeppelin",
-        "ar": "ليد زبلين"
-      },
-      {
         "en": "Deep Purple",
         "ar": "ديب بيربل"
       },
@@ -473,9 +469,13 @@
       {
         "en": "The Who",
         "ar": "ذا هو"
+      },
+      {
+        "en": "Led Zeppelin",
+        "ar": "ليد زبلين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Led Zeppelin, with Robert Plant and Jimmy Page, created \"Stairway to Heaven\".",
     "explanation_ar": "فرقة ليد زبلين، بروبرت بلانت وجيمي بيدج، هي اللي غنت \"Stairway to Heaven\"."
   },
@@ -519,10 +519,6 @@
     "question_ar": "أنهي فنانة حائزة على جرامي معروفة بألبوم \"21\" وأغنية \"Someone Like You\"؟",
     "options": [
       {
-        "en": "Adele",
-        "ar": "أديل"
-      },
-      {
         "en": "Amy Winehouse",
         "ar": "إيمي واينهاوس"
       },
@@ -533,9 +529,13 @@
       {
         "en": "Sam Smith",
         "ar": "سام سميث"
+      },
+      {
+        "en": "Adele",
+        "ar": "أديل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Adele's album \"21\" won multiple Grammys and features \"Someone Like You\".",
     "explanation_ar": "ألبوم \"21\" لأديل فاز بجوايز جرامي كتير وفيه أغنية \"Someone Like You\"."
   },
@@ -549,12 +549,12 @@
     "question_ar": "أنهي فرقة مصرية، أسسها صلاح أشرف وآخرين، معروفة بألبومات روك بديل زي \"Analog Feelings\"؟",
     "options": [
       {
-        "en": "Massar Egbari",
-        "ar": "مسار إجباري"
-      },
-      {
         "en": "Cairokee",
         "ar": "كايروكي"
+      },
+      {
+        "en": "Massar Egbari",
+        "ar": "مسار إجباري"
       },
       {
         "en": "Sahara",
@@ -565,7 +565,7 @@
         "ar": "وسط البلد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Massar Egbari is known for alternative rock work including the \"Analog Feelings\" album.",
     "explanation_ar": "مسار إجباري معروفة بألبومات روك بديل ومنها \"Analog Feelings\"."
   },
@@ -609,10 +609,6 @@
     "question_ar": "بيتقال إيه على قدرة الموسيقي إنه يغني أو يعزف من غير نوتة، بالسمع بس؟",
     "options": [
       {
-        "en": "Playing by ear",
-        "ar": "العزف بالسمع"
-      },
-      {
         "en": "Sight-reading",
         "ar": "القراءة البصرية"
       },
@@ -623,9 +619,13 @@
       {
         "en": "Sampling",
         "ar": "السامبلينج"
+      },
+      {
+        "en": "Playing by ear",
+        "ar": "العزف بالسمع"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Performing music without sheet music, by ear, is called \"playing by ear\".",
     "explanation_ar": "العزف من غير نوتة والاعتماد على السمع اسمه \"العزف بالسمع\"."
   },
@@ -699,12 +699,12 @@
     "question_ar": "أنهي مطرب كلاسيكي، مولود في سوريا ومشهور بالعزف على العود، كان في منافسة فنية مع أم كلثوم لعقود؟",
     "options": [
       {
-        "en": "Farid El Atrache",
-        "ar": "فريد الأطرش"
-      },
-      {
         "en": "Mohamed Abdel Wahab",
         "ar": "محمد عبد الوهاب"
+      },
+      {
+        "en": "Farid El Atrache",
+        "ar": "فريد الأطرش"
       },
       {
         "en": "Karem Mahmoud",
@@ -715,7 +715,7 @@
         "ar": "عبد الحليم حافظ"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Farid El Atrache, born in Syria, was a legendary oud player and singer.",
     "explanation_ar": "فريد الأطرش، المولود في سوريا، كان عازف عود ومطرب أسطوري."
   },
@@ -729,10 +729,6 @@
     "question_ar": "أنهي فرقة أمريكية، أسسها كورت كوبين، من أهم فرق حركة الجرانج بألبوم \"Nevermind\"؟",
     "options": [
       {
-        "en": "Nirvana",
-        "ar": "نيرفانا"
-      },
-      {
         "en": "Pearl Jam",
         "ar": "بيرل جام"
       },
@@ -741,11 +737,15 @@
         "ar": "ساوندجاردن"
       },
       {
+        "en": "Nirvana",
+        "ar": "نيرفانا"
+      },
+      {
         "en": "Alice in Chains",
         "ar": "أليس إن تشينز"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Nirvana, led by Kurt Cobain, defined grunge with \"Nevermind\".",
     "explanation_ar": "نيرفانا، بقيادة كورت كوبين، من أهم فرق الجرانج بألبوم \"Nevermind\"."
   },
@@ -789,12 +789,12 @@
     "question_ar": "أنهي فنان أمريكي-كندي معروف بأغنية \"Blinding Lights\" واسمه الفني \"ذا ويكند\"؟",
     "options": [
       {
-        "en": "The Weeknd",
-        "ar": "ذا ويكند"
-      },
-      {
         "en": "Frank Ocean",
         "ar": "فرانك أوشن"
+      },
+      {
+        "en": "The Weeknd",
+        "ar": "ذا ويكند"
       },
       {
         "en": "Bruno Mars",
@@ -805,7 +805,7 @@
         "ar": "أشر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Weeknd (Abel Tesfaye) is known for the hit \"Blinding Lights\".",
     "explanation_ar": "ذا ويكند (أبل تسفاي) معروف بأغنية \"Blinding Lights\"."
   },
@@ -849,10 +849,6 @@
     "question_ar": "أنهي مطربة أمريكية، مشهورة بأغنية \"Halo\"، متجوزة جاي زي وكانت في فريق ديستنيز تشايلد؟",
     "options": [
       {
-        "en": "Beyoncé",
-        "ar": "بيونسيه"
-      },
-      {
         "en": "Kelly Rowland",
         "ar": "كيلي رولاند"
       },
@@ -861,11 +857,15 @@
         "ar": "ميشيل ويليامز"
       },
       {
+        "en": "Beyoncé",
+        "ar": "بيونسيه"
+      },
+      {
         "en": "Rihanna",
         "ar": "ريهانا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Beyoncé, known for \"Halo\", is married to Jay-Z.",
     "explanation_ar": "بيونسيه، صاحبة أغنية \"Halo\"، متجوزة جاي زي."
   },
@@ -909,10 +909,6 @@
     "question_ar": "أنهي مطربة بريطانية، معروفة بأغاني السول، غنت \"Back to Black\" قبل وفاتها المبكرة سنة 2011؟",
     "options": [
       {
-        "en": "Amy Winehouse",
-        "ar": "إيمي واينهاوس"
-      },
-      {
         "en": "Duffy",
         "ar": "دافي"
       },
@@ -921,11 +917,15 @@
         "ar": "أديل"
       },
       {
+        "en": "Amy Winehouse",
+        "ar": "إيمي واينهاوس"
+      },
+      {
         "en": "Joss Stone",
         "ar": "جوس ستون"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Amy Winehouse recorded \"Back to Black\" and passed away in 2011.",
     "explanation_ar": "إيمي واينهاوس غنت \"Back to Black\" وتوفيت سنة 2011."
   },
@@ -939,10 +939,6 @@
     "question_ar": "بيتقال إيه على الموسيقى المبنية على نمط إيقاعي أو لحني قصير بيتكرر، شائع في أغاني المهرجانات والدانس؟",
     "options": [
       {
-        "en": "Loop",
-        "ar": "لوب"
-      },
-      {
         "en": "Bridge",
         "ar": "بريدج"
       },
@@ -951,11 +947,15 @@
         "ar": "كادنس"
       },
       {
+        "en": "Loop",
+        "ar": "لوب"
+      },
+      {
         "en": "Overture",
         "ar": "أوفرتشر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A repeating musical pattern is called a loop.",
     "explanation_ar": "النمط الموسيقي المتكرر اسمه لوب."
   },
@@ -969,10 +969,6 @@
     "question_ar": "أنهي ملحن مصري لحن لأم كلثوم وعبد الحليم أغاني زي \"أحسن الناس\" و\"زي الهوا\"؟",
     "options": [
       {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
-      },
-      {
         "en": "Kamal El Taweel",
         "ar": "كمال الطويل"
       },
@@ -981,11 +977,15 @@
         "ar": "محمد الموجي"
       },
       {
+        "en": "Baligh Hamdi",
+        "ar": "بليغ حمدي"
+      },
+      {
         "en": "Sayed Mekawy",
         "ar": "سيد مكاوي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Baligh Hamdi composed both \"Ahsan Nas\" and \"Zay El Hawa\" among many other classics.",
     "explanation_ar": "بليغ حمدي لحن \"أحسن الناس\" و\"زي الهوا\" ضمن كلاسيكيات تانية كتير."
   },
@@ -1089,12 +1089,12 @@
     "question_ar": "أنهي مطربة مصرية معروفة بمشاركتها كمدربة (مش متسابقة) في برنامج \"ذا فويس\" بالعربي؟",
     "options": [
       {
-        "en": "Sherine",
-        "ar": "شيرين"
-      },
-      {
         "en": "Angham",
         "ar": "أنغام"
+      },
+      {
+        "en": "Sherine",
+        "ar": "شيرين"
       },
       {
         "en": "Assala",
@@ -1105,7 +1105,7 @@
         "ar": "نوال الزغبي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Sherine has served as a coach on \"The Voice\" Arabic editions.",
     "explanation_ar": "شيرين شاركت كمدربة في برنامج \"ذا فويس\" بالعربي."
   },
@@ -1123,19 +1123,19 @@
         "ar": "قارئ يا حبيب الروح"
       },
       {
-        "en": "Risalah Men Taht El Maa",
-        "ar": "رسالة من تحت الماء"
-      },
-      {
         "en": "Ahwak",
         "ar": "أهواك"
       },
       {
         "en": "Sawah",
         "ar": "الصعيدي شاطر"
+      },
+      {
+        "en": "Risalah Men Taht El Maa",
+        "ar": "رسالة من تحت الماء"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "\"Risalah Men Taht El Maa\" is one of Abdel Halim Hafez's most emotionally powerful songs.",
     "explanation_ar": "\"رسالة من تحت الماء\" من أكتر أغاني عبد الحليم حافظ تأثيرًا."
   },
@@ -1149,10 +1149,6 @@
     "question_ar": "أنهي مطربة أمريكية اشتهرت بأغنية \"Man! I Feel Like a Woman!\" وبدأت في الكانتري قبل ما تنتقل للبوب؟",
     "options": [
       {
-        "en": "Shania Twain",
-        "ar": "شانايا تواين"
-      },
-      {
         "en": "Faith Hill",
         "ar": "فيث هيل"
       },
@@ -1163,9 +1159,13 @@
       {
         "en": "Reba McEntire",
         "ar": "ريبا ماكنتاير"
+      },
+      {
+        "en": "Shania Twain",
+        "ar": "شانايا تواين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Shania Twain crossed over from country to pop stardom.",
     "explanation_ar": "شانايا تواين انتقلت من الكانتري لنجومية البوب."
   },
@@ -1179,10 +1179,6 @@
     "question_ar": "بيتقال إيه على نسخة مش رسمية من أغنية بيؤديها فنان مش المطرب الأصلي؟",
     "options": [
       {
-        "en": "Cover",
-        "ar": "كفر"
-      },
-      {
         "en": "Remix",
         "ar": "ريمكس"
       },
@@ -1193,9 +1189,13 @@
       {
         "en": "Mashup",
         "ar": "ماش أب"
+      },
+      {
+        "en": "Cover",
+        "ar": "كفر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "A cover is a performance of a song by someone other than the original artist.",
     "explanation_ar": "الكفر هو أداء لأغنية بواسطة فنان غير المطرب الأصلي."
   },
@@ -1209,10 +1209,6 @@
     "question_ar": "أنهي مطرب مصري، معروف بصوته وأغاني زي \"قال الحب\"، كان من أهم أصوات الإذاعة المصرية لعقود؟",
     "options": [
       {
-        "en": "Ali El Haggar",
-        "ar": "علي الحجار"
-      },
-      {
         "en": "Mohamed Mounir",
         "ar": "محمد منير"
       },
@@ -1223,9 +1219,13 @@
       {
         "en": "Hany Shaker",
         "ar": "هاني شاكر"
+      },
+      {
+        "en": "Ali El Haggar",
+        "ar": "علي الحجار"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Ali El Haggar has long been a prominent voice on Egyptian radio and stage.",
     "explanation_ar": "علي الحجار من أبرز الأصوات في الإذاعة والمسرح المصري لعقود."
   },
@@ -1239,10 +1239,6 @@
     "question_ar": "أنهي فرقة روك أمريكية-بريطانية، بقيادة ميك جاجر وكيث ريتشاردز، مشهورة بأغنية \"Satisfaction\"؟",
     "options": [
       {
-        "en": "The Rolling Stones",
-        "ar": "ذا رولينج ستونز"
-      },
-      {
         "en": "The Who",
         "ar": "ذا هو"
       },
@@ -1253,9 +1249,13 @@
       {
         "en": "The Animals",
         "ar": "ذا أنيمالز"
+      },
+      {
+        "en": "The Rolling Stones",
+        "ar": "ذا رولينج ستونز"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The Rolling Stones, fronted by Mick Jagger, made \"Satisfaction\" iconic.",
     "explanation_ar": "فرقة ذا رولينج ستونز، بقيادة ميك جاجر، غنت \"Satisfaction\" الأسطورية."
   },
@@ -1269,10 +1269,6 @@
     "question_ar": "أنهي نوع من الارتجال الغنائي العربي الكلاسيكي بيتقدم من غير إيقاع ثابت قبل الأغنية المنظمة؟",
     "options": [
       {
-        "en": "Mawwal",
-        "ar": "موال"
-      },
-      {
         "en": "Dabke",
         "ar": "دبكة"
       },
@@ -1283,9 +1279,13 @@
       {
         "en": "Ataba",
         "ar": "عتابا"
+      },
+      {
+        "en": "Mawwal",
+        "ar": "موال"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The mawwal is a free-rhythm vocal improvisation preceding structured songs.",
     "explanation_ar": "الموال هو ارتجال غنائي من غير إيقاع ثابت بيتقدم قبل الأغنية المنظمة."
   },
@@ -1299,10 +1299,6 @@
     "question_ar": "أنهي مطربة مصرية بدأت مشوارها كواحدة من أهم أصوات البوب النسائية أواخر التسعينات وبداية الألفينات؟",
     "options": [
       {
-        "en": "Sherine",
-        "ar": "شيرين"
-      },
-      {
         "en": "Angham",
         "ar": "أنغام"
       },
@@ -1311,11 +1307,15 @@
         "ar": "روبي"
       },
       {
+        "en": "Sherine",
+        "ar": "شيرين"
+      },
+      {
         "en": "Donia Samir Ghanem",
         "ar": "دنيا سمير غانم"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Sherine debuted in the late 1990s and became one of Egypt's leading female pop voices.",
     "explanation_ar": "شيرين بدأت مشوارها أواخر التسعينات وبقت من أهم أصوات البوب النسائية في مصر."
   },
@@ -1329,12 +1329,12 @@
     "question_ar": "أنهي موسيقي أمريكي معروف بلقب \"The Piano Man\" وغنى أغنية بنفس الاسم سنة 1973؟",
     "options": [
       {
-        "en": "Billy Joel",
-        "ar": "بيلي جول"
-      },
-      {
         "en": "Elton John",
         "ar": "إلتون جون"
+      },
+      {
+        "en": "Billy Joel",
+        "ar": "بيلي جول"
       },
       {
         "en": "Barry Manilow",
@@ -1345,7 +1345,7 @@
         "ar": "نيل دايموند"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Billy Joel wrote and performed \"Piano Man\" in 1973.",
     "explanation_ar": "بيلي جول غنى ولحن \"Piano Man\" سنة 1973."
   },
@@ -1449,10 +1449,6 @@
     "question_ar": "أنهي مطربة أمريكية معروفة بأغنية \"Vision of Love\" ومدى صوتي أسطوري ولقبها \"Songbird Supreme\"؟",
     "options": [
       {
-        "en": "Mariah Carey",
-        "ar": "ماريا كاري"
-      },
-      {
         "en": "Celine Dion",
         "ar": "سيلين ديون"
       },
@@ -1463,9 +1459,13 @@
       {
         "en": "Christina Aguilera",
         "ar": "كريستينا أغيليرا"
+      },
+      {
+        "en": "Mariah Carey",
+        "ar": "ماريا كاري"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Mariah Carey is renowned for her exceptional vocal range and hits like \"Vision of Love\".",
     "explanation_ar": "ماريا كاري معروفة بمدى صوتي استثنائي وأغاني زي \"Vision of Love\"."
   },
@@ -1479,10 +1479,6 @@
     "question_ar": "أنهي مطرب مصري بيتعتبر عراب الغناء الشعبي وبقى مشهور في السبعينات بصوته الأجش وأغاني الأفراح؟",
     "options": [
       {
-        "en": "Ahmed Adaweya",
-        "ar": "أحمد عدوية"
-      },
-      {
         "en": "Shaaban Abdel Rahim",
         "ar": "شعبان عبد الرحيم"
       },
@@ -1491,11 +1487,15 @@
         "ar": "حكيم"
       },
       {
+        "en": "Ahmed Adaweya",
+        "ar": "أحمد عدوية"
+      },
+      {
         "en": "Ali El Haggar",
         "ar": "علي الحجار"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Ahmed Adaweya is widely regarded as the godfather of modern Egyptian shaabi music.",
     "explanation_ar": "أحمد عدوية بيتعتبر عراب الغناء الشعبي المصري الحديث."
   }
