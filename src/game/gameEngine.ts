@@ -5,13 +5,14 @@ import type { MoneyValue } from '@/types/question';
 
 /** Pure, side-effect-free reducers for the FOOZU game. Every transition returns a new GameState. */
 
-export function startGame(playerName: string, phoneNumber = '', age = 0): GameState {
+export function startGame(playerName: string, phoneNumber = '', age = 0, raffleNumber = 0): GameState {
   return {
     ...initialGameState(),
     phase: 'category-board',
     playerName: playerName.trim(),
     phoneNumber: phoneNumber.trim(),
     age,
+    raffleNumber,
     startTime: new Date().toISOString()
   };
 }

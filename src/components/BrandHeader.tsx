@@ -1,13 +1,15 @@
 import BackButton from './BackButton';
+import { formatRaffleNumber } from '@/utils/storage';
 
 interface Props {
   playerName?: string;
   securedAmount?: number;
+  raffleNumber?: number;
   compact?: boolean;
   onBack?: () => void;
 }
 
-export default function BrandHeader({ playerName, securedAmount, compact, onBack }: Props) {
+export default function BrandHeader({ playerName, securedAmount, raffleNumber, compact, onBack }: Props) {
   return (
     <header className="flex items-center justify-between gap-4 px-4 sm:px-6 py-3">
       <div className="flex items-center gap-3">
@@ -32,7 +34,15 @@ export default function BrandHeader({ playerName, securedAmount, compact, onBack
         )}
       </div>
       {playerName ? (
-        <div className="flex items-center gap-4 sm:gap-6">
+        <div className="flex items-center gap-3 sm:gap-6">
+          {!!raffleNumber && (
+            <div className="text-right bg-foozu-cyan/15 border border-foozu-cyan/40 rounded-2xl px-3 py-1.5 sm:px-4 sm:py-2">
+              <div className="text-[10px] uppercase tracking-widest text-foozu-cyan">Raffle #</div>
+              <div className="font-display font-extrabold text-lg sm:text-xl text-white">
+                {formatRaffleNumber(raffleNumber)}
+              </div>
+            </div>
+          )}
           <div className="text-right">
             <div className="text-[10px] uppercase tracking-widest text-white/50">Player</div>
             <div className="font-bold text-sm sm:text-base truncate max-w-[140px]">{playerName}</div>

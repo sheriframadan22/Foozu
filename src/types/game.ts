@@ -27,6 +27,7 @@ export interface GameState {
   playerName: string;
   phoneNumber: string;
   age: number;
+  raffleNumber: number;
   currentLevelIndex: number; // 0..4, index into LEVELS
   securedAmount: number;
   usedSlots: UsedSlot[];
@@ -43,6 +44,7 @@ export const initialGameState = (): GameState => ({
   playerName: '',
   phoneNumber: '',
   age: 0,
+  raffleNumber: 0,
   currentLevelIndex: 0,
   securedAmount: 0,
   usedSlots: []

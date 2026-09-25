@@ -87,15 +87,20 @@ The usher's tablet is the only device in play, so perfect DOM-hiding isn't requi
 
 ## Data storage & future backend
 
-V1 persists completed games, the "played before" phone-number registry, and per-question analytics in `localStorage` (`src/utils/storage.ts`), behind a small repository-style API (`gameStore`, `playerRegistryStore`, `questionStatsStore`). Swapping this for IndexedDB or a real backend (cloud leaderboard, multi-tablet sync, centralized dashboard) later means reimplementing that one file — no other code depends on the storage mechanism.
+V1 persists completed games, the "played before" phone-number registry, the raffle counter/winner, and per-question analytics in `localStorage` (`src/utils/storage.ts`), behind a small repository-style API (`gameStore`, `playerRegistryStore`, `raffleStore`, `questionStatsStore`). Swapping this for IndexedDB or a real backend (cloud leaderboard, multi-tablet sync, centralized dashboard) later means reimplementing that one file — no other code depends on the storage mechanism.
+
+## Raffle
+
+Every contestant who starts a game is handed the next sequential raffle number (`raffleStore.next()`), shown throughout play in the header and prominently on their final win/loss screen ("keep this number for the draw"). It's recorded on their `CompletedGame` entry and included in CSV export. At the end of the day, the operator dashboard's **Raffle Draw** panel picks a uniformly random winner from that day's completed games (button re-draws if needed) — no separate physical raffle-ticket system required.
 
 ## Operator dashboard (`/#/admin`)
 
 - PIN-gated (default `1234`).
 - Today's players, total/average payout, 380 EGP winners, 200 EGP attempts, 100 EGP eliminations.
-- Full leaderboard (prize desc, ties broken by earlier completion time), searchable by name or phone number, flags repeat phone numbers.
-- **EXPORT CSV** (name, phone, age, prize, start/end time, duration, highest level, categories played).
-- **RESET RESULTS** clears today's local leaderboard *and* the "played before" registry, so everyone could play again (confirmation required).
+- **Raffle Draw** panel: draws a random winner (raffle #, name, phone) from today's contestants for the end-of-day prize.
+- Full leaderboard (prize desc, ties broken by earlier completion time) with each contestant's raffle #, searchable by name or phone number, flags repeat phone numbers.
+- **EXPORT CSV** (raffle #, name, phone, age, prize, start/end time, duration, highest level, categories played).
+- **RESET RESULTS** clears today's local leaderboard, the "played before" registry, and the raffle counter/winner, so everyone could play again starting from raffle #001 (confirmation required).
 - Question analytics table: times shown / correct / wrong per question ID.
 
 ## Testing

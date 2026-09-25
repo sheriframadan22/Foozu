@@ -1,10 +1,12 @@
 import { useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { gameStore, questionStatsStore, playerRegistryStore } from '@/utils/storage';
+import { gameStore, questionStatsStore, playerRegistryStore, raffleStore, formatRaffleNumber } from '@/utils/storage';
+import type { RaffleWinner } from '@/utils/storage';
 import { gamesToCsv, downloadCsv } from '@/utils/exportCsv';
 import { MAX_PRIZE } from '@/game/scoring';
 import type { CompletedGame } from '@/types/player';
 import BackButton from '@/components/BackButton';
+import Confetti from '@/components/Confetti';
 
 const ADMIN_PIN = '1234';
 
@@ -63,6 +65,70 @@ function PinGate({ onUnlock }: { onUnlock: () => void }) {
   );
 }
 
+function RaffleDraw({ entries }: { entries: CompletedGame[] }) {
+  const [winner, setWinner] = useState<RaffleWinner | null>(() => raffleStore.getWinner());
+
+  const draw = () => {
+    if (entries.length === 0) return;
+    const picked = entries[Math.floor(Math.random() * entries.length)];
+    const result: RaffleWinner = {
+      raffleNumber: picked.raffleNumber,
+      playerName: picked.playerName,
+      phoneNumber: picked.phoneNumber,
+      drawnAt: new Date().toISOString()
+    };
+    raffleStore.setWinner(result);
+    setWinner(result);
+  };
+
+  const clear = () => {
+    raffleStore.clearWinner();
+    setWinner(null);
+  };
+
+  return (
+    <div className="relative bg-white/6 border border-foozu-cyan/40 rounded-2xl p-5 sm:p-6 mb-8 text-center overflow-hidden">
+      {winner && <Confetti pieces={50} />}
+      <div className="text-xs uppercase tracking-widest text-foozu-cyan mb-1">🎧 Raffle Draw — JBL Speaker</div>
+      <p className="text-sm text-white/50 mb-4">{entries.length} contestant{entries.length === 1 ? '' : 's'} eligible today</p>
+
+      {winner ? (
+        <div className="animate-popIn">
+          <div className="text-xs uppercase tracking-widest text-white/50">Winner</div>
+          <div className="font-display font-black text-3xl sm:text-4xl text-foozu-yellow mt-1">
+            #{formatRaffleNumber(winner.raffleNumber)}
+          </div>
+          <div className="font-bold text-lg mt-1">{winner.playerName}</div>
+          <div className="text-white/60 text-sm">{winner.phoneNumber}</div>
+          <div className="flex gap-3 justify-center mt-4">
+            <button
+              onClick={clear}
+              className="touch-target px-4 py-2.5 rounded-xl bg-white/10 hover:bg-white/20 font-semibold text-sm active:scale-95 transition"
+            >
+              CLEAR
+            </button>
+            <button
+              onClick={draw}
+              disabled={entries.length === 0}
+              className="touch-target px-4 py-2.5 rounded-xl bg-foozu-cyan/80 hover:brightness-110 font-semibold text-sm active:scale-95 transition disabled:opacity-40"
+            >
+              DRAW AGAIN
+            </button>
+          </div>
+        </div>
+      ) : (
+        <button
+          onClick={draw}
+          disabled={entries.length === 0}
+          className="touch-target px-8 py-4 rounded-2xl bg-foozu-cyan font-display font-bold text-lg active:scale-95 hover:brightness-110 transition disabled:opacity-40 disabled:cursor-not-allowed"
+        >
+          🎉 DRAW WINNER
+        </button>
+      )}
+    </div>
+  );
+}
+
 function StatTile({ label, value, accent }: { label: string; value: string | number; accent?: string }) {
   return (
     <div className="bg-white/6 border border-white/10 rounded-2xl p-4 text-center">
@@ -105,12 +171,14 @@ function Dashboard() {
   const handleResetToday = () => {
     if (
       !confirm(
-        "Reset today's results? This clears the whole local leaderboard AND the \"played before\" phone number list, so everyone could play again. This cannot be undone."
+        "Reset today's results? This clears the whole local leaderboard, the \"played before\" phone number list, and the raffle counter/winner, so everyone could play again starting from raffle #001. This cannot be undone."
       )
     )
       return;
     gameStore.clearAll();
     playerRegistryStore.clearAll();
+    raffleStore.reset();
+    raffleStore.clearWinner();
     setTick((t) => t + 1);
   };
 
@@ -136,6 +204,8 @@ function Dashboard() {
         <StatTile label="200 EGP Attempts" value={attempts200} />
         <StatTile label="100 EGP Eliminations" value={eliminated100} accent="text-foozu-red" />
       </div>
+
+      <RaffleDraw entries={todayGames} />
 
       <div className="flex flex-wrap items-center gap-3 mb-4">
         <input
@@ -163,6 +233,7 @@ function Dashboard() {
           <thead className="bg-white/10 text-white/60 text-xs uppercase tracking-wider">
             <tr>
               <th className="text-left px-4 py-3">#</th>
+              <th className="text-left px-4 py-3">Raffle #</th>
               <th className="text-left px-4 py-3">Name</th>
               <th className="text-left px-4 py-3">Phone</th>
               <th className="text-right px-4 py-3">Age</th>
@@ -179,6 +250,7 @@ function Dashboard() {
               return (
                 <tr key={g.id} className="border-t border-white/5 hover:bg-white/5">
                   <td className="px-4 py-2.5 text-white/50">{i + 1}</td>
+                  <td className="px-4 py-2.5 font-mono text-foozu-cyan">#{formatRaffleNumber(g.raffleNumber)}</td>
                   <td className="px-4 py-2.5 font-semibold">
                     {g.playerName}
                     {playedMoreThanOnce && (
@@ -200,7 +272,7 @@ function Dashboard() {
             })}
             {filteredLeaderboard.length === 0 && (
               <tr>
-                <td colSpan={8} className="px-4 py-8 text-center text-white/40">
+                <td colSpan={9} className="px-4 py-8 text-center text-white/40">
                   No completed games yet.
                 </td>
               </tr>

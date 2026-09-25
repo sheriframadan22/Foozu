@@ -1,12 +1,14 @@
 import Confetti from './Confetti';
 import { MAX_PRIZE } from '@/game/scoring';
+import { formatRaffleNumber } from '@/utils/storage';
 
 interface Props {
   playerName: string;
+  raffleNumber?: number;
   onPlayAgain: () => void;
 }
 
-export default function WinnerScreen({ playerName, onPlayAgain }: Props) {
+export default function WinnerScreen({ playerName, raffleNumber, onPlayAgain }: Props) {
   return (
     <div className="relative flex flex-col items-center justify-center min-h-[80vh] text-center px-4">
       <Confetti />
@@ -18,6 +20,18 @@ export default function WinnerScreen({ playerName, onPlayAgain }: Props) {
         <p dir="rtl" className="font-arabic text-2xl sm:text-3xl font-bold text-foozu-teal mt-4">
           كسبت الـ {MAX_PRIZE} جنيه!
         </p>
+
+        {!!raffleNumber && (
+          <div className="mt-6 inline-block bg-foozu-cyan/15 border-2 border-foozu-cyan rounded-2xl px-6 py-4">
+            <div className="text-xs uppercase tracking-widest text-foozu-cyan">Your Raffle Number</div>
+            <div className="font-display font-black text-4xl sm:text-5xl text-white mt-1">
+              {formatRaffleNumber(raffleNumber)}
+            </div>
+            <p className="text-xs text-white/60 mt-2">Keep this number — the JBL speaker raffle draw is at the end of the day!</p>
+            <p dir="rtl" className="font-arabic text-xs text-white/60 mt-0.5">احتفظ بالرقم ده، السحب على السماعة آخر اليوم!</p>
+          </div>
+        )}
+
         <div className="flex items-center justify-center gap-1 font-display font-extrabold text-2xl text-white mt-8">
           <span>FOO</span>
           <img src="./brand/foozu-z-mark.png" alt="Z" className="h-6 w-auto" />

@@ -10,7 +10,7 @@ import WinnerScreen from '@/components/WinnerScreen';
 import GameOverScreen from '@/components/GameOverScreen';
 import { LEVELS, type GameState } from '@/types/game';
 import * as engine from '@/game/gameEngine';
-import { gameStore, questionStatsStore, playerRegistryStore } from '@/utils/storage';
+import { gameStore, questionStatsStore, playerRegistryStore, raffleStore } from '@/utils/storage';
 import type { CategorySelection, CompletedGame } from '@/types/player';
 
 const AUTO_ADVANCE_MS = 1600;
@@ -34,6 +34,7 @@ export default function GamePage() {
       playerName: finalState.playerName,
       phoneNumber: finalState.phoneNumber,
       age: finalState.age,
+      raffleNumber: finalState.raffleNumber,
       prize,
       startTime,
       endTime,
@@ -88,7 +89,8 @@ export default function GamePage() {
 
   const handleStart = (name: string, phoneNumber: string, age: number) => {
     selectionsRef.current = [];
-    const next = engine.startGame(name, phoneNumber, age);
+    const raffleNumber = raffleStore.next();
+    const next = engine.startGame(name, phoneNumber, age, raffleNumber);
     playerRegistryStore.register(phoneNumber, name, age);
     setState(next);
   };
@@ -124,6 +126,7 @@ export default function GamePage() {
       <BrandHeader
         playerName={state.phase !== 'name-entry' ? state.playerName : undefined}
         securedAmount={state.phase !== 'name-entry' ? state.securedAmount : undefined}
+        raffleNumber={state.phase !== 'name-entry' ? state.raffleNumber : undefined}
         onBack={
           state.phase === 'category-board'
             ? handleBackToStart
@@ -179,9 +182,16 @@ export default function GamePage() {
           </div>
         )}
 
-        {state.phase === 'win' && <WinnerScreen playerName={state.playerName} onPlayAgain={handlePlayAgain} />}
+        {state.phase === 'win' && (
+          <WinnerScreen playerName={state.playerName} raffleNumber={state.raffleNumber} onPlayAgain={handlePlayAgain} />
+        )}
         {state.phase === 'loss' && (
-          <GameOverScreen playerName={state.playerName} prize={state.securedAmount} onPlayAgain={handlePlayAgain} />
+          <GameOverScreen
+            playerName={state.playerName}
+            prize={state.securedAmount}
+            raffleNumber={state.raffleNumber}
+            onPlayAgain={handlePlayAgain}
+          />
         )}
       </main>
 

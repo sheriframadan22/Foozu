@@ -9,10 +9,17 @@ import type { CompletedGame, PlayerRecord } from '@/types/player';
 const GAMES_KEY = 'foozu:games:v1';
 const STATS_KEY = 'foozu:question-stats:v1';
 const PLAYERS_KEY = 'foozu:players:v1';
+const RAFFLE_COUNTER_KEY = 'foozu:raffle-counter:v1';
+const RAFFLE_WINNER_KEY = 'foozu:raffle-winner:v1';
 
 /** Normalizes a phone number for matching (strips spaces/dashes/parens, keeps digits and a leading +). */
 export function normalizePhone(phone: string): string {
   return phone.trim().replace(/[\s\-().]/g, '');
+}
+
+/** Zero-pads a raffle number for display/announcement (e.g. 7 -> "007"). */
+export function formatRaffleNumber(n: number): string {
+  return String(n).padStart(3, '0');
 }
 
 export interface QuestionStat {
@@ -89,6 +96,40 @@ export const playerRegistryStore = {
     localStorage.setItem(PLAYERS_KEY, JSON.stringify({}));
   }
 };
+
+export const raffleStore = {
+  /** The next number that will be handed out, without consuming it (for display only). */
+  peekNext(): number {
+    return safeParse<number>(localStorage.getItem(RAFFLE_COUNTER_KEY), 0) + 1;
+  },
+  /** Every contestant who starts a game gets the next sequential raffle number, once. */
+  next(): number {
+    const n = raffleStore.peekNext();
+    localStorage.setItem(RAFFLE_COUNTER_KEY, JSON.stringify(n));
+    return n;
+  },
+  /** Starts the count over — use alongside gameStore/playerRegistryStore resets for a new event day. */
+  reset(): void {
+    localStorage.setItem(RAFFLE_COUNTER_KEY, JSON.stringify(0));
+  },
+  /** The most recently announced raffle winner, if any — survives a page reload mid-draw. */
+  getWinner(): RaffleWinner | null {
+    return safeParse<RaffleWinner | null>(localStorage.getItem(RAFFLE_WINNER_KEY), null);
+  },
+  setWinner(winner: RaffleWinner): void {
+    localStorage.setItem(RAFFLE_WINNER_KEY, JSON.stringify(winner));
+  },
+  clearWinner(): void {
+    localStorage.removeItem(RAFFLE_WINNER_KEY);
+  }
+};
+
+export interface RaffleWinner {
+  raffleNumber: number;
+  playerName: string;
+  phoneNumber: string;
+  drawnAt: string;
+}
 
 export const questionStatsStore = {
   getAll(): Record<string, QuestionStat> {

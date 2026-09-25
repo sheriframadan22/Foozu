@@ -1,4 +1,5 @@
 import type { CompletedGame } from '@/types/player';
+import { formatRaffleNumber } from './storage';
 
 function csvEscape(value: string | number): string {
   const s = String(value);
@@ -8,6 +9,7 @@ function csvEscape(value: string | number): string {
 
 export function gamesToCsv(games: CompletedGame[]): string {
   const header = [
+    'Raffle #',
     'Name',
     'Phone',
     'Age',
@@ -20,6 +22,7 @@ export function gamesToCsv(games: CompletedGame[]): string {
     'Categories Played'
   ];
   const rows = games.map((g) => [
+    formatRaffleNumber(g.raffleNumber),
     g.playerName,
     g.phoneNumber,
     g.age,

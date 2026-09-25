@@ -12,6 +12,7 @@ export interface CompletedGame {
   playerName: string;
   phoneNumber: string;
   age: number;
+  raffleNumber: number;
   prize: number;
   startTime: string; // ISO
   endTime: string; // ISO
