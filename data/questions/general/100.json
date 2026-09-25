@@ -1,52 +1,1506 @@
 [
-  {"id":"GEN-100-001","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which country has three separate capital cities for its legislative, judicial and executive branches?","question_ar":"إيه الدولة اللي ليها 3 عواصم منفصلة للسلطة التشريعية والقضائية والتنفيذية؟","options":[{"en":"South Africa","ar":"جنوب أفريقيا"},{"en":"Bolivia","ar":"بوليفيا"},{"en":"Netherlands","ar":"هولندا"},{"en":"Sri Lanka","ar":"سريلانكا"}],"correctAnswer":0,"explanation_en":"South Africa has three capitals: Pretoria, Bloemfontein and Cape Town.","explanation_ar":"جنوب أفريقيا ليها 3 عواصم: بريتوريا وبلومفونتين وكيب تاون."},
-  {"id":"GEN-100-002","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the only mammal capable of true, sustained flight?","question_ar":"إيه الحيوان الثديي الوحيد اللي بيقدر يطير طيران حقيقي ومستمر؟","options":[{"en":"Bat","ar":"الخفاش"},{"en":"Flying squirrel","ar":"السنجاب الطائر"},{"en":"Colugo","ar":"الكولوجو"},{"en":"Flying fox only as glider","ar":"ثعلب طائر شراعي"}],"correctAnswer":0,"explanation_en":"Bats are the only mammals capable of true, sustained flight.","explanation_ar":"الخفافيش هي الحيوانات الثديية الوحيدة اللي بتقدر تطير طيران حقيقي ومستمر."},
-  {"id":"GEN-100-003","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the chemical symbol for iron?","question_ar":"إيه الرمز الكيميائي للحديد؟","options":[{"en":"Fe","ar":"Fe"},{"en":"Ir","ar":"Ir"},{"en":"In","ar":"In"},{"en":"Fr","ar":"Fr"}],"correctAnswer":0,"explanation_en":"Iron's chemical symbol is Fe, from the Latin 'ferrum'.","explanation_ar":"الرمز الكيميائي للحديد هو Fe من الكلمة اللاتينية 'ferrum'."},
-  {"id":"GEN-100-004","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Who was the first person to walk on the Moon?","question_ar":"مين أول إنسان مشى على سطح القمر؟","options":[{"en":"Neil Armstrong","ar":"نيل أرمسترونج"},{"en":"Buzz Aldrin","ar":"باز ألدرين"},{"en":"Yuri Gagarin","ar":"يوري جاجارين"},{"en":"John Glenn","ar":"جون جلين"}],"correctAnswer":0,"explanation_en":"Neil Armstrong was the first person to walk on the Moon in 1969.","explanation_ar":"نيل أرمسترونج أول إنسان مشى على سطح القمر سنة 1969."},
-  {"id":"GEN-100-005","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"In which year did Apple release the original Macintosh computer?","question_ar":"آبل طرحت جهاز الماكنتوش الأصلي سنة كام؟","options":[{"en":"1984","ar":"1984"},{"en":"1976","ar":"1976"},{"en":"1991","ar":"1991"},{"en":"1998","ar":"1998"}],"correctAnswer":0,"explanation_en":"The original Macintosh was released by Apple in 1984.","explanation_ar":"جهاز الماكنتوش الأصلي طرحته آبل سنة 1984."},
-  {"id":"GEN-100-006","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the name of the young Egyptian pharaoh whose nearly intact tomb was discovered in 1922?","question_ar":"إيه اسم الفرعون المصري الشاب اللي مقبرته اتكتشفت شبه سليمة سنة 1922؟","options":[{"en":"Tutankhamun","ar":"توت عنخ آمون"},{"en":"Ramesses II","ar":"رمسيس التاني"},{"en":"Akhenaten","ar":"إخناتون"},{"en":"Thutmose III","ar":"تحتمس التالت"}],"correctAnswer":0,"explanation_en":"Tutankhamun's nearly intact tomb was discovered in 1922 by Howard Carter.","explanation_ar":"مقبرة توت عنخ آمون اتكتشفت شبه سليمة سنة 1922 على يد هوارد كارتر."},
-  {"id":"GEN-100-007","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Who discovered the antibiotic penicillin?","question_ar":"مين اللي اكتشف المضاد الحيوي البنسلين؟","options":[{"en":"Alexander Fleming","ar":"ألكسندر فليمنج"},{"en":"Louis Pasteur","ar":"لويس باستور"},{"en":"Marie Curie","ar":"ماري كوري"},{"en":"Robert Koch","ar":"روبرت كوخ"}],"correctAnswer":0,"explanation_en":"Alexander Fleming discovered penicillin in 1928.","explanation_ar":"ألكسندر فليمنج اكتشف البنسلين سنة 1928."},
-  {"id":"GEN-100-008","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the tallest mountain in Africa?","question_ar":"إيه أطول جبل في أفريقيا؟","options":[{"en":"Mount Kilimanjaro","ar":"جبل كليمنجارو"},{"en":"Mount Kenya","ar":"جبل كينيا"},{"en":"Atlas Mountains","ar":"جبال الأطلس"},{"en":"Ras Dashen","ar":"جبل راس دشن"}],"correctAnswer":0,"explanation_en":"Mount Kilimanjaro in Tanzania is Africa's tallest mountain.","explanation_ar":"جبل كليمنجارو في تنزانيا هو أطول جبل في أفريقيا."},
-  {"id":"GEN-100-009","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which historic Cairo mosque-founding dynasty gave modern Cairo (Al-Qahira) its name?","question_ar":"إيه الأسرة الحاكمة التاريخية اللي أسست القاهرة الحديثة وسمتها بالاسم ده؟","options":[{"en":"The Fatimids","ar":"الفاطميين"},{"en":"The Mamluks","ar":"المماليك"},{"en":"The Ayyubids","ar":"الأيوبيين"},{"en":"The Ottomans","ar":"العثمانيين"}],"correctAnswer":0,"explanation_en":"The Fatimids founded Cairo (Al-Qahira) in 969 AD.","explanation_ar":"الفاطميين أسسوا القاهرة سنة 969 ميلادية."},
-  {"id":"GEN-100-010","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the smallest bone in the human body, found in the ear?","question_ar":"إيه أصغر عظمة في جسم الإنسان وموجودة في الأدن؟","options":[{"en":"The stapes","ar":"الركاب"},{"en":"The femur","ar":"عظمة الفخذ"},{"en":"The clavicle","ar":"الترقوة"},{"en":"The patella","ar":"الرضفة"}],"correctAnswer":0,"explanation_en":"The stapes in the ear is the smallest bone in the human body.","explanation_ar":"عظمة الركاب في الأدن هي أصغر عظمة في جسم الإنسان."},
-  {"id":"GEN-100-011","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"After Mandarin Chinese, which language has the most native speakers in the world?","question_ar":"بعد الصيني الماندرين، إيه اللغة اللي ليها أكبر عدد متحدثين أصليين في العالم؟","options":[{"en":"Spanish","ar":"الإسباني"},{"en":"English","ar":"الإنجليزي"},{"en":"Hindi","ar":"الهندي"},{"en":"Arabic","ar":"العربي"}],"correctAnswer":0,"explanation_en":"Spanish has the second-most native speakers in the world after Mandarin Chinese.","explanation_ar":"الإسباني ثاني أكبر لغة من حيث المتحدثين الأصليين بعد الصيني الماندرين."},
-  {"id":"GEN-100-012","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which country has the most UNESCO World Heritage Sites of any country?","question_ar":"إيه الدولة اللي فيها أكبر عدد مواقع تراث عالمي لليونسكو؟","options":[{"en":"Italy","ar":"إيطاليا"},{"en":"China","ar":"الصين"},{"en":"Spain","ar":"إسبانيا"},{"en":"Germany","ar":"ألمانيا"}],"correctAnswer":0,"explanation_en":"Italy has the most UNESCO World Heritage Sites of any country.","explanation_ar":"إيطاليا فيها أكبر عدد مواقع تراث عالمي لليونسكو.","verified_as_of":"2025-06"},
-  {"id":"GEN-100-013","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which explorer's expedition was the first to circumnavigate the globe, though he died before it was completed?","question_ar":"إيه المستكشف اللي رحلته كانت أول رحلة تدور حوالين الكرة الأرضية، رغم إنه مات قبل ما تخلص؟","options":[{"en":"Ferdinand Magellan","ar":"فرديناند ماجلان"},{"en":"Christopher Columbus","ar":"كريستوفر كولومبوس"},{"en":"Vasco da Gama","ar":"فاسكو دا جاما"},{"en":"James Cook","ar":"جيمس كوك"}],"correctAnswer":0,"explanation_en":"Ferdinand Magellan's expedition completed the first circumnavigation, though he died en route.","explanation_ar":"رحلة فرديناند ماجلان كانت أول رحلة تدور حوالين الكرة الأرضية، رغم إنه مات في الطريق."},
-  {"id":"GEN-100-014","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the capital of Canada?","question_ar":"إيه عاصمة كندا؟","options":[{"en":"Ottawa","ar":"أوتاوا"},{"en":"Toronto","ar":"تورونتو"},{"en":"Vancouver","ar":"فانكوفر"},{"en":"Montreal","ar":"مونتريال"}],"correctAnswer":0,"explanation_en":"Ottawa is the capital of Canada, though Toronto is more famous.","explanation_ar":"أوتاوا هي عاصمة كندا، رغم إن تورونتو أشهر."},
-  {"id":"GEN-100-015","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which Egyptian novelist won the Nobel Prize in Literature in 1988?","question_ar":"إيه الروائي المصري اللي فاز بجايزة نوبل في الأدب سنة 1988؟","options":[{"en":"Naguib Mahfouz","ar":"نجيب محفوظ"},{"en":"Taha Hussein","ar":"طه حسين"},{"en":"Tawfiq al-Hakim","ar":"توفيق الحكيم"},{"en":"Yusuf Idris","ar":"يوسف إدريس"}],"correctAnswer":0,"explanation_en":"Naguib Mahfouz won the Nobel Prize in Literature in 1988.","explanation_ar":"نجيب محفوظ فاز بجايزة نوبل في الأدب سنة 1988."},
-  {"id":"GEN-100-016","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which country has the most active volcanoes in the world?","question_ar":"إيه الدولة اللي فيها أكبر عدد براكين نشطة في العالم؟","options":[{"en":"Indonesia","ar":"إندونيسيا"},{"en":"Japan","ar":"اليابان"},{"en":"Iceland","ar":"آيسلندا"},{"en":"Philippines","ar":"الفلبين"}],"correctAnswer":0,"explanation_en":"Indonesia has the most active volcanoes of any country.","explanation_ar":"إندونيسيا فيها أكبر عدد براكين نشطة من أي دولة تانية."},
-  {"id":"GEN-100-017","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which country has the most total time zones due to its overseas territories?","question_ar":"إيه الدولة اللي عندها أكبر عدد مناطق توقيت بسبب أقاليمها الخارجية؟","options":[{"en":"France","ar":"فرنسا"},{"en":"Russia","ar":"روسيا"},{"en":"United Kingdom","ar":"بريطانيا"},{"en":"United States","ar":"أمريكا"}],"correctAnswer":0,"explanation_en":"France spans 12 time zones because of its overseas territories, more than any other country.","explanation_ar":"فرنسا بتمتد على 12 منطقة توقيت بسبب أقاليمها الخارجية، أكتر من أي دولة تانية."},
-  {"id":"GEN-100-018","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which company's photography and film business famously declared bankruptcy after failing to adapt to digital cameras?","question_ar":"إيه شركة التصوير والأفلام اللي أشهرت إفلاسها بعد ما فشلت تتأقلم مع الكاميرات الرقمية؟","options":[{"en":"Kodak","ar":"كوداك"},{"en":"Fujifilm","ar":"فوجي فيلم"},{"en":"Polaroid","ar":"بولارويد"},{"en":"Nikon","ar":"نيكون"}],"correctAnswer":0,"explanation_en":"Kodak famously filed for bankruptcy after failing to adapt to digital photography.","explanation_ar":"كوداك أشهرت إفلاسها بعد ما فشلت تتأقلم مع التصوير الرقمي."},
-  {"id":"GEN-100-019","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the chemical symbol for potassium?","question_ar":"إيه الرمز الكيميائي للبوتاسيوم؟","options":[{"en":"K","ar":"K"},{"en":"P","ar":"P"},{"en":"Po","ar":"Po"},{"en":"Pt","ar":"Pt"}],"correctAnswer":0,"explanation_en":"Potassium's chemical symbol is K, from the Latin 'kalium'.","explanation_ar":"الرمز الكيميائي للبوتاسيوم هو K من الكلمة اللاتينية 'kalium'."},
-  {"id":"GEN-100-020","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which planet in our solar system is famous for spinning almost on its side?","question_ar":"إيه الكوكب في مجموعتنا الشمسية المشهور إنه بيدور شبه مايل على جنبه؟","options":[{"en":"Uranus","ar":"أورانوس"},{"en":"Neptune","ar":"نبتون"},{"en":"Saturn","ar":"زحل"},{"en":"Venus","ar":"الزهرة"}],"correctAnswer":0,"explanation_en":"Uranus has an extreme axial tilt of about 98 degrees.","explanation_ar":"أورانوس بيدور بميل محوري غريب حوالي 98 درجة."},
-  {"id":"GEN-100-021","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which country drinks the most tea per capita in the world?","question_ar":"إيه الدولة اللي بتشرب أكتر شاي للفرد في العالم؟","options":[{"en":"Turkey","ar":"تركيا"},{"en":"UK","ar":"بريطانيا"},{"en":"China","ar":"الصين"},{"en":"India","ar":"الهند"}],"correctAnswer":0,"explanation_en":"Turkey has the highest tea consumption per capita in the world.","explanation_ar":"تركيا عندها أعلى معدل استهلاك شاي للفرد في العالم."},
-  {"id":"GEN-100-022","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which composer wrote the famous 'Symphony No. 5' with its iconic four-note opening?","question_ar":"إيه الموسيقار اللي ألف 'السيمفونية رقم 5' الشهيرة ببدايتها المكونة من 4 نغمات؟","options":[{"en":"Ludwig van Beethoven","ar":"لودفيج فان بيتهوفن"},{"en":"Wolfgang Amadeus Mozart","ar":"موتسارت"},{"en":"Johann Sebastian Bach","ar":"باخ"},{"en":"Franz Schubert","ar":"شوبرت"}],"correctAnswer":0,"explanation_en":"Beethoven composed the famous Symphony No. 5.","explanation_ar":"بيتهوفن ألف السيمفونية رقم 5 الشهيرة."},
-  {"id":"GEN-100-023","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which scientist formulated the laws of motion and universal gravitation?","question_ar":"إيه العالم اللي وضع قوانين الحركة والجاذبية الكونية؟","options":[{"en":"Isaac Newton","ar":"إسحق نيوتن"},{"en":"Albert Einstein","ar":"ألبرت أينشتاين"},{"en":"Galileo Galilei","ar":"جاليليو جاليلي"},{"en":"Johannes Kepler","ar":"يوهانس كيبلر"}],"correctAnswer":0,"explanation_en":"Isaac Newton formulated the laws of motion and universal gravitation.","explanation_ar":"إسحق نيوتن هو اللي وضع قوانين الحركة والجاذبية الكونية."},
-  {"id":"GEN-100-024","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which Upper Egyptian city is historically known as the site of ancient Thebes and the Karnak temple?","question_ar":"إيه مدينة الصعيد المصرية المعروفة تاريخيًا بموقع طيبة القديمة ومعبد الكرنك؟","options":[{"en":"Luxor","ar":"الأقصر"},{"en":"Aswan","ar":"أسوان"},{"en":"Qena","ar":"قنا"},{"en":"Sohag","ar":"سوهاج"}],"correctAnswer":0,"explanation_en":"Luxor sits on the site of ancient Thebes and the Karnak temple complex.","explanation_ar":"الأقصر موجودة على موقع طيبة القديمة ومعبد الكرنك."},
-  {"id":"GEN-100-025","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which country has the world's longest coastline?","question_ar":"إيه الدولة اللي عندها أطول ساحل في العالم؟","options":[{"en":"Canada","ar":"كندا"},{"en":"Indonesia","ar":"إندونيسيا"},{"en":"Russia","ar":"روسيا"},{"en":"Australia","ar":"أستراليا"}],"correctAnswer":0,"explanation_en":"Canada has the longest coastline of any country in the world.","explanation_ar":"كندا عندها أطول ساحل من أي دولة في العالم."},
-  {"id":"GEN-100-026","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which Japanese company originally created the PlayStation gaming console?","question_ar":"إيه الشركة اليابانية اللي عملت جهاز البلايستيشن الأصلي؟","options":[{"en":"Sony","ar":"سوني"},{"en":"Nintendo","ar":"نينتندو"},{"en":"Sega","ar":"سيجا"},{"en":"Konami","ar":"كونامي"}],"correctAnswer":0,"explanation_en":"Sony developed and released the original PlayStation.","explanation_ar":"سوني هي اللي طورت وأصدرت البلايستيشن الأصلي."},
-  {"id":"GEN-100-027","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the currency of Iran called?","question_ar":"إيه اسم عملة إيران؟","options":[{"en":"Rial","ar":"الريال"},{"en":"Dinar","ar":"الدينار"},{"en":"Toman","ar":"التومان"},{"en":"Lira","ar":"الليرة"}],"correctAnswer":0,"explanation_en":"Iran's official currency is the rial.","explanation_ar":"العملة الرسمية لإيران هي الريال."},
-  {"id":"GEN-100-028","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which Egyptian city is known as 'the capital of Upper Egypt' and a major tourism hub for ancient temples?","question_ar":"إيه المدينة المصرية المعروفة بـ'عاصمة الصعيد' ومركز سياحي كبير للمعابد القديمة؟","options":[{"en":"Luxor","ar":"الأقصر"},{"en":"Minya","ar":"المنيا"},{"en":"Beni Suef","ar":"بني سويف"},{"en":"Qena","ar":"قنا"}],"correctAnswer":0,"explanation_en":"Luxor is known as the capital of Upper Egypt and a top tourism hub.","explanation_ar":"الأقصر معروفة بأنها عاصمة الصعيد ومركز سياحي كبير."},
-  {"id":"GEN-100-029","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which tech company was the first in the world to reach a $1 trillion market value, around 2018?","question_ar":"إيه الشركة التقنية اللي كانت أول شركة في العالم توصل لقيمة سوقية تريليون دولار حوالي سنة 2018؟","options":[{"en":"Apple","ar":"آبل"},{"en":"Amazon","ar":"أمازون"},{"en":"Microsoft","ar":"مايكروسوفت"},{"en":"Google","ar":"جوجل"}],"correctAnswer":0,"explanation_en":"Apple became the first company to reach a $1 trillion market value in 2018.","explanation_ar":"آبل بقت أول شركة توصل لقيمة سوقية تريليون دولار سنة 2018.","verified_as_of":"2025-06"},
-  {"id":"GEN-100-030","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the world's oldest known written language/writing system commonly associated with ancient Mesopotamia?","question_ar":"إيه أقدم نظام كتابة معروف مرتبط ببلاد ما بين النهرين القديمة؟","options":[{"en":"Cuneiform","ar":"الكتابة المسمارية"},{"en":"Hieroglyphics","ar":"الهيروغليفية"},{"en":"Phoenician script","ar":"الأبجدية الفينيقية"},{"en":"Sanskrit script","ar":"السنسكريتية"}],"correctAnswer":0,"explanation_en":"Cuneiform, developed in Mesopotamia, is among the oldest known writing systems.","explanation_ar":"الكتابة المسمارية، اللي ظهرت في بلاد ما بين النهرين، من أقدم أنظمة الكتابة المعروفة."},
-  {"id":"GEN-100-031","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which country is home to the world's largest number of pyramids, even more than Egypt?","question_ar":"إيه الدولة اللي فيها أكبر عدد أهرامات في العالم، أكتر من مصر نفسها؟","options":[{"en":"Sudan","ar":"السودان"},{"en":"Libya","ar":"ليبيا"},{"en":"Mexico","ar":"المكسيك"},{"en":"Peru","ar":"بيرو"}],"correctAnswer":0,"explanation_en":"Sudan has more pyramids than Egypt, built by the ancient Kingdom of Kush.","explanation_ar":"السودان فيه أهرامات أكتر من مصر، بناها مملكة كوش القديمة."},
-  {"id":"GEN-100-032","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which company originally developed the Microsoft Windows competitor operating system 'Android' before Google acquired it?","question_ar":"إيه الشركة اللي طورت نظام أندرويد الأصلي قبل ما جوجل تشتريه؟","options":[{"en":"Android Inc.","ar":"أندرويد إنك"},{"en":"Danger Inc.","ar":"دينجر إنك"},{"en":"Palm Inc.","ar":"بالم إنك"},{"en":"BlackBerry","ar":"بلاك بيري"}],"correctAnswer":0,"explanation_en":"Android was originally developed by Android Inc. before Google acquired it in 2005.","explanation_ar":"أندرويد كانت شركة مستقلة اسمها Android Inc. قبل ما جوجل تشتريها سنة 2005."},
-  {"id":"GEN-100-033","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the term for a group of crows?","question_ar":"بنسمي مجموعة الغربان إيه؟","options":[{"en":"A murder","ar":"murder"},{"en":"A flock","ar":"flock"},{"en":"A murmuration","ar":"murmuration"},{"en":"A gaggle","ar":"gaggle"}],"correctAnswer":0,"explanation_en":"A group of crows is called a 'murder.'","explanation_ar":"مجموعة الغربان بيتقال عليها 'murder'."},
-  {"id":"GEN-100-034","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the name of Egypt's tallest skyscraper, built in the New Administrative Capital?","question_ar":"إيه اسم أطول برج في مصر، اتبنى في العاصمة الإدارية الجديدة؟","options":[{"en":"The Iconic Tower","ar":"البرج الأيقوني"},{"en":"Cairo Tower","ar":"برج القاهرة"},{"en":"Nile City Towers","ar":"أبراج نايل سيتي"},{"en":"Four Seasons Tower","ar":"برج فور سيزونز"}],"correctAnswer":0,"explanation_en":"The Iconic Tower is Egypt and Africa's tallest skyscraper, in the New Administrative Capital.","explanation_ar":"البرج الأيقوني هو أطول برج في مصر وأفريقيا، موجود في العاصمة الإدارية الجديدة.","verified_as_of":"2025-06"},
-  {"id":"GEN-100-035","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which ancient wonder is the only one of the Seven Wonders of the Ancient World still standing today?","question_ar":"إيه العجيبة القديمة اللي لسه موجودة من عجائب الدنيا السبع القديمة؟","options":[{"en":"The Great Pyramid of Giza","ar":"هرم خوفو الأكبر"},{"en":"The Hanging Gardens of Babylon","ar":"حدائق بابل المعلقة"},{"en":"The Colossus of Rhodes","ar":"تمثال رودس"},{"en":"The Lighthouse of Alexandria","ar":"منارة الإسكندرية"}],"correctAnswer":0,"explanation_en":"The Great Pyramid of Giza is the only ancient wonder still standing.","explanation_ar":"هرم خوفو الأكبر هو العجيبة الوحيدة من عجائب الدنيا القديمة اللي لسه موجودة."},
-  {"id":"GEN-100-036","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which country is credited with inventing the modern concept of the printing press with movable type in Europe?","question_ar":"إيه الدولة اللي بينسب لها اختراع مفهوم الطباعة الحديثة بالحروف المتحركة في أوروبا؟","options":[{"en":"Germany","ar":"ألمانيا"},{"en":"Italy","ar":"إيطاليا"},{"en":"France","ar":"فرنسا"},{"en":"England","ar":"إنجلترا"}],"correctAnswer":0,"explanation_en":"Johannes Gutenberg of Germany invented the movable-type printing press in Europe.","explanation_ar":"يوهانس جوتنبرج الألماني اخترع الطباعة بالحروف المتحركة في أوروبا."},
-  {"id":"GEN-100-037","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which vitamin, produced synthetically, was one of the first to be identified and is essential to prevent beriberi?","question_ar":"إيه الفيتامين اللي كان من أول الفيتامينات المكتشفة وضروري للوقاية من مرض البري بري؟","options":[{"en":"Vitamin B1 (thiamine)","ar":"فيتامين B1 (الثيامين)"},{"en":"Vitamin C","ar":"فيتامين C"},{"en":"Vitamin A","ar":"فيتامين A"},{"en":"Vitamin E","ar":"فيتامين E"}],"correctAnswer":0,"explanation_en":"Vitamin B1 (thiamine) deficiency causes beriberi.","explanation_ar":"نقص فيتامين B1 (الثيامين) بيسبب مرض البري بري."},
-  {"id":"GEN-100-038","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the name of the strait that separates Africa from Europe at its narrowest point?","question_ar":"إيه اسم المضيق اللي بيفصل أفريقيا عن أوروبا عند أضيق نقطة؟","options":[{"en":"The Strait of Gibraltar","ar":"مضيق جبل طارق"},{"en":"The Bosphorus Strait","ar":"مضيق البوسفور"},{"en":"The Strait of Hormuz","ar":"مضيق هرمز"},{"en":"The Bab-el-Mandeb Strait","ar":"مضيق باب المندب"}],"correctAnswer":0,"explanation_en":"The Strait of Gibraltar separates Africa from Europe at its narrowest point.","explanation_ar":"مضيق جبل طارق بيفصل أفريقيا عن أوروبا عند أضيق نقطة."},
-  {"id":"GEN-100-039","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which social media company's original name before rebranding was 'TheFacebook'?","question_ar":"إيه شركة السوشيال ميديا اللي اسمها الأصلي قبل التغيير كان 'ذا فيسبوك'؟","options":[{"en":"Facebook","ar":"فيسبوك"},{"en":"Twitter","ar":"تويتر"},{"en":"LinkedIn","ar":"لينكدإن"},{"en":"MySpace","ar":"ماي سبيس"}],"correctAnswer":0,"explanation_en":"Facebook was originally launched under the name 'TheFacebook.'","explanation_ar":"فيسبوك اتطلقت في الأول باسم 'ذا فيسبوك'."},
-  {"id":"GEN-100-040","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the name of the process by which the Aswan High Dam created a large artificial lake?","question_ar":"إيه اسم البحيرة الصناعية الكبيرة اللي اتكونت بسبب السد العالي في أسوان؟","options":[{"en":"Lake Nasser","ar":"بحيرة ناصر"},{"en":"Lake Qarun","ar":"بحيرة قارون"},{"en":"Lake Bardawil","ar":"بحيرة البردويل"},{"en":"Lake Manzala","ar":"بحيرة المنزلة"}],"correctAnswer":0,"explanation_en":"Lake Nasser is the large artificial lake created by the Aswan High Dam.","explanation_ar":"بحيرة ناصر هي البحيرة الصناعية الكبيرة اللي اتكونت بسبب السد العالي."},
-  {"id":"GEN-100-041","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which Renaissance artist sculpted the statue of David and painted the Sistine Chapel ceiling?","question_ar":"إيه فنان عصر النهضة اللي نحت تمثال داود ورسم سقف كنيسة سيستين؟","options":[{"en":"Michelangelo","ar":"مايكل أنجلو"},{"en":"Leonardo da Vinci","ar":"ليوناردو دافينشي"},{"en":"Raphael","ar":"رافائيل"},{"en":"Donatello","ar":"دوناتيلو"}],"correctAnswer":0,"explanation_en":"Michelangelo sculpted David and painted the Sistine Chapel ceiling.","explanation_ar":"مايكل أنجلو نحت تمثال داود ورسم سقف كنيسة سيستين."},
-  {"id":"GEN-100-042","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the term for the fear of enclosed spaces?","question_ar":"إيه المصطلح اللي بيوصف الرهاب من الأماكن المغلقة؟","options":[{"en":"Claustrophobia","ar":"كلاستروفوبيا"},{"en":"Acrophobia","ar":"أكروفوبيا"},{"en":"Agoraphobia","ar":"أجورافوبيا"},{"en":"Arachnophobia","ar":"أراكنوفوبيا"}],"correctAnswer":0,"explanation_en":"Claustrophobia is the fear of enclosed spaces.","explanation_ar":"كلاستروفوبيا هي الرهاب من الأماكن المغلقة."},
-  {"id":"GEN-100-043","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which country was the first to grant women the right to vote in national elections?","question_ar":"إيه أول دولة أعطت المرأة حق التصويت في الانتخابات الوطنية؟","options":[{"en":"New Zealand","ar":"نيوزيلندا"},{"en":"United States","ar":"أمريكا"},{"en":"United Kingdom","ar":"بريطانيا"},{"en":"France","ar":"فرنسا"}],"correctAnswer":0,"explanation_en":"New Zealand was the first country to grant women the national vote, in 1893.","explanation_ar":"نيوزيلندا كانت أول دولة تدي المرأة حق التصويت الوطني سنة 1893."},
-  {"id":"GEN-100-044","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What is the world's largest hot desert country by total desert area located in?","question_ar":"إيه القارة اللي فيها أكبر صحرا حارة في العالم؟","options":[{"en":"Africa","ar":"أفريقيا"},{"en":"Asia","ar":"آسيا"},{"en":"Australia","ar":"أستراليا"},{"en":"South America","ar":"أمريكا الجنوبية"}],"correctAnswer":0,"explanation_en":"The Sahara, the world's largest hot desert, is located in Africa.","explanation_ar":"الصحرا الكبرى، أكبر صحرا حارة في العالم، موجودة في أفريقيا."},
-  {"id":"GEN-100-045","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which gas makes up the largest percentage of Earth's atmosphere?","question_ar":"إيه الغاز اللي بيشكل أكبر نسبة في الغلاف الجوي للأرض؟","options":[{"en":"Nitrogen","ar":"النيتروجين"},{"en":"Oxygen","ar":"الأكسچين"},{"en":"Carbon dioxide","ar":"ثاني أكسيد الكربون"},{"en":"Argon","ar":"الأرجون"}],"correctAnswer":0,"explanation_en":"Nitrogen makes up about 78% of Earth's atmosphere.","explanation_ar":"النيتروجين بيشكل حوالي 78% من الغلاف الجوي للأرض."},
-  {"id":"GEN-100-046","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which Egyptian city is home to the historic 'Hanging Church,' one of the oldest churches in Egypt?","question_ar":"إيه المدينة المصرية اللي فيها 'الكنيسة المعلقة' من أقدم كنايس مصر؟","options":[{"en":"Cairo","ar":"القاهرة"},{"en":"Alexandria","ar":"الإسكندرية"},{"en":"Minya","ar":"المنيا"},{"en":"Assiut","ar":"أسيوط"}],"correctAnswer":0,"explanation_en":"The Hanging Church is located in Old Cairo.","explanation_ar":"الكنيسة المعلقة موجودة في مصر القديمة، القاهرة."},
-  {"id":"GEN-100-047","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What does 'laser' stand for as an acronym?","question_ar":"إيه معنى كلمة 'ليزر' كاختصار؟","options":[{"en":"Light Amplification by Stimulated Emission of Radiation","ar":"تضخيم الضوء عن طريق الانبعاث المحفز للإشعاع"},{"en":"Light And Sound Energy Ray","ar":"لايت آند ساوند إنيرجي راي"},{"en":"Long Amplitude Signal Emission Ray","ar":"لونج أمبليتيود سيجنال إميشن راي"},{"en":"Linear Array of Systematic Energy Rays","ar":"لينيار أراي أوف سيستماتيك إنيرجي رايز"}],"correctAnswer":0,"explanation_en":"LASER stands for Light Amplification by Stimulated Emission of Radiation.","explanation_ar":"ليزر اختصار لـ Light Amplification by Stimulated Emission of Radiation."},
-  {"id":"GEN-100-048","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which Kuwaiti currency is widely cited as one of the highest-valued currency units in the world?","question_ar":"إيه العملة الكويتية اللي معروفة بأنها من أعلى العملات قيمة في العالم؟","options":[{"en":"Kuwaiti Dinar","ar":"الدينار الكويتي"},{"en":"Kuwaiti Riyal","ar":"الريال الكويتي"},{"en":"Kuwaiti Pound","ar":"الجنيه الكويتي"},{"en":"Kuwaiti Franc","ar":"الفرنك الكويتي"}],"correctAnswer":0,"explanation_en":"The Kuwaiti Dinar is often cited as one of the world's highest-valued currency units.","explanation_ar":"الدينار الكويتي من أعلى العملات قيمة في العالم.","verified_as_of":"2025-06"},
-  {"id":"GEN-100-049","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"What term describes a word that reads the same forwards and backwards, like 'level'?","question_ar":"إيه المصطلح اللي بيوصف كلمة بتتقرا نفسها من الاتجاهين، زي 'level'؟","options":[{"en":"Palindrome","ar":"بالندروم"},{"en":"Anagram","ar":"أناجرام"},{"en":"Acronym","ar":"اختصار"},{"en":"Homophone","ar":"هوموفون"}],"correctAnswer":0,"explanation_en":"A palindrome reads the same forwards and backwards.","explanation_ar":"البالندروم كلمة بتتقرا نفسها من الاتجاهين."},
-  {"id":"GEN-100-050","category":"General Knowledge","category_ar":"عامة","value":100,"difficulty":4,"question_en":"Which Egyptian city hosted the ancient Ptolemaic-era lighthouse, one of the Seven Wonders of the Ancient World?","question_ar":"إيه المدينة المصرية اللي كان فيها منارة العصر البطلمي، من عجائب الدنيا السبع القديمة؟","options":[{"en":"Alexandria","ar":"الإسكندرية"},{"en":"Rosetta","ar":"رشيد"},{"en":"Damietta","ar":"دمياط"},{"en":"Port Said","ar":"بورسعيد"}],"correctAnswer":0,"explanation_en":"The Lighthouse of Alexandria was one of the Seven Wonders of the Ancient World.","explanation_ar":"منارة الإسكندرية كانت من عجائب الدنيا السبع القديمة."}
+  {
+    "id": "GEN-100-001",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which country has three separate capital cities for its legislative, judicial and executive branches?",
+    "question_ar": "إيه الدولة اللي ليها 3 عواصم منفصلة للسلطة التشريعية والقضائية والتنفيذية؟",
+    "options": [
+      {
+        "en": "South Africa",
+        "ar": "جنوب أفريقيا"
+      },
+      {
+        "en": "Bolivia",
+        "ar": "بوليفيا"
+      },
+      {
+        "en": "Netherlands",
+        "ar": "هولندا"
+      },
+      {
+        "en": "Sri Lanka",
+        "ar": "سريلانكا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "South Africa has three capitals: Pretoria, Bloemfontein and Cape Town.",
+    "explanation_ar": "جنوب أفريقيا ليها 3 عواصم: بريتوريا وبلومفونتين وكيب تاون."
+  },
+  {
+    "id": "GEN-100-002",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the only mammal capable of true, sustained flight?",
+    "question_ar": "إيه الحيوان الثديي الوحيد اللي بيقدر يطير طيران حقيقي ومستمر؟",
+    "options": [
+      {
+        "en": "Flying squirrel",
+        "ar": "السنجاب الطائر"
+      },
+      {
+        "en": "Bat",
+        "ar": "الخفاش"
+      },
+      {
+        "en": "Colugo",
+        "ar": "الكولوجو"
+      },
+      {
+        "en": "Flying fox only as glider",
+        "ar": "ثعلب طائر شراعي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Bats are the only mammals capable of true, sustained flight.",
+    "explanation_ar": "الخفافيش هي الحيوانات الثديية الوحيدة اللي بتقدر تطير طيران حقيقي ومستمر."
+  },
+  {
+    "id": "GEN-100-003",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the chemical symbol for iron?",
+    "question_ar": "إيه الرمز الكيميائي للحديد؟",
+    "options": [
+      {
+        "en": "Ir",
+        "ar": "Ir"
+      },
+      {
+        "en": "In",
+        "ar": "In"
+      },
+      {
+        "en": "Fe",
+        "ar": "Fe"
+      },
+      {
+        "en": "Fr",
+        "ar": "Fr"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Iron's chemical symbol is Fe, from the Latin 'ferrum'.",
+    "explanation_ar": "الرمز الكيميائي للحديد هو Fe من الكلمة اللاتينية 'ferrum'."
+  },
+  {
+    "id": "GEN-100-004",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Who was the first person to walk on the Moon?",
+    "question_ar": "مين أول إنسان مشى على سطح القمر؟",
+    "options": [
+      {
+        "en": "Buzz Aldrin",
+        "ar": "باز ألدرين"
+      },
+      {
+        "en": "Yuri Gagarin",
+        "ar": "يوري جاجارين"
+      },
+      {
+        "en": "John Glenn",
+        "ar": "جون جلين"
+      },
+      {
+        "en": "Neil Armstrong",
+        "ar": "نيل أرمسترونج"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Neil Armstrong was the first person to walk on the Moon in 1969.",
+    "explanation_ar": "نيل أرمسترونج أول إنسان مشى على سطح القمر سنة 1969."
+  },
+  {
+    "id": "GEN-100-005",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "In which year did Apple release the original Macintosh computer?",
+    "question_ar": "آبل طرحت جهاز الماكنتوش الأصلي سنة كام؟",
+    "options": [
+      {
+        "en": "1984",
+        "ar": "1984"
+      },
+      {
+        "en": "1976",
+        "ar": "1976"
+      },
+      {
+        "en": "1991",
+        "ar": "1991"
+      },
+      {
+        "en": "1998",
+        "ar": "1998"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The original Macintosh was released by Apple in 1984.",
+    "explanation_ar": "جهاز الماكنتوش الأصلي طرحته آبل سنة 1984."
+  },
+  {
+    "id": "GEN-100-006",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the name of the young Egyptian pharaoh whose nearly intact tomb was discovered in 1922?",
+    "question_ar": "إيه اسم الفرعون المصري الشاب اللي مقبرته اتكتشفت شبه سليمة سنة 1922؟",
+    "options": [
+      {
+        "en": "Ramesses II",
+        "ar": "رمسيس التاني"
+      },
+      {
+        "en": "Tutankhamun",
+        "ar": "توت عنخ آمون"
+      },
+      {
+        "en": "Akhenaten",
+        "ar": "إخناتون"
+      },
+      {
+        "en": "Thutmose III",
+        "ar": "تحتمس التالت"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Tutankhamun's nearly intact tomb was discovered in 1922 by Howard Carter.",
+    "explanation_ar": "مقبرة توت عنخ آمون اتكتشفت شبه سليمة سنة 1922 على يد هوارد كارتر."
+  },
+  {
+    "id": "GEN-100-007",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Who discovered the antibiotic penicillin?",
+    "question_ar": "مين اللي اكتشف المضاد الحيوي البنسلين؟",
+    "options": [
+      {
+        "en": "Louis Pasteur",
+        "ar": "لويس باستور"
+      },
+      {
+        "en": "Marie Curie",
+        "ar": "ماري كوري"
+      },
+      {
+        "en": "Alexander Fleming",
+        "ar": "ألكسندر فليمنج"
+      },
+      {
+        "en": "Robert Koch",
+        "ar": "روبرت كوخ"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Alexander Fleming discovered penicillin in 1928.",
+    "explanation_ar": "ألكسندر فليمنج اكتشف البنسلين سنة 1928."
+  },
+  {
+    "id": "GEN-100-008",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the tallest mountain in Africa?",
+    "question_ar": "إيه أطول جبل في أفريقيا؟",
+    "options": [
+      {
+        "en": "Mount Kenya",
+        "ar": "جبل كينيا"
+      },
+      {
+        "en": "Atlas Mountains",
+        "ar": "جبال الأطلس"
+      },
+      {
+        "en": "Ras Dashen",
+        "ar": "جبل راس دشن"
+      },
+      {
+        "en": "Mount Kilimanjaro",
+        "ar": "جبل كليمنجارو"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Mount Kilimanjaro in Tanzania is Africa's tallest mountain.",
+    "explanation_ar": "جبل كليمنجارو في تنزانيا هو أطول جبل في أفريقيا."
+  },
+  {
+    "id": "GEN-100-009",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which historic Cairo mosque-founding dynasty gave modern Cairo (Al-Qahira) its name?",
+    "question_ar": "إيه الأسرة الحاكمة التاريخية اللي أسست القاهرة الحديثة وسمتها بالاسم ده؟",
+    "options": [
+      {
+        "en": "The Fatimids",
+        "ar": "الفاطميين"
+      },
+      {
+        "en": "The Mamluks",
+        "ar": "المماليك"
+      },
+      {
+        "en": "The Ayyubids",
+        "ar": "الأيوبيين"
+      },
+      {
+        "en": "The Ottomans",
+        "ar": "العثمانيين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Fatimids founded Cairo (Al-Qahira) in 969 AD.",
+    "explanation_ar": "الفاطميين أسسوا القاهرة سنة 969 ميلادية."
+  },
+  {
+    "id": "GEN-100-010",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the smallest bone in the human body, found in the ear?",
+    "question_ar": "إيه أصغر عظمة في جسم الإنسان وموجودة في الأدن؟",
+    "options": [
+      {
+        "en": "The femur",
+        "ar": "عظمة الفخذ"
+      },
+      {
+        "en": "The stapes",
+        "ar": "الركاب"
+      },
+      {
+        "en": "The clavicle",
+        "ar": "الترقوة"
+      },
+      {
+        "en": "The patella",
+        "ar": "الرضفة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The stapes in the ear is the smallest bone in the human body.",
+    "explanation_ar": "عظمة الركاب في الأدن هي أصغر عظمة في جسم الإنسان."
+  },
+  {
+    "id": "GEN-100-011",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "After Mandarin Chinese, which language has the most native speakers in the world?",
+    "question_ar": "بعد الصيني الماندرين، إيه اللغة اللي ليها أكبر عدد متحدثين أصليين في العالم؟",
+    "options": [
+      {
+        "en": "English",
+        "ar": "الإنجليزي"
+      },
+      {
+        "en": "Hindi",
+        "ar": "الهندي"
+      },
+      {
+        "en": "Spanish",
+        "ar": "الإسباني"
+      },
+      {
+        "en": "Arabic",
+        "ar": "العربي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Spanish has the second-most native speakers in the world after Mandarin Chinese.",
+    "explanation_ar": "الإسباني ثاني أكبر لغة من حيث المتحدثين الأصليين بعد الصيني الماندرين."
+  },
+  {
+    "id": "GEN-100-012",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which country has the most UNESCO World Heritage Sites of any country?",
+    "question_ar": "إيه الدولة اللي فيها أكبر عدد مواقع تراث عالمي لليونسكو؟",
+    "options": [
+      {
+        "en": "China",
+        "ar": "الصين"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Italy has the most UNESCO World Heritage Sites of any country.",
+    "explanation_ar": "إيطاليا فيها أكبر عدد مواقع تراث عالمي لليونسكو.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "GEN-100-013",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which explorer's expedition was the first to circumnavigate the globe, though he died before it was completed?",
+    "question_ar": "إيه المستكشف اللي رحلته كانت أول رحلة تدور حوالين الكرة الأرضية، رغم إنه مات قبل ما تخلص؟",
+    "options": [
+      {
+        "en": "Ferdinand Magellan",
+        "ar": "فرديناند ماجلان"
+      },
+      {
+        "en": "Christopher Columbus",
+        "ar": "كريستوفر كولومبوس"
+      },
+      {
+        "en": "Vasco da Gama",
+        "ar": "فاسكو دا جاما"
+      },
+      {
+        "en": "James Cook",
+        "ar": "جيمس كوك"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ferdinand Magellan's expedition completed the first circumnavigation, though he died en route.",
+    "explanation_ar": "رحلة فرديناند ماجلان كانت أول رحلة تدور حوالين الكرة الأرضية، رغم إنه مات في الطريق."
+  },
+  {
+    "id": "GEN-100-014",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the capital of Canada?",
+    "question_ar": "إيه عاصمة كندا؟",
+    "options": [
+      {
+        "en": "Toronto",
+        "ar": "تورونتو"
+      },
+      {
+        "en": "Ottawa",
+        "ar": "أوتاوا"
+      },
+      {
+        "en": "Vancouver",
+        "ar": "فانكوفر"
+      },
+      {
+        "en": "Montreal",
+        "ar": "مونتريال"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Ottawa is the capital of Canada, though Toronto is more famous.",
+    "explanation_ar": "أوتاوا هي عاصمة كندا، رغم إن تورونتو أشهر."
+  },
+  {
+    "id": "GEN-100-015",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian novelist won the Nobel Prize in Literature in 1988?",
+    "question_ar": "إيه الروائي المصري اللي فاز بجايزة نوبل في الأدب سنة 1988؟",
+    "options": [
+      {
+        "en": "Taha Hussein",
+        "ar": "طه حسين"
+      },
+      {
+        "en": "Tawfiq al-Hakim",
+        "ar": "توفيق الحكيم"
+      },
+      {
+        "en": "Naguib Mahfouz",
+        "ar": "نجيب محفوظ"
+      },
+      {
+        "en": "Yusuf Idris",
+        "ar": "يوسف إدريس"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Naguib Mahfouz won the Nobel Prize in Literature in 1988.",
+    "explanation_ar": "نجيب محفوظ فاز بجايزة نوبل في الأدب سنة 1988."
+  },
+  {
+    "id": "GEN-100-016",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which country has the most active volcanoes in the world?",
+    "question_ar": "إيه الدولة اللي فيها أكبر عدد براكين نشطة في العالم؟",
+    "options": [
+      {
+        "en": "Japan",
+        "ar": "اليابان"
+      },
+      {
+        "en": "Iceland",
+        "ar": "آيسلندا"
+      },
+      {
+        "en": "Philippines",
+        "ar": "الفلبين"
+      },
+      {
+        "en": "Indonesia",
+        "ar": "إندونيسيا"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Indonesia has the most active volcanoes of any country.",
+    "explanation_ar": "إندونيسيا فيها أكبر عدد براكين نشطة من أي دولة تانية."
+  },
+  {
+    "id": "GEN-100-017",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which country has the most total time zones due to its overseas territories?",
+    "question_ar": "إيه الدولة اللي عندها أكبر عدد مناطق توقيت بسبب أقاليمها الخارجية؟",
+    "options": [
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "Russia",
+        "ar": "روسيا"
+      },
+      {
+        "en": "United Kingdom",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "United States",
+        "ar": "أمريكا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "France spans 12 time zones because of its overseas territories, more than any other country.",
+    "explanation_ar": "فرنسا بتمتد على 12 منطقة توقيت بسبب أقاليمها الخارجية، أكتر من أي دولة تانية."
+  },
+  {
+    "id": "GEN-100-018",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which company's photography and film business famously declared bankruptcy after failing to adapt to digital cameras?",
+    "question_ar": "إيه شركة التصوير والأفلام اللي أشهرت إفلاسها بعد ما فشلت تتأقلم مع الكاميرات الرقمية؟",
+    "options": [
+      {
+        "en": "Fujifilm",
+        "ar": "فوجي فيلم"
+      },
+      {
+        "en": "Kodak",
+        "ar": "كوداك"
+      },
+      {
+        "en": "Polaroid",
+        "ar": "بولارويد"
+      },
+      {
+        "en": "Nikon",
+        "ar": "نيكون"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Kodak famously filed for bankruptcy after failing to adapt to digital photography.",
+    "explanation_ar": "كوداك أشهرت إفلاسها بعد ما فشلت تتأقلم مع التصوير الرقمي."
+  },
+  {
+    "id": "GEN-100-019",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the chemical symbol for potassium?",
+    "question_ar": "إيه الرمز الكيميائي للبوتاسيوم؟",
+    "options": [
+      {
+        "en": "P",
+        "ar": "P"
+      },
+      {
+        "en": "Po",
+        "ar": "Po"
+      },
+      {
+        "en": "K",
+        "ar": "K"
+      },
+      {
+        "en": "Pt",
+        "ar": "Pt"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Potassium's chemical symbol is K, from the Latin 'kalium'.",
+    "explanation_ar": "الرمز الكيميائي للبوتاسيوم هو K من الكلمة اللاتينية 'kalium'."
+  },
+  {
+    "id": "GEN-100-020",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which planet in our solar system is famous for spinning almost on its side?",
+    "question_ar": "إيه الكوكب في مجموعتنا الشمسية المشهور إنه بيدور شبه مايل على جنبه؟",
+    "options": [
+      {
+        "en": "Neptune",
+        "ar": "نبتون"
+      },
+      {
+        "en": "Saturn",
+        "ar": "زحل"
+      },
+      {
+        "en": "Venus",
+        "ar": "الزهرة"
+      },
+      {
+        "en": "Uranus",
+        "ar": "أورانوس"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Uranus has an extreme axial tilt of about 98 degrees.",
+    "explanation_ar": "أورانوس بيدور بميل محوري غريب حوالي 98 درجة."
+  },
+  {
+    "id": "GEN-100-021",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which country drinks the most tea per capita in the world?",
+    "question_ar": "إيه الدولة اللي بتشرب أكتر شاي للفرد في العالم؟",
+    "options": [
+      {
+        "en": "Turkey",
+        "ar": "تركيا"
+      },
+      {
+        "en": "UK",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "China",
+        "ar": "الصين"
+      },
+      {
+        "en": "India",
+        "ar": "الهند"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Turkey has the highest tea consumption per capita in the world.",
+    "explanation_ar": "تركيا عندها أعلى معدل استهلاك شاي للفرد في العالم."
+  },
+  {
+    "id": "GEN-100-022",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which composer wrote the famous 'Symphony No. 5' with its iconic four-note opening?",
+    "question_ar": "إيه الموسيقار اللي ألف 'السيمفونية رقم 5' الشهيرة ببدايتها المكونة من 4 نغمات؟",
+    "options": [
+      {
+        "en": "Wolfgang Amadeus Mozart",
+        "ar": "موتسارت"
+      },
+      {
+        "en": "Ludwig van Beethoven",
+        "ar": "لودفيج فان بيتهوفن"
+      },
+      {
+        "en": "Johann Sebastian Bach",
+        "ar": "باخ"
+      },
+      {
+        "en": "Franz Schubert",
+        "ar": "شوبرت"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Beethoven composed the famous Symphony No. 5.",
+    "explanation_ar": "بيتهوفن ألف السيمفونية رقم 5 الشهيرة."
+  },
+  {
+    "id": "GEN-100-023",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which scientist formulated the laws of motion and universal gravitation?",
+    "question_ar": "إيه العالم اللي وضع قوانين الحركة والجاذبية الكونية؟",
+    "options": [
+      {
+        "en": "Albert Einstein",
+        "ar": "ألبرت أينشتاين"
+      },
+      {
+        "en": "Galileo Galilei",
+        "ar": "جاليليو جاليلي"
+      },
+      {
+        "en": "Isaac Newton",
+        "ar": "إسحق نيوتن"
+      },
+      {
+        "en": "Johannes Kepler",
+        "ar": "يوهانس كيبلر"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Isaac Newton formulated the laws of motion and universal gravitation.",
+    "explanation_ar": "إسحق نيوتن هو اللي وضع قوانين الحركة والجاذبية الكونية."
+  },
+  {
+    "id": "GEN-100-024",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Upper Egyptian city is historically known as the site of ancient Thebes and the Karnak temple?",
+    "question_ar": "إيه مدينة الصعيد المصرية المعروفة تاريخيًا بموقع طيبة القديمة ومعبد الكرنك؟",
+    "options": [
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      {
+        "en": "Qena",
+        "ar": "قنا"
+      },
+      {
+        "en": "Sohag",
+        "ar": "سوهاج"
+      },
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Luxor sits on the site of ancient Thebes and the Karnak temple complex.",
+    "explanation_ar": "الأقصر موجودة على موقع طيبة القديمة ومعبد الكرنك."
+  },
+  {
+    "id": "GEN-100-025",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which country has the world's longest coastline?",
+    "question_ar": "إيه الدولة اللي عندها أطول ساحل في العالم؟",
+    "options": [
+      {
+        "en": "Canada",
+        "ar": "كندا"
+      },
+      {
+        "en": "Indonesia",
+        "ar": "إندونيسيا"
+      },
+      {
+        "en": "Russia",
+        "ar": "روسيا"
+      },
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Canada has the longest coastline of any country in the world.",
+    "explanation_ar": "كندا عندها أطول ساحل من أي دولة في العالم."
+  },
+  {
+    "id": "GEN-100-026",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Japanese company originally created the PlayStation gaming console?",
+    "question_ar": "إيه الشركة اليابانية اللي عملت جهاز البلايستيشن الأصلي؟",
+    "options": [
+      {
+        "en": "Nintendo",
+        "ar": "نينتندو"
+      },
+      {
+        "en": "Sony",
+        "ar": "سوني"
+      },
+      {
+        "en": "Sega",
+        "ar": "سيجا"
+      },
+      {
+        "en": "Konami",
+        "ar": "كونامي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Sony developed and released the original PlayStation.",
+    "explanation_ar": "سوني هي اللي طورت وأصدرت البلايستيشن الأصلي."
+  },
+  {
+    "id": "GEN-100-027",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the currency of Iran called?",
+    "question_ar": "إيه اسم عملة إيران؟",
+    "options": [
+      {
+        "en": "Dinar",
+        "ar": "الدينار"
+      },
+      {
+        "en": "Toman",
+        "ar": "التومان"
+      },
+      {
+        "en": "Rial",
+        "ar": "الريال"
+      },
+      {
+        "en": "Lira",
+        "ar": "الليرة"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Iran's official currency is the rial.",
+    "explanation_ar": "العملة الرسمية لإيران هي الريال."
+  },
+  {
+    "id": "GEN-100-028",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian city is known as 'the capital of Upper Egypt' and a major tourism hub for ancient temples?",
+    "question_ar": "إيه المدينة المصرية المعروفة بـ'عاصمة الصعيد' ومركز سياحي كبير للمعابد القديمة؟",
+    "options": [
+      {
+        "en": "Minya",
+        "ar": "المنيا"
+      },
+      {
+        "en": "Beni Suef",
+        "ar": "بني سويف"
+      },
+      {
+        "en": "Qena",
+        "ar": "قنا"
+      },
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Luxor is known as the capital of Upper Egypt and a top tourism hub.",
+    "explanation_ar": "الأقصر معروفة بأنها عاصمة الصعيد ومركز سياحي كبير."
+  },
+  {
+    "id": "GEN-100-029",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which tech company was the first in the world to reach a $1 trillion market value, around 2018?",
+    "question_ar": "إيه الشركة التقنية اللي كانت أول شركة في العالم توصل لقيمة سوقية تريليون دولار حوالي سنة 2018؟",
+    "options": [
+      {
+        "en": "Apple",
+        "ar": "آبل"
+      },
+      {
+        "en": "Amazon",
+        "ar": "أمازون"
+      },
+      {
+        "en": "Microsoft",
+        "ar": "مايكروسوفت"
+      },
+      {
+        "en": "Google",
+        "ar": "جوجل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Apple became the first company to reach a $1 trillion market value in 2018.",
+    "explanation_ar": "آبل بقت أول شركة توصل لقيمة سوقية تريليون دولار سنة 2018.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "GEN-100-030",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the world's oldest known written language/writing system commonly associated with ancient Mesopotamia?",
+    "question_ar": "إيه أقدم نظام كتابة معروف مرتبط ببلاد ما بين النهرين القديمة؟",
+    "options": [
+      {
+        "en": "Hieroglyphics",
+        "ar": "الهيروغليفية"
+      },
+      {
+        "en": "Cuneiform",
+        "ar": "الكتابة المسمارية"
+      },
+      {
+        "en": "Phoenician script",
+        "ar": "الأبجدية الفينيقية"
+      },
+      {
+        "en": "Sanskrit script",
+        "ar": "السنسكريتية"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Cuneiform, developed in Mesopotamia, is among the oldest known writing systems.",
+    "explanation_ar": "الكتابة المسمارية، اللي ظهرت في بلاد ما بين النهرين، من أقدم أنظمة الكتابة المعروفة."
+  },
+  {
+    "id": "GEN-100-031",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which country is home to the world's largest number of pyramids, even more than Egypt?",
+    "question_ar": "إيه الدولة اللي فيها أكبر عدد أهرامات في العالم، أكتر من مصر نفسها؟",
+    "options": [
+      {
+        "en": "Libya",
+        "ar": "ليبيا"
+      },
+      {
+        "en": "Mexico",
+        "ar": "المكسيك"
+      },
+      {
+        "en": "Sudan",
+        "ar": "السودان"
+      },
+      {
+        "en": "Peru",
+        "ar": "بيرو"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Sudan has more pyramids than Egypt, built by the ancient Kingdom of Kush.",
+    "explanation_ar": "السودان فيه أهرامات أكتر من مصر، بناها مملكة كوش القديمة."
+  },
+  {
+    "id": "GEN-100-032",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which company originally developed the Microsoft Windows competitor operating system 'Android' before Google acquired it?",
+    "question_ar": "إيه الشركة اللي طورت نظام أندرويد الأصلي قبل ما جوجل تشتريه؟",
+    "options": [
+      {
+        "en": "Danger Inc.",
+        "ar": "دينجر إنك"
+      },
+      {
+        "en": "Palm Inc.",
+        "ar": "بالم إنك"
+      },
+      {
+        "en": "BlackBerry",
+        "ar": "بلاك بيري"
+      },
+      {
+        "en": "Android Inc.",
+        "ar": "أندرويد إنك"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Android was originally developed by Android Inc. before Google acquired it in 2005.",
+    "explanation_ar": "أندرويد كانت شركة مستقلة اسمها Android Inc. قبل ما جوجل تشتريها سنة 2005."
+  },
+  {
+    "id": "GEN-100-033",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the term for a group of crows?",
+    "question_ar": "بنسمي مجموعة الغربان إيه؟",
+    "options": [
+      {
+        "en": "A murder",
+        "ar": "murder"
+      },
+      {
+        "en": "A flock",
+        "ar": "flock"
+      },
+      {
+        "en": "A murmuration",
+        "ar": "murmuration"
+      },
+      {
+        "en": "A gaggle",
+        "ar": "gaggle"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A group of crows is called a 'murder.'",
+    "explanation_ar": "مجموعة الغربان بيتقال عليها 'murder'."
+  },
+  {
+    "id": "GEN-100-034",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the name of Egypt's tallest skyscraper, built in the New Administrative Capital?",
+    "question_ar": "إيه اسم أطول برج في مصر، اتبنى في العاصمة الإدارية الجديدة؟",
+    "options": [
+      {
+        "en": "Cairo Tower",
+        "ar": "برج القاهرة"
+      },
+      {
+        "en": "The Iconic Tower",
+        "ar": "البرج الأيقوني"
+      },
+      {
+        "en": "Nile City Towers",
+        "ar": "أبراج نايل سيتي"
+      },
+      {
+        "en": "Four Seasons Tower",
+        "ar": "برج فور سيزونز"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Iconic Tower is Egypt and Africa's tallest skyscraper, in the New Administrative Capital.",
+    "explanation_ar": "البرج الأيقوني هو أطول برج في مصر وأفريقيا، موجود في العاصمة الإدارية الجديدة.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "GEN-100-035",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which ancient wonder is the only one of the Seven Wonders of the Ancient World still standing today?",
+    "question_ar": "إيه العجيبة القديمة اللي لسه موجودة من عجائب الدنيا السبع القديمة؟",
+    "options": [
+      {
+        "en": "The Hanging Gardens of Babylon",
+        "ar": "حدائق بابل المعلقة"
+      },
+      {
+        "en": "The Colossus of Rhodes",
+        "ar": "تمثال رودس"
+      },
+      {
+        "en": "The Great Pyramid of Giza",
+        "ar": "هرم خوفو الأكبر"
+      },
+      {
+        "en": "The Lighthouse of Alexandria",
+        "ar": "منارة الإسكندرية"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Great Pyramid of Giza is the only ancient wonder still standing.",
+    "explanation_ar": "هرم خوفو الأكبر هو العجيبة الوحيدة من عجائب الدنيا القديمة اللي لسه موجودة."
+  },
+  {
+    "id": "GEN-100-036",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which country is credited with inventing the modern concept of the printing press with movable type in Europe?",
+    "question_ar": "إيه الدولة اللي بينسب لها اختراع مفهوم الطباعة الحديثة بالحروف المتحركة في أوروبا؟",
+    "options": [
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "England",
+        "ar": "إنجلترا"
+      },
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Johannes Gutenberg of Germany invented the movable-type printing press in Europe.",
+    "explanation_ar": "يوهانس جوتنبرج الألماني اخترع الطباعة بالحروف المتحركة في أوروبا."
+  },
+  {
+    "id": "GEN-100-037",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which vitamin, produced synthetically, was one of the first to be identified and is essential to prevent beriberi?",
+    "question_ar": "إيه الفيتامين اللي كان من أول الفيتامينات المكتشفة وضروري للوقاية من مرض البري بري؟",
+    "options": [
+      {
+        "en": "Vitamin B1 (thiamine)",
+        "ar": "فيتامين B1 (الثيامين)"
+      },
+      {
+        "en": "Vitamin C",
+        "ar": "فيتامين C"
+      },
+      {
+        "en": "Vitamin A",
+        "ar": "فيتامين A"
+      },
+      {
+        "en": "Vitamin E",
+        "ar": "فيتامين E"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Vitamin B1 (thiamine) deficiency causes beriberi.",
+    "explanation_ar": "نقص فيتامين B1 (الثيامين) بيسبب مرض البري بري."
+  },
+  {
+    "id": "GEN-100-038",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the name of the strait that separates Africa from Europe at its narrowest point?",
+    "question_ar": "إيه اسم المضيق اللي بيفصل أفريقيا عن أوروبا عند أضيق نقطة؟",
+    "options": [
+      {
+        "en": "The Bosphorus Strait",
+        "ar": "مضيق البوسفور"
+      },
+      {
+        "en": "The Strait of Gibraltar",
+        "ar": "مضيق جبل طارق"
+      },
+      {
+        "en": "The Strait of Hormuz",
+        "ar": "مضيق هرمز"
+      },
+      {
+        "en": "The Bab-el-Mandeb Strait",
+        "ar": "مضيق باب المندب"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Strait of Gibraltar separates Africa from Europe at its narrowest point.",
+    "explanation_ar": "مضيق جبل طارق بيفصل أفريقيا عن أوروبا عند أضيق نقطة."
+  },
+  {
+    "id": "GEN-100-039",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which social media company's original name before rebranding was 'TheFacebook'?",
+    "question_ar": "إيه شركة السوشيال ميديا اللي اسمها الأصلي قبل التغيير كان 'ذا فيسبوك'؟",
+    "options": [
+      {
+        "en": "Twitter",
+        "ar": "تويتر"
+      },
+      {
+        "en": "LinkedIn",
+        "ar": "لينكدإن"
+      },
+      {
+        "en": "Facebook",
+        "ar": "فيسبوك"
+      },
+      {
+        "en": "MySpace",
+        "ar": "ماي سبيس"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Facebook was originally launched under the name 'TheFacebook.'",
+    "explanation_ar": "فيسبوك اتطلقت في الأول باسم 'ذا فيسبوك'."
+  },
+  {
+    "id": "GEN-100-040",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the name of the process by which the Aswan High Dam created a large artificial lake?",
+    "question_ar": "إيه اسم البحيرة الصناعية الكبيرة اللي اتكونت بسبب السد العالي في أسوان؟",
+    "options": [
+      {
+        "en": "Lake Qarun",
+        "ar": "بحيرة قارون"
+      },
+      {
+        "en": "Lake Bardawil",
+        "ar": "بحيرة البردويل"
+      },
+      {
+        "en": "Lake Manzala",
+        "ar": "بحيرة المنزلة"
+      },
+      {
+        "en": "Lake Nasser",
+        "ar": "بحيرة ناصر"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Lake Nasser is the large artificial lake created by the Aswan High Dam.",
+    "explanation_ar": "بحيرة ناصر هي البحيرة الصناعية الكبيرة اللي اتكونت بسبب السد العالي."
+  },
+  {
+    "id": "GEN-100-041",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Renaissance artist sculpted the statue of David and painted the Sistine Chapel ceiling?",
+    "question_ar": "إيه فنان عصر النهضة اللي نحت تمثال داود ورسم سقف كنيسة سيستين؟",
+    "options": [
+      {
+        "en": "Michelangelo",
+        "ar": "مايكل أنجلو"
+      },
+      {
+        "en": "Leonardo da Vinci",
+        "ar": "ليوناردو دافينشي"
+      },
+      {
+        "en": "Raphael",
+        "ar": "رافائيل"
+      },
+      {
+        "en": "Donatello",
+        "ar": "دوناتيلو"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Michelangelo sculpted David and painted the Sistine Chapel ceiling.",
+    "explanation_ar": "مايكل أنجلو نحت تمثال داود ورسم سقف كنيسة سيستين."
+  },
+  {
+    "id": "GEN-100-042",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What is the term for the fear of enclosed spaces?",
+    "question_ar": "إيه المصطلح اللي بيوصف الرهاب من الأماكن المغلقة؟",
+    "options": [
+      {
+        "en": "Acrophobia",
+        "ar": "أكروفوبيا"
+      },
+      {
+        "en": "Claustrophobia",
+        "ar": "كلاستروفوبيا"
+      },
+      {
+        "en": "Agoraphobia",
+        "ar": "أجورافوبيا"
+      },
+      {
+        "en": "Arachnophobia",
+        "ar": "أراكنوفوبيا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Claustrophobia is the fear of enclosed spaces.",
+    "explanation_ar": "كلاستروفوبيا هي الرهاب من الأماكن المغلقة."
+  },
+  {
+    "id": "GEN-100-043",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which country was the first to grant women the right to vote in national elections?",
+    "question_ar": "إيه أول دولة أعطت المرأة حق التصويت في الانتخابات الوطنية؟",
+    "options": [
+      {
+        "en": "United States",
+        "ar": "أمريكا"
+      },
+      {
+        "en": "United Kingdom",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "New Zealand",
+        "ar": "نيوزيلندا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "New Zealand was the first country to grant women the national vote, in 1893.",
+    "explanation_ar": "نيوزيلندا كانت أول دولة تدي المرأة حق التصويت الوطني سنة 1893."
+  },
+  {
+    "id": "GEN-100-044",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which gas gives the planet Neptune its distinct blue color?",
+    "question_ar": "إيه الغاز اللي بيدي كوكب نبتون لونه الأزرق المميز؟",
+    "options": [
+      {
+        "en": "Nitrogen",
+        "ar": "النيتروجين"
+      },
+      {
+        "en": "Oxygen",
+        "ar": "الأكسچين"
+      },
+      {
+        "en": "Hydrogen",
+        "ar": "الهيدروجين"
+      },
+      {
+        "en": "Methane",
+        "ar": "الميثان"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Methane in Neptune's atmosphere absorbs red light, giving it a blue color.",
+    "explanation_ar": "غاز الميثان في غلاف نبتون بيمتص الضوء الأحمر، وده بيدي الكوكب لونه الأزرق."
+  },
+  {
+    "id": "GEN-100-045",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which gas makes up the largest percentage of Earth's atmosphere?",
+    "question_ar": "إيه الغاز اللي بيشكل أكبر نسبة في الغلاف الجوي للأرض؟",
+    "options": [
+      {
+        "en": "Nitrogen",
+        "ar": "النيتروجين"
+      },
+      {
+        "en": "Oxygen",
+        "ar": "الأكسچين"
+      },
+      {
+        "en": "Carbon dioxide",
+        "ar": "ثاني أكسيد الكربون"
+      },
+      {
+        "en": "Argon",
+        "ar": "الأرجون"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Nitrogen makes up about 78% of Earth's atmosphere.",
+    "explanation_ar": "النيتروجين بيشكل حوالي 78% من الغلاف الجوي للأرض."
+  },
+  {
+    "id": "GEN-100-046",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian city is home to the historic 'Hanging Church,' one of the oldest churches in Egypt?",
+    "question_ar": "إيه المدينة المصرية اللي فيها 'الكنيسة المعلقة' من أقدم كنايس مصر؟",
+    "options": [
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Minya",
+        "ar": "المنيا"
+      },
+      {
+        "en": "Assiut",
+        "ar": "أسيوط"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Hanging Church is located in Old Cairo.",
+    "explanation_ar": "الكنيسة المعلقة موجودة في مصر القديمة، القاهرة."
+  },
+  {
+    "id": "GEN-100-047",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What does 'laser' stand for as an acronym?",
+    "question_ar": "إيه معنى كلمة 'ليزر' كاختصار؟",
+    "options": [
+      {
+        "en": "Light And Sound Energy Ray",
+        "ar": "لايت آند ساوند إنيرجي راي"
+      },
+      {
+        "en": "Long Amplitude Signal Emission Ray",
+        "ar": "لونج أمبليتيود سيجنال إميشن راي"
+      },
+      {
+        "en": "Light Amplification by Stimulated Emission of Radiation",
+        "ar": "تضخيم الضوء عن طريق الانبعاث المحفز للإشعاع"
+      },
+      {
+        "en": "Linear Array of Systematic Energy Rays",
+        "ar": "لينيار أراي أوف سيستماتيك إنيرجي رايز"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "LASER stands for Light Amplification by Stimulated Emission of Radiation.",
+    "explanation_ar": "ليزر اختصار لـ Light Amplification by Stimulated Emission of Radiation."
+  },
+  {
+    "id": "GEN-100-048",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Kuwaiti currency is widely cited as one of the highest-valued currency units in the world?",
+    "question_ar": "إيه العملة الكويتية اللي معروفة بأنها من أعلى العملات قيمة في العالم؟",
+    "options": [
+      {
+        "en": "Kuwaiti Riyal",
+        "ar": "الريال الكويتي"
+      },
+      {
+        "en": "Kuwaiti Pound",
+        "ar": "الجنيه الكويتي"
+      },
+      {
+        "en": "Kuwaiti Franc",
+        "ar": "الفرنك الكويتي"
+      },
+      {
+        "en": "Kuwaiti Dinar",
+        "ar": "الدينار الكويتي"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The Kuwaiti Dinar is often cited as one of the world's highest-valued currency units.",
+    "explanation_ar": "الدينار الكويتي من أعلى العملات قيمة في العالم.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "GEN-100-049",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "What term describes a word that reads the same forwards and backwards, like 'level'?",
+    "question_ar": "إيه المصطلح اللي بيوصف كلمة بتتقرا نفسها من الاتجاهين، زي 'level'؟",
+    "options": [
+      {
+        "en": "Palindrome",
+        "ar": "بالندروم"
+      },
+      {
+        "en": "Anagram",
+        "ar": "أناجرام"
+      },
+      {
+        "en": "Acronym",
+        "ar": "اختصار"
+      },
+      {
+        "en": "Homophone",
+        "ar": "هوموفون"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A palindrome reads the same forwards and backwards.",
+    "explanation_ar": "البالندروم كلمة بتتقرا نفسها من الاتجاهين."
+  },
+  {
+    "id": "GEN-100-050",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian city hosted the ancient Ptolemaic-era lighthouse, one of the Seven Wonders of the Ancient World?",
+    "question_ar": "إيه المدينة المصرية اللي كان فيها منارة العصر البطلمي، من عجائب الدنيا السبع القديمة؟",
+    "options": [
+      {
+        "en": "Rosetta",
+        "ar": "رشيد"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Damietta",
+        "ar": "دمياط"
+      },
+      {
+        "en": "Port Said",
+        "ar": "بورسعيد"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Lighthouse of Alexandria was one of the Seven Wonders of the Ancient World.",
+    "explanation_ar": "منارة الإسكندرية كانت من عجائب الدنيا السبع القديمة."
+  }
 ]

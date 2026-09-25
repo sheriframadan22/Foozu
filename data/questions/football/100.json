@@ -1,0 +1,903 @@
+[
+  {
+    "id": "FTB-100-001",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Egypt played its first-ever World Cup match in 1934, losing 4-2 in the only round they contested to which country?",
+    "question_ar": "مصر لعبت أول مباراة كأس عالم في تاريخها سنة 1934، وخسرت 4-2 في الدور الوحيد اللي لعبته أمام أنهي دولة؟",
+    "options": [
+      {"en": "Austria", "ar": "النمسا"},
+      {"en": "Hungary", "ar": "المجر"},
+      {"en": "Czechoslovakia", "ar": "تشيكوسلوفاكيا"},
+      {"en": "Italy", "ar": "إيطاليا"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Egypt, the first African/Arab team ever at a World Cup, lost 4-2 to Hungary in 1934.",
+    "explanation_ar": "مصر، أول منتخب أفريقي وعربي في كأس العالم، خسرت 4-2 أمام المجر سنة 1934."
+  },
+  {
+    "id": "FTB-100-002",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Argentine manager led Egypt to qualify for the 2018 World Cup?",
+    "question_ar": "أنهي مدرب أرجنتيني قاد مصر للتأهل لكأس عالم 2018؟",
+    "options": [
+      {"en": "Hector Cuper", "ar": "هيكتور كوبر"},
+      {"en": "Marcelo Bielsa", "ar": "مارسيلو بيلسا"},
+      {"en": "Jorge Sampaoli", "ar": "خورخي سامباولي"},
+      {"en": "Gerardo Martino", "ar": "خيراردو مارتينو"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Argentine coach Hector Cuper managed Egypt to their 2018 World Cup qualification.",
+    "explanation_ar": "المدرب الأرجنتيني هيكتور كوبر قاد مصر للتأهل لكأس عالم 2018."
+  },
+  {
+    "id": "FTB-100-003",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which manager led Egypt at the 1990 World Cup in Italy, their first World Cup appearance in over 50 years?",
+    "question_ar": "أنهي مدرب قاد مصر في كأس عالم 1990 بإيطاليا، أول ظهور لمصر في كأس العالم بعد أكتر من 50 سنة؟",
+    "options": [
+      {"en": "Mahmoud El-Gohary", "ar": "محمود الجوهري"},
+      {"en": "Hassan Shehata", "ar": "حسن شحاتة"},
+      {"en": "Mahmoud Fayez", "ar": "محمود فايز"},
+      {"en": "Shawky Gharib", "ar": "شوقي غريب"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mahmoud El-Gohary managed Egypt at the 1990 World Cup in Italy.",
+    "explanation_ar": "محمود الجوهري قاد مصر في كأس عالم 1990 بإيطاليا."
+  },
+  {
+    "id": "FTB-100-004",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Egypt won the very first Africa Cup of Nations, in 1957, beating which country in the final?",
+    "question_ar": "مصر فازت بأول نسخة من كأس أمم أفريقيا سنة 1957، بعد ما هزمت أنهي دولة في النهائي؟",
+    "options": [
+      {"en": "Sudan", "ar": "السودان"},
+      {"en": "Ethiopia", "ar": "إثيوبيا"},
+      {"en": "Ghana", "ar": "غانا"},
+      {"en": "Nigeria", "ar": "نيجيريا"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Egypt beat Ethiopia in the final of the inaugural 1957 Africa Cup of Nations.",
+    "explanation_ar": "مصر هزمت إثيوبيا في نهائي أول كأس أمم أفريقيا سنة 1957."
+  },
+  {
+    "id": "FTB-100-005",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Egypt won the second-ever Africa Cup of Nations in 1959, which they hosted themselves. How many teams contested that tiny early edition?",
+    "question_ar": "مصر فازت بتاني كأس أمم أفريقيا سنة 1959 واستضافتها بنفسها. النسخة دي كانت صغيرة جدًا وشاركت فيها كام منتخب؟",
+    "options": [
+      {"en": "3", "ar": "3"},
+      {"en": "6", "ar": "6"},
+      {"en": "8", "ar": "8"},
+      {"en": "4", "ar": "4"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Only 3 teams — Egypt, Sudan, and Ethiopia — played in the 1959 AFCON, won by Egypt.",
+    "explanation_ar": "3 منتخبات بس شاركوا في نسخة 1959 وهم مصر والسودان وإثيوبيا، وفازت بيها مصر."
+  },
+  {
+    "id": "FTB-100-006",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Egypt's surprise top scorer at the 2010 AFCON title run, coming off the bench, was known by which nickname?",
+    "question_ar": "هداف مصر المفاجئ في مشوار التتويج بكأس أمم أفريقيا 2010، اللي كان بيدخل من الدكة، كان معروف بأنهي لقب؟",
+    "options": [
+      {"en": "Gedo", "ar": "چيدو"},
+      {"en": "Bibo", "ar": "بيبو"},
+      {"en": "Trezeguet", "ar": "تريزيجيه"},
+      {"en": "Shikabala", "ar": "شيكابالا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Striker Emad Moteab, nicknamed \"Gedo,\" was Egypt's surprise top scorer at the 2010 AFCON.",
+    "explanation_ar": "المهاجم عماد متعب، الملقب بـ\"چيدو\"، كان هداف مصر المفاجئ في كأس أمم أفريقيا 2010."
+  },
+  {
+    "id": "FTB-100-007",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "In 2021, Al Ahly became the first African club ever to reach the semifinals of which global competition, going on to finish third?",
+    "question_ar": "سنة 2021، الأهلي بقى أول فريق أفريقي يوصل لنصف نهائي أنهي بطولة عالمية، وانتهى بالمركز التالت؟",
+    "options": [
+      {"en": "FIFA Club World Cup", "ar": "كأس العالم للأندية"},
+      {"en": "Intercontinental Cup", "ar": "الكأس بين القارات"},
+      {"en": "UEFA Super Cup", "ar": "السوبر الأوروبي"},
+      {"en": "Copa Libertadores", "ar": "كوبا ليبرتادوريس"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Al Ahly became the first African club to reach a FIFA Club World Cup semifinal, finishing third in 2021.",
+    "explanation_ar": "الأهلي بقى أول فريق أفريقي يوصل لنصف نهائي كأس العالم للأندية، وحقق المركز التالت سنة 2021."
+  },
+  {
+    "id": "FTB-100-008",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Egypt won the 2006 Africa Cup of Nations final, which they hosted, on penalties after a goalless draw against which country?",
+    "question_ar": "مصر فازت بنهائي كأس أمم أفريقيا 2006، اللي استضافته، بركلات الترجيح بعد تعادل سلبي أمام أنهي دولة؟",
+    "options": [
+      {"en": "Cameroon", "ar": "الكاميرون"},
+      {"en": "Ivory Coast", "ar": "ساحل العاج"},
+      {"en": "Senegal", "ar": "السنغال"},
+      {"en": "Nigeria", "ar": "نيجيريا"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Egypt beat Ivory Coast on penalties in the 2006 AFCON final after a 0-0 draw.",
+    "explanation_ar": "مصر فازت على ساحل العاج بركلات الترجيح في نهائي كأس أمم أفريقيا 2006 بعد تعادل سلبي."
+  },
+  {
+    "id": "FTB-100-009",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Egypt reached the 2017 AFCON final but lost 2-1 to which country?",
+    "question_ar": "مصر وصلت لنهائي كأس أمم أفريقيا 2017 لكن خسرت 1-2 أمام أنهي دولة؟",
+    "options": [
+      {"en": "Cameroon", "ar": "الكاميرون"},
+      {"en": "Ghana", "ar": "غانا"},
+      {"en": "Senegal", "ar": "السنغال"},
+      {"en": "Burkina Faso", "ar": "بوركينا فاسو"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Egypt lost the 2017 AFCON final 2-1 to Cameroon.",
+    "explanation_ar": "مصر خسرت نهائي كأس أمم أفريقيا 2017 بنتيجة 1-2 أمام الكاميرون."
+  },
+  {
+    "id": "FTB-100-010",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Egypt reached the 2021 AFCON final (played in 2022) under which Portuguese manager, losing on penalties to Senegal?",
+    "question_ar": "مصر وصلت لنهائي كأس أمم أفريقيا 2021 (اتلعب 2022) تحت قيادة أنهي مدرب برتغالي، وخسرت بركلات الترجيح أمام السنغال؟",
+    "options": [
+      {"en": "Carlos Queiroz", "ar": "كارلوس كيروش"},
+      {"en": "Jose Mourinho", "ar": "جوزيه مورينيو"},
+      {"en": "Paulo Bento", "ar": "باولو بينتو"},
+      {"en": "Fernando Santos", "ar": "فرناندو سانتوس"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Portuguese manager Carlos Queiroz led Egypt to the 2021 AFCON final, lost on penalties to Senegal.",
+    "explanation_ar": "المدرب البرتغالي كارلوس كيروش قاد مصر لنهائي كأس أمم أفريقيا 2021، وخسرت بركلات الترجيح أمام السنغال."
+  },
+  {
+    "id": "FTB-100-011",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "In which African country was the 2021 AFCON final played, where Egypt lost to Senegal on penalties?",
+    "question_ar": "نهائي كأس أمم أفريقيا 2021، اللي خسرته مصر بركلات الترجيح أمام السنغال، اتلعب في أنهي دولة أفريقية؟",
+    "options": [
+      {"en": "Gabon", "ar": "الجابون"},
+      {"en": "Cameroon", "ar": "الكاميرون"},
+      {"en": "Ivory Coast", "ar": "ساحل العاج"},
+      {"en": "Morocco", "ar": "المغرب"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The 2021 AFCON tournament and final were held in Cameroon.",
+    "explanation_ar": "بطولة ونهائي كأس أمم أفريقيا 2021 اتقاموا في الكاميرون."
+  },
+  {
+    "id": "FTB-100-012",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Mohamed Salah's 2017 transfer to Liverpool from Roma set a club-record fee, reported at around what figure?",
+    "question_ar": "انتقال محمد صلاح لليفربول من روما سنة 2017 كان رقم قياسي للنادي، وقيمته كانت حوالي كام؟",
+    "options": [
+      {"en": "Around £20 million", "ar": "حوالي 20 مليون جنيه إسترليني"},
+      {"en": "Around £35 million", "ar": "حوالي 35 مليون جنيه إسترليني"},
+      {"en": "Around £50 million", "ar": "حوالي 50 مليون جنيه إسترليني"},
+      {"en": "Around £10 million", "ar": "حوالي 10 مليون جنيه إسترليني"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Salah's move to Liverpool was reported at around £35 million, a club record at the time.",
+    "explanation_ar": "انتقال صلاح لليفربول كان بحوالي 35 مليون جنيه إسترليني، رقم قياسي للنادي وقتها.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "FTB-100-013",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Mohamed Salah won the PFA Players' Player of the Year award for which standout Premier League season?",
+    "question_ar": "محمد صلاح فاز بجائزة أفضل لاعب في البريميرليج من اتحاد اللاعبين المحترفين في أنهي موسم مميز؟",
+    "options": [
+      {"en": "2016-17", "ar": "2016-17"},
+      {"en": "2017-18", "ar": "2017-18"},
+      {"en": "2019-20", "ar": "2019-20"},
+      {"en": "2021-22", "ar": "2021-22"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Salah won the PFA Players' Player of the Year for his record-breaking 2017-18 season.",
+    "explanation_ar": "صلاح فاز بجائزة أفضل لاعب من اتحاد المحترفين عن موسمه القياسي 2017-18."
+  },
+  {
+    "id": "FTB-100-014",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Egypt's football team won a bronze medal at which early Olympic Games, a landmark achievement for African football?",
+    "question_ar": "منتخب مصر لكرة القدم فاز بميدالية برونزية في أنهي أولمبياد قديم، إنجاز تاريخي للكورة الأفريقية؟",
+    "options": [
+      {"en": "1924 Paris", "ar": "باريس 1924"},
+      {"en": "1928 Amsterdam", "ar": "أمستردام 1928"},
+      {"en": "1936 Berlin", "ar": "برلين 1936"},
+      {"en": "1948 London", "ar": "لندن 1948"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Egypt won bronze in football at the 1928 Amsterdam Olympics, a landmark early achievement.",
+    "explanation_ar": "مصر فازت بالبرونزية في كرة القدم بأولمبياد أمستردام 1928، إنجاز تاريخي مبكر."
+  },
+  {
+    "id": "FTB-100-015",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Zamalek last won the CAF Champions League, their second and most recent title, in which year?",
+    "question_ar": "الزمالك آخر مرة فاز فيها بدوري أبطال أفريقيا، لقبه التاني والأخير، كانت سنة كام؟",
+    "options": [
+      {"en": "1996", "ar": "1996"},
+      {"en": "2002", "ar": "2002"},
+      {"en": "2010", "ar": "2010"},
+      {"en": "1993", "ar": "1993"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Zamalek's most recent CAF Champions League title came in 2002.",
+    "explanation_ar": "آخر لقب لدوري أبطال أفريقيا فاز بيه الزمالك كان سنة 2002."
+  },
+  {
+    "id": "FTB-100-016",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Al Ahly won its first-ever CAF Champions League title in which year, beginning their record-setting continental dominance?",
+    "question_ar": "الأهلي فاز بأول لقب دوري أبطال أفريقيا في تاريخه سنة كام، بداية سيطرته القارية القياسية؟",
+    "options": [
+      {"en": "1982", "ar": "1982"},
+      {"en": "1975", "ar": "1975"},
+      {"en": "1991", "ar": "1991"},
+      {"en": "2001", "ar": "2001"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Al Ahly won its first CAF Champions League title in 1982.",
+    "explanation_ar": "الأهلي فاز بأول لقب له في دوري أبطال أفريقيا سنة 1982."
+  },
+  {
+    "id": "FTB-100-017",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Portuguese manager led Al Ahly to multiple CAF Champions League titles during a long, historic spell in charge?",
+    "question_ar": "أنهي مدرب برتغالي قاد الأهلي لبطولات كتير في دوري أبطال أفريقيا خلال فترة تدريب طويلة وتاريخية؟",
+    "options": [
+      {"en": "Manuel José", "ar": "مانويل جوزيه"},
+      {"en": "Carlos Queiroz", "ar": "كارلوس كيروش"},
+      {"en": "Jose Mourinho", "ar": "جوزيه مورينيو"},
+      {"en": "Nuno Espírito Santo", "ar": "نونو إسبيريتو سانتو"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Manuel José is considered one of Al Ahly's greatest-ever managers, winning multiple African titles.",
+    "explanation_ar": "مانويل جوزيه من أنجح مدربي الأهلي في تاريخه، وفاز بألقاب أفريقية كتير معاه."
+  },
+  {
+    "id": "FTB-100-018",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which country won the FIFA World Cup in South Africa in 2010, the first ever held on African soil?",
+    "question_ar": "أنهي دولة فازت بكأس العالم في جنوب أفريقيا سنة 2010، أول نسخة على أرض أفريقية؟",
+    "options": [
+      {"en": "Netherlands", "ar": "هولندا"},
+      {"en": "Germany", "ar": "ألمانيا"},
+      {"en": "Spain", "ar": "إسبانيا"},
+      {"en": "Brazil", "ar": "البرازيل"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Spain won the 2010 World Cup, held in South Africa.",
+    "explanation_ar": "إسبانيا فازت بكأس عالم 2010 اللي اتقامت في جنوب أفريقيا."
+  },
+  {
+    "id": "FTB-100-019",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which player won the Golden Boot as top scorer at the 2014 World Cup?",
+    "question_ar": "أنهي لاعب فاز بالحذاء الدهبي كهداف لكأس عالم 2014؟",
+    "options": [
+      {"en": "Thomas Müller", "ar": "توماس مولر"},
+      {"en": "James Rodríguez", "ar": "خاميس رودريجيز"},
+      {"en": "Lionel Messi", "ar": "ليونيل ميسي"},
+      {"en": "Neymar", "ar": "نيمار"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Colombia's James Rodríguez won the Golden Boot at the 2014 World Cup.",
+    "explanation_ar": "الكولومبي خاميس رودريجيز فاز بالحذاء الدهبي في كأس عالم 2014."
+  },
+  {
+    "id": "FTB-100-020",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which player holds the record for most goals scored across all World Cup tournaments (16 goals)?",
+    "question_ar": "أنهي لاعب صاحب الرقم القياسي في عدد الأهداف عبر كل نسخ كأس العالم (16 هدف)؟",
+    "options": [
+      {"en": "Ronaldo Nazário", "ar": "رونالدو نازاريو"},
+      {"en": "Miroslav Klose", "ar": "ميروسلاف كلوزه"},
+      {"en": "Pelé", "ar": "بيليه"},
+      {"en": "Gerd Müller", "ar": "جيرد مولر"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Germany's Miroslav Klose holds the all-time World Cup scoring record with 16 goals.",
+    "explanation_ar": "الألماني ميروسلاف كلوزه صاحب الرقم القياسي في أهداف كأس العالم بـ 16 هدف."
+  },
+  {
+    "id": "FTB-100-021",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which country won the very first UEFA European Championship (Euro) in 1960?",
+    "question_ar": "أنهي دولة فازت بأول نسخة من بطولة أمم أوروبا (اليورو) سنة 1960؟",
+    "options": [
+      {"en": "West Germany", "ar": "ألمانيا الغربية"},
+      {"en": "Soviet Union", "ar": "الاتحاد السوفيتي"},
+      {"en": "Yugoslavia", "ar": "يوجوسلافيا"},
+      {"en": "Spain", "ar": "إسبانيا"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Soviet Union won the first-ever European Championship in 1960.",
+    "explanation_ar": "الاتحاد السوفيتي فاز بأول نسخة من بطولة أمم أوروبا سنة 1960."
+  },
+  {
+    "id": "FTB-100-022",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Real Madrid won every single edition of the European Cup from its founding in 1956 through 1960. How many consecutive titles was that?",
+    "question_ar": "ريال مدريد فاز بكل نسخ كأس أوروبا من تأسيسها سنة 1956 لحد 1960. كام لقب متتالي كان ده؟",
+    "options": [
+      {"en": "3", "ar": "3"},
+      {"en": "5", "ar": "5"},
+      {"en": "4", "ar": "4"},
+      {"en": "6", "ar": "6"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Real Madrid won the first 5 European Cups in a row, from 1956 to 1960.",
+    "explanation_ar": "ريال مدريد فاز بأول 5 نسخ من كأس أوروبا على التوالي، من 1956 لحد 1960."
+  },
+  {
+    "id": "FTB-100-023",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "FIFA introduced the back-pass rule, banning goalkeepers from handling deliberate back-passes, after which slow, defensive World Cup?",
+    "question_ar": "الفيفا أدخلت قاعدة منع الحارس من مسك الكورة لما بتتلعب له من زميله عن قصد، بعد أنهي كأس عالم بطيء ودفاعي؟",
+    "options": [
+      {"en": "1986", "ar": "1986"},
+      {"en": "1994", "ar": "1994"},
+      {"en": "1990", "ar": "1990"},
+      {"en": "1982", "ar": "1982"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The back-pass rule was introduced after the defensive, time-wasting 1990 World Cup.",
+    "explanation_ar": "قاعدة الباك باس اتضافت بعد كأس عالم 1990 اللي اتميز بلعب دفاعي ومضيعة وقت."
+  },
+  {
+    "id": "FTB-100-024",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which manager won the Champions League in 2004 with unfashionable Porto, before his rise to fame at Chelsea?",
+    "question_ar": "أنهي مدرب فاز بدوري أبطال أوروبا سنة 2004 مع بورتو الغير مشهور، قبل شهرته الكبيرة مع تشيلسي؟",
+    "options": [
+      {"en": "André Villas-Boas", "ar": "أندريه فيلاش بواش"},
+      {"en": "Jose Mourinho", "ar": "جوزيه مورينيو"},
+      {"en": "Manuel Pellegrini", "ar": "مانويل بيليجريني"},
+      {"en": "Fernando Santos", "ar": "فرناندو سانتوس"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Jose Mourinho's 2004 Champions League win with Porto launched his global fame.",
+    "explanation_ar": "فوز جوزيه مورينيو بدوري الأبطال 2004 مع بورتو كان بداية شهرته العالمية."
+  },
+  {
+    "id": "FTB-100-025",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Pelé spent almost his entire club career at which Brazilian club?",
+    "question_ar": "بيليه قضى تقريبًا كل مشواره مع الأندية في أنهي فريق برازيلي؟",
+    "options": [
+      {"en": "Flamengo", "ar": "فلامنجو"},
+      {"en": "Santos FC", "ar": "سانتوس"},
+      {"en": "Corinthians", "ar": "كورينثيانز"},
+      {"en": "São Paulo", "ar": "ساو باولو"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Pelé spent nearly his whole career at Santos FC in Brazil.",
+    "explanation_ar": "بيليه قضى تقريبًا كل مشواره مع نادي سانتوس البرازيلي."
+  },
+  {
+    "id": "FTB-100-026",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "The Netherlands' \"Total Football\" side lost the 1974 World Cup final to which host nation?",
+    "question_ar": "منتخب هولندا صاحب \"الكورة الشاملة\" خسر نهائي كأس عالم 1974 أمام الدولة المضيفة، أنهي دولة؟",
+    "options": [
+      {"en": "West Germany", "ar": "ألمانيا الغربية"},
+      {"en": "Argentina", "ar": "الأرجنتين"},
+      {"en": "Italy", "ar": "إيطاليا"},
+      {"en": "Brazil", "ar": "البرازيل"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Netherlands lost the 1974 World Cup final to hosts West Germany.",
+    "explanation_ar": "هولندا خسرت نهائي كأس عالم 1974 أمام المضيفة ألمانيا الغربية."
+  },
+  {
+    "id": "FTB-100-027",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which country won the 1978 World Cup on home soil, beating the Netherlands again in the final?",
+    "question_ar": "أنهي دولة فازت بكأس عالم 1978 على أرضها، بعد ما هزمت هولندا تاني في النهائي؟",
+    "options": [
+      {"en": "Argentina", "ar": "الأرجنتين"},
+      {"en": "Brazil", "ar": "البرازيل"},
+      {"en": "Uruguay", "ar": "الأوروجواي"},
+      {"en": "Chile", "ar": "تشيلي"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Argentina won the 1978 World Cup as hosts, beating the Netherlands in the final.",
+    "explanation_ar": "الأرجنتين فازت بكأس عالم 1978 كمضيفة، بعد ما هزمت هولندا في النهائي."
+  },
+  {
+    "id": "FTB-100-028",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Dutch striker scored a famous diving header against Spain at the 2014 World Cup?",
+    "question_ar": "أنهي مهاجم هولندي سجل هدف رأسية طائرة شهير أمام إسبانيا في كأس عالم 2014؟",
+    "options": [
+      {"en": "Arjen Robben", "ar": "أرين روبن"},
+      {"en": "Robin van Persie", "ar": "روبين فان بيرسي"},
+      {"en": "Wesley Sneijder", "ar": "فيسلي شنايدر"},
+      {"en": "Klaas-Jan Huntelaar", "ar": "كلاس يان هونتيلار"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Robin van Persie's flying diving header against Spain became an instant classic in 2014.",
+    "explanation_ar": "رأسية روبين فان بيرسي الطائرة أمام إسبانيا بقت من الكلاسيكيات فورًا سنة 2014."
+  },
+  {
+    "id": "FTB-100-029",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which club holds the record for most Europa League/UEFA Cup titles won (7)?",
+    "question_ar": "أنهي فريق صاحب الرقم القياسي في عدد ألقاب اليوروبا ليج/كأس الاتحاد الأوروبي (7 ألقاب)؟",
+    "options": [
+      {"en": "Sevilla", "ar": "إشبيلية"},
+      {"en": "Atlético Madrid", "ar": "أتلتيكو مدريد"},
+      {"en": "Inter Milan", "ar": "إنتر ميلان"},
+      {"en": "Liverpool", "ar": "ليفربول"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Sevilla holds the record for most Europa League/UEFA Cup titles, with 7.",
+    "explanation_ar": "إشبيلية صاحب الرقم القياسي في ألقاب اليوروبا ليج/كأس الاتحاد بـ 7 ألقاب."
+  },
+  {
+    "id": "FTB-100-030",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which player holds the record for most goals scored in Champions League history?",
+    "question_ar": "أنهي لاعب صاحب الرقم القياسي في عدد أهداف تاريخ دوري أبطال أوروبا؟",
+    "options": [
+      {"en": "Lionel Messi", "ar": "ليونيل ميسي"},
+      {"en": "Robert Lewandowski", "ar": "روبرت ليفاندوفسكي"},
+      {"en": "Cristiano Ronaldo", "ar": "كريستيانو رونالدو"},
+      {"en": "Karim Benzema", "ar": "كريم بنزيما"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Cristiano Ronaldo holds the all-time Champions League scoring record.",
+    "explanation_ar": "كريستيانو رونالدو صاحب الرقم القياسي في تاريخ أهداف دوري أبطال أوروبا."
+  },
+  {
+    "id": "FTB-100-031",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "The 1950 World Cup, the only one without a true final, was decided by a shock upset in which Brazilian city, nicknamed the \"Maracanazo\"?",
+    "question_ar": "كأس عالم 1950، النسخة الوحيدة اللي مكنش فيها نهائي حقيقي، اتحسمت بمفاجأة صادمة في أنهي مدينة برازيلية، سُمّيت \"الماراكانازو\"؟",
+    "options": [
+      {"en": "São Paulo", "ar": "ساو باولو"},
+      {"en": "Rio de Janeiro", "ar": "ريو دي جانيرو"},
+      {"en": "Belo Horizonte", "ar": "بيلو هوريزونتي"},
+      {"en": "Salvador", "ar": "سلفادور"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Uruguay's shock win over hosts Brazil in Rio's Maracanã in 1950 is known as the \"Maracanazo.\"",
+    "explanation_ar": "فوز الأوروجواي المفاجئ على مضيفتها البرازيل في ملعب الماراكانا بريو سنة 1950 اتسمى \"الماراكانازو\"."
+  },
+  {
+    "id": "FTB-100-032",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which player scored the fastest hat-trick in Premier League history, in just under 3 minutes, for Southampton in 2015?",
+    "question_ar": "أنهي لاعب سجل أسرع هاتريك في تاريخ البريميرليج، في أقل من 3 دقايق، مع ساوثهامتون سنة 2015؟",
+    "options": [
+      {"en": "Sadio Mané", "ar": "ساديو ماني"},
+      {"en": "Harry Kane", "ar": "هاري كين"},
+      {"en": "Sergio Agüero", "ar": "سيرخيو أجويرو"},
+      {"en": "Robin van Persie", "ar": "روبين فان بيرسي"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Sadio Mané scored the fastest Premier League hat-trick, in 2 minutes 56 seconds, for Southampton.",
+    "explanation_ar": "ساديو ماني سجل أسرع هاتريك في تاريخ البريميرليج، في دقيقتين و56 ثانية، مع ساوثهامتون."
+  },
+  {
+    "id": "FTB-100-033",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which club set an English top-flight record by winning four consecutive league titles, from 2021 to 2024?",
+    "question_ar": "أنهي فريق حقق رقم قياسي إنجليزي بالفوز بـ 4 ألقاب دوري متتالية، من 2021 لحد 2024؟",
+    "options": [
+      {"en": "Liverpool", "ar": "ليفربول"},
+      {"en": "Manchester City", "ar": "مانشستر سيتي"},
+      {"en": "Chelsea", "ar": "تشيلسي"},
+      {"en": "Manchester United", "ar": "مانشستر يونايتد"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Manchester City set an English record with four straight Premier League titles from 2021 to 2024.",
+    "explanation_ar": "مانشستر سيتي حقق رقم قياسي إنجليزي بـ 4 ألقاب بريميرليج متتالية من 2021 لحد 2024."
+  },
+  {
+    "id": "FTB-100-034",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Argentina and which other South American country are historically tied for the most Copa América titles?",
+    "question_ar": "الأرجنتين وأنهي دولة تانية في أمريكا الجنوبية متعادلين تاريخيًا في عدد ألقاب كوبا أمريكا؟",
+    "options": [
+      {"en": "Brazil", "ar": "البرازيل"},
+      {"en": "Chile", "ar": "تشيلي"},
+      {"en": "Uruguay", "ar": "الأوروجواي"},
+      {"en": "Colombia", "ar": "كولومبيا"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Argentina and Uruguay have historically been tied for the most Copa América titles.",
+    "explanation_ar": "الأرجنتين والأوروجواي متعادلين تاريخيًا في عدد ألقاب كوبا أمريكا."
+  },
+  {
+    "id": "FTB-100-035",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Portuguese club won the European Cup twice in the early 1960s, starring the legendary Eusébio?",
+    "question_ar": "أنهي فريق برتغالي فاز بكأس أوروبا مرتين في بداية الستينات بنجومية الأسطورة يوسيبيو؟",
+    "options": [
+      {"en": "Porto", "ar": "بورتو"},
+      {"en": "Sporting CP", "ar": "سبورتينج لشبونة"},
+      {"en": "Benfica", "ar": "بنفيكا"},
+      {"en": "Braga", "ar": "براجا"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Benfica won the European Cup in 1961 and 1962 with Eusébio starring.",
+    "explanation_ar": "بنفيكا فاز بكأس أوروبا سنة 1961 و1962 بنجومية يوسيبيو."
+  },
+  {
+    "id": "FTB-100-036",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which player, from Liberia, became the first (and long only) African-born winner of the Ballon d'Or, in 1995?",
+    "question_ar": "أنهي لاعب، من ليبيريا، بقى أول لاعب أفريقي المولد يفوز بالكرة الدهبية، سنة 1995؟",
+    "options": [
+      {"en": "Samuel Eto'o", "ar": "صامويل إيتو"},
+      {"en": "George Weah", "ar": "چورچ ويا"},
+      {"en": "Didier Drogba", "ar": "ديديير دروجبا"},
+      {"en": "Abedi Pele", "ar": "أبيدي بيليه"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Liberia's George Weah became the first African-born Ballon d'Or winner in 1995.",
+    "explanation_ar": "الليبيري چورچ ويا بقى أول لاعب أفريقي المولد يفوز بالكرة الدهبية سنة 1995."
+  },
+  {
+    "id": "FTB-100-037",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which German manager, somewhat surprisingly, led Greece to their shock Euro 2004 title?",
+    "question_ar": "أنهي مدرب ألماني، وده كان مفاجئ نوعًا ما، قاد اليونان لتحقيق لقب يورو 2004 المفاجئ؟",
+    "options": [
+      {"en": "Jürgen Klinsmann", "ar": "يورجن كلينسمان"},
+      {"en": "Otto Rehhagel", "ar": "أوتو ريهاجل"},
+      {"en": "Joachim Löw", "ar": "يواكيم لوف"},
+      {"en": "Berti Vogts", "ar": "بيرتي فوجتس"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "German coach Otto Rehhagel guided Greece to their shock Euro 2004 triumph.",
+    "explanation_ar": "المدرب الألماني أوتو ريهاجل قاد اليونان لتحقيق لقب يورو 2004 المفاجئ."
+  },
+  {
+    "id": "FTB-100-038",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Spain beat which country 4-0 in the Euro 2012 final, the biggest winning margin ever in a European Championship final?",
+    "question_ar": "إسبانيا فازت 4-0 على أنهي دولة في نهائي يورو 2012، أكبر فارق فوز في تاريخ نهائيات بطولة أمم أوروبا؟",
+    "options": [
+      {"en": "Germany", "ar": "ألمانيا"},
+      {"en": "Italy", "ar": "إيطاليا"},
+      {"en": "Portugal", "ar": "البرتغال"},
+      {"en": "France", "ar": "فرنسا"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Spain thrashed Italy 4-0 in the Euro 2012 final, the biggest margin in the competition's history.",
+    "explanation_ar": "إسبانيا سحقت إيطاليا 4-0 في نهائي يورو 2012، أكبر فارق في تاريخ البطولة."
+  },
+  {
+    "id": "FTB-100-039",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Argentine club holds the record for most Copa Libertadores titles (South America's version of the Champions League)?",
+    "question_ar": "أنهي فريق أرجنتيني صاحب الرقم القياسي في ألقاب كوبا ليبرتادوريس (نسخة أمريكا الجنوبية من دوري الأبطال)؟",
+    "options": [
+      {"en": "Boca Juniors", "ar": "بوكا جونيورز"},
+      {"en": "River Plate", "ar": "ريفر بليت"},
+      {"en": "Independiente", "ar": "إندبندنتي"},
+      {"en": "Racing Club", "ar": "راسينج"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Independiente holds the record for most Copa Libertadores titles, with 7.",
+    "explanation_ar": "إندبندنتي صاحب الرقم القياسي في ألقاب كوبا ليبرتادوريس بـ 7 ألقاب."
+  },
+  {
+    "id": "FTB-100-040",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "\"Eredivisie\" is the name of the top professional football league in which country?",
+    "question_ar": "\"إريديفيسي\" هو اسم أعلى دوري احترافي لكرة القدم في أنهي دولة؟",
+    "options": [
+      {"en": "Belgium", "ar": "بلجيكا"},
+      {"en": "Netherlands", "ar": "هولندا"},
+      {"en": "Denmark", "ar": "الدنمارك"},
+      {"en": "Portugal", "ar": "البرتغال"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Eredivisie is the top football league in the Netherlands.",
+    "explanation_ar": "الإريديفيسي هو أعلى دوري لكرة القدم في هولندا."
+  },
+  {
+    "id": "FTB-100-041",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Managed by Jose Mourinho, AS Roma won the first-ever edition of which new European club competition, in 2022?",
+    "question_ar": "تحت قيادة جوزيه مورينيو، روما فاز بأول نسخة من أنهي بطولة أوروبية جديدة للأندية، سنة 2022؟",
+    "options": [
+      {"en": "UEFA Europa League", "ar": "يوروبا ليج"},
+      {"en": "UEFA Europa Conference League", "ar": "كأس مؤتمر أوروبا"},
+      {"en": "UEFA Super Cup", "ar": "السوبر الأوروبي"},
+      {"en": "UEFA Youth League", "ar": "دوري الشباب الأوروبي"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "AS Roma, under Mourinho, won the first-ever UEFA Europa Conference League in 2022.",
+    "explanation_ar": "روما، بقيادة مورينيو، فاز بأول نسخة من كأس مؤتمر أوروبا سنة 2022."
+  },
+  {
+    "id": "FTB-100-042",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Diego Maradona led which unfashionable Italian club to their only two Serie A titles ever, in 1987 and 1990?",
+    "question_ar": "دييجو مارادونا قاد أنهي فريق إيطالي غير معروف للقبين السيري أ الوحيدين في تاريخه، سنة 1987 و1990؟",
+    "options": [
+      {"en": "Napoli", "ar": "نابولي"},
+      {"en": "Fiorentina", "ar": "فيورنتينا"},
+      {"en": "Torino", "ar": "تورينو"},
+      {"en": "Bologna", "ar": "بولونيا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Maradona led Napoli to their only two Serie A titles, in 1987 and 1990.",
+    "explanation_ar": "مارادونا قاد نابولي للقبيه الوحيدين في السيري أ، سنة 1987 و1990."
+  },
+  {
+    "id": "FTB-100-043",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Legendary English manager Brian Clough led unfashionable Nottingham Forest to two consecutive European Cup titles, in which years?",
+    "question_ar": "المدرب الإنجليزي الأسطوري براين كلوف قاد نوتنجهام فورست غير المعروف للقبين متتاليين في كأس أوروبا، في أنهي سنين؟",
+    "options": [
+      {"en": "1977 and 1978", "ar": "1977 و1978"},
+      {"en": "1979 and 1980", "ar": "1979 و1980"},
+      {"en": "1981 and 1982", "ar": "1981 و1982"},
+      {"en": "1983 and 1984", "ar": "1983 و1984"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Brian Clough's Nottingham Forest won back-to-back European Cups in 1979 and 1980.",
+    "explanation_ar": "نوتنجهام فورست بقيادة براين كلوف فاز بلقبين متتاليين في كأس أوروبا سنة 1979 و1980."
+  },
+  {
+    "id": "FTB-100-044",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which club became the first English side to win the treble (league, domestic cup, and Champions League) in a single season, in 1999?",
+    "question_ar": "أنهي فريق إنجليزي بقى أول فريق يحقق الثلاثية (الدوري والكأس المحلي ودوري الأبطال) في موسم واحد، سنة 1999؟",
+    "options": [
+      {"en": "Arsenal", "ar": "أرسنال"},
+      {"en": "Manchester United", "ar": "مانشستر يونايتد"},
+      {"en": "Liverpool", "ar": "ليفربول"},
+      {"en": "Chelsea", "ar": "تشيلسي"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Manchester United completed the historic 1999 Treble.",
+    "explanation_ar": "مانشستر يونايتد حقق الثلاثية التاريخية سنة 1999."
+  },
+  {
+    "id": "FTB-100-045",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which two Scottish clubs contest the historic \"Old Firm\" derby?",
+    "question_ar": "أنهي فريقين اسكتلنديين بيلعبوا ديربي \"أولد فيرم\" التاريخي؟",
+    "options": [
+      {"en": "Celtic & Rangers", "ar": "سلتيك ورينجرز"},
+      {"en": "Hearts & Hibernian", "ar": "هارتس وهيبرنيان"},
+      {"en": "Aberdeen & Dundee United", "ar": "أبردين ودندي يونايتد"},
+      {"en": "Motherwell & Kilmarnock", "ar": "مذرويل وكيلمارنوك"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Celtic and Rangers contest Scotland's fierce \"Old Firm\" derby.",
+    "explanation_ar": "سلتيك ورينجرز بيلعبوا ديربي \"أولد فيرم\" الناري في اسكتلندا."
+  },
+  {
+    "id": "FTB-100-046",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which club won the Europa League in 2023, their record 7th title in the competition, beating Roma on penalties?",
+    "question_ar": "أنهي فريق فاز باليوروبا ليج سنة 2023، لقبه القياسي السابع في البطولة، بعد ما هزم روما بركلات الترجيح؟",
+    "options": [
+      {"en": "Villarreal", "ar": "فياريال"},
+      {"en": "Sevilla", "ar": "إشبيلية"},
+      {"en": "Atalanta", "ar": "أتالانتا"},
+      {"en": "Eintracht Frankfurt", "ar": "آينتراخت فرانكفورت"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Sevilla beat Roma on penalties in 2023 to lift a record 7th Europa League title.",
+    "explanation_ar": "إشبيلية هزم روما بركلات الترجيح سنة 2023 وحقق لقبه القياسي السابع في اليوروبا ليج."
+  },
+  {
+    "id": "FTB-100-047",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which player won the Golden Boot as top scorer at the 2018 World Cup, with 6 goals for England?",
+    "question_ar": "أنهي لاعب فاز بالحذاء الدهبي كهداف كأس عالم 2018، بـ 6 أهداف لإنجلترا؟",
+    "options": [
+      {"en": "Raheem Sterling", "ar": "راحيم ستيرلينج"},
+      {"en": "Harry Kane", "ar": "هاري كين"},
+      {"en": "Dele Alli", "ar": "ديلي علي"},
+      {"en": "Jesse Lingard", "ar": "جيسي لينجارد"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Harry Kane won the Golden Boot at the 2018 World Cup with 6 goals.",
+    "explanation_ar": "هاري كين فاز بالحذاء الدهبي في كأس عالم 2018 بـ 6 أهداف."
+  },
+  {
+    "id": "FTB-100-048",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Cristiano Ronaldo scored a hat-trick against Spain in Portugal's opening match of which World Cup?",
+    "question_ar": "كريستيانو رونالدو سجل هاتريك أمام إسبانيا في مباراة افتتاح البرتغال بأنهي كأس عالم؟",
+    "options": [
+      {"en": "2014", "ar": "2014"},
+      {"en": "2018", "ar": "2018"},
+      {"en": "2022", "ar": "2022"},
+      {"en": "2010", "ar": "2010"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Ronaldo's famous hat-trick against Spain came in Portugal's opener at the 2018 World Cup.",
+    "explanation_ar": "هاتريك رونالدو الشهير أمام إسبانيا كان في مباراة افتتاح البرتغال بكأس عالم 2018."
+  },
+  {
+    "id": "FTB-100-049",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Brazilian club won the 2019 Copa Libertadores with a dramatic late comeback against River Plate, scoring twice in the final two minutes?",
+    "question_ar": "أنهي فريق برازيلي فاز بكوبا ليبرتادوريس 2019 برجعة درامية في الدقايق الأخيرة أمام ريفر بليت، بعد ما سجل هدفين في آخر دقيقتين؟",
+    "options": [
+      {"en": "Flamengo", "ar": "فلامنجو"},
+      {"en": "Palmeiras", "ar": "بالميراس"},
+      {"en": "Grêmio", "ar": "جريميو"},
+      {"en": "Santos", "ar": "سانتوس"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Flamengo staged a dramatic late comeback to win the 2019 Copa Libertadores against River Plate.",
+    "explanation_ar": "فلامنجو حقق رجعة درامية في اللحظات الأخيرة وفاز بكوبا ليبرتادوريس 2019 أمام ريفر بليت."
+  },
+  {
+    "id": "FTB-100-050",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which German manager, a former World Cup-winning defender, won the Champions League with two different German clubs — Borussia Dortmund and Bayern Munich?",
+    "question_ar": "أنهي مدرب ألماني، ولاعب سابق فاز بكأس العالم، فاز بدوري أبطال أوروبا مع فريقين ألمانيين مختلفين، بوروسيا دورتموند وبايرن ميونخ؟",
+    "options": [
+      {"en": "Jupp Heynckes", "ar": "يوب هاينكس"},
+      {"en": "Ottmar Hitzfeld", "ar": "أوتمار هيتسفيلد"},
+      {"en": "Felix Magath", "ar": "فيليكس ماجات"},
+      {"en": "Christoph Daum", "ar": "كريستوف داوم"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Ottmar Hitzfeld won the Champions League with both Borussia Dortmund (1997) and Bayern Munich (2001).",
+    "explanation_ar": "أوتمار هيتسفيلد فاز بدوري أبطال أوروبا مع بوروسيا دورتموند (1997) وبايرن ميونخ (2001)."
+  }
+]

@@ -1,0 +1,1504 @@
+[
+  {
+    "id": "ANM-100-001",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Mantis shrimp have eyes with up to how many types of photoreceptors, compared to just 3 in humans?",
+    "question_ar": "جمبري السرعوف عينه فيها لحد كام نوع من المستقبلات الضوئية، مقارنة بـ 3 بس عند البني آدم؟",
+    "options": [
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "16",
+        "ar": "16"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Mantis shrimp can have up to 16 types of photoreceptors, giving them extraordinary color vision.",
+    "explanation_ar": "جمبري السرعوف ممكن يكون عنده لحد 16 نوع من المستقبلات الضوئية، وده بيديه رؤية ألوان مذهلة."
+  },
+  {
+    "id": "ANM-100-002",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which jellyfish species is famous for being able to revert to an earlier life stage and is considered biologically \"immortal\"?",
+    "question_ar": "إيه نوع قنديل البحر المشهور بقدرته إنه يرجع لمرحلة حياة أصغر ويتعتبر \"خالد\" بيولوجيًا؟",
+    "options": [
+      {
+        "en": "Moon jellyfish",
+        "ar": "قنديل القمر"
+      },
+      {
+        "en": "Box jellyfish",
+        "ar": "القنديل الصندوقي"
+      },
+      {
+        "en": "Turritopsis dohrnii",
+        "ar": "توريتوبسيس دورنيي"
+      },
+      {
+        "en": "Lion's mane jellyfish",
+        "ar": "قنديل لبدة الأسد"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Turritopsis dohrnii can revert its cells to an earlier polyp stage, effectively resetting its life cycle.",
+    "explanation_ar": "توريتوبسيس دورنيي يقدر يرجّع خلاياه لمرحلة أبكر، وده بيعيد ضبط دورة حياته من الأول."
+  },
+  {
+    "id": "ANM-100-003",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which frog species can survive being frozen solid through winter and then thaw out alive in spring?",
+    "question_ar": "إيه نوع الضفدع اللي يقدر يعيش وهو متجمد تمامًا في الشتا وبعدين يدوب حي في الربيع؟",
+    "options": [
+      {
+        "en": "Wood frog",
+        "ar": "ضفدع الخشب"
+      },
+      {
+        "en": "Bullfrog",
+        "ar": "الضفدع الثور"
+      },
+      {
+        "en": "Poison dart frog",
+        "ar": "ضفدع السهم السام"
+      },
+      {
+        "en": "Tree frog",
+        "ar": "ضفدع الشجر"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Wood frogs can freeze up to about two-thirds of their body water and thaw out alive when spring arrives.",
+    "explanation_ar": "ضفدع الخشب يقدر يتجمد لحد حوالي تلتين مية جسمه ويدوب حي تاني لما الربيع يجي."
+  },
+  {
+    "id": "ANM-100-004",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Great white sharks are unusual among fish because they can partially do what?",
+    "question_ar": "القرش الأبيض الكبير غريب بين الأسماك لأنه يقدر يعمل إيه جزئيًا؟",
+    "options": [
+      {
+        "en": "Fly above water",
+        "ar": "يطير فوق المية"
+      },
+      {
+        "en": "Keep parts of their body warmer than the surrounding water",
+        "ar": "يخلي أجزاء من جسمه أدفى من المية المحيطة"
+      },
+      {
+        "en": "Change their gender",
+        "ar": "يغيّر جنسه"
+      },
+      {
+        "en": "Breathe air like a mammal",
+        "ar": "يتنفس هوا زي الثديات"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Great white sharks show regional endothermy, keeping some body parts warmer than the surrounding water.",
+    "explanation_ar": "القرش الأبيض الكبير عنده خاصية تنظيم حرارة جزئي، بيخلي بعض أجزاء جسمه أدفى من المية المحيطة."
+  },
+  {
+    "id": "ANM-100-005",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which tiny animal is known to survive being exposed to the vacuum of outer space in scientific experiments?",
+    "question_ar": "إيه الحيوان الصغير المعروف إنه قدر يعيش لما اتعرض لفراغ الفضا في تجارب علمية؟",
+    "options": [
+      {
+        "en": "Tardigrade (water bear)",
+        "ar": "دبدوب المية (تارديجريد)"
+      },
+      {
+        "en": "Fruit fly",
+        "ar": "دبانة الفاكهة"
+      },
+      {
+        "en": "Ant",
+        "ar": "النملة"
+      },
+      {
+        "en": "Nematode worm",
+        "ar": "الدودة الخيطية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Tardigrades have survived direct exposure to the vacuum and radiation of outer space in experiments.",
+    "explanation_ar": "دبدوب المية (التارديجريد) عاش لما اتعرض مباشرة لفراغ وإشعاع الفضا في تجارب علمية."
+  },
+  {
+    "id": "ANM-100-006",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Naked mole rats are studied by scientists mainly because they show unusual resistance to which disease?",
+    "question_ar": "الفار الأعرى بيتم دراسته من العلما أساسًا عشان عنده مقاومة غريبة لإيه مرض؟",
+    "options": [
+      {
+        "en": "The common cold",
+        "ar": "الرشح العادي"
+      },
+      {
+        "en": "Cancer",
+        "ar": "السرطان"
+      },
+      {
+        "en": "Diabetes",
+        "ar": "السكر"
+      },
+      {
+        "en": "Malaria",
+        "ar": "الملاريا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Naked mole rats show remarkable natural resistance to cancer, making them a major subject of medical research.",
+    "explanation_ar": "الفار الأعرى عنده مقاومة طبيعية غريبة للسرطان، وده خلاه موضوع بحث طبي مهم."
+  },
+  {
+    "id": "ANM-100-007",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "The snapping claw of the pistol shrimp creates a bubble-collapse so intense it briefly reaches a temperature close to what?",
+    "question_ar": "دبوس جمبري المسدس بيكوّن فقاعة بتنفجر بقوة توصل درجة حرارتها مؤقتًا لحاجة قريبة من إيه؟",
+    "options": [
+      {
+        "en": "Boiling water",
+        "ar": "مية بتغلي"
+      },
+      {
+        "en": "The surface of the sun",
+        "ar": "سطح الشمس"
+      },
+      {
+        "en": "A hot oven",
+        "ar": "فرن ساخن"
+      },
+      {
+        "en": "Human body temperature",
+        "ar": "حرارة جسم الإنسان"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The collapsing bubble from a pistol shrimp's snap can briefly reach temperatures close to the sun's surface.",
+    "explanation_ar": "الفقاعة اللي بتنفجر من ضربة جمبري المسدس ممكن توصل مؤقتًا لحرارة قريبة من سطح الشمس."
+  },
+  {
+    "id": "ANM-100-008",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Horseshoe crabs have blue blood because it is based on which element, and this blood is used in medical testing?",
+    "question_ar": "دم سرطان البحر حدوة الحصان لونه أزرق لأنه معتمد على إيه عنصر، وبيتستخدم في اختبارات طبية؟",
+    "options": [
+      {
+        "en": "Iron",
+        "ar": "الحديد"
+      },
+      {
+        "en": "Copper",
+        "ar": "النحاس"
+      },
+      {
+        "en": "Zinc",
+        "ar": "الزنك"
+      },
+      {
+        "en": "Silver",
+        "ar": "الفضة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Horseshoe crab blood uses copper-based hemocyanin, giving it a blue color, and is used to test for bacterial contamination.",
+    "explanation_ar": "دم سرطان البحر حدوة الحصان معتمد على مادة الهيموسيانين النحاسية اللي بتديه اللون الأزرق، وبيتستخدم للكشف عن تلوث بكتيري."
+  },
+  {
+    "id": "ANM-100-009",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Male platypuses are unusual among mammals for having what on their hind legs?",
+    "question_ar": "ذكر خلد الماء غريب بين الثدييات لأن عنده إيه في رجليه الخلفيتين؟",
+    "options": [
+      {
+        "en": "Extra toes",
+        "ar": "أصابع زيادة"
+      },
+      {
+        "en": "Venomous spurs",
+        "ar": "أشواك سامة"
+      },
+      {
+        "en": "Webbed claws only",
+        "ar": "مخالب مكفوفة بس"
+      },
+      {
+        "en": "A pouch",
+        "ar": "جراب"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Male platypuses have venomous spurs on their hind legs, one of the few venomous mammals known.",
+    "explanation_ar": "ذكر خلد الماء عنده أشواك سامة في رجليه الخلفيتين، وهو من أقل الثدييات المعروف إنها سامة."
+  },
+  {
+    "id": "ANM-100-010",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Electric eels can generate electric shocks of up to roughly how many volts?",
+    "question_ar": "السمكة الرعادة (الأنقليس الكهربائي) تقدر تولّد صدمات كهربائية توصل لحوالي كام فولت؟",
+    "options": [
+      {
+        "en": "60 volts",
+        "ar": "60 فولت"
+      },
+      {
+        "en": "150 volts",
+        "ar": "150 فولت"
+      },
+      {
+        "en": "600 volts",
+        "ar": "600 فولت"
+      },
+      {
+        "en": "6,000 volts",
+        "ar": "6000 فولت"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Electric eels can produce electric discharges of up to around 600 volts to stun prey or predators.",
+    "explanation_ar": "السمكة الرعادة تقدر تولّد صدمات كهربائية توصل لحوالي 600 فولت عشان تصعق فريستها أو المفترسين."
+  },
+  {
+    "id": "ANM-100-011",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which shark species is now believed, based on studies, to be one of the longest-living vertebrates, potentially living several centuries?",
+    "question_ar": "إيه نوع القرش اللي بقى العلما يعتقدوا إنه من أطول الفقاريات عمرًا، وممكن يعيش لعدة قرون؟",
+    "options": [
+      {
+        "en": "Whale shark",
+        "ar": "قرش الحوت"
+      },
+      {
+        "en": "Greenland shark",
+        "ar": "قرش جرينلاند"
+      },
+      {
+        "en": "Hammerhead shark",
+        "ar": "قرش المطرقة"
+      },
+      {
+        "en": "Tiger shark",
+        "ar": "قرش النمر"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Studies suggest Greenland sharks may live several hundred years, making them the longest-lived vertebrates known.",
+    "explanation_ar": "الدراسات بتقول إن قرش جرينلاند ممكن يعيش لعدة مئات من السنين، وده يخليه من أطول الفقاريات عمرًا معروفة.",
+    "verified_as_of": "2016-01"
+  },
+  {
+    "id": "ANM-100-012",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which of these is considered one of the smallest known species of shark, reaching only about 17-20 cm as an adult?",
+    "question_ar": "إيه من دول بيتعتبر من أصغر أنواع القروش المعروفة، وبيوصل بس لحوالي 17-20 سم وهو بالغ؟",
+    "options": [
+      {
+        "en": "Dwarf lanternshark",
+        "ar": "قرش الفانوس القزم"
+      },
+      {
+        "en": "Nurse shark",
+        "ar": "القرش الممرض"
+      },
+      {
+        "en": "Bull shark",
+        "ar": "قرش الثور"
+      },
+      {
+        "en": "Blacktip reef shark",
+        "ar": "قرش الشعاب أسود الطرف"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The dwarf lanternshark is one of the smallest known shark species, reaching only about 17-20 cm long.",
+    "explanation_ar": "قرش الفانوس القزم من أصغر أنواع القروش المعروفة، وبيوصل بس لحوالي 17-20 سم طول."
+  },
+  {
+    "id": "ANM-100-013",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Cuttlefish are notable for having pupils shaped like which letter?",
+    "question_ar": "سمكة الحبار غريبة لإن حدقة عينها شكلها زي إيه حرف؟",
+    "options": [
+      {
+        "en": "O",
+        "ar": "O"
+      },
+      {
+        "en": "W",
+        "ar": "W"
+      },
+      {
+        "en": "S",
+        "ar": "S"
+      },
+      {
+        "en": "X",
+        "ar": "X"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Cuttlefish have distinctive W-shaped pupils.",
+    "explanation_ar": "سمكة الحبار عندها حدقة عين شكلها مميز زي حرف W."
+  },
+  {
+    "id": "ANM-100-014",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which small octopus carries venom powerful enough to potentially kill several adult humans, with no known antivenom?",
+    "question_ar": "إيه الأخطبوط الصغير اللي سمّه قوي بما يكفي عشان يقتل كذا بني آدم بالغ، ومفيش له ترياق معروف؟",
+    "options": [
+      {
+        "en": "Common octopus",
+        "ar": "الأخطبوط العادي"
+      },
+      {
+        "en": "Blue-ringed octopus",
+        "ar": "الأخطبوط ذو الحلقات الزرقاء"
+      },
+      {
+        "en": "Giant Pacific octopus",
+        "ar": "أخطبوط المحيط الهادي العملاق"
+      },
+      {
+        "en": "Mimic octopus",
+        "ar": "الأخطبوط المقلد"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The blue-ringed octopus carries venom potent enough to be lethal to humans, with no known antivenom.",
+    "explanation_ar": "الأخطبوط ذو الحلقات الزرقاء سمّه قوي كفاية إنه يكون قاتل للبني آدمين، ومفيش له ترياق معروف."
+  },
+  {
+    "id": "ANM-100-015",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Some shark species have been documented to reproduce without a male, through a process called what?",
+    "question_ar": "بعض أنواع القروش اتوثق إنها بتتكاثر من غير ذكر، من خلال عملية اسمها إيه؟",
+    "options": [
+      {
+        "en": "Cloning",
+        "ar": "استنساخ"
+      },
+      {
+        "en": "Parthenogenesis",
+        "ar": "تكاثر عذري"
+      },
+      {
+        "en": "Budding",
+        "ar": "التبرعم"
+      },
+      {
+        "en": "Fragmentation",
+        "ar": "التجزؤ"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Parthenogenesis, or \"virgin birth,\" has been documented in captive female sharks reproducing without a mate.",
+    "explanation_ar": "التكاثر العذري، أو \"الولادة البتولية\"، اتوثق عند إناث قروش في الأسر بتتكاثر من غير شريك."
+  },
+  {
+    "id": "ANM-100-016",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "In honeypot ant colonies, some worker ants serve a special purpose by doing what?",
+    "question_ar": "في مستعمرات نمل العسل، بعض النملات العاملة بتقوم بدور خاص عن طريق عمل إيه؟",
+    "options": [
+      {
+        "en": "Guarding the queen only",
+        "ar": "حراسة الملكة بس"
+      },
+      {
+        "en": "Storing food in their swollen bodies to feed the colony",
+        "ar": "تخزين الأكل في جسمها المنتفخ عشان تغذي المستعمرة"
+      },
+      {
+        "en": "Building nests underwater",
+        "ar": "بناء أعشاش تحت المية"
+      },
+      {
+        "en": "Hunting alone far from the colony",
+        "ar": "الصيد لوحدها بعيد عن المستعمرة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Certain honeypot ant workers, called \"repletes,\" store food in their swollen abdomens to feed the colony later.",
+    "explanation_ar": "بعض نملات نمل العسل، اسمها \"repletes\"، بتخزن الأكل في بطنها المنتفخ عشان تغذي المستعمرة بعدين."
+  },
+  {
+    "id": "ANM-100-017",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Naked mole rats are unusual among mammals for living in colonies structured similarly to which insects?",
+    "question_ar": "الفار الأعرى غريب بين الثدييات لأنه بيعيش في مستعمرات متنظمة زي إيه حشرات؟",
+    "options": [
+      {
+        "en": "Bees or ants",
+        "ar": "النحل أو النمل"
+      },
+      {
+        "en": "Butterflies",
+        "ar": "الفراشات"
+      },
+      {
+        "en": "Beetles",
+        "ar": "الخنافس"
+      },
+      {
+        "en": "Dragonflies",
+        "ar": "اليعاسيب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Naked mole rats are one of the very few mammals that live in eusocial colonies, similar to bees or ants.",
+    "explanation_ar": "الفار الأعرى من أقل الثدييات اللي بتعيش في مستعمرات اجتماعية منظمة، زي النحل أو النمل."
+  },
+  {
+    "id": "ANM-100-018",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which mammal is one of the very few known to be venomous, delivering toxin from a gland near its elbow mixed with saliva?",
+    "question_ar": "إيه الثديي من أقل الثدييات المعروف إنه سام، وبيوصّل السم من غدة قريبة من كوعه مخلوطة باللعاب؟",
+    "options": [
+      {
+        "en": "Slow loris",
+        "ar": "اللوريس البطيء"
+      },
+      {
+        "en": "Hedgehog",
+        "ar": "القنفذ"
+      },
+      {
+        "en": "Shrew",
+        "ar": "الزبابة"
+      },
+      {
+        "en": "Platypus",
+        "ar": "خلد الماء"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The slow loris is one of the few venomous mammals, mixing gland secretions with saliva to deliver toxin.",
+    "explanation_ar": "اللوريس البطيء من أقل الثدييات السامة، بيخلط إفرازات غدته مع لعابه عشان يوصّل السم."
+  },
+  {
+    "id": "ANM-100-019",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "The star-nosed mole is notable for being able to identify and eat food faster than almost any other mammal — in as little as how long?",
+    "question_ar": "خلد النجمة الأنف مميز بقدرته إنه يتعرف على الأكل وياكله أسرع من أي ثديي تاني — في وقت يوصل لحد كام؟",
+    "options": [
+      {
+        "en": "About 1 second",
+        "ar": "حوالي ثانية"
+      },
+      {
+        "en": "About 120 milliseconds",
+        "ar": "حوالي 120 ملي ثانية"
+      },
+      {
+        "en": "About 5 seconds",
+        "ar": "حوالي 5 ثواني"
+      },
+      {
+        "en": "About half a minute",
+        "ar": "حوالي نص دقيقة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The star-nosed mole can identify and eat prey in as little as about 120 milliseconds, the fastest known among mammals.",
+    "explanation_ar": "خلد النجمة الأنف يقدر يتعرف على فريسته وياكلها في وقت يوصل لحوالي 120 ملي ثانية، وده أسرع معدل معروف بين الثدييات."
+  },
+  {
+    "id": "ANM-100-020",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Arctic ground squirrels are remarkable because during hibernation their body temperature can do what?",
+    "question_ar": "سناجب القطب الشمالي الأرضية مميزة لأن درجة حرارة جسمها أثناء السبات ممكن تعمل إيه؟",
+    "options": [
+      {
+        "en": "Rise above 40°C",
+        "ar": "ترتفع لفوق 40 درجة"
+      },
+      {
+        "en": "Drop below freezing (supercooling) without ice forming in the blood",
+        "ar": "تنزل تحت درجة التجمد من غير ما يتكون تلج في الدم"
+      },
+      {
+        "en": "Stay exactly at room temperature",
+        "ar": "تفضل بالظبط زي حرارة الغرفة"
+      },
+      {
+        "en": "Fluctuate every few minutes",
+        "ar": "تتغير كل كام دقيقة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Arctic ground squirrels can supercool their body below freezing during hibernation without ice forming in their blood.",
+    "explanation_ar": "سناجب القطب الشمالي الأرضية تقدر تبرّد جسمها تحت درجة التجمد أثناء السبات من غير ما يتكون تلج في دمها."
+  },
+  {
+    "id": "ANM-100-021",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "In some deep-sea anglerfish species, what unusual thing happens between the much smaller male and the female?",
+    "question_ar": "في بعض أنواع سمك الشيطان في أعماق البحار، إيه الحاجة الغريبة اللي بتحصل بين الذكر الأصغر بكتير والأنثى؟",
+    "options": [
+      {
+        "en": "The male permanently fuses to the female's body",
+        "ar": "الذكر بيندمج بشكل دائم في جسم الأنثى"
+      },
+      {
+        "en": "The male changes into a female",
+        "ar": "الذكر بيتحول لأنثى"
+      },
+      {
+        "en": "The male lives inside the female's mouth permanently",
+        "ar": "الذكر بيعيش جوه بق الأنثى بشكل دائم"
+      },
+      {
+        "en": "They never meet after mating",
+        "ar": "مابيتقابلوش تاني بعد التزاوج"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "In several deep-sea anglerfish species, the tiny male permanently fuses to the female, sharing her bloodstream.",
+    "explanation_ar": "في كذا نوع من سمك الشيطان في أعماق البحار، الذكر الصغير بيندمج بشكل دائم في جسم الأنثى وبيشارك دمها."
+  },
+  {
+    "id": "ANM-100-022",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Elephants can detect danger or communicate over long distances by sensing what through their feet?",
+    "question_ar": "الفيلة تقدر تحس بالخطر أو تتواصل لمسافات بعيدة عن طريق إحساسها بإيه من خلال رجليها؟",
+    "options": [
+      {
+        "en": "Changes in air temperature",
+        "ar": "تغيرات درجة حرارة الهوا"
+      },
+      {
+        "en": "Seismic vibrations (ground rumbles)",
+        "ar": "اهتزازات أرضية (رجّات في الأرض)"
+      },
+      {
+        "en": "Changes in soil color",
+        "ar": "تغيرات لون التربة"
+      },
+      {
+        "en": "Magnetic fields only",
+        "ar": "مجالات مغناطيسية بس"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Elephants can sense low-frequency seismic vibrations through their feet, picking up rumbles from kilometers away.",
+    "explanation_ar": "الفيلة تقدر تحس باهتزازات أرضية منخفضة التردد من خلال رجليها، وتلتقط رجّات من على بعد كيلومترات."
+  },
+  {
+    "id": "ANM-100-023",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "The aye-aye, a nocturnal lemur from Madagascar, uses its unusually long middle finger mainly to do what?",
+    "question_ar": "الآي-آي، وهو ليمور ليلي من مدغشقر، بيستخدم أصبعه الأوسط الطويل بشكل غير عادي أساسًا عشان يعمل إيه؟",
+    "options": [
+      {
+        "en": "Groom its fur",
+        "ar": "ينضف فروه"
+      },
+      {
+        "en": "Tap on wood to find and pull out grubs",
+        "ar": "يدق على الخشب عشان يلاقي ويسحب الديدان"
+      },
+      {
+        "en": "Dig burrows underground",
+        "ar": "يحفر جحور تحت الأرض"
+      },
+      {
+        "en": "Signal to other lemurs",
+        "ar": "يبعت إشارة لليموريات التانية"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The aye-aye taps on wood to locate hidden grubs, then uses its long finger to extract them.",
+    "explanation_ar": "الآي-آي بيدق على الخشب عشان يلاقي الديدان المخبية، وبعدين بيستخدم أصبعه الطويل عشان يسحبها."
+  },
+  {
+    "id": "ANM-100-024",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "African wild dogs (painted wolves) are notable among large predators for having one of the highest what?",
+    "question_ar": "كلاب الصيد الأفريقية البرية (الذئاب المرقطة) مميزة بين المفترسات الكبيرة بامتلاكها واحدة من أعلى إيه؟",
+    "options": [
+      {
+        "en": "Body weights",
+        "ar": "الأوزان"
+      },
+      {
+        "en": "Hunting success rates (around 80%)",
+        "ar": "نسب نجاح الصيد (حوالي 80%)"
+      },
+      {
+        "en": "Sleeping hours per day",
+        "ar": "ساعات النوم في اليوم"
+      },
+      {
+        "en": "Litter sizes among all mammals",
+        "ar": "أحجام المواليد بين كل الثدييات"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "African wild dogs have one of the highest hunting success rates of any large predator, around 80%, far above lions.",
+    "explanation_ar": "كلاب الصيد الأفريقية البرية عندها واحدة من أعلى نسب نجاح صيد بين المفترسات الكبيرة، حوالي 80%، أعلى بكتير من الأسود."
+  },
+  {
+    "id": "ANM-100-025",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Many birds, including pigeons, are believed to navigate over long distances using which special sense?",
+    "question_ar": "كتير من الطيور، ومنها الحمام، بيتصور إنها بتتنقل لمسافات بعيدة باستخدام إيه حاسة خاصة؟",
+    "options": [
+      {
+        "en": "Echolocation",
+        "ar": "تحديد الموقع بالصدى"
+      },
+      {
+        "en": "Magnetoreception (sensing Earth's magnetic field)",
+        "ar": "الإحساس بالمجال المغناطيسي للأرض"
+      },
+      {
+        "en": "Infrared vision",
+        "ar": "الرؤية بالأشعة تحت الحمرا"
+      },
+      {
+        "en": "Ultrasonic hearing only",
+        "ar": "السمع فوق الصوتي بس"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Pigeons and many other birds are thought to sense the Earth's magnetic field to help navigate long distances.",
+    "explanation_ar": "الحمام وكتير من الطيور التانية بيتصور إنها بتحس بالمجال المغناطيسي للأرض عشان تساعدها تتنقل لمسافات بعيدة."
+  },
+  {
+    "id": "ANM-100-026",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A desert beetle native to the Namib Desert in Africa is famous for surviving by collecting water how?",
+    "question_ar": "خنفسة صحراوية من صحرا ناميب في أفريقيا مشهورة إنها بتعيش عن طريق تجميع المية إزاي؟",
+    "options": [
+      {
+        "en": "Digging deep underground wells",
+        "ar": "بتحفر آبار عميقة تحت الأرض"
+      },
+      {
+        "en": "Condensing fog droplets on bumps on its back",
+        "ar": "بتكثف قطرات الضباب على نتوءات في ضهرها"
+      },
+      {
+        "en": "Drinking only from rare rainstorms",
+        "ar": "بتشرب بس من عواصف مطر نادرة"
+      },
+      {
+        "en": "Extracting water from sand grains",
+        "ar": "بتستخرج مية من حبات الرملة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "This beetle tilts its bumpy back into fog so water droplets condense and roll down into its mouth.",
+    "explanation_ar": "الخنفسة دي بتميل ضهرها المليان نتوءات في اتجاه الضباب عشان قطرات المية تتكثف وتنزل لبقها."
+  },
+  {
+    "id": "ANM-100-027",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "The Egyptian vulture is one of the few birds known to use tools, notably by doing what?",
+    "question_ar": "نسر مصر من أقل الطيور المعروفة إنها بتستخدم أدوات، وبالتحديد بتعمل إيه؟",
+    "options": [
+      {
+        "en": "Building nests from metal wire",
+        "ar": "بتبني عش من سلك معدني"
+      },
+      {
+        "en": "Throwing rocks at ostrich eggs to crack them open",
+        "ar": "بترمي حجارة على بيض النعام عشان تكسره"
+      },
+      {
+        "en": "Using leaves as umbrellas",
+        "ar": "بتستخدم ورق الشجر كمظلة"
+      },
+      {
+        "en": "Digging with sticks for insects",
+        "ar": "بتحفر بعصايات عشان تدور على حشرات"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Egyptian vulture is famous for using rocks as tools to crack open thick ostrich eggs.",
+    "explanation_ar": "نسر مصر مشهور باستخدام الحجارة كأداة عشان يكسر بيض النعام السميك."
+  },
+  {
+    "id": "ANM-100-028",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Hippopotamuses secrete a reddish substance sometimes called \"blood sweat\" that mainly acts as what?",
+    "question_ar": "فرس النهر بيفرز مادة حمرا بيتقالها أحيانًا \"عرق الدم\" ووظيفتها الأساسية إيه؟",
+    "options": [
+      {
+        "en": "A mating scent",
+        "ar": "رايحة للتزاوج"
+      },
+      {
+        "en": "A natural sunscreen and antiseptic",
+        "ar": "واقي شمس ومطهر طبيعي"
+      },
+      {
+        "en": "A cooling sweat like humans",
+        "ar": "عرق تبريد زي البني آدمين"
+      },
+      {
+        "en": "A camouflage dye",
+        "ar": "صبغة تمويه"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The reddish secretion hippos produce acts as a natural sunscreen and helps protect wounds from infection.",
+    "explanation_ar": "الإفراز الأحمر اللي بيطلعه فرس النهر بيشتغل كواقي شمس طبيعي وبيساعد يحمي الجروح من الالتهاب."
+  },
+  {
+    "id": "ANM-100-029",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Camels have blood cells shaped differently from most mammals, which helps them survive dehydration. What shape are they?",
+    "question_ar": "دم الجمل عنده خلايا شكلها مختلف عن أغلب الثدييات، وده بيساعده يقاوم الجفاف. إيه شكل الخلايا؟",
+    "options": [
+      {
+        "en": "Round",
+        "ar": "دائري"
+      },
+      {
+        "en": "Oval",
+        "ar": "بيضاوي"
+      },
+      {
+        "en": "Square",
+        "ar": "مربع"
+      },
+      {
+        "en": "Star-shaped",
+        "ar": "نجمي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Camel red blood cells are oval-shaped rather than round, letting them keep flowing even when the camel is very dehydrated.",
+    "explanation_ar": "خلايا دم الجمل الحمرا شكلها بيضاوي مش دائري، وده بيخليها تفضل سايلة حتى لما الجمل يكون عطشان جدًا."
+  },
+  {
+    "id": "ANM-100-030",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Sloths are known to leave their trees to defecate only about how often?",
+    "question_ar": "الكسلان معروف إنه بينزل من الشجرة عشان يقضي حاجته بس كل قد إيه؟",
+    "options": [
+      {
+        "en": "Every day",
+        "ar": "كل يوم"
+      },
+      {
+        "en": "Once a week",
+        "ar": "مرة في الأسبوع"
+      },
+      {
+        "en": "Once a month",
+        "ar": "مرة في الشهر"
+      },
+      {
+        "en": "Every few hours",
+        "ar": "كل كام ساعة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Sloths typically climb down to the ground to defecate only about once a week.",
+    "explanation_ar": "الكسلان عادةً بينزل الأرض عشان يقضي حاجته بس مرة في الأسبوع تقريبًا."
+  },
+  {
+    "id": "ANM-100-031",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "The bombardier beetle defends itself by doing what?",
+    "question_ar": "خنفسة القصف بتدافع عن نفسها إزاي؟",
+    "options": [
+      {
+        "en": "Spitting acid from its mouth",
+        "ar": "بترش حمض من بقها"
+      },
+      {
+        "en": "Spraying a boiling-hot chemical mixture from its abdomen",
+        "ar": "بترش خليط كيميائي مغلي من بطنها"
+      },
+      {
+        "en": "Releasing a cloud of ink",
+        "ar": "بتطلق سحابة حبر"
+      },
+      {
+        "en": "Producing a loud ultrasonic scream",
+        "ar": "بتصدر صرخة فوق صوتية عالية"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The bombardier beetle mixes chemicals in its body to spray a boiling-hot, irritating liquid at attackers.",
+    "explanation_ar": "خنفسة القصف بتخلط مواد كيميائية في جسمها عشان ترش سائل مغلي ومهيّج على اللي بيهاجمها."
+  },
+  {
+    "id": "ANM-100-032",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "The lyrebird, native to Australia, is famous for its extraordinary ability to do what?",
+    "question_ar": "طائر اللير، اللي أصله من أستراليا، مشهور بقدرته الاستثنائية على عمل إيه؟",
+    "options": [
+      {
+        "en": "Fly at extremely high altitudes",
+        "ar": "يطير على ارتفاعات عالية جدًا"
+      },
+      {
+        "en": "Mimic almost any sound it hears, including man-made noises",
+        "ar": "يقلد أي صوت بيسمعه تقريبًا، حتى الأصوات الصناعية"
+      },
+      {
+        "en": "Change the color of its feathers instantly",
+        "ar": "يغيّر لون ريشه فورًا"
+      },
+      {
+        "en": "Hold its breath for over an hour",
+        "ar": "يحبس نفسه لأكتر من ساعة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Lyrebirds can mimic an astonishing range of sounds, including chainsaws and camera shutters.",
+    "explanation_ar": "طيور اللير تقدر تقلد مجموعة مذهلة من الأصوات، حتى المنشار الكهربائي وصوت غالق الكاميرا."
+  },
+  {
+    "id": "ANM-100-033",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Certain ants infected by a specific fungus are manipulated to climb up and bite onto leaves before dying — what is this fungus commonly nicknamed?",
+    "question_ar": "بعض أنواع النمل اللي بتتصاب بفطر معين بيتحكم فيها فتطلع تعض على ورق الشجر قبل ما تموت — إيه اللقب الشائع لهذا الفطر؟",
+    "options": [
+      {
+        "en": "The \"sleeping\" fungus",
+        "ar": "فطر \"النوم\""
+      },
+      {
+        "en": "The \"zombie ant\" fungus",
+        "ar": "فطر \"النمل الزومبي\""
+      },
+      {
+        "en": "The \"golden\" fungus",
+        "ar": "الفطر \"الدهبي\""
+      },
+      {
+        "en": "The \"sweet tooth\" fungus",
+        "ar": "فطر \"حب الحلويات\""
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Ophiocordyceps fungus controls infected ants' behavior before killing them, earning it the nickname the \"zombie ant\" fungus.",
+    "explanation_ar": "فطر أوفيوكورديسيبس بيتحكم في سلوك النمل المصاب قبل ما يقتله، وده خلاه ياخد لقب فطر \"النمل الزومبي\"."
+  },
+  {
+    "id": "ANM-100-034",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A blue whale's tongue alone can weigh roughly as much as which of the following?",
+    "question_ar": "لسان الحوت الأزرق لوحده ممكن يوصل وزنه لحاجة قريبة من إيه من دول؟",
+    "options": [
+      {
+        "en": "A car tire",
+        "ar": "إطار عربية"
+      },
+      {
+        "en": "An elephant",
+        "ar": "فيل"
+      },
+      {
+        "en": "A large dog",
+        "ar": "كلب كبير"
+      },
+      {
+        "en": "A grown man",
+        "ar": "راجل بالغ"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "A blue whale's tongue can weigh as much as an elephant, reflecting the enormous scale of the animal.",
+    "explanation_ar": "لسان الحوت الأزرق ممكن يوصل وزنه لوزن فيل كامل، وده بيعكس ضخامة حجم الحيوان."
+  },
+  {
+    "id": "ANM-100-035",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Koalas are unusual because their fingerprints closely resemble those of which animal?",
+    "question_ar": "الكوالا غريبة لأن بصمات أصابعها شبه بصمات إيه حيوان؟",
+    "options": [
+      {
+        "en": "Humans",
+        "ar": "البني آدمين"
+      },
+      {
+        "en": "Chimpanzees",
+        "ar": "الشمبانزي"
+      },
+      {
+        "en": "Dogs",
+        "ar": "الكلاب"
+      },
+      {
+        "en": "Bears",
+        "ar": "الدببة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Koala fingerprints are so similar to human fingerprints that they can be difficult to tell apart at a crime scene.",
+    "explanation_ar": "بصمات الكوالا شبيهة جدًا ببصمات البني آدمين لدرجة إنها ممكن تتلخبط في مسرح الجريمة."
+  },
+  {
+    "id": "ANM-100-036",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "In seahorses, which sex is responsible for carrying the eggs and giving birth to the babies?",
+    "question_ar": "في حصان البحر، أنهي جنس هو المسؤول عن حمل البيض وولادة الصغار؟",
+    "options": [
+      {
+        "en": "The female",
+        "ar": "الأنثى"
+      },
+      {
+        "en": "The male",
+        "ar": "الذكر"
+      },
+      {
+        "en": "Both equally",
+        "ar": "الاتنين بنفس القدر"
+      },
+      {
+        "en": "Neither, they lay eggs in the sand",
+        "ar": "ولا حد، بيحطوا البيض في الرملة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Male seahorses have a pouch where they carry fertilized eggs and give birth to the young.",
+    "explanation_ar": "ذكر حصان البحر عنده جراب بيحمل فيه البيض المخصب وبيولّد الصغار منه."
+  },
+  {
+    "id": "ANM-100-037",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A narwhal's famous long \"tusk\" is actually what, in biological terms?",
+    "question_ar": "\"ناب\" الناروال الطويل المشهور هو في الحقيقة إيه بيولوجيًا؟",
+    "options": [
+      {
+        "en": "An elongated whisker",
+        "ar": "شعرة طويلة"
+      },
+      {
+        "en": "A modified fin",
+        "ar": "زعنفة متحورة"
+      },
+      {
+        "en": "An elongated tooth (canine) growing through the lip",
+        "ar": "سن طويل (ناب) نابت خلال الشفة"
+      },
+      {
+        "en": "A piece of hardened cartilage from the skull",
+        "ar": "قطعة غضروف متصلب من الجمجمة"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "A narwhal's \"tusk\" is actually an elongated canine tooth that grows straight through its upper lip.",
+    "explanation_ar": "\"ناب\" الناروال في الحقيقة سن ناب طويل بينمو مباشرة خلال شفته العليا."
+  },
+  {
+    "id": "ANM-100-038",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Crocodilians, including the Nile crocodile, are notable because their teeth do what throughout life?",
+    "question_ar": "التماسيح، بما فيها تمساح النيل، مميزة لأن أسنانها بتعمل إيه طول حياتها؟",
+    "options": [
+      {
+        "en": "They stop growing after birth",
+        "ar": "بتوقف عن النمو بعد الولادة"
+      },
+      {
+        "en": "They are continuously replaced, sometimes thousands of times",
+        "ar": "بيتم استبدالها باستمرار، أحيانًا آلاف المرات"
+      },
+      {
+        "en": "They turn a different color with age",
+        "ar": "بتغيّر لونها مع العمر"
+      },
+      {
+        "en": "They fall out permanently after adulthood",
+        "ar": "بتقع نهائيًا بعد سن البلوغ"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Crocodiles continuously replace their teeth throughout life, potentially going through thousands of teeth.",
+    "explanation_ar": "التماسيح بتستبدل أسنانها باستمرار طول حياتها، وممكن تستخدم آلاف الأسنان على مدار عمرها."
+  },
+  {
+    "id": "ANM-100-039",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which cat breed, believed to be native to Egypt, is often cited as the fastest domestic cat breed?",
+    "question_ar": "إيه سلالة القطط اللي يُعتقد إن أصلها من مصر، وغالبًا بيتقال عنها إنها أسرع سلالة قطط أليفة؟",
+    "options": [
+      {
+        "en": "Persian",
+        "ar": "الفارسي"
+      },
+      {
+        "en": "Egyptian Mau",
+        "ar": "الماو المصري"
+      },
+      {
+        "en": "Siamese",
+        "ar": "السيامي"
+      },
+      {
+        "en": "Sphynx",
+        "ar": "السفينكس"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Egyptian Mau is native to Egypt and often described as the fastest domestic cat breed.",
+    "explanation_ar": "الماو المصري أصله من مصر وغالبًا بيوصف بإنه أسرع سلالة قطط أليفة."
+  },
+  {
+    "id": "ANM-100-040",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which octopus species is known for impersonating the shape and movement of more than a dozen other sea animals to avoid predators?",
+    "question_ar": "إيه نوع الأخطبوط المعروف بتقليده لشكل وحركة أكتر من اتناشر حيوان بحري تاني عشان يتفادى المفترسين؟",
+    "options": [
+      {
+        "en": "Giant Pacific octopus",
+        "ar": "أخطبوط المحيط الهادي العملاق"
+      },
+      {
+        "en": "Common octopus",
+        "ar": "الأخطبوط العادي"
+      },
+      {
+        "en": "Mimic octopus",
+        "ar": "الأخطبوط المقلد"
+      },
+      {
+        "en": "Blue-ringed octopus",
+        "ar": "الأخطبوط ذو الحلقات الزرقاء"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The mimic octopus can impersonate the appearance and behavior of over a dozen different sea creatures.",
+    "explanation_ar": "الأخطبوط المقلد يقدر يقلد شكل وسلوك أكتر من اتناشر كائن بحري مختلف."
+  },
+  {
+    "id": "ANM-100-041",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "The Pompeii worm, which lives near deep-sea hydrothermal vents, is remarkable for tolerating what?",
+    "question_ar": "دودة بومباي، اللي بتعيش جنب فتحات حرارية عميقة في قاع البحر، مميزة لأنها بتتحمل إيه؟",
+    "options": [
+      {
+        "en": "Total darkness only",
+        "ar": "الظلام التام بس"
+      },
+      {
+        "en": "Extremely high temperatures",
+        "ar": "درجات حرارة عالية جدًا"
+      },
+      {
+        "en": "Freezing arctic water",
+        "ar": "مياه القطب المتجمدة"
+      },
+      {
+        "en": "Very high air pressure on land",
+        "ar": "ضغط هوا عالي جدًا على اليابسة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Pompeii worm can tolerate extremely high temperatures near hydrothermal vents, among the most heat-tolerant animals known.",
+    "explanation_ar": "دودة بومباي تقدر تتحمل درجات حرارة عالية جدًا جنب الفتحات الحرارية، وده يخليها من أكتر الحيوانات تحملًا للحرارة."
+  },
+  {
+    "id": "ANM-100-042",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Sea cucumbers have an unusual defense mechanism where they can do what to escape predators?",
+    "question_ar": "خيار البحر عنده وسيلة دفاع غريبة بيقدر يعملها عشان يهرب من المفترسين، وهي إيه؟",
+    "options": [
+      {
+        "en": "Expel some of their internal organs",
+        "ar": "بيطرد بعض أعضائه الداخلية"
+      },
+      {
+        "en": "Inflate to ten times their size",
+        "ar": "بينفخ نفسه لعشرة أضعاف حجمه"
+      },
+      {
+        "en": "Release an electric shock",
+        "ar": "بيطلق صدمة كهربائية"
+      },
+      {
+        "en": "Change into a hard shell instantly",
+        "ar": "بيتحول لقوقعة صلبة فورًا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Some sea cucumbers can expel part of their internal organs to confuse or deter predators, then regenerate them.",
+    "explanation_ar": "بعض أنواع خيار البحر تقدر تطرد جزء من أعضائها الداخلية عشان تلخبط أو تبعد المفترسين، وبعدين تنبتها تاني."
+  },
+  {
+    "id": "ANM-100-043",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "When a gecko regrows a lost tail, the new tail is different from the original mainly because it contains what instead of bone?",
+    "question_ar": "لما أبو بريص ينبت ديله المفقود تاني، الديل الجديد بيختلف عن الأصلي أساسًا لإنه فيه إيه بدل العضم؟",
+    "options": [
+      {
+        "en": "Cartilage",
+        "ar": "غضروف"
+      },
+      {
+        "en": "Muscle only, no support",
+        "ar": "عضلات بس من غير أي دعم"
+      },
+      {
+        "en": "Extra skin folds only",
+        "ar": "طبقات جلد زيادة بس"
+      },
+      {
+        "en": "Fat tissue only",
+        "ar": "نسيج دهني بس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A regrown gecko tail contains a rod of cartilage rather than the original bone structure.",
+    "explanation_ar": "الديل اللي بينبت تاني عند أبو بريص بيكون فيه قضيب من الغضروف بدل تركيب العضم الأصلي."
+  },
+  {
+    "id": "ANM-100-044",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Greenland sharks are frequently found with their eyesight partially or fully impaired because of what?",
+    "question_ar": "قروش جرينلاند بيتلاقوا كتير وبصرهم متأثر جزئيًا أو كليًا بسبب إيه؟",
+    "options": [
+      {
+        "en": "A genetic defect present at birth",
+        "ar": "عيب جيني موجود من الولادة"
+      },
+      {
+        "en": "A parasite that attaches to their eyes",
+        "ar": "طفيل بيلتصق بعينهم"
+      },
+      {
+        "en": "Constant exposure to sunlight",
+        "ar": "التعرض المستمر للشمس"
+      },
+      {
+        "en": "Old age causing natural blindness only",
+        "ar": "تقدم السن اللي بيسبب عمى طبيعي بس"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Many Greenland sharks carry a parasitic copepod attached to their eyes, often leaving them partially blind.",
+    "explanation_ar": "كتير من قروش جرينلاند بيكون عندهم طفيل صغير ملتصق بعينهم، وده بيسيبهم عميان جزئيًا في الغالب."
+  },
+  {
+    "id": "ANM-100-045",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Wombats are known for producing droppings (feces) with an unusual shape. What shape is it?",
+    "question_ar": "الومبات معروف بإنتاج فضلات شكلها غريب. إيه الشكل ده؟",
+    "options": [
+      {
+        "en": "Perfectly round",
+        "ar": "دائري تمامًا"
+      },
+      {
+        "en": "Cube-shaped",
+        "ar": "مكعب"
+      },
+      {
+        "en": "Star-shaped",
+        "ar": "نجمي"
+      },
+      {
+        "en": "Flat and thin",
+        "ar": "مسطح ورفيع"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Wombats produce distinctly cube-shaped droppings, a result of the unique structure of their intestines.",
+    "explanation_ar": "الومبات بينتج فضلات شكلها مكعب بشكل واضح، وده نتيجة تركيب مميز في أمعائه."
+  },
+  {
+    "id": "ANM-100-046",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "The giant Pacific octopus is considered one of the most intelligent invertebrates because it can be observed doing what in captivity?",
+    "question_ar": "أخطبوط المحيط الهادي العملاق بيتعتبر من أذكى اللافقاريات لإنه بيتلاحظ في الأسر وهو بيعمل إيه؟",
+    "options": [
+      {
+        "en": "Sleeping for months without moving",
+        "ar": "بينام شهور من غير ما يتحرك"
+      },
+      {
+        "en": "Solving mazes and opening jars to get food",
+        "ar": "بيحل المتاهات ويفتح البرطمانات عشان ياخد الأكل"
+      },
+      {
+        "en": "Building complex coral reefs",
+        "ar": "بيبني شعاب مرجانية معقدة"
+      },
+      {
+        "en": "Singing to attract mates",
+        "ar": "بيغني عشان يجذب شريك"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Giant Pacific octopuses have been observed solving mazes and unscrewing jar lids to reach food, showing strong problem-solving skills.",
+    "explanation_ar": "أخطبوط المحيط الهادي العملاق اتلاحظ وهو بيحل متاهات وبيفتح براطم عشان يوصل للأكل، وده بيدل على قدرة قوية في حل المشاكل."
+  },
+  {
+    "id": "ANM-100-047",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Poison dart frogs raised in captivity on a controlled diet typically become what?",
+    "question_ar": "ضفادع سهم السم لما بتترّبى في الأسر على أكل مضبوط، بتبقى إيه غالبًا؟",
+    "options": [
+      {
+        "en": "Even more toxic",
+        "ar": "أكتر سمّية"
+      },
+      {
+        "en": "Non-toxic or far less toxic",
+        "ar": "غير سامة أو أقل سمّية بكتير"
+      },
+      {
+        "en": "Larger in size only",
+        "ar": "أكبر في الحجم بس"
+      },
+      {
+        "en": "Unable to reproduce",
+        "ar": "مش قادرة تتكاثر"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Poison dart frogs get their toxins from specific insects in the wild; in captivity with a different diet, they lose most of their toxicity.",
+    "explanation_ar": "ضفادع سهم السم بتاخد سمّها من حشرات معينة في البرية؛ وفي الأسر لما بتاكل أكل مختلف، بتفقد أغلب سمّيتها."
+  },
+  {
+    "id": "ANM-100-048",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A chameleon's tongue can extend to more than how many times its own body length to catch prey?",
+    "question_ar": "لسان الحرباية يقدر يمتد لأكتر من كام ضعف طول جسمها عشان تمسك فريستها؟",
+    "options": [
+      {
+        "en": "0.5 times",
+        "ar": "نص الطول"
+      },
+      {
+        "en": "1.5 times",
+        "ar": "1.5 ضعف"
+      },
+      {
+        "en": "5 times",
+        "ar": "5 أضعاف"
+      },
+      {
+        "en": "10 times",
+        "ar": "10 أضعاف"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "A chameleon's tongue can shoot out to more than 1.5 times its body length at extremely high speed.",
+    "explanation_ar": "لسان الحرباية يقدر يندفع لأكتر من 1.5 ضعف طول جسمها بسرعة عالية جدًا."
+  },
+  {
+    "id": "ANM-100-049",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "A Seychelles giant tortoise named Jonathan is widely cited as the oldest known living land animal, estimated to be over how old?",
+    "question_ar": "سلحفاة عملاقة من سيشل اسمها جوناثان بيتقال عنها إنها أقدم حيوان بري حي معروف، ومقدّر عمرها بأكتر من قد إيه؟",
+    "options": [
+      {
+        "en": "90 years old",
+        "ar": "90 سنة"
+      },
+      {
+        "en": "140 years old",
+        "ar": "140 سنة"
+      },
+      {
+        "en": "190 years old",
+        "ar": "190 سنة"
+      },
+      {
+        "en": "250 years old",
+        "ar": "250 سنة"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Jonathan the tortoise is estimated to be over 190 years old, making him the oldest known living land animal.",
+    "explanation_ar": "السلحفاة جوناثان مقدّر عمرها بأكتر من 190 سنة، وده يخليها أقدم حيوان بري حي معروف.",
+    "verified_as_of": "2025-01"
+  },
+  {
+    "id": "ANM-100-050",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Some freshwater turtles survive long winters underwater partly by breathing through which body part?",
+    "question_ar": "بعض السلاحف المائية العذبة بتعيش شتاوي طويلة تحت المية جزئيًا عن طريق التنفس من إيه جزء في جسمها؟",
+    "options": [
+      {
+        "en": "Their skin only",
+        "ar": "جلدها بس"
+      },
+      {
+        "en": "Their cloaca (rear vent)",
+        "ar": "فتحتها الخلفية (المجمع)"
+      },
+      {
+        "en": "Their eyes",
+        "ar": "عينيها"
+      },
+      {
+        "en": "Their tail",
+        "ar": "ديلها"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Some turtles can absorb oxygen from water through their cloaca, helping them survive long periods underwater in winter.",
+    "explanation_ar": "بعض السلاحف تقدر تمتص أكسجين من المية من خلال فتحتها الخلفية، وده بيساعدها تعيش فترات طويلة تحت المية في الشتا."
+  }
+]

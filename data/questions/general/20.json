@@ -1,52 +1,1502 @@
 [
-  {"id":"GEN-020-001","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Who co-founded Microsoft?","question_ar":"مين اللي أسس شركة مايكروسوفت؟","options":[{"en":"Bill Gates","ar":"بيل جيتس"},{"en":"Steve Jobs","ar":"ستيف جوبز"},{"en":"Mark Zuckerberg","ar":"مارك زوكربيرج"},{"en":"Jeff Bezos","ar":"جيف بيزوس"}],"correctAnswer":0,"explanation_en":"Bill Gates co-founded Microsoft.","explanation_ar":"بيل جيتس هو اللي أسس شركة مايكروسوفت."},
-  {"id":"GEN-020-002","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"In which city is the Eiffel Tower located?","question_ar":"برج إيفل موجود في إيه المدينة؟","options":[{"en":"Paris","ar":"باريس"},{"en":"Rome","ar":"روما"},{"en":"London","ar":"لندن"},{"en":"Madrid","ar":"مدريد"}],"correctAnswer":0,"explanation_en":"The Eiffel Tower is located in Paris.","explanation_ar":"برج إيفل موجود في باريس."},
-  {"id":"GEN-020-003","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"In which city is the Statue of Liberty located?","question_ar":"تمثال الحرية موجود في إيه المدينة؟","options":[{"en":"New York","ar":"نيويورك"},{"en":"Boston","ar":"بوسطن"},{"en":"Washington, D.C.","ar":"واشنطن"},{"en":"Miami","ar":"ميامي"}],"correctAnswer":0,"explanation_en":"The Statue of Liberty is in New York.","explanation_ar":"تمثال الحرية موجود في نيويورك."},
-  {"id":"GEN-020-004","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"In which city is the Burj Khalifa, the world's tallest building, located?","question_ar":"برج خليفة، أطول مبنى في العالم، موجود في إيه المدينة؟","options":[{"en":"Dubai","ar":"دبي"},{"en":"Abu Dhabi","ar":"أبو ظبي"},{"en":"Doha","ar":"الدوحة"},{"en":"Riyadh","ar":"الرياض"}],"correctAnswer":0,"explanation_en":"The Burj Khalifa is located in Dubai.","explanation_ar":"برج خليفة موجود في دبي."},
-  {"id":"GEN-020-005","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Who founded Amazon?","question_ar":"مين اللي أسس شركة أمازون؟","options":[{"en":"Jeff Bezos","ar":"جيف بيزوس"},{"en":"Elon Musk","ar":"إيلون ماسك"},{"en":"Bill Gates","ar":"بيل جيتس"},{"en":"Larry Page","ar":"لاري بيدج"}],"correctAnswer":0,"explanation_en":"Jeff Bezos founded Amazon.","explanation_ar":"جيف بيزوس هو اللي أسس أمازون."},
-  {"id":"GEN-020-006","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What is the world's largest social media platform by users called?","question_ar":"إيه أكبر منصة سوشيال ميديا في العالم من حيث عدد المستخدمين؟","options":[{"en":"Facebook","ar":"فيسبوك"},{"en":"Snapchat","ar":"سناب شات"},{"en":"Pinterest","ar":"بينتريست"},{"en":"LinkedIn","ar":"لينكدإن"}],"correctAnswer":0,"explanation_en":"Facebook is the world's largest social media platform by users.","explanation_ar":"فيسبوك أكبر منصة سوشيال ميديا من حيث عدد المستخدمين."},
-  {"id":"GEN-020-007","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"How many rings are on the Olympic flag?","question_ar":"علم الأولمبياد فيه كام حلقة؟","options":[{"en":"5","ar":"5"},{"en":"4","ar":"4"},{"en":"6","ar":"6"},{"en":"7","ar":"7"}],"correctAnswer":0,"explanation_en":"The Olympic flag has 5 rings.","explanation_ar":"علم الأولمبياد فيه 5 حلقات."},
-  {"id":"GEN-020-008","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"The NBA basketball league is based in which country?","question_ar":"دوري NBA لكرة السلة موجود في إيه الدولة؟","options":[{"en":"USA","ar":"أمريكا"},{"en":"Canada","ar":"كندا"},{"en":"Spain","ar":"إسبانيا"},{"en":"UK","ar":"بريطانيا"}],"correctAnswer":0,"explanation_en":"The NBA is the USA's professional basketball league.","explanation_ar":"دوري NBA هو دوري كرة السلة المحترف في أمريكا."},
-  {"id":"GEN-020-009","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which sport is the Wimbledon tournament associated with?","question_ar":"بطولة ويمبلدون خاصة بإيه رياضة؟","options":[{"en":"Tennis","ar":"التنس"},{"en":"Golf","ar":"الجولف"},{"en":"Badminton","ar":"الريشة الطائرة"},{"en":"Table tennis","ar":"تنس الطاولة"}],"correctAnswer":0,"explanation_en":"Wimbledon is a famous tennis tournament.","explanation_ar":"ويمبلدون بطولة تنس مشهورة."},
-  {"id":"GEN-020-010","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What is the tallest mountain in the world?","question_ar":"إيه أطول جبل في العالم؟","options":[{"en":"Mount Everest","ar":"إيفرست"},{"en":"K2","ar":"كي 2"},{"en":"Kilimanjaro","ar":"كليمنجارو"},{"en":"Mont Blanc","ar":"مونت بلانك"}],"correctAnswer":0,"explanation_en":"Mount Everest is the tallest mountain in the world.","explanation_ar":"إيفرست هو أطول جبل في العالم."},
-  {"id":"GEN-020-011","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What is the longest river in the world?","question_ar":"إيه أطول نهر في العالم؟","options":[{"en":"The Nile","ar":"نهر النيل"},{"en":"The Amazon","ar":"نهر الأمازون"},{"en":"The Mississippi","ar":"نهر المسيسيبي"},{"en":"The Yangtze","ar":"نهر اليانجتسي"}],"correctAnswer":0,"explanation_en":"The Nile is considered the longest river in the world.","explanation_ar":"نهر النيل بيعتبر أطول نهر في العالم."},
-  {"id":"GEN-020-012","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which company's logo is a bitten apple?","question_ar":"إيه الشركة اللي شعارها تفاحة مقضومة؟","options":[{"en":"Apple","ar":"آبل"},{"en":"Samsung","ar":"سامسونج"},{"en":"Huawei","ar":"هواوي"},{"en":"Xiaomi","ar":"شاومي"}],"correctAnswer":0,"explanation_en":"Apple's logo is a bitten apple.","explanation_ar":"شعار آبل تفاحة مقضومة."},
-  {"id":"GEN-020-013","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Snapchat's app icon is what kind of character?","question_ar":"أيقونة تطبيق سناب شات شكلها إيه؟","options":[{"en":"A ghost","ar":"شبح"},{"en":"A cat","ar":"قطة"},{"en":"A bird","ar":"عصفور"},{"en":"A star","ar":"نجمة"}],"correctAnswer":0,"explanation_en":"Snapchat's icon is a white ghost.","explanation_ar":"أيقونة سناب شات شبح أبيض."},
-  {"id":"GEN-020-014","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What is the name of Egypt's grand new museum near the Giza pyramids?","question_ar":"إيه اسم المتحف الكبير الجديد جمب أهرامات الجيزة؟","options":[{"en":"The Grand Egyptian Museum","ar":"المتحف المصري الكبير"},{"en":"The Louvre","ar":"متحف اللوفر"},{"en":"The British Museum","ar":"المتحف البريطاني"},{"en":"The Vatican Museum","ar":"متحف الفاتيكان"}],"correctAnswer":0,"explanation_en":"The Grand Egyptian Museum is the new museum near the Giza pyramids.","explanation_ar":"المتحف المصري الكبير هو المتحف الجديد جمب أهرامات الجيزة."},
-  {"id":"GEN-020-015","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Alexandria was historically famous for which ancient library?","question_ar":"الإسكندرية كانت مشهورة تاريخيًا بإيه مكتبة قديمة؟","options":[{"en":"The Library of Alexandria","ar":"مكتبة الإسكندرية"},{"en":"The Library of Congress","ar":"مكتبة الكونجرس"},{"en":"The Vatican Library","ar":"مكتبة الفاتيكان"},{"en":"The Bodleian Library","ar":"مكتبة بودليان"}],"correctAnswer":0,"explanation_en":"Ancient Alexandria was home to the famous Library of Alexandria.","explanation_ar":"الإسكندرية القديمة كان فيها مكتبة الإسكندرية الشهيرة."},
-  {"id":"GEN-020-016","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What is the name of the canal that connects the Mediterranean and Red Seas in Egypt?","question_ar":"إيه اسم القناة اللي بتوصل البحر الأبيض بالبحر الأحمر في مصر؟","options":[{"en":"The Suez Canal","ar":"قناة السويس"},{"en":"The Panama Canal","ar":"قناة بنما"},{"en":"The Corinth Canal","ar":"قناة كورنث"},{"en":"The Kiel Canal","ar":"قناة كيل"}],"correctAnswer":0,"explanation_en":"The Suez Canal connects the Mediterranean and Red Seas.","explanation_ar":"قناة السويس بتوصل البحر الأبيض بالبحر الأحمر."},
-  {"id":"GEN-020-017","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Hollywood, the center of the American film industry, is in which US state?","question_ar":"هوليوود، مركز صناعة السينما الأمريكية، موجودة في إيه ولاية؟","options":[{"en":"California","ar":"كاليفورنيا"},{"en":"New York","ar":"نيويورك"},{"en":"Texas","ar":"تكساس"},{"en":"Florida","ar":"فلوريدا"}],"correctAnswer":0,"explanation_en":"Hollywood is located in California.","explanation_ar":"هوليوود موجودة في ولاية كاليفورنيا."},
-  {"id":"GEN-020-018","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What kind of service is Netflix mainly known for?","question_ar":"نتفليكس معروفة أساسًا بإيه نوع خدمة؟","options":[{"en":"Video streaming","ar":"بث فيديو"},{"en":"Music streaming","ar":"بث موسيقى"},{"en":"Online shopping","ar":"تسوق أونلاين"},{"en":"Ride hailing","ar":"طلب مشاوير"}],"correctAnswer":0,"explanation_en":"Netflix is a video streaming service.","explanation_ar":"نتفليكس خدمة بث فيديو."},
-  {"id":"GEN-020-019","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which language has the most native speakers in the world?","question_ar":"إيه اللغة اللي ليها أكبر عدد متحدثين أصليين في العالم؟","options":[{"en":"Mandarin Chinese","ar":"الصيني الماندرين"},{"en":"English","ar":"الإنجليزي"},{"en":"Spanish","ar":"الإسباني"},{"en":"Hindi","ar":"الهندي"}],"correctAnswer":0,"explanation_en":"Mandarin Chinese has the most native speakers worldwide.","explanation_ar":"الصيني الماندرين له أكبر عدد متحدثين أصليين في العالم."},
-  {"id":"GEN-020-020","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What currency does the United Kingdom use?","question_ar":"بريطانيا بتستخدم إيه عملة؟","options":[{"en":"Pound sterling","ar":"الجنيه الإسترليني"},{"en":"Euro","ar":"اليورو"},{"en":"Dollar","ar":"الدولار"},{"en":"Franc","ar":"الفرنك"}],"correctAnswer":0,"explanation_en":"The UK uses the pound sterling.","explanation_ar":"بريطانيا بتستخدم الجنيه الإسترليني."},
-  {"id":"GEN-020-021","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What currency does Japan use?","question_ar":"اليابان بتستخدم إيه عملة؟","options":[{"en":"Yen","ar":"الين"},{"en":"Won","ar":"الوون"},{"en":"Yuan","ar":"اليوان"},{"en":"Ringgit","ar":"الرينجيت"}],"correctAnswer":0,"explanation_en":"Japan's currency is the yen.","explanation_ar":"اليابان بتستخدم الين."},
-  {"id":"GEN-020-022","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which country is widely credited with inventing pizza in its modern form?","question_ar":"إيه الدولة المعروفة بإنها اخترعت البيتزا بشكلها الحديث؟","options":[{"en":"Italy","ar":"إيطاليا"},{"en":"Greece","ar":"اليونان"},{"en":"Spain","ar":"إسبانيا"},{"en":"France","ar":"فرنسا"}],"correctAnswer":0,"explanation_en":"Modern pizza originated in Italy.","explanation_ar":"البيتزا بشكلها الحديث أصلها من إيطاليا."},
-  {"id":"GEN-020-023","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What is the name of Google's parent company?","question_ar":"إيه اسم الشركة الأم لجوجل؟","options":[{"en":"Alphabet","ar":"ألفابيت"},{"en":"Meta","ar":"ميتا"},{"en":"Amazon","ar":"أمازون"},{"en":"Oracle","ar":"أوراكل"}],"correctAnswer":0,"explanation_en":"Alphabet is the parent company of Google.","explanation_ar":"ألفابيت هي الشركة الأم لجوجل."},
-  {"id":"GEN-020-024","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What is the capital of Saudi Arabia?","question_ar":"إيه عاصمة السعودية؟","options":[{"en":"Riyadh","ar":"الرياض"},{"en":"Jeddah","ar":"جدة"},{"en":"Mecca","ar":"مكة"},{"en":"Dammam","ar":"الدمام"}],"correctAnswer":0,"explanation_en":"Riyadh is the capital of Saudi Arabia.","explanation_ar":"الرياض هي عاصمة السعودية."},
-  {"id":"GEN-020-025","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What is the capital of the UAE?","question_ar":"إيه عاصمة الإمارات؟","options":[{"en":"Abu Dhabi","ar":"أبو ظبي"},{"en":"Dubai","ar":"دبي"},{"en":"Sharjah","ar":"الشارقة"},{"en":"Ajman","ar":"عجمان"}],"correctAnswer":0,"explanation_en":"Abu Dhabi is the capital of the UAE.","explanation_ar":"أبو ظبي هي عاصمة الإمارات."},
-  {"id":"GEN-020-026","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which desert covers most of Egypt's land area?","question_ar":"إيه الصحرا اللي بتغطي معظم مساحة مصر؟","options":[{"en":"The Sahara","ar":"الصحرا الكبرى"},{"en":"The Gobi Desert","ar":"صحرا جوبي"},{"en":"The Kalahari","ar":"صحرا كالاهاري"},{"en":"The Atacama","ar":"صحرا أتاكاما"}],"correctAnswer":0,"explanation_en":"The Sahara covers most of Egypt's land area.","explanation_ar":"الصحرا الكبرى بتغطي معظم مساحة مصر."},
-  {"id":"GEN-020-027","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"The Great Wall is one of the most famous landmarks of which country?","question_ar":"السور العظيم من أشهر معالم إيه دولة؟","options":[{"en":"China","ar":"الصين"},{"en":"Japan","ar":"اليابان"},{"en":"Mongolia","ar":"منغوليا"},{"en":"South Korea","ar":"كوريا الجنوبية"}],"correctAnswer":0,"explanation_en":"The Great Wall is one of China's most famous landmarks.","explanation_ar":"السور العظيم من أشهر معالم الصين."},
-  {"id":"GEN-020-028","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What is the currency shared by most European Union countries?","question_ar":"إيه العملة المشتركة بين معظم دول الاتحاد الأوروبي؟","options":[{"en":"Euro","ar":"اليورو"},{"en":"Pound","ar":"الجنيه"},{"en":"Franc","ar":"الفرنك"},{"en":"Mark","ar":"المارك"}],"correctAnswer":0,"explanation_en":"The Euro is used by most EU countries.","explanation_ar":"اليورو هي العملة المستخدمة في معظم دول الاتحاد الأوروبي."},
-  {"id":"GEN-020-029","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which sport uses a shuttlecock?","question_ar":"إيه الرياضة اللي بتستخدم فيها الريشة؟","options":[{"en":"Badminton","ar":"الريشة الطائرة"},{"en":"Tennis","ar":"التنس"},{"en":"Squash","ar":"الاسكواش"},{"en":"Table tennis","ar":"تنس الطاولة"}],"correctAnswer":0,"explanation_en":"Badminton is played with a shuttlecock.","explanation_ar":"الريشة الطائرة بتتلعب بريشة."},
-  {"id":"GEN-020-030","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which scientist is famous for the theory of relativity?","question_ar":"إيه العالم المشهور بنظرية النسبية؟","options":[{"en":"Albert Einstein","ar":"ألبرت أينشتاين"},{"en":"Isaac Newton","ar":"إسحق نيوتن"},{"en":"Nikola Tesla","ar":"نيكولا تسلا"},{"en":"Galileo Galilei","ar":"جاليليو جاليلي"}],"correctAnswer":0,"explanation_en":"Albert Einstein developed the theory of relativity.","explanation_ar":"ألبرت أينشتاين هو صاحب نظرية النسبية."},
-  {"id":"GEN-020-031","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What was the era of Egypt's ancient rulers who built the pyramids called?","question_ar":"إيه اسم عصر حكام مصر القدماء اللي بنوا الأهرامات؟","options":[{"en":"The Pharaonic era","ar":"العصر الفرعوني"},{"en":"The Ottoman era","ar":"العصر العثماني"},{"en":"The Colonial era","ar":"العصر الاستعماري"},{"en":"The Roman era","ar":"العصر الروماني"}],"correctAnswer":0,"explanation_en":"The pyramids were built during the Pharaonic era.","explanation_ar":"الأهرامات اتبنت في العصر الفرعوني."},
-  {"id":"GEN-020-032","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What is the name of the Chinese short-video and social media app owned by ByteDance?","question_ar":"إيه اسم تطبيق الفيديوهات القصيرة الصيني المملوك لشركة بايت دانس؟","options":[{"en":"TikTok","ar":"تيك توك"},{"en":"Instagram","ar":"إنستجرام"},{"en":"Snapchat","ar":"سناب شات"},{"en":"Twitter","ar":"تويتر"}],"correctAnswer":0,"explanation_en":"TikTok is owned by the Chinese company ByteDance.","explanation_ar":"تيك توك مملوك للشركة الصينية بايت دانس."},
-  {"id":"GEN-020-033","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which planet is known as the Red Planet?","question_ar":"إيه الكوكب المعروف باسم الكوكب الأحمر؟","options":[{"en":"Mars","ar":"المريخ"},{"en":"Venus","ar":"الزهرة"},{"en":"Mercury","ar":"عطارد"},{"en":"Saturn","ar":"زحل"}],"correctAnswer":0,"explanation_en":"Mars is known as the Red Planet.","explanation_ar":"المريخ معروف باسم الكوكب الأحمر."},
-  {"id":"GEN-020-034","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"At what temperature does water boil in degrees Celsius?","question_ar":"المية بتغلي عند كام درجة مئوية؟","options":[{"en":"100","ar":"100"},{"en":"90","ar":"90"},{"en":"120","ar":"120"},{"en":"80","ar":"80"}],"correctAnswer":0,"explanation_en":"Water boils at 100 degrees Celsius.","explanation_ar":"المية بتغلي عند 100 درجة مئوية."},
-  {"id":"GEN-020-035","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"How many bones does an adult human body typically have?","question_ar":"جسم الإنسان البالغ فيه كام عظمة عادة؟","options":[{"en":"206","ar":"206"},{"en":"180","ar":"180"},{"en":"250","ar":"250"},{"en":"300","ar":"300"}],"correctAnswer":0,"explanation_en":"An adult human body has 206 bones.","explanation_ar":"جسم الإنسان البالغ فيه 206 عظمة."},
-  {"id":"GEN-020-036","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which vitamin does the body mainly produce from sunlight exposure?","question_ar":"إيه الفيتامين اللي الجسم بينتجه أساسًا من التعرض للشمس؟","options":[{"en":"Vitamin D","ar":"فيتامين D"},{"en":"Vitamin C","ar":"فيتامين C"},{"en":"Vitamin A","ar":"فيتامين A"},{"en":"Vitamin B12","ar":"فيتامين B12"}],"correctAnswer":0,"explanation_en":"The body produces vitamin D from sunlight.","explanation_ar":"الجسم بينتج فيتامين D من التعرض للشمس."},
-  {"id":"GEN-020-037","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which is the largest country in the world by area?","question_ar":"إيه أكبر دولة في العالم من حيث المساحة؟","options":[{"en":"Russia","ar":"روسيا"},{"en":"Canada","ar":"كندا"},{"en":"China","ar":"الصين"},{"en":"USA","ar":"أمريكا"}],"correctAnswer":0,"explanation_en":"Russia is the largest country in the world by area.","explanation_ar":"روسيا أكبر دولة في العالم من حيث المساحة."},
-  {"id":"GEN-020-038","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Alexandria is often nicknamed the 'Bride of the...' what?","question_ar":"الإسكندرية بيتقال عليها عروسة إيه؟","options":[{"en":"The Mediterranean","ar":"البحر الأبيض المتوسط"},{"en":"The Nile","ar":"النيل"},{"en":"The Red Sea","ar":"البحر الأحمر"},{"en":"The Desert","ar":"الصحرا"}],"correctAnswer":0,"explanation_en":"Alexandria is nicknamed the 'Bride of the Mediterranean.'","explanation_ar":"الإسكندرية بيتقال عليها عروسة البحر الأبيض المتوسط."},
-  {"id":"GEN-020-039","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What device did Alexander Graham Bell invent?","question_ar":"إيه الجهاز اللي اخترعه ألكسندر جراهام بيل؟","options":[{"en":"The telephone","ar":"التليفون"},{"en":"The lightbulb","ar":"اللمبة"},{"en":"The radio","ar":"الراديو"},{"en":"The television","ar":"التليفزيون"}],"correctAnswer":0,"explanation_en":"Alexander Graham Bell invented the telephone.","explanation_ar":"ألكسندر جراهام بيل اخترع التليفون."},
-  {"id":"GEN-020-040","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which brand's logo is a swoosh (checkmark-like tick)?","question_ar":"إيه البراند اللي شعاره علامة السوش (زي علامة صح)؟","options":[{"en":"Nike","ar":"نايكي"},{"en":"Adidas","ar":"أديداس"},{"en":"Puma","ar":"بوما"},{"en":"Reebok","ar":"ريبوك"}],"correctAnswer":0,"explanation_en":"Nike's logo is the swoosh.","explanation_ar":"شعار نايكي هو السوش."},
-  {"id":"GEN-020-041","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which brand's logo has three stripes?","question_ar":"إيه البراند اللي شعاره ثلاث خطوط؟","options":[{"en":"Adidas","ar":"أديداس"},{"en":"Nike","ar":"نايكي"},{"en":"Under Armour","ar":"أندر أرمور"},{"en":"Fila","ar":"فيلا"}],"correctAnswer":0,"explanation_en":"Adidas' logo features three stripes.","explanation_ar":"شعار أديداس فيه ثلاث خطوط."},
-  {"id":"GEN-020-042","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What is the capital of Turkey (not its largest city)?","question_ar":"إيه عاصمة تركيا (مش أكبر مدينة فيها)؟","options":[{"en":"Ankara","ar":"أنقرة"},{"en":"Istanbul","ar":"إسطنبول"},{"en":"Izmir","ar":"إزمير"},{"en":"Bursa","ar":"بورصة"}],"correctAnswer":0,"explanation_en":"Ankara is the capital of Turkey, while Istanbul is its largest city.","explanation_ar":"أنقرة هي عاصمة تركيا، أما إسطنبول فهي أكبر مدنها."},
-  {"id":"GEN-020-043","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"In tennis, what score name is used instead of 'zero'?","question_ar":"في التنس بيتقال إيه بدل كلمة صفر؟","options":[{"en":"Love","ar":"لَف (Love)"},{"en":"Deuce","ar":"ديوس"},{"en":"Ace","ar":"أيس"},{"en":"Set","ar":"سِت"}],"correctAnswer":0,"explanation_en":"In tennis scoring, 'love' means zero.","explanation_ar":"في تسجيل نقاط التنس، كلمة 'لَف' معناها صفر."},
-  {"id":"GEN-020-044","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which company created the Windows operating system?","question_ar":"إيه الشركة اللي عملت نظام تشغيل ويندوز؟","options":[{"en":"Microsoft","ar":"مايكروسوفت"},{"en":"Apple","ar":"آبل"},{"en":"IBM","ar":"آي بي إم"},{"en":"Google","ar":"جوجل"}],"correctAnswer":0,"explanation_en":"Microsoft created the Windows operating system.","explanation_ar":"مايكروسوفت هي اللي عملت نظام ويندوز."},
-  {"id":"GEN-020-045","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which Egyptian city is nicknamed the 'City of a Thousand Minarets'?","question_ar":"إيه المدينة المصرية اللي بيتقال عليها 'مدينة الألف مئذنة'؟","options":[{"en":"Cairo","ar":"القاهرة"},{"en":"Alexandria","ar":"الإسكندرية"},{"en":"Luxor","ar":"الأقصر"},{"en":"Aswan","ar":"أسوان"}],"correctAnswer":0,"explanation_en":"Cairo is nicknamed the 'City of a Thousand Minarets.'","explanation_ar":"القاهرة بيتقال عليها 'مدينة الألف مئذنة'."},
-  {"id":"GEN-020-046","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What is the world's tallest waterfall named after?","question_ar":"إيه اسم أطول شلال في العالم؟","options":[{"en":"Angel Falls","ar":"شلالات أنجل"},{"en":"Niagara Falls","ar":"شلالات نياجرا"},{"en":"Victoria Falls","ar":"شلالات فيكتوريا"},{"en":"Iguazu Falls","ar":"شلالات إيجوازو"}],"correctAnswer":0,"explanation_en":"Angel Falls in Venezuela is the world's tallest waterfall.","explanation_ar":"شلالات أنجل في فنزويلا هي أطول شلال في العالم."},
-  {"id":"GEN-020-047","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"What is the smallest continent in the world by land area?","question_ar":"إيه أصغر قارة في العالم من حيث المساحة؟","options":[{"en":"Australia","ar":"أستراليا"},{"en":"Europe","ar":"أوروبا"},{"en":"Antarctica","ar":"أنتاركتيكا"},{"en":"South America","ar":"أمريكا الجنوبية"}],"correctAnswer":0,"explanation_en":"Australia is the smallest continent by land area.","explanation_ar":"أستراليا أصغر قارة من حيث المساحة."},
-  {"id":"GEN-020-048","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which company created the ChatGPT chatbot?","question_ar":"إيه الشركة اللي عملت شات بوت ChatGPT؟","options":[{"en":"OpenAI","ar":"أوبن إيه آي"},{"en":"Google","ar":"جوجل"},{"en":"Meta","ar":"ميتا"},{"en":"Microsoft","ar":"مايكروسوفت"}],"correctAnswer":0,"explanation_en":"ChatGPT was created by OpenAI.","explanation_ar":"ChatGPT من إنتاج شركة أوبن إيه آي."},
-  {"id":"GEN-020-049","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which social media platform's old logo was a small blue bird?","question_ar":"إيه منصة السوشيال ميديا اللي شعارها القديم كان عصفور أزرق صغير؟","options":[{"en":"Twitter (now X)","ar":"تويتر (X حاليًا)"},{"en":"Facebook","ar":"فيسبوك"},{"en":"Telegram","ar":"تليجرام"},{"en":"Skype","ar":"سكايب"}],"correctAnswer":0,"explanation_en":"Twitter's old logo was a blue bird before it rebranded to X.","explanation_ar":"شعار تويتر القديم كان عصفور أزرق قبل ما يتحول لـ X."},
-  {"id":"GEN-020-050","category":"General Knowledge","category_ar":"عامة","value":20,"difficulty":2,"question_en":"Which fruit's logo represents the tech giant founded by Steve Jobs?","question_ar":"إيه الفاكهة اللي شعارها بيمثل الشركة التقنية العملاقة اللي أسسها ستيف جوبز؟","options":[{"en":"Apple","ar":"التفاحة"},{"en":"Orange","ar":"البرتقالة"},{"en":"Cherry","ar":"الكرزة"},{"en":"Grape","ar":"العنبة"}],"correctAnswer":0,"explanation_en":"Steve Jobs co-founded Apple, whose logo is an apple.","explanation_ar":"ستيف جوبز شارك في تأسيس آبل، وشعارها تفاحة."}
+  {
+    "id": "GEN-020-001",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Who co-founded Microsoft?",
+    "question_ar": "مين اللي أسس شركة مايكروسوفت؟",
+    "options": [
+      {
+        "en": "Bill Gates",
+        "ar": "بيل جيتس"
+      },
+      {
+        "en": "Steve Jobs",
+        "ar": "ستيف جوبز"
+      },
+      {
+        "en": "Mark Zuckerberg",
+        "ar": "مارك زوكربيرج"
+      },
+      {
+        "en": "Jeff Bezos",
+        "ar": "جيف بيزوس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Bill Gates co-founded Microsoft.",
+    "explanation_ar": "بيل جيتس هو اللي أسس شركة مايكروسوفت."
+  },
+  {
+    "id": "GEN-020-002",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "In which city is the Eiffel Tower located?",
+    "question_ar": "برج إيفل موجود في إيه المدينة؟",
+    "options": [
+      {
+        "en": "Rome",
+        "ar": "روما"
+      },
+      {
+        "en": "Paris",
+        "ar": "باريس"
+      },
+      {
+        "en": "London",
+        "ar": "لندن"
+      },
+      {
+        "en": "Madrid",
+        "ar": "مدريد"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Eiffel Tower is located in Paris.",
+    "explanation_ar": "برج إيفل موجود في باريس."
+  },
+  {
+    "id": "GEN-020-003",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "In which city is the Statue of Liberty located?",
+    "question_ar": "تمثال الحرية موجود في إيه المدينة؟",
+    "options": [
+      {
+        "en": "Boston",
+        "ar": "بوسطن"
+      },
+      {
+        "en": "Washington, D.C.",
+        "ar": "واشنطن"
+      },
+      {
+        "en": "New York",
+        "ar": "نيويورك"
+      },
+      {
+        "en": "Miami",
+        "ar": "ميامي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Statue of Liberty is in New York.",
+    "explanation_ar": "تمثال الحرية موجود في نيويورك."
+  },
+  {
+    "id": "GEN-020-004",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "In which city is the Burj Khalifa, the world's tallest building, located?",
+    "question_ar": "برج خليفة، أطول مبنى في العالم، موجود في إيه المدينة؟",
+    "options": [
+      {
+        "en": "Abu Dhabi",
+        "ar": "أبو ظبي"
+      },
+      {
+        "en": "Doha",
+        "ar": "الدوحة"
+      },
+      {
+        "en": "Riyadh",
+        "ar": "الرياض"
+      },
+      {
+        "en": "Dubai",
+        "ar": "دبي"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The Burj Khalifa is located in Dubai.",
+    "explanation_ar": "برج خليفة موجود في دبي."
+  },
+  {
+    "id": "GEN-020-005",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Who founded Amazon?",
+    "question_ar": "مين اللي أسس شركة أمازون؟",
+    "options": [
+      {
+        "en": "Jeff Bezos",
+        "ar": "جيف بيزوس"
+      },
+      {
+        "en": "Elon Musk",
+        "ar": "إيلون ماسك"
+      },
+      {
+        "en": "Bill Gates",
+        "ar": "بيل جيتس"
+      },
+      {
+        "en": "Larry Page",
+        "ar": "لاري بيدج"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Jeff Bezos founded Amazon.",
+    "explanation_ar": "جيف بيزوس هو اللي أسس أمازون."
+  },
+  {
+    "id": "GEN-020-006",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the world's largest social media platform by users called?",
+    "question_ar": "إيه أكبر منصة سوشيال ميديا في العالم من حيث عدد المستخدمين؟",
+    "options": [
+      {
+        "en": "Snapchat",
+        "ar": "سناب شات"
+      },
+      {
+        "en": "Facebook",
+        "ar": "فيسبوك"
+      },
+      {
+        "en": "Pinterest",
+        "ar": "بينتريست"
+      },
+      {
+        "en": "LinkedIn",
+        "ar": "لينكدإن"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Facebook is the world's largest social media platform by users.",
+    "explanation_ar": "فيسبوك أكبر منصة سوشيال ميديا من حيث عدد المستخدمين."
+  },
+  {
+    "id": "GEN-020-007",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "How many rings are on the Olympic flag?",
+    "question_ar": "علم الأولمبياد فيه كام حلقة؟",
+    "options": [
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Olympic flag has 5 rings.",
+    "explanation_ar": "علم الأولمبياد فيه 5 حلقات."
+  },
+  {
+    "id": "GEN-020-008",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The NBA basketball league is based in which country?",
+    "question_ar": "دوري NBA لكرة السلة موجود في إيه الدولة؟",
+    "options": [
+      {
+        "en": "Canada",
+        "ar": "كندا"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "UK",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "USA",
+        "ar": "أمريكا"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The NBA is the USA's professional basketball league.",
+    "explanation_ar": "دوري NBA هو دوري كرة السلة المحترف في أمريكا."
+  },
+  {
+    "id": "GEN-020-009",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which sport is the Wimbledon tournament associated with?",
+    "question_ar": "بطولة ويمبلدون خاصة بإيه رياضة؟",
+    "options": [
+      {
+        "en": "Tennis",
+        "ar": "التنس"
+      },
+      {
+        "en": "Golf",
+        "ar": "الجولف"
+      },
+      {
+        "en": "Badminton",
+        "ar": "الريشة الطائرة"
+      },
+      {
+        "en": "Table tennis",
+        "ar": "تنس الطاولة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Wimbledon is a famous tennis tournament.",
+    "explanation_ar": "ويمبلدون بطولة تنس مشهورة."
+  },
+  {
+    "id": "GEN-020-010",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the tallest mountain in the world?",
+    "question_ar": "إيه أطول جبل في العالم؟",
+    "options": [
+      {
+        "en": "K2",
+        "ar": "كي 2"
+      },
+      {
+        "en": "Mount Everest",
+        "ar": "إيفرست"
+      },
+      {
+        "en": "Kilimanjaro",
+        "ar": "كليمنجارو"
+      },
+      {
+        "en": "Mont Blanc",
+        "ar": "مونت بلانك"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Mount Everest is the tallest mountain in the world.",
+    "explanation_ar": "إيفرست هو أطول جبل في العالم."
+  },
+  {
+    "id": "GEN-020-011",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the longest river in the world?",
+    "question_ar": "إيه أطول نهر في العالم؟",
+    "options": [
+      {
+        "en": "The Amazon",
+        "ar": "نهر الأمازون"
+      },
+      {
+        "en": "The Mississippi",
+        "ar": "نهر المسيسيبي"
+      },
+      {
+        "en": "The Nile",
+        "ar": "نهر النيل"
+      },
+      {
+        "en": "The Yangtze",
+        "ar": "نهر اليانجتسي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Nile is considered the longest river in the world.",
+    "explanation_ar": "نهر النيل بيعتبر أطول نهر في العالم."
+  },
+  {
+    "id": "GEN-020-012",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which company's logo is a bitten apple?",
+    "question_ar": "إيه الشركة اللي شعارها تفاحة مقضومة؟",
+    "options": [
+      {
+        "en": "Samsung",
+        "ar": "سامسونج"
+      },
+      {
+        "en": "Huawei",
+        "ar": "هواوي"
+      },
+      {
+        "en": "Xiaomi",
+        "ar": "شاومي"
+      },
+      {
+        "en": "Apple",
+        "ar": "آبل"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Apple's logo is a bitten apple.",
+    "explanation_ar": "شعار آبل تفاحة مقضومة."
+  },
+  {
+    "id": "GEN-020-013",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Snapchat's app icon is what kind of character?",
+    "question_ar": "أيقونة تطبيق سناب شات شكلها إيه؟",
+    "options": [
+      {
+        "en": "A ghost",
+        "ar": "شبح"
+      },
+      {
+        "en": "A cat",
+        "ar": "قطة"
+      },
+      {
+        "en": "A bird",
+        "ar": "عصفور"
+      },
+      {
+        "en": "A star",
+        "ar": "نجمة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Snapchat's icon is a white ghost.",
+    "explanation_ar": "أيقونة سناب شات شبح أبيض."
+  },
+  {
+    "id": "GEN-020-014",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the name of Egypt's grand new museum near the Giza pyramids?",
+    "question_ar": "إيه اسم المتحف الكبير الجديد جمب أهرامات الجيزة؟",
+    "options": [
+      {
+        "en": "The Louvre",
+        "ar": "متحف اللوفر"
+      },
+      {
+        "en": "The Grand Egyptian Museum",
+        "ar": "المتحف المصري الكبير"
+      },
+      {
+        "en": "The British Museum",
+        "ar": "المتحف البريطاني"
+      },
+      {
+        "en": "The Vatican Museum",
+        "ar": "متحف الفاتيكان"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Grand Egyptian Museum is the new museum near the Giza pyramids.",
+    "explanation_ar": "المتحف المصري الكبير هو المتحف الجديد جمب أهرامات الجيزة."
+  },
+  {
+    "id": "GEN-020-015",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Alexandria was historically famous for which ancient library?",
+    "question_ar": "الإسكندرية كانت مشهورة تاريخيًا بإيه مكتبة قديمة؟",
+    "options": [
+      {
+        "en": "The Library of Congress",
+        "ar": "مكتبة الكونجرس"
+      },
+      {
+        "en": "The Vatican Library",
+        "ar": "مكتبة الفاتيكان"
+      },
+      {
+        "en": "The Library of Alexandria",
+        "ar": "مكتبة الإسكندرية"
+      },
+      {
+        "en": "The Bodleian Library",
+        "ar": "مكتبة بودليان"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Ancient Alexandria was home to the famous Library of Alexandria.",
+    "explanation_ar": "الإسكندرية القديمة كان فيها مكتبة الإسكندرية الشهيرة."
+  },
+  {
+    "id": "GEN-020-016",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the name of the canal that connects the Mediterranean and Red Seas in Egypt?",
+    "question_ar": "إيه اسم القناة اللي بتوصل البحر الأبيض بالبحر الأحمر في مصر؟",
+    "options": [
+      {
+        "en": "The Panama Canal",
+        "ar": "قناة بنما"
+      },
+      {
+        "en": "The Corinth Canal",
+        "ar": "قناة كورنث"
+      },
+      {
+        "en": "The Kiel Canal",
+        "ar": "قناة كيل"
+      },
+      {
+        "en": "The Suez Canal",
+        "ar": "قناة السويس"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The Suez Canal connects the Mediterranean and Red Seas.",
+    "explanation_ar": "قناة السويس بتوصل البحر الأبيض بالبحر الأحمر."
+  },
+  {
+    "id": "GEN-020-017",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Hollywood, the center of the American film industry, is in which US state?",
+    "question_ar": "هوليوود، مركز صناعة السينما الأمريكية، موجودة في إيه ولاية؟",
+    "options": [
+      {
+        "en": "California",
+        "ar": "كاليفورنيا"
+      },
+      {
+        "en": "New York",
+        "ar": "نيويورك"
+      },
+      {
+        "en": "Texas",
+        "ar": "تكساس"
+      },
+      {
+        "en": "Florida",
+        "ar": "فلوريدا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Hollywood is located in California.",
+    "explanation_ar": "هوليوود موجودة في ولاية كاليفورنيا."
+  },
+  {
+    "id": "GEN-020-018",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What kind of service is Netflix mainly known for?",
+    "question_ar": "نتفليكس معروفة أساسًا بإيه نوع خدمة؟",
+    "options": [
+      {
+        "en": "Music streaming",
+        "ar": "بث موسيقى"
+      },
+      {
+        "en": "Video streaming",
+        "ar": "بث فيديو"
+      },
+      {
+        "en": "Online shopping",
+        "ar": "تسوق أونلاين"
+      },
+      {
+        "en": "Ride hailing",
+        "ar": "طلب مشاوير"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Netflix is a video streaming service.",
+    "explanation_ar": "نتفليكس خدمة بث فيديو."
+  },
+  {
+    "id": "GEN-020-019",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which language has the most native speakers in the world?",
+    "question_ar": "إيه اللغة اللي ليها أكبر عدد متحدثين أصليين في العالم؟",
+    "options": [
+      {
+        "en": "English",
+        "ar": "الإنجليزي"
+      },
+      {
+        "en": "Spanish",
+        "ar": "الإسباني"
+      },
+      {
+        "en": "Mandarin Chinese",
+        "ar": "الصيني الماندرين"
+      },
+      {
+        "en": "Hindi",
+        "ar": "الهندي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Mandarin Chinese has the most native speakers worldwide.",
+    "explanation_ar": "الصيني الماندرين له أكبر عدد متحدثين أصليين في العالم."
+  },
+  {
+    "id": "GEN-020-020",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What currency does the United Kingdom use?",
+    "question_ar": "بريطانيا بتستخدم إيه عملة؟",
+    "options": [
+      {
+        "en": "Euro",
+        "ar": "اليورو"
+      },
+      {
+        "en": "Dollar",
+        "ar": "الدولار"
+      },
+      {
+        "en": "Franc",
+        "ar": "الفرنك"
+      },
+      {
+        "en": "Pound sterling",
+        "ar": "الجنيه الإسترليني"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The UK uses the pound sterling.",
+    "explanation_ar": "بريطانيا بتستخدم الجنيه الإسترليني."
+  },
+  {
+    "id": "GEN-020-021",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What currency does Japan use?",
+    "question_ar": "اليابان بتستخدم إيه عملة؟",
+    "options": [
+      {
+        "en": "Yen",
+        "ar": "الين"
+      },
+      {
+        "en": "Won",
+        "ar": "الوون"
+      },
+      {
+        "en": "Yuan",
+        "ar": "اليوان"
+      },
+      {
+        "en": "Ringgit",
+        "ar": "الرينجيت"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Japan's currency is the yen.",
+    "explanation_ar": "اليابان بتستخدم الين."
+  },
+  {
+    "id": "GEN-020-022",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which country is widely credited with inventing pizza in its modern form?",
+    "question_ar": "إيه الدولة المعروفة بإنها اخترعت البيتزا بشكلها الحديث؟",
+    "options": [
+      {
+        "en": "Greece",
+        "ar": "اليونان"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Modern pizza originated in Italy.",
+    "explanation_ar": "البيتزا بشكلها الحديث أصلها من إيطاليا."
+  },
+  {
+    "id": "GEN-020-023",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the name of Google's parent company?",
+    "question_ar": "إيه اسم الشركة الأم لجوجل؟",
+    "options": [
+      {
+        "en": "Meta",
+        "ar": "ميتا"
+      },
+      {
+        "en": "Amazon",
+        "ar": "أمازون"
+      },
+      {
+        "en": "Alphabet",
+        "ar": "ألفابيت"
+      },
+      {
+        "en": "Oracle",
+        "ar": "أوراكل"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Alphabet is the parent company of Google.",
+    "explanation_ar": "ألفابيت هي الشركة الأم لجوجل."
+  },
+  {
+    "id": "GEN-020-024",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the capital of Saudi Arabia?",
+    "question_ar": "إيه عاصمة السعودية؟",
+    "options": [
+      {
+        "en": "Jeddah",
+        "ar": "جدة"
+      },
+      {
+        "en": "Mecca",
+        "ar": "مكة"
+      },
+      {
+        "en": "Dammam",
+        "ar": "الدمام"
+      },
+      {
+        "en": "Riyadh",
+        "ar": "الرياض"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Riyadh is the capital of Saudi Arabia.",
+    "explanation_ar": "الرياض هي عاصمة السعودية."
+  },
+  {
+    "id": "GEN-020-025",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the capital of the UAE?",
+    "question_ar": "إيه عاصمة الإمارات؟",
+    "options": [
+      {
+        "en": "Abu Dhabi",
+        "ar": "أبو ظبي"
+      },
+      {
+        "en": "Dubai",
+        "ar": "دبي"
+      },
+      {
+        "en": "Sharjah",
+        "ar": "الشارقة"
+      },
+      {
+        "en": "Ajman",
+        "ar": "عجمان"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Abu Dhabi is the capital of the UAE.",
+    "explanation_ar": "أبو ظبي هي عاصمة الإمارات."
+  },
+  {
+    "id": "GEN-020-026",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which desert covers most of Egypt's land area?",
+    "question_ar": "إيه الصحرا اللي بتغطي معظم مساحة مصر؟",
+    "options": [
+      {
+        "en": "The Gobi Desert",
+        "ar": "صحرا جوبي"
+      },
+      {
+        "en": "The Sahara",
+        "ar": "الصحرا الكبرى"
+      },
+      {
+        "en": "The Kalahari",
+        "ar": "صحرا كالاهاري"
+      },
+      {
+        "en": "The Atacama",
+        "ar": "صحرا أتاكاما"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Sahara covers most of Egypt's land area.",
+    "explanation_ar": "الصحرا الكبرى بتغطي معظم مساحة مصر."
+  },
+  {
+    "id": "GEN-020-027",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Great Wall is one of the most famous landmarks of which country?",
+    "question_ar": "السور العظيم من أشهر معالم إيه دولة؟",
+    "options": [
+      {
+        "en": "Japan",
+        "ar": "اليابان"
+      },
+      {
+        "en": "Mongolia",
+        "ar": "منغوليا"
+      },
+      {
+        "en": "China",
+        "ar": "الصين"
+      },
+      {
+        "en": "South Korea",
+        "ar": "كوريا الجنوبية"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Great Wall is one of China's most famous landmarks.",
+    "explanation_ar": "السور العظيم من أشهر معالم الصين."
+  },
+  {
+    "id": "GEN-020-028",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency shared by most European Union countries?",
+    "question_ar": "إيه العملة المشتركة بين معظم دول الاتحاد الأوروبي؟",
+    "options": [
+      {
+        "en": "Pound",
+        "ar": "الجنيه"
+      },
+      {
+        "en": "Franc",
+        "ar": "الفرنك"
+      },
+      {
+        "en": "Mark",
+        "ar": "المارك"
+      },
+      {
+        "en": "Euro",
+        "ar": "اليورو"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The Euro is used by most EU countries.",
+    "explanation_ar": "اليورو هي العملة المستخدمة في معظم دول الاتحاد الأوروبي."
+  },
+  {
+    "id": "GEN-020-029",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which sport uses a shuttlecock?",
+    "question_ar": "إيه الرياضة اللي بتستخدم فيها الريشة؟",
+    "options": [
+      {
+        "en": "Badminton",
+        "ar": "الريشة الطائرة"
+      },
+      {
+        "en": "Tennis",
+        "ar": "التنس"
+      },
+      {
+        "en": "Squash",
+        "ar": "الاسكواش"
+      },
+      {
+        "en": "Table tennis",
+        "ar": "تنس الطاولة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Badminton is played with a shuttlecock.",
+    "explanation_ar": "الريشة الطائرة بتتلعب بريشة."
+  },
+  {
+    "id": "GEN-020-030",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which scientist is famous for the theory of relativity?",
+    "question_ar": "إيه العالم المشهور بنظرية النسبية؟",
+    "options": [
+      {
+        "en": "Isaac Newton",
+        "ar": "إسحق نيوتن"
+      },
+      {
+        "en": "Albert Einstein",
+        "ar": "ألبرت أينشتاين"
+      },
+      {
+        "en": "Nikola Tesla",
+        "ar": "نيكولا تسلا"
+      },
+      {
+        "en": "Galileo Galilei",
+        "ar": "جاليليو جاليلي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Albert Einstein developed the theory of relativity.",
+    "explanation_ar": "ألبرت أينشتاين هو صاحب نظرية النسبية."
+  },
+  {
+    "id": "GEN-020-031",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What was the era of Egypt's ancient rulers who built the pyramids called?",
+    "question_ar": "إيه اسم عصر حكام مصر القدماء اللي بنوا الأهرامات؟",
+    "options": [
+      {
+        "en": "The Ottoman era",
+        "ar": "العصر العثماني"
+      },
+      {
+        "en": "The Colonial era",
+        "ar": "العصر الاستعماري"
+      },
+      {
+        "en": "The Pharaonic era",
+        "ar": "العصر الفرعوني"
+      },
+      {
+        "en": "The Roman era",
+        "ar": "العصر الروماني"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The pyramids were built during the Pharaonic era.",
+    "explanation_ar": "الأهرامات اتبنت في العصر الفرعوني."
+  },
+  {
+    "id": "GEN-020-032",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the name of the Chinese short-video and social media app owned by ByteDance?",
+    "question_ar": "إيه اسم تطبيق الفيديوهات القصيرة الصيني المملوك لشركة بايت دانس؟",
+    "options": [
+      {
+        "en": "Instagram",
+        "ar": "إنستجرام"
+      },
+      {
+        "en": "Snapchat",
+        "ar": "سناب شات"
+      },
+      {
+        "en": "Twitter",
+        "ar": "تويتر"
+      },
+      {
+        "en": "TikTok",
+        "ar": "تيك توك"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "TikTok is owned by the Chinese company ByteDance.",
+    "explanation_ar": "تيك توك مملوك للشركة الصينية بايت دانس."
+  },
+  {
+    "id": "GEN-020-033",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which planet is known as the Red Planet?",
+    "question_ar": "إيه الكوكب المعروف باسم الكوكب الأحمر؟",
+    "options": [
+      {
+        "en": "Mars",
+        "ar": "المريخ"
+      },
+      {
+        "en": "Venus",
+        "ar": "الزهرة"
+      },
+      {
+        "en": "Mercury",
+        "ar": "عطارد"
+      },
+      {
+        "en": "Saturn",
+        "ar": "زحل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mars is known as the Red Planet.",
+    "explanation_ar": "المريخ معروف باسم الكوكب الأحمر."
+  },
+  {
+    "id": "GEN-020-034",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "At what temperature does water boil in degrees Celsius?",
+    "question_ar": "المية بتغلي عند كام درجة مئوية؟",
+    "options": [
+      {
+        "en": "90",
+        "ar": "90"
+      },
+      {
+        "en": "100",
+        "ar": "100"
+      },
+      {
+        "en": "120",
+        "ar": "120"
+      },
+      {
+        "en": "80",
+        "ar": "80"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Water boils at 100 degrees Celsius.",
+    "explanation_ar": "المية بتغلي عند 100 درجة مئوية."
+  },
+  {
+    "id": "GEN-020-035",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "How many bones does an adult human body typically have?",
+    "question_ar": "جسم الإنسان البالغ فيه كام عظمة عادة؟",
+    "options": [
+      {
+        "en": "180",
+        "ar": "180"
+      },
+      {
+        "en": "250",
+        "ar": "250"
+      },
+      {
+        "en": "206",
+        "ar": "206"
+      },
+      {
+        "en": "300",
+        "ar": "300"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "An adult human body has 206 bones.",
+    "explanation_ar": "جسم الإنسان البالغ فيه 206 عظمة."
+  },
+  {
+    "id": "GEN-020-036",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which vitamin does the body mainly produce from sunlight exposure?",
+    "question_ar": "إيه الفيتامين اللي الجسم بينتجه أساسًا من التعرض للشمس؟",
+    "options": [
+      {
+        "en": "Vitamin C",
+        "ar": "فيتامين C"
+      },
+      {
+        "en": "Vitamin A",
+        "ar": "فيتامين A"
+      },
+      {
+        "en": "Vitamin B12",
+        "ar": "فيتامين B12"
+      },
+      {
+        "en": "Vitamin D",
+        "ar": "فيتامين D"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The body produces vitamin D from sunlight.",
+    "explanation_ar": "الجسم بينتج فيتامين D من التعرض للشمس."
+  },
+  {
+    "id": "GEN-020-037",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which is the largest country in the world by area?",
+    "question_ar": "إيه أكبر دولة في العالم من حيث المساحة؟",
+    "options": [
+      {
+        "en": "Russia",
+        "ar": "روسيا"
+      },
+      {
+        "en": "Canada",
+        "ar": "كندا"
+      },
+      {
+        "en": "China",
+        "ar": "الصين"
+      },
+      {
+        "en": "USA",
+        "ar": "أمريكا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Russia is the largest country in the world by area.",
+    "explanation_ar": "روسيا أكبر دولة في العالم من حيث المساحة."
+  },
+  {
+    "id": "GEN-020-038",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Alexandria is often nicknamed the 'Bride of the...' what?",
+    "question_ar": "الإسكندرية بيتقال عليها عروسة إيه؟",
+    "options": [
+      {
+        "en": "The Nile",
+        "ar": "النيل"
+      },
+      {
+        "en": "The Mediterranean",
+        "ar": "البحر الأبيض المتوسط"
+      },
+      {
+        "en": "The Red Sea",
+        "ar": "البحر الأحمر"
+      },
+      {
+        "en": "The Desert",
+        "ar": "الصحرا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Alexandria is nicknamed the 'Bride of the Mediterranean.'",
+    "explanation_ar": "الإسكندرية بيتقال عليها عروسة البحر الأبيض المتوسط."
+  },
+  {
+    "id": "GEN-020-039",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What device did Alexander Graham Bell invent?",
+    "question_ar": "إيه الجهاز اللي اخترعه ألكسندر جراهام بيل؟",
+    "options": [
+      {
+        "en": "The lightbulb",
+        "ar": "اللمبة"
+      },
+      {
+        "en": "The radio",
+        "ar": "الراديو"
+      },
+      {
+        "en": "The telephone",
+        "ar": "التليفون"
+      },
+      {
+        "en": "The television",
+        "ar": "التليفزيون"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Alexander Graham Bell invented the telephone.",
+    "explanation_ar": "ألكسندر جراهام بيل اخترع التليفون."
+  },
+  {
+    "id": "GEN-020-040",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which brand's logo is a swoosh (checkmark-like tick)?",
+    "question_ar": "إيه البراند اللي شعاره علامة السوش (زي علامة صح)؟",
+    "options": [
+      {
+        "en": "Adidas",
+        "ar": "أديداس"
+      },
+      {
+        "en": "Puma",
+        "ar": "بوما"
+      },
+      {
+        "en": "Reebok",
+        "ar": "ريبوك"
+      },
+      {
+        "en": "Nike",
+        "ar": "نايكي"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Nike's logo is the swoosh.",
+    "explanation_ar": "شعار نايكي هو السوش."
+  },
+  {
+    "id": "GEN-020-041",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which brand's logo has three stripes?",
+    "question_ar": "إيه البراند اللي شعاره ثلاث خطوط؟",
+    "options": [
+      {
+        "en": "Adidas",
+        "ar": "أديداس"
+      },
+      {
+        "en": "Nike",
+        "ar": "نايكي"
+      },
+      {
+        "en": "Under Armour",
+        "ar": "أندر أرمور"
+      },
+      {
+        "en": "Fila",
+        "ar": "فيلا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Adidas' logo features three stripes.",
+    "explanation_ar": "شعار أديداس فيه ثلاث خطوط."
+  },
+  {
+    "id": "GEN-020-042",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the capital of Turkey (not its largest city)?",
+    "question_ar": "إيه عاصمة تركيا (مش أكبر مدينة فيها)؟",
+    "options": [
+      {
+        "en": "Istanbul",
+        "ar": "إسطنبول"
+      },
+      {
+        "en": "Ankara",
+        "ar": "أنقرة"
+      },
+      {
+        "en": "Izmir",
+        "ar": "إزمير"
+      },
+      {
+        "en": "Bursa",
+        "ar": "بورصة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Ankara is the capital of Turkey, while Istanbul is its largest city.",
+    "explanation_ar": "أنقرة هي عاصمة تركيا، أما إسطنبول فهي أكبر مدنها."
+  },
+  {
+    "id": "GEN-020-043",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "In tennis, what score name is used instead of 'zero'?",
+    "question_ar": "في التنس بيتقال إيه بدل كلمة صفر؟",
+    "options": [
+      {
+        "en": "Deuce",
+        "ar": "ديوس"
+      },
+      {
+        "en": "Ace",
+        "ar": "أيس"
+      },
+      {
+        "en": "Love",
+        "ar": "لَف (Love)"
+      },
+      {
+        "en": "Set",
+        "ar": "سِت"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "In tennis scoring, 'love' means zero.",
+    "explanation_ar": "في تسجيل نقاط التنس، كلمة 'لَف' معناها صفر."
+  },
+  {
+    "id": "GEN-020-044",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which company created the Windows operating system?",
+    "question_ar": "إيه الشركة اللي عملت نظام تشغيل ويندوز؟",
+    "options": [
+      {
+        "en": "Apple",
+        "ar": "آبل"
+      },
+      {
+        "en": "IBM",
+        "ar": "آي بي إم"
+      },
+      {
+        "en": "Google",
+        "ar": "جوجل"
+      },
+      {
+        "en": "Microsoft",
+        "ar": "مايكروسوفت"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Microsoft created the Windows operating system.",
+    "explanation_ar": "مايكروسوفت هي اللي عملت نظام ويندوز."
+  },
+  {
+    "id": "GEN-020-045",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian city is nicknamed the 'City of a Thousand Minarets'?",
+    "question_ar": "إيه المدينة المصرية اللي بيتقال عليها 'مدينة الألف مئذنة'؟",
+    "options": [
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Cairo is nicknamed the 'City of a Thousand Minarets.'",
+    "explanation_ar": "القاهرة بيتقال عليها 'مدينة الألف مئذنة'."
+  },
+  {
+    "id": "GEN-020-046",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the world's tallest waterfall named after?",
+    "question_ar": "إيه اسم أطول شلال في العالم؟",
+    "options": [
+      {
+        "en": "Niagara Falls",
+        "ar": "شلالات نياجرا"
+      },
+      {
+        "en": "Angel Falls",
+        "ar": "شلالات أنجل"
+      },
+      {
+        "en": "Victoria Falls",
+        "ar": "شلالات فيكتوريا"
+      },
+      {
+        "en": "Iguazu Falls",
+        "ar": "شلالات إيجوازو"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Angel Falls in Venezuela is the world's tallest waterfall.",
+    "explanation_ar": "شلالات أنجل في فنزويلا هي أطول شلال في العالم."
+  },
+  {
+    "id": "GEN-020-047",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the smallest continent in the world by land area?",
+    "question_ar": "إيه أصغر قارة في العالم من حيث المساحة؟",
+    "options": [
+      {
+        "en": "Europe",
+        "ar": "أوروبا"
+      },
+      {
+        "en": "Antarctica",
+        "ar": "أنتاركتيكا"
+      },
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      },
+      {
+        "en": "South America",
+        "ar": "أمريكا الجنوبية"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Australia is the smallest continent by land area.",
+    "explanation_ar": "أستراليا أصغر قارة من حيث المساحة."
+  },
+  {
+    "id": "GEN-020-048",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which company created the ChatGPT chatbot?",
+    "question_ar": "إيه الشركة اللي عملت شات بوت ChatGPT؟",
+    "options": [
+      {
+        "en": "Google",
+        "ar": "جوجل"
+      },
+      {
+        "en": "Meta",
+        "ar": "ميتا"
+      },
+      {
+        "en": "Microsoft",
+        "ar": "مايكروسوفت"
+      },
+      {
+        "en": "OpenAI",
+        "ar": "أوبن إيه آي"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "ChatGPT was created by OpenAI.",
+    "explanation_ar": "ChatGPT من إنتاج شركة أوبن إيه آي."
+  },
+  {
+    "id": "GEN-020-049",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which social media platform's old logo was a small blue bird?",
+    "question_ar": "إيه منصة السوشيال ميديا اللي شعارها القديم كان عصفور أزرق صغير؟",
+    "options": [
+      {
+        "en": "Twitter (now X)",
+        "ar": "تويتر (X حاليًا)"
+      },
+      {
+        "en": "Facebook",
+        "ar": "فيسبوك"
+      },
+      {
+        "en": "Telegram",
+        "ar": "تليجرام"
+      },
+      {
+        "en": "Skype",
+        "ar": "سكايب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Twitter's old logo was a blue bird before it rebranded to X.",
+    "explanation_ar": "شعار تويتر القديم كان عصفور أزرق قبل ما يتحول لـ X."
+  },
+  {
+    "id": "GEN-020-050",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which fruit's logo represents the tech giant founded by Steve Jobs?",
+    "question_ar": "إيه الفاكهة اللي شعارها بيمثل الشركة التقنية العملاقة اللي أسسها ستيف جوبز؟",
+    "options": [
+      {
+        "en": "Orange",
+        "ar": "البرتقالة"
+      },
+      {
+        "en": "Apple",
+        "ar": "التفاحة"
+      },
+      {
+        "en": "Cherry",
+        "ar": "الكرزة"
+      },
+      {
+        "en": "Grape",
+        "ar": "العنبة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Steve Jobs co-founded Apple, whose logo is an apple.",
+    "explanation_ar": "ستيف جوبز شارك في تأسيس آبل، وشعارها تفاحة."
+  }
 ]

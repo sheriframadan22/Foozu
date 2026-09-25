@@ -1,52 +1,1502 @@
 [
-  {"id":"GEN-010-001","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the capital of Egypt?","question_ar":"إيه عاصمة مصر؟","options":[{"en":"Cairo","ar":"القاهرة"},{"en":"Alexandria","ar":"الإسكندرية"},{"en":"Luxor","ar":"الأقصر"},{"en":"Giza","ar":"الجيزة"}],"correctAnswer":0,"explanation_en":"Cairo is Egypt's capital and largest city.","explanation_ar":"القاهرة هي عاصمة مصر وأكبر مدنها."},
-  {"id":"GEN-010-002","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the official currency of Egypt?","question_ar":"إيه هي عملة مصر الرسمية؟","options":[{"en":"Egyptian Pound","ar":"الجنيه المصري"},{"en":"Egyptian Dollar","ar":"الدولار المصري"},{"en":"Egyptian Dinar","ar":"الدينار المصري"},{"en":"Egyptian Riyal","ar":"الريال المصري"}],"correctAnswer":0,"explanation_en":"The Egyptian pound (EGP) is the official currency of Egypt.","explanation_ar":"الجنيه المصري هو العملة الرسمية لمصر."},
-  {"id":"GEN-010-003","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"How many days are there in a week?","question_ar":"الأسبوع فيه كام يوم؟","options":[{"en":"5","ar":"5"},{"en":"6","ar":"6"},{"en":"7","ar":"7"},{"en":"8","ar":"8"}],"correctAnswer":2,"explanation_en":"A week has 7 days.","explanation_ar":"الأسبوع فيه 7 أيام."},
-  {"id":"GEN-010-004","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which famous river runs through Egypt?","question_ar":"إيه النهر الشهير اللي بيمر في مصر؟","options":[{"en":"The Nile","ar":"نهر النيل"},{"en":"The Amazon","ar":"نهر الأمازون"},{"en":"The Congo","ar":"نهر الكونغو"},{"en":"The Danube","ar":"نهر الدانوب"}],"correctAnswer":0,"explanation_en":"The Nile is the river that flows through Egypt.","explanation_ar":"نهر النيل هو اللي بيمر في مصر."},
-  {"id":"GEN-010-005","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which company makes the iPhone?","question_ar":"إيه الشركة اللي بتصنع الآيفون؟","options":[{"en":"Apple","ar":"آبل"},{"en":"Samsung","ar":"سامسونج"},{"en":"Nokia","ar":"نوكيا"},{"en":"Sony","ar":"سوني"}],"correctAnswer":0,"explanation_en":"The iPhone is made by Apple.","explanation_ar":"الآيفون بتصنعه شركة آبل."},
-  {"id":"GEN-010-006","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which is the world's most used search engine?","question_ar":"إيه أكتر محرك بحث مستخدم في العالم؟","options":[{"en":"Google","ar":"جوجل"},{"en":"Bing","ar":"بينج"},{"en":"Yahoo","ar":"ياهو"},{"en":"Safari","ar":"سفاري"}],"correctAnswer":0,"explanation_en":"Google is the world's most used search engine.","explanation_ar":"جوجل هو أكتر محرك بحث مستخدم في العالم."},
-  {"id":"GEN-010-007","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which video platform has a red and white play-button logo?","question_ar":"إيه منصة الفيديوهات اللي شعارها لون أحمر وأبيض؟","options":[{"en":"YouTube","ar":"يوتيوب"},{"en":"TikTok","ar":"تيك توك"},{"en":"Vimeo","ar":"فيميو"},{"en":"Twitch","ar":"تويتش"}],"correctAnswer":0,"explanation_en":"YouTube's logo is a red play button.","explanation_ar":"شعار يوتيوب زرار تشغيل أحمر."},
-  {"id":"GEN-010-008","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which fast food chain is known for its golden arches?","question_ar":"إيه سلسلة الأكل السريع المعروفة بالقوسين الدهبيين؟","options":[{"en":"McDonald's","ar":"ماكدونالدز"},{"en":"Burger King","ar":"برجر كنج"},{"en":"KFC","ar":"كنتاكي"},{"en":"Hardee's","ar":"هارديز"}],"correctAnswer":0,"explanation_en":"McDonald's logo is the golden arches (M).","explanation_ar":"شعار ماكدونالدز هو القوسين الدهبيين (حرف M)."},
-  {"id":"GEN-010-009","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What are Egypt's most famous ancient monuments called?","question_ar":"إيه اسم أشهر آثار مصر القديمة؟","options":[{"en":"The Pyramids","ar":"الأهرامات"},{"en":"The Colosseum","ar":"الكولوسيوم"},{"en":"Stonehenge","ar":"ستونهنج"},{"en":"The Acropolis","ar":"الأكروبوليس"}],"correctAnswer":0,"explanation_en":"Egypt is famous worldwide for its Pyramids.","explanation_ar":"مصر مشهورة عالميًا بالأهرامات."},
-  {"id":"GEN-010-010","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"In which Egyptian city are the Great Pyramids located?","question_ar":"الأهرامات موجودة في إيه المدينة؟","options":[{"en":"Giza","ar":"الجيزة"},{"en":"Luxor","ar":"الأقصر"},{"en":"Aswan","ar":"أسوان"},{"en":"Alexandria","ar":"الإسكندرية"}],"correctAnswer":0,"explanation_en":"The Great Pyramids and the Sphinx are in Giza.","explanation_ar":"الأهرامات وأبو الهول موجودين في الجيزة."},
-  {"id":"GEN-010-011","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which continent is Egypt located in?","question_ar":"مصر موجودة في إيه القارة؟","options":[{"en":"Africa","ar":"أفريقيا"},{"en":"Europe","ar":"أوروبا"},{"en":"South America","ar":"أمريكا الجنوبية"},{"en":"Oceania","ar":"أوقيانوسيا"}],"correctAnswer":0,"explanation_en":"Egypt is located in Africa.","explanation_ar":"مصر موجودة في قارة أفريقيا."},
-  {"id":"GEN-010-012","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"How many continents are there in the world?","question_ar":"عدد قارات العالم كام؟","options":[{"en":"5","ar":"5"},{"en":"6","ar":"6"},{"en":"7","ar":"7"},{"en":"8","ar":"8"}],"correctAnswer":2,"explanation_en":"There are 7 continents in the world.","explanation_ar":"عدد قارات العالم 7."},
-  {"id":"GEN-010-013","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which planet do we live on?","question_ar":"إحنا عايشين على إيه كوكب؟","options":[{"en":"Earth","ar":"الأرض"},{"en":"Mars","ar":"المريخ"},{"en":"Venus","ar":"الزهرة"},{"en":"Jupiter","ar":"المشتري"}],"correctAnswer":0,"explanation_en":"We live on planet Earth.","explanation_ar":"إحنا عايشين على كوكب الأرض."},
-  {"id":"GEN-010-014","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the star at the center of our solar system called?","question_ar":"إيه اسم النجم اللي في نص المجموعة الشمسية؟","options":[{"en":"The Sun","ar":"الشمس"},{"en":"The Moon","ar":"القمر"},{"en":"Sirius","ar":"الشعرى"},{"en":"Polaris","ar":"النجم القطبي"}],"correctAnswer":0,"explanation_en":"The Sun is the star at the center of our solar system.","explanation_ar":"الشمس هي النجم اللي في نص المجموعة الشمسية."},
-  {"id":"GEN-010-015","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What are the colors of the Egyptian flag?","question_ar":"إيه ألوان علم مصر؟","options":[{"en":"Red, white, black","ar":"أحمر، أبيض، أسود"},{"en":"Green, white, black","ar":"أخضر، أبيض، أسود"},{"en":"Blue, white, red","ar":"أزرق، أبيض، أحمر"},{"en":"Red, yellow, green","ar":"أحمر، أصفر، أخضر"}],"correctAnswer":0,"explanation_en":"The Egyptian flag is red, white and black with a golden eagle.","explanation_ar":"علم مصر أحمر وأبيض وأسود وفيه نسر دهبي."},
-  {"id":"GEN-010-016","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the official language of Egypt?","question_ar":"إيه اللغة الرسمية لمصر؟","options":[{"en":"Arabic","ar":"العربي"},{"en":"French","ar":"الفرنساوي"},{"en":"Turkish","ar":"التركي"},{"en":"English","ar":"الإنجليزي"}],"correctAnswer":0,"explanation_en":"Arabic is Egypt's official language.","explanation_ar":"العربي هي اللغة الرسمية لمصر."},
-  {"id":"GEN-010-017","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What color is the main Coca-Cola logo?","question_ar":"إيه لون شعار كوكاكولا الأساسي؟","options":[{"en":"Red","ar":"أحمر"},{"en":"Blue","ar":"أزرق"},{"en":"Green","ar":"أخضر"},{"en":"Purple","ar":"بنفسجي"}],"correctAnswer":0,"explanation_en":"Coca-Cola's classic logo is red.","explanation_ar":"شعار كوكاكولا الكلاسيكي لونه أحمر."},
-  {"id":"GEN-010-018","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What color is the WhatsApp app icon?","question_ar":"إيه لون أيقونة تطبيق واتساب؟","options":[{"en":"Green","ar":"أخضر"},{"en":"Blue","ar":"أزرق"},{"en":"Yellow","ar":"أصفر"},{"en":"Orange","ar":"برتقالي"}],"correctAnswer":0,"explanation_en":"The WhatsApp icon is green.","explanation_ar":"أيقونة واتساب لونها أخضر."},
-  {"id":"GEN-010-019","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which company is famous for making electric cars and is led by Elon Musk?","question_ar":"إيه الشركة المشهورة بالعربيات الكهربا ومديرها إيلون ماسك؟","options":[{"en":"Tesla","ar":"تسلا"},{"en":"Toyota","ar":"تويوتا"},{"en":"Ford","ar":"فورد"},{"en":"BMW","ar":"بي إم دبليو"}],"correctAnswer":0,"explanation_en":"Tesla makes electric cars and is led by Elon Musk.","explanation_ar":"تسلا بتصنع عربيات كهربا وإيلون ماسك هو مديرها."},
-  {"id":"GEN-010-020","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What do bees produce that people eat?","question_ar":"إيه اللي بتنتجه النحلة وبناكله؟","options":[{"en":"Honey","ar":"عسل"},{"en":"Milk","ar":"لبن"},{"en":"Sugar","ar":"سكر"},{"en":"Butter","ar":"زبدة"}],"correctAnswer":0,"explanation_en":"Bees produce honey.","explanation_ar":"النحل بينتج العسل."},
-  {"id":"GEN-010-021","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the largest mammal in the world?","question_ar":"إيه أكبر حيوان ثديي في العالم؟","options":[{"en":"Blue whale","ar":"الحوت الأزرق"},{"en":"Elephant","ar":"الفيل"},{"en":"Giraffe","ar":"الزرافة"},{"en":"Hippo","ar":"فرس النهر"}],"correctAnswer":0,"explanation_en":"The blue whale is the largest mammal on Earth.","explanation_ar":"الحوت الأزرق هو أكبر حيوان ثديي على الأرض."},
-  {"id":"GEN-010-022","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the capital of France?","question_ar":"إيه عاصمة فرنسا؟","options":[{"en":"Paris","ar":"باريس"},{"en":"Lyon","ar":"ليون"},{"en":"Marseille","ar":"مارسيليا"},{"en":"Nice","ar":"نيس"}],"correctAnswer":0,"explanation_en":"Paris is the capital of France.","explanation_ar":"باريس هي عاصمة فرنسا."},
-  {"id":"GEN-010-023","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What color do you get when you mix blue and yellow?","question_ar":"لو خلطت الأزرق مع الأصفر هيطلع إيه لون؟","options":[{"en":"Green","ar":"أخضر"},{"en":"Purple","ar":"بنفسجي"},{"en":"Orange","ar":"برتقالي"},{"en":"Brown","ar":"بني"}],"correctAnswer":0,"explanation_en":"Mixing blue and yellow makes green.","explanation_ar":"خلط الأزرق مع الأصفر بيطلع أخضر."},
-  {"id":"GEN-010-024","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"How many colors are there in a rainbow?","question_ar":"قوس قزح فيه كام لون؟","options":[{"en":"5","ar":"5"},{"en":"6","ar":"6"},{"en":"7","ar":"7"},{"en":"8","ar":"8"}],"correctAnswer":2,"explanation_en":"A rainbow has 7 colors.","explanation_ar":"قوس قزح فيه 7 ألوان."},
-  {"id":"GEN-010-025","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which animal is known as the tallest in the world?","question_ar":"إيه أطول حيوان في العالم؟","options":[{"en":"Giraffe","ar":"الزرافة"},{"en":"Elephant","ar":"الفيل"},{"en":"Camel","ar":"الجمل"},{"en":"Horse","ar":"الحصان"}],"correctAnswer":0,"explanation_en":"The giraffe is the tallest animal in the world.","explanation_ar":"الزرافة هي أطول حيوان في العالم."},
-  {"id":"GEN-010-026","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the largest planet in our solar system?","question_ar":"إيه أكبر كوكب في المجموعة الشمسية؟","options":[{"en":"Jupiter","ar":"المشتري"},{"en":"Saturn","ar":"زحل"},{"en":"Earth","ar":"الأرض"},{"en":"Mars","ar":"المريخ"}],"correctAnswer":0,"explanation_en":"Jupiter is the largest planet in our solar system.","explanation_ar":"المشتري هو أكبر كوكب في المجموعة الشمسية."},
-  {"id":"GEN-010-027","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What do we call frozen water?","question_ar":"بنسمي المية لما بتتجمد إيه؟","options":[{"en":"Ice","ar":"تلج"},{"en":"Steam","ar":"بخار"},{"en":"Snowman","ar":"رجل التلج"},{"en":"Frost only","ar":"صقيع بس"}],"correctAnswer":0,"explanation_en":"Frozen water is called ice.","explanation_ar":"المية لما بتتجمد بنسميها تلج."},
-  {"id":"GEN-010-028","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"How many legs does a spider have?","question_ar":"العنكبوت له كام رجل؟","options":[{"en":"8","ar":"8"},{"en":"6","ar":"6"},{"en":"10","ar":"10"},{"en":"4","ar":"4"}],"correctAnswer":0,"explanation_en":"Spiders have 8 legs.","explanation_ar":"العنكبوت له 8 أرجل."},
-  {"id":"GEN-010-029","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the name of Egypt's national airline?","question_ar":"إيه اسم شركة الطيران الوطنية لمصر؟","options":[{"en":"EgyptAir","ar":"مصر للطيران"},{"en":"Emirates","ar":"طيران الإمارات"},{"en":"Qatar Airways","ar":"القطرية"},{"en":"Nile Air","ar":"نايل إير"}],"correctAnswer":0,"explanation_en":"EgyptAir is Egypt's national flag carrier.","explanation_ar":"مصر للطيران هي شركة الطيران الوطنية لمصر."},
-  {"id":"GEN-010-030","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the capital of the United Kingdom?","question_ar":"إيه عاصمة بريطانيا؟","options":[{"en":"London","ar":"لندن"},{"en":"Manchester","ar":"مانشستر"},{"en":"Liverpool","ar":"ليفربول"},{"en":"Birmingham","ar":"برمنجهام"}],"correctAnswer":0,"explanation_en":"London is the capital of the United Kingdom.","explanation_ar":"لندن هي عاصمة بريطانيا."},
-  {"id":"GEN-010-031","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What color is a standard stop sign?","question_ar":"إشارة قف لونها إيه عادة؟","options":[{"en":"Red","ar":"أحمر"},{"en":"Green","ar":"أخضر"},{"en":"Yellow","ar":"أصفر"},{"en":"Blue","ar":"أزرق"}],"correctAnswer":0,"explanation_en":"Stop signs are red.","explanation_ar":"إشارة قف لونها أحمر."},
-  {"id":"GEN-010-032","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What currency is used in the United States?","question_ar":"إيه العملة المستخدمة في أمريكا؟","options":[{"en":"Dollar","ar":"الدولار"},{"en":"Pound","ar":"الجنيه"},{"en":"Euro","ar":"اليورو"},{"en":"Peso","ar":"البيزو"}],"correctAnswer":0,"explanation_en":"The US dollar is the currency of the United States.","explanation_ar":"الدولار هو عملة أمريكا."},
-  {"id":"GEN-010-033","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which sea is on Egypt's northern coast?","question_ar":"إيه البحر اللي على شمال مصر؟","options":[{"en":"The Mediterranean Sea","ar":"البحر الأبيض المتوسط"},{"en":"The Caspian Sea","ar":"بحر قزوين"},{"en":"The Black Sea","ar":"البحر الأسود"},{"en":"The Arabian Sea","ar":"البحر العربي"}],"correctAnswer":0,"explanation_en":"The Mediterranean Sea borders Egypt's north coast.","explanation_ar":"البحر الأبيض المتوسط على شمال مصر."},
-  {"id":"GEN-010-034","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is Egypt's second largest city?","question_ar":"إيه ثاني أكبر مدينة في مصر؟","options":[{"en":"Alexandria","ar":"الإسكندرية"},{"en":"Luxor","ar":"الأقصر"},{"en":"Mansoura","ar":"المنصورة"},{"en":"Tanta","ar":"طنطا"}],"correctAnswer":0,"explanation_en":"Alexandria is Egypt's second largest city.","explanation_ar":"الإسكندرية هي ثاني أكبر مدينة في مصر."},
-  {"id":"GEN-010-035","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What does 'www' stand for on a website address?","question_ar":"إيه معنى 'www' اللي بنشوفها في عنوان المواقع؟","options":[{"en":"World Wide Web","ar":"وورلد وايد ويب"},{"en":"World Wide Wire","ar":"وورلد وايد واير"},{"en":"Web Wide World","ar":"ويب وايد وورلد"},{"en":"Web World Wire","ar":"ويب وورلد واير"}],"correctAnswer":0,"explanation_en":"'www' stands for World Wide Web.","explanation_ar":"'www' معناها World Wide Web."},
-  {"id":"GEN-010-036","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What symbol is used in every email address, like name(at)example.com?","question_ar":"إيه العلامة اللي بتتحط في كل إيميل، زي name(at)example.com؟","options":[{"en":"@","ar":"@"},{"en":"#","ar":"#"},{"en":"&","ar":"&"},{"en":"%","ar":"%"}],"correctAnswer":0,"explanation_en":"The @ symbol is used in every email address.","explanation_ar":"علامة @ بتتحط في كل إيميل."},
-  {"id":"GEN-010-037","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which company owns Instagram?","question_ar":"إيه الشركة اللي مالكة إنستجرام؟","options":[{"en":"Meta","ar":"ميتا"},{"en":"Google","ar":"جوجل"},{"en":"Apple","ar":"آبل"},{"en":"Microsoft","ar":"مايكروسوفت"}],"correctAnswer":0,"explanation_en":"Instagram is owned by Meta (formerly Facebook).","explanation_ar":"إنستجرام مملوكة لشركة ميتا (فيسبوك سابقًا)."},
-  {"id":"GEN-010-038","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the capital of the USA?","question_ar":"إيه عاصمة أمريكا؟","options":[{"en":"Washington, D.C.","ar":"واشنطن"},{"en":"New York","ar":"نيويورك"},{"en":"Los Angeles","ar":"لوس أنجلوس"},{"en":"Chicago","ar":"شيكاغو"}],"correctAnswer":0,"explanation_en":"Washington, D.C. is the capital of the USA.","explanation_ar":"واشنطن هي عاصمة أمريكا."},
-  {"id":"GEN-010-039","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which fruit is Egypt famous for growing and exporting a lot of?","question_ar":"إيه الفاكهة اللي مصر مشهورة إنها بتزرعها وتصدرها كتير؟","options":[{"en":"Oranges","ar":"البرتقال"},{"en":"Pineapples","ar":"الأناناس"},{"en":"Coconuts","ar":"جوز الهند"},{"en":"Cherries","ar":"الكرز"}],"correctAnswer":0,"explanation_en":"Egypt is a major exporter of oranges.","explanation_ar":"مصر من أكبر مصدري البرتقال في العالم."},
-  {"id":"GEN-010-040","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What do you call the shop where you buy medicine?","question_ar":"بنسمي المحل اللي بنشتري منه الدوا إيه؟","options":[{"en":"Pharmacy","ar":"صيدلية"},{"en":"Bakery","ar":"مخبز"},{"en":"Bookstore","ar":"مكتبة"},{"en":"Butcher","ar":"جزارة"}],"correctAnswer":0,"explanation_en":"Medicine is bought at a pharmacy.","explanation_ar":"الدوا بيتشترى من الصيدلية."},
-  {"id":"GEN-010-041","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which animal is known as man's best friend?","question_ar":"إيه الحيوان المعروف إنه صديق الإنسان؟","options":[{"en":"Dog","ar":"الكلب"},{"en":"Cat","ar":"القطة"},{"en":"Horse","ar":"الحصان"},{"en":"Parrot","ar":"الببغاء"}],"correctAnswer":0,"explanation_en":"Dogs are known as man's best friend.","explanation_ar":"الكلب معروف إنه صديق الإنسان."},
-  {"id":"GEN-010-042","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the tallest structure in ancient Egypt made of stone blocks called?","question_ar":"إيه اسم البناء الحجري الشهير في مصر القديمة؟","options":[{"en":"Pyramid","ar":"هرم"},{"en":"Tower","ar":"برج"},{"en":"Castle","ar":"قلعة"},{"en":"Bridge","ar":"كوبري"}],"correctAnswer":0,"explanation_en":"Ancient Egyptians built pyramids from stone blocks.","explanation_ar":"المصريين القدماء بنوا الأهرامات من كتل حجرية."},
-  {"id":"GEN-010-043","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the name of the messaging app with a green icon most used in Egypt?","question_ar":"إيه اسم أكتر تطبيق مراسلة أخضر مستخدم في مصر؟","options":[{"en":"WhatsApp","ar":"واتساب"},{"en":"Telegram","ar":"تليجرام"},{"en":"Signal","ar":"سيجنال"},{"en":"Viber","ar":"فايبر"}],"correctAnswer":0,"explanation_en":"WhatsApp is the most widely used messaging app in Egypt.","explanation_ar":"واتساب هو أكتر تطبيق مراسلة مستخدم في مصر."},
-  {"id":"GEN-010-044","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"How many minutes are there in one hour?","question_ar":"الساعة فيها كام دقيقة؟","options":[{"en":"60","ar":"60"},{"en":"30","ar":"30"},{"en":"100","ar":"100"},{"en":"24","ar":"24"}],"correctAnswer":0,"explanation_en":"One hour has 60 minutes.","explanation_ar":"الساعة فيها 60 دقيقة."},
-  {"id":"GEN-010-045","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the primary ingredient used to bake bread?","question_ar":"إيه المكون الأساسي اللي بيتعمل بيه العيش؟","options":[{"en":"Flour","ar":"دقيق"},{"en":"Sugar","ar":"سكر"},{"en":"Salt only","ar":"ملح بس"},{"en":"Rice","ar":"رز"}],"correctAnswer":0,"explanation_en":"Bread is primarily made from flour.","explanation_ar":"العيش بيتعمل أساسًا من الدقيق."},
-  {"id":"GEN-010-046","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What is the name of the biggest social media app that lets you post photos and short videos with filters, owned by Meta?","question_ar":"إيه اسم أشهر تطبيق سوشيال ميديا بينشر صور وفيديوهات قصيرة بفلاتر ومملوك لميتا؟","options":[{"en":"Instagram","ar":"إنستجرام"},{"en":"LinkedIn","ar":"لينكدإن"},{"en":"Pinterest","ar":"بينتريست"},{"en":"Reddit","ar":"ريديت"}],"correctAnswer":0,"explanation_en":"Instagram is Meta's photo and video sharing app.","explanation_ar":"إنستجرام هو تطبيق ميتا لمشاركة الصور والفيديوهات."},
-  {"id":"GEN-010-047","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which shape has three sides?","question_ar":"إيه الشكل اللي له 3 أضلاع؟","options":[{"en":"Triangle","ar":"مثلث"},{"en":"Square","ar":"مربع"},{"en":"Circle","ar":"دايرة"},{"en":"Pentagon","ar":"خماسي"}],"correctAnswer":0,"explanation_en":"A triangle has three sides.","explanation_ar":"المثلث له 3 أضلاع."},
-  {"id":"GEN-010-048","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What do we call the meal eaten in the morning?","question_ar":"بنسمي الأكلة اللي بتتاكل الصبح إيه؟","options":[{"en":"Breakfast","ar":"فطار"},{"en":"Lunch","ar":"غدا"},{"en":"Dinner","ar":"عشا"},{"en":"Snack","ar":"سناك"}],"correctAnswer":0,"explanation_en":"The morning meal is called breakfast.","explanation_ar":"الأكلة اللي بتتاكل الصبح اسمها فطار."},
-  {"id":"GEN-010-049","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"Which of these is a well-known Egyptian sea popular for diving and coral reefs?","question_ar":"إيه البحر المصري المشهور بالغطس والشعاب المرجانية؟","options":[{"en":"The Red Sea","ar":"البحر الأحمر"},{"en":"The Caspian Sea","ar":"بحر قزوين"},{"en":"The Baltic Sea","ar":"بحر البلطيق"},{"en":"The Dead Sea","ar":"البحر الميت"}],"correctAnswer":0,"explanation_en":"The Red Sea is famous for diving and coral reefs.","explanation_ar":"البحر الأحمر مشهور بالغطس والشعاب المرجانية."},
-  {"id":"GEN-010-050","category":"General Knowledge","category_ar":"عامة","value":10,"difficulty":1,"question_en":"What do we call a person who flies a plane?","question_ar":"بنسمي اللي بيطير الطيارة إيه؟","options":[{"en":"Pilot","ar":"طيار"},{"en":"Captain (ship)","ar":"كابتن مركب"},{"en":"Driver","ar":"سواق"},{"en":"Conductor","ar":"كمساري"}],"correctAnswer":0,"explanation_en":"A person who flies a plane is called a pilot.","explanation_ar":"اللي بيطير الطيارة بيتسمى طيار."}
+  {
+    "id": "GEN-010-001",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the capital of Egypt?",
+    "question_ar": "إيه عاصمة مصر؟",
+    "options": [
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      {
+        "en": "Giza",
+        "ar": "الجيزة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Cairo is Egypt's capital and largest city.",
+    "explanation_ar": "القاهرة هي عاصمة مصر وأكبر مدنها."
+  },
+  {
+    "id": "GEN-010-002",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the official currency of Egypt?",
+    "question_ar": "إيه هي عملة مصر الرسمية؟",
+    "options": [
+      {
+        "en": "Egyptian Dollar",
+        "ar": "الدولار المصري"
+      },
+      {
+        "en": "Egyptian Pound",
+        "ar": "الجنيه المصري"
+      },
+      {
+        "en": "Egyptian Dinar",
+        "ar": "الدينار المصري"
+      },
+      {
+        "en": "Egyptian Riyal",
+        "ar": "الريال المصري"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Egyptian pound (EGP) is the official currency of Egypt.",
+    "explanation_ar": "الجنيه المصري هو العملة الرسمية لمصر."
+  },
+  {
+    "id": "GEN-010-003",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "How many days are there in a week?",
+    "question_ar": "الأسبوع فيه كام يوم؟",
+    "options": [
+      {
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "A week has 7 days.",
+    "explanation_ar": "الأسبوع فيه 7 أيام."
+  },
+  {
+    "id": "GEN-010-004",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which famous river runs through Egypt?",
+    "question_ar": "إيه النهر الشهير اللي بيمر في مصر؟",
+    "options": [
+      {
+        "en": "The Amazon",
+        "ar": "نهر الأمازون"
+      },
+      {
+        "en": "The Congo",
+        "ar": "نهر الكونغو"
+      },
+      {
+        "en": "The Danube",
+        "ar": "نهر الدانوب"
+      },
+      {
+        "en": "The Nile",
+        "ar": "نهر النيل"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The Nile is the river that flows through Egypt.",
+    "explanation_ar": "نهر النيل هو اللي بيمر في مصر."
+  },
+  {
+    "id": "GEN-010-005",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which company makes the iPhone?",
+    "question_ar": "إيه الشركة اللي بتصنع الآيفون؟",
+    "options": [
+      {
+        "en": "Apple",
+        "ar": "آبل"
+      },
+      {
+        "en": "Samsung",
+        "ar": "سامسونج"
+      },
+      {
+        "en": "Nokia",
+        "ar": "نوكيا"
+      },
+      {
+        "en": "Sony",
+        "ar": "سوني"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The iPhone is made by Apple.",
+    "explanation_ar": "الآيفون بتصنعه شركة آبل."
+  },
+  {
+    "id": "GEN-010-006",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which is the world's most used search engine?",
+    "question_ar": "إيه أكتر محرك بحث مستخدم في العالم؟",
+    "options": [
+      {
+        "en": "Bing",
+        "ar": "بينج"
+      },
+      {
+        "en": "Google",
+        "ar": "جوجل"
+      },
+      {
+        "en": "Yahoo",
+        "ar": "ياهو"
+      },
+      {
+        "en": "Safari",
+        "ar": "سفاري"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Google is the world's most used search engine.",
+    "explanation_ar": "جوجل هو أكتر محرك بحث مستخدم في العالم."
+  },
+  {
+    "id": "GEN-010-007",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which video platform has a red and white play-button logo?",
+    "question_ar": "إيه منصة الفيديوهات اللي شعارها لون أحمر وأبيض؟",
+    "options": [
+      {
+        "en": "TikTok",
+        "ar": "تيك توك"
+      },
+      {
+        "en": "Vimeo",
+        "ar": "فيميو"
+      },
+      {
+        "en": "YouTube",
+        "ar": "يوتيوب"
+      },
+      {
+        "en": "Twitch",
+        "ar": "تويتش"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "YouTube's logo is a red play button.",
+    "explanation_ar": "شعار يوتيوب زرار تشغيل أحمر."
+  },
+  {
+    "id": "GEN-010-008",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which fast food chain is known for its golden arches?",
+    "question_ar": "إيه سلسلة الأكل السريع المعروفة بالقوسين الدهبيين؟",
+    "options": [
+      {
+        "en": "Burger King",
+        "ar": "برجر كنج"
+      },
+      {
+        "en": "KFC",
+        "ar": "كنتاكي"
+      },
+      {
+        "en": "Hardee's",
+        "ar": "هارديز"
+      },
+      {
+        "en": "McDonald's",
+        "ar": "ماكدونالدز"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "McDonald's logo is the golden arches (M).",
+    "explanation_ar": "شعار ماكدونالدز هو القوسين الدهبيين (حرف M)."
+  },
+  {
+    "id": "GEN-010-009",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What are Egypt's most famous ancient monuments called?",
+    "question_ar": "إيه اسم أشهر آثار مصر القديمة؟",
+    "options": [
+      {
+        "en": "The Pyramids",
+        "ar": "الأهرامات"
+      },
+      {
+        "en": "The Colosseum",
+        "ar": "الكولوسيوم"
+      },
+      {
+        "en": "Stonehenge",
+        "ar": "ستونهنج"
+      },
+      {
+        "en": "The Acropolis",
+        "ar": "الأكروبوليس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Egypt is famous worldwide for its Pyramids.",
+    "explanation_ar": "مصر مشهورة عالميًا بالأهرامات."
+  },
+  {
+    "id": "GEN-010-010",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "In which Egyptian city are the Great Pyramids located?",
+    "question_ar": "الأهرامات موجودة في إيه المدينة؟",
+    "options": [
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      {
+        "en": "Giza",
+        "ar": "الجيزة"
+      },
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Great Pyramids and the Sphinx are in Giza.",
+    "explanation_ar": "الأهرامات وأبو الهول موجودين في الجيزة."
+  },
+  {
+    "id": "GEN-010-011",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which continent is Egypt located in?",
+    "question_ar": "مصر موجودة في إيه القارة؟",
+    "options": [
+      {
+        "en": "Europe",
+        "ar": "أوروبا"
+      },
+      {
+        "en": "South America",
+        "ar": "أمريكا الجنوبية"
+      },
+      {
+        "en": "Africa",
+        "ar": "أفريقيا"
+      },
+      {
+        "en": "Oceania",
+        "ar": "أوقيانوسيا"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Egypt is located in Africa.",
+    "explanation_ar": "مصر موجودة في قارة أفريقيا."
+  },
+  {
+    "id": "GEN-010-012",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "How many continents are there in the world?",
+    "question_ar": "عدد قارات العالم كام؟",
+    "options": [
+      {
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "There are 7 continents in the world.",
+    "explanation_ar": "عدد قارات العالم 7."
+  },
+  {
+    "id": "GEN-010-013",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which planet do we live on?",
+    "question_ar": "إحنا عايشين على إيه كوكب؟",
+    "options": [
+      {
+        "en": "Earth",
+        "ar": "الأرض"
+      },
+      {
+        "en": "Mars",
+        "ar": "المريخ"
+      },
+      {
+        "en": "Venus",
+        "ar": "الزهرة"
+      },
+      {
+        "en": "Jupiter",
+        "ar": "المشتري"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "We live on planet Earth.",
+    "explanation_ar": "إحنا عايشين على كوكب الأرض."
+  },
+  {
+    "id": "GEN-010-014",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the star at the center of our solar system called?",
+    "question_ar": "إيه اسم النجم اللي في نص المجموعة الشمسية؟",
+    "options": [
+      {
+        "en": "The Moon",
+        "ar": "القمر"
+      },
+      {
+        "en": "The Sun",
+        "ar": "الشمس"
+      },
+      {
+        "en": "Sirius",
+        "ar": "الشعرى"
+      },
+      {
+        "en": "Polaris",
+        "ar": "النجم القطبي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Sun is the star at the center of our solar system.",
+    "explanation_ar": "الشمس هي النجم اللي في نص المجموعة الشمسية."
+  },
+  {
+    "id": "GEN-010-015",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What are the colors of the Egyptian flag?",
+    "question_ar": "إيه ألوان علم مصر؟",
+    "options": [
+      {
+        "en": "Green, white, black",
+        "ar": "أخضر، أبيض، أسود"
+      },
+      {
+        "en": "Blue, white, red",
+        "ar": "أزرق، أبيض، أحمر"
+      },
+      {
+        "en": "Red, white, black",
+        "ar": "أحمر، أبيض، أسود"
+      },
+      {
+        "en": "Red, yellow, green",
+        "ar": "أحمر، أصفر، أخضر"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Egyptian flag is red, white and black with a golden eagle.",
+    "explanation_ar": "علم مصر أحمر وأبيض وأسود وفيه نسر دهبي."
+  },
+  {
+    "id": "GEN-010-016",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the official language of Egypt?",
+    "question_ar": "إيه اللغة الرسمية لمصر؟",
+    "options": [
+      {
+        "en": "French",
+        "ar": "الفرنساوي"
+      },
+      {
+        "en": "Turkish",
+        "ar": "التركي"
+      },
+      {
+        "en": "English",
+        "ar": "الإنجليزي"
+      },
+      {
+        "en": "Arabic",
+        "ar": "العربي"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Arabic is Egypt's official language.",
+    "explanation_ar": "العربي هي اللغة الرسمية لمصر."
+  },
+  {
+    "id": "GEN-010-017",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What color is the main Coca-Cola logo?",
+    "question_ar": "إيه لون شعار كوكاكولا الأساسي؟",
+    "options": [
+      {
+        "en": "Red",
+        "ar": "أحمر"
+      },
+      {
+        "en": "Blue",
+        "ar": "أزرق"
+      },
+      {
+        "en": "Green",
+        "ar": "أخضر"
+      },
+      {
+        "en": "Purple",
+        "ar": "بنفسجي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Coca-Cola's classic logo is red.",
+    "explanation_ar": "شعار كوكاكولا الكلاسيكي لونه أحمر."
+  },
+  {
+    "id": "GEN-010-018",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What color is the WhatsApp app icon?",
+    "question_ar": "إيه لون أيقونة تطبيق واتساب؟",
+    "options": [
+      {
+        "en": "Blue",
+        "ar": "أزرق"
+      },
+      {
+        "en": "Green",
+        "ar": "أخضر"
+      },
+      {
+        "en": "Yellow",
+        "ar": "أصفر"
+      },
+      {
+        "en": "Orange",
+        "ar": "برتقالي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The WhatsApp icon is green.",
+    "explanation_ar": "أيقونة واتساب لونها أخضر."
+  },
+  {
+    "id": "GEN-010-019",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which company is famous for making electric cars and is led by Elon Musk?",
+    "question_ar": "إيه الشركة المشهورة بالعربيات الكهربا ومديرها إيلون ماسك؟",
+    "options": [
+      {
+        "en": "Toyota",
+        "ar": "تويوتا"
+      },
+      {
+        "en": "Ford",
+        "ar": "فورد"
+      },
+      {
+        "en": "Tesla",
+        "ar": "تسلا"
+      },
+      {
+        "en": "BMW",
+        "ar": "بي إم دبليو"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Tesla makes electric cars and is led by Elon Musk.",
+    "explanation_ar": "تسلا بتصنع عربيات كهربا وإيلون ماسك هو مديرها."
+  },
+  {
+    "id": "GEN-010-020",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do bees produce that people eat?",
+    "question_ar": "إيه اللي بتنتجه النحلة وبناكله؟",
+    "options": [
+      {
+        "en": "Milk",
+        "ar": "لبن"
+      },
+      {
+        "en": "Sugar",
+        "ar": "سكر"
+      },
+      {
+        "en": "Butter",
+        "ar": "زبدة"
+      },
+      {
+        "en": "Honey",
+        "ar": "عسل"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Bees produce honey.",
+    "explanation_ar": "النحل بينتج العسل."
+  },
+  {
+    "id": "GEN-010-021",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the largest mammal in the world?",
+    "question_ar": "إيه أكبر حيوان ثديي في العالم؟",
+    "options": [
+      {
+        "en": "Blue whale",
+        "ar": "الحوت الأزرق"
+      },
+      {
+        "en": "Elephant",
+        "ar": "الفيل"
+      },
+      {
+        "en": "Giraffe",
+        "ar": "الزرافة"
+      },
+      {
+        "en": "Hippo",
+        "ar": "فرس النهر"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The blue whale is the largest mammal on Earth.",
+    "explanation_ar": "الحوت الأزرق هو أكبر حيوان ثديي على الأرض."
+  },
+  {
+    "id": "GEN-010-022",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the capital of France?",
+    "question_ar": "إيه عاصمة فرنسا؟",
+    "options": [
+      {
+        "en": "Lyon",
+        "ar": "ليون"
+      },
+      {
+        "en": "Paris",
+        "ar": "باريس"
+      },
+      {
+        "en": "Marseille",
+        "ar": "مارسيليا"
+      },
+      {
+        "en": "Nice",
+        "ar": "نيس"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Paris is the capital of France.",
+    "explanation_ar": "باريس هي عاصمة فرنسا."
+  },
+  {
+    "id": "GEN-010-023",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What color do you get when you mix blue and yellow?",
+    "question_ar": "لو خلطت الأزرق مع الأصفر هيطلع إيه لون؟",
+    "options": [
+      {
+        "en": "Purple",
+        "ar": "بنفسجي"
+      },
+      {
+        "en": "Orange",
+        "ar": "برتقالي"
+      },
+      {
+        "en": "Green",
+        "ar": "أخضر"
+      },
+      {
+        "en": "Brown",
+        "ar": "بني"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Mixing blue and yellow makes green.",
+    "explanation_ar": "خلط الأزرق مع الأصفر بيطلع أخضر."
+  },
+  {
+    "id": "GEN-010-024",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "How many colors are there in a rainbow?",
+    "question_ar": "قوس قزح فيه كام لون؟",
+    "options": [
+      {
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "A rainbow has 7 colors.",
+    "explanation_ar": "قوس قزح فيه 7 ألوان."
+  },
+  {
+    "id": "GEN-010-025",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which animal is known as the tallest in the world?",
+    "question_ar": "إيه أطول حيوان في العالم؟",
+    "options": [
+      {
+        "en": "Giraffe",
+        "ar": "الزرافة"
+      },
+      {
+        "en": "Elephant",
+        "ar": "الفيل"
+      },
+      {
+        "en": "Camel",
+        "ar": "الجمل"
+      },
+      {
+        "en": "Horse",
+        "ar": "الحصان"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The giraffe is the tallest animal in the world.",
+    "explanation_ar": "الزرافة هي أطول حيوان في العالم."
+  },
+  {
+    "id": "GEN-010-026",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the largest planet in our solar system?",
+    "question_ar": "إيه أكبر كوكب في المجموعة الشمسية؟",
+    "options": [
+      {
+        "en": "Saturn",
+        "ar": "زحل"
+      },
+      {
+        "en": "Jupiter",
+        "ar": "المشتري"
+      },
+      {
+        "en": "Earth",
+        "ar": "الأرض"
+      },
+      {
+        "en": "Mars",
+        "ar": "المريخ"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Jupiter is the largest planet in our solar system.",
+    "explanation_ar": "المشتري هو أكبر كوكب في المجموعة الشمسية."
+  },
+  {
+    "id": "GEN-010-027",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do we call frozen water?",
+    "question_ar": "بنسمي المية لما بتتجمد إيه؟",
+    "options": [
+      {
+        "en": "Steam",
+        "ar": "بخار"
+      },
+      {
+        "en": "Snowman",
+        "ar": "رجل التلج"
+      },
+      {
+        "en": "Ice",
+        "ar": "تلج"
+      },
+      {
+        "en": "Frost only",
+        "ar": "صقيع بس"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Frozen water is called ice.",
+    "explanation_ar": "المية لما بتتجمد بنسميها تلج."
+  },
+  {
+    "id": "GEN-010-028",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "How many legs does a spider have?",
+    "question_ar": "العنكبوت له كام رجل؟",
+    "options": [
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Spiders have 8 legs.",
+    "explanation_ar": "العنكبوت له 8 أرجل."
+  },
+  {
+    "id": "GEN-010-029",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the name of Egypt's national airline?",
+    "question_ar": "إيه اسم شركة الطيران الوطنية لمصر؟",
+    "options": [
+      {
+        "en": "EgyptAir",
+        "ar": "مصر للطيران"
+      },
+      {
+        "en": "Emirates",
+        "ar": "طيران الإمارات"
+      },
+      {
+        "en": "Qatar Airways",
+        "ar": "القطرية"
+      },
+      {
+        "en": "Nile Air",
+        "ar": "نايل إير"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "EgyptAir is Egypt's national flag carrier.",
+    "explanation_ar": "مصر للطيران هي شركة الطيران الوطنية لمصر."
+  },
+  {
+    "id": "GEN-010-030",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the capital of the United Kingdom?",
+    "question_ar": "إيه عاصمة بريطانيا؟",
+    "options": [
+      {
+        "en": "Manchester",
+        "ar": "مانشستر"
+      },
+      {
+        "en": "London",
+        "ar": "لندن"
+      },
+      {
+        "en": "Liverpool",
+        "ar": "ليفربول"
+      },
+      {
+        "en": "Birmingham",
+        "ar": "برمنجهام"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "London is the capital of the United Kingdom.",
+    "explanation_ar": "لندن هي عاصمة بريطانيا."
+  },
+  {
+    "id": "GEN-010-031",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What color is a standard stop sign?",
+    "question_ar": "إشارة قف لونها إيه عادة؟",
+    "options": [
+      {
+        "en": "Green",
+        "ar": "أخضر"
+      },
+      {
+        "en": "Yellow",
+        "ar": "أصفر"
+      },
+      {
+        "en": "Red",
+        "ar": "أحمر"
+      },
+      {
+        "en": "Blue",
+        "ar": "أزرق"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Stop signs are red.",
+    "explanation_ar": "إشارة قف لونها أحمر."
+  },
+  {
+    "id": "GEN-010-032",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What currency is used in the United States?",
+    "question_ar": "إيه العملة المستخدمة في أمريكا؟",
+    "options": [
+      {
+        "en": "Pound",
+        "ar": "الجنيه"
+      },
+      {
+        "en": "Euro",
+        "ar": "اليورو"
+      },
+      {
+        "en": "Peso",
+        "ar": "البيزو"
+      },
+      {
+        "en": "Dollar",
+        "ar": "الدولار"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The US dollar is the currency of the United States.",
+    "explanation_ar": "الدولار هو عملة أمريكا."
+  },
+  {
+    "id": "GEN-010-033",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which sea is on Egypt's northern coast?",
+    "question_ar": "إيه البحر اللي على شمال مصر؟",
+    "options": [
+      {
+        "en": "The Mediterranean Sea",
+        "ar": "البحر الأبيض المتوسط"
+      },
+      {
+        "en": "The Caspian Sea",
+        "ar": "بحر قزوين"
+      },
+      {
+        "en": "The Black Sea",
+        "ar": "البحر الأسود"
+      },
+      {
+        "en": "The Arabian Sea",
+        "ar": "البحر العربي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Mediterranean Sea borders Egypt's north coast.",
+    "explanation_ar": "البحر الأبيض المتوسط على شمال مصر."
+  },
+  {
+    "id": "GEN-010-034",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is Egypt's second largest city?",
+    "question_ar": "إيه ثاني أكبر مدينة في مصر؟",
+    "options": [
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Mansoura",
+        "ar": "المنصورة"
+      },
+      {
+        "en": "Tanta",
+        "ar": "طنطا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Alexandria is Egypt's second largest city.",
+    "explanation_ar": "الإسكندرية هي ثاني أكبر مدينة في مصر."
+  },
+  {
+    "id": "GEN-010-035",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What does 'www' stand for on a website address?",
+    "question_ar": "إيه معنى 'www' اللي بنشوفها في عنوان المواقع؟",
+    "options": [
+      {
+        "en": "World Wide Wire",
+        "ar": "وورلد وايد واير"
+      },
+      {
+        "en": "Web Wide World",
+        "ar": "ويب وايد وورلد"
+      },
+      {
+        "en": "World Wide Web",
+        "ar": "وورلد وايد ويب"
+      },
+      {
+        "en": "Web World Wire",
+        "ar": "ويب وورلد واير"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "'www' stands for World Wide Web.",
+    "explanation_ar": "'www' معناها World Wide Web."
+  },
+  {
+    "id": "GEN-010-036",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What symbol is used in every email address, like name(at)example.com?",
+    "question_ar": "إيه العلامة اللي بتتحط في كل إيميل، زي name(at)example.com؟",
+    "options": [
+      {
+        "en": "#",
+        "ar": "#"
+      },
+      {
+        "en": "&",
+        "ar": "&"
+      },
+      {
+        "en": "%",
+        "ar": "%"
+      },
+      {
+        "en": "@",
+        "ar": "@"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The @ symbol is used in every email address.",
+    "explanation_ar": "علامة @ بتتحط في كل إيميل."
+  },
+  {
+    "id": "GEN-010-037",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which company owns Instagram?",
+    "question_ar": "إيه الشركة اللي مالكة إنستجرام؟",
+    "options": [
+      {
+        "en": "Meta",
+        "ar": "ميتا"
+      },
+      {
+        "en": "Google",
+        "ar": "جوجل"
+      },
+      {
+        "en": "Apple",
+        "ar": "آبل"
+      },
+      {
+        "en": "Microsoft",
+        "ar": "مايكروسوفت"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Instagram is owned by Meta (formerly Facebook).",
+    "explanation_ar": "إنستجرام مملوكة لشركة ميتا (فيسبوك سابقًا)."
+  },
+  {
+    "id": "GEN-010-038",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the capital of the USA?",
+    "question_ar": "إيه عاصمة أمريكا؟",
+    "options": [
+      {
+        "en": "New York",
+        "ar": "نيويورك"
+      },
+      {
+        "en": "Washington, D.C.",
+        "ar": "واشنطن"
+      },
+      {
+        "en": "Los Angeles",
+        "ar": "لوس أنجلوس"
+      },
+      {
+        "en": "Chicago",
+        "ar": "شيكاغو"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Washington, D.C. is the capital of the USA.",
+    "explanation_ar": "واشنطن هي عاصمة أمريكا."
+  },
+  {
+    "id": "GEN-010-039",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which fruit is Egypt famous for growing and exporting a lot of?",
+    "question_ar": "إيه الفاكهة اللي مصر مشهورة إنها بتزرعها وتصدرها كتير؟",
+    "options": [
+      {
+        "en": "Pineapples",
+        "ar": "الأناناس"
+      },
+      {
+        "en": "Coconuts",
+        "ar": "جوز الهند"
+      },
+      {
+        "en": "Oranges",
+        "ar": "البرتقال"
+      },
+      {
+        "en": "Cherries",
+        "ar": "الكرز"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Egypt is a major exporter of oranges.",
+    "explanation_ar": "مصر من أكبر مصدري البرتقال في العالم."
+  },
+  {
+    "id": "GEN-010-040",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do you call the shop where you buy medicine?",
+    "question_ar": "بنسمي المحل اللي بنشتري منه الدوا إيه؟",
+    "options": [
+      {
+        "en": "Bakery",
+        "ar": "مخبز"
+      },
+      {
+        "en": "Bookstore",
+        "ar": "مكتبة"
+      },
+      {
+        "en": "Butcher",
+        "ar": "جزارة"
+      },
+      {
+        "en": "Pharmacy",
+        "ar": "صيدلية"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Medicine is bought at a pharmacy.",
+    "explanation_ar": "الدوا بيتشترى من الصيدلية."
+  },
+  {
+    "id": "GEN-010-041",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which animal is known as man's best friend?",
+    "question_ar": "إيه الحيوان المعروف إنه صديق الإنسان؟",
+    "options": [
+      {
+        "en": "Dog",
+        "ar": "الكلب"
+      },
+      {
+        "en": "Cat",
+        "ar": "القطة"
+      },
+      {
+        "en": "Horse",
+        "ar": "الحصان"
+      },
+      {
+        "en": "Parrot",
+        "ar": "الببغاء"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Dogs are known as man's best friend.",
+    "explanation_ar": "الكلب معروف إنه صديق الإنسان."
+  },
+  {
+    "id": "GEN-010-042",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the tallest structure in ancient Egypt made of stone blocks called?",
+    "question_ar": "إيه اسم البناء الحجري الشهير في مصر القديمة؟",
+    "options": [
+      {
+        "en": "Tower",
+        "ar": "برج"
+      },
+      {
+        "en": "Pyramid",
+        "ar": "هرم"
+      },
+      {
+        "en": "Castle",
+        "ar": "قلعة"
+      },
+      {
+        "en": "Bridge",
+        "ar": "كوبري"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Ancient Egyptians built pyramids from stone blocks.",
+    "explanation_ar": "المصريين القدماء بنوا الأهرامات من كتل حجرية."
+  },
+  {
+    "id": "GEN-010-043",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the name of the messaging app with a green icon most used in Egypt?",
+    "question_ar": "إيه اسم أكتر تطبيق مراسلة أخضر مستخدم في مصر؟",
+    "options": [
+      {
+        "en": "Telegram",
+        "ar": "تليجرام"
+      },
+      {
+        "en": "Signal",
+        "ar": "سيجنال"
+      },
+      {
+        "en": "WhatsApp",
+        "ar": "واتساب"
+      },
+      {
+        "en": "Viber",
+        "ar": "فايبر"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "WhatsApp is the most widely used messaging app in Egypt.",
+    "explanation_ar": "واتساب هو أكتر تطبيق مراسلة مستخدم في مصر."
+  },
+  {
+    "id": "GEN-010-044",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "How many minutes are there in one hour?",
+    "question_ar": "الساعة فيها كام دقيقة؟",
+    "options": [
+      {
+        "en": "30",
+        "ar": "30"
+      },
+      {
+        "en": "100",
+        "ar": "100"
+      },
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "60",
+        "ar": "60"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "One hour has 60 minutes.",
+    "explanation_ar": "الساعة فيها 60 دقيقة."
+  },
+  {
+    "id": "GEN-010-045",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the primary ingredient used to bake bread?",
+    "question_ar": "إيه المكون الأساسي اللي بيتعمل بيه العيش؟",
+    "options": [
+      {
+        "en": "Flour",
+        "ar": "دقيق"
+      },
+      {
+        "en": "Sugar",
+        "ar": "سكر"
+      },
+      {
+        "en": "Salt only",
+        "ar": "ملح بس"
+      },
+      {
+        "en": "Rice",
+        "ar": "رز"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Bread is primarily made from flour.",
+    "explanation_ar": "العيش بيتعمل أساسًا من الدقيق."
+  },
+  {
+    "id": "GEN-010-046",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the name of the biggest social media app that lets you post photos and short videos with filters, owned by Meta?",
+    "question_ar": "إيه اسم أشهر تطبيق سوشيال ميديا بينشر صور وفيديوهات قصيرة بفلاتر ومملوك لميتا؟",
+    "options": [
+      {
+        "en": "LinkedIn",
+        "ar": "لينكدإن"
+      },
+      {
+        "en": "Instagram",
+        "ar": "إنستجرام"
+      },
+      {
+        "en": "Pinterest",
+        "ar": "بينتريست"
+      },
+      {
+        "en": "Reddit",
+        "ar": "ريديت"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Instagram is Meta's photo and video sharing app.",
+    "explanation_ar": "إنستجرام هو تطبيق ميتا لمشاركة الصور والفيديوهات."
+  },
+  {
+    "id": "GEN-010-047",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which shape has three sides?",
+    "question_ar": "إيه الشكل اللي له 3 أضلاع؟",
+    "options": [
+      {
+        "en": "Square",
+        "ar": "مربع"
+      },
+      {
+        "en": "Circle",
+        "ar": "دايرة"
+      },
+      {
+        "en": "Triangle",
+        "ar": "مثلث"
+      },
+      {
+        "en": "Pentagon",
+        "ar": "خماسي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "A triangle has three sides.",
+    "explanation_ar": "المثلث له 3 أضلاع."
+  },
+  {
+    "id": "GEN-010-048",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do we call the meal eaten in the morning?",
+    "question_ar": "بنسمي الأكلة اللي بتتاكل الصبح إيه؟",
+    "options": [
+      {
+        "en": "Lunch",
+        "ar": "غدا"
+      },
+      {
+        "en": "Dinner",
+        "ar": "عشا"
+      },
+      {
+        "en": "Snack",
+        "ar": "سناك"
+      },
+      {
+        "en": "Breakfast",
+        "ar": "فطار"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The morning meal is called breakfast.",
+    "explanation_ar": "الأكلة اللي بتتاكل الصبح اسمها فطار."
+  },
+  {
+    "id": "GEN-010-049",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which of these is a well-known Egyptian sea popular for diving and coral reefs?",
+    "question_ar": "إيه البحر المصري المشهور بالغطس والشعاب المرجانية؟",
+    "options": [
+      {
+        "en": "The Red Sea",
+        "ar": "البحر الأحمر"
+      },
+      {
+        "en": "The Caspian Sea",
+        "ar": "بحر قزوين"
+      },
+      {
+        "en": "The Baltic Sea",
+        "ar": "بحر البلطيق"
+      },
+      {
+        "en": "The Dead Sea",
+        "ar": "البحر الميت"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Red Sea is famous for diving and coral reefs.",
+    "explanation_ar": "البحر الأحمر مشهور بالغطس والشعاب المرجانية."
+  },
+  {
+    "id": "GEN-010-050",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What do we call a person who flies a plane?",
+    "question_ar": "بنسمي اللي بيطير الطيارة إيه؟",
+    "options": [
+      {
+        "en": "Captain (ship)",
+        "ar": "كابتن مركب"
+      },
+      {
+        "en": "Pilot",
+        "ar": "طيار"
+      },
+      {
+        "en": "Driver",
+        "ar": "سواق"
+      },
+      {
+        "en": "Conductor",
+        "ar": "كمساري"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "A person who flies a plane is called a pilot.",
+    "explanation_ar": "اللي بيطير الطيارة بيتسمى طيار."
+  }
 ]

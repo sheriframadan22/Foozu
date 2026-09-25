@@ -95,29 +95,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US band's 1969 Woodstock performance was delayed until Monday morning, closing the festival after a night of rain?",
-    "question_ar": "أنهي فرقة/فنان أدى في وودستوك 1969 بعد تأجيل لصباح الاتنين، وختم المهرجان بعد ليلة مطر؟",
+    "question_en": "Which Latin rock guitarist's breakout performance of \"Soul Sacrifice\" at Woodstock 1969 launched his band's mainstream fame?",
+    "question_ar": "أداء أنهي عازف جيتار من أصل لاتيني لأغنية \"Soul Sacrifice\" في وودستوك 1969 أطلق شهرة فرقته على المستوى العالمي؟",
     "options": [
-      {
-        "en": "The Grateful Dead",
-        "ar": "ذا جريتفل ديد"
-      },
-      {
-        "en": "Santana",
-        "ar": "سانتانا"
-      },
-      {
-        "en": "Sly and the Family Stone",
-        "ar": "سلاي آند ذا فاميلي ستون"
-      },
       {
         "en": "Jimi Hendrix",
         "ar": "جيمي هيندريكس"
+      },
+      {
+        "en": "Eric Clapton",
+        "ar": "إريك كلابتون"
+      },
+      {
+        "en": "Jorge Santana",
+        "ar": "خورخي سانتانا"
+      },
+      {
+        "en": "Carlos Santana",
+        "ar": "كارلوس سانتانا"
       }
     ],
     "correctAnswer": 3,
-    "explanation_en": "Jimi Hendrix closed Woodstock on Monday morning after the festival ran long due to weather delays.",
-    "explanation_ar": "جيمي هيندريكس ختم وودستوك صباح الاتنين بعد ما اتأجل المهرجان بسبب الجو."
+    "explanation_en": "Carlos Santana's Woodstock 1969 performance of \"Soul Sacrifice\" launched his band's fame.",
+    "explanation_ar": "أداء كارلوس سانتانا لأغنية \"Soul Sacrifice\" في وودستوك 1969 أطلق شهرة فرقته."
   },
   {
     "id": "MUS-200-005",
@@ -395,8 +395,8 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US singer's 1970 death from a heroin overdose came just 16 days after Jimi Hendrix's death, both members of the \"27 Club\"?",
-    "question_ar": "وفاة أنهي مطربة أمريكية سنة 1970 بجرعة هيروين زايدة جت بعد وفاة جيمي هيندريكس بـ16 يوم بس، وكلاهما من \"نادي الـ27\"؟",
+    "question_en": "Which US singer's raspy blues-rock voice on \"Piece of My Heart\" was backed by the band Big Brother and the Holding Company early in her career?",
+    "question_ar": "صوت أنهي مطربة أمريكية الأجش في أغنية \"Piece of My Heart\" كانت مصحوبة بفرقة Big Brother and the Holding Company بداية مشوارها؟",
     "options": [
       {
         "en": "Janis Joplin",
@@ -416,8 +416,8 @@
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Janis Joplin died 16 days after Jimi Hendrix in 1970, both age 27.",
-    "explanation_ar": "جانيس جوبلين ماتت بعد جيمي هيندريكس بـ16 يوم سنة 1970، وكلاهما كان عمره 27 سنة."
+    "explanation_en": "Janis Joplin rose to fame fronting Big Brother and the Holding Company.",
+    "explanation_ar": "جانيس جوبلين اشتهرت وهي بتغني مع فرقة Big Brother and the Holding Company."
   },
   {
     "id": "MUS-200-015",
@@ -1475,28 +1475,28 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US rock band's 1976 album \"Hotel California\" won the Grammy for Record of the Year for its title track?",
-    "question_ar": "ألبوم أنهي فرقة أمريكية سنة 1976 \"Hotel California\" فازت أغنيته الرئيسية بجايزة جرامي لتسجيل العام؟",
+    "question_en": "Which US singer-songwriter's 1972 album \"Harvest\" produced his only US number-one single, \"Heart of Gold\"?",
+    "question_ar": "ألبوم أنهي فنان أمريكي-كندي سنة 1972 \"Harvest\" فيه أغنيته الوحيدة اللي وصلت لرقم 1 في أمريكا \"Heart of Gold\"؟",
     "options": [
       {
-        "en": "Eagles",
-        "ar": "إيجلز"
+        "en": "Neil Young",
+        "ar": "نيل يانج"
       },
       {
-        "en": "Fleetwood Mac",
-        "ar": "فليتوود ماك"
+        "en": "James Taylor",
+        "ar": "جيمس تايلور"
       },
       {
-        "en": "Boston",
-        "ar": "بوسطن"
+        "en": "Jackson Browne",
+        "ar": "جاكسون براون"
       },
       {
-        "en": "Steely Dan",
-        "ar": "ستيلي دان"
+        "en": "Gordon Lightfoot",
+        "ar": "جوردون لايتفوت"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "The Eagles' \"Hotel California\" won the Grammy for Record of the Year.",
-    "explanation_ar": "أغنية \"Hotel California\" للإيجلز فازت بجايزة جرامي لتسجيل العام."
+    "explanation_en": "Neil Young's \"Heart of Gold\", from the album \"Harvest\", was his only US #1 single.",
+    "explanation_ar": "أغنية نيل يانج \"Heart of Gold\"، من ألبوم \"Harvest\"، كانت أغنيته الوحيدة اللي وصلت لرقم 1 في أمريكا."
   }
 ]

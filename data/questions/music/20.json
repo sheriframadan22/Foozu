@@ -1055,20 +1055,20 @@
     "category_ar": "مزيكا",
     "value": 20,
     "difficulty": 2,
-    "question_en": "Which US singer, called the \"King of Pop\", released the best-selling album of all time, \"Thriller\"?",
-    "question_ar": "أنهي مطرب أمريكي لقبه \"ملك البوب\" وطرح أكتر ألبوم بيع في التاريخ \"Thriller\"؟",
+    "question_en": "Which US singer is known for the moonwalk dance move he popularized in his live performances?",
+    "question_ar": "أنهي مطرب أمريكي معروف بحركة الرقص \"مون ووك\" اللي نشرها في حفلاته الحية؟",
     "options": [
       {
         "en": "Prince",
         "ar": "برنس"
       },
       {
-        "en": "George Michael",
-        "ar": "جورج مايكل"
+        "en": "Usher",
+        "ar": "أشر"
       },
       {
-        "en": "Lionel Richie",
-        "ar": "ليونيل ريتشي"
+        "en": "Chris Brown",
+        "ar": "كريس براون"
       },
       {
         "en": "Michael Jackson",
@@ -1076,9 +1076,8 @@
       }
     ],
     "correctAnswer": 3,
-    "explanation_en": "Michael Jackson's \"Thriller\" is the best-selling album of all time.",
-    "explanation_ar": "ألبوم \"Thriller\" لمايكل جاكسون هو الأكتر مبيعًا في التاريخ.",
-    "verified_as_of": "2024-01"
+    "explanation_en": "Michael Jackson popularized the moonwalk dance move.",
+    "explanation_ar": "مايكل جاكسون نشر حركة رقصة المون ووك."
   },
   {
     "id": "MUS-020-037",

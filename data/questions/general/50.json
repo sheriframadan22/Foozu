@@ -1,52 +1,1503 @@
 [
-  {"id":"GEN-050-001","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the chemical symbol for gold?","question_ar":"إيه الرمز الكيميائي للدهب؟","options":[{"en":"Au","ar":"Au"},{"en":"Ag","ar":"Ag"},{"en":"Go","ar":"Go"},{"en":"Gd","ar":"Gd"}],"correctAnswer":0,"explanation_en":"Gold's chemical symbol is Au, from the Latin 'aurum'.","explanation_ar":"الرمز الكيميائي للدهب هو Au من الكلمة اللاتينية 'aurum'."},
-  {"id":"GEN-050-002","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Who is widely credited with inventing the practical light bulb?","question_ar":"مين اللي بينسب له اختراع اللمبة الكهربائية العملية؟","options":[{"en":"Thomas Edison","ar":"توماس إديسون"},{"en":"Nikola Tesla","ar":"نيكولا تسلا"},{"en":"Alexander Graham Bell","ar":"ألكسندر جراهام بيل"},{"en":"Benjamin Franklin","ar":"بنجامين فرانكلين"}],"correctAnswer":0,"explanation_en":"Thomas Edison is widely credited with developing the practical light bulb.","explanation_ar":"توماس إديسون بينسب له تطوير اللمبة الكهربائية العملية."},
-  {"id":"GEN-050-003","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the smallest country in the world?","question_ar":"إيه أصغر دولة في العالم؟","options":[{"en":"Vatican City","ar":"الفاتيكان"},{"en":"Monaco","ar":"موناكو"},{"en":"San Marino","ar":"سان مارينو"},{"en":"Liechtenstein","ar":"ليختنشتاين"}],"correctAnswer":0,"explanation_en":"Vatican City is the smallest country in the world by area.","explanation_ar":"الفاتيكان أصغر دولة في العالم من حيث المساحة."},
-  {"id":"GEN-050-004","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the largest island in the world?","question_ar":"إيه أكبر جزيرة في العالم؟","options":[{"en":"Greenland","ar":"جرينلاند"},{"en":"Madagascar","ar":"مدغشقر"},{"en":"Borneo","ar":"بورنيو"},{"en":"Iceland","ar":"آيسلندا"}],"correctAnswer":0,"explanation_en":"Greenland is the world's largest island.","explanation_ar":"جرينلاند هي أكبر جزيرة في العالم."},
-  {"id":"GEN-050-005","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the hardest naturally occurring substance on Earth?","question_ar":"إيه أصلب مادة طبيعية على كوكب الأرض؟","options":[{"en":"Diamond","ar":"الألماظ"},{"en":"Quartz","ar":"الكوارتز"},{"en":"Iron","ar":"الحديد"},{"en":"Granite","ar":"الجرانيت"}],"correctAnswer":0,"explanation_en":"Diamond is the hardest naturally occurring substance.","explanation_ar":"الألماظ هو أصلب مادة طبيعية موجودة."},
-  {"id":"GEN-050-006","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"In what year did the Suez Canal officially open?","question_ar":"قناة السويس اتفتحت رسميًا سنة كام؟","options":[{"en":"1869","ar":"1869"},{"en":"1902","ar":"1902"},{"en":"1956","ar":"1956"},{"en":"1820","ar":"1820"}],"correctAnswer":0,"explanation_en":"The Suez Canal opened in 1869.","explanation_ar":"قناة السويس اتفتحت سنة 1869."},
-  {"id":"GEN-050-007","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which architect is famous for designing the unfinished Sagrada Familia in Barcelona?","question_ar":"إيه المهندس المعماري المشهور بتصميم كنيسة الساجرادا فاميليا اللي لسه مش خلصانة في برشلونة؟","options":[{"en":"Antoni Gaudí","ar":"أنطونيو جاودي"},{"en":"Gustave Eiffel","ar":"جوستاف إيفل"},{"en":"Frank Lloyd Wright","ar":"فرانك لويد رايت"},{"en":"Zaha Hadid","ar":"زها حديد"}],"correctAnswer":0,"explanation_en":"Antoni Gaudí designed the Sagrada Familia.","explanation_ar":"أنطونيو جاودي هو مصمم كنيسة الساجرادا فاميليا."},
-  {"id":"GEN-050-008","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What does the acronym 'HTML' stand for?","question_ar":"إيه معنى اختصار 'HTML'؟","options":[{"en":"HyperText Markup Language","ar":"هايبر تكست ماركاب لانجويدج"},{"en":"High Text Machine Language","ar":"هاي تكست ماشين لانجويدج"},{"en":"Hyperlink Text Manage Log","ar":"هايبرلينك تكست مانيدج لوج"},{"en":"Home Tool Markup Language","ar":"هوم تول ماركاب لانجويدج"}],"correctAnswer":0,"explanation_en":"HTML stands for HyperText Markup Language.","explanation_ar":"HTML معناها HyperText Markup Language."},
-  {"id":"GEN-050-009","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"In basketball, how many players from each team are on the court at once?","question_ar":"في كرة السلة، كام لاعب من كل فريق بيكون في الملعب في نفس الوقت؟","options":[{"en":"5","ar":"5"},{"en":"6","ar":"6"},{"en":"7","ar":"7"},{"en":"4","ar":"4"}],"correctAnswer":0,"explanation_en":"Each basketball team has 5 players on court at once.","explanation_ar":"كل فريق كرة سلة بيكون له 5 لاعبين في الملعب في نفس الوقت."},
-  {"id":"GEN-050-010","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which company owns YouTube?","question_ar":"إيه الشركة المالكة ليوتيوب؟","options":[{"en":"Google","ar":"جوجل"},{"en":"Meta","ar":"ميتا"},{"en":"Microsoft","ar":"مايكروسوفت"},{"en":"Amazon","ar":"أمازون"}],"correctAnswer":0,"explanation_en":"YouTube is owned by Google.","explanation_ar":"يوتيوب مملوكة لجوجل."},
-  {"id":"GEN-050-011","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Who painted the Mona Lisa?","question_ar":"مين اللي رسم لوحة الموناليزا؟","options":[{"en":"Leonardo da Vinci","ar":"ليوناردو دافينشي"},{"en":"Michelangelo","ar":"مايكل أنجلو"},{"en":"Pablo Picasso","ar":"بابلو بيكاسو"},{"en":"Vincent van Gogh","ar":"فان جوخ"}],"correctAnswer":0,"explanation_en":"Leonardo da Vinci painted the Mona Lisa.","explanation_ar":"ليوناردو دافينشي هو رسام لوحة الموناليزا."},
-  {"id":"GEN-050-012","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the largest organ in the human body?","question_ar":"إيه أكبر عضو في جسم الإنسان؟","options":[{"en":"Skin","ar":"الجلد"},{"en":"Liver","ar":"الكبد"},{"en":"Lungs","ar":"الرئتين"},{"en":"Intestine","ar":"الأمعاء"}],"correctAnswer":0,"explanation_en":"The skin is the largest organ in the human body.","explanation_ar":"الجلد هو أكبر عضو في جسم الإنسان."},
-  {"id":"GEN-050-013","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which gas do plants absorb to perform photosynthesis?","question_ar":"إيه الغاز اللي بتمتصه النباتات عشان تعمل عملية البناء الضوئي؟","options":[{"en":"Carbon dioxide","ar":"ثاني أكسيد الكربون"},{"en":"Oxygen","ar":"الأكسچين"},{"en":"Nitrogen","ar":"النيتروجين"},{"en":"Hydrogen","ar":"الهيدروجين"}],"correctAnswer":0,"explanation_en":"Plants absorb carbon dioxide for photosynthesis.","explanation_ar":"النباتات بتمتص ثاني أكسيد الكربون عشان البناء الضوئي."},
-  {"id":"GEN-050-014","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"At what temperature does water freeze in degrees Fahrenheit?","question_ar":"المية بتتجمد عند كام درجة فهرنهايت؟","options":[{"en":"32","ar":"32"},{"en":"0","ar":"0"},{"en":"100","ar":"100"},{"en":"212","ar":"212"}],"correctAnswer":0,"explanation_en":"Water freezes at 32 degrees Fahrenheit.","explanation_ar":"المية بتتجمد عند 32 درجة فهرنهايت."},
-  {"id":"GEN-050-015","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which country gifted the Statue of Liberty to the United States?","question_ar":"إيه الدولة اللي أهدت تمثال الحرية لأمريكا؟","options":[{"en":"France","ar":"فرنسا"},{"en":"United Kingdom","ar":"بريطانيا"},{"en":"Spain","ar":"إسبانيا"},{"en":"Italy","ar":"إيطاليا"}],"correctAnswer":0,"explanation_en":"France gifted the Statue of Liberty to the United States.","explanation_ar":"فرنسا هي اللي أهدت تمثال الحرية لأمريكا."},
-  {"id":"GEN-050-016","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the name of the ancient Egyptian writing system with symbols and pictures?","question_ar":"إيه اسم نظام الكتابة المصري القديم اللي بيستخدم رموز وصور؟","options":[{"en":"Hieroglyphics","ar":"الهيروغليفية"},{"en":"Cuneiform","ar":"المسمارية"},{"en":"Cyrillic","ar":"السيريلية"},{"en":"Sanskrit","ar":"السنسكريتية"}],"correctAnswer":0,"explanation_en":"Ancient Egyptians wrote using hieroglyphics.","explanation_ar":"المصريين القدماء كانوا بيكتبوا بالهيروغليفية."},
-  {"id":"GEN-050-017","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"The Abu Simbel temples are located near which Egyptian city?","question_ar":"معابد أبو سمبل قريبة من إيه مدينة مصرية؟","options":[{"en":"Aswan","ar":"أسوان"},{"en":"Luxor","ar":"الأقصر"},{"en":"Minya","ar":"المنيا"},{"en":"Sohag","ar":"سوهاج"}],"correctAnswer":0,"explanation_en":"The Abu Simbel temples are located near Aswan.","explanation_ar":"معابد أبو سمبل قريبة من أسوان."},
-  {"id":"GEN-050-018","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"How many Grand Slam tournaments are there in tennis each year?","question_ar":"عدد بطولات الجراند سلام في التنس كام في السنة؟","options":[{"en":"4","ar":"4"},{"en":"3","ar":"3"},{"en":"5","ar":"5"},{"en":"6","ar":"6"}],"correctAnswer":0,"explanation_en":"There are 4 Grand Slam tournaments each year in tennis.","explanation_ar":"فيه 4 بطولات جراند سلام في التنس كل سنة."},
-  {"id":"GEN-050-019","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the capital of Brazil?","question_ar":"إيه عاصمة البرازيل؟","options":[{"en":"Brasília","ar":"برازيليا"},{"en":"Rio de Janeiro","ar":"ريو دي جانيرو"},{"en":"São Paulo","ar":"ساو باولو"},{"en":"Salvador","ar":"سلفادور"}],"correctAnswer":0,"explanation_en":"Brasília is the capital of Brazil, though Rio de Janeiro is more famous.","explanation_ar":"برازيليا هي عاصمة البرازيل، رغم إن ريو دي جانيرو أشهر."},
-  {"id":"GEN-050-020","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which country has the most natural lakes in the world?","question_ar":"إيه الدولة اللي فيها أكبر عدد بحيرات طبيعية في العالم؟","options":[{"en":"Canada","ar":"كندا"},{"en":"Russia","ar":"روسيا"},{"en":"USA","ar":"أمريكا"},{"en":"Finland","ar":"فنلندا"}],"correctAnswer":0,"explanation_en":"Canada has the most natural lakes of any country.","explanation_ar":"كندا فيها أكبر عدد بحيرات طبيعية من أي دولة تانية."},
-  {"id":"GEN-050-021","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Who is credited with inventing the World Wide Web?","question_ar":"مين اللي بينسب له اختراع شبكة الويب العالمية (الإنترنت)؟","options":[{"en":"Tim Berners-Lee","ar":"تيم بيرنرز لي"},{"en":"Steve Jobs","ar":"ستيف جوبز"},{"en":"Bill Gates","ar":"بيل جيتس"},{"en":"Larry Page","ar":"لاري بيدج"}],"correctAnswer":0,"explanation_en":"Tim Berners-Lee invented the World Wide Web.","explanation_ar":"تيم بيرنرز لي هو مخترع شبكة الويب العالمية."},
-  {"id":"GEN-050-022","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"In which year was the first iPhone released?","question_ar":"أول آيفون طلع سنة كام؟","options":[{"en":"2007","ar":"2007"},{"en":"2001","ar":"2001"},{"en":"2010","ar":"2010"},{"en":"2005","ar":"2005"}],"correctAnswer":0,"explanation_en":"The first iPhone was released in 2007.","explanation_ar":"أول آيفون طلع سنة 2007."},
-  {"id":"GEN-050-023","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What does the acronym 'PDF' stand for?","question_ar":"إيه معنى اختصار 'PDF'؟","options":[{"en":"Portable Document Format","ar":"بورتابل دوكيومنت فورمات"},{"en":"Personal Data File","ar":"بيرسونال داتا فايل"},{"en":"Printed Document Form","ar":"برنتد دوكيومنت فورم"},{"en":"Public Data Format","ar":"بابليك داتا فورمات"}],"correctAnswer":0,"explanation_en":"PDF stands for Portable Document Format.","explanation_ar":"PDF معناها Portable Document Format."},
-  {"id":"GEN-050-024","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which is the largest Arab country in the world by land area?","question_ar":"إيه أكبر دولة عربية في العالم من حيث المساحة؟","options":[{"en":"Algeria","ar":"الجزائر"},{"en":"Saudi Arabia","ar":"السعودية"},{"en":"Sudan","ar":"السودان"},{"en":"Egypt","ar":"مصر"}],"correctAnswer":0,"explanation_en":"Algeria is the largest Arab country by land area.","explanation_ar":"الجزائر أكبر دولة عربية من حيث المساحة."},
-  {"id":"GEN-050-025","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the Egyptian pound's smaller subunit called?","question_ar":"إيه اسم الوحدة الأصغر من الجنيه المصري؟","options":[{"en":"Piastre (qirsh)","ar":"القرش"},{"en":"Cent","ar":"سنت"},{"en":"Fils","ar":"فلس"},{"en":"Dirham","ar":"درهم"}],"correctAnswer":0,"explanation_en":"The Egyptian pound is divided into 100 piastres (qirsh).","explanation_ar":"الجنيه المصري بينقسم لـ100 قرش."},
-  {"id":"GEN-050-026","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"In which year was Facebook founded?","question_ar":"فيسبوك اتأسس سنة كام؟","options":[{"en":"2004","ar":"2004"},{"en":"2000","ar":"2000"},{"en":"2008","ar":"2008"},{"en":"1998","ar":"1998"}],"correctAnswer":0,"explanation_en":"Facebook was founded in 2004.","explanation_ar":"فيسبوك اتأسس سنة 2004."},
-  {"id":"GEN-050-027","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which desert covers most of northern Africa and is the world's largest hot desert?","question_ar":"إيه الصحرا اللي بتغطي معظم شمال أفريقيا وهي أكبر صحرا حارة في العالم؟","options":[{"en":"The Sahara","ar":"الصحرا الكبرى"},{"en":"The Gobi Desert","ar":"صحرا جوبي"},{"en":"The Namib Desert","ar":"صحرا ناميبيا"},{"en":"The Arabian Desert","ar":"الصحرا العربية"}],"correctAnswer":0,"explanation_en":"The Sahara is the world's largest hot desert, covering most of northern Africa.","explanation_ar":"الصحرا الكبرى أكبر صحرا حارة في العالم وبتغطي معظم شمال أفريقيا."},
-  {"id":"GEN-050-028","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the name for a group of lions living together?","question_ar":"بنسمي مجموعة الأسود اللي بتعيش مع بعض إيه؟","options":[{"en":"A pride","ar":"pride"},{"en":"A pack","ar":"pack"},{"en":"A herd","ar":"herd"},{"en":"A flock","ar":"flock"}],"correctAnswer":0,"explanation_en":"A group of lions is called a pride.","explanation_ar":"مجموعة الأسود بيتقال عليها 'pride'."},
-  {"id":"GEN-050-029","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which company created the Android operating system used in most smartphones?","question_ar":"إيه الشركة اللي عملت نظام أندرويد المستخدم في معظم الموبايلات؟","options":[{"en":"Google","ar":"جوجل"},{"en":"Apple","ar":"آبل"},{"en":"Samsung","ar":"سامسونج"},{"en":"Huawei","ar":"هواوي"}],"correctAnswer":0,"explanation_en":"Google develops the Android operating system.","explanation_ar":"جوجل هي اللي بتطور نظام أندرويد."},
-  {"id":"GEN-050-030","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the world's most populous country as of recent estimates?","question_ar":"إيه أكتر دولة سكانًا في العالم حسب أحدث التقديرات؟","options":[{"en":"India","ar":"الهند"},{"en":"China","ar":"الصين"},{"en":"USA","ar":"أمريكا"},{"en":"Indonesia","ar":"إندونيسيا"}],"correctAnswer":0,"explanation_en":"India became the world's most populous country in 2023, surpassing China.","explanation_ar":"الهند بقت أكتر دولة سكانًا في العالم من 2023 بعد ما تخطت الصين.","verified_as_of":"2025-06"},
-  {"id":"GEN-050-031","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the name given to Egypt's ancient civilization by the Egyptians themselves?","question_ar":"المصريين القدماء كانوا بيسموا بلدهم إيه؟","options":[{"en":"Kemet","ar":"كيميت"},{"en":"Nubia","ar":"النوبة"},{"en":"Punt","ar":"بونت"},{"en":"Canaan","ar":"كنعان"}],"correctAnswer":0,"explanation_en":"Ancient Egyptians called their land 'Kemet.'","explanation_ar":"المصريين القدماء كانوا بيسموا بلدهم 'كيميت'."},
-  {"id":"GEN-050-032","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What does 'GDP' stand for in economics?","question_ar":"إيه معنى 'GDP' في علم الاقتصاد؟","options":[{"en":"Gross Domestic Product","ar":"الناتج المحلي الإجمالي"},{"en":"General Debt Payment","ar":"جنرال ديبت بايمنت"},{"en":"Global Development Plan","ar":"جلوبال ديفلوبمنت بلان"},{"en":"Gross Direct Profit","ar":"جروس دايركت بروفيت"}],"correctAnswer":0,"explanation_en":"GDP stands for Gross Domestic Product.","explanation_ar":"GDP معناها الناتج المحلي الإجمالي."},
-  {"id":"GEN-050-033","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"A deficiency in which vitamin causes the disease scurvy?","question_ar":"نقص إيه فيتامين بيسبب مرض الاسقربوط؟","options":[{"en":"Vitamin C","ar":"فيتامين C"},{"en":"Vitamin D","ar":"فيتامين D"},{"en":"Vitamin B12","ar":"فيتامين B12"},{"en":"Vitamin K","ar":"فيتامين K"}],"correctAnswer":0,"explanation_en":"A vitamin C deficiency causes scurvy.","explanation_ar":"نقص فيتامين C بيسبب مرض الاسقربوط."},
-  {"id":"GEN-050-034","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the world's largest coral reef system called?","question_ar":"إيه اسم أكبر نظام شعاب مرجانية في العالم؟","options":[{"en":"The Great Barrier Reef","ar":"الحاجز المرجاني العظيم"},{"en":"The Red Sea Reef","ar":"شعاب البحر الأحمر"},{"en":"The Belize Barrier Reef","ar":"حاجز بليز المرجاني"},{"en":"The Coral Triangle","ar":"مثلث المرجان"}],"correctAnswer":0,"explanation_en":"The Great Barrier Reef in Australia is the world's largest coral reef system.","explanation_ar":"الحاجز المرجاني العظيم في أستراليا هو أكبر نظام شعاب مرجانية في العالم."},
-  {"id":"GEN-050-035","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which planet in our solar system is closest to the Sun?","question_ar":"إيه أقرب كوكب للشمس في المجموعة الشمسية؟","options":[{"en":"Mercury","ar":"عطارد"},{"en":"Venus","ar":"الزهرة"},{"en":"Mars","ar":"المريخ"},{"en":"Earth","ar":"الأرض"}],"correctAnswer":0,"explanation_en":"Mercury is the closest planet to the Sun.","explanation_ar":"عطارد هو أقرب كوكب للشمس."},
-  {"id":"GEN-050-036","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the chemical symbol for sodium?","question_ar":"إيه الرمز الكيميائي للصوديوم؟","options":[{"en":"Na","ar":"Na"},{"en":"So","ar":"So"},{"en":"Sd","ar":"Sd"},{"en":"Nu","ar":"Nu"}],"correctAnswer":0,"explanation_en":"Sodium's chemical symbol is Na, from the Latin 'natrium'.","explanation_ar":"الرمز الكيميائي للصوديوم هو Na من الكلمة اللاتينية 'natrium'."},
-  {"id":"GEN-050-037","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"How many time zones does Russia span?","question_ar":"روسيا بتمتد على كام منطقة توقيت؟","options":[{"en":"11","ar":"11"},{"en":"6","ar":"6"},{"en":"15","ar":"15"},{"en":"8","ar":"8"}],"correctAnswer":0,"explanation_en":"Russia spans 11 time zones.","explanation_ar":"روسيا بتمتد على 11 منطقة توقيت."},
-  {"id":"GEN-050-038","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the world's most traded currency?","question_ar":"إيه أكتر عملة بيتم تداولها في العالم؟","options":[{"en":"The US Dollar","ar":"الدولار الأمريكي"},{"en":"The Euro","ar":"اليورو"},{"en":"The Japanese Yen","ar":"الين الياباني"},{"en":"The British Pound","ar":"الجنيه الإسترليني"}],"correctAnswer":0,"explanation_en":"The US Dollar is the world's most traded currency.","explanation_ar":"الدولار الأمريكي هو أكتر عملة بيتم تداولها في العالم."},
-  {"id":"GEN-050-039","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which Egyptian city is famously known as the modern home of the rebuilt ancient library, the Bibliotheca Alexandrina?","question_ar":"إيه المدينة المصرية المعروفة بمكتبة الإسكندرية الحديثة اللي اتبنت مكانها القديمة؟","options":[{"en":"Alexandria","ar":"الإسكندرية"},{"en":"Cairo","ar":"القاهرة"},{"en":"Port Said","ar":"بورسعيد"},{"en":"Damietta","ar":"دمياط"}],"correctAnswer":0,"explanation_en":"The Bibliotheca Alexandrina, opened in 2002, is in Alexandria.","explanation_ar":"مكتبة الإسكندرية، اللي اتفتحت سنة 2002، موجودة في الإسكندرية."},
-  {"id":"GEN-050-040","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which company's mascot logo is a bird that used to be its full logo before rebranding to 'X'?","question_ar":"إيه الشركة اللي شعارها القديم كان عصفور قبل ما تتحول لاسم 'X'؟","options":[{"en":"Twitter","ar":"تويتر"},{"en":"Telegram","ar":"تليجرام"},{"en":"Pinterest","ar":"بينتريست"},{"en":"Snapchat","ar":"سناب شات"}],"correctAnswer":0,"explanation_en":"Twitter's bird logo was replaced when it rebranded to X.","explanation_ar":"شعار تويتر (العصفور) اتغير لما الشركة اتحولت لاسم X."},
-  {"id":"GEN-050-041","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the standard number of squares on a chessboard?","question_ar":"رقعة الشطرنج فيها كام مربع؟","options":[{"en":"64","ar":"64"},{"en":"48","ar":"48"},{"en":"100","ar":"100"},{"en":"81","ar":"81"}],"correctAnswer":0,"explanation_en":"A chessboard has 64 squares.","explanation_ar":"رقعة الشطرنج فيها 64 مربع."},
-  {"id":"GEN-050-042","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which metal is liquid at normal room temperature?","question_ar":"إيه المعدن اللي بيكون سائل في درجة حرارة الغرفة العادية؟","options":[{"en":"Mercury","ar":"الزئبق"},{"en":"Iron","ar":"الحديد"},{"en":"Aluminum","ar":"الألومنيوم"},{"en":"Copper","ar":"النحاس"}],"correctAnswer":0,"explanation_en":"Mercury is a liquid metal at room temperature.","explanation_ar":"الزئبق معدن سائل في درجة حرارة الغرفة."},
-  {"id":"GEN-050-043","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the world's largest rainforest called?","question_ar":"إيه اسم أكبر غابة استوائية في العالم؟","options":[{"en":"The Amazon Rainforest","ar":"غابة الأمازون"},{"en":"The Congo Rainforest","ar":"غابة الكونغو"},{"en":"The Daintree Rainforest","ar":"غابة داينتري"},{"en":"The Sundarbans","ar":"غابة السندربان"}],"correctAnswer":0,"explanation_en":"The Amazon Rainforest is the world's largest rainforest.","explanation_ar":"غابة الأمازون هي أكبر غابة استوائية في العالم."},
-  {"id":"GEN-050-044","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"The Aswan High Dam was built with major assistance from which country?","question_ar":"السد العالي في أسوان اتبنى بمساعدة كبيرة من إيه دولة؟","options":[{"en":"The Soviet Union","ar":"الاتحاد السوفيتي"},{"en":"The United States","ar":"أمريكا"},{"en":"France","ar":"فرنسا"},{"en":"Germany","ar":"ألمانيا"}],"correctAnswer":0,"explanation_en":"The Soviet Union provided major assistance in building the Aswan High Dam.","explanation_ar":"الاتحاد السوفيتي ساعد بشكل كبير في بناء السد العالي."},
-  {"id":"GEN-050-045","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the capital of Australia?","question_ar":"إيه عاصمة أستراليا؟","options":[{"en":"Canberra","ar":"كانبرا"},{"en":"Sydney","ar":"سيدني"},{"en":"Melbourne","ar":"ملبورن"},{"en":"Perth","ar":"بيرث"}],"correctAnswer":0,"explanation_en":"Canberra is the capital of Australia, though Sydney is more famous.","explanation_ar":"كانبرا هي عاصمة أستراليا، رغم إن سيدني أشهر."},
-  {"id":"GEN-050-046","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Who is credited with designing the Eiffel Tower?","question_ar":"مين اللي بينسب له تصميم برج إيفل؟","options":[{"en":"Gustave Eiffel","ar":"جوستاف إيفل"},{"en":"Antoni Gaudí","ar":"أنطونيو جاودي"},{"en":"Le Corbusier","ar":"لو كوربوزييه"},{"en":"I. M. Pei","ar":"آي إم بي"}],"correctAnswer":0,"explanation_en":"The Eiffel Tower is named after and designed by Gustave Eiffel's company.","explanation_ar":"برج إيفل سُمي على اسم جوستاف إيفل وصممته شركته."},
-  {"id":"GEN-050-047","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"What is the world's deepest known ocean trench called?","question_ar":"إيه اسم أعمق خندق محيطي معروف في العالم؟","options":[{"en":"The Mariana Trench","ar":"خندق ماريانا"},{"en":"The Puerto Rico Trench","ar":"خندق بورتوريكو"},{"en":"The Java Trench","ar":"خندق جافا"},{"en":"The Peru-Chile Trench","ar":"خندق بيرو-تشيلي"}],"correctAnswer":0,"explanation_en":"The Mariana Trench is the deepest known ocean trench.","explanation_ar":"خندق ماريانا هو أعمق خندق محيطي معروف."},
-  {"id":"GEN-050-048","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which Egyptian queen is known for having ruled as pharaoh while depicted with a false beard?","question_ar":"إيه الملكة المصرية المعروفة إنها حكمت كفرعون وكانت بتتصور بدقن مستعارة؟","options":[{"en":"Hatshepsut","ar":"حتشبسوت"},{"en":"Nefertiti","ar":"نفرتيتي"},{"en":"Cleopatra","ar":"كليوباترا"},{"en":"Tiye","ar":"تي"}],"correctAnswer":0,"explanation_en":"Queen Hatshepsut ruled as pharaoh and was often depicted with a false beard.","explanation_ar":"الملكة حتشبسوت حكمت كفرعون وكانت بتتصور غالبًا بدقن مستعارة."},
-  {"id":"GEN-050-049","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"In what year did the Berlin Wall fall?","question_ar":"سور برلين اتهد سنة كام؟","options":[{"en":"1989","ar":"1989"},{"en":"1991","ar":"1991"},{"en":"1975","ar":"1975"},{"en":"1999","ar":"1999"}],"correctAnswer":0,"explanation_en":"The Berlin Wall fell in 1989.","explanation_ar":"سور برلين اتهد سنة 1989."},
-  {"id":"GEN-050-050","category":"General Knowledge","category_ar":"عامة","value":50,"difficulty":3,"question_en":"Which country invented paper as we generally know it, over a thousand years ago?","question_ar":"إيه الدولة اللي اخترعت الورق زي ما بنعرفه من أكتر من ألف سنة؟","options":[{"en":"China","ar":"الصين"},{"en":"Egypt","ar":"مصر"},{"en":"Greece","ar":"اليونان"},{"en":"India","ar":"الهند"}],"correctAnswer":0,"explanation_en":"Paper as we know it was invented in ancient China.","explanation_ar":"الورق زي ما بنعرفه اتخترع في الصين القديمة."}
+  {
+    "id": "GEN-050-001",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the chemical symbol for gold?",
+    "question_ar": "إيه الرمز الكيميائي للدهب؟",
+    "options": [
+      {
+        "en": "Au",
+        "ar": "Au"
+      },
+      {
+        "en": "Ag",
+        "ar": "Ag"
+      },
+      {
+        "en": "Go",
+        "ar": "Go"
+      },
+      {
+        "en": "Gd",
+        "ar": "Gd"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Gold's chemical symbol is Au, from the Latin 'aurum'.",
+    "explanation_ar": "الرمز الكيميائي للدهب هو Au من الكلمة اللاتينية 'aurum'."
+  },
+  {
+    "id": "GEN-050-002",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Who is widely credited with inventing the practical light bulb?",
+    "question_ar": "مين اللي بينسب له اختراع اللمبة الكهربائية العملية؟",
+    "options": [
+      {
+        "en": "Nikola Tesla",
+        "ar": "نيكولا تسلا"
+      },
+      {
+        "en": "Thomas Edison",
+        "ar": "توماس إديسون"
+      },
+      {
+        "en": "Alexander Graham Bell",
+        "ar": "ألكسندر جراهام بيل"
+      },
+      {
+        "en": "Benjamin Franklin",
+        "ar": "بنجامين فرانكلين"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Thomas Edison is widely credited with developing the practical light bulb.",
+    "explanation_ar": "توماس إديسون بينسب له تطوير اللمبة الكهربائية العملية."
+  },
+  {
+    "id": "GEN-050-003",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the smallest country in the world?",
+    "question_ar": "إيه أصغر دولة في العالم؟",
+    "options": [
+      {
+        "en": "Monaco",
+        "ar": "موناكو"
+      },
+      {
+        "en": "San Marino",
+        "ar": "سان مارينو"
+      },
+      {
+        "en": "Vatican City",
+        "ar": "الفاتيكان"
+      },
+      {
+        "en": "Liechtenstein",
+        "ar": "ليختنشتاين"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Vatican City is the smallest country in the world by area.",
+    "explanation_ar": "الفاتيكان أصغر دولة في العالم من حيث المساحة."
+  },
+  {
+    "id": "GEN-050-004",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the largest island in the world?",
+    "question_ar": "إيه أكبر جزيرة في العالم؟",
+    "options": [
+      {
+        "en": "Madagascar",
+        "ar": "مدغشقر"
+      },
+      {
+        "en": "Borneo",
+        "ar": "بورنيو"
+      },
+      {
+        "en": "Iceland",
+        "ar": "آيسلندا"
+      },
+      {
+        "en": "Greenland",
+        "ar": "جرينلاند"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Greenland is the world's largest island.",
+    "explanation_ar": "جرينلاند هي أكبر جزيرة في العالم."
+  },
+  {
+    "id": "GEN-050-005",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the hardest naturally occurring substance on Earth?",
+    "question_ar": "إيه أصلب مادة طبيعية على كوكب الأرض؟",
+    "options": [
+      {
+        "en": "Diamond",
+        "ar": "الألماظ"
+      },
+      {
+        "en": "Quartz",
+        "ar": "الكوارتز"
+      },
+      {
+        "en": "Iron",
+        "ar": "الحديد"
+      },
+      {
+        "en": "Granite",
+        "ar": "الجرانيت"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Diamond is the hardest naturally occurring substance.",
+    "explanation_ar": "الألماظ هو أصلب مادة طبيعية موجودة."
+  },
+  {
+    "id": "GEN-050-006",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "In what year did the Suez Canal officially open?",
+    "question_ar": "قناة السويس اتفتحت رسميًا سنة كام؟",
+    "options": [
+      {
+        "en": "1902",
+        "ar": "1902"
+      },
+      {
+        "en": "1869",
+        "ar": "1869"
+      },
+      {
+        "en": "1956",
+        "ar": "1956"
+      },
+      {
+        "en": "1820",
+        "ar": "1820"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Suez Canal opened in 1869.",
+    "explanation_ar": "قناة السويس اتفتحت سنة 1869."
+  },
+  {
+    "id": "GEN-050-007",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which architect is famous for designing the unfinished Sagrada Familia in Barcelona?",
+    "question_ar": "إيه المهندس المعماري المشهور بتصميم كنيسة الساجرادا فاميليا اللي لسه مش خلصانة في برشلونة؟",
+    "options": [
+      {
+        "en": "Gustave Eiffel",
+        "ar": "جوستاف إيفل"
+      },
+      {
+        "en": "Frank Lloyd Wright",
+        "ar": "فرانك لويد رايت"
+      },
+      {
+        "en": "Antoni Gaudí",
+        "ar": "أنطونيو جاودي"
+      },
+      {
+        "en": "Zaha Hadid",
+        "ar": "زها حديد"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Antoni Gaudí designed the Sagrada Familia.",
+    "explanation_ar": "أنطونيو جاودي هو مصمم كنيسة الساجرادا فاميليا."
+  },
+  {
+    "id": "GEN-050-008",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What does the acronym 'HTML' stand for?",
+    "question_ar": "إيه معنى اختصار 'HTML'؟",
+    "options": [
+      {
+        "en": "High Text Machine Language",
+        "ar": "هاي تكست ماشين لانجويدج"
+      },
+      {
+        "en": "Hyperlink Text Manage Log",
+        "ar": "هايبرلينك تكست مانيدج لوج"
+      },
+      {
+        "en": "Home Tool Markup Language",
+        "ar": "هوم تول ماركاب لانجويدج"
+      },
+      {
+        "en": "HyperText Markup Language",
+        "ar": "هايبر تكست ماركاب لانجويدج"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "HTML stands for HyperText Markup Language.",
+    "explanation_ar": "HTML معناها HyperText Markup Language."
+  },
+  {
+    "id": "GEN-050-009",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "In basketball, how many players from each team are on the court at once?",
+    "question_ar": "في كرة السلة، كام لاعب من كل فريق بيكون في الملعب في نفس الوقت؟",
+    "options": [
+      {
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Each basketball team has 5 players on court at once.",
+    "explanation_ar": "كل فريق كرة سلة بيكون له 5 لاعبين في الملعب في نفس الوقت."
+  },
+  {
+    "id": "GEN-050-010",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which company owns YouTube?",
+    "question_ar": "إيه الشركة المالكة ليوتيوب؟",
+    "options": [
+      {
+        "en": "Meta",
+        "ar": "ميتا"
+      },
+      {
+        "en": "Google",
+        "ar": "جوجل"
+      },
+      {
+        "en": "Microsoft",
+        "ar": "مايكروسوفت"
+      },
+      {
+        "en": "Amazon",
+        "ar": "أمازون"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "YouTube is owned by Google.",
+    "explanation_ar": "يوتيوب مملوكة لجوجل."
+  },
+  {
+    "id": "GEN-050-011",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Who painted the Mona Lisa?",
+    "question_ar": "مين اللي رسم لوحة الموناليزا؟",
+    "options": [
+      {
+        "en": "Michelangelo",
+        "ar": "مايكل أنجلو"
+      },
+      {
+        "en": "Pablo Picasso",
+        "ar": "بابلو بيكاسو"
+      },
+      {
+        "en": "Leonardo da Vinci",
+        "ar": "ليوناردو دافينشي"
+      },
+      {
+        "en": "Vincent van Gogh",
+        "ar": "فان جوخ"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Leonardo da Vinci painted the Mona Lisa.",
+    "explanation_ar": "ليوناردو دافينشي هو رسام لوحة الموناليزا."
+  },
+  {
+    "id": "GEN-050-012",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the largest organ in the human body?",
+    "question_ar": "إيه أكبر عضو في جسم الإنسان؟",
+    "options": [
+      {
+        "en": "Liver",
+        "ar": "الكبد"
+      },
+      {
+        "en": "Lungs",
+        "ar": "الرئتين"
+      },
+      {
+        "en": "Intestine",
+        "ar": "الأمعاء"
+      },
+      {
+        "en": "Skin",
+        "ar": "الجلد"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The skin is the largest organ in the human body.",
+    "explanation_ar": "الجلد هو أكبر عضو في جسم الإنسان."
+  },
+  {
+    "id": "GEN-050-013",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which gas do plants absorb to perform photosynthesis?",
+    "question_ar": "إيه الغاز اللي بتمتصه النباتات عشان تعمل عملية البناء الضوئي؟",
+    "options": [
+      {
+        "en": "Carbon dioxide",
+        "ar": "ثاني أكسيد الكربون"
+      },
+      {
+        "en": "Oxygen",
+        "ar": "الأكسچين"
+      },
+      {
+        "en": "Nitrogen",
+        "ar": "النيتروجين"
+      },
+      {
+        "en": "Hydrogen",
+        "ar": "الهيدروجين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Plants absorb carbon dioxide for photosynthesis.",
+    "explanation_ar": "النباتات بتمتص ثاني أكسيد الكربون عشان البناء الضوئي."
+  },
+  {
+    "id": "GEN-050-014",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "At what temperature does water freeze in degrees Fahrenheit?",
+    "question_ar": "المية بتتجمد عند كام درجة فهرنهايت؟",
+    "options": [
+      {
+        "en": "0",
+        "ar": "0"
+      },
+      {
+        "en": "32",
+        "ar": "32"
+      },
+      {
+        "en": "100",
+        "ar": "100"
+      },
+      {
+        "en": "212",
+        "ar": "212"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Water freezes at 32 degrees Fahrenheit.",
+    "explanation_ar": "المية بتتجمد عند 32 درجة فهرنهايت."
+  },
+  {
+    "id": "GEN-050-015",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which country gifted the Statue of Liberty to the United States?",
+    "question_ar": "إيه الدولة اللي أهدت تمثال الحرية لأمريكا؟",
+    "options": [
+      {
+        "en": "United Kingdom",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "France gifted the Statue of Liberty to the United States.",
+    "explanation_ar": "فرنسا هي اللي أهدت تمثال الحرية لأمريكا."
+  },
+  {
+    "id": "GEN-050-016",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the name of the ancient Egyptian writing system with symbols and pictures?",
+    "question_ar": "إيه اسم نظام الكتابة المصري القديم اللي بيستخدم رموز وصور؟",
+    "options": [
+      {
+        "en": "Cuneiform",
+        "ar": "المسمارية"
+      },
+      {
+        "en": "Cyrillic",
+        "ar": "السيريلية"
+      },
+      {
+        "en": "Sanskrit",
+        "ar": "السنسكريتية"
+      },
+      {
+        "en": "Hieroglyphics",
+        "ar": "الهيروغليفية"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Ancient Egyptians wrote using hieroglyphics.",
+    "explanation_ar": "المصريين القدماء كانوا بيكتبوا بالهيروغليفية."
+  },
+  {
+    "id": "GEN-050-017",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Abu Simbel temples are located near which Egyptian city?",
+    "question_ar": "معابد أبو سمبل قريبة من إيه مدينة مصرية؟",
+    "options": [
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      {
+        "en": "Minya",
+        "ar": "المنيا"
+      },
+      {
+        "en": "Sohag",
+        "ar": "سوهاج"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Abu Simbel temples are located near Aswan.",
+    "explanation_ar": "معابد أبو سمبل قريبة من أسوان."
+  },
+  {
+    "id": "GEN-050-018",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How many Grand Slam tournaments are there in tennis each year?",
+    "question_ar": "عدد بطولات الجراند سلام في التنس كام في السنة؟",
+    "options": [
+      {
+        "en": "3",
+        "ar": "3"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "There are 4 Grand Slam tournaments each year in tennis.",
+    "explanation_ar": "فيه 4 بطولات جراند سلام في التنس كل سنة."
+  },
+  {
+    "id": "GEN-050-019",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Brazil?",
+    "question_ar": "إيه عاصمة البرازيل؟",
+    "options": [
+      {
+        "en": "Rio de Janeiro",
+        "ar": "ريو دي جانيرو"
+      },
+      {
+        "en": "São Paulo",
+        "ar": "ساو باولو"
+      },
+      {
+        "en": "Brasília",
+        "ar": "برازيليا"
+      },
+      {
+        "en": "Salvador",
+        "ar": "سلفادور"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Brasília is the capital of Brazil, though Rio de Janeiro is more famous.",
+    "explanation_ar": "برازيليا هي عاصمة البرازيل، رغم إن ريو دي جانيرو أشهر."
+  },
+  {
+    "id": "GEN-050-020",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which country has the most natural lakes in the world?",
+    "question_ar": "إيه الدولة اللي فيها أكبر عدد بحيرات طبيعية في العالم؟",
+    "options": [
+      {
+        "en": "Russia",
+        "ar": "روسيا"
+      },
+      {
+        "en": "USA",
+        "ar": "أمريكا"
+      },
+      {
+        "en": "Finland",
+        "ar": "فنلندا"
+      },
+      {
+        "en": "Canada",
+        "ar": "كندا"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Canada has the most natural lakes of any country.",
+    "explanation_ar": "كندا فيها أكبر عدد بحيرات طبيعية من أي دولة تانية."
+  },
+  {
+    "id": "GEN-050-021",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Who is credited with inventing the World Wide Web?",
+    "question_ar": "مين اللي بينسب له اختراع شبكة الويب العالمية (الإنترنت)؟",
+    "options": [
+      {
+        "en": "Tim Berners-Lee",
+        "ar": "تيم بيرنرز لي"
+      },
+      {
+        "en": "Steve Jobs",
+        "ar": "ستيف جوبز"
+      },
+      {
+        "en": "Bill Gates",
+        "ar": "بيل جيتس"
+      },
+      {
+        "en": "Larry Page",
+        "ar": "لاري بيدج"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Tim Berners-Lee invented the World Wide Web.",
+    "explanation_ar": "تيم بيرنرز لي هو مخترع شبكة الويب العالمية."
+  },
+  {
+    "id": "GEN-050-022",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "In which year was the first iPhone released?",
+    "question_ar": "أول آيفون طلع سنة كام؟",
+    "options": [
+      {
+        "en": "2001",
+        "ar": "2001"
+      },
+      {
+        "en": "2007",
+        "ar": "2007"
+      },
+      {
+        "en": "2010",
+        "ar": "2010"
+      },
+      {
+        "en": "2005",
+        "ar": "2005"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The first iPhone was released in 2007.",
+    "explanation_ar": "أول آيفون طلع سنة 2007."
+  },
+  {
+    "id": "GEN-050-023",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What does the acronym 'PDF' stand for?",
+    "question_ar": "إيه معنى اختصار 'PDF'؟",
+    "options": [
+      {
+        "en": "Personal Data File",
+        "ar": "بيرسونال داتا فايل"
+      },
+      {
+        "en": "Printed Document Form",
+        "ar": "برنتد دوكيومنت فورم"
+      },
+      {
+        "en": "Portable Document Format",
+        "ar": "بورتابل دوكيومنت فورمات"
+      },
+      {
+        "en": "Public Data Format",
+        "ar": "بابليك داتا فورمات"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "PDF stands for Portable Document Format.",
+    "explanation_ar": "PDF معناها Portable Document Format."
+  },
+  {
+    "id": "GEN-050-024",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which is the largest Arab country in the world by land area?",
+    "question_ar": "إيه أكبر دولة عربية في العالم من حيث المساحة؟",
+    "options": [
+      {
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
+      },
+      {
+        "en": "Sudan",
+        "ar": "السودان"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Algeria is the largest Arab country by land area.",
+    "explanation_ar": "الجزائر أكبر دولة عربية من حيث المساحة."
+  },
+  {
+    "id": "GEN-050-025",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the Egyptian pound's smaller subunit called?",
+    "question_ar": "إيه اسم الوحدة الأصغر من الجنيه المصري؟",
+    "options": [
+      {
+        "en": "Piastre (qirsh)",
+        "ar": "القرش"
+      },
+      {
+        "en": "Cent",
+        "ar": "سنت"
+      },
+      {
+        "en": "Fils",
+        "ar": "فلس"
+      },
+      {
+        "en": "Dirham",
+        "ar": "درهم"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Egyptian pound is divided into 100 piastres (qirsh).",
+    "explanation_ar": "الجنيه المصري بينقسم لـ100 قرش."
+  },
+  {
+    "id": "GEN-050-026",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "In which year was Facebook founded?",
+    "question_ar": "فيسبوك اتأسس سنة كام؟",
+    "options": [
+      {
+        "en": "2000",
+        "ar": "2000"
+      },
+      {
+        "en": "2004",
+        "ar": "2004"
+      },
+      {
+        "en": "2008",
+        "ar": "2008"
+      },
+      {
+        "en": "1998",
+        "ar": "1998"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Facebook was founded in 2004.",
+    "explanation_ar": "فيسبوك اتأسس سنة 2004."
+  },
+  {
+    "id": "GEN-050-027",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which planet is known for having the most extensive ring system, visible even with a small telescope?",
+    "question_ar": "إيه الكوكب المعروف بحلقاته الواضحة اللي بتتبان حتى بتليسكوب صغير؟",
+    "options": [
+      {
+        "en": "Uranus",
+        "ar": "أورانوس"
+      },
+      {
+        "en": "Neptune",
+        "ar": "نبتون"
+      },
+      {
+        "en": "Saturn",
+        "ar": "زحل"
+      },
+      {
+        "en": "Jupiter",
+        "ar": "المشتري"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Saturn is famous for its bright, extensive ring system.",
+    "explanation_ar": "زحل مشهور بحلقاته الواسعة والواضحة."
+  },
+  {
+    "id": "GEN-050-028",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the name for a group of lions living together?",
+    "question_ar": "بنسمي مجموعة الأسود اللي بتعيش مع بعض إيه؟",
+    "options": [
+      {
+        "en": "A pack",
+        "ar": "pack"
+      },
+      {
+        "en": "A herd",
+        "ar": "herd"
+      },
+      {
+        "en": "A flock",
+        "ar": "flock"
+      },
+      {
+        "en": "A pride",
+        "ar": "pride"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "A group of lions is called a pride.",
+    "explanation_ar": "مجموعة الأسود بيتقال عليها 'pride'."
+  },
+  {
+    "id": "GEN-050-029",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which company created the Android operating system used in most smartphones?",
+    "question_ar": "إيه الشركة اللي عملت نظام أندرويد المستخدم في معظم الموبايلات؟",
+    "options": [
+      {
+        "en": "Google",
+        "ar": "جوجل"
+      },
+      {
+        "en": "Apple",
+        "ar": "آبل"
+      },
+      {
+        "en": "Samsung",
+        "ar": "سامسونج"
+      },
+      {
+        "en": "Huawei",
+        "ar": "هواوي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Google develops the Android operating system.",
+    "explanation_ar": "جوجل هي اللي بتطور نظام أندرويد."
+  },
+  {
+    "id": "GEN-050-030",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the world's most populous country as of recent estimates?",
+    "question_ar": "إيه أكتر دولة سكانًا في العالم حسب أحدث التقديرات؟",
+    "options": [
+      {
+        "en": "China",
+        "ar": "الصين"
+      },
+      {
+        "en": "India",
+        "ar": "الهند"
+      },
+      {
+        "en": "USA",
+        "ar": "أمريكا"
+      },
+      {
+        "en": "Indonesia",
+        "ar": "إندونيسيا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "India became the world's most populous country in 2023, surpassing China.",
+    "explanation_ar": "الهند بقت أكتر دولة سكانًا في العالم من 2023 بعد ما تخطت الصين.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "GEN-050-031",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the name given to Egypt's ancient civilization by the Egyptians themselves?",
+    "question_ar": "المصريين القدماء كانوا بيسموا بلدهم إيه؟",
+    "options": [
+      {
+        "en": "Nubia",
+        "ar": "النوبة"
+      },
+      {
+        "en": "Punt",
+        "ar": "بونت"
+      },
+      {
+        "en": "Kemet",
+        "ar": "كيميت"
+      },
+      {
+        "en": "Canaan",
+        "ar": "كنعان"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Ancient Egyptians called their land 'Kemet.'",
+    "explanation_ar": "المصريين القدماء كانوا بيسموا بلدهم 'كيميت'."
+  },
+  {
+    "id": "GEN-050-032",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What does 'GDP' stand for in economics?",
+    "question_ar": "إيه معنى 'GDP' في علم الاقتصاد؟",
+    "options": [
+      {
+        "en": "General Debt Payment",
+        "ar": "جنرال ديبت بايمنت"
+      },
+      {
+        "en": "Global Development Plan",
+        "ar": "جلوبال ديفلوبمنت بلان"
+      },
+      {
+        "en": "Gross Direct Profit",
+        "ar": "جروس دايركت بروفيت"
+      },
+      {
+        "en": "Gross Domestic Product",
+        "ar": "الناتج المحلي الإجمالي"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "GDP stands for Gross Domestic Product.",
+    "explanation_ar": "GDP معناها الناتج المحلي الإجمالي."
+  },
+  {
+    "id": "GEN-050-033",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "A deficiency in which vitamin causes the disease scurvy?",
+    "question_ar": "نقص إيه فيتامين بيسبب مرض الاسقربوط؟",
+    "options": [
+      {
+        "en": "Vitamin C",
+        "ar": "فيتامين C"
+      },
+      {
+        "en": "Vitamin D",
+        "ar": "فيتامين D"
+      },
+      {
+        "en": "Vitamin B12",
+        "ar": "فيتامين B12"
+      },
+      {
+        "en": "Vitamin K",
+        "ar": "فيتامين K"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A vitamin C deficiency causes scurvy.",
+    "explanation_ar": "نقص فيتامين C بيسبب مرض الاسقربوط."
+  },
+  {
+    "id": "GEN-050-034",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the world's largest coral reef system called?",
+    "question_ar": "إيه اسم أكبر نظام شعاب مرجانية في العالم؟",
+    "options": [
+      {
+        "en": "The Red Sea Reef",
+        "ar": "شعاب البحر الأحمر"
+      },
+      {
+        "en": "The Great Barrier Reef",
+        "ar": "الحاجز المرجاني العظيم"
+      },
+      {
+        "en": "The Belize Barrier Reef",
+        "ar": "حاجز بليز المرجاني"
+      },
+      {
+        "en": "The Coral Triangle",
+        "ar": "مثلث المرجان"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Great Barrier Reef in Australia is the world's largest coral reef system.",
+    "explanation_ar": "الحاجز المرجاني العظيم في أستراليا هو أكبر نظام شعاب مرجانية في العالم."
+  },
+  {
+    "id": "GEN-050-035",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which planet in our solar system is closest to the Sun?",
+    "question_ar": "إيه أقرب كوكب للشمس في المجموعة الشمسية؟",
+    "options": [
+      {
+        "en": "Venus",
+        "ar": "الزهرة"
+      },
+      {
+        "en": "Mars",
+        "ar": "المريخ"
+      },
+      {
+        "en": "Mercury",
+        "ar": "عطارد"
+      },
+      {
+        "en": "Earth",
+        "ar": "الأرض"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Mercury is the closest planet to the Sun.",
+    "explanation_ar": "عطارد هو أقرب كوكب للشمس."
+  },
+  {
+    "id": "GEN-050-036",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the chemical symbol for sodium?",
+    "question_ar": "إيه الرمز الكيميائي للصوديوم؟",
+    "options": [
+      {
+        "en": "So",
+        "ar": "So"
+      },
+      {
+        "en": "Sd",
+        "ar": "Sd"
+      },
+      {
+        "en": "Nu",
+        "ar": "Nu"
+      },
+      {
+        "en": "Na",
+        "ar": "Na"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Sodium's chemical symbol is Na, from the Latin 'natrium'.",
+    "explanation_ar": "الرمز الكيميائي للصوديوم هو Na من الكلمة اللاتينية 'natrium'."
+  },
+  {
+    "id": "GEN-050-037",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "How many time zones does Russia span?",
+    "question_ar": "روسيا بتمتد على كام منطقة توقيت؟",
+    "options": [
+      {
+        "en": "11",
+        "ar": "11"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "15",
+        "ar": "15"
+      },
+      {
+        "en": "8",
+        "ar": "8"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Russia spans 11 time zones.",
+    "explanation_ar": "روسيا بتمتد على 11 منطقة توقيت."
+  },
+  {
+    "id": "GEN-050-038",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the world's most traded currency?",
+    "question_ar": "إيه أكتر عملة بيتم تداولها في العالم؟",
+    "options": [
+      {
+        "en": "The Euro",
+        "ar": "اليورو"
+      },
+      {
+        "en": "The US Dollar",
+        "ar": "الدولار الأمريكي"
+      },
+      {
+        "en": "The Japanese Yen",
+        "ar": "الين الياباني"
+      },
+      {
+        "en": "The British Pound",
+        "ar": "الجنيه الإسترليني"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The US Dollar is the world's most traded currency.",
+    "explanation_ar": "الدولار الأمريكي هو أكتر عملة بيتم تداولها في العالم."
+  },
+  {
+    "id": "GEN-050-039",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which Egyptian city is famously known as the modern home of the rebuilt ancient library, the Bibliotheca Alexandrina?",
+    "question_ar": "إيه المدينة المصرية المعروفة بمكتبة الإسكندرية الحديثة اللي اتبنت مكانها القديمة؟",
+    "options": [
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Port Said",
+        "ar": "بورسعيد"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Damietta",
+        "ar": "دمياط"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Bibliotheca Alexandrina, opened in 2002, is in Alexandria.",
+    "explanation_ar": "مكتبة الإسكندرية، اللي اتفتحت سنة 2002، موجودة في الإسكندرية."
+  },
+  {
+    "id": "GEN-050-040",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which company's mascot logo is a bird that used to be its full logo before rebranding to 'X'?",
+    "question_ar": "إيه الشركة اللي شعارها القديم كان عصفور قبل ما تتحول لاسم 'X'؟",
+    "options": [
+      {
+        "en": "Telegram",
+        "ar": "تليجرام"
+      },
+      {
+        "en": "Pinterest",
+        "ar": "بينتريست"
+      },
+      {
+        "en": "Snapchat",
+        "ar": "سناب شات"
+      },
+      {
+        "en": "Twitter",
+        "ar": "تويتر"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Twitter's bird logo was replaced when it rebranded to X.",
+    "explanation_ar": "شعار تويتر (العصفور) اتغير لما الشركة اتحولت لاسم X."
+  },
+  {
+    "id": "GEN-050-041",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the standard number of squares on a chessboard?",
+    "question_ar": "رقعة الشطرنج فيها كام مربع؟",
+    "options": [
+      {
+        "en": "64",
+        "ar": "64"
+      },
+      {
+        "en": "48",
+        "ar": "48"
+      },
+      {
+        "en": "100",
+        "ar": "100"
+      },
+      {
+        "en": "81",
+        "ar": "81"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A chessboard has 64 squares.",
+    "explanation_ar": "رقعة الشطرنج فيها 64 مربع."
+  },
+  {
+    "id": "GEN-050-042",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which metal is liquid at normal room temperature?",
+    "question_ar": "إيه المعدن اللي بيكون سائل في درجة حرارة الغرفة العادية؟",
+    "options": [
+      {
+        "en": "Iron",
+        "ar": "الحديد"
+      },
+      {
+        "en": "Mercury",
+        "ar": "الزئبق"
+      },
+      {
+        "en": "Aluminum",
+        "ar": "الألومنيوم"
+      },
+      {
+        "en": "Copper",
+        "ar": "النحاس"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Mercury is a liquid metal at room temperature.",
+    "explanation_ar": "الزئبق معدن سائل في درجة حرارة الغرفة."
+  },
+  {
+    "id": "GEN-050-043",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the world's largest rainforest called?",
+    "question_ar": "إيه اسم أكبر غابة استوائية في العالم؟",
+    "options": [
+      {
+        "en": "The Congo Rainforest",
+        "ar": "غابة الكونغو"
+      },
+      {
+        "en": "The Daintree Rainforest",
+        "ar": "غابة داينتري"
+      },
+      {
+        "en": "The Amazon Rainforest",
+        "ar": "غابة الأمازون"
+      },
+      {
+        "en": "The Sundarbans",
+        "ar": "غابة السندربان"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Amazon Rainforest is the world's largest rainforest.",
+    "explanation_ar": "غابة الأمازون هي أكبر غابة استوائية في العالم."
+  },
+  {
+    "id": "GEN-050-044",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Aswan High Dam was built with major assistance from which country?",
+    "question_ar": "السد العالي في أسوان اتبنى بمساعدة كبيرة من إيه دولة؟",
+    "options": [
+      {
+        "en": "The United States",
+        "ar": "أمريكا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      },
+      {
+        "en": "The Soviet Union",
+        "ar": "الاتحاد السوفيتي"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The Soviet Union provided major assistance in building the Aswan High Dam.",
+    "explanation_ar": "الاتحاد السوفيتي ساعد بشكل كبير في بناء السد العالي."
+  },
+  {
+    "id": "GEN-050-045",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Australia?",
+    "question_ar": "إيه عاصمة أستراليا؟",
+    "options": [
+      {
+        "en": "Canberra",
+        "ar": "كانبرا"
+      },
+      {
+        "en": "Sydney",
+        "ar": "سيدني"
+      },
+      {
+        "en": "Melbourne",
+        "ar": "ملبورن"
+      },
+      {
+        "en": "Perth",
+        "ar": "بيرث"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Canberra is the capital of Australia, though Sydney is more famous.",
+    "explanation_ar": "كانبرا هي عاصمة أستراليا، رغم إن سيدني أشهر."
+  },
+  {
+    "id": "GEN-050-046",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Who is credited with designing the Eiffel Tower?",
+    "question_ar": "مين اللي بينسب له تصميم برج إيفل؟",
+    "options": [
+      {
+        "en": "Antoni Gaudí",
+        "ar": "أنطونيو جاودي"
+      },
+      {
+        "en": "Gustave Eiffel",
+        "ar": "جوستاف إيفل"
+      },
+      {
+        "en": "Le Corbusier",
+        "ar": "لو كوربوزييه"
+      },
+      {
+        "en": "I. M. Pei",
+        "ar": "آي إم بي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Eiffel Tower is named after and designed by Gustave Eiffel's company.",
+    "explanation_ar": "برج إيفل سُمي على اسم جوستاف إيفل وصممته شركته."
+  },
+  {
+    "id": "GEN-050-047",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the world's deepest known ocean trench called?",
+    "question_ar": "إيه اسم أعمق خندق محيطي معروف في العالم؟",
+    "options": [
+      {
+        "en": "The Puerto Rico Trench",
+        "ar": "خندق بورتوريكو"
+      },
+      {
+        "en": "The Java Trench",
+        "ar": "خندق جافا"
+      },
+      {
+        "en": "The Mariana Trench",
+        "ar": "خندق ماريانا"
+      },
+      {
+        "en": "The Peru-Chile Trench",
+        "ar": "خندق بيرو-تشيلي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Mariana Trench is the deepest known ocean trench.",
+    "explanation_ar": "خندق ماريانا هو أعمق خندق محيطي معروف."
+  },
+  {
+    "id": "GEN-050-048",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which Egyptian queen is known for having ruled as pharaoh while depicted with a false beard?",
+    "question_ar": "إيه الملكة المصرية المعروفة إنها حكمت كفرعون وكانت بتتصور بدقن مستعارة؟",
+    "options": [
+      {
+        "en": "Nefertiti",
+        "ar": "نفرتيتي"
+      },
+      {
+        "en": "Cleopatra",
+        "ar": "كليوباترا"
+      },
+      {
+        "en": "Tiye",
+        "ar": "تي"
+      },
+      {
+        "en": "Hatshepsut",
+        "ar": "حتشبسوت"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Queen Hatshepsut ruled as pharaoh and was often depicted with a false beard.",
+    "explanation_ar": "الملكة حتشبسوت حكمت كفرعون وكانت بتتصور غالبًا بدقن مستعارة."
+  },
+  {
+    "id": "GEN-050-049",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "In what year did the Berlin Wall fall?",
+    "question_ar": "سور برلين اتهد سنة كام؟",
+    "options": [
+      {
+        "en": "1989",
+        "ar": "1989"
+      },
+      {
+        "en": "1991",
+        "ar": "1991"
+      },
+      {
+        "en": "1975",
+        "ar": "1975"
+      },
+      {
+        "en": "1999",
+        "ar": "1999"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Berlin Wall fell in 1989.",
+    "explanation_ar": "سور برلين اتهد سنة 1989."
+  },
+  {
+    "id": "GEN-050-050",
+    "category": "General Knowledge",
+    "category_ar": "عامة",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which country invented paper as we generally know it, over a thousand years ago?",
+    "question_ar": "إيه الدولة اللي اخترعت الورق زي ما بنعرفه من أكتر من ألف سنة؟",
+    "options": [
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "China",
+        "ar": "الصين"
+      },
+      {
+        "en": "Greece",
+        "ar": "اليونان"
+      },
+      {
+        "en": "India",
+        "ar": "الهند"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Paper as we know it was invented in ancient China.",
+    "explanation_ar": "الورق زي ما بنعرفه اتخترع في الصين القديمة."
+  }
 ]
