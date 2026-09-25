@@ -9,12 +9,12 @@
     "question_ar": "إيه أندر عنصر موجود بشكل طبيعي في قشرة الأرض؟",
     "options": [
       {
-        "en": "Francium",
-        "ar": "الفرانسيوم"
-      },
-      {
         "en": "Radon",
         "ar": "الرادون"
+      },
+      {
+        "en": "Francium",
+        "ar": "الفرانسيوم"
       },
       {
         "en": "Astatine",
@@ -39,23 +39,23 @@
     "question_ar": "أنهي مركبة فضائية بقت أول جسم من صنع الإنسان يخرج من الغلاف الشمسي ويدخل الفضاء بين النجوم؟",
     "options": [
       {
-        "en": "Voyager 2",
-        "ar": "فوييجر 2"
+        "en": "New Horizons",
+        "ar": "نيو هورايزنز"
       },
       {
         "en": "Pioneer 10",
         "ar": "بايونير 10"
       },
       {
-        "en": "Voyager 1",
-        "ar": "فوييجر 1"
+        "en": "Voyager 2",
+        "ar": "فوييجر 2"
       },
       {
-        "en": "New Horizons",
-        "ar": "نيو هورايزنز"
+        "en": "Voyager 1",
+        "ar": "فوييجر 1"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Voyager 1 crossed into interstellar space in 2012, the first human-made object to do so.",
     "explanation_ar": "فوييجر 1 دخلت الفضاء بين النجوم سنة 2012، وكانت أول جسم من صنع الإنسان يوصل لهناك."
   },
@@ -69,23 +69,23 @@
     "question_ar": "أنهي عنصر كيميائي، اكتشفته ماري كوري، اتسمى على اسم بلدها الأصلي؟",
     "options": [
       {
-        "en": "Polonium",
-        "ar": "البولونيوم"
+        "en": "Radium",
+        "ar": "الراديوم"
       },
       {
         "en": "Curium",
         "ar": "الكوريوم"
       },
       {
-        "en": "Francium",
-        "ar": "الفرانسيوم"
+        "en": "Polonium",
+        "ar": "البولونيوم"
       },
       {
-        "en": "Radium",
-        "ar": "الراديوم"
+        "en": "Francium",
+        "ar": "الفرانسيوم"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Marie Curie named polonium after Poland, her native country.",
     "explanation_ar": "ماري كوري سمّت البولونيوم نسبة لبولندا، بلدها الأصلي."
   },
@@ -107,12 +107,12 @@
         "ar": "الخوارزمي"
       },
       {
-        "en": "Al-Kindi",
-        "ar": "الكندي"
-      },
-      {
         "en": "Ibn al-Haytham",
         "ar": "ابن الهيثم"
+      },
+      {
+        "en": "Al-Kindi",
+        "ar": "الكندي"
       }
     ],
     "correctAnswer": 1,
@@ -129,8 +129,8 @@
     "question_ar": "حسب نظرية الانفجار العظيم، عمر الكون تقريباً كام؟",
     "options": [
       {
-        "en": "About 13.8 billion years",
-        "ar": "حوالي 13.8 مليار سنة"
+        "en": "About 100 billion years",
+        "ar": "حوالي 100 مليار سنة"
       },
       {
         "en": "About 1 billion years",
@@ -141,11 +141,11 @@
         "ar": "حوالي 4.5 مليار سنة"
       },
       {
-        "en": "About 100 billion years",
-        "ar": "حوالي 100 مليار سنة"
+        "en": "About 13.8 billion years",
+        "ar": "حوالي 13.8 مليار سنة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Scientists estimate the universe is about 13.8 billion years old.",
     "explanation_ar": "العلماء بيقدروا عمر الكون بحوالي 13.8 مليار سنة."
   },
@@ -159,23 +159,23 @@
     "question_ar": "مين العالم اللي صاغ قوانين حركة الكواكب، وشرح إنها بتتحرك في مسارات إهليلجية، قبل نيوتن؟",
     "options": [
       {
-        "en": "Galileo Galilei",
-        "ar": "جاليليو جاليلي"
-      },
-      {
         "en": "Nicolaus Copernicus",
         "ar": "نيكولاس كوبرنيكوس"
       },
       {
-        "en": "Tycho Brahe",
-        "ar": "تيخو براهي"
-      },
-      {
         "en": "Johannes Kepler",
         "ar": "يوهانس كيبلر"
+      },
+      {
+        "en": "Galileo Galilei",
+        "ar": "جاليليو جاليلي"
+      },
+      {
+        "en": "Tycho Brahe",
+        "ar": "تيخو براهي"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Johannes Kepler formulated the laws of planetary motion, showing orbits are elliptical.",
     "explanation_ar": "يوهانس كيبلر صاغ قوانين حركة الكواكب، وأثبت إن مداراتها إهليلجية."
   },
@@ -189,23 +189,23 @@
     "question_ar": "أنهي عنصر عنده أعلى درجة انصهار من بين كل العناصر المعروفة؟",
     "options": [
       {
-        "en": "Platinum",
-        "ar": "البلاتين"
-      },
-      {
         "en": "Tungsten",
         "ar": "التنجستن"
       },
       {
-        "en": "Osmium",
-        "ar": "الأوزميوم"
+        "en": "Platinum",
+        "ar": "البلاتين"
       },
       {
         "en": "Titanium",
         "ar": "التيتانيوم"
+      },
+      {
+        "en": "Osmium",
+        "ar": "الأوزميوم"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Tungsten has the highest melting point of any metal, around 3,422°C.",
     "explanation_ar": "التنجستن عنده أعلى درجة انصهار بين المعادن، حوالي 3422 درجة مئوية."
   },
@@ -219,23 +219,23 @@
     "question_ar": "إيه الكوكب الوحيد في مجموعتنا الشمسية اللي مش متسمي على اسم إله إغريقي أو روماني؟",
     "options": [
       {
-        "en": "Venus",
-        "ar": "الزهرة"
-      },
-      {
-        "en": "Saturn",
-        "ar": "زحل"
-      },
-      {
         "en": "Earth",
         "ar": "الأرض"
       },
       {
         "en": "Mars",
         "ar": "المريخ"
+      },
+      {
+        "en": "Saturn",
+        "ar": "زحل"
+      },
+      {
+        "en": "Venus",
+        "ar": "الزهرة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Earth is the only planet whose English name doesn't derive from Greco-Roman mythology.",
     "explanation_ar": "الأرض هي الكوكب الوحيد اللي اسمه بالإنجليزي مش جاي من الأساطير الإغريقية أو الرومانية."
   },
@@ -249,12 +249,12 @@
     "question_ar": "أنهي حمض هو المكون الأساسي المسؤول عن الطعم الحامض للخل؟",
     "options": [
       {
-        "en": "Citric acid",
-        "ar": "حمض الستريك"
-      },
-      {
         "en": "Malic acid",
         "ar": "حمض الماليك"
+      },
+      {
+        "en": "Citric acid",
+        "ar": "حمض الستريك"
       },
       {
         "en": "Acetic acid",
@@ -279,23 +279,23 @@
     "question_ar": "بيتقال إيه لانحناء الضوء لما بيعدي من وسط شفاف لوسط تاني؟",
     "options": [
       {
-        "en": "Diffraction",
-        "ar": "الحيود"
+        "en": "Refraction",
+        "ar": "الانكسار"
       },
       {
         "en": "Reflection",
         "ar": "الانعكاس"
       },
       {
-        "en": "Polarization",
-        "ar": "الاستقطاب"
+        "en": "Diffraction",
+        "ar": "الحيود"
       },
       {
-        "en": "Refraction",
-        "ar": "الانكسار"
+        "en": "Polarization",
+        "ar": "الاستقطاب"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Refraction is the bending of light as it moves between different media.",
     "explanation_ar": "الانكسار هو انحناء الضوء لما بيتحرك بين أوساط مختلفة."
   },
@@ -309,8 +309,8 @@
     "question_ar": "بيتقال إيه لأقل سرعة محتاجها الجسم عشان يفلت من جاذبية كوكب؟",
     "options": [
       {
-        "en": "Escape velocity",
-        "ar": "سرعة الإفلات"
+        "en": "Angular velocity",
+        "ar": "السرعة الزاوية"
       },
       {
         "en": "Orbital velocity",
@@ -321,11 +321,11 @@
         "ar": "السرعة النهائية"
       },
       {
-        "en": "Angular velocity",
-        "ar": "السرعة الزاوية"
+        "en": "Escape velocity",
+        "ar": "سرعة الإفلات"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Escape velocity is the minimum speed needed to break free of a planet's gravity.",
     "explanation_ar": "سرعة الإفلات هي أقل سرعة محتاجها الجسم عشان يفلت من جاذبية الكوكب."
   },
@@ -347,15 +347,15 @@
         "ar": "A موجب"
       },
       {
-        "en": "O negative",
-        "ar": "O سالب"
-      },
-      {
         "en": "AB positive",
         "ar": "AB موجب"
+      },
+      {
+        "en": "O negative",
+        "ar": "O سالب"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "AB positive is the universal recipient blood type.",
     "explanation_ar": "فصيلة AB موجب هي المستقبل العام اللي ممكن تستقبل دم من أي فصيلة."
   },
@@ -369,23 +369,23 @@
     "question_ar": "إيه الاسم الكيميائي للغاز المعروف بـ\"غاز الضحك\"، واللي بيتستخدم في طب الأسنان؟",
     "options": [
       {
-        "en": "Carbon monoxide",
-        "ar": "أول أكسيد الكربون"
-      },
-      {
-        "en": "Nitrogen dioxide",
-        "ar": "ثاني أكسيد النيتروجين"
+        "en": "Sulfur dioxide",
+        "ar": "ثاني أكسيد الكبريت"
       },
       {
         "en": "Nitrous oxide",
         "ar": "أكسيد النيتروز"
       },
       {
-        "en": "Sulfur dioxide",
-        "ar": "ثاني أكسيد الكبريت"
+        "en": "Nitrogen dioxide",
+        "ar": "ثاني أكسيد النيتروجين"
+      },
+      {
+        "en": "Carbon monoxide",
+        "ar": "أول أكسيد الكربون"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "\"Laughing gas\" is chemically known as nitrous oxide.",
     "explanation_ar": "\"غاز الضحك\" اسمه الكيميائي أكسيد النيتروز."
   },
@@ -399,8 +399,8 @@
     "question_ar": "أنهي جسيم، اتأكد وجوده سنة 2012، بيساعد يفسر إزاي الجسيمات التانية بتكتسب كتلة؟",
     "options": [
       {
-        "en": "The neutrino",
-        "ar": "النيوترينو"
+        "en": "The quark",
+        "ar": "الكوارك"
       },
       {
         "en": "The Higgs boson",
@@ -411,8 +411,8 @@
         "ar": "الفوتون"
       },
       {
-        "en": "The quark",
-        "ar": "الكوارك"
+        "en": "The neutrino",
+        "ar": "النيوترينو"
       }
     ],
     "correctAnswer": 1,
@@ -429,23 +429,23 @@
     "question_ar": "مين العالم اللي تجاربه على نبات البازلا وضعت أساس علم الوراثة الحديث؟",
     "options": [
       {
-        "en": "Gregor Mendel",
-        "ar": "جريجور مندل"
-      },
-      {
-        "en": "Charles Darwin",
-        "ar": "تشارلز داروين"
-      },
-      {
         "en": "James Watson",
         "ar": "جيمس واطسون"
       },
       {
         "en": "Louis Pasteur",
         "ar": "لويس باستور"
+      },
+      {
+        "en": "Charles Darwin",
+        "ar": "تشارلز داروين"
+      },
+      {
+        "en": "Gregor Mendel",
+        "ar": "جريجور مندل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Gregor Mendel's pea plant experiments founded the modern science of genetics.",
     "explanation_ar": "تجارب جريجور مندل على نبات البازلا أسست علم الوراثة الحديث."
   },
@@ -459,23 +459,23 @@
     "question_ar": "بيتقال إيه للقانون العلمي اللي بيقول إن الطاقة مش بتتخلق ولا بتتفنى، بس بتتحول؟",
     "options": [
       {
-        "en": "Newton's second law",
-        "ar": "قانون نيوتن الثاني"
-      },
-      {
-        "en": "The law of conservation of mass",
-        "ar": "قانون حفظ الكتلة"
-      },
-      {
         "en": "The law of entropy",
         "ar": "قانون الإنتروبيا"
       },
       {
         "en": "The law of conservation of energy",
         "ar": "قانون حفظ الطاقة"
+      },
+      {
+        "en": "Newton's second law",
+        "ar": "قانون نيوتن الثاني"
+      },
+      {
+        "en": "The law of conservation of mass",
+        "ar": "قانون حفظ الكتلة"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "The law of conservation of energy states energy is only transformed, never created or destroyed.",
     "explanation_ar": "قانون حفظ الطاقة بيقول إن الطاقة بس بتتحول، مش بتتخلق ولا بتتفنى."
   },
@@ -489,23 +489,23 @@
     "question_ar": "إيه الثديي الوحيد المعروف إنه بيبيض بدل ما يولّد صغار حية؟",
     "options": [
       {
-        "en": "The koala",
-        "ar": "الكوالا"
-      },
-      {
-        "en": "The sloth",
-        "ar": "الكسلان"
+        "en": "The platypus",
+        "ar": "خلد الماء"
       },
       {
         "en": "The armadillo",
         "ar": "المدرع"
       },
       {
-        "en": "The platypus",
-        "ar": "خلد الماء"
+        "en": "The koala",
+        "ar": "الكوالا"
+      },
+      {
+        "en": "The sloth",
+        "ar": "الكسلان"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "The platypus is a rare mammal that lays eggs rather than giving live birth.",
     "explanation_ar": "خلد الماء ثديي نادر بيبيض بدل ما يولد صغار حية."
   },
@@ -519,23 +519,23 @@
     "question_ar": "أنهي برمائي مشهور بقدرته المذهلة على تعويض أطرافه المفقودة وحتى أجزاء من مخه؟",
     "options": [
       {
-        "en": "The axolotl",
-        "ar": "الأكسولوتل"
-      },
-      {
-        "en": "The frog",
-        "ar": "الضفدع"
-      },
-      {
         "en": "The newt (in general)",
         "ar": "السمندل عموماً"
       },
       {
         "en": "The toad",
         "ar": "العلجوم"
+      },
+      {
+        "en": "The axolotl",
+        "ar": "الأكسولوتل"
+      },
+      {
+        "en": "The frog",
+        "ar": "الضفدع"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The axolotl is famous for regenerating limbs, its spinal cord, and even parts of its brain.",
     "explanation_ar": "الأكسولوتل مشهور بتعويضه لأطرافه والحبل الشوكي وحتى أجزاء من مخه."
   },
@@ -549,6 +549,10 @@
     "question_ar": "أنهي غاز خامل بيتستخدم في لافتات النيون الكلاسيكية بلونها الأحمر البرتقالي المتوهج؟",
     "options": [
       {
+        "en": "Argon",
+        "ar": "الأرجون"
+      },
+      {
         "en": "Neon",
         "ar": "النيون"
       },
@@ -559,13 +563,9 @@
       {
         "en": "Krypton",
         "ar": "الكريبتون"
-      },
-      {
-        "en": "Argon",
-        "ar": "الأرجون"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Neon gas glows a distinctive red-orange when electrified, giving neon signs their name.",
     "explanation_ar": "غاز النيون بيتوهج بلون أحمر برتقالي مميز لما يتشحن كهربائياً، وده أصل اسم لافتات النيون."
   },
@@ -583,19 +583,19 @@
         "ar": "المفردة"
       },
       {
+        "en": "The event horizon",
+        "ar": "أفق الحدث"
+      },
+      {
         "en": "The photon sphere",
         "ar": "كرة الفوتون"
       },
       {
         "en": "The accretion disk",
         "ar": "قرص التراكم"
-      },
-      {
-        "en": "The event horizon",
-        "ar": "أفق الحدث"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "The event horizon is the boundary beyond which nothing can escape a black hole's gravity.",
     "explanation_ar": "أفق الحدث هو الحد اللي بعده مفيش حاجة تقدر تفلت من جاذبية الثقب الأسود."
   },
@@ -617,12 +617,12 @@
         "ar": "الكلب سنوپي"
       },
       {
-        "en": "Idaho Gem the mule",
-        "ar": "البغل أيداهو جِم"
-      },
-      {
         "en": "CC the cat",
         "ar": "القطة سي سي"
+      },
+      {
+        "en": "Idaho Gem the mule",
+        "ar": "البغل أيداهو جِم"
       }
     ],
     "correctAnswer": 0,
@@ -643,19 +643,19 @@
         "ar": "الأرض"
       },
       {
-        "en": "Mars",
-        "ar": "المريخ"
-      },
-      {
         "en": "Mercury",
         "ar": "عطارد"
+      },
+      {
+        "en": "Mars",
+        "ar": "المريخ"
       },
       {
         "en": "Venus",
         "ar": "الزهرة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Olympus Mons on Mars is the largest volcano known in the solar system.",
     "explanation_ar": "جبل أوليمبوس مونس على المريخ هو أكبر بركان معروف في المجموعة الشمسية."
   },
@@ -699,23 +699,23 @@
     "question_ar": "أنهي مسرّع جسيمات عملاق، وهو الأكبر في العالم، استُخدم عشان يأكد وجود بوزون هيجز؟",
     "options": [
       {
-        "en": "The Super Proton Synchrotron",
-        "ar": "السينكروترون البروتوني الفائق"
+        "en": "The Large Hadron Collider",
+        "ar": "المصادم الهادروني الكبير"
       },
       {
         "en": "The Stanford Linear Accelerator",
         "ar": "مسرّع ستانفورد الخطي"
       },
       {
-        "en": "The Large Hadron Collider",
-        "ar": "المصادم الهادروني الكبير"
-      },
-      {
         "en": "The Tevatron",
         "ar": "التيفاترون"
+      },
+      {
+        "en": "The Super Proton Synchrotron",
+        "ar": "السينكروترون البروتوني الفائق"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The Large Hadron Collider, the world's largest particle accelerator, confirmed the Higgs boson in 2012.",
     "explanation_ar": "المصادم الهادروني الكبير، أكبر مسرّع جسيمات في العالم، أكد وجود بوزون هيجز سنة 2012."
   },
@@ -729,23 +729,23 @@
     "question_ar": "مين العالم الفرنسي في القرن التاسع عشر اللي بيتلقب بـ\"أبو الكيمياء الحديثة\" لشغله على قانون حفظ الكتلة؟",
     "options": [
       {
-        "en": "Joseph Priestley",
-        "ar": "جوزيف بريستلي"
-      },
-      {
         "en": "Louis Pasteur",
         "ar": "لويس باستور"
+      },
+      {
+        "en": "Antoine Lavoisier",
+        "ar": "أنطوان لافوازييه"
       },
       {
         "en": "Marie Curie",
         "ar": "ماري كوري"
       },
       {
-        "en": "Antoine Lavoisier",
-        "ar": "أنطوان لافوازييه"
+        "en": "Joseph Priestley",
+        "ar": "جوزيف بريستلي"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Antoine Lavoisier is called the \"father of modern chemistry\" for establishing the law of conservation of mass.",
     "explanation_ar": "أنطوان لافوازييه بيتلقب بـ\"أبو الكيمياء الحديثة\" لأنه أرسى قانون حفظ الكتلة."
   },
@@ -759,23 +759,23 @@
     "question_ar": "بيتقال إيه للتأثير اللي بيخلي طبقة صوت مصدر متحرك تحس إنها بتتغير وهو رايح أو جاي ناحيتك؟",
     "options": [
       {
-        "en": "Resonance",
-        "ar": "الرنين"
-      },
-      {
-        "en": "The Coriolis effect",
-        "ar": "تأثير كوريوليس"
+        "en": "Echo",
+        "ar": "الصدى"
       },
       {
         "en": "The Doppler effect",
         "ar": "تأثير دوبلر"
       },
       {
-        "en": "Echo",
-        "ar": "الصدى"
+        "en": "The Coriolis effect",
+        "ar": "تأثير كوريوليس"
+      },
+      {
+        "en": "Resonance",
+        "ar": "الرنين"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "The Doppler effect explains why a siren's pitch changes as it passes by you.",
     "explanation_ar": "تأثير دوبلر بيفسر ليه صوت السرينة بيتغير وهي بتعدي جمبك."
   },
@@ -789,20 +789,20 @@
     "question_ar": "بيتقال إيه للتفاعل الكيميائي اللي بيطلق حرارة للوسط المحيط؟",
     "options": [
       {
-        "en": "An endothermic reaction",
-        "ar": "تفاعل ماص للحرارة"
-      },
-      {
         "en": "A reversible reaction",
         "ar": "تفاعل عكسي"
+      },
+      {
+        "en": "A catalytic reaction",
+        "ar": "تفاعل حفزي"
       },
       {
         "en": "An exothermic reaction",
         "ar": "تفاعل طارد للحرارة"
       },
       {
-        "en": "A catalytic reaction",
-        "ar": "تفاعل حفزي"
+        "en": "An endothermic reaction",
+        "ar": "تفاعل ماص للحرارة"
       }
     ],
     "correctAnswer": 2,
@@ -819,10 +819,6 @@
     "question_ar": "بيتقال إيه للتفاعل الكيميائي اللي بيمتص حرارة من الوسط المحيط؟",
     "options": [
       {
-        "en": "A neutralization reaction",
-        "ar": "تفاعل تعادل"
-      },
-      {
         "en": "An exothermic reaction",
         "ar": "تفاعل طارد للحرارة"
       },
@@ -833,9 +829,13 @@
       {
         "en": "An endothermic reaction",
         "ar": "تفاعل ماص للحرارة"
+      },
+      {
+        "en": "A neutralization reaction",
+        "ar": "تفاعل تعادل"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Endothermic reactions absorb heat from their surroundings, often feeling cold.",
     "explanation_ar": "التفاعلات الماصة للحرارة بتمتص حرارة من الوسط المحيط، وغالباً بتحس إنها باردة."
   },
@@ -849,12 +849,12 @@
     "question_ar": "بيتقال إيه للعلم المتخصص في دراسة الفطريات ودورها وأبواغها؟",
     "options": [
       {
-        "en": "Parasitology",
-        "ar": "علم الطفيليات"
-      },
-      {
         "en": "Bacteriology",
         "ar": "علم البكتيريا"
+      },
+      {
+        "en": "Parasitology",
+        "ar": "علم الطفيليات"
       },
       {
         "en": "Virology",
@@ -879,23 +879,23 @@
     "question_ar": "أنهي عنصرين بيمثلوا الغالبية العظمى من كتلة الشمس؟",
     "options": [
       {
-        "en": "Hydrogen and helium",
-        "ar": "الهيدروجين والهيليوم"
+        "en": "Nitrogen and hydrogen",
+        "ar": "النيتروجين والهيدروجين"
       },
       {
-        "en": "Helium and oxygen",
-        "ar": "الهيليوم والأكسجين"
+        "en": "Hydrogen and helium",
+        "ar": "الهيدروجين والهيليوم"
       },
       {
         "en": "Oxygen and carbon",
         "ar": "الأكسجين والكربون"
       },
       {
-        "en": "Nitrogen and hydrogen",
-        "ar": "النيتروجين والهيدروجين"
+        "en": "Helium and oxygen",
+        "ar": "الهيليوم والأكسجين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Sun is made up almost entirely of hydrogen and helium.",
     "explanation_ar": "الشمس بتتكون تقريباً بالكامل من الهيدروجين والهيليوم."
   },
@@ -909,23 +909,23 @@
     "question_ar": "بيتقال إيه للمنطقة الانتقالية اللي بتختلط فيها مية النهر العذبة بمية البحر المالحة؟",
     "options": [
       {
-        "en": "An estuary",
-        "ar": "مصب النهر"
+        "en": "A fjord",
+        "ar": "مضيق جليدي"
       },
       {
         "en": "A delta",
         "ar": "دلتا"
       },
       {
-        "en": "A fjord",
-        "ar": "مضيق جليدي"
-      },
-      {
         "en": "A lagoon",
         "ar": "بحيرة ساحلية"
+      },
+      {
+        "en": "An estuary",
+        "ar": "مصب النهر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "An estuary is where a river's fresh water meets and mixes with the sea's salt water.",
     "explanation_ar": "مصب النهر هو المكان اللي بتلتقي وتختلط فيه مية النهر العذبة بمية البحر المالحة."
   },
@@ -943,19 +943,19 @@
         "ar": "Le"
       },
       {
-        "en": "Ld",
-        "ar": "Ld"
-      },
-      {
         "en": "Pl",
         "ar": "Pl"
       },
       {
         "en": "Pb",
         "ar": "Pb"
+      },
+      {
+        "en": "Ld",
+        "ar": "Ld"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Lead's symbol, Pb, comes from its Latin name \"plumbum\".",
     "explanation_ar": "رمز الرصاص Pb جاي من اسمه اللاتيني \"plumbum\"."
   },
@@ -969,6 +969,10 @@
     "question_ar": "بيتقال إيه لعدد البروتونات في نواة الذرة، واللي بيحدد العنصر ده إيه؟",
     "options": [
       {
+        "en": "The isotope number",
+        "ar": "عدد النظائر"
+      },
+      {
         "en": "The atomic number",
         "ar": "العدد الذري"
       },
@@ -979,13 +983,9 @@
       {
         "en": "The valence number",
         "ar": "عدد التكافؤ"
-      },
-      {
-        "en": "The isotope number",
-        "ar": "عدد النظائر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The atomic number is the number of protons, which defines the element.",
     "explanation_ar": "العدد الذري هو عدد البروتونات، وده اللي بيحدد نوع العنصر."
   },
@@ -999,23 +999,23 @@
     "question_ar": "مين العالم اللي بيتنسبله اكتشاف الإلكترون سنة 1897؟",
     "options": [
       {
-        "en": "Ernest Rutherford",
-        "ar": "إرنست رذرفورد"
-      },
-      {
-        "en": "James Chadwick",
-        "ar": "جيمس شادويك"
-      },
-      {
         "en": "J.J. Thomson",
         "ar": "ج. ج. طومسون"
       },
       {
         "en": "Niels Bohr",
         "ar": "نيلز بور"
+      },
+      {
+        "en": "James Chadwick",
+        "ar": "جيمس شادويك"
+      },
+      {
+        "en": "Ernest Rutherford",
+        "ar": "إرنست رذرفورد"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "J.J. Thomson discovered the electron in 1897.",
     "explanation_ar": "ج. ج. طومسون اكتشف الإلكترون سنة 1897."
   },
@@ -1059,20 +1059,20 @@
     "question_ar": "إيه اسم العملية النووية اللي بتدي النجوم طاقتها، من خلال اندماج ذرات الهيدروجين لتكوّن هيليوم؟",
     "options": [
       {
-        "en": "Radioactive decay",
-        "ar": "التحلل الإشعاعي"
+        "en": "Nuclear fission",
+        "ar": "الانشطار النووي"
       },
       {
         "en": "Nuclear fusion",
         "ar": "الاندماج النووي"
       },
       {
-        "en": "Beta decay",
-        "ar": "تحلل بيتا"
+        "en": "Radioactive decay",
+        "ar": "التحلل الإشعاعي"
       },
       {
-        "en": "Nuclear fission",
-        "ar": "الانشطار النووي"
+        "en": "Beta decay",
+        "ar": "تحلل بيتا"
       }
     ],
     "correctAnswer": 1,
@@ -1089,10 +1089,6 @@
     "question_ar": "بيتقال إيه لنجم بيزيد لمعانه فجأة وبشكل هائل بسبب انفجار ضخم في نهاية عمره؟",
     "options": [
       {
-        "en": "A nova",
-        "ar": "مستعر"
-      },
-      {
         "en": "A pulsar",
         "ar": "نجم نابض"
       },
@@ -1101,11 +1097,15 @@
         "ar": "مستعر أعظم"
       },
       {
+        "en": "A nova",
+        "ar": "مستعر"
+      },
+      {
         "en": "A quasar",
         "ar": "شبه نجم"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "A supernova is the dramatic explosion marking the death of a massive star.",
     "explanation_ar": "المستعر الأعظم هو الانفجار الهائل اللي بيحصل عند موت نجم ضخم."
   },
@@ -1123,19 +1123,19 @@
         "ar": "الرصاص"
       },
       {
-        "en": "Platinum",
-        "ar": "البلاتين"
-      },
-      {
         "en": "Osmium",
         "ar": "الأوزميوم"
+      },
+      {
+        "en": "Platinum",
+        "ar": "البلاتين"
       },
       {
         "en": "Gold",
         "ar": "الدهب"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Osmium is the densest naturally occurring element known.",
     "explanation_ar": "الأوزميوم هو أكتر عنصر طبيعي كثافة معروف."
   },
@@ -1153,19 +1153,19 @@
         "ar": "ألكسندر فليمنج"
       },
       {
+        "en": "Joseph Lister",
+        "ar": "جوزيف ليستر"
+      },
+      {
         "en": "Edward Jenner",
         "ar": "إدوارد جينر"
       },
       {
         "en": "John Snow",
         "ar": "جون سنو"
-      },
-      {
-        "en": "Joseph Lister",
-        "ar": "جوزيف ليستر"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Edward Jenner developed the world's first successful vaccine against smallpox in 1796.",
     "explanation_ar": "إدوارد جينر طور أول لقاح ناجح في العالم ضد الجدري سنة 1796."
   },
@@ -1179,23 +1179,23 @@
     "question_ar": "بيتقال إيه للطبقة السطحية المرئية من الشمس اللي بنشوفها من الأرض؟",
     "options": [
       {
-        "en": "The photosphere",
-        "ar": "الغلاف الضوئي"
-      },
-      {
-        "en": "The core",
-        "ar": "اللب"
-      },
-      {
         "en": "The chromosphere",
         "ar": "الغلاف اللوني"
       },
       {
         "en": "The corona",
         "ar": "الهالة"
+      },
+      {
+        "en": "The photosphere",
+        "ar": "الغلاف الضوئي"
+      },
+      {
+        "en": "The core",
+        "ar": "اللب"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The photosphere is the visible surface layer of the Sun.",
     "explanation_ar": "الغلاف الضوئي هو الطبقة السطحية المرئية من الشمس."
   },
@@ -1209,23 +1209,23 @@
     "question_ar": "أنهي معدن هو الأكتر انتشاراً في قشرة الأرض؟",
     "options": [
       {
-        "en": "Aluminum",
-        "ar": "الألومنيوم"
-      },
-      {
         "en": "Iron",
         "ar": "الحديد"
       },
       {
-        "en": "Magnesium",
-        "ar": "الماجنيسيوم"
+        "en": "Aluminum",
+        "ar": "الألومنيوم"
       },
       {
         "en": "Copper",
         "ar": "النحاس"
+      },
+      {
+        "en": "Magnesium",
+        "ar": "الماجنيسيوم"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Aluminum is the most abundant metal found in Earth's crust.",
     "explanation_ar": "الألومنيوم هو أكتر معدن انتشاراً في قشرة الأرض."
   },
@@ -1239,23 +1239,23 @@
     "question_ar": "بيتقال إيه للجسيم شبه عديم الكتلة، الناتج عن التفاعلات النووية، واللي بالكاد بيتفاعل مع المادة؟",
     "options": [
       {
-        "en": "A positron",
-        "ar": "بوزيترون"
-      },
-      {
-        "en": "A muon",
-        "ar": "ميون"
-      },
-      {
         "en": "A neutrino",
         "ar": "نيوترينو"
       },
       {
         "en": "A photon",
         "ar": "فوتون"
+      },
+      {
+        "en": "A muon",
+        "ar": "ميون"
+      },
+      {
+        "en": "A positron",
+        "ar": "بوزيترون"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Neutrinos are nearly massless particles that rarely interact with matter.",
     "explanation_ar": "النيوترينوهات جسيمات شبه عديمة الكتلة ونادراً ما بتتفاعل مع المادة."
   },
@@ -1273,16 +1273,16 @@
         "ar": "نيكولاس كوبرنيكوس"
       },
       {
-        "en": "Galileo Galilei",
-        "ar": "جاليليو جاليلي"
+        "en": "Claudius Ptolemy",
+        "ar": "بطليموس"
       },
       {
         "en": "Johannes Kepler",
         "ar": "يوهانس كيبلر"
       },
       {
-        "en": "Claudius Ptolemy",
-        "ar": "بطليموس"
+        "en": "Galileo Galilei",
+        "ar": "جاليليو جاليلي"
       }
     ],
     "correctAnswer": 0,
@@ -1299,23 +1299,23 @@
     "question_ar": "بيتقال إيه للحد اللي بيفصل بين قشرة الأرض ووشاحها؟",
     "options": [
       {
-        "en": "The asthenosphere line",
-        "ar": "خط الغلاف الموري"
-      },
-      {
-        "en": "The lithosphere boundary",
-        "ar": "حد الغلاف الصخري"
-      },
-      {
         "en": "The Gutenberg discontinuity",
         "ar": "عدم اتصال جوتنبرج"
       },
       {
+        "en": "The asthenosphere line",
+        "ar": "خط الغلاف الموري"
+      },
+      {
         "en": "The Mohorovičić discontinuity",
         "ar": "عدم اتصال موهوروفيتشيتش"
+      },
+      {
+        "en": "The lithosphere boundary",
+        "ar": "حد الغلاف الصخري"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "The Mohorovičić discontinuity (the \"Moho\") marks the boundary between the crust and mantle.",
     "explanation_ar": "عدم اتصال موهوروفيتشيتش (\"موهو\") بيحدد الحد بين القشرة والوشاح."
   },
@@ -1329,23 +1329,23 @@
     "question_ar": "أنهي عنصر ضروري للهيموجلوبين وبيسمح لكرات الدم الحمرا تنقل الأكسجين؟",
     "options": [
       {
-        "en": "Copper",
-        "ar": "النحاس"
-      },
-      {
-        "en": "Zinc",
-        "ar": "الزنك"
+        "en": "Calcium",
+        "ar": "الكالسيوم"
       },
       {
         "en": "Iron",
         "ar": "الحديد"
       },
       {
-        "en": "Calcium",
-        "ar": "الكالسيوم"
+        "en": "Zinc",
+        "ar": "الزنك"
+      },
+      {
+        "en": "Copper",
+        "ar": "النحاس"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Iron is a key component of hemoglobin, enabling it to bind and carry oxygen.",
     "explanation_ar": "الحديد مكون أساسي في الهيموجلوبين، وبيخليه يرتبط بالأكسجين وينقله."
   },
@@ -1359,23 +1359,23 @@
     "question_ar": "أنهي مركز علمي قديم في مصر كان من أكبر مراكز البحث العلمي في التاريخ، قبل ما يتدمر في النهاية؟",
     "options": [
       {
-        "en": "The Library of Pergamon",
-        "ar": "مكتبة برجامون"
-      },
-      {
-        "en": "The Library of Nineveh",
-        "ar": "مكتبة نينوى"
-      },
-      {
         "en": "The House of Wisdom",
         "ar": "بيت الحكمة"
       },
       {
         "en": "The Library of Alexandria",
         "ar": "مكتبة الإسكندرية"
+      },
+      {
+        "en": "The Library of Pergamon",
+        "ar": "مكتبة برجامون"
+      },
+      {
+        "en": "The Library of Nineveh",
+        "ar": "مكتبة نينوى"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "The Library of Alexandria in ancient Egypt was one of history's greatest centers of scientific learning.",
     "explanation_ar": "مكتبة الإسكندرية في مصر القديمة كانت من أعظم مراكز التعلم والبحث العلمي في التاريخ."
   },
@@ -1389,23 +1389,23 @@
     "question_ar": "بيتقال إيه للخوف من الأماكن الضيقة أو المغلقة؟",
     "options": [
       {
-        "en": "Arachnophobia",
-        "ar": "رهاب العناكب"
-      },
-      {
-        "en": "Acrophobia",
-        "ar": "رهاب المرتفعات"
-      },
-      {
         "en": "Claustrophobia",
         "ar": "رهاب الأماكن المغلقة"
       },
       {
         "en": "Agoraphobia",
         "ar": "رهاب الأماكن المفتوحة"
+      },
+      {
+        "en": "Arachnophobia",
+        "ar": "رهاب العناكب"
+      },
+      {
+        "en": "Acrophobia",
+        "ar": "رهاب المرتفعات"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Claustrophobia is the fear of enclosed or tight spaces.",
     "explanation_ar": "رهاب الأماكن المغلقة هو الخوف من الأماكن الضيقة أو المغلقة."
   },
@@ -1419,23 +1419,23 @@
     "question_ar": "أنهي كوكب، غير الزهرة، هو الكوكب التاني المعروف إنه بيلف في اتجاه معاكس لمعظم الكواكب؟",
     "options": [
       {
-        "en": "Saturn",
-        "ar": "زحل"
+        "en": "Mercury",
+        "ar": "عطارد"
       },
       {
         "en": "Mars",
         "ar": "المريخ"
       },
       {
-        "en": "Mercury",
-        "ar": "عطارد"
-      },
-      {
         "en": "Uranus",
         "ar": "أورانوس"
+      },
+      {
+        "en": "Saturn",
+        "ar": "زحل"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Uranus, alongside Venus, rotates in retrograde compared to most planets.",
     "explanation_ar": "أورانوس، زي الزهرة، بيلف في اتجاه معاكس لمعظم الكواكب."
   },
@@ -1453,19 +1453,19 @@
         "ar": "عبور"
       },
       {
-        "en": "An eclipse",
-        "ar": "كسوف/خسوف"
-      },
-      {
         "en": "An occultation",
         "ar": "احتجاب"
+      },
+      {
+        "en": "An eclipse",
+        "ar": "كسوف/خسوف"
       },
       {
         "en": "A conjunction",
         "ar": "اقتران"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "An occultation happens when one celestial body passes in front of another, blocking its light.",
     "explanation_ar": "الاحتجاب بيحصل لما جسم سماوي يعدي قدام جسم تاني ويحجب ضوءه."
   },
@@ -1479,23 +1479,23 @@
     "question_ar": "أنهي غدة عند قاعدة المخ بيتقالها \"الغدة الرئيسية\" للجسم لأنها بتتحكم في باقي الغدد الهرمونية؟",
     "options": [
       {
-        "en": "The pituitary gland",
-        "ar": "الغدة النخامية"
-      },
-      {
-        "en": "The pineal gland",
-        "ar": "الغدة الصنوبرية"
+        "en": "The adrenal gland",
+        "ar": "الغدة الكظرية"
       },
       {
         "en": "The thyroid gland",
         "ar": "الغدة الدرقية"
       },
       {
-        "en": "The adrenal gland",
-        "ar": "الغدة الكظرية"
+        "en": "The pineal gland",
+        "ar": "الغدة الصنوبرية"
+      },
+      {
+        "en": "The pituitary gland",
+        "ar": "الغدة النخامية"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The pituitary gland is called the \"master gland\" because it controls many other hormone glands.",
     "explanation_ar": "الغدة النخامية بيتقالها \"الغدة الرئيسية\" لأنها بتتحكم في كتير من الغدد الهرمونية التانية."
   }

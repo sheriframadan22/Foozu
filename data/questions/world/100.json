@@ -13,19 +13,19 @@
         "ar": "الأردن"
       },
       {
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
+      },
+      {
         "en": "Sudan",
         "ar": "السودان"
       },
       {
         "en": "Chad",
         "ar": "تشاد"
-      },
-      {
-        "en": "Saudi Arabia",
-        "ar": "السعودية"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Egypt's land neighbors are Libya, Sudan and Israel/Gaza; Jordan, Chad and Saudi Arabia do not directly border it.",
     "explanation_ar": "حدود مصر البرية مع ليبيا والسودان وإسرائيل وغزة، أما الأردن وتشاد والسعودية ملهاش حدود بريّة مباشرة معاها."
   },
@@ -43,16 +43,16 @@
         "ar": "السعودية"
       },
       {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      },
+      {
         "en": "Iraq",
         "ar": "العراق"
       },
       {
         "en": "Libya",
         "ar": "ليبيا"
-      },
-      {
-        "en": "Algeria",
-        "ar": "الجزائر"
       }
     ],
     "correctAnswer": 0,
@@ -69,10 +69,6 @@
     "question_ar": "الإمارات العربية المتحدة مكوّنة من كام إمارة؟",
     "options": [
       {
-        "en": "5",
-        "ar": "5"
-      },
-      {
         "en": "6",
         "ar": "6"
       },
@@ -81,11 +77,15 @@
         "ar": "7"
       },
       {
+        "en": "5",
+        "ar": "5"
+      },
+      {
         "en": "9",
         "ar": "9"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "The UAE is a federation of seven emirates, including Abu Dhabi and Dubai.",
     "explanation_ar": "الإمارات دولة اتحادية مكوّنة من 7 إمارات من ضمنها أبوظبي ودبي."
   },
@@ -99,10 +99,6 @@
     "question_ar": "أنهي مدينة سعودية على ساحل البحر الأحمر كانت تاريخيًا بوابة الحجاج المتجهين لمكة؟",
     "options": [
       {
-        "en": "Riyadh",
-        "ar": "الرياض"
-      },
-      {
         "en": "Dammam",
         "ar": "الدمام"
       },
@@ -111,11 +107,15 @@
         "ar": "جدة"
       },
       {
+        "en": "Riyadh",
+        "ar": "الرياض"
+      },
+      {
         "en": "Tabuk",
         "ar": "تبوك"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Jeddah's port has long welcomed pilgrims arriving by sea on their way to Mecca.",
     "explanation_ar": "ميناء جدة كان بيستقبل الحجاج الجايين بالبحر في طريقهم لمكة من زمان."
   },
@@ -129,23 +129,23 @@
     "question_ar": "عُمان كان اسمها الرسمي مختلف لحد سنة 1970، إيه كان الاسم ده؟",
     "options": [
       {
-        "en": "Muscat and Oman",
-        "ar": "مسقط وعُمان"
+        "en": "Al-Rustaq Emirate",
+        "ar": "إمارة الرستاق"
       },
       {
         "en": "The Trucial States",
         "ar": "إمارات الساحل المتصالح"
       },
       {
-        "en": "Dhofar Sultanate",
-        "ar": "سلطنة ظفار"
+        "en": "Muscat and Oman",
+        "ar": "مسقط وعُمان"
       },
       {
-        "en": "Al-Rustaq Emirate",
-        "ar": "إمارة الرستاق"
+        "en": "Dhofar Sultanate",
+        "ar": "سلطنة ظفار"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The country was officially called the Sultanate of Muscat and Oman until it was renamed in 1970.",
     "explanation_ar": "الدولة كان اسمها الرسمي سلطنة مسقط وعُمان لحد ما اتغير الاسم سنة 1970."
   },
@@ -189,23 +189,23 @@
     "question_ar": "سقطرى، الجزيرة المشهورة بأشجار دم الأخوين الغريبة الشكل، تابعة لأنهي بلد؟",
     "options": [
       {
-        "en": "Yemen",
-        "ar": "اليمن"
-      },
-      {
-        "en": "Oman",
-        "ar": "عُمان"
-      },
-      {
         "en": "Somalia",
         "ar": "الصومال"
       },
       {
+        "en": "Yemen",
+        "ar": "اليمن"
+      },
+      {
         "en": "Eritrea",
         "ar": "إريتريا"
+      },
+      {
+        "en": "Oman",
+        "ar": "عُمان"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Socotra is a Yemeni island known for its unique biodiversity.",
     "explanation_ar": "سقطرى جزيرة يمنية مشهورة بتنوعها البيولوجي الفريد."
   },
@@ -223,19 +223,19 @@
         "ar": "إريتريا"
       },
       {
-        "en": "Djibouti",
-        "ar": "جيبوتي"
-      },
-      {
         "en": "Ethiopia",
         "ar": "إثيوبيا"
+      },
+      {
+        "en": "Djibouti",
+        "ar": "جيبوتي"
       },
       {
         "en": "Kenya",
         "ar": "كينيا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Djibouti sits on the Bab-el-Mandeb strait and is a member of the Arab League.",
     "explanation_ar": "جيبوتي موجودة على مضيق باب المندب وهي عضو في جامعة الدول العربية."
   },
@@ -249,23 +249,23 @@
     "question_ar": "أنهي عضو في جامعة الدول العربية عبارة عن دولة جزيرة في المحيط الهندي، قرب مدغشقر؟",
     "options": [
       {
-        "en": "Comoros",
-        "ar": "جزر القمر"
-      },
-      {
         "en": "Seychelles",
         "ar": "سيشل"
       },
       {
-        "en": "Mauritius",
-        "ar": "موريشيوس"
-      },
-      {
         "en": "Maldives",
         "ar": "المالديف"
+      },
+      {
+        "en": "Comoros",
+        "ar": "جزر القمر"
+      },
+      {
+        "en": "Mauritius",
+        "ar": "موريشيوس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Comoros, off the coast of East Africa near Madagascar, is a member of the Arab League.",
     "explanation_ar": "جزر القمر، قبالة ساحل شرق أفريقيا قرب مدغشقر، عضو في جامعة الدول العربية."
   },
@@ -279,23 +279,23 @@
     "question_ar": "إيه عاصمة موريتانيا؟",
     "options": [
       {
-        "en": "Nouakchott",
-        "ar": "نواكشوط"
-      },
-      {
         "en": "Nouadhibou",
         "ar": "نواذيبو"
       },
       {
-        "en": "Kaédi",
-        "ar": "كيهيدي"
+        "en": "Nouakchott",
+        "ar": "نواكشوط"
       },
       {
         "en": "Rosso",
         "ar": "روصو"
+      },
+      {
+        "en": "Kaédi",
+        "ar": "كيهيدي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Nouakchott is the capital of Mauritania.",
     "explanation_ar": "نواكشوط عاصمة موريتانيا."
   },
@@ -313,19 +313,19 @@
         "ar": "هرجيسا"
       },
       {
-        "en": "Mogadishu",
-        "ar": "مقديشو"
+        "en": "Baidoa",
+        "ar": "بيدوا"
       },
       {
         "en": "Kismayo",
         "ar": "كيسمايو"
       },
       {
-        "en": "Baidoa",
-        "ar": "بيدوا"
+        "en": "Mogadishu",
+        "ar": "مقديشو"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Mogadishu is the capital of Somalia.",
     "explanation_ar": "مقديشو عاصمة الصومال."
   },
@@ -339,12 +339,12 @@
     "question_ar": "الربع الخالي، أكبر امتداد صحراوي رملي متصل في العالم، موجود بشكل أساسي في أنهي بلد؟",
     "options": [
       {
-        "en": "Saudi Arabia",
-        "ar": "السعودية"
-      },
-      {
         "en": "Yemen",
         "ar": "اليمن"
+      },
+      {
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
       },
       {
         "en": "Oman",
@@ -355,7 +355,7 @@
         "ar": "الإمارات"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Empty Quarter covers a huge portion of southern Saudi Arabia.",
     "explanation_ar": "الربع الخالي بيغطي مساحة ضخمة من جنوب السعودية."
   },
@@ -369,23 +369,23 @@
     "question_ar": "إيه اسم الطبق المغربي التقليدي اللي بيتطبخ على نار هادية في إناء من الطين؟",
     "options": [
       {
-        "en": "Couscous",
-        "ar": "كسكس"
-      },
-      {
-        "en": "Tagine",
-        "ar": "طاجين"
-      },
-      {
         "en": "Harira",
         "ar": "حريرة"
       },
       {
+        "en": "Couscous",
+        "ar": "كسكس"
+      },
+      {
         "en": "Pastilla",
         "ar": "بسطيلة"
+      },
+      {
+        "en": "Tagine",
+        "ar": "طاجين"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "A tagine is named after the conical clay pot used to cook it.",
     "explanation_ar": "الطاجين سمي على اسم الإناء الطيني المخروطي اللي بيتطبخ فيه."
   },
@@ -399,23 +399,23 @@
     "question_ar": "أنهي دولة خليجية كانت مشهورة تاريخيًا كمركز للغوص على اللؤلؤ قبل اكتشاف البترول؟",
     "options": [
       {
-        "en": "Qatar",
-        "ar": "قطر"
-      },
-      {
-        "en": "Bahrain",
-        "ar": "البحرين"
+        "en": "UAE",
+        "ar": "الإمارات"
       },
       {
         "en": "Kuwait",
         "ar": "الكويت"
       },
       {
-        "en": "UAE",
-        "ar": "الإمارات"
+        "en": "Qatar",
+        "ar": "قطر"
+      },
+      {
+        "en": "Bahrain",
+        "ar": "البحرين"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Bahrain was one of the most famous pearl diving centers in the Gulf for centuries.",
     "explanation_ar": "البحرين كانت من أشهر مراكز الغوص على اللؤلؤ في الخليج لمئات السنين."
   },
@@ -429,23 +429,23 @@
     "question_ar": "الكشري، الأكلة الشعبية اللي فيها رز وعدس ومكرونة، بيتعتبر الأكلة القومية لأنهي بلد؟",
     "options": [
       {
-        "en": "Lebanon",
-        "ar": "لبنان"
-      },
-      {
         "en": "Egypt",
         "ar": "مصر"
+      },
+      {
+        "en": "Iraq",
+        "ar": "العراق"
       },
       {
         "en": "Syria",
         "ar": "سوريا"
       },
       {
-        "en": "Iraq",
-        "ar": "العراق"
+        "en": "Lebanon",
+        "ar": "لبنان"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Koshari is widely considered Egypt's national dish.",
     "explanation_ar": "الكشري بيتعتبر على نطاق واسع الأكلة القومية لمصر."
   },
@@ -459,20 +459,20 @@
     "question_ar": "العربية والعبرية والأمهرية كلهم بينتموا لأنهي عائلة لغوية؟",
     "options": [
       {
-        "en": "Cushitic languages",
-        "ar": "اللغات الكوشية"
+        "en": "Berber languages",
+        "ar": "اللغات البربرية"
       },
       {
         "en": "Semitic languages",
         "ar": "اللغات السامية"
       },
       {
-        "en": "Berber languages",
-        "ar": "اللغات البربرية"
-      },
-      {
         "en": "Nilotic languages",
         "ar": "اللغات النيلية"
+      },
+      {
+        "en": "Cushitic languages",
+        "ar": "اللغات الكوشية"
       }
     ],
     "correctAnswer": 1,
@@ -489,20 +489,20 @@
     "question_ar": "البتراء، المدينة الأثرية المنحوتة في الصخر بالأردن، مين اللي بناها؟",
     "options": [
       {
-        "en": "The Phoenicians",
-        "ar": "الفينيقيون"
+        "en": "The Assyrians",
+        "ar": "الآشوريون"
       },
       {
         "en": "The Nabateans",
         "ar": "الأنباط"
       },
       {
-        "en": "The Babylonians",
-        "ar": "البابليون"
+        "en": "The Phoenicians",
+        "ar": "الفينيقيون"
       },
       {
-        "en": "The Assyrians",
-        "ar": "الآشوريون"
+        "en": "The Babylonians",
+        "ar": "البابليون"
       }
     ],
     "correctAnswer": 1,
@@ -519,23 +519,23 @@
     "question_ar": "أنهي عاصمة عربية بتتعتبر من أقدم المدن المأهولة بشكل متواصل في العالم؟",
     "options": [
       {
-        "en": "Beirut",
-        "ar": "بيروت"
-      },
-      {
-        "en": "Damascus",
-        "ar": "دمشق"
-      },
-      {
         "en": "Amman",
         "ar": "عمّان"
       },
       {
         "en": "Baghdad",
         "ar": "بغداد"
+      },
+      {
+        "en": "Beirut",
+        "ar": "بيروت"
+      },
+      {
+        "en": "Damascus",
+        "ar": "دمشق"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Damascus is frequently cited as one of the oldest continuously inhabited cities in the world.",
     "explanation_ar": "دمشق بتتذكر دايمًا كواحدة من أقدم المدن المأهولة بشكل متواصل في العالم."
   },
@@ -553,19 +553,19 @@
         "ar": "إيران"
       },
       {
+        "en": "Turkey",
+        "ar": "تركيا"
+      },
+      {
         "en": "Iraq",
         "ar": "العراق"
       },
       {
         "en": "Syria",
         "ar": "سوريا"
-      },
-      {
-        "en": "Turkey",
-        "ar": "تركيا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Mesopotamia lay mostly within the borders of modern-day Iraq.",
     "explanation_ar": "بلاد الرافدين كانت موجودة في الأغلب داخل حدود العراق الحديثة."
   },
@@ -583,16 +583,16 @@
         "ar": "تونس"
       },
       {
+        "en": "Mauritania",
+        "ar": "موريتانيا"
+      },
+      {
         "en": "Libya",
         "ar": "ليبيا"
       },
       {
         "en": "Egypt",
         "ar": "مصر"
-      },
-      {
-        "en": "Mauritania",
-        "ar": "موريتانيا"
       }
     ],
     "correctAnswer": 0,
@@ -613,16 +613,16 @@
         "ar": "بيرو"
       },
       {
-        "en": "Bolivia",
-        "ar": "بوليفيا"
+        "en": "Paraguay",
+        "ar": "باراجواي"
       },
       {
         "en": "Chile",
         "ar": "تشيلي"
       },
       {
-        "en": "Paraguay",
-        "ar": "باراجواي"
+        "en": "Bolivia",
+        "ar": "بوليفيا"
       }
     ],
     "correctAnswer": 2,
@@ -639,23 +639,23 @@
     "question_ar": "أنهي دولة أفريقية محاطة بالكامل بجنوب أفريقيا؟",
     "options": [
       {
-        "en": "Eswatini",
-        "ar": "إسواتيني"
-      },
-      {
         "en": "Lesotho",
         "ar": "ليسوتو"
       },
       {
-        "en": "Botswana",
-        "ar": "بوتسوانا"
+        "en": "Eswatini",
+        "ar": "إسواتيني"
       },
       {
         "en": "Malawi",
         "ar": "مالاوي"
+      },
+      {
+        "en": "Botswana",
+        "ar": "بوتسوانا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Lesotho is completely surrounded by South Africa.",
     "explanation_ar": "ليسوتو محاطة بالكامل بجنوب أفريقيا."
   },
@@ -669,6 +669,10 @@
     "question_ar": "نهر الأمازون بيصب في المحيط الأطلسي من خلال أنهي بلد؟",
     "options": [
       {
+        "en": "Venezuela",
+        "ar": "فنزويلا"
+      },
+      {
         "en": "Peru",
         "ar": "بيرو"
       },
@@ -679,13 +683,9 @@
       {
         "en": "Brazil",
         "ar": "البرازيل"
-      },
-      {
-        "en": "Venezuela",
-        "ar": "فنزويلا"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "The Amazon River reaches the Atlantic Ocean in northern Brazil.",
     "explanation_ar": "نهر الأمازون بيوصل للمحيط الأطلسي في شمال البرازيل."
   },
@@ -699,23 +699,23 @@
     "question_ar": "أنهي دولة من أمريكا الجنوبية ليها حدود بريّة مع بنما؟",
     "options": [
       {
-        "en": "Colombia",
-        "ar": "كولومبيا"
-      },
-      {
-        "en": "Ecuador",
-        "ar": "الإكوادور"
+        "en": "Peru",
+        "ar": "بيرو"
       },
       {
         "en": "Venezuela",
         "ar": "فنزويلا"
       },
       {
-        "en": "Peru",
-        "ar": "بيرو"
+        "en": "Ecuador",
+        "ar": "الإكوادور"
+      },
+      {
+        "en": "Colombia",
+        "ar": "كولومبيا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Colombia is the only South American country bordering Panama.",
     "explanation_ar": "كولومبيا هي الدولة الوحيدة في أمريكا الجنوبية اللي ليها حدود مع بنما."
   },
@@ -729,23 +729,23 @@
     "question_ar": "أنهي دولة صغيرة موجودة في جبال البيرينيه بين إسبانيا وفرنسا؟",
     "options": [
       {
-        "en": "Andorra",
-        "ar": "أندورا"
-      },
-      {
-        "en": "Monaco",
-        "ar": "موناكو"
-      },
-      {
         "en": "Luxembourg",
         "ar": "لوكسمبورج"
       },
       {
+        "en": "Andorra",
+        "ar": "أندورا"
+      },
+      {
         "en": "Liechtenstein",
         "ar": "ليختنشتاين"
+      },
+      {
+        "en": "Monaco",
+        "ar": "موناكو"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Andorra is a tiny country nestled in the Pyrenees between Spain and France.",
     "explanation_ar": "أندورا دولة صغيرة موجودة في جبال البيرينيه بين إسبانيا وفرنسا."
   },
@@ -759,10 +759,6 @@
     "question_ar": "أنهي دولة صغيرة محاطة بالكامل بإيطاليا، غير الفاتيكان؟",
     "options": [
       {
-        "en": "Monaco",
-        "ar": "موناكو"
-      },
-      {
         "en": "San Marino",
         "ar": "سان مارينو"
       },
@@ -771,11 +767,15 @@
         "ar": "أندورا"
       },
       {
+        "en": "Monaco",
+        "ar": "موناكو"
+      },
+      {
         "en": "Malta",
         "ar": "مالطا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "San Marino is a microstate completely surrounded by Italy.",
     "explanation_ar": "سان مارينو دولة صغيرة محاطة بالكامل بإيطاليا."
   },
@@ -789,23 +789,23 @@
     "question_ar": "أنهي دولة محصورة بين سويسرا والنمسا؟",
     "options": [
       {
-        "en": "Liechtenstein",
-        "ar": "ليختنشتاين"
-      },
-      {
-        "en": "Monaco",
-        "ar": "موناكو"
+        "en": "San Marino",
+        "ar": "سان مارينو"
       },
       {
         "en": "Luxembourg",
         "ar": "لوكسمبورج"
       },
       {
-        "en": "San Marino",
-        "ar": "سان مارينو"
+        "en": "Monaco",
+        "ar": "موناكو"
+      },
+      {
+        "en": "Liechtenstein",
+        "ar": "ليختنشتاين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Liechtenstein is a small country wedged between Switzerland and Austria.",
     "explanation_ar": "ليختنشتاين دولة صغيرة محشورة بين سويسرا والنمسا."
   },
@@ -819,8 +819,8 @@
     "question_ar": "إيه العاصمة الرسمية لسريلانكا؟",
     "options": [
       {
-        "en": "Colombo",
-        "ar": "كولومبو"
+        "en": "Galle",
+        "ar": "جال"
       },
       {
         "en": "Kandy",
@@ -831,8 +831,8 @@
         "ar": "سري جاياواردنابورا كوتي"
       },
       {
-        "en": "Galle",
-        "ar": "جال"
+        "en": "Colombo",
+        "ar": "كولومبو"
       }
     ],
     "correctAnswer": 2,
@@ -849,23 +849,23 @@
     "question_ar": "إيه عاصمة ميانمار؟",
     "options": [
       {
-        "en": "Yangon",
-        "ar": "يانجون"
+        "en": "Naypyidaw",
+        "ar": "نايبيداو"
       },
       {
         "en": "Mandalay",
         "ar": "مندالاي"
       },
       {
-        "en": "Naypyidaw",
-        "ar": "نايبيداو"
+        "en": "Yangon",
+        "ar": "يانجون"
       },
       {
         "en": "Bago",
         "ar": "باجو"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Naypyidaw became Myanmar's capital in 2005, replacing Yangon.",
     "explanation_ar": "نايبيداو بقت عاصمة ميانمار سنة 2005 بدل يانجون."
   },
@@ -879,23 +879,23 @@
     "question_ar": "إيه عاصمة كازاخستان؟",
     "options": [
       {
-        "en": "Almaty",
-        "ar": "ألماتي"
+        "en": "Karaganda",
+        "ar": "قاراغاندا"
       },
       {
-        "en": "Astana",
-        "ar": "أستانا"
+        "en": "Almaty",
+        "ar": "ألماتي"
       },
       {
         "en": "Shymkent",
         "ar": "شيمكنت"
       },
       {
-        "en": "Karaganda",
-        "ar": "قاراغاندا"
+        "en": "Astana",
+        "ar": "أستانا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Astana is the capital of Kazakhstan, though Almaty is the largest city.",
     "explanation_ar": "أستانا عاصمة كازاخستان رغم إن ألماتي أكبر مدنها.",
     "verified_as_of": "2025-06"
@@ -910,23 +910,23 @@
     "question_ar": "إيه العاصمة الرسمية لتنزانيا؟",
     "options": [
       {
-        "en": "Dar es Salaam",
-        "ar": "دار السلام"
-      },
-      {
-        "en": "Dodoma",
-        "ar": "دودوما"
+        "en": "Arusha",
+        "ar": "أروشا"
       },
       {
         "en": "Zanzibar City",
         "ar": "مدينة زنجبار"
       },
       {
-        "en": "Arusha",
-        "ar": "أروشا"
+        "en": "Dodoma",
+        "ar": "دودوما"
+      },
+      {
+        "en": "Dar es Salaam",
+        "ar": "دار السلام"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Dodoma is Tanzania's official capital, though Dar es Salaam is the largest city.",
     "explanation_ar": "دودوما هي العاصمة الرسمية لتنزانيا رغم إن دار السلام أكبر مدنها."
   },
@@ -940,23 +940,23 @@
     "question_ar": "إيه العاصمة التشريعية لماليزيا؟",
     "options": [
       {
-        "en": "Putrajaya",
-        "ar": "بوتراجايا"
+        "en": "Penang",
+        "ar": "بينانج"
       },
       {
-        "en": "Kuala Lumpur",
-        "ar": "كوالالمبور"
+        "en": "Putrajaya",
+        "ar": "بوتراجايا"
       },
       {
         "en": "Johor Bahru",
         "ar": "جوهور بهرو"
       },
       {
-        "en": "Penang",
-        "ar": "بينانج"
+        "en": "Kuala Lumpur",
+        "ar": "كوالالمبور"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Kuala Lumpur is Malaysia's official capital, while Putrajaya hosts the administrative government.",
     "explanation_ar": "كوالالمبور هي العاصمة الرسمية لماليزيا، بينما بوتراجايا هي المركز الإداري للحكومة."
   },
@@ -970,8 +970,8 @@
     "question_ar": "إيه العاصمة الدستورية لبوليفيا ومقر السلطة القضائية فيها؟",
     "options": [
       {
-        "en": "La Paz",
-        "ar": "لاباز"
+        "en": "Cochabamba",
+        "ar": "كوتشابامبا"
       },
       {
         "en": "Sucre",
@@ -982,8 +982,8 @@
         "ar": "سانتا كروز"
       },
       {
-        "en": "Cochabamba",
-        "ar": "كوتشابامبا"
+        "en": "La Paz",
+        "ar": "لاباز"
       }
     ],
     "correctAnswer": 1,
@@ -1000,23 +1000,23 @@
     "question_ar": "تمثال المسيح الفادي بيطل على أنهي مدينة برازيلية؟",
     "options": [
       {
-        "en": "São Paulo",
-        "ar": "ساو باولو"
-      },
-      {
-        "en": "Rio de Janeiro",
-        "ar": "ريو دي جانيرو"
-      },
-      {
         "en": "Salvador",
         "ar": "سلفادور"
       },
       {
         "en": "Brasília",
         "ar": "برازيليا"
+      },
+      {
+        "en": "Rio de Janeiro",
+        "ar": "ريو دي جانيرو"
+      },
+      {
+        "en": "São Paulo",
+        "ar": "ساو باولو"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Christ the Redeemer stands atop Corcovado mountain overlooking Rio de Janeiro.",
     "explanation_ar": "تمثال المسيح الفادي واقف فوق جبل كوركوفادو بيطل على ريو دي جانيرو."
   },
@@ -1038,12 +1038,12 @@
         "ar": "غرناطة"
       },
       {
-        "en": "Córdoba",
-        "ar": "قرطبة"
-      },
-      {
         "en": "Toledo",
         "ar": "طليطلة"
+      },
+      {
+        "en": "Córdoba",
+        "ar": "قرطبة"
       }
     ],
     "correctAnswer": 1,
@@ -1060,6 +1060,10 @@
     "question_ar": "ماتشو بيتشو، القلعة اللي فوق الجبل في بيرو، مين اللي بناها؟",
     "options": [
       {
+        "en": "The Olmecs",
+        "ar": "الأولمك"
+      },
+      {
         "en": "The Aztecs",
         "ar": "الأزتك"
       },
@@ -1070,13 +1074,9 @@
       {
         "en": "The Incas",
         "ar": "الإنكا"
-      },
-      {
-        "en": "The Olmecs",
-        "ar": "الأولمك"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Machu Picchu was built by the Inca civilization in the 15th century.",
     "explanation_ar": "ماتشو بيتشو اتبنت على يد حضارة الإنكا في القرن الخامس عشر."
   },
@@ -1090,12 +1090,12 @@
     "question_ar": "أنكور وات اتبنى في الأول كمعبد لأنهي ديانة، قبل ما يبقى موقع بوذي؟",
     "options": [
       {
-        "en": "Hinduism",
-        "ar": "الهندوسية"
-      },
-      {
         "en": "Buddhism",
         "ar": "البوذية"
+      },
+      {
+        "en": "Hinduism",
+        "ar": "الهندوسية"
       },
       {
         "en": "Jainism",
@@ -1106,7 +1106,7 @@
         "ar": "السيخية"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Angkor Wat was originally built as a Hindu temple before later becoming Buddhist.",
     "explanation_ar": "أنكور وات اتبنى في الأول كمعبد هندوسي قبل ما يبقى موقع بوذي."
   },
@@ -1120,12 +1120,12 @@
     "question_ar": "كنيسة ساغرادا فاميليا في برشلونة صممها أنهي مهندس؟",
     "options": [
       {
-        "en": "Antoni Gaudí",
-        "ar": "أنطوني جاودي"
-      },
-      {
         "en": "Rafael Guastavino",
         "ar": "رافائيل جواستافينو"
+      },
+      {
+        "en": "Antoni Gaudí",
+        "ar": "أنطوني جاودي"
       },
       {
         "en": "Santiago Calatrava",
@@ -1136,7 +1136,7 @@
         "ar": "جوزيب بويج"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Sagrada Familia was designed by Catalan architect Antoni Gaudí.",
     "explanation_ar": "كنيسة ساغرادا فاميليا صممها المهندس الكتالوني أنطوني جاودي."
   },
@@ -1150,20 +1150,20 @@
     "question_ar": "إيه الاسم الرسمي الحديث للمملكة الأفريقية اللي كانت معروفة باسم سوازيلاند؟",
     "options": [
       {
-        "en": "Lesotho",
-        "ar": "ليسوتو"
+        "en": "Malawi",
+        "ar": "مالاوي"
       },
       {
         "en": "Eswatini",
         "ar": "إسواتيني"
       },
       {
-        "en": "Malawi",
-        "ar": "مالاوي"
-      },
-      {
         "en": "Botswana",
         "ar": "بوتسوانا"
+      },
+      {
+        "en": "Lesotho",
+        "ar": "ليسوتو"
       }
     ],
     "correctAnswer": 1,
@@ -1180,10 +1180,6 @@
     "question_ar": "أنهي مضيق بيفصل شبه جزيرة ماليزيا عن جزيرة سومطرة الإندونيسية؟",
     "options": [
       {
-        "en": "Strait of Malacca",
-        "ar": "مضيق ملقا"
-      },
-      {
         "en": "Strait of Hormuz",
         "ar": "مضيق هرمز"
       },
@@ -1192,11 +1188,15 @@
         "ar": "مضيق سوندا"
       },
       {
+        "en": "Strait of Malacca",
+        "ar": "مضيق ملقا"
+      },
+      {
         "en": "Strait of Taiwan",
         "ar": "مضيق تايوان"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Strait of Malacca is one of the world's busiest shipping lanes.",
     "explanation_ar": "مضيق ملقا من أكتر ممرات الشحن ازدحامًا في العالم."
   },
@@ -1210,23 +1210,23 @@
     "question_ar": "K2، ثاني أعلى قمة في العالم، جزء من أنهي سلسلة جبال؟",
     "options": [
       {
-        "en": "The Himalayas",
-        "ar": "جبال الهيمالايا"
-      },
-      {
-        "en": "The Karakoram Range",
-        "ar": "سلسلة القراقورم"
-      },
-      {
         "en": "The Hindu Kush",
         "ar": "هندوكوش"
       },
       {
         "en": "The Pamir Mountains",
         "ar": "جبال البامير"
+      },
+      {
+        "en": "The Himalayas",
+        "ar": "جبال الهيمالايا"
+      },
+      {
+        "en": "The Karakoram Range",
+        "ar": "سلسلة القراقورم"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "K2 is part of the Karakoram mountain range.",
     "explanation_ar": "K2 جزء من سلسلة جبال القراقورم."
   },
@@ -1240,23 +1240,23 @@
     "question_ar": "K2 موجود على الحدود بين باكستان وأنهي دولة تانية؟",
     "options": [
       {
-        "en": "China",
-        "ar": "الصين"
-      },
-      {
-        "en": "India",
-        "ar": "الهند"
-      },
-      {
         "en": "Afghanistan",
         "ar": "أفغانستان"
       },
       {
+        "en": "China",
+        "ar": "الصين"
+      },
+      {
         "en": "Tajikistan",
         "ar": "طاجيكستان"
+      },
+      {
+        "en": "India",
+        "ar": "الهند"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "K2 sits on the border between Pakistan and China.",
     "explanation_ar": "K2 موجود على الحدود بين باكستان والصين."
   },
@@ -1278,15 +1278,15 @@
         "ar": "أمريكا"
       },
       {
-        "en": "France",
-        "ar": "فرنسا"
-      },
-      {
         "en": "UK",
         "ar": "بريطانيا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "France has 12 time zones thanks to its overseas territories, more than any other country.",
     "explanation_ar": "فرنسا فيها 12 منطقة زمنية بسبب أقاليمها ما وراء البحار، أكتر من أي دولة تانية."
   },
@@ -1300,6 +1300,10 @@
     "question_ar": "أنهي بحيرة أفريقية أكبر بحيرة في القارة من حيث المساحة؟",
     "options": [
       {
+        "en": "Lake Tanganyika",
+        "ar": "بحيرة تنجانيقا"
+      },
+      {
         "en": "Lake Chad",
         "ar": "بحيرة تشاد"
       },
@@ -1308,15 +1312,11 @@
         "ar": "بحيرة فيكتوريا"
       },
       {
-        "en": "Lake Tanganyika",
-        "ar": "بحيرة تنجانيقا"
-      },
-      {
         "en": "Lake Malawi",
         "ar": "بحيرة مالاوي"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Lake Victoria is the largest lake in Africa by surface area.",
     "explanation_ar": "بحيرة فيكتوريا أكبر بحيرة في أفريقيا من حيث المساحة."
   },
@@ -1330,23 +1330,23 @@
     "question_ar": "أنهي بحر فريد من نوعه لإنه ملوش حدود بريّة خالص، ومحاط بتيارات محيطية في الأطلسي؟",
     "options": [
       {
-        "en": "The Sargasso Sea",
-        "ar": "بحر السرجاسوم"
-      },
-      {
         "en": "The Coral Sea",
         "ar": "البحر المرجاني"
+      },
+      {
+        "en": "The Ross Sea",
+        "ar": "بحر روس"
       },
       {
         "en": "The Tasman Sea",
         "ar": "بحر تاسمان"
       },
       {
-        "en": "The Ross Sea",
-        "ar": "بحر روس"
+        "en": "The Sargasso Sea",
+        "ar": "بحر السرجاسوم"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The Sargasso Sea is bordered entirely by ocean currents rather than land.",
     "explanation_ar": "بحر السرجاسوم محاط بالكامل بتيارات محيطية مش بأرض."
   },
@@ -1360,8 +1360,8 @@
     "question_ar": "إيران كان اسمها في الغرب مختلف لحد سنة 1935، إيه كان الاسم ده؟",
     "options": [
       {
-        "en": "Persia",
-        "ar": "بلاد فارس"
+        "en": "Parthia",
+        "ar": "بارثيا"
       },
       {
         "en": "Media",
@@ -1372,11 +1372,11 @@
         "ar": "عيلام"
       },
       {
-        "en": "Parthia",
-        "ar": "بارثيا"
+        "en": "Persia",
+        "ar": "بلاد فارس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Iran was widely known as Persia in the West until the government requested the name change in 1935.",
     "explanation_ar": "إيران كانت معروفة في الغرب باسم بلاد فارس لحد ما الحكومة طلبت تغيير الاسم سنة 1935."
   },
@@ -1390,8 +1390,8 @@
     "question_ar": "تايلاند كان اسمها مختلف لحد سنة 1939، إيه كان الاسم ده؟",
     "options": [
       {
-        "en": "Siam",
-        "ar": "سيام"
+        "en": "Champa",
+        "ar": "تشامبا"
       },
       {
         "en": "Burma",
@@ -1402,11 +1402,11 @@
         "ar": "أنام"
       },
       {
-        "en": "Champa",
-        "ar": "تشامبا"
+        "en": "Siam",
+        "ar": "سيام"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Thailand was officially called Siam until it was renamed in 1939.",
     "explanation_ar": "تايلاند كان اسمها الرسمي سيام لحد ما اتغير سنة 1939."
   },
@@ -1424,16 +1424,16 @@
         "ar": "سيلان"
       },
       {
-        "en": "Formosa",
-        "ar": "فورموزا"
+        "en": "Malaya",
+        "ar": "مالايا"
       },
       {
         "en": "Siam",
         "ar": "سيام"
       },
       {
-        "en": "Malaya",
-        "ar": "مالايا"
+        "en": "Formosa",
+        "ar": "فورموزا"
       }
     ],
     "correctAnswer": 0,
@@ -1454,19 +1454,19 @@
         "ar": "أوغندا"
       },
       {
-        "en": "Ethiopia",
-        "ar": "إثيوبيا"
-      },
-      {
         "en": "Kenya",
         "ar": "كينيا"
       },
       {
         "en": "Rwanda",
         "ar": "رواندا"
+      },
+      {
+        "en": "Ethiopia",
+        "ar": "إثيوبيا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The Blue Nile originates from Lake Tana in Ethiopia.",
     "explanation_ar": "النيل الأزرق منبعه بحيرة تانا في إثيوبيا."
   },
@@ -1480,23 +1480,23 @@
     "question_ar": "أنهي بلد هو منبع النيل الأبيض، الرافد الأساسي التاني لنهر النيل؟",
     "options": [
       {
-        "en": "Uganda",
-        "ar": "أوغندا"
-      },
-      {
-        "en": "Tanzania",
-        "ar": "تنزانيا"
-      },
-      {
         "en": "Sudan",
         "ar": "السودان"
       },
       {
+        "en": "Uganda",
+        "ar": "أوغندا"
+      },
+      {
         "en": "Congo",
         "ar": "الكونغو"
+      },
+      {
+        "en": "Tanzania",
+        "ar": "تنزانيا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The White Nile flows from the Lake Victoria region in Uganda.",
     "explanation_ar": "النيل الأبيض بينبع من منطقة بحيرة فيكتوريا في أوغندا."
   }

@@ -9,16 +9,16 @@
     "question_ar": "إيه هي الشمس؟",
     "options": [
       {
+        "en": "A planet",
+        "ar": "كوكب"
+      },
+      {
         "en": "A moon",
         "ar": "قمر"
       },
       {
         "en": "A comet",
         "ar": "مذنب"
-      },
-      {
-        "en": "A planet",
-        "ar": "كوكب"
       },
       {
         "en": "A star",
@@ -39,12 +39,12 @@
     "question_ar": "كام كوكب في المجموعة الشمسية؟",
     "options": [
       {
-        "en": "10",
-        "ar": "10"
-      },
-      {
         "en": "7",
         "ar": "7"
+      },
+      {
+        "en": "10",
+        "ar": "10"
       },
       {
         "en": "9",
@@ -69,10 +69,6 @@
     "question_ar": "أنهي غاز الإنسان لازم يتنفسه عشان يعيش؟",
     "options": [
       {
-        "en": "Oxygen",
-        "ar": "الأكسجين"
-      },
-      {
         "en": "Nitrogen",
         "ar": "النيتروجين"
       },
@@ -81,11 +77,15 @@
         "ar": "ثاني أكسيد الكربون"
       },
       {
+        "en": "Oxygen",
+        "ar": "الأكسجين"
+      },
+      {
         "en": "Hydrogen",
         "ar": "الهيدروجين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Our bodies need oxygen to turn food into energy.",
     "explanation_ar": "جسمنا محتاج الأكسجين عشان يحول الأكل لطاقة."
   },
@@ -129,23 +129,23 @@
     "question_ar": "المية بتتجمد عند كام درجة مئوية؟",
     "options": [
       {
-        "en": "10°C",
-        "ar": "10 درجة"
-      },
-      {
-        "en": "-5°C",
-        "ar": "-5 درجة"
-      },
-      {
         "en": "32°C",
         "ar": "32 درجة"
       },
       {
         "en": "0°C",
         "ar": "صفر"
+      },
+      {
+        "en": "10°C",
+        "ar": "10 درجة"
+      },
+      {
+        "en": "-5°C",
+        "ar": "-5 درجة"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Pure water freezes at 0°C.",
     "explanation_ar": "المية النقية بتتجمد عند صفر درجة مئوية."
   },
@@ -159,23 +159,23 @@
     "question_ar": "أنهي عضو بيضخ الدم في الجسم؟",
     "options": [
       {
-        "en": "The heart",
-        "ar": "القلب"
+        "en": "The liver",
+        "ar": "الكبد"
       },
       {
         "en": "The kidney",
         "ar": "الكلى"
       },
       {
-        "en": "The lungs",
-        "ar": "الرئتين"
+        "en": "The heart",
+        "ar": "القلب"
       },
       {
-        "en": "The liver",
-        "ar": "الكبد"
+        "en": "The lungs",
+        "ar": "الرئتين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The heart pumps blood through the whole body.",
     "explanation_ar": "القلب هو اللي بيضخ الدم في كل الجسم."
   },
@@ -189,23 +189,23 @@
     "question_ar": "أنهي كوكب أقرب للشمس؟",
     "options": [
       {
-        "en": "Venus",
-        "ar": "الزهرة"
+        "en": "Mercury",
+        "ar": "عطارد"
       },
       {
-        "en": "Earth",
-        "ar": "الأرض"
+        "en": "Venus",
+        "ar": "الزهرة"
       },
       {
         "en": "Mars",
         "ar": "المريخ"
       },
       {
-        "en": "Mercury",
-        "ar": "عطارد"
+        "en": "Earth",
+        "ar": "الأرض"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Mercury is the closest planet to the Sun.",
     "explanation_ar": "عطارد هو أقرب كوكب للشمس."
   },
@@ -219,16 +219,16 @@
     "question_ar": "أنهي أكبر كوكب في المجموعة الشمسية؟",
     "options": [
       {
-        "en": "Saturn",
-        "ar": "زحل"
-      },
-      {
         "en": "Earth",
         "ar": "الأرض"
       },
       {
         "en": "Neptune",
         "ar": "نبتون"
+      },
+      {
+        "en": "Saturn",
+        "ar": "زحل"
       },
       {
         "en": "Jupiter",
@@ -249,23 +249,23 @@
     "question_ar": "أنهي كوكب معروف باسم \"الكوكب الأحمر\"؟",
     "options": [
       {
-        "en": "Mercury",
-        "ar": "عطارد"
+        "en": "Venus",
+        "ar": "الزهرة"
       },
       {
-        "en": "Mars",
-        "ar": "المريخ"
+        "en": "Mercury",
+        "ar": "عطارد"
       },
       {
         "en": "Saturn",
         "ar": "زحل"
       },
       {
-        "en": "Venus",
-        "ar": "الزهرة"
+        "en": "Mars",
+        "ar": "المريخ"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Mars looks red because of iron oxide (rust) on its surface.",
     "explanation_ar": "المريخ شكله أحمر بسبب أكسيد الحديد (الصدأ) على سطحه."
   },
@@ -279,6 +279,10 @@
     "question_ar": "إيه القمر الطبيعي الوحيد بتاع الأرض؟",
     "options": [
       {
+        "en": "Mars",
+        "ar": "المريخ"
+      },
+      {
         "en": "The Moon",
         "ar": "القمر"
       },
@@ -287,15 +291,11 @@
         "ar": "الشمس"
       },
       {
-        "en": "Mars",
-        "ar": "المريخ"
-      },
-      {
         "en": "A star",
         "ar": "نجمة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Moon is Earth's only natural satellite.",
     "explanation_ar": "القمر هو القمر الطبيعي الوحيد للأرض."
   },
@@ -309,23 +309,23 @@
     "question_ar": "كام رجل عند العنكبوت؟",
     "options": [
       {
-        "en": "4",
-        "ar": "4"
+        "en": "6",
+        "ar": "6"
       },
       {
-        "en": "8",
-        "ar": "8"
+        "en": "4",
+        "ar": "4"
       },
       {
         "en": "10",
         "ar": "10"
       },
       {
-        "en": "6",
-        "ar": "6"
+        "en": "8",
+        "ar": "8"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Spiders have 8 legs, unlike insects which have 6.",
     "explanation_ar": "العنكبوت عنده 8 أرجل، عكس الحشرات اللي عندها 6."
   },
@@ -339,23 +339,23 @@
     "question_ar": "إيه اللي النحل بينتجه؟",
     "options": [
       {
-        "en": "Sugar",
-        "ar": "السكر"
-      },
-      {
-        "en": "Milk",
-        "ar": "اللبن"
+        "en": "Honey",
+        "ar": "العسل"
       },
       {
         "en": "Silk",
         "ar": "الحرير"
       },
       {
-        "en": "Honey",
-        "ar": "العسل"
+        "en": "Milk",
+        "ar": "اللبن"
+      },
+      {
+        "en": "Sugar",
+        "ar": "السكر"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Bees make honey from flower nectar.",
     "explanation_ar": "النحل بينتج العسل من رحيق الزهور."
   },
@@ -369,8 +369,8 @@
     "question_ar": "الدودة (اليرقة) بتتحول لإيه؟",
     "options": [
       {
-        "en": "A butterfly",
-        "ar": "فراشة"
+        "en": "A fly",
+        "ar": "دبانة"
       },
       {
         "en": "A bee",
@@ -381,11 +381,11 @@
         "ar": "عصفورة"
       },
       {
-        "en": "A fly",
-        "ar": "دبانة"
+        "en": "A butterfly",
+        "ar": "فراشة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Caterpillars transform into butterflies.",
     "explanation_ar": "اليرقة بتتحول لفراشة."
   },
@@ -407,12 +407,12 @@
         "ar": "CO2"
       },
       {
-        "en": "NaCl",
-        "ar": "NaCl"
-      },
-      {
         "en": "O2",
         "ar": "O2"
+      },
+      {
+        "en": "NaCl",
+        "ar": "NaCl"
       }
     ],
     "correctAnswer": 0,
@@ -429,16 +429,16 @@
     "question_ar": "بأنهي عضو بنشوف؟",
     "options": [
       {
-        "en": "Skin",
-        "ar": "الجلد"
-      },
-      {
         "en": "Nose",
         "ar": "الأنف"
       },
       {
         "en": "Ears",
         "ar": "الأذن"
+      },
+      {
+        "en": "Skin",
+        "ar": "الجلد"
       },
       {
         "en": "Eyes",
@@ -459,16 +459,16 @@
     "question_ar": "بأنهي عضو بنتنفس؟",
     "options": [
       {
+        "en": "Liver",
+        "ar": "الكبد"
+      },
+      {
         "en": "Heart",
         "ar": "القلب"
       },
       {
         "en": "Stomach",
         "ar": "المعدة"
-      },
-      {
-        "en": "Liver",
-        "ar": "الكبد"
       },
       {
         "en": "Lungs",
@@ -489,23 +489,23 @@
     "question_ar": "الأرض فيها كام قارة؟",
     "options": [
       {
-        "en": "6",
-        "ar": "6"
-      },
-      {
-        "en": "7",
-        "ar": "7"
-      },
-      {
         "en": "8",
         "ar": "8"
       },
       {
         "en": "5",
         "ar": "5"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "en": "6",
+        "ar": "6"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Earth has 7 continents.",
     "explanation_ar": "الأرض فيها 7 قارات."
   },
@@ -519,23 +519,23 @@
     "question_ar": "الأرض بتلف حوالين الشمس في حوالي كام يوم؟",
     "options": [
       {
-        "en": "400",
-        "ar": "400"
-      },
-      {
-        "en": "300",
-        "ar": "300"
+        "en": "200",
+        "ar": "200"
       },
       {
         "en": "365",
         "ar": "365"
       },
       {
-        "en": "200",
-        "ar": "200"
+        "en": "400",
+        "ar": "400"
+      },
+      {
+        "en": "300",
+        "ar": "300"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Earth takes about 365 days to complete one orbit around the Sun.",
     "explanation_ar": "الأرض بتاخد حوالي 365 يوم عشان تلف لفة كاملة حوالين الشمس."
   },
@@ -549,23 +549,23 @@
     "question_ar": "أنهي نجمة أقرب حاجة للأرض؟",
     "options": [
       {
-        "en": "The Sun",
-        "ar": "الشمس"
+        "en": "Polaris",
+        "ar": "النجم القطبي"
       },
       {
-        "en": "Proxima Centauri",
-        "ar": "بروكسيما سنتوري"
+        "en": "The Sun",
+        "ar": "الشمس"
       },
       {
         "en": "Sirius",
         "ar": "الشعرى اليمانية"
       },
       {
-        "en": "Polaris",
-        "ar": "النجم القطبي"
+        "en": "Proxima Centauri",
+        "ar": "بروكسيما سنتوري"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Sun is the closest star to Earth, about 8 light-minutes away.",
     "explanation_ar": "الشمس هي أقرب نجمة للأرض، على بعد حوالي 8 دقايق ضوئية."
   },
@@ -579,10 +579,6 @@
     "question_ar": "أنهي قوة بتشد الحاجات لتحت ناحية الأرض؟",
     "options": [
       {
-        "en": "Friction",
-        "ar": "الاحتكاك"
-      },
-      {
         "en": "Energy",
         "ar": "الطاقة"
       },
@@ -593,9 +589,13 @@
       {
         "en": "Gravity",
         "ar": "الجاذبية"
+      },
+      {
+        "en": "Friction",
+        "ar": "الاحتكاك"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Gravity is the force that pulls objects toward Earth.",
     "explanation_ar": "الجاذبية هي القوة اللي بتشد الحاجات ناحية الأرض."
   },
@@ -609,12 +609,12 @@
     "question_ar": "إيه أكبر عضو في جسم الإنسان؟",
     "options": [
       {
-        "en": "Skin",
-        "ar": "الجلد"
-      },
-      {
         "en": "Heart",
         "ar": "القلب"
+      },
+      {
+        "en": "Skin",
+        "ar": "الجلد"
       },
       {
         "en": "Liver",
@@ -625,7 +625,7 @@
         "ar": "المخ"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The skin is the body's largest organ.",
     "explanation_ar": "الجلد هو أكبر عضو في جسم الإنسان."
   },
@@ -643,19 +643,19 @@
         "ar": "ملح متجمد"
       },
       {
-        "en": "Frozen air",
-        "ar": "هوا متجمد"
-      },
-      {
         "en": "Frozen water",
         "ar": "مية متجمدة"
+      },
+      {
+        "en": "Frozen air",
+        "ar": "هوا متجمد"
       },
       {
         "en": "Solid oxygen",
         "ar": "أكسجين صلب"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Ice is simply water in its solid, frozen form.",
     "explanation_ar": "التلج هو المية في شكلها المتجمد الصلب."
   },
@@ -669,23 +669,23 @@
     "question_ar": "النبات محتاج إيه كمان غير المية والتربة عشان ينمو كويس؟",
     "options": [
       {
-        "en": "Darkness",
-        "ar": "الضلمة"
-      },
-      {
-        "en": "Sunlight",
-        "ar": "ضوء الشمس"
-      },
-      {
         "en": "Salt",
         "ar": "الملح"
       },
       {
         "en": "Smoke",
         "ar": "الدخان"
+      },
+      {
+        "en": "Sunlight",
+        "ar": "ضوء الشمس"
+      },
+      {
+        "en": "Darkness",
+        "ar": "الضلمة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Plants use sunlight to make their own food.",
     "explanation_ar": "النبات بيستخدم ضوء الشمس عشان يعمل غذاؤه بنفسه."
   },
@@ -699,23 +699,23 @@
     "question_ar": "الإنسان عنده كام حاسة أساسية؟",
     "options": [
       {
-        "en": "4",
-        "ar": "4"
-      },
-      {
-        "en": "6",
-        "ar": "6"
-      },
-      {
         "en": "3",
         "ar": "3"
       },
       {
         "en": "5",
         "ar": "5"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "4",
+        "ar": "4"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Humans have 5 basic senses: sight, hearing, smell, taste and touch.",
     "explanation_ar": "الإنسان عنده 5 حواس أساسية: البصر والسمع والشم والتذوق واللمس."
   },
@@ -729,23 +729,23 @@
     "question_ar": "بيتقال إيه للعلم اللي بيدرس النجوم والفضاء؟",
     "options": [
       {
-        "en": "Chemistry",
-        "ar": "الكيمياء"
+        "en": "Biology",
+        "ar": "علم الأحياء"
       },
       {
         "en": "Geology",
         "ar": "علم الجيولوجيا"
       },
       {
-        "en": "Astronomy",
-        "ar": "علم الفلك"
+        "en": "Chemistry",
+        "ar": "الكيمياء"
       },
       {
-        "en": "Biology",
-        "ar": "علم الأحياء"
+        "en": "Astronomy",
+        "ar": "علم الفلك"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Astronomy is the study of stars, planets and space.",
     "explanation_ar": "علم الفلك بيدرس النجوم والكواكب والفضاء."
   },
@@ -767,12 +767,12 @@
         "ar": "دخان"
       },
       {
-        "en": "Dust",
-        "ar": "تراب"
-      },
-      {
         "en": "Sand",
         "ar": "رمل"
+      },
+      {
+        "en": "Dust",
+        "ar": "تراب"
       }
     ],
     "correctAnswer": 0,
@@ -789,23 +789,23 @@
     "question_ar": "الإنسان عايش على أنهي كوكب؟",
     "options": [
       {
-        "en": "Earth",
-        "ar": "الأرض"
-      },
-      {
-        "en": "Venus",
-        "ar": "الزهرة"
-      },
-      {
         "en": "Mars",
         "ar": "المريخ"
       },
       {
+        "en": "Earth",
+        "ar": "الأرض"
+      },
+      {
         "en": "Mercury",
         "ar": "عطارد"
+      },
+      {
+        "en": "Venus",
+        "ar": "الزهرة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Humans live on planet Earth.",
     "explanation_ar": "الإنسان عايش على كوكب الأرض."
   },
@@ -823,19 +823,19 @@
         "ar": "التليسكوب"
       },
       {
-        "en": "Barometer",
-        "ar": "البارومتر"
+        "en": "Thermometer",
+        "ar": "الترمومتر"
       },
       {
         "en": "Microscope",
         "ar": "الميكروسكوب"
       },
       {
-        "en": "Thermometer",
-        "ar": "الترمومتر"
+        "en": "Barometer",
+        "ar": "البارومتر"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "A thermometer is used to measure temperature.",
     "explanation_ar": "الترمومتر هو اللي بيستخدم لقياس درجة الحرارة."
   },
@@ -849,23 +849,23 @@
     "question_ar": "بيتقال إيه لومضة الضوء اللي بنشوفها وقت العاصفة؟",
     "options": [
       {
-        "en": "Thunder",
-        "ar": "الرعد"
-      },
-      {
-        "en": "Rainbow",
-        "ar": "قوس قزح"
+        "en": "Lightning",
+        "ar": "البرق"
       },
       {
         "en": "Hail",
         "ar": "البرد"
       },
       {
-        "en": "Lightning",
-        "ar": "البرق"
+        "en": "Thunder",
+        "ar": "الرعد"
+      },
+      {
+        "en": "Rainbow",
+        "ar": "قوس قزح"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Lightning is the sudden flash of light during a storm.",
     "explanation_ar": "البرق هو ومضة الضوء المفاجئة وقت العاصفة."
   },
@@ -883,16 +883,16 @@
         "ar": "الرعد"
       },
       {
-        "en": "Lightning",
-        "ar": "البرق"
+        "en": "Echo",
+        "ar": "الصدى"
       },
       {
         "en": "Wind",
         "ar": "الريح"
       },
       {
-        "en": "Echo",
-        "ar": "الصدى"
+        "en": "Lightning",
+        "ar": "البرق"
       }
     ],
     "correctAnswer": 0,
@@ -909,8 +909,8 @@
     "question_ar": "دم الإنسان لونه إيه؟",
     "options": [
       {
-        "en": "Blue",
-        "ar": "أزرق"
+        "en": "Green",
+        "ar": "أخضر"
       },
       {
         "en": "Yellow",
@@ -921,8 +921,8 @@
         "ar": "أحمر"
       },
       {
-        "en": "Green",
-        "ar": "أخضر"
+        "en": "Blue",
+        "ar": "أزرق"
       }
     ],
     "correctAnswer": 2,
@@ -939,23 +939,23 @@
     "question_ar": "إيه أقرب نجمة للأرض؟",
     "options": [
       {
-        "en": "Sirius",
-        "ar": "الشعرى اليمانية"
-      },
-      {
-        "en": "Polaris",
-        "ar": "النجم القطبي"
-      },
-      {
         "en": "Alpha Centauri",
         "ar": "ألفا سنتوري"
       },
       {
         "en": "The Sun",
         "ar": "الشمس"
+      },
+      {
+        "en": "Sirius",
+        "ar": "الشعرى اليمانية"
+      },
+      {
+        "en": "Polaris",
+        "ar": "النجم القطبي"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "The Sun is the star closest to Earth.",
     "explanation_ar": "الشمس هي أقرب نجمة للأرض."
   },
@@ -969,10 +969,6 @@
     "question_ar": "بأنهي عضو بنشم؟",
     "options": [
       {
-        "en": "Tongue",
-        "ar": "اللسان"
-      },
-      {
         "en": "Nose",
         "ar": "الأنف"
       },
@@ -983,9 +979,13 @@
       {
         "en": "Eyes",
         "ar": "العين"
+      },
+      {
+        "en": "Tongue",
+        "ar": "اللسان"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The nose is the organ used for smelling.",
     "explanation_ar": "الأنف هو عضو الشم."
   },
@@ -1003,19 +1003,19 @@
         "ar": "الأنف"
       },
       {
-        "en": "Ears",
-        "ar": "الأذن"
-      },
-      {
         "en": "Eyes",
         "ar": "العين"
+      },
+      {
+        "en": "Ears",
+        "ar": "الأذن"
       },
       {
         "en": "Skin",
         "ar": "الجلد"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "The ears are the organs used for hearing.",
     "explanation_ar": "الأذن هي عضو السمع."
   },
@@ -1029,23 +1029,23 @@
     "question_ar": "إيه سبب الليل والنهار على الأرض؟",
     "options": [
       {
-        "en": "Earth's rotation on its axis",
-        "ar": "دوران الأرض حوالين نفسها"
+        "en": "The Moon's orbit",
+        "ar": "دوران القمر"
       },
       {
-        "en": "The Sun moving around Earth",
-        "ar": "الشمس بتلف حوالين الأرض"
+        "en": "Earth's rotation on its axis",
+        "ar": "دوران الأرض حوالين نفسها"
       },
       {
         "en": "Clouds",
         "ar": "السحاب"
       },
       {
-        "en": "The Moon's orbit",
-        "ar": "دوران القمر"
+        "en": "The Sun moving around Earth",
+        "ar": "الشمس بتلف حوالين الأرض"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Earth rotating on its axis causes day and night.",
     "explanation_ar": "دوران الأرض حوالين نفسها هو سبب الليل والنهار."
   },
@@ -1059,23 +1059,23 @@
     "question_ar": "بيتقال إيه للعلم اللي بيدرس الكائنات الحية؟",
     "options": [
       {
-        "en": "Physics",
-        "ar": "الفيزياء"
-      },
-      {
-        "en": "Biology",
-        "ar": "علم الأحياء"
+        "en": "Geology",
+        "ar": "علم الجيولوجيا"
       },
       {
         "en": "Astronomy",
         "ar": "علم الفلك"
       },
       {
-        "en": "Geology",
-        "ar": "علم الجيولوجيا"
+        "en": "Physics",
+        "ar": "الفيزياء"
+      },
+      {
+        "en": "Biology",
+        "ar": "علم الأحياء"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Biology is the study of living organisms.",
     "explanation_ar": "علم الأحياء بيدرس الكائنات الحية."
   },
@@ -1119,23 +1119,23 @@
     "question_ar": "بيتقال إيه للمطر المتجمد اللي بينزل في الجو البارد؟",
     "options": [
       {
-        "en": "Rain",
-        "ar": "المطر"
-      },
-      {
-        "en": "Dew",
-        "ar": "الندى"
-      },
-      {
         "en": "Steam",
         "ar": "البخار"
       },
       {
         "en": "Snow",
         "ar": "الثلج"
+      },
+      {
+        "en": "Dew",
+        "ar": "الندى"
+      },
+      {
+        "en": "Rain",
+        "ar": "المطر"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Snow is precipitation that falls as ice crystals in cold weather.",
     "explanation_ar": "الثلج أمطار بتنزل في شكل بلورات جليد وقت البرد."
   },
@@ -1153,16 +1153,16 @@
         "ar": "بالخياشيم"
       },
       {
-        "en": "Holding their breath",
-        "ar": "بيحبس نفسه"
-      },
-      {
         "en": "Using skin only",
         "ar": "بالجلد بس"
       },
       {
         "en": "Using lungs",
         "ar": "بالرئتين"
+      },
+      {
+        "en": "Holding their breath",
+        "ar": "بيحبس نفسه"
       }
     ],
     "correctAnswer": 0,
@@ -1179,23 +1179,23 @@
     "question_ar": "الطيور بتستخدم إيه عشان تطير؟",
     "options": [
       {
-        "en": "Wings",
-        "ar": "الأجنحة"
+        "en": "Beaks",
+        "ar": "المنقار"
       },
       {
         "en": "Legs",
         "ar": "الأرجل"
       },
       {
-        "en": "Beaks",
-        "ar": "المنقار"
-      },
-      {
         "en": "Tails",
         "ar": "الديل"
+      },
+      {
+        "en": "Wings",
+        "ar": "الأجنحة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Birds use their wings to fly.",
     "explanation_ar": "الطيور بتستخدم أجنحتها عشان تطير."
   },
@@ -1209,8 +1209,8 @@
     "question_ar": "أنهي غاز النبات بياخده من الهوا عشان يعمل غذاؤه؟",
     "options": [
       {
-        "en": "Hydrogen",
-        "ar": "الهيدروجين"
+        "en": "Nitrogen",
+        "ar": "النيتروجين"
       },
       {
         "en": "Oxygen",
@@ -1221,8 +1221,8 @@
         "ar": "ثاني أكسيد الكربون"
       },
       {
-        "en": "Nitrogen",
-        "ar": "النيتروجين"
+        "en": "Hydrogen",
+        "ar": "الهيدروجين"
       }
     ],
     "correctAnswer": 2,
@@ -1243,16 +1243,16 @@
         "ar": "نجمة"
       },
       {
-        "en": "A comet",
-        "ar": "مذنب"
+        "en": "A meteor",
+        "ar": "شهاب"
       },
       {
         "en": "A rainbow",
         "ar": "قوس قزح"
       },
       {
-        "en": "A meteor",
-        "ar": "شهاب"
+        "en": "A comet",
+        "ar": "مذنب"
       }
     ],
     "correctAnswer": 2,
@@ -1269,23 +1269,23 @@
     "question_ar": "أنهي عضو بيتحكم في الجسم كله وحركاته؟",
     "options": [
       {
-        "en": "The skin",
-        "ar": "الجلد"
-      },
-      {
         "en": "The heart",
         "ar": "القلب"
       },
       {
-        "en": "The brain",
-        "ar": "المخ"
-      },
-      {
         "en": "The liver",
         "ar": "الكبد"
+      },
+      {
+        "en": "The skin",
+        "ar": "الجلد"
+      },
+      {
+        "en": "The brain",
+        "ar": "المخ"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "The brain controls all body functions and actions.",
     "explanation_ar": "المخ هو اللي بيتحكم في كل وظائف وحركات الجسم."
   },
@@ -1299,10 +1299,6 @@
     "question_ar": "أنهي عضو بيساعد على هضم الأكل اللي بناكله؟",
     "options": [
       {
-        "en": "Skin",
-        "ar": "الجلد"
-      },
-      {
         "en": "Stomach",
         "ar": "المعدة"
       },
@@ -1313,9 +1309,13 @@
       {
         "en": "Heart",
         "ar": "القلب"
+      },
+      {
+        "en": "Skin",
+        "ar": "الجلد"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The stomach breaks down food as part of digestion.",
     "explanation_ar": "المعدة بتفكك الأكل كجزء من عملية الهضم."
   },
@@ -1329,10 +1329,6 @@
     "question_ar": "الحوت سمكة ولا من الثدييات؟",
     "options": [
       {
-        "en": "A fish",
-        "ar": "سمكة"
-      },
-      {
         "en": "A reptile",
         "ar": "زاحف"
       },
@@ -1341,11 +1337,15 @@
         "ar": "من الثدييات"
       },
       {
+        "en": "A fish",
+        "ar": "سمكة"
+      },
+      {
         "en": "An amphibian",
         "ar": "برمائي"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Whales are mammals that breathe air and nurse their young.",
     "explanation_ar": "الحوت من الثدييات، بيتنفس هوا وبيرضع صغاره."
   },
@@ -1359,23 +1359,23 @@
     "question_ar": "البركان بيطلع إيه لما ينفجر؟",
     "options": [
       {
-        "en": "Sand only",
-        "ar": "رمل بس"
-      },
-      {
         "en": "Snow",
         "ar": "ثلج"
       },
       {
-        "en": "Water only",
-        "ar": "مية بس"
-      },
-      {
         "en": "Lava",
         "ar": "الحمم (اللابا)"
+      },
+      {
+        "en": "Sand only",
+        "ar": "رمل بس"
+      },
+      {
+        "en": "Water only",
+        "ar": "مية بس"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Volcanoes release hot molten rock called lava.",
     "explanation_ar": "البركان بيطلع صخر منصهر ساخن اسمه الحمم (اللابا)."
   },
@@ -1389,10 +1389,6 @@
     "question_ar": "إيه الحدث الطبيعي اللي بيخلي الأرض تهتز فجأة؟",
     "options": [
       {
-        "en": "A tornado",
-        "ar": "الإعصار"
-      },
-      {
         "en": "A volcano",
         "ar": "البركان"
       },
@@ -1403,9 +1399,13 @@
       {
         "en": "An earthquake",
         "ar": "الزلزال"
+      },
+      {
+        "en": "A tornado",
+        "ar": "الإعصار"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Earthquakes are sudden shaking caused by movement of Earth's plates.",
     "explanation_ar": "الزلزال اهتزاز مفاجئ للأرض بسبب حركة الصفائح الأرضية."
   },
@@ -1419,23 +1419,23 @@
     "question_ar": "الهيكل العظمي للإنسان بيتكون من إيه بشكل أساسي؟",
     "options": [
       {
-        "en": "Muscles",
-        "ar": "العضلات"
-      },
-      {
         "en": "Fat",
         "ar": "الدهون"
       },
       {
-        "en": "Bones",
-        "ar": "العظام"
-      },
-      {
         "en": "Skin",
         "ar": "الجلد"
+      },
+      {
+        "en": "Muscles",
+        "ar": "العضلات"
+      },
+      {
+        "en": "Bones",
+        "ar": "العظام"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "The human skeleton is made up of bones.",
     "explanation_ar": "الهيكل العظمي للإنسان بيتكون من العظام."
   },
@@ -1449,23 +1449,23 @@
     "question_ar": "بيتقال إيه لحبات التلج الصغيرة اللي بتنزل أحيانًا وقت العواصف؟",
     "options": [
       {
-        "en": "Hail",
-        "ar": "البرد"
+        "en": "Fog",
+        "ar": "الضباب"
       },
       {
         "en": "Rain",
         "ar": "المطر"
       },
       {
-        "en": "Snow",
-        "ar": "الثلج"
+        "en": "Hail",
+        "ar": "البرد"
       },
       {
-        "en": "Fog",
-        "ar": "الضباب"
+        "en": "Snow",
+        "ar": "الثلج"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Hail is small lumps of ice that fall during some storms.",
     "explanation_ar": "البرد كور تلج صغيرة بتنزل وقت بعض العواصف."
   },
@@ -1479,23 +1479,23 @@
     "question_ar": "إيه هو الثديي الوحيد اللي بيقدر يطير طيران حقيقي؟",
     "options": [
       {
-        "en": "The eagle",
-        "ar": "النسر"
-      },
-      {
         "en": "The ostrich",
         "ar": "النعامة"
       },
       {
-        "en": "The flying squirrel",
-        "ar": "السنجاب الطيار"
-      },
-      {
         "en": "The bat",
         "ar": "الخفاش"
+      },
+      {
+        "en": "The eagle",
+        "ar": "النسر"
+      },
+      {
+        "en": "The flying squirrel",
+        "ar": "السنجاب الطيار"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Bats are the only mammals capable of sustained flight.",
     "explanation_ar": "الخفاش هو الثديي الوحيد اللي بيقدر يطير طيران حقيقي مستمر."
   }

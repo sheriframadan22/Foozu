@@ -9,23 +9,23 @@
     "question_ar": "إيه اللي بيتقاله \"محطة توليد الطاقة\" جوه الخلية؟",
     "options": [
       {
-        "en": "The mitochondria",
-        "ar": "الميتوكوندريا"
-      },
-      {
         "en": "The ribosome",
         "ar": "الريبوسوم"
       },
       {
-        "en": "The nucleus",
-        "ar": "النواة"
+        "en": "The mitochondria",
+        "ar": "الميتوكوندريا"
       },
       {
         "en": "The cell wall",
         "ar": "الجدار الخلوي"
+      },
+      {
+        "en": "The nucleus",
+        "ar": "النواة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Mitochondria produce most of the cell's energy.",
     "explanation_ar": "الميتوكوندريا بتنتج معظم طاقة الخلية."
   },
@@ -39,23 +39,23 @@
     "question_ar": "اختصار \"DNA\" معناه إيه بالظبط؟",
     "options": [
       {
-        "en": "Dynamic nuclear acid",
-        "ar": "حمض نووي ديناميكي"
-      },
-      {
-        "en": "Deoxy nitrogen acid",
-        "ar": "حمض نيتروجين ديوكسي"
-      },
-      {
         "en": "Deoxyribonucleic acid",
         "ar": "الحمض النووي الديوكسي ريبوزي"
       },
       {
         "en": "Double nucleic acid",
         "ar": "حمض نووي مزدوج"
+      },
+      {
+        "en": "Dynamic nuclear acid",
+        "ar": "حمض نووي ديناميكي"
+      },
+      {
+        "en": "Deoxy nitrogen acid",
+        "ar": "حمض نيتروجين ديوكسي"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "DNA stands for deoxyribonucleic acid, which carries genetic information.",
     "explanation_ar": "DNA اختصار للحمض النووي الديوكسي ريبوزي اللي بيحمل المعلومات الوراثية."
   },
@@ -69,23 +69,23 @@
     "question_ar": "جسم الإنسان بيبقى فيه عادةً كام زوج من الأضلاع؟",
     "options": [
       {
-        "en": "12 pairs",
-        "ar": "12 زوج"
-      },
-      {
         "en": "8 pairs",
         "ar": "8 أزواج"
       },
       {
-        "en": "14 pairs",
-        "ar": "14 زوج"
+        "en": "12 pairs",
+        "ar": "12 زوج"
       },
       {
         "en": "10 pairs",
         "ar": "10 أزواج"
+      },
+      {
+        "en": "14 pairs",
+        "ar": "14 زوج"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Humans normally have 12 pairs of ribs, 24 in total.",
     "explanation_ar": "الإنسان بيبقى عنده عادةً 12 زوج أضلاع، يعني 24 ضلع."
   },
@@ -107,15 +107,15 @@
         "ar": "A موجب"
       },
       {
-        "en": "B negative",
-        "ar": "B سالب"
-      },
-      {
         "en": "O negative",
         "ar": "O سالب"
+      },
+      {
+        "en": "B negative",
+        "ar": "B سالب"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "O negative blood can be given to patients of nearly any blood type.",
     "explanation_ar": "فصيلة O سالب ممكن تتنقل لمعظم المرضى مهما كانت فصيلتهم."
   },
@@ -129,23 +129,23 @@
     "question_ar": "أنهي عضو بينتج هرمون الأنسولين؟",
     "options": [
       {
-        "en": "The spleen",
-        "ar": "الطحال"
+        "en": "The pancreas",
+        "ar": "البنكرياس"
       },
       {
         "en": "The kidney",
         "ar": "الكلى"
       },
       {
-        "en": "The liver",
-        "ar": "الكبد"
+        "en": "The spleen",
+        "ar": "الطحال"
       },
       {
-        "en": "The pancreas",
-        "ar": "البنكرياس"
+        "en": "The liver",
+        "ar": "الكبد"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "The pancreas produces insulin, which regulates blood sugar.",
     "explanation_ar": "البنكرياس بينتج الأنسولين اللي بينظم السكر في الدم."
   },
@@ -159,10 +159,6 @@
     "question_ar": "أنهي عضو صغير بيخزن الصفرا اللي بينتجها الكبد؟",
     "options": [
       {
-        "en": "The gallbladder",
-        "ar": "المرارة"
-      },
-      {
         "en": "The spleen",
         "ar": "الطحال"
       },
@@ -171,11 +167,15 @@
         "ar": "الزائدة الدودية"
       },
       {
+        "en": "The gallbladder",
+        "ar": "المرارة"
+      },
+      {
         "en": "The pancreas",
         "ar": "البنكرياس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The gallbladder stores and concentrates bile produced by the liver.",
     "explanation_ar": "المرارة بتخزن وتركز الصفرا اللي بينتجها الكبد."
   },
@@ -189,20 +189,20 @@
     "question_ar": "الصوت بينتقل أسرع في أنهي وسط من دول؟",
     "options": [
       {
-        "en": "Water",
-        "ar": "المية"
-      },
-      {
         "en": "A vacuum",
         "ar": "الفراغ"
+      },
+      {
+        "en": "Air",
+        "ar": "الهوا"
       },
       {
         "en": "Steel",
         "ar": "الصلب"
       },
       {
-        "en": "Air",
-        "ar": "الهوا"
+        "en": "Water",
+        "ar": "المية"
       }
     ],
     "correctAnswer": 2,
@@ -219,23 +219,23 @@
     "question_ar": "أنهي كوكب فيه أقوى رياح في المجموعة الشمسية؟",
     "options": [
       {
-        "en": "Venus",
-        "ar": "الزهرة"
-      },
-      {
-        "en": "Neptune",
-        "ar": "نبتون"
+        "en": "Mars",
+        "ar": "المريخ"
       },
       {
         "en": "Earth",
         "ar": "الأرض"
       },
       {
-        "en": "Mars",
-        "ar": "المريخ"
+        "en": "Venus",
+        "ar": "الزهرة"
+      },
+      {
+        "en": "Neptune",
+        "ar": "نبتون"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Neptune has the fastest winds recorded of any planet, reaching over 2,000 km/h.",
     "explanation_ar": "نبتون فيه أسرع رياح مسجلة في أي كوكب، بتوصل لأكتر من 2000 كم/الساعة."
   },
@@ -249,6 +249,10 @@
     "question_ar": "أنهي قارة رسمياً أكتر قارة جافة على الأرض، رغم إنها مغطاة بالتلج؟",
     "options": [
       {
+        "en": "Antarctica",
+        "ar": "القارة القطبية الجنوبية"
+      },
+      {
         "en": "Asia",
         "ar": "آسيا"
       },
@@ -257,15 +261,11 @@
         "ar": "أفريقيا"
       },
       {
-        "en": "Antarctica",
-        "ar": "القارة القطبية الجنوبية"
-      },
-      {
         "en": "Australia",
         "ar": "أستراليا"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Antarctica gets very little precipitation, making it technically a desert.",
     "explanation_ar": "القارة القطبية الجنوبية بينزلها أمطار وثلوج قليلة جداً، فبتعتبر رسمياً صحراء."
   },
@@ -309,6 +309,10 @@
     "question_ar": "أنهي معدن بيفضل سايل في درجة حرارة الغرفة؟",
     "options": [
       {
+        "en": "Zinc",
+        "ar": "الزنك"
+      },
+      {
         "en": "Copper",
         "ar": "النحاس"
       },
@@ -319,13 +323,9 @@
       {
         "en": "Mercury",
         "ar": "الزئبق"
-      },
-      {
-        "en": "Zinc",
-        "ar": "الزنك"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Mercury is the only metal that is liquid at normal room temperature.",
     "explanation_ar": "الزئبق هو المعدن الوحيد اللي بيفضل سايل في درجة حرارة الغرفة العادية."
   },
@@ -339,23 +339,23 @@
     "question_ar": "أنهي غاز بيتستخدم عادةً عشان يخلي البالونات تطير؟",
     "options": [
       {
-        "en": "Carbon dioxide",
-        "ar": "ثاني أكسيد الكربون"
-      },
-      {
         "en": "Helium",
         "ar": "الهيليوم"
       },
       {
-        "en": "Oxygen",
-        "ar": "الأكسجين"
-      },
-      {
         "en": "Nitrogen",
         "ar": "النيتروجين"
+      },
+      {
+        "en": "Carbon dioxide",
+        "ar": "ثاني أكسيد الكربون"
+      },
+      {
+        "en": "Oxygen",
+        "ar": "الأكسجين"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Helium is lighter than air, which is why it makes balloons float.",
     "explanation_ar": "الهيليوم أخف من الهوا، عشان كده بيخلي البالونات تطير."
   },
@@ -369,23 +369,23 @@
     "question_ar": "إيه الرمز الكيميائي للصوديوم؟",
     "options": [
       {
-        "en": "So",
-        "ar": "So"
-      },
-      {
-        "en": "Nm",
-        "ar": "Nm"
-      },
-      {
         "en": "Sd",
         "ar": "Sd"
       },
       {
         "en": "Na",
         "ar": "Na"
+      },
+      {
+        "en": "So",
+        "ar": "So"
+      },
+      {
+        "en": "Nm",
+        "ar": "Nm"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Sodium's symbol, Na, comes from its Latin name \"natrium\".",
     "explanation_ar": "رمز الصوديوم Na جاي من اسمه اللاتيني \"natrium\"."
   },
@@ -399,23 +399,23 @@
     "question_ar": "إيه أكتر عنصر منتشر في الكون كله؟",
     "options": [
       {
-        "en": "Helium",
-        "ar": "الهيليوم"
-      },
-      {
-        "en": "Oxygen",
-        "ar": "الأكسجين"
-      },
-      {
         "en": "Hydrogen",
         "ar": "الهيدروجين"
       },
       {
+        "en": "Helium",
+        "ar": "الهيليوم"
+      },
+      {
         "en": "Carbon",
         "ar": "الكربون"
+      },
+      {
+        "en": "Oxygen",
+        "ar": "الأكسجين"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Hydrogen is the most abundant element in the universe.",
     "explanation_ar": "الهيدروجين هو أكتر عنصر منتشر في الكون."
   },
@@ -429,6 +429,10 @@
     "question_ar": "الضوء بيتحرك بسرعة إيه تقريباً في الفراغ؟",
     "options": [
       {
+        "en": "About 300,000 km per second",
+        "ar": "حوالي 300 ألف كم في الثانية"
+      },
+      {
         "en": "About 300,000 km per hour",
         "ar": "حوالي 300 ألف كم في الساعة"
       },
@@ -439,13 +443,9 @@
       {
         "en": "About 30,000 km per second",
         "ar": "حوالي 30 ألف كم في الثانية"
-      },
-      {
-        "en": "About 300,000 km per second",
-        "ar": "حوالي 300 ألف كم في الثانية"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Light travels at roughly 300,000 kilometers per second in a vacuum.",
     "explanation_ar": "الضوء بيتحرك بسرعة حوالي 300 ألف كيلومتر في الثانية في الفراغ."
   },
@@ -459,8 +459,8 @@
     "question_ar": "مين العالم اللي كتب \"كتاب المناظر\" المؤثر ويعتبر من رواد المنهج العلمي؟",
     "options": [
       {
-        "en": "Ibn Battuta",
-        "ar": "ابن بطوطة"
+        "en": "Al-Farabi",
+        "ar": "الفارابي"
       },
       {
         "en": "Al-Khwarizmi",
@@ -471,8 +471,8 @@
         "ar": "ابن الهيثم"
       },
       {
-        "en": "Al-Farabi",
-        "ar": "الفارابي"
+        "en": "Ibn Battuta",
+        "ar": "ابن بطوطة"
       }
     ],
     "correctAnswer": 2,
@@ -497,15 +497,15 @@
         "ar": "ألفريد فيجنر"
       },
       {
-        "en": "Gregor Mendel",
-        "ar": "جريجور مندل"
-      },
-      {
         "en": "Charles Darwin",
         "ar": "تشارلز داروين"
+      },
+      {
+        "en": "Gregor Mendel",
+        "ar": "جريجور مندل"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Charles Darwin proposed the theory of evolution by natural selection.",
     "explanation_ar": "تشارلز داروين اقترح نظرية التطور بالانتخاب الطبيعي."
   },
@@ -527,12 +527,12 @@
         "ar": "عظمة العضد"
       },
       {
-        "en": "The spine",
-        "ar": "العمود الفقري"
-      },
-      {
         "en": "The skull",
         "ar": "الجمجمة"
+      },
+      {
+        "en": "The spine",
+        "ar": "العمود الفقري"
       }
     ],
     "correctAnswer": 0,
@@ -553,19 +553,19 @@
         "ar": "عظمة الفخذ"
       },
       {
-        "en": "The patella",
-        "ar": "الرضفة"
-      },
-      {
         "en": "The clavicle",
         "ar": "الترقوة"
       },
       {
         "en": "The stapes",
         "ar": "الركاب"
+      },
+      {
+        "en": "The patella",
+        "ar": "الرضفة"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "The stapes bone in the middle ear is the smallest bone in the human body.",
     "explanation_ar": "عظمة الركاب في الأذن الوسطى هي أصغر عضمة في جسم الإنسان."
   },
@@ -579,6 +579,10 @@
     "question_ar": "أنهي كوكب يومه (لفة واحدة حوالين نفسه) أطول من سنته؟",
     "options": [
       {
+        "en": "Mars",
+        "ar": "المريخ"
+      },
+      {
         "en": "Venus",
         "ar": "الزهرة"
       },
@@ -589,13 +593,9 @@
       {
         "en": "Jupiter",
         "ar": "المشترى"
-      },
-      {
-        "en": "Mars",
-        "ar": "المريخ"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Venus rotates so slowly that one of its days is longer than its year.",
     "explanation_ar": "الزهرة بتلف حوالين نفسها ببطء شديد لدرجة إن يومها أطول من سنتها."
   },
@@ -609,23 +609,23 @@
     "question_ar": "إيه الرمز الكيميائي للبوتاسيوم؟",
     "options": [
       {
-        "en": "P",
-        "ar": "P"
-      },
-      {
         "en": "K",
         "ar": "K"
       },
       {
-        "en": "Pt",
-        "ar": "Pt"
-      },
-      {
         "en": "Po",
         "ar": "Po"
+      },
+      {
+        "en": "P",
+        "ar": "P"
+      },
+      {
+        "en": "Pt",
+        "ar": "Pt"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Potassium's symbol, K, comes from its Latin name \"kalium\".",
     "explanation_ar": "رمز البوتاسيوم K جاي من اسمه اللاتيني \"kalium\"."
   },
@@ -643,19 +643,19 @@
         "ar": "حوالي -50 درجة"
       },
       {
-        "en": "About -273°C",
-        "ar": "حوالي -273 درجة"
+        "en": "0°C",
+        "ar": "صفر"
       },
       {
         "en": "About -100°C",
         "ar": "حوالي -100 درجة"
       },
       {
-        "en": "0°C",
-        "ar": "صفر"
+        "en": "About -273°C",
+        "ar": "حوالي -273 درجة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Absolute zero is about -273.15°C, where particles have minimal thermal motion.",
     "explanation_ar": "الصفر المطلق حوالي -273.15 درجة مئوية، وعندها الجزيئات بتكون في أقل حركة حرارية."
   },
@@ -669,23 +669,23 @@
     "question_ar": "بيتقال إيه للحيوانات اللي بتنشط أساساً بالليل؟",
     "options": [
       {
-        "en": "Migratory",
-        "ar": "مهاجرة"
-      },
-      {
-        "en": "Diurnal",
-        "ar": "نهارية"
+        "en": "Hibernating",
+        "ar": "سباتية"
       },
       {
         "en": "Nocturnal",
         "ar": "ليلية"
       },
       {
-        "en": "Hibernating",
-        "ar": "سباتية"
+        "en": "Migratory",
+        "ar": "مهاجرة"
+      },
+      {
+        "en": "Diurnal",
+        "ar": "نهارية"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Nocturnal animals are active mainly at night, like owls and bats.",
     "explanation_ar": "الحيوانات الليلية بتنشط أساساً بالليل، زي البومة والخفاش."
   },
@@ -699,23 +699,23 @@
     "question_ar": "إيه أقرب مجرة كبيرة لمجرتنا درب التبانة؟",
     "options": [
       {
-        "en": "Andromeda",
-        "ar": "المرأة المسلسلة (أندروميدا)"
-      },
-      {
         "en": "Sombrero Galaxy",
         "ar": "مجرة القبعة"
       },
       {
-        "en": "Whirlpool Galaxy",
-        "ar": "مجرة الدوامة"
-      },
-      {
         "en": "Triangulum",
         "ar": "المثلث"
+      },
+      {
+        "en": "Andromeda",
+        "ar": "المرأة المسلسلة (أندروميدا)"
+      },
+      {
+        "en": "Whirlpool Galaxy",
+        "ar": "مجرة الدوامة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Andromeda galaxy is the closest major galaxy to the Milky Way.",
     "explanation_ar": "مجرة أندروميدا هي أقرب مجرة كبيرة لمجرة درب التبانة."
   },
@@ -733,16 +733,16 @@
         "ar": "عالم حفريات"
       },
       {
-        "en": "A biologist",
-        "ar": "عالم أحياء"
-      },
-      {
         "en": "An archaeologist",
         "ar": "عالم آثار"
       },
       {
         "en": "A geologist",
         "ar": "جيولوجي"
+      },
+      {
+        "en": "A biologist",
+        "ar": "عالم أحياء"
       }
     ],
     "correctAnswer": 0,
@@ -759,6 +759,10 @@
     "question_ar": "نقص أنهي فيتامين بيسبب مرض الاسقربوط؟",
     "options": [
       {
+        "en": "Vitamin C",
+        "ar": "فيتامين C"
+      },
+      {
         "en": "Vitamin B12",
         "ar": "فيتامين B12"
       },
@@ -767,15 +771,11 @@
         "ar": "فيتامين D"
       },
       {
-        "en": "Vitamin C",
-        "ar": "فيتامين C"
-      },
-      {
         "en": "Vitamin A",
         "ar": "فيتامين A"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "A lack of Vitamin C causes scurvy.",
     "explanation_ar": "نقص فيتامين C بيسبب مرض الاسقربوط."
   },
@@ -789,10 +789,6 @@
     "question_ar": "بيتقال إيه لجهاز الجسم اللي بيضم القلب والأوعية الدموية؟",
     "options": [
       {
-        "en": "The nervous system",
-        "ar": "الجهاز العصبي"
-      },
-      {
         "en": "The respiratory system",
         "ar": "الجهاز التنفسي"
       },
@@ -803,9 +799,13 @@
       {
         "en": "The circulatory system",
         "ar": "الجهاز الدوري"
+      },
+      {
+        "en": "The nervous system",
+        "ar": "الجهاز العصبي"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "The circulatory system includes the heart and blood vessels.",
     "explanation_ar": "الجهاز الدوري بيضم القلب والأوعية الدموية."
   },
@@ -819,20 +819,20 @@
     "question_ar": "إيه الاسم الكيميائي لملح الطعام العادي؟",
     "options": [
       {
-        "en": "Potassium chloride",
-        "ar": "كلوريد البوتاسيوم"
+        "en": "Sodium carbonate",
+        "ar": "كربونات الصوديوم"
       },
       {
         "en": "Sodium chloride",
         "ar": "كلوريد الصوديوم"
       },
       {
-        "en": "Calcium chloride",
-        "ar": "كلوريد الكالسيوم"
+        "en": "Potassium chloride",
+        "ar": "كلوريد البوتاسيوم"
       },
       {
-        "en": "Sodium carbonate",
-        "ar": "كربونات الصوديوم"
+        "en": "Calcium chloride",
+        "ar": "كلوريد الكالسيوم"
       }
     ],
     "correctAnswer": 1,
@@ -857,12 +857,12 @@
         "ar": "نبتون"
       },
       {
-        "en": "Saturn",
-        "ar": "زحل"
-      },
-      {
         "en": "Uranus",
         "ar": "أورانوس"
+      },
+      {
+        "en": "Saturn",
+        "ar": "زحل"
       }
     ],
     "correctAnswer": 1,
@@ -879,23 +879,23 @@
     "question_ar": "بيتقال إيه لصخرة فضائية بتعدي جو الأرض وتوصل لسطحها؟",
     "options": [
       {
-        "en": "A satellite",
-        "ar": "قمر صناعي"
-      },
-      {
         "en": "A comet",
         "ar": "مذنب"
       },
       {
-        "en": "A meteorite",
-        "ar": "نيزك"
+        "en": "A satellite",
+        "ar": "قمر صناعي"
       },
       {
         "en": "An asteroid",
         "ar": "كويكب"
+      },
+      {
+        "en": "A meteorite",
+        "ar": "نيزك"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "A meteorite is a space rock that survives entry and reaches Earth's surface.",
     "explanation_ar": "النيزك هو صخرة فضائية بتعدي جو الأرض وتوصل لسطحها."
   },
@@ -909,23 +909,23 @@
     "question_ar": "النحل بيوصل اتجاه الأكل لباقي النحل في الخلية إزاي؟",
     "options": [
       {
-        "en": "Through a \"waggle dance\"",
-        "ar": "من خلال \"رقصة الاهتزاز\""
-      },
-      {
         "en": "By buzzing loudly",
         "ar": "بالطنين العالي"
       },
       {
-        "en": "By changing color",
-        "ar": "بتغيير اللون"
+        "en": "Through a \"waggle dance\"",
+        "ar": "من خلال \"رقصة الاهتزاز\""
       },
       {
         "en": "By releasing scent trails only",
         "ar": "بترك أثر الرايحة بس"
+      },
+      {
+        "en": "By changing color",
+        "ar": "بتغيير اللون"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Bees perform a \"waggle dance\" to tell other bees the direction and distance of food.",
     "explanation_ar": "النحل بيعمل \"رقصة اهتزاز\" عشان يوصّل لباقي النحل اتجاه الأكل وبعده."
   },
@@ -939,23 +939,23 @@
     "question_ar": "أنهي عضو بينتج الصفرا اللي بتساعد في هضم الدهون؟",
     "options": [
       {
-        "en": "The pancreas",
-        "ar": "البنكرياس"
-      },
-      {
-        "en": "The liver",
-        "ar": "الكبد"
+        "en": "The stomach",
+        "ar": "المعدة"
       },
       {
         "en": "The spleen",
         "ar": "الطحال"
       },
       {
-        "en": "The stomach",
-        "ar": "المعدة"
+        "en": "The pancreas",
+        "ar": "البنكرياس"
+      },
+      {
+        "en": "The liver",
+        "ar": "الكبد"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The liver produces bile, which the gallbladder then stores.",
     "explanation_ar": "الكبد بينتج الصفرا، واللي بعدين المرارة بتخزنها."
   },
@@ -999,23 +999,23 @@
     "question_ar": "بيتقال إيه لمجموعة أسود بتعيش مع بعض؟",
     "options": [
       {
-        "en": "A flock",
-        "ar": "سرب"
-      },
-      {
-        "en": "A pack",
-        "ar": "قطيع ذئاب"
-      },
-      {
         "en": "A herd",
         "ar": "قطيع"
       },
       {
         "en": "A pride",
         "ar": "قطيع (pride)"
+      },
+      {
+        "en": "A flock",
+        "ar": "سرب"
+      },
+      {
+        "en": "A pack",
+        "ar": "قطيع ذئاب"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "A group of lions is called a \"pride\".",
     "explanation_ar": "مجموعة الأسود بيتقالها \"pride\"."
   },
@@ -1029,20 +1029,20 @@
     "question_ar": "إيه الظاهرة الضوئية الطبيعية اللي بتحصل لما جسيمات مشحونة من الشمس تصطدم بالغلاف الجوي قرب القطبين؟",
     "options": [
       {
-        "en": "A rainbow",
-        "ar": "قوس قزح"
-      },
-      {
         "en": "A solar eclipse",
         "ar": "كسوف الشمس"
+      },
+      {
+        "en": "Ball lightning",
+        "ar": "البرق الكروي"
       },
       {
         "en": "The aurora (northern/southern lights)",
         "ar": "الشفق القطبي"
       },
       {
-        "en": "Ball lightning",
-        "ar": "البرق الكروي"
+        "en": "A rainbow",
+        "ar": "قوس قزح"
       }
     ],
     "correctAnswer": 2,
@@ -1063,19 +1063,19 @@
         "ar": "البرغي"
       },
       {
-        "en": "A lever",
-        "ar": "الرافعة"
-      },
-      {
         "en": "A pulley",
         "ar": "البكرة"
+      },
+      {
+        "en": "A lever",
+        "ar": "الرافعة"
       },
       {
         "en": "A wedge",
         "ar": "الإسفين"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "A lever is a rigid bar that pivots on a fixed point to lift objects with less effort.",
     "explanation_ar": "الرافعة قضيب صلب بيدور حوالين نقطة ثابتة عشان يرفع الحاجات بمجهود أقل."
   },
@@ -1093,12 +1093,12 @@
         "ar": "مفترسات"
       },
       {
-        "en": "Decomposers",
-        "ar": "محللات"
-      },
-      {
         "en": "Consumers",
         "ar": "مستهلكات"
+      },
+      {
+        "en": "Decomposers",
+        "ar": "محللات"
       },
       {
         "en": "Producers",
@@ -1119,23 +1119,23 @@
     "question_ar": "أنهي حمض موجود بشكل طبيعي في معدة الإنسان عشان يساعد في هضم الأكل؟",
     "options": [
       {
-        "en": "Hydrochloric acid",
-        "ar": "حمض الهيدروكلوريك"
-      },
-      {
-        "en": "Sulfuric acid",
-        "ar": "حمض الكبريتيك"
-      },
-      {
         "en": "Acetic acid",
         "ar": "حمض الأسيتيك"
       },
       {
         "en": "Citric acid",
         "ar": "حمض الستريك"
+      },
+      {
+        "en": "Sulfuric acid",
+        "ar": "حمض الكبريتيك"
+      },
+      {
+        "en": "Hydrochloric acid",
+        "ar": "حمض الهيدروكلوريك"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The stomach naturally produces hydrochloric acid to break down food.",
     "explanation_ar": "المعدة بتنتج طبيعياً حمض الهيدروكلوريك عشان تفكك الأكل."
   },
@@ -1149,23 +1149,23 @@
     "question_ar": "أنهي غاز دفيئة أكتر مرتبط بالتغير المناخي اللي سببه الإنسان؟",
     "options": [
       {
-        "en": "Oxygen",
-        "ar": "الأكسجين"
-      },
-      {
         "en": "Carbon dioxide",
         "ar": "ثاني أكسيد الكربون"
       },
       {
-        "en": "Nitrogen",
-        "ar": "النيتروجين"
+        "en": "Oxygen",
+        "ar": "الأكسجين"
       },
       {
         "en": "Helium",
         "ar": "الهيليوم"
+      },
+      {
+        "en": "Nitrogen",
+        "ar": "النيتروجين"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Carbon dioxide, released by burning fossil fuels, is the main greenhouse gas linked to climate change.",
     "explanation_ar": "ثاني أكسيد الكربون، الناتج من حرق الوقود الأحفوري، هو أهم غاز دفيئة مرتبط بالتغير المناخي."
   },
@@ -1179,6 +1179,10 @@
     "question_ar": "فين في الجسم بتتكون معظم كرات الدم الحمرا؟",
     "options": [
       {
+        "en": "Bone marrow",
+        "ar": "نخاع العظم"
+      },
+      {
         "en": "The spleen",
         "ar": "الطحال"
       },
@@ -1189,13 +1193,9 @@
       {
         "en": "The liver",
         "ar": "الكبد"
-      },
-      {
-        "en": "Bone marrow",
-        "ar": "نخاع العظم"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Bone marrow produces most of the body's red blood cells.",
     "explanation_ar": "نخاع العظم بينتج معظم كرات الدم الحمرا في الجسم."
   },
@@ -1239,23 +1239,23 @@
     "question_ar": "إيه اللي بيولّد المجال المغناطيسي للأرض؟",
     "options": [
       {
-        "en": "Ocean currents",
-        "ar": "تيارات المحيط"
-      },
-      {
         "en": "The Moon's gravity",
         "ar": "جاذبية القمر"
+      },
+      {
+        "en": "Molten iron moving in the outer core",
+        "ar": "حديد منصهر بيتحرك في اللب الخارجي"
       },
       {
         "en": "The ozone layer",
         "ar": "طبقة الأوزون"
       },
       {
-        "en": "Molten iron moving in the outer core",
-        "ar": "حديد منصهر بيتحرك في اللب الخارجي"
+        "en": "Ocean currents",
+        "ar": "تيارات المحيط"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Earth's magnetic field is generated by the movement of molten iron in its outer core.",
     "explanation_ar": "المجال المغناطيسي للأرض بيتولّد من حركة الحديد المنصهر في اللب الخارجي."
   },
@@ -1269,6 +1269,10 @@
     "question_ar": "إيه أعلى جبل على وش الأرض، بالقياس من فوق سطح البحر؟",
     "options": [
       {
+        "en": "K2",
+        "ar": "كي 2"
+      },
+      {
         "en": "Mont Blanc",
         "ar": "مون بلان"
       },
@@ -1279,13 +1283,9 @@
       {
         "en": "Mount Everest",
         "ar": "جبل إفرست"
-      },
-      {
-        "en": "K2",
-        "ar": "كي 2"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Mount Everest is the tallest mountain above sea level.",
     "explanation_ar": "جبل إفرست هو أعلى جبل من فوق سطح البحر."
   },
@@ -1299,23 +1299,23 @@
     "question_ar": "أنهي فيتامين بتنتجه بكتيريا عايشة في أمعاء الإنسان؟",
     "options": [
       {
-        "en": "Vitamin A",
-        "ar": "فيتامين A"
-      },
-      {
         "en": "Vitamin D",
         "ar": "فيتامين D"
       },
       {
-        "en": "Vitamin C",
-        "ar": "فيتامين C"
+        "en": "Vitamin A",
+        "ar": "فيتامين A"
       },
       {
         "en": "Vitamin K",
         "ar": "فيتامين K"
+      },
+      {
+        "en": "Vitamin C",
+        "ar": "فيتامين C"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Gut bacteria naturally produce Vitamin K, which helps with blood clotting.",
     "explanation_ar": "بكتيريا الأمعاء بتنتج طبيعياً فيتامين K اللي بيساعد في تجلط الدم."
   },
@@ -1333,16 +1333,16 @@
         "ar": "الجهاز العصبي"
       },
       {
+        "en": "The skeletal system",
+        "ar": "الجهاز الهيكلي"
+      },
+      {
         "en": "The endocrine system",
         "ar": "الجهاز الصماوي"
       },
       {
         "en": "The circulatory system",
         "ar": "الجهاز الدوري"
-      },
-      {
-        "en": "The skeletal system",
-        "ar": "الجهاز الهيكلي"
       }
     ],
     "correctAnswer": 0,
@@ -1359,23 +1359,23 @@
     "question_ar": "بيتقال إيه لطبقة الغازات اللي بتحيط بالكوكب؟",
     "options": [
       {
-        "en": "The core",
-        "ar": "اللب"
-      },
-      {
-        "en": "The crust",
-        "ar": "القشرة"
-      },
-      {
         "en": "The atmosphere",
         "ar": "الغلاف الجوي"
       },
       {
         "en": "The mantle",
         "ar": "الوشاح"
+      },
+      {
+        "en": "The core",
+        "ar": "اللب"
+      },
+      {
+        "en": "The crust",
+        "ar": "القشرة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The atmosphere is the layer of gases surrounding a planet.",
     "explanation_ar": "الغلاف الجوي هو طبقة الغازات اللي بتحيط بالكوكب."
   },
@@ -1389,23 +1389,23 @@
     "question_ar": "بيتقال إيه لصغير الكنجرو؟",
     "options": [
       {
-        "en": "A cub",
-        "ar": "شبل"
-      },
-      {
         "en": "A pup",
         "ar": "جرو"
       },
       {
-        "en": "A calf",
-        "ar": "عجل"
+        "en": "A cub",
+        "ar": "شبل"
       },
       {
         "en": "A joey",
         "ar": "جوي"
+      },
+      {
+        "en": "A calf",
+        "ar": "عجل"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "A baby kangaroo is called a \"joey\".",
     "explanation_ar": "صغير الكنجرو بيتقاله \"joey\"."
   },
@@ -1415,29 +1415,29 @@
     "category_ar": "خمن العلم",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Which blood type is known as the 'universal donor'?",
-    "question_ar": "أنهي فصيلة دم بتتسمى \"المتبرع العام\"؟",
+    "question_en": "Which gland in the human body is often called the 'master gland' for controlling other hormone glands?",
+    "question_ar": "أنهي غدة في جسم الإنسان بيتقالها \"الغدة الرئيسية\" لإنها بتتحكم في باقي الغدد الهرمونية؟",
     "options": [
       {
-        "en": "O negative",
-        "ar": "O سالب"
+        "en": "Pituitary gland",
+        "ar": "الغدة النخامية"
       },
       {
-        "en": "AB positive",
-        "ar": "AB موجب"
+        "en": "Adrenal gland",
+        "ar": "الغدة الكظرية"
       },
       {
-        "en": "A positive",
-        "ar": "A موجب"
+        "en": "Thyroid gland",
+        "ar": "الغدة الدرقية"
       },
       {
-        "en": "B negative",
-        "ar": "B سالب"
+        "en": "Pancreas",
+        "ar": "البنكرياس"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "O negative blood lacks A, B and Rh antigens, so it can be given to almost anyone.",
-    "explanation_ar": "دم O سالب مفيهوش مستضدات A أو B أو Rh، فبيتدي لأي حد تقريبًا."
+    "explanation_en": "The pituitary gland is called the 'master gland' because it controls other hormone-producing glands.",
+    "explanation_ar": "الغدة النخامية بيتقالها \"الغدة الرئيسية\" لإنها بتتحكم في باقي الغدد اللي بتفرز هرمونات."
   },
   {
     "id": "SCI-050-049",
@@ -1479,6 +1479,10 @@
     "question_ar": "إيه أكبر عضو داخلي في جسم الإنسان؟",
     "options": [
       {
+        "en": "The liver",
+        "ar": "الكبد"
+      },
+      {
         "en": "The stomach",
         "ar": "المعدة"
       },
@@ -1489,13 +1493,9 @@
       {
         "en": "The lungs",
         "ar": "الرئتين"
-      },
-      {
-        "en": "The liver",
-        "ar": "الكبد"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "While the skin is the largest organ overall, the liver is the largest organ inside the body.",
     "explanation_ar": "الجلد هو أكبر عضو بشكل عام، لكن الكبد هو أكبر عضو داخلي في الجسم."
   }

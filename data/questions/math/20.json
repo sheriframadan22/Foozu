@@ -13,16 +13,16 @@
         "ar": "20"
       },
       {
+        "en": "15",
+        "ar": "15"
+      },
+      {
         "en": "10",
         "ar": "10"
       },
       {
         "en": "30",
         "ar": "30"
-      },
-      {
-        "en": "15",
-        "ar": "15"
       }
     ],
     "correctAnswer": 0,
@@ -39,6 +39,10 @@
     "question_ar": "10% من 50 بكام؟",
     "options": [
       {
+        "en": "5",
+        "ar": "5"
+      },
+      {
         "en": "10",
         "ar": "10"
       },
@@ -47,15 +51,11 @@
         "ar": "2"
       },
       {
-        "en": "5",
-        "ar": "5"
-      },
-      {
         "en": "15",
         "ar": "15"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "10% of 50 is 5.",
     "explanation_ar": "10% من 50 يبقى 5."
   },
@@ -99,23 +99,23 @@
     "question_ar": "25% من 100 بكام؟",
     "options": [
       {
-        "en": "50",
-        "ar": "50"
-      },
-      {
-        "en": "25",
-        "ar": "25"
+        "en": "10",
+        "ar": "10"
       },
       {
         "en": "20",
         "ar": "20"
       },
       {
-        "en": "10",
-        "ar": "10"
+        "en": "25",
+        "ar": "25"
+      },
+      {
+        "en": "50",
+        "ar": "50"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "25% of 100 is 25.",
     "explanation_ar": "25% من 100 يبقى 25."
   },
@@ -129,10 +129,6 @@
     "question_ar": "25% من 40 بكام؟",
     "options": [
       {
-        "en": "20",
-        "ar": "20"
-      },
-      {
         "en": "4",
         "ar": "4"
       },
@@ -141,11 +137,15 @@
         "ar": "10"
       },
       {
+        "en": "20",
+        "ar": "20"
+      },
+      {
         "en": "15",
         "ar": "15"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "25% of 40 is 10.",
     "explanation_ar": "25% من 40 يبقى 10."
   },
@@ -159,23 +159,23 @@
     "question_ar": "25% من 200 بكام؟",
     "options": [
       {
-        "en": "25",
-        "ar": "25"
-      },
-      {
-        "en": "50",
-        "ar": "50"
+        "en": "40",
+        "ar": "40"
       },
       {
         "en": "100",
         "ar": "100"
       },
       {
-        "en": "40",
-        "ar": "40"
+        "en": "50",
+        "ar": "50"
+      },
+      {
+        "en": "25",
+        "ar": "25"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "25% of 200 is 50.",
     "explanation_ar": "25% من 200 يبقى 50."
   },
@@ -189,10 +189,6 @@
     "question_ar": "25% من 12 بكام؟",
     "options": [
       {
-        "en": "3",
-        "ar": "3"
-      },
-      {
         "en": "6",
         "ar": "6"
       },
@@ -201,11 +197,15 @@
         "ar": "4"
       },
       {
+        "en": "3",
+        "ar": "3"
+      },
+      {
         "en": "2",
         "ar": "2"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "25% of 12 is 3.",
     "explanation_ar": "25% من 12 يبقى 3."
   },
@@ -223,16 +223,16 @@
         "ar": "40"
       },
       {
+        "en": "30",
+        "ar": "30"
+      },
+      {
         "en": "45",
         "ar": "45"
       },
       {
         "en": "20",
         "ar": "20"
-      },
-      {
-        "en": "30",
-        "ar": "30"
       }
     ],
     "correctAnswer": 0,
@@ -249,23 +249,23 @@
     "question_ar": "50% من 30 بكام؟",
     "options": [
       {
-        "en": "10",
-        "ar": "10"
-      },
-      {
         "en": "25",
         "ar": "25"
+      },
+      {
+        "en": "15",
+        "ar": "15"
       },
       {
         "en": "20",
         "ar": "20"
       },
       {
-        "en": "15",
-        "ar": "15"
+        "en": "10",
+        "ar": "10"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "50% of 30 is 15.",
     "explanation_ar": "50% من 30 يبقى 15."
   },
@@ -279,23 +279,23 @@
     "question_ar": "50% من 18 بكام؟",
     "options": [
       {
-        "en": "9",
-        "ar": "9"
+        "en": "8",
+        "ar": "8"
       },
       {
         "en": "6",
         "ar": "6"
       },
       {
-        "en": "8",
-        "ar": "8"
-      },
-      {
         "en": "10",
         "ar": "10"
+      },
+      {
+        "en": "9",
+        "ar": "9"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "50% of 18 is 9.",
     "explanation_ar": "50% من 18 يبقى 9."
   },
@@ -317,12 +317,12 @@
         "ar": "12"
       },
       {
-        "en": "10",
-        "ar": "10"
-      },
-      {
         "en": "15",
         "ar": "15"
+      },
+      {
+        "en": "10",
+        "ar": "10"
       }
     ],
     "correctAnswer": 1,
@@ -339,23 +339,23 @@
     "question_ar": "25% من 16 بكام؟",
     "options": [
       {
-        "en": "2",
-        "ar": "2"
-      },
-      {
-        "en": "4",
-        "ar": "4"
+        "en": "6",
+        "ar": "6"
       },
       {
         "en": "8",
         "ar": "8"
       },
       {
-        "en": "6",
-        "ar": "6"
+        "en": "2",
+        "ar": "2"
+      },
+      {
+        "en": "4",
+        "ar": "4"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "25% of 16 is 4.",
     "explanation_ar": "25% من 16 يبقى 4."
   },
@@ -399,23 +399,23 @@
     "question_ar": "ربع العشرين بكام؟",
     "options": [
       {
-        "en": "4",
-        "ar": "4"
+        "en": "6",
+        "ar": "6"
       },
       {
         "en": "10",
         "ar": "10"
       },
       {
-        "en": "6",
-        "ar": "6"
-      },
-      {
         "en": "5",
         "ar": "5"
+      },
+      {
+        "en": "4",
+        "ar": "4"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "A quarter of 20 is 5.",
     "explanation_ar": "ربع العشرين 5."
   },
@@ -429,6 +429,10 @@
     "question_ar": "تلت أرباع الـ 8 بكام؟",
     "options": [
       {
+        "en": "6",
+        "ar": "6"
+      },
+      {
         "en": "5",
         "ar": "5"
       },
@@ -437,15 +441,11 @@
         "ar": "7"
       },
       {
-        "en": "6",
-        "ar": "6"
-      },
-      {
         "en": "4",
         "ar": "4"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Three quarters of 8 is 6.",
     "explanation_ar": "تلت أرباع الـ 8 يبقى 6."
   },
@@ -459,23 +459,23 @@
     "question_ar": "تلت التسعة بكام؟",
     "options": [
       {
-        "en": "6",
-        "ar": "6"
-      },
-      {
-        "en": "2",
-        "ar": "2"
-      },
-      {
         "en": "3",
         "ar": "3"
       },
       {
+        "en": "6",
+        "ar": "6"
+      },
+      {
         "en": "4",
         "ar": "4"
+      },
+      {
+        "en": "2",
+        "ar": "2"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "A third of 9 is 3.",
     "explanation_ar": "تلت التسعة 3."
   },
@@ -489,23 +489,23 @@
     "question_ar": "تلتين التسعة بكام؟",
     "options": [
       {
-        "en": "4",
-        "ar": "4"
-      },
-      {
-        "en": "3",
-        "ar": "3"
-      },
-      {
         "en": "6",
         "ar": "6"
       },
       {
         "en": "7",
         "ar": "7"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "3",
+        "ar": "3"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Two thirds of 9 is 6.",
     "explanation_ar": "تلتين التسعة يبقى 6."
   },
@@ -523,19 +523,19 @@
         "ar": "10"
       },
       {
+        "en": "6",
+        "ar": "6"
+      },
+      {
         "en": "4",
         "ar": "4"
       },
       {
         "en": "5",
         "ar": "5"
-      },
-      {
-        "en": "6",
-        "ar": "6"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "A fifth of 25 is 5.",
     "explanation_ar": "خمس الـ 25 يبقى 5."
   },
@@ -549,6 +549,10 @@
     "question_ar": "تلت أرباع الـ 12 بكام؟",
     "options": [
       {
+        "en": "10",
+        "ar": "10"
+      },
+      {
         "en": "9",
         "ar": "9"
       },
@@ -559,13 +563,9 @@
       {
         "en": "8",
         "ar": "8"
-      },
-      {
-        "en": "10",
-        "ar": "10"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Three quarters of 12 is 9.",
     "explanation_ar": "تلت أرباع الـ 12 يبقى 9."
   },
@@ -579,23 +579,23 @@
     "question_ar": "نص الـ 36 بكام؟",
     "options": [
       {
-        "en": "20",
-        "ar": "20"
-      },
-      {
-        "en": "18",
-        "ar": "18"
+        "en": "16",
+        "ar": "16"
       },
       {
         "en": "14",
         "ar": "14"
       },
       {
-        "en": "16",
-        "ar": "16"
+        "en": "18",
+        "ar": "18"
+      },
+      {
+        "en": "20",
+        "ar": "20"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Half of 36 is 18.",
     "explanation_ar": "نص الـ 36 يبقى 18."
   },
@@ -613,16 +613,16 @@
         "ar": "12"
       },
       {
+        "en": "16",
+        "ar": "16"
+      },
+      {
         "en": "10",
         "ar": "10"
       },
       {
         "en": "24",
         "ar": "24"
-      },
-      {
-        "en": "16",
-        "ar": "16"
       }
     ],
     "correctAnswer": 0,
@@ -639,23 +639,23 @@
     "question_ar": "خمسين من الـ 20 بكام؟",
     "options": [
       {
-        "en": "8",
-        "ar": "8"
+        "en": "4",
+        "ar": "4"
       },
       {
         "en": "6",
         "ar": "6"
       },
       {
-        "en": "4",
-        "ar": "4"
+        "en": "8",
+        "ar": "8"
       },
       {
         "en": "10",
         "ar": "10"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Two fifths of 20 is 8.",
     "explanation_ar": "خمسين (2/5) من الـ 20 يبقى 8."
   },
@@ -669,23 +669,23 @@
     "question_ar": "12 × 3 بكام؟",
     "options": [
       {
-        "en": "34",
-        "ar": "34"
-      },
-      {
-        "en": "39",
-        "ar": "39"
-      },
-      {
         "en": "36",
         "ar": "36"
       },
       {
+        "en": "34",
+        "ar": "34"
+      },
+      {
         "en": "32",
         "ar": "32"
+      },
+      {
+        "en": "39",
+        "ar": "39"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "12 × 3 = 36.",
     "explanation_ar": "12 × 3 = 36."
   },
@@ -699,23 +699,23 @@
     "question_ar": "15 × 2 بكام؟",
     "options": [
       {
-        "en": "25",
-        "ar": "25"
-      },
-      {
         "en": "28",
         "ar": "28"
       },
       {
-        "en": "30",
-        "ar": "30"
-      },
-      {
         "en": "35",
         "ar": "35"
+      },
+      {
+        "en": "25",
+        "ar": "25"
+      },
+      {
+        "en": "30",
+        "ar": "30"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "15 × 2 = 30.",
     "explanation_ar": "15 × 2 = 30."
   },
@@ -733,16 +733,16 @@
         "ar": "111"
       },
       {
-        "en": "131",
-        "ar": "131"
+        "en": "112",
+        "ar": "112"
       },
       {
         "en": "121",
         "ar": "121"
       },
       {
-        "en": "112",
-        "ar": "112"
+        "en": "131",
+        "ar": "131"
       }
     ],
     "correctAnswer": 2,
@@ -759,23 +759,23 @@
     "question_ar": "12 × 4 بكام؟",
     "options": [
       {
-        "en": "48",
-        "ar": "48"
-      },
-      {
         "en": "44",
         "ar": "44"
+      },
+      {
+        "en": "52",
+        "ar": "52"
       },
       {
         "en": "46",
         "ar": "46"
       },
       {
-        "en": "52",
-        "ar": "52"
+        "en": "48",
+        "ar": "48"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "12 × 4 = 48.",
     "explanation_ar": "12 × 4 = 48."
   },
@@ -789,23 +789,23 @@
     "question_ar": "13 × 3 بكام؟",
     "options": [
       {
-        "en": "42",
-        "ar": "42"
-      },
-      {
-        "en": "33",
-        "ar": "33"
+        "en": "39",
+        "ar": "39"
       },
       {
         "en": "36",
         "ar": "36"
       },
       {
-        "en": "39",
-        "ar": "39"
+        "en": "42",
+        "ar": "42"
+      },
+      {
+        "en": "33",
+        "ar": "33"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "13 × 3 = 39.",
     "explanation_ar": "13 × 3 = 39."
   },
@@ -819,23 +819,23 @@
     "question_ar": "14 × 2 بكام؟",
     "options": [
       {
-        "en": "28",
-        "ar": "28"
-      },
-      {
-        "en": "24",
-        "ar": "24"
+        "en": "26",
+        "ar": "26"
       },
       {
         "en": "30",
         "ar": "30"
       },
       {
-        "en": "26",
-        "ar": "26"
+        "en": "28",
+        "ar": "28"
+      },
+      {
+        "en": "24",
+        "ar": "24"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "14 × 2 = 28.",
     "explanation_ar": "14 × 2 = 28."
   },
@@ -853,19 +853,19 @@
         "ar": "89"
       },
       {
-        "en": "99",
-        "ar": "99"
-      },
-      {
         "en": "91",
         "ar": "91"
       },
       {
         "en": "109",
         "ar": "109"
+      },
+      {
+        "en": "99",
+        "ar": "99"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "9 × 11 = 99.",
     "explanation_ar": "9 × 11 = 99."
   },
@@ -879,12 +879,12 @@
     "question_ar": "12 × 5 بكام؟",
     "options": [
       {
-        "en": "60",
-        "ar": "60"
-      },
-      {
         "en": "65",
         "ar": "65"
+      },
+      {
+        "en": "60",
+        "ar": "60"
       },
       {
         "en": "55",
@@ -895,7 +895,7 @@
         "ar": "50"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "12 × 5 = 60.",
     "explanation_ar": "12 × 5 = 60."
   },
@@ -913,19 +913,19 @@
         "ar": "6"
       },
       {
-        "en": "5",
-        "ar": "5"
-      },
-      {
         "en": "10",
         "ar": "10"
       },
       {
         "en": "4",
         "ar": "4"
+      },
+      {
+        "en": "5",
+        "ar": "5"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "(4+6)/2 = 5.",
     "explanation_ar": "(4+6)÷2 = 5."
   },
@@ -939,23 +939,23 @@
     "question_ar": "متوسط 10 و 20 بكام؟",
     "options": [
       {
-        "en": "20",
-        "ar": "20"
-      },
-      {
-        "en": "10",
-        "ar": "10"
+        "en": "15",
+        "ar": "15"
       },
       {
         "en": "30",
         "ar": "30"
       },
       {
-        "en": "15",
-        "ar": "15"
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "20",
+        "ar": "20"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "(10+20)/2 = 15.",
     "explanation_ar": "(10+20)÷2 = 15."
   },
@@ -977,12 +977,12 @@
         "ar": "4"
       },
       {
-        "en": "3",
-        "ar": "3"
-      },
-      {
         "en": "6",
         "ar": "6"
+      },
+      {
+        "en": "3",
+        "ar": "3"
       }
     ],
     "correctAnswer": 1,
@@ -999,23 +999,23 @@
     "question_ar": "متوسط 5 و 10 و 15 بكام؟",
     "options": [
       {
-        "en": "12",
-        "ar": "12"
-      },
-      {
         "en": "15",
         "ar": "15"
       },
       {
-        "en": "8",
-        "ar": "8"
-      },
-      {
         "en": "10",
         "ar": "10"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "8",
+        "ar": "8"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "(5+10+15)/3 = 10.",
     "explanation_ar": "(5+10+15)÷3 = 10."
   },
@@ -1037,12 +1037,12 @@
         "ar": "10"
       },
       {
-        "en": "11",
-        "ar": "11"
-      },
-      {
         "en": "9",
         "ar": "9"
+      },
+      {
+        "en": "11",
+        "ar": "11"
       }
     ],
     "correctAnswer": 1,
@@ -1063,19 +1063,19 @@
         "ar": "5"
       },
       {
-        "en": "7",
-        "ar": "7"
-      },
-      {
         "en": "9",
         "ar": "9"
       },
       {
         "en": "6",
         "ar": "6"
+      },
+      {
+        "en": "7",
+        "ar": "7"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "(3+6+9)/3 = 6.",
     "explanation_ar": "(3+6+9)÷3 = 6."
   },
@@ -1089,23 +1089,23 @@
     "question_ar": "متوسط 20 و 40 بكام؟",
     "options": [
       {
-        "en": "35",
-        "ar": "35"
-      },
-      {
-        "en": "30",
-        "ar": "30"
-      },
-      {
         "en": "25",
         "ar": "25"
       },
       {
         "en": "60",
         "ar": "60"
+      },
+      {
+        "en": "30",
+        "ar": "30"
+      },
+      {
+        "en": "35",
+        "ar": "35"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "(20+40)/2 = 30.",
     "explanation_ar": "(20+40)÷2 = 30."
   },
@@ -1119,23 +1119,23 @@
     "question_ar": "متوسط 1 و 2 و 3 بكام؟",
     "options": [
       {
-        "en": "1",
-        "ar": "1"
-      },
-      {
-        "en": "6",
-        "ar": "6"
+        "en": "3",
+        "ar": "3"
       },
       {
         "en": "2",
         "ar": "2"
       },
       {
-        "en": "3",
-        "ar": "3"
+        "en": "1",
+        "ar": "1"
+      },
+      {
+        "en": "6",
+        "ar": "6"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "(1+2+3)/3 = 2.",
     "explanation_ar": "(1+2+3)÷3 = 2."
   },
@@ -1149,23 +1149,23 @@
     "question_ar": "الساعة فيها كام دقيقة؟",
     "options": [
       {
-        "en": "60",
-        "ar": "60"
+        "en": "30",
+        "ar": "30"
       },
       {
         "en": "100",
         "ar": "100"
       },
       {
-        "en": "50",
-        "ar": "50"
+        "en": "60",
+        "ar": "60"
       },
       {
-        "en": "30",
-        "ar": "30"
+        "en": "50",
+        "ar": "50"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "An hour has 60 minutes.",
     "explanation_ar": "الساعة فيها 60 دقيقة."
   },
@@ -1179,23 +1179,23 @@
     "question_ar": "الدقيقة فيها كام ثانية؟",
     "options": [
       {
-        "en": "30",
-        "ar": "30"
-      },
-      {
         "en": "100",
         "ar": "100"
       },
       {
-        "en": "50",
-        "ar": "50"
+        "en": "30",
+        "ar": "30"
       },
       {
         "en": "60",
         "ar": "60"
+      },
+      {
+        "en": "50",
+        "ar": "50"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "A minute has 60 seconds.",
     "explanation_ar": "الدقيقة فيها 60 ثانية."
   },
@@ -1209,23 +1209,23 @@
     "question_ar": "اليوم فيه كام ساعة؟",
     "options": [
       {
-        "en": "20",
-        "ar": "20"
-      },
-      {
-        "en": "24",
-        "ar": "24"
-      },
-      {
         "en": "12",
         "ar": "12"
       },
       {
         "en": "48",
         "ar": "48"
+      },
+      {
+        "en": "24",
+        "ar": "24"
+      },
+      {
+        "en": "20",
+        "ar": "20"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "A day has 24 hours.",
     "explanation_ar": "اليوم فيه 24 ساعة."
   },
@@ -1239,23 +1239,23 @@
     "question_ar": "نص اليوم فيه كام ساعة؟",
     "options": [
       {
-        "en": "12",
-        "ar": "12"
+        "en": "6",
+        "ar": "6"
       },
       {
-        "en": "10",
-        "ar": "10"
+        "en": "12",
+        "ar": "12"
       },
       {
         "en": "24",
         "ar": "24"
       },
       {
-        "en": "6",
-        "ar": "6"
+        "en": "10",
+        "ar": "10"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Half of 24 hours is 12.",
     "explanation_ar": "نص الـ 24 ساعة يبقى 12."
   },
@@ -1269,10 +1269,6 @@
     "question_ar": "نص الساعة فيه كام دقيقة؟",
     "options": [
       {
-        "en": "20",
-        "ar": "20"
-      },
-      {
         "en": "45",
         "ar": "45"
       },
@@ -1281,11 +1277,15 @@
         "ar": "30"
       },
       {
+        "en": "20",
+        "ar": "20"
+      },
+      {
         "en": "15",
         "ar": "15"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Half of 60 minutes is 30.",
     "explanation_ar": "نص الـ 60 دقيقة يبقى 30."
   },
@@ -1299,23 +1299,23 @@
     "question_ar": "الأسبوعين فيهم كام يوم؟",
     "options": [
       {
-        "en": "12",
-        "ar": "12"
-      },
-      {
         "en": "14",
         "ar": "14"
       },
       {
-        "en": "10",
-        "ar": "10"
-      },
-      {
         "en": "21",
         "ar": "21"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "10",
+        "ar": "10"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Two weeks = 7 x 2 = 14 days.",
     "explanation_ar": "الأسبوعين = 7 × 2 = 14 يوم."
   },
@@ -1329,16 +1329,16 @@
     "question_ar": "الرقم الزوجي اللي بعد 14 إيه؟",
     "options": [
       {
-        "en": "15",
-        "ar": "15"
-      },
-      {
         "en": "17",
         "ar": "17"
       },
       {
         "en": "18",
         "ar": "18"
+      },
+      {
+        "en": "15",
+        "ar": "15"
       },
       {
         "en": "16",
@@ -1359,16 +1359,16 @@
     "question_ar": "الرقم الفردي اللي بعد 21 إيه؟",
     "options": [
       {
-        "en": "25",
-        "ar": "25"
-      },
-      {
         "en": "22",
         "ar": "22"
       },
       {
         "en": "24",
         "ar": "24"
+      },
+      {
+        "en": "25",
+        "ar": "25"
       },
       {
         "en": "23",
@@ -1389,23 +1389,23 @@
     "question_ar": "ربع الساعة فيه كام دقيقة؟",
     "options": [
       {
-        "en": "30",
-        "ar": "30"
-      },
-      {
         "en": "10",
         "ar": "10"
+      },
+      {
+        "en": "15",
+        "ar": "15"
       },
       {
         "en": "20",
         "ar": "20"
       },
       {
-        "en": "15",
-        "ar": "15"
+        "en": "30",
+        "ar": "30"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "A quarter of 60 minutes is 15.",
     "explanation_ar": "ربع الـ 60 دقيقة يبقى 15."
   },
@@ -1423,16 +1423,16 @@
         "ar": "6"
       },
       {
+        "en": "9",
+        "ar": "9"
+      },
+      {
         "en": "5",
         "ar": "5"
       },
       {
         "en": "3",
         "ar": "3"
-      },
-      {
-        "en": "9",
-        "ar": "9"
       }
     ],
     "correctAnswer": 0,
@@ -1449,12 +1449,12 @@
     "question_ar": "3 عجل، كل واحدة ليها عجلتين، يبقى فيه كام عجلة كده؟",
     "options": [
       {
-        "en": "9",
-        "ar": "9"
-      },
-      {
         "en": "6",
         "ar": "6"
+      },
+      {
+        "en": "9",
+        "ar": "9"
       },
       {
         "en": "3",
@@ -1465,7 +1465,7 @@
         "ar": "5"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "3 x 2 = 6 wheels.",
     "explanation_ar": "3 × 2 = 6 عجلات."
   },
@@ -1483,16 +1483,16 @@
         "ar": "20"
       },
       {
-        "en": "15",
-        "ar": "15"
+        "en": "10",
+        "ar": "10"
       },
       {
         "en": "12",
         "ar": "12"
       },
       {
-        "en": "10",
-        "ar": "10"
+        "en": "15",
+        "ar": "15"
       }
     ],
     "correctAnswer": 2,

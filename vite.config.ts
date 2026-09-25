@@ -37,7 +37,10 @@ export default defineConfig({
   ],
   build: {
     outDir: 'dist',
-    sourcemap: false
+    sourcemap: false,
+    // The whole question bank (2,500 bilingual questions) is bundled for offline-first
+    // play, so a single chunk over 500kB is expected here, not a red flag.
+    chunkSizeWarningLimit: 2000
   },
   server: {
     host: true,

@@ -8,12 +8,24 @@
     "question_en": "Essam El-Hadary was a record-breaking age when he played (and saved a penalty) at the 2018 World Cup. How old was he?",
     "question_ar": "عصام الحضري كان في سن كسر الرقم القياسي لما لعب (وتصدى لضربة جزاء) في كأس عالم 2018. كان عمره كام؟",
     "options": [
-      {"en": "40", "ar": "40"},
-      {"en": "43", "ar": "43"},
-      {"en": "45", "ar": "45"},
-      {"en": "47", "ar": "47"}
+      {
+        "en": "45",
+        "ar": "45"
+      },
+      {
+        "en": "47",
+        "ar": "47"
+      },
+      {
+        "en": "40",
+        "ar": "40"
+      },
+      {
+        "en": "43",
+        "ar": "43"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "El-Hadary was 45 years old, the oldest player ever to appear at a World Cup.",
     "explanation_ar": "الحضري كان عمره 45 سنة، أكبر لاعب سنًا يشارك في كأس العالم."
   },
@@ -26,12 +38,24 @@
     "question_en": "Which Tunisian club has been Al Ahly's fiercest rival in multiple heated CAF Champions League finals in recent years?",
     "question_ar": "أنهي فريق تونسي كان أشرس غريم للأهلي في نهائيات ساخنة كتير بدوري أبطال أفريقيا في السنين الأخيرة؟",
     "options": [
-      {"en": "Club Africain", "ar": "النادي الأفريقي"},
-      {"en": "Espérance de Tunis", "ar": "الترجي التونسي"},
-      {"en": "Étoile du Sahel", "ar": "النجم الساحلي"},
-      {"en": "CS Sfaxien", "ar": "النادي الصفاقسي"}
+      {
+        "en": "Étoile du Sahel",
+        "ar": "النجم الساحلي"
+      },
+      {
+        "en": "CS Sfaxien",
+        "ar": "النادي الصفاقسي"
+      },
+      {
+        "en": "Espérance de Tunis",
+        "ar": "الترجي التونسي"
+      },
+      {
+        "en": "Club Africain",
+        "ar": "النادي الأفريقي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Espérance de Tunis has met Al Ahly in several fiercely contested CAF Champions League finals.",
     "explanation_ar": "الترجي التونسي واجه الأهلي في نهائيات ساخنة كتير بدوري أبطال أفريقيا."
   },
@@ -44,12 +68,24 @@
     "question_en": "Egypt beat which country 1-0 in the 2010 AFCON final in Angola, completing their historic three-peat?",
     "question_ar": "مصر هزمت أنهي دولة 1-0 في نهائي كأس أمم أفريقيا 2010 بأنجولا، وأكملت التتويج التاريخي 3 مرات متتالية؟",
     "options": [
-      {"en": "Ghana", "ar": "غانا"},
-      {"en": "Nigeria", "ar": "نيجيريا"},
-      {"en": "Cameroon", "ar": "الكاميرون"},
-      {"en": "Algeria", "ar": "الجزائر"}
+      {
+        "en": "Nigeria",
+        "ar": "نيجيريا"
+      },
+      {
+        "en": "Ghana",
+        "ar": "غانا"
+      },
+      {
+        "en": "Cameroon",
+        "ar": "الكاميرون"
+      },
+      {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Egypt beat Ghana 1-0 in the 2010 AFCON final to complete their three-peat.",
     "explanation_ar": "مصر هزمت غانا 1-0 في نهائي كأس أمم أفريقيا 2010 وأكملت التتويج 3 مرات متتالية."
   },
@@ -62,12 +98,24 @@
     "question_en": "Which Egyptian striker, off the bench and nicknamed \"Gedo,\" scored the winning goal in the 2010 AFCON final?",
     "question_ar": "أنهي مهاجم مصري، دخل من الدكة وملقب بـ\"چيدو\"، سجل هدف الفوز في نهائي كأس أمم أفريقيا 2010؟",
     "options": [
-      {"en": "Emad Moteab", "ar": "عماد متعب"},
-      {"en": "Mohamed Homos", "ar": "محمد حمص"},
-      {"en": "Ahmed Fathy", "ar": "أحمد فتحي"},
-      {"en": "Mohamed Aboutrika", "ar": "محمد أبوتريكة"}
+      {
+        "en": "Ahmed Fathy",
+        "ar": "أحمد فتحي"
+      },
+      {
+        "en": "Mohamed Aboutrika",
+        "ar": "محمد أبوتريكة"
+      },
+      {
+        "en": "Emad Moteab",
+        "ar": "عماد متعب"
+      },
+      {
+        "en": "Mohamed Homos",
+        "ar": "محمد حمص"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Emad Moteab \"Gedo\" scored the winning goal in the 2010 AFCON final.",
     "explanation_ar": "عماد متعب \"چيدو\" سجل هدف الفوز في نهائي كأس أمم أفريقيا 2010."
   },
@@ -80,12 +128,24 @@
     "question_en": "Al Ahly's historic run to the 2021 FIFA Club World Cup semifinal ended in a loss to which Brazilian club?",
     "question_ar": "مشوار الأهلي التاريخي لنصف نهائي كأس العالم للأندية 2021 انتهى بخسارة أمام أنهي فريق برازيلي؟",
     "options": [
-      {"en": "Palmeiras", "ar": "بالميراس"},
-      {"en": "Flamengo", "ar": "فلامنجو"},
-      {"en": "São Paulo", "ar": "ساو باولو"},
-      {"en": "Fluminense", "ar": "فلومينينسي"}
+      {
+        "en": "São Paulo",
+        "ar": "ساو باولو"
+      },
+      {
+        "en": "Flamengo",
+        "ar": "فلامنجو"
+      },
+      {
+        "en": "Fluminense",
+        "ar": "فلومينينسي"
+      },
+      {
+        "en": "Palmeiras",
+        "ar": "بالميراس"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Al Ahly's Club World Cup semifinal run ended with a loss to Palmeiras.",
     "explanation_ar": "مشوار الأهلي في نصف نهائي كأس العالم للأندية انتهى بخسارة أمام بالميراس."
   },
@@ -98,12 +158,24 @@
     "question_en": "Al Ahly beat which Qatari club to secure third place at the 2021 FIFA Club World Cup?",
     "question_ar": "الأهلي هزم أنهي فريق قطري عشان يحقق المركز التالت بكأس العالم للأندية 2021؟",
     "options": [
-      {"en": "Al Sadd", "ar": "السد"},
-      {"en": "Al Duhail", "ar": "الدحيل"},
-      {"en": "Al Rayyan", "ar": "الريان"},
-      {"en": "Al Gharafa", "ar": "الغرافة"}
+      {
+        "en": "Al Gharafa",
+        "ar": "الغرافة"
+      },
+      {
+        "en": "Al Rayyan",
+        "ar": "الريان"
+      },
+      {
+        "en": "Al Duhail",
+        "ar": "الدحيل"
+      },
+      {
+        "en": "Al Sadd",
+        "ar": "السد"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Al Ahly beat Al Duhail to finish third at the 2021 FIFA Club World Cup.",
     "explanation_ar": "الأهلي هزم الدحيل وحقق المركز التالت في كأس العالم للأندية 2021."
   },
@@ -116,12 +188,24 @@
     "question_en": "Which Egyptian striker, nicknamed \"Mido,\" played for clubs like Ajax, Tottenham Hotspur, and Marseille in the 2000s, well before Salah's rise?",
     "question_ar": "أنهي مهاجم مصري، ملقب بـ\"ميدو\"، لعب لفرق زي أياكس وتوتنهام ومارسيليا في الألفينات، قبل صعود صلاح بكتير؟",
     "options": [
-      {"en": "Amr Zaki", "ar": "عمرو زكي"},
-      {"en": "Ahmed Hossam \"Mido\"", "ar": "أحمد حسام \"ميدو\""},
-      {"en": "Mohamed Zidan", "ar": "محمد زيدان"},
-      {"en": "Ahmed Elmohamady", "ar": "أحمد الموحمدي"}
+      {
+        "en": "Ahmed Elmohamady",
+        "ar": "أحمد الموحمدي"
+      },
+      {
+        "en": "Mohamed Zidan",
+        "ar": "محمد زيدان"
+      },
+      {
+        "en": "Amr Zaki",
+        "ar": "عمرو زكي"
+      },
+      {
+        "en": "Ahmed Hossam \"Mido\"",
+        "ar": "أحمد حسام \"ميدو\""
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Ahmed Hossam \"Mido\" played for major European clubs including Ajax, Tottenham, and Marseille.",
     "explanation_ar": "أحمد حسام \"ميدو\" لعب لأندية أوروبية كبيرة زي أياكس وتوتنهام ومارسيليا."
   },
@@ -134,12 +218,24 @@
     "question_en": "Before his famous 2008-09 Premier League spell at Wigan Athletic, Amr Zaki was a prolific striker for which Egyptian giant?",
     "question_ar": "قبل فترته الشهيرة مع ويجان في البريميرليج موسم 2008-09، عمرو زكي كان مهاجم غزير التهديف مع أنهي عملاق مصري؟",
     "options": [
-      {"en": "Al Ahly", "ar": "الأهلي"},
-      {"en": "Zamalek", "ar": "الزمالك"},
-      {"en": "Ismaily", "ar": "الإسماعيلي"},
-      {"en": "Al Masry", "ar": "المصري"}
+      {
+        "en": "Zamalek",
+        "ar": "الزمالك"
+      },
+      {
+        "en": "Ismaily",
+        "ar": "الإسماعيلي"
+      },
+      {
+        "en": "Al Ahly",
+        "ar": "الأهلي"
+      },
+      {
+        "en": "Al Masry",
+        "ar": "المصري"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Amr Zaki was a prolific Zamalek striker before his spell at Wigan Athletic.",
     "explanation_ar": "عمرو زكي كان مهاجم غزير التهديف مع الزمالك قبل فترته في ويجان."
   },
@@ -152,12 +248,24 @@
     "question_en": "At the Tokyo 2020 Olympics, Egypt's football team reached the semifinals but lost the bronze-medal match to which country?",
     "question_ar": "في أولمبياد طوكيو 2020، منتخب مصر لكرة القدم وصل لنصف النهائي لكن خسر مباراة تحديد المركز التالت أمام أنهي دولة؟",
     "options": [
-      {"en": "Spain", "ar": "إسبانيا"},
-      {"en": "Mexico", "ar": "المكسيك"},
-      {"en": "Japan", "ar": "اليابان"},
-      {"en": "Brazil", "ar": "البرازيل"}
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Mexico",
+        "ar": "المكسيك"
+      },
+      {
+        "en": "Japan",
+        "ar": "اليابان"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Egypt lost the bronze-medal match to Mexico at the Tokyo 2020 Olympics, their best Olympic football result in decades.",
     "explanation_ar": "مصر خسرت مباراة تحديد المركز التالت أمام المكسيك في أولمبياد طوكيو 2020، أفضل نتيجة أولمبية ليها منذ عقود."
   },
@@ -170,12 +278,24 @@
     "question_en": "Before it was discontinued, which Egyptian club dominated the old African Cup Winners' Cup, winning it multiple times in the 1990s?",
     "question_ar": "قبل ما تتوقف، أنهي فريق مصري سيطر على كأس الكؤوس الأفريقية القديمة، وفاز بيها كذا مرة في التسعينات؟",
     "options": [
-      {"en": "Al Ahly", "ar": "الأهلي"},
-      {"en": "Zamalek", "ar": "الزمالك"},
-      {"en": "Ismaily", "ar": "الإسماعيلي"},
-      {"en": "Al Masry", "ar": "المصري"}
+      {
+        "en": "Al Masry",
+        "ar": "المصري"
+      },
+      {
+        "en": "Al Ahly",
+        "ar": "الأهلي"
+      },
+      {
+        "en": "Zamalek",
+        "ar": "الزمالك"
+      },
+      {
+        "en": "Ismaily",
+        "ar": "الإسماعيلي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Zamalek dominated the now-discontinued African Cup Winners' Cup in the 1990s.",
     "explanation_ar": "الزمالك سيطر على كأس الكؤوس الأفريقية اللي بقت متوقفة دلوقتي، خلال التسعينات."
   },
@@ -188,10 +308,22 @@
     "question_en": "Which legendary Egyptian goalkeeper of the 1980s-90s later became one of the country's most famous football TV pundits, known simply as \"Shobeir\"?",
     "question_ar": "أنهي حارس مرمى مصري أسطوري في التمانينات والتسعينات بقى بعدين من أشهر المحللين الرياضيين في مصر، معروف بس بـ\"شوبير\"؟",
     "options": [
-      {"en": "Ahmed Shobeir", "ar": "أحمد شوبير"},
-      {"en": "Ahmed Nagy", "ar": "أحمد ناجي"},
-      {"en": "Essam El-Hadary", "ar": "عصام الحضري"},
-      {"en": "Mohamed El-Shenawy", "ar": "محمد الشناوي"}
+      {
+        "en": "Ahmed Shobeir",
+        "ar": "أحمد شوبير"
+      },
+      {
+        "en": "Essam El-Hadary",
+        "ar": "عصام الحضري"
+      },
+      {
+        "en": "Mohamed El-Shenawy",
+        "ar": "محمد الشناوي"
+      },
+      {
+        "en": "Ahmed Nagy",
+        "ar": "أحمد ناجي"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Ahmed Shobeir, a legendary 1980s-90s keeper, became a famous football TV pundit.",
@@ -206,10 +338,22 @@
     "question_en": "Beyond the Cairo giants, which Alexandria-based club has one of Egypt's oldest football rivalries with Al Ahly, dating back generations?",
     "question_ar": "غير عملاقي القاهرة، أنهي فريق سكندري ليه واحدة من أقدم الخصومات الكروية مع الأهلي، من أجيال قديمة؟",
     "options": [
-      {"en": "Smouha", "ar": "سموحة"},
-      {"en": "Al Ittihad Alexandria", "ar": "الاتحاد السكندري"},
-      {"en": "Haras El Hodoud", "ar": "حرس الحدود"},
-      {"en": "Ittihad Al Shorta", "ar": "اتحاد الشرطة"}
+      {
+        "en": "Ittihad Al Shorta",
+        "ar": "اتحاد الشرطة"
+      },
+      {
+        "en": "Al Ittihad Alexandria",
+        "ar": "الاتحاد السكندري"
+      },
+      {
+        "en": "Smouha",
+        "ar": "سموحة"
+      },
+      {
+        "en": "Haras El Hodoud",
+        "ar": "حرس الحدود"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Al Ittihad Alexandria is one of Egypt's oldest clubs with a long historic rivalry with Al Ahly.",
@@ -224,12 +368,24 @@
     "question_en": "Which country won the World Cup in Brazil in 1994, in the first-ever World Cup final decided by a penalty shootout?",
     "question_ar": "أنهي دولة فازت بكأس العالم اللي اتقامت في أمريكا سنة 1994، أول نهائي كأس عالم في التاريخ يتحسم بركلات الترجيح؟",
     "options": [
-      {"en": "Italy", "ar": "إيطاليا"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Germany", "ar": "ألمانيا"},
-      {"en": "Argentina", "ar": "الأرجنتين"}
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Brazil won the 1994 World Cup, the first final ever decided by a penalty shootout.",
     "explanation_ar": "البرازيل فازت بكأس عالم 1994، أول نهائي في التاريخ يتحسم بركلات الترجيح."
   },
@@ -242,12 +398,24 @@
     "question_en": "Pep Guardiola won trebles with both Barcelona (2009) and which German club (2013)?",
     "question_ar": "بيب جوارديولا حقق ثلاثيات مع برشلونة (2009) ومع أنهي فريق ألماني (2013)؟",
     "options": [
-      {"en": "Borussia Dortmund", "ar": "بوروسيا دورتموند"},
-      {"en": "Bayern Munich", "ar": "بايرن ميونخ"},
-      {"en": "Schalke 04", "ar": "شالكه 04"},
-      {"en": "RB Leipzig", "ar": "آر بي لايبزيج"}
+      {
+        "en": "Bayern Munich",
+        "ar": "بايرن ميونخ"
+      },
+      {
+        "en": "RB Leipzig",
+        "ar": "آر بي لايبزيج"
+      },
+      {
+        "en": "Borussia Dortmund",
+        "ar": "بوروسيا دورتموند"
+      },
+      {
+        "en": "Schalke 04",
+        "ar": "شالكه 04"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Guardiola won a second career treble with Bayern Munich in 2013.",
     "explanation_ar": "جوارديولا حقق ثلاثيته التانية في مشواره مع بايرن ميونخ سنة 2013."
   },
@@ -260,12 +428,24 @@
     "question_en": "Which club won three consecutive European Cups from 1971 to 1973, pioneering \"Total Football\" under Johan Cruyff?",
     "question_ar": "أنهي فريق فاز بـ 3 ألقاب كأس أوروبا متتالية من 1971 لحد 1973، وابتكر فلسفة \"الكورة الشاملة\" بقيادة كرويف؟",
     "options": [
-      {"en": "Feyenoord", "ar": "فينورد"},
-      {"en": "PSV Eindhoven", "ar": "بي إس في أيندهوفن"},
-      {"en": "Ajax", "ar": "أياكس"},
-      {"en": "AZ Alkmaar", "ar": "إيه زد ألكمار"}
+      {
+        "en": "PSV Eindhoven",
+        "ar": "بي إس في أيندهوفن"
+      },
+      {
+        "en": "AZ Alkmaar",
+        "ar": "إيه زد ألكمار"
+      },
+      {
+        "en": "Feyenoord",
+        "ar": "فينورد"
+      },
+      {
+        "en": "Ajax",
+        "ar": "أياكس"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Ajax, led by Johan Cruyff, won three straight European Cups from 1971 to 1973.",
     "explanation_ar": "أياكس، بقيادة يوهان كرويف، فاز بـ 3 ألقاب كأس أوروبا متتالية من 1971 لحد 1973."
   },
@@ -278,10 +458,22 @@
     "question_en": "Which player scored a famous overhead-kick (bicycle kick) goal for Real Madrid in the 2018 Champions League final against Liverpool?",
     "question_ar": "أنهي لاعب سجل هدف \"سكيسرز\" (كورة بالمقص) شهير لريال مدريد في نهائي دوري أبطال أوروبا 2018 أمام ليفربول؟",
     "options": [
-      {"en": "Karim Benzema", "ar": "كريم بنزيما"},
-      {"en": "Gareth Bale", "ar": "جاريث بيل"},
-      {"en": "Cristiano Ronaldo", "ar": "كريستيانو رونالدو"},
-      {"en": "Toni Kroos", "ar": "توني كروس"}
+      {
+        "en": "Toni Kroos",
+        "ar": "توني كروس"
+      },
+      {
+        "en": "Gareth Bale",
+        "ar": "جاريث بيل"
+      },
+      {
+        "en": "Cristiano Ronaldo",
+        "ar": "كريستيانو رونالدو"
+      },
+      {
+        "en": "Karim Benzema",
+        "ar": "كريم بنزيما"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Gareth Bale scored a stunning overhead-kick goal in the 2018 Champions League final.",
@@ -296,12 +488,24 @@
     "question_en": "Which country hosted and won the first-ever Copa América tournament, in 1916?",
     "question_ar": "أنهي دولة استضافت وفازت بأول نسخة من بطولة كوبا أمريكا في التاريخ، سنة 1916؟",
     "options": [
-      {"en": "Argentina", "ar": "الأرجنتين"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Uruguay", "ar": "الأوروجواي"},
-      {"en": "Chile", "ar": "تشيلي"}
+      {
+        "en": "Chile",
+        "ar": "تشيلي"
+      },
+      {
+        "en": "Uruguay",
+        "ar": "الأوروجواي"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Uruguay hosted and won the first-ever Copa América in 1916.",
     "explanation_ar": "الأوروجواي استضافت وفازت بأول نسخة من كوبا أمريكا سنة 1916."
   },
@@ -314,12 +518,24 @@
     "question_en": "Real Madrid won the first-ever European Cup final in 1956, beating which French club?",
     "question_ar": "ريال مدريد فاز بأول نهائي كأس أوروبا في التاريخ سنة 1956، بعد ما هزم أنهي فريق فرنسي؟",
     "options": [
-      {"en": "AS Monaco", "ar": "موناكو"},
-      {"en": "Stade de Reims", "ar": "ستاد ريمس"},
-      {"en": "Saint-Étienne", "ar": "سانت إتيان"},
-      {"en": "Olympique Lyonnais", "ar": "أولمبيك ليون"}
+      {
+        "en": "Olympique Lyonnais",
+        "ar": "أولمبيك ليون"
+      },
+      {
+        "en": "AS Monaco",
+        "ar": "موناكو"
+      },
+      {
+        "en": "Saint-Étienne",
+        "ar": "سانت إتيان"
+      },
+      {
+        "en": "Stade de Reims",
+        "ar": "ستاد ريمس"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Real Madrid beat Stade de Reims in the first-ever European Cup final in 1956.",
     "explanation_ar": "ريال مدريد هزم ستاد ريمس في أول نهائي كأس أوروبا في التاريخ سنة 1956."
   },
@@ -332,12 +548,24 @@
     "question_en": "In which city was the very first European Cup final played, in 1956?",
     "question_ar": "في أنهي مدينة اتلعب أول نهائي كأس أوروبا في التاريخ، سنة 1956؟",
     "options": [
-      {"en": "Madrid", "ar": "مدريد"},
-      {"en": "Paris", "ar": "باريس"},
-      {"en": "London", "ar": "لندن"},
-      {"en": "Milan", "ar": "ميلانو"}
+      {
+        "en": "London",
+        "ar": "لندن"
+      },
+      {
+        "en": "Milan",
+        "ar": "ميلانو"
+      },
+      {
+        "en": "Madrid",
+        "ar": "مدريد"
+      },
+      {
+        "en": "Paris",
+        "ar": "باريس"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The first European Cup final was played at the Parc des Princes in Paris.",
     "explanation_ar": "أول نهائي كأس أوروبا اتلعب في ملعب بارك دي برانس بباريس."
   },
@@ -350,10 +578,22 @@
     "question_en": "Which English manager won a record three European Cups with Liverpool as manager in the late 1970s and early 1980s?",
     "question_ar": "أنهي مدرب إنجليزي فاز برقم قياسي من 3 ألقاب كأس أوروبا مع ليفربول في أواخر السبعينات وأوائل التمانينات؟",
     "options": [
-      {"en": "Bill Shankly", "ar": "بيل شانكلي"},
-      {"en": "Bob Paisley", "ar": "بوب بيزلي"},
-      {"en": "Joe Fagan", "ar": "جو فيجان"},
-      {"en": "Kenny Dalglish", "ar": "كيني دالجليش"}
+      {
+        "en": "Joe Fagan",
+        "ar": "جو فيجان"
+      },
+      {
+        "en": "Bob Paisley",
+        "ar": "بوب بيزلي"
+      },
+      {
+        "en": "Kenny Dalglish",
+        "ar": "كيني دالجليش"
+      },
+      {
+        "en": "Bill Shankly",
+        "ar": "بيل شانكلي"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Bob Paisley won a then-record three European Cups as Liverpool manager.",
@@ -368,12 +608,24 @@
     "question_en": "Hungary's \"Mighty Magyars\" beat England 6-3 at Wembley in 1953. Who captained that great Hungarian side?",
     "question_ar": "منتخب المجر الأسطوري \"المجريون الأشاوس\" هزم إنجلترا 6-3 في ويمبلي سنة 1953، أول هزيمة لإنجلترا على أرضها أمام فريق مش بريطاني. مين كان كابتن المنتخب المجري العظيم ده؟",
     "options": [
-      {"en": "Ferenc Puskás", "ar": "فيرينتس بوشكاش"},
-      {"en": "Sándor Kocsis", "ar": "شاندور كوتشيش"},
-      {"en": "Nándor Hidegkuti", "ar": "ناندور هيديجكوتي"},
-      {"en": "József Bozsik", "ar": "يوجيف بوزيك"}
+      {
+        "en": "Nándor Hidegkuti",
+        "ar": "ناندور هيديجكوتي"
+      },
+      {
+        "en": "Sándor Kocsis",
+        "ar": "شاندور كوتشيش"
+      },
+      {
+        "en": "Ferenc Puskás",
+        "ar": "فيرينتس بوشكاش"
+      },
+      {
+        "en": "József Bozsik",
+        "ar": "يوجيف بوزيك"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Ferenc Puskás captained Hungary's legendary \"Mighty Magyars\" side.",
     "explanation_ar": "فيرينتس بوشكاش كان كابتن منتخب المجر الأسطوري \"المجريون الأشاوس\"."
   },
@@ -386,12 +638,24 @@
     "question_en": "Italian defender Paolo Maldini played his entire 25-year career at which single club?",
     "question_ar": "المدافع الإيطالي باولو مالديني قضى مشواره كله على مدار 25 سنة مع أنهي فريق واحد؟",
     "options": [
-      {"en": "Juventus", "ar": "يوفنتوس"},
-      {"en": "Inter Milan", "ar": "إنتر ميلان"},
-      {"en": "AC Milan", "ar": "ميلان"},
-      {"en": "AS Roma", "ar": "روما"}
+      {
+        "en": "AC Milan",
+        "ar": "ميلان"
+      },
+      {
+        "en": "AS Roma",
+        "ar": "روما"
+      },
+      {
+        "en": "Inter Milan",
+        "ar": "إنتر ميلان"
+      },
+      {
+        "en": "Juventus",
+        "ar": "يوفنتوس"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Paolo Maldini spent his entire 25-year career at AC Milan.",
     "explanation_ar": "باولو مالديني قضى مشواره كله على مدار 25 سنة مع نادي ميلان."
   },
@@ -404,12 +668,24 @@
     "question_en": "Corinthians won the very first FIFA Club World Championship in 2000, beating which fellow Brazilian club in the final?",
     "question_ar": "كورينثيانز فاز بأول نسخة من كأس العالم للأندية سنة 2000، بعد ما هزم أنهي فريق برازيلي تاني في النهائي؟",
     "options": [
-      {"en": "Vasco da Gama", "ar": "فاسكو دا جاما"},
-      {"en": "Flamengo", "ar": "فلامنجو"},
-      {"en": "São Paulo", "ar": "ساو باولو"},
-      {"en": "Cruzeiro", "ar": "كروزيرو"}
+      {
+        "en": "São Paulo",
+        "ar": "ساو باولو"
+      },
+      {
+        "en": "Cruzeiro",
+        "ar": "كروزيرو"
+      },
+      {
+        "en": "Flamengo",
+        "ar": "فلامنجو"
+      },
+      {
+        "en": "Vasco da Gama",
+        "ar": "فاسكو دا جاما"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Corinthians beat Vasco da Gama in the final of the first-ever Club World Championship in 2000.",
     "explanation_ar": "كورينثيانز هزم فاسكو دا جاما في نهائي أول نسخة من كأس العالم للأندية سنة 2000."
   },
@@ -422,12 +698,24 @@
     "question_en": "Diego Maradona won the World Cup Golden Ball (best player award) in 1990 even though Argentina lost the final to which country?",
     "question_ar": "دييجو مارادونا فاز بالكرة الدهبية (أفضل لاعب) في كأس عالم 1990 رغم إن الأرجنتين خسرت النهائي أمام أنهي دولة؟",
     "options": [
-      {"en": "Italy", "ar": "إيطاليا"},
-      {"en": "West Germany", "ar": "ألمانيا الغربية"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "England", "ar": "إنجلترا"}
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "West Germany",
+        "ar": "ألمانيا الغربية"
+      },
+      {
+        "en": "England",
+        "ar": "إنجلترا"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Maradona won the 1990 Golden Ball despite Argentina losing the final to West Germany.",
     "explanation_ar": "مارادونا فاز بالكرة الدهبية سنة 1990 رغم خسارة الأرجنتين النهائي أمام ألمانيا الغربية."
   },
@@ -440,12 +728,24 @@
     "question_en": "Italy won the 1934 FIFA World Cup as hosts. What made their following title in 1938 historically significant?",
     "question_ar": "إيطاليا فازت بكأس عالم 1934 كمضيفة. إيه اللي خلى لقبها التالي سنة 1938 مهم تاريخيًا؟",
     "options": [
-      {"en": "It was the first World Cup on TV", "ar": "أول كأس عالم بيتاع بالتليفزيون"},
-      {"en": "It made them the first back-to-back champions", "ar": "خلاهم أول بطل يحافظ على اللقب مرتين متتاليتين"},
-      {"en": "It was decided on penalties", "ar": "اتحسم بركلات الترجيح"},
-      {"en": "It was the first with substitutes allowed", "ar": "أول نسخة يُسمح فيها بالتبديل"}
+      {
+        "en": "It made them the first back-to-back champions",
+        "ar": "خلاهم أول بطل يحافظ على اللقب مرتين متتاليتين"
+      },
+      {
+        "en": "It was the first World Cup on TV",
+        "ar": "أول كأس عالم بيتاع بالتليفزيون"
+      },
+      {
+        "en": "It was decided on penalties",
+        "ar": "اتحسم بركلات الترجيح"
+      },
+      {
+        "en": "It was the first with substitutes allowed",
+        "ar": "أول نسخة يُسمح فيها بالتبديل"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Italy's 1938 win made them the first team to win consecutive World Cups.",
     "explanation_ar": "فوز إيطاليا سنة 1938 خلاها أول منتخب يفوز بكأسي عالم متتاليين."
   },
@@ -458,12 +758,24 @@
     "question_en": "\"El Superclásico,\" one of world football's fiercest club rivalries, is contested between Boca Juniors and which other club, in Argentina?",
     "question_ar": "\"السوبر كلاسيكو\"، واحدة من أشرس خصومات الكورة في العالم، بتتلعب بين بوكا جونيورز وأنهي فريق تاني في الأرجنتين؟",
     "options": [
-      {"en": "River Plate", "ar": "ريفر بليت"},
-      {"en": "Racing Club", "ar": "راسينج"},
-      {"en": "Independiente", "ar": "إندبندنتي"},
-      {"en": "San Lorenzo", "ar": "سان لورينزو"}
+      {
+        "en": "Racing Club",
+        "ar": "راسينج"
+      },
+      {
+        "en": "River Plate",
+        "ar": "ريفر بليت"
+      },
+      {
+        "en": "Independiente",
+        "ar": "إندبندنتي"
+      },
+      {
+        "en": "San Lorenzo",
+        "ar": "سان لورينزو"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Boca Juniors and River Plate contest Argentina's fierce \"Superclásico.\"",
     "explanation_ar": "بوكا جونيورز وريفر بليت بيلعبوا \"السوبر كلاسيكو\" الناري في الأرجنتين."
   },
@@ -476,12 +788,24 @@
     "question_en": "Which manager won the Champions League with Chelsea in 2021, just months after taking over the club mid-season?",
     "question_ar": "أنهي مدرب فاز بدوري أبطال أوروبا مع تشيلسي سنة 2021، بعد شهور بس من توليه التدريب في نص الموسم؟",
     "options": [
-      {"en": "Frank Lampard", "ar": "فرانك لامبارد"},
-      {"en": "Thomas Tuchel", "ar": "توماس توخيل"},
-      {"en": "Graham Potter", "ar": "جراهام بوتر"},
-      {"en": "Maurizio Sarri", "ar": "ماوريتسيو ساري"}
+      {
+        "en": "Thomas Tuchel",
+        "ar": "توماس توخيل"
+      },
+      {
+        "en": "Maurizio Sarri",
+        "ar": "ماوريتسيو ساري"
+      },
+      {
+        "en": "Frank Lampard",
+        "ar": "فرانك لامبارد"
+      },
+      {
+        "en": "Graham Potter",
+        "ar": "جراهام بوتر"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Thomas Tuchel led Chelsea to Champions League glory in 2021 shortly after taking charge.",
     "explanation_ar": "توماس توخيل قاد تشيلسي للفوز بدوري أبطال أوروبا 2021 بعد فترة قصيرة من توليه التدريب."
   },
@@ -494,12 +818,24 @@
     "question_en": "Which former France captain won the World Cup as a player in 1998 and later as a manager in 2018, joining a very small group to achieve both?",
     "question_ar": "أنهي كابتن فرنسي سابق فاز بكأس العالم كلاعب سنة 1998 وبعدين كمدرب سنة 2018، وانضم لمجموعة صغيرة جدًا حققت الإنجاز ده؟",
     "options": [
-      {"en": "Laurent Blanc", "ar": "لوران بلان"},
-      {"en": "Didier Deschamps", "ar": "ديدييه ديشامب"},
-      {"en": "Marcel Desailly", "ar": "مارسيل ديزايي"},
-      {"en": "Youri Djorkaeff", "ar": "يوري دجوركاييف"}
+      {
+        "en": "Laurent Blanc",
+        "ar": "لوران بلان"
+      },
+      {
+        "en": "Youri Djorkaeff",
+        "ar": "يوري دجوركاييف"
+      },
+      {
+        "en": "Marcel Desailly",
+        "ar": "مارسيل ديزايي"
+      },
+      {
+        "en": "Didier Deschamps",
+        "ar": "ديدييه ديشامب"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Didier Deschamps won the World Cup as both player (1998) and manager (2018) for France.",
     "explanation_ar": "ديدييه ديشامب فاز بكأس العالم كلاعب سنة 1998 وكمدرب سنة 2018 لفرنسا."
   },
@@ -512,12 +848,24 @@
     "question_en": "Which German legend also achieved the rare feat of winning the World Cup as both player (1974) and manager (1990)?",
     "question_ar": "أنهي أسطورة ألمانية حققت كمان الإنجاز النادر بالفوز بكأس العالم كلاعب سنة 1974 وكمدرب سنة 1990؟",
     "options": [
-      {"en": "Franz Beckenbauer", "ar": "فرانتس بيكنباور"},
-      {"en": "Gerd Müller", "ar": "جيرد مولر"},
-      {"en": "Berti Vogts", "ar": "بيرتي فوجتس"},
-      {"en": "Karl-Heinz Rummenigge", "ar": "كارل هاينز رومينيجه"}
+      {
+        "en": "Berti Vogts",
+        "ar": "بيرتي فوجتس"
+      },
+      {
+        "en": "Karl-Heinz Rummenigge",
+        "ar": "كارل هاينز رومينيجه"
+      },
+      {
+        "en": "Franz Beckenbauer",
+        "ar": "فرانتس بيكنباور"
+      },
+      {
+        "en": "Gerd Müller",
+        "ar": "جيرد مولر"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Franz Beckenbauer won the World Cup as player and manager for West Germany.",
     "explanation_ar": "فرانتس بيكنباور فاز بكأس العالم كلاعب ومدرب لألمانيا الغربية."
   },
@@ -530,12 +878,24 @@
     "question_en": "Borussia Dortmund's stadium is famous for \"The Yellow Wall,\" the largest standing terrace in European football. What is the stadium called?",
     "question_ar": "ملعب بوروسيا دورتموند مشهور بـ\"الحائط الأصفر\"، أكبر مدرج وقوف في كورة أوروبا. إيه اسم الملعب؟",
     "options": [
-      {"en": "Allianz Arena", "ar": "أليانز أرينا"},
-      {"en": "Signal Iduna Park", "ar": "سيجنال إيدونا بارك"},
-      {"en": "Veltins-Arena", "ar": "فيلتنس أرينا"},
-      {"en": "Red Bull Arena", "ar": "ريد بُل أرينا"}
+      {
+        "en": "Allianz Arena",
+        "ar": "أليانز أرينا"
+      },
+      {
+        "en": "Red Bull Arena",
+        "ar": "ريد بُل أرينا"
+      },
+      {
+        "en": "Signal Iduna Park",
+        "ar": "سيجنال إيدونا بارك"
+      },
+      {
+        "en": "Veltins-Arena",
+        "ar": "فيلتنس أرينا"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Borussia Dortmund's Signal Iduna Park is home to \"The Yellow Wall.\"",
     "explanation_ar": "ملعب سيجنال إيدونا بارك بتاع بوروسيا دورتموند هو موطن \"الحائط الأصفر\"."
   },
@@ -548,12 +908,24 @@
     "question_en": "Which country's national team is the only one to have played at every single FIFA World Cup tournament ever held?",
     "question_ar": "أنهي منتخب هو الوحيد اللي شارك في كل نسخة من كأس العالم اتقامت في التاريخ؟",
     "options": [
-      {"en": "Germany", "ar": "ألمانيا"},
-      {"en": "Italy", "ar": "إيطاليا"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Argentina", "ar": "الأرجنتين"}
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Brazil is the only country to have played at every FIFA World Cup ever held.",
     "explanation_ar": "البرازيل هي المنتخب الوحيد اللي شارك في كل نسخ كأس العالم اللي اتقامت."
   },
@@ -566,10 +938,22 @@
     "question_en": "Which World Cup was the first to use goal-line technology to help referees determine if the ball crossed the line?",
     "question_ar": "أنهي كأس عالم كان أول نسخة تستخدم تقنية خط المرمى عشان تساعد الحكام يحددوا هل الكورة عدت الخط ولا لأ؟",
     "options": [
-      {"en": "2010, South Africa", "ar": "2010، جنوب أفريقيا"},
-      {"en": "2014, Brazil", "ar": "2014، البرازيل"},
-      {"en": "2018, Russia", "ar": "2018، روسيا"},
-      {"en": "2006, Germany", "ar": "2006، ألمانيا"}
+      {
+        "en": "2006, Germany",
+        "ar": "2006، ألمانيا"
+      },
+      {
+        "en": "2014, Brazil",
+        "ar": "2014، البرازيل"
+      },
+      {
+        "en": "2018, Russia",
+        "ar": "2018، روسيا"
+      },
+      {
+        "en": "2010, South Africa",
+        "ar": "2010، جنوب أفريقيا"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Goal-line technology made its World Cup debut in 2014 in Brazil.",
@@ -584,12 +968,24 @@
     "question_en": "The Video Assistant Referee (VAR) system was used for the first time at a World Cup in which edition?",
     "question_ar": "نظام حكم الفيديو المساعد (فار) اتستخدم لأول مرة في كأس عالم في أنهي نسخة؟",
     "options": [
-      {"en": "2014, Brazil", "ar": "2014، البرازيل"},
-      {"en": "2022, Qatar", "ar": "2022، قطر"},
-      {"en": "2018, Russia", "ar": "2018، روسيا"},
-      {"en": "2010, South Africa", "ar": "2010، جنوب أفريقيا"}
+      {
+        "en": "2014, Brazil",
+        "ar": "2014، البرازيل"
+      },
+      {
+        "en": "2010, South Africa",
+        "ar": "2010، جنوب أفريقيا"
+      },
+      {
+        "en": "2022, Qatar",
+        "ar": "2022، قطر"
+      },
+      {
+        "en": "2018, Russia",
+        "ar": "2018، روسيا"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "VAR was first used at a World Cup in Russia 2018.",
     "explanation_ar": "الفار اتستخدم لأول مرة في كأس عالم في روسيا 2018."
   },
@@ -602,12 +998,24 @@
     "question_en": "Which country famously eliminated reigning champions Germany in the group stage of the 2018 World Cup?",
     "question_ar": "أنهي دولة أخرجت حاملة اللقب ألمانيا من دور المجموعات في كأس عالم 2018 بمفاجأة كبيرة؟",
     "options": [
-      {"en": "Mexico", "ar": "المكسيك"},
-      {"en": "South Korea", "ar": "كوريا الجنوبية"},
-      {"en": "Sweden", "ar": "السويد"},
-      {"en": "Japan", "ar": "اليابان"}
+      {
+        "en": "South Korea",
+        "ar": "كوريا الجنوبية"
+      },
+      {
+        "en": "Japan",
+        "ar": "اليابان"
+      },
+      {
+        "en": "Mexico",
+        "ar": "المكسيك"
+      },
+      {
+        "en": "Sweden",
+        "ar": "السويد"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "South Korea's win over Germany contributed to the champions' shock group-stage exit in 2018.",
     "explanation_ar": "فوز كوريا الجنوبية على ألمانيا ساهم في خروج حاملة اللقب من دور المجموعات بشكل صادم سنة 2018."
   },
@@ -620,12 +1028,24 @@
     "question_en": "In 2002, reigning champions France were eliminated in the group stage without scoring a single goal, after losing their opener 1-0 to which country?",
     "question_ar": "سنة 2002، حاملة اللقب فرنسا خرجت من دور المجموعات من غير ما تسجل أي هدف، بعد ما خسرت مباراتها الأولى 1-0 أمام أنهي دولة؟",
     "options": [
-      {"en": "Senegal", "ar": "السنغال"},
-      {"en": "Denmark", "ar": "الدنمارك"},
-      {"en": "Uruguay", "ar": "الأوروجواي"},
-      {"en": "South Korea", "ar": "كوريا الجنوبية"}
+      {
+        "en": "Denmark",
+        "ar": "الدنمارك"
+      },
+      {
+        "en": "Senegal",
+        "ar": "السنغال"
+      },
+      {
+        "en": "South Korea",
+        "ar": "كوريا الجنوبية"
+      },
+      {
+        "en": "Uruguay",
+        "ar": "الأوروجواي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Senegal shocked defending champions France 1-0 at the 2002 World Cup.",
     "explanation_ar": "السنغال صدمت حاملة اللقب فرنسا وفازت عليها 1-0 في كأس عالم 2002."
   },
@@ -638,12 +1058,24 @@
     "question_en": "Which Yugoslav club won the European Cup in 1991, one of the last clubs outside the \"big five\" leagues to do so before Champions League-era money took over?",
     "question_ar": "أنهي فريق يوجوسلافي فاز بكأس أوروبا سنة 1991، من آخر الأندية برا \"الدوريات الكبرى الخمسة\" تفوز بيها قبل عصر فلوس دوري الأبطال؟",
     "options": [
-      {"en": "Red Star Belgrade", "ar": "النجم الأحمر البلجرادي"},
-      {"en": "Partizan Belgrade", "ar": "بارتيزان بلجراد"},
-      {"en": "Dinamo Zagreb", "ar": "دينامو زغرب"},
-      {"en": "Hajduk Split", "ar": "هايدوك سبليت"}
+      {
+        "en": "Hajduk Split",
+        "ar": "هايدوك سبليت"
+      },
+      {
+        "en": "Dinamo Zagreb",
+        "ar": "دينامو زغرب"
+      },
+      {
+        "en": "Red Star Belgrade",
+        "ar": "النجم الأحمر البلجرادي"
+      },
+      {
+        "en": "Partizan Belgrade",
+        "ar": "بارتيزان بلجراد"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Red Star Belgrade won the European Cup in 1991, beating Marseille on penalties.",
     "explanation_ar": "النجم الأحمر البلجرادي فاز بكأس أوروبا سنة 1991، بعد ما هزم مارسيليا بركلات الترجيح."
   },
@@ -656,10 +1088,22 @@
     "question_en": "Which Portuguese club completed an unbeaten domestic treble (league, cup, and Europa League) in 2010-11 under young manager André Villas-Boas?",
     "question_ar": "أنهي فريق برتغالي حقق ثلاثية محلية من غير أي هزيمة (الدوري والكأس واليوروبا ليج) موسم 2010-11 بقيادة المدرب الشاب أندريه فيلاش بواش؟",
     "options": [
-      {"en": "Benfica", "ar": "بنفيكا"},
-      {"en": "Sporting CP", "ar": "سبورتينج لشبونة"},
-      {"en": "Porto", "ar": "بورتو"},
-      {"en": "Braga", "ar": "براجا"}
+      {
+        "en": "Sporting CP",
+        "ar": "سبورتينج لشبونة"
+      },
+      {
+        "en": "Braga",
+        "ar": "براجا"
+      },
+      {
+        "en": "Porto",
+        "ar": "بورتو"
+      },
+      {
+        "en": "Benfica",
+        "ar": "بنفيكا"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Porto completed an unbeaten domestic treble in 2010-11 under André Villas-Boas.",
@@ -674,12 +1118,24 @@
     "question_en": "Which African country has won the second-most Africa Cup of Nations titles (5), behind Egypt's record 7?",
     "question_ar": "أنهي دولة أفريقية فازت بتاني أكتر عدد كؤوس أمم أفريقيا (5 كؤوس)، بعد رقم مصر القياسي (7 كؤوس)؟",
     "options": [
-      {"en": "Ghana", "ar": "غانا"},
-      {"en": "Cameroon", "ar": "الكاميرون"},
-      {"en": "Nigeria", "ar": "نيجيريا"},
-      {"en": "Ivory Coast", "ar": "ساحل العاج"}
+      {
+        "en": "Ivory Coast",
+        "ar": "ساحل العاج"
+      },
+      {
+        "en": "Nigeria",
+        "ar": "نيجيريا"
+      },
+      {
+        "en": "Cameroon",
+        "ar": "الكاميرون"
+      },
+      {
+        "en": "Ghana",
+        "ar": "غانا"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Cameroon has won 5 Africa Cup of Nations titles, second only to Egypt's 7.",
     "explanation_ar": "الكاميرون فازت بـ 5 كؤوس أمم أفريقيا، تاني أكتر رقم بعد مصر بـ 7 كؤوس."
   },
@@ -692,12 +1148,24 @@
     "question_en": "AC Milan won the 2007 Champions League final, gaining revenge over which club that had beaten them in the famous 2005 \"Miracle of Istanbul\" final?",
     "question_ar": "ميلان فاز بنهائي دوري أبطال أوروبا 2007، وأخد الثأر من أنهي فريق كان هزمه في نهائي \"معجزة إسطنبول\" الشهير سنة 2005؟",
     "options": [
-      {"en": "Liverpool", "ar": "ليفربول"},
-      {"en": "Chelsea", "ar": "تشيلسي"},
-      {"en": "Manchester United", "ar": "مانشستر يونايتد"},
-      {"en": "Barcelona", "ar": "برشلونة"}
+      {
+        "en": "Manchester United",
+        "ar": "مانشستر يونايتد"
+      },
+      {
+        "en": "Barcelona",
+        "ar": "برشلونة"
+      },
+      {
+        "en": "Chelsea",
+        "ar": "تشيلسي"
+      },
+      {
+        "en": "Liverpool",
+        "ar": "ليفربول"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "AC Milan beat Liverpool in 2007, avenging their 2005 \"Miracle of Istanbul\" final defeat.",
     "explanation_ar": "ميلان هزم ليفربول سنة 2007، وأخد الثأر من خسارته في نهائي \"معجزة إسطنبول\" سنة 2005."
   },
@@ -710,12 +1178,24 @@
     "question_en": "Which French club has won the large majority of Ligue 1 titles since 2012, backed by heavy financial investment?",
     "question_ar": "أنهي فريق فرنسي فاز بمعظم ألقاب الليج 1 من سنة 2012، بدعم مادي ضخم؟",
     "options": [
-      {"en": "Olympique Lyonnais", "ar": "أولمبيك ليون"},
-      {"en": "Paris Saint-Germain", "ar": "باريس سان جيرمان"},
-      {"en": "Monaco", "ar": "موناكو"},
-      {"en": "Marseille", "ar": "مارسيليا"}
+      {
+        "en": "Marseille",
+        "ar": "مارسيليا"
+      },
+      {
+        "en": "Monaco",
+        "ar": "موناكو"
+      },
+      {
+        "en": "Olympique Lyonnais",
+        "ar": "أولمبيك ليون"
+      },
+      {
+        "en": "Paris Saint-Germain",
+        "ar": "باريس سان جيرمان"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Paris Saint-Germain has dominated Ligue 1 since 2012 with heavy financial backing.",
     "explanation_ar": "باريس سان جيرمان سيطر على الليج 1 من سنة 2012 بدعم مادي ضخم."
   },
@@ -728,12 +1208,24 @@
     "question_en": "Which German club, managed by Xabi Alonso, won its first-ever Bundesliga title in 2024 with a record unbeaten league campaign?",
     "question_ar": "أنهي فريق ألماني، بقيادة تشابي ألونسو، فاز بأول لقب بوندسليجا في تاريخه سنة 2024 بموسم قياسي من غير هزيمة؟",
     "options": [
-      {"en": "RB Leipzig", "ar": "آر بي لايبزيج"},
-      {"en": "Bayer Leverkusen", "ar": "باير ليفركوزن"},
-      {"en": "Eintracht Frankfurt", "ar": "آينتراخت فرانكفورت"},
-      {"en": "Borussia Mönchengladbach", "ar": "بوروسيا مونشنجلادباخ"}
+      {
+        "en": "RB Leipzig",
+        "ar": "آر بي لايبزيج"
+      },
+      {
+        "en": "Borussia Mönchengladbach",
+        "ar": "بوروسيا مونشنجلادباخ"
+      },
+      {
+        "en": "Eintracht Frankfurt",
+        "ar": "آينتراخت فرانكفورت"
+      },
+      {
+        "en": "Bayer Leverkusen",
+        "ar": "باير ليفركوزن"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Bayer Leverkusen won its first-ever Bundesliga title in 2024, unbeaten domestically, under Xabi Alonso.",
     "explanation_ar": "باير ليفركوزن فاز بأول لقب بوندسليجا في تاريخه سنة 2024، من غير هزيمة محليًا، بقيادة تشابي ألونسو."
   },
@@ -746,12 +1238,24 @@
     "question_en": "Which country's manager, Otto Rehhagel, is credited with a defensive system so effective it was nicknamed \"Rehhagel-ball\" during their Euro 2004 triumph?",
     "question_ar": "أنهي منتخب اتدرب على إيد أوتو ريهاجل بنظام دفاعي فعال جدًا لدرجة إنه اتسمى \"كورة ريهاجل\" وقت تتويجهم بيورو 2004؟",
     "options": [
-      {"en": "Greece", "ar": "اليونان"},
-      {"en": "Denmark", "ar": "الدنمارك"},
-      {"en": "Portugal", "ar": "البرتغال"},
-      {"en": "Turkey", "ar": "تركيا"}
+      {
+        "en": "Portugal",
+        "ar": "البرتغال"
+      },
+      {
+        "en": "Denmark",
+        "ar": "الدنمارك"
+      },
+      {
+        "en": "Greece",
+        "ar": "اليونان"
+      },
+      {
+        "en": "Turkey",
+        "ar": "تركيا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Greece's disciplined defensive system under Otto Rehhagel powered their Euro 2004 win.",
     "explanation_ar": "نظام اليونان الدفاعي المنضبط بقيادة أوتو ريهاجل كان سر تتويجهم بيورو 2004."
   },
@@ -764,12 +1268,24 @@
     "question_en": "Which player, part of Barcelona's famous \"MSN\" trio, later moved to PSG in a world-record transfer in 2017?",
     "question_ar": "أنهي لاعب، من ثلاثي برشلونة الشهير \"MSN\"، انتقل بعد كده لباريس سان جيرمان بصفقة قياسية عالميًا سنة 2017؟",
     "options": [
-      {"en": "Lionel Messi", "ar": "ليونيل ميسي"},
-      {"en": "Luis Suárez", "ar": "لويس سواريز"},
-      {"en": "Neymar", "ar": "نيمار"},
-      {"en": "Ivan Rakitić", "ar": "إيفان راكيتيتش"}
+      {
+        "en": "Neymar",
+        "ar": "نيمار"
+      },
+      {
+        "en": "Luis Suárez",
+        "ar": "لويس سواريز"
+      },
+      {
+        "en": "Lionel Messi",
+        "ar": "ليونيل ميسي"
+      },
+      {
+        "en": "Ivan Rakitić",
+        "ar": "إيفان راكيتيتش"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Neymar left Barcelona's MSN trio to join PSG in a world-record 2017 transfer.",
     "explanation_ar": "نيمار ترك ثلاثي برشلونة MSN وانضم لباريس سان جيرمان بصفقة قياسية عالميًا سنة 2017."
   },
@@ -782,12 +1298,24 @@
     "question_en": "Which Spanish club is the joint-most successful in Europa League/UEFA Cup history, alongside Sevilla, with multiple titles won decades apart?",
     "question_ar": "أنهي فريق إسباني من أنجح الأندية في تاريخ اليوروبا ليج/كأس الاتحاد جنب إشبيلية، بألقاب فاز بيها في عقود مختلفة؟",
     "options": [
-      {"en": "Real Madrid", "ar": "ريال مدريد"},
-      {"en": "Atlético Madrid", "ar": "أتلتيكو مدريد"},
-      {"en": "Valencia", "ar": "فالنسيا"},
-      {"en": "Real Zaragoza", "ar": "ريال سرقسطة"}
+      {
+        "en": "Atlético Madrid",
+        "ar": "أتلتيكو مدريد"
+      },
+      {
+        "en": "Real Zaragoza",
+        "ar": "ريال سرقسطة"
+      },
+      {
+        "en": "Valencia",
+        "ar": "فالنسيا"
+      },
+      {
+        "en": "Real Madrid",
+        "ar": "ريال مدريد"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Atlético Madrid is among the most successful clubs in Europa League/UEFA Cup history alongside Sevilla.",
     "explanation_ar": "أتلتيكو مدريد من أنجح الأندية في تاريخ اليوروبا ليج/كأس الاتحاد جنب إشبيلية."
   },
@@ -800,12 +1328,24 @@
     "question_en": "Which country's club football is organized under the \"Süper Lig,\" home to giants like Galatasaray and Fenerbahçe?",
     "question_ar": "كورة الأندية في أنهي دولة منظمة تحت اسم \"السوبر ليج\"، اللي فيها عمالقة زي جالطة سراي وفنربخشة؟",
     "options": [
-      {"en": "Greece", "ar": "اليونان"},
-      {"en": "Turkey", "ar": "تركيا"},
-      {"en": "Romania", "ar": "رومانيا"},
-      {"en": "Bulgaria", "ar": "بلغاريا"}
+      {
+        "en": "Turkey",
+        "ar": "تركيا"
+      },
+      {
+        "en": "Romania",
+        "ar": "رومانيا"
+      },
+      {
+        "en": "Greece",
+        "ar": "اليونان"
+      },
+      {
+        "en": "Bulgaria",
+        "ar": "بلغاريا"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Turkey's top division is called the Süper Lig, home to Galatasaray and Fenerbahçe.",
     "explanation_ar": "أعلى دوري في تركيا اسمه السوبر ليج، وفيه عمالقة زي جالطة سراي وفنربخشة."
   },
@@ -818,12 +1358,24 @@
     "question_en": "Which club is the last Italian side to have won the Champions League, back in 2007?",
     "question_ar": "أنهي فريق إيطالي هو آخر فريق فاز بدوري أبطال أوروبا، سنة 2007؟",
     "options": [
-      {"en": "Juventus", "ar": "يوفنتوس"},
-      {"en": "Inter Milan", "ar": "إنتر ميلان"},
-      {"en": "AC Milan", "ar": "ميلان"},
-      {"en": "AS Roma", "ar": "روما"}
+      {
+        "en": "Juventus",
+        "ar": "يوفنتوس"
+      },
+      {
+        "en": "AC Milan",
+        "ar": "ميلان"
+      },
+      {
+        "en": "AS Roma",
+        "ar": "روما"
+      },
+      {
+        "en": "Inter Milan",
+        "ar": "إنتر ميلان"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "AC Milan's 2007 title remains the last Champions League won by an Italian club.",
     "explanation_ar": "لقب ميلان سنة 2007 لسه آخر لقب دوري أبطال يفوز بيه فريق إيطالي."
   },
@@ -836,12 +1388,24 @@
     "question_en": "Which country's captain, Sadio Mané, scored the winning penalty for Senegal in the 2021 AFCON final against Egypt?",
     "question_ar": "كابتن أنهي منتخب، ساديو ماني، سجل ضربة الجزاء الفائزة للسنغال في نهائي كأس أمم أفريقيا 2021 أمام مصر؟",
     "options": [
-      {"en": "Senegal", "ar": "السنغال"},
-      {"en": "Cameroon", "ar": "الكاميرون"},
-      {"en": "Mali", "ar": "مالي"},
-      {"en": "Ivory Coast", "ar": "ساحل العاج"}
+      {
+        "en": "Cameroon",
+        "ar": "الكاميرون"
+      },
+      {
+        "en": "Ivory Coast",
+        "ar": "ساحل العاج"
+      },
+      {
+        "en": "Senegal",
+        "ar": "السنغال"
+      },
+      {
+        "en": "Mali",
+        "ar": "مالي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Sadio Mané scored Senegal's winning penalty against Egypt in the 2021 AFCON final.",
     "explanation_ar": "ساديو ماني سجل ضربة الجزاء الفائزة للسنغال أمام مصر في نهائي كأس أمم أفريقيا 2021."
   },
@@ -854,10 +1418,22 @@
     "question_en": "Which country's 1950s-60s club dominance was so strong that Real Madrid alone won 6 of the first 11 European Cups?",
     "question_ar": "سيطرة كورة الأندية في أنهي دولة كانت قوية جدًا في الخمسينات والستينات لدرجة إن ريال مدريد لوحده فاز بـ 6 من أول 11 نسخة كأس أوروبا؟",
     "options": [
-      {"en": "Italy", "ar": "إيطاليا"},
-      {"en": "Spain", "ar": "إسبانيا"},
-      {"en": "Portugal", "ar": "البرتغال"},
-      {"en": "England", "ar": "إنجلترا"}
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "England",
+        "ar": "إنجلترا"
+      },
+      {
+        "en": "Portugal",
+        "ar": "البرتغال"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Spain's Real Madrid dominated early European Cup history, winning 6 of the first 11 editions.",
@@ -872,10 +1448,22 @@
     "question_en": "Egypt won both the first and second-ever Africa Cup of Nations tournaments (1957 and 1959). Which country finished as runner-up in 1959, one of only three teams competing?",
     "question_ar": "مصر فازت بأول ونص كأس أمم أفريقيا في التاريخ (1957 و1959). أنهي دولة كانت وصيفة سنة 1959، وكانت من ضمن 3 منتخبات بس شاركوا؟",
     "options": [
-      {"en": "Sudan", "ar": "السودان"},
-      {"en": "Ethiopia", "ar": "إثيوبيا"},
-      {"en": "Ghana", "ar": "غانا"},
-      {"en": "Nigeria", "ar": "نيجيريا"}
+      {
+        "en": "Nigeria",
+        "ar": "نيجيريا"
+      },
+      {
+        "en": "Ethiopia",
+        "ar": "إثيوبيا"
+      },
+      {
+        "en": "Ghana",
+        "ar": "غانا"
+      },
+      {
+        "en": "Sudan",
+        "ar": "السودان"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Ethiopia finished runner-up to Egypt in the tiny three-team 1959 Africa Cup of Nations.",
@@ -890,10 +1478,22 @@
     "question_en": "Which Brazilian legend won the World Cup as a 17-year-old in 1958, making him the youngest ever to play in a World Cup final?",
     "question_ar": "أنهي أسطورة برازيلية فازت بكأس العالم وعمرها 17 سنة بس سنة 1958، وبقت أصغر لاعب يلعب في نهائي كأس عالم؟",
     "options": [
-      {"en": "Garrincha", "ar": "جارينشا"},
-      {"en": "Pelé", "ar": "بيليه"},
-      {"en": "Didi", "ar": "ديدي"},
-      {"en": "Vavá", "ar": "فافا"}
+      {
+        "en": "Garrincha",
+        "ar": "جارينشا"
+      },
+      {
+        "en": "Pelé",
+        "ar": "بيليه"
+      },
+      {
+        "en": "Didi",
+        "ar": "ديدي"
+      },
+      {
+        "en": "Vavá",
+        "ar": "فافا"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Pelé won the 1958 World Cup at just 17, the youngest player ever to appear in a final.",

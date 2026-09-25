@@ -17,12 +17,12 @@
         "ar": "أربعة"
       },
       {
-        "en": "One",
-        "ar": "واحد"
-      },
-      {
         "en": "Two",
         "ar": "اتنين"
+      },
+      {
+        "en": "One",
+        "ar": "واحد"
       }
     ],
     "correctAnswer": 0,
@@ -39,23 +39,23 @@
     "question_ar": "قلب الجمبري موجود في إيه جزء من جسمه؟",
     "options": [
       {
-        "en": "Its tail",
-        "ar": "ديله"
-      },
-      {
-        "en": "Its head",
-        "ar": "دماغه"
-      },
-      {
         "en": "Its legs",
         "ar": "رجليه"
       },
       {
+        "en": "Its tail",
+        "ar": "ديله"
+      },
+      {
         "en": "Its shell edge",
         "ar": "حافة قوقعته"
+      },
+      {
+        "en": "Its head",
+        "ar": "دماغه"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Unusually, a shrimp's heart is located in its head, not its chest.",
     "explanation_ar": "بشكل غير متوقع، قلب الجمبري موجود في دماغه مش في صدره."
   },
@@ -69,12 +69,12 @@
     "question_ar": "إيه الثديي اللي مش قادر ينط بسبب تركيب رجليه؟",
     "options": [
       {
-        "en": "Bear",
-        "ar": "الدب"
-      },
-      {
         "en": "Horse",
         "ar": "الحصان"
+      },
+      {
+        "en": "Bear",
+        "ar": "الدب"
       },
       {
         "en": "Elephant",
@@ -99,10 +99,6 @@
     "question_ar": "بيتسمى إيه تجمع حمير الوحش؟",
     "options": [
       {
-        "en": "A pride",
-        "ar": "زمرة"
-      },
-      {
         "en": "A herd",
         "ar": "قطيع"
       },
@@ -113,9 +109,13 @@
       {
         "en": "A dazzle",
         "ar": "دازل"
+      },
+      {
+        "en": "A pride",
+        "ar": "زمرة"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "A group of zebras is called a dazzle.",
     "explanation_ar": "تجمع حمير الوحش بيتسمى \"dazzle\"."
   },
@@ -137,12 +137,12 @@
         "ar": "طفرة جينية بس"
       },
       {
-        "en": "Cold water temperature",
-        "ar": "برودة درجة حرارة المية"
-      },
-      {
         "en": "Sun exposure",
         "ar": "التعرض للشمس"
+      },
+      {
+        "en": "Cold water temperature",
+        "ar": "برودة درجة حرارة المية"
       }
     ],
     "correctAnswer": 0,
@@ -159,10 +159,6 @@
     "question_ar": "إيه الحيوان اللي يقدر يحرك كل عين من عينيه لوحدها في اتجاه مختلف في نفس الوقت؟",
     "options": [
       {
-        "en": "Gecko",
-        "ar": "أبو بريص"
-      },
-      {
         "en": "Chameleon",
         "ar": "الحرباية"
       },
@@ -171,11 +167,15 @@
         "ar": "البومة"
       },
       {
+        "en": "Gecko",
+        "ar": "أبو بريص"
+      },
+      {
         "en": "Frog",
         "ar": "الضفدع"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Chameleons can rotate and focus each eye separately, letting them look in two directions at once.",
     "explanation_ar": "الحرباية تقدر تلف وتركز كل عين لوحدها، فتقدر تبص في اتجاهين في نفس الوقت."
   },
@@ -189,12 +189,12 @@
     "question_ar": "بعض أنواع الحلزون تقدر تدخل في حالة سبات (استكانة) تفضل لحد كام؟",
     "options": [
       {
-        "en": "A few hours",
-        "ar": "كام ساعة"
-      },
-      {
         "en": "A few days",
         "ar": "كام يوم"
+      },
+      {
+        "en": "A few hours",
+        "ar": "كام ساعة"
       },
       {
         "en": "About 3 years",
@@ -219,6 +219,10 @@
     "question_ar": "إيه الكائن البحري المشهور بقدرته إنه يعيد نمو دراعه لو اتقطع؟",
     "options": [
       {
+        "en": "Starfish",
+        "ar": "نجم البحر"
+      },
+      {
         "en": "Lobster",
         "ar": "الكركند"
       },
@@ -229,13 +233,9 @@
       {
         "en": "Crab",
         "ar": "السلطعون"
-      },
-      {
-        "en": "Starfish",
-        "ar": "نجم البحر"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Starfish can regrow a lost arm, and in some species even regrow a whole body from one arm.",
     "explanation_ar": "نجم البحر يقدر ينبت دراعه تاني لو اتقطع، وبعض الأنواع تقدر تنبت جسم كامل من دراع واحدة."
   },
@@ -249,23 +249,23 @@
     "question_ar": "البومة تقدر تلف بدماغها لحد كام درجة تقريبًا؟",
     "options": [
       {
-        "en": "270 degrees",
-        "ar": "270 درجة"
-      },
-      {
         "en": "A full 360 degrees",
         "ar": "دورة كاملة 360 درجة"
       },
       {
-        "en": "90 degrees",
-        "ar": "90 درجة"
-      },
-      {
         "en": "180 degrees",
         "ar": "180 درجة"
+      },
+      {
+        "en": "270 degrees",
+        "ar": "270 درجة"
+      },
+      {
+        "en": "90 degrees",
+        "ar": "90 درجة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Owls can rotate their heads up to about 270 degrees thanks to special neck adaptations.",
     "explanation_ar": "البومة تقدر تلف بدماغها لحد حوالي 270 درجة بفضل تكيفات خاصة في رقبتها."
   },
@@ -279,23 +279,23 @@
     "question_ar": "تمساح النيل يقدر يفضل تحت المية من غير ما يطلع نفسه لأكتر من قد إيه وهو مستريح؟",
     "options": [
       {
-        "en": "30 minutes",
-        "ar": "30 دقيقة"
-      },
-      {
         "en": "Over an hour",
         "ar": "أكتر من ساعة"
       },
       {
-        "en": "A full day",
-        "ar": "يوم كامل"
+        "en": "30 minutes",
+        "ar": "30 دقيقة"
       },
       {
         "en": "10 minutes",
         "ar": "10 دقايق"
+      },
+      {
+        "en": "A full day",
+        "ar": "يوم كامل"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "A resting Nile crocodile can hold its breath and stay submerged for over an hour.",
     "explanation_ar": "تمساح النيل وهو مستريح يقدر يحبس نفسه ويفضل تحت المية لأكتر من ساعة."
   },
@@ -313,19 +313,19 @@
         "ar": "بس في المية"
       },
       {
-        "en": "Only baby hippos can",
-        "ar": "بس صغار فرس النهر بيقدروا"
-      },
-      {
         "en": "True",
         "ar": "صح"
       },
       {
         "en": "False",
         "ar": "غلط"
+      },
+      {
+        "en": "Only baby hippos can",
+        "ar": "بس صغار فرس النهر بيقدروا"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Hippos can charge at speeds over 30 km/h on land, faster than most humans can run.",
     "explanation_ar": "فرس النهر يقدر يجري بسرعة أكتر من 30 كم/الساعة على الأرض، أسرع من أغلب البني آدمين."
   },
@@ -339,23 +339,23 @@
     "question_ar": "إيه الطائر اللي مايطيرش وفي نفس الوقت أسرع طائر جري في العالم؟",
     "options": [
       {
-        "en": "Kiwi",
-        "ar": "الكيوي"
+        "en": "Ostrich",
+        "ar": "النعامة"
       },
       {
         "en": "Penguin",
         "ar": "البطريق"
       },
       {
-        "en": "Emu",
-        "ar": "النعامة الأسترالية"
+        "en": "Kiwi",
+        "ar": "الكيوي"
       },
       {
-        "en": "Ostrich",
-        "ar": "النعامة"
+        "en": "Emu",
+        "ar": "النعامة الأسترالية"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Ostriches cannot fly but can run at speeds up to around 70 km/h.",
     "explanation_ar": "النعامة مايقدرش تطير لكن تقدر تجري بسرعة توصل لحوالي 70 كم/الساعة."
   },
@@ -369,23 +369,23 @@
     "question_ar": "القروش أقدم من إيه من دول؟",
     "options": [
       {
-        "en": "Trees",
-        "ar": "الشجر"
-      },
-      {
-        "en": "Dinosaurs' extinction only",
-        "ar": "انقراض الديناصورات بس"
-      },
-      {
         "en": "Insects only",
         "ar": "الحشرات بس"
       },
       {
+        "en": "Trees",
+        "ar": "الشجر"
+      },
+      {
         "en": "Fish in general",
         "ar": "الأسماك عمومًا"
+      },
+      {
+        "en": "Dinosaurs' extinction only",
+        "ar": "انقراض الديناصورات بس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Sharks first appeared roughly 400 million years ago, tens of millions of years before trees existed.",
     "explanation_ar": "القروش ظهرت من حوالي 400 مليون سنة، قبل ما الشجر يظهر بعشرات ملايين السنين."
   },
@@ -403,19 +403,19 @@
         "ar": "مابيناومش خالص"
       },
       {
-        "en": "One half of its brain rests while the other stays awake",
-        "ar": "نص دماغه بيرتاح والنص التاني فاضل صاحي"
-      },
-      {
         "en": "It sleeps only once a week",
         "ar": "بينام مرة واحدة بس في الأسبوع"
+      },
+      {
+        "en": "One half of its brain rests while the other stays awake",
+        "ar": "نص دماغه بيرتاح والنص التاني فاضل صاحي"
       },
       {
         "en": "It sleeps buried in sand",
         "ar": "بينام مدفون في الرملة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Dolphins sleep with one brain hemisphere at a time, a behavior called unihemispheric sleep.",
     "explanation_ar": "الدولفين بينام بنص دماغه في المرة الواحدة، وده سلوك اسمه النوم الأحادي النصفي."
   },
@@ -429,23 +429,23 @@
     "question_ar": "بيتسمى إيه تجمع الغربان؟",
     "options": [
       {
-        "en": "A gaggle",
-        "ar": "تجمع وز"
-      },
-      {
-        "en": "A bloat",
-        "ar": "بلوت"
-      },
-      {
         "en": "A murder",
         "ar": "ميردر"
       },
       {
         "en": "A parliament",
         "ar": "برلمان"
+      },
+      {
+        "en": "A gaggle",
+        "ar": "تجمع وز"
+      },
+      {
+        "en": "A bloat",
+        "ar": "بلوت"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "A group of crows is famously called a murder.",
     "explanation_ar": "تجمع الغربان بيتسمى بشكل مشهور \"a murder\"."
   },
@@ -459,6 +459,10 @@
     "question_ar": "النحل بيوصّل إزاي لباقي النحل اتجاه مصدر الأكل؟",
     "options": [
       {
+        "en": "Through a \"waggle dance\"",
+        "ar": "من خلال \"رقصة الاهتزاز\""
+      },
+      {
         "en": "By releasing smoke-like signals",
         "ar": "بإطلاق إشارات شبه دخان"
       },
@@ -469,13 +473,9 @@
       {
         "en": "By changing color",
         "ar": "عن طريق تغيير اللون"
-      },
-      {
-        "en": "Through a \"waggle dance\"",
-        "ar": "من خلال \"رقصة الاهتزاز\""
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Bees perform a waggle dance whose angle and duration tell others the direction and distance of food.",
     "explanation_ar": "النحل بيعمل \"رقصة اهتزاز\" زاويتها ومدتها بتوصل لباقي النحل اتجاه ومسافة الأكل."
   },
@@ -493,16 +493,16 @@
         "ar": "أكتر من 100 لتر"
       },
       {
+        "en": "50 liters",
+        "ar": "50 لتر"
+      },
+      {
         "en": "1 liter",
         "ar": "لتر واحد"
       },
       {
         "en": "10 liters",
         "ar": "10 لتر"
-      },
-      {
-        "en": "50 liters",
-        "ar": "50 لتر"
       }
     ],
     "correctAnswer": 0,
@@ -519,23 +519,23 @@
     "question_ar": "الزرافة بتنام كام ساعة في اليوم تقريبًا؟",
     "options": [
       {
-        "en": "16 hours",
-        "ar": "16 ساعة"
-      },
-      {
-        "en": "Just a couple of hours",
-        "ar": "ساعتين بس"
+        "en": "12 hours",
+        "ar": "12 ساعة"
       },
       {
         "en": "8 hours",
         "ar": "8 ساعات"
       },
       {
-        "en": "12 hours",
-        "ar": "12 ساعة"
+        "en": "Just a couple of hours",
+        "ar": "ساعتين بس"
+      },
+      {
+        "en": "16 hours",
+        "ar": "16 ساعة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Giraffes sleep very little, often only a couple of hours a day, sometimes standing up.",
     "explanation_ar": "الزرافة بتنام قليل جدًا، غالبًا ساعتين بس في اليوم، وأحيانًا وهي واقفة."
   },
@@ -549,23 +549,23 @@
     "question_ar": "بيتسمى إيه تجمع وحيد القرن؟",
     "options": [
       {
-        "en": "A pod",
-        "ar": "مجموعة"
+        "en": "A crash",
+        "ar": "كراش"
       },
       {
         "en": "A parliament",
         "ar": "برلمان"
       },
       {
-        "en": "A crash",
-        "ar": "كراش"
+        "en": "A pod",
+        "ar": "مجموعة"
       },
       {
         "en": "A dazzle",
         "ar": "دازل"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "A group of rhinos is called a crash.",
     "explanation_ar": "تجمع وحيد القرن بيتسمى \"a crash\"."
   },
@@ -579,23 +579,23 @@
     "question_ar": "الكوالا بتنام كام ساعة في اليوم تقريبًا؟",
     "options": [
       {
-        "en": "24 hours",
-        "ar": "24 ساعة"
-      },
-      {
-        "en": "6-8 hours",
-        "ar": "6-8 ساعات"
-      },
-      {
         "en": "10-12 hours",
         "ar": "10-12 ساعة"
       },
       {
+        "en": "24 hours",
+        "ar": "24 ساعة"
+      },
+      {
         "en": "18-22 hours",
         "ar": "18-22 ساعة"
+      },
+      {
+        "en": "6-8 hours",
+        "ar": "6-8 ساعات"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Koalas sleep an especially large amount, around 18 to 22 hours a day.",
     "explanation_ar": "الكوالا بتنام قد كبير جدًا، حوالي 18 لـ 22 ساعة في اليوم."
   },
@@ -609,23 +609,23 @@
     "question_ar": "ابن عرس المصري (النمس) معروف بافتراس إيه من دول؟",
     "options": [
       {
-        "en": "Snakes and crocodile eggs",
-        "ar": "الثعابين وبيض التماسيح"
-      },
-      {
         "en": "Large fish only",
         "ar": "الأسماك الكبيرة بس"
+      },
+      {
+        "en": "Camels",
+        "ar": "الجمال"
       },
       {
         "en": "Other mongooses",
         "ar": "نمس تاني"
       },
       {
-        "en": "Camels",
-        "ar": "الجمال"
+        "en": "Snakes and crocodile eggs",
+        "ar": "الثعابين وبيض التماسيح"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The Egyptian mongoose is known for hunting snakes and raiding crocodile nests for eggs.",
     "explanation_ar": "النمس المصري معروف بصيد الثعابين ومهاجمة أعشاش التماسيح عشان ياكل البيض."
   },
@@ -643,19 +643,19 @@
         "ar": "أم أربعة وأربعين"
       },
       {
+        "en": "Beetle",
+        "ar": "الخنفسة"
+      },
+      {
         "en": "Scorpion",
         "ar": "العقرب"
       },
       {
         "en": "Spider",
         "ar": "العنكبوت"
-      },
-      {
-        "en": "Beetle",
-        "ar": "الخنفسة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Scorpions glow a bright greenish color under ultraviolet light.",
     "explanation_ar": "العقرب بيلمع بلون أخضر فاتح تحت الضوء فوق البنفسجي."
   },
@@ -669,10 +669,6 @@
     "question_ar": "الصرصور يقدر يعيش فترة حتى لو فقد إيه من جسمه؟",
     "options": [
       {
-        "en": "Its wings",
-        "ar": "جناحيه"
-      },
-      {
         "en": "Its legs",
         "ar": "رجليه"
       },
@@ -683,9 +679,13 @@
       {
         "en": "Its antennae",
         "ar": "قرون استشعاره"
+      },
+      {
+        "en": "Its wings",
+        "ar": "جناحيه"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "A cockroach can survive for a while without its head because it breathes through holes in its body.",
     "explanation_ar": "الصرصور يقدر يعيش فترة من غير راسه لأنه بيتنفس من خلال فتحات في جسمه."
   },
@@ -729,23 +729,23 @@
     "question_ar": "بيتسمى إيه التجمع الكبير من قناديل البحر؟",
     "options": [
       {
-        "en": "A bloom",
-        "ar": "بلوم"
+        "en": "A herd",
+        "ar": "قطيع"
       },
       {
         "en": "A pride",
         "ar": "زمرة"
       },
       {
-        "en": "A herd",
-        "ar": "قطيع"
+        "en": "A bloom",
+        "ar": "بلوم"
       },
       {
         "en": "A troop",
         "ar": "فرقة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A large gathering of jellyfish is called a bloom (also called a smack).",
     "explanation_ar": "التجمع الكبير من قناديل البحر بيتسمى \"bloom\"."
   },
@@ -759,6 +759,10 @@
     "question_ar": "الجمل البختي عنده كام سنام، مقارنة بسنام واحد عند الجمل ذو السنام الواحد؟",
     "options": [
       {
+        "en": "Three",
+        "ar": "تلاتة"
+      },
+      {
         "en": "One",
         "ar": "واحد"
       },
@@ -767,15 +771,11 @@
         "ar": "اتنين"
       },
       {
-        "en": "Three",
-        "ar": "تلاتة"
-      },
-      {
         "en": "None",
         "ar": "ولا واحد"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "The Bactrian camel has two humps, while the dromedary camel has just one.",
     "explanation_ar": "الجمل البختي عنده سنامين، بينما الجمل ذو السنام الواحد عنده سنام واحد بس."
   },
@@ -797,15 +797,15 @@
         "ar": "بتتجاهله خالص"
       },
       {
-        "en": "Showing signs of mourning, such as touching the remains",
-        "ar": "بتظهر علامات حزن، زي إنها تلمس الجثة"
-      },
-      {
         "en": "Eating the remains",
         "ar": "بتاكل الجثة"
+      },
+      {
+        "en": "Showing signs of mourning, such as touching the remains",
+        "ar": "بتظهر علامات حزن، زي إنها تلمس الجثة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Elephants often linger near and gently touch the remains of dead herd members, a behavior seen as mourning.",
     "explanation_ar": "الفيلة غالبًا بتفضل جنب جثث أفراد قطيعها الميتين وبتلمسها برفق، وده سلوك بيتفسر كحزن."
   },
@@ -819,8 +819,8 @@
     "question_ar": "إيه الكائن البحري الصغير المعروف بواحدة من أقوى الضربات في المملكة الحيوانية، لدرجة إنها ممكن تكسر زجاج الأكواريوم؟",
     "options": [
       {
-        "en": "Seahorse",
-        "ar": "حصان البحر"
+        "en": "Mantis shrimp",
+        "ar": "جمبري السرعوف"
       },
       {
         "en": "Clownfish",
@@ -831,11 +831,11 @@
         "ar": "قنفذ البحر"
       },
       {
-        "en": "Mantis shrimp",
-        "ar": "جمبري السرعوف"
+        "en": "Seahorse",
+        "ar": "حصان البحر"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "The mantis shrimp can strike with such speed and force that it can crack aquarium glass.",
     "explanation_ar": "جمبري السرعوف يقدر يضرب بسرعة وقوة تقدر تكسر زجاج الأكواريوم."
   },
@@ -853,16 +853,16 @@
         "ar": "عشان مايتفرقوش وهم نايمين"
       },
       {
+        "en": "To keep warm only",
+        "ar": "عشان يدفّى بس"
+      },
+      {
         "en": "To show affection only",
         "ar": "تعبير عن المحبة بس"
       },
       {
         "en": "To hunt together",
         "ar": "عشان يصطادوا مع بعض"
-      },
-      {
-        "en": "To keep warm only",
-        "ar": "عشان يدفّى بس"
       }
     ],
     "correctAnswer": 0,
@@ -879,12 +879,12 @@
     "question_ar": "بيتسمى إيه تجمع فرس النهر؟",
     "options": [
       {
-        "en": "A dazzle",
-        "ar": "دازل"
-      },
-      {
         "en": "A bloat",
         "ar": "بلوت"
+      },
+      {
+        "en": "A dazzle",
+        "ar": "دازل"
       },
       {
         "en": "A crash",
@@ -895,7 +895,7 @@
         "ar": "ميردر"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "A group of hippos is called a bloat.",
     "explanation_ar": "تجمع فرس النهر بيتسمى \"a bloat\"."
   },
@@ -909,20 +909,20 @@
     "question_ar": "الجراد الصحراوي، اللي اتعتبر تاريخيًا خطر كبير على الزراعة في مصر والشرق الأوسط، بيسبب ضرر أساسًا بعمل إيه؟",
     "options": [
       {
-        "en": "Poisoning water sources",
-        "ar": "بيسمم مصادر المية"
-      },
-      {
         "en": "Spreading disease to humans",
         "ar": "بينشر أمراض للبني آدمين"
+      },
+      {
+        "en": "Attacking farm animals",
+        "ar": "بيهاجم حيوانات المزرعة"
       },
       {
         "en": "Forming huge swarms that devour crops",
         "ar": "بيكوّن أسراب ضخمة بتلتهم المحاصيل"
       },
       {
-        "en": "Attacking farm animals",
-        "ar": "بيهاجم حيوانات المزرعة"
+        "en": "Poisoning water sources",
+        "ar": "بيسمم مصادر المية"
       }
     ],
     "correctAnswer": 2,
@@ -939,23 +939,23 @@
     "question_ar": "إيه السمكة المفترسة الكبيرة اللي اتم إدخالها لبحيرة ناصر وبتتلاقى في النيل، ومعروفة بحجمها وقوتها؟",
     "options": [
       {
-        "en": "Tilapia",
-        "ar": "البلطي"
-      },
-      {
-        "en": "Catfish",
-        "ar": "القرموط"
-      },
-      {
         "en": "Sardine",
         "ar": "السردين"
       },
       {
         "en": "Nile perch",
         "ar": "قشر بياض النيل"
+      },
+      {
+        "en": "Tilapia",
+        "ar": "البلطي"
+      },
+      {
+        "en": "Catfish",
+        "ar": "القرموط"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "The Nile perch is a large, powerful predatory fish found in the Nile and Lake Nasser.",
     "explanation_ar": "قشر بياض النيل سمكة مفترسة كبيرة وقوية بتتلاقى في نهر النيل وبحيرة ناصر."
   },
@@ -969,23 +969,23 @@
     "question_ar": "بعض أنواع السلاحف البرية معروفة إنها تقدر تعيش لأكتر من قد إيه سنة؟",
     "options": [
       {
-        "en": "100 years",
-        "ar": "100 سنة"
+        "en": "30 years",
+        "ar": "30 سنة"
       },
       {
         "en": "200 years",
         "ar": "200 سنة"
       },
       {
-        "en": "30 years",
-        "ar": "30 سنة"
+        "en": "100 years",
+        "ar": "100 سنة"
       },
       {
         "en": "50 years",
         "ar": "50 سنة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Some giant tortoise species can live well over 100 years, among the longest-lived animals.",
     "explanation_ar": "بعض أنواع السلاحف العملاقة تقدر تعيش لأكتر من 100 سنة بمراحل، وده يخليها من أطول الحيوانات عمرًا."
   },
@@ -999,23 +999,23 @@
     "question_ar": "إيه الثديي المعروف إن عنده أعلى ضغط دم بين كل الثدييات، عشان محتاج يضخ الدم لأعلى رقبته الطويلة؟",
     "options": [
       {
-        "en": "Elephant",
-        "ar": "الفيل"
-      },
-      {
-        "en": "Giraffe",
-        "ar": "الزرافة"
-      },
-      {
         "en": "Horse",
         "ar": "الحصان"
       },
       {
         "en": "Camel",
         "ar": "الجمل"
+      },
+      {
+        "en": "Elephant",
+        "ar": "الفيل"
+      },
+      {
+        "en": "Giraffe",
+        "ar": "الزرافة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Giraffes have the highest blood pressure of any mammal to pump blood up their long necks to the brain.",
     "explanation_ar": "الزرافة عندها أعلى ضغط دم بين كل الثدييات عشان تقدر تضخ الدم لفوق لرقبتها الطويلة ولحد مخها."
   },
@@ -1029,12 +1029,12 @@
     "question_ar": "إيه البرمائي المشهور بقدرته إنه ينبت أطرافه بالكامل تاني وميفقدش صفاته الصغيرة خالص؟",
     "options": [
       {
-        "en": "Newt",
-        "ar": "السمندل المائي"
-      },
-      {
         "en": "Toad",
         "ar": "العلجوم"
+      },
+      {
+        "en": "Newt",
+        "ar": "السمندل المائي"
       },
       {
         "en": "Axolotl",
@@ -1059,12 +1059,12 @@
     "question_ar": "بعض النمل يقدر يشيل حاجات وزنها يوصل لحوالي كام ضعف وزن جسمه؟",
     "options": [
       {
-        "en": "500 times",
-        "ar": "500 ضعف"
-      },
-      {
         "en": "5 times",
         "ar": "5 أضعاف"
+      },
+      {
+        "en": "500 times",
+        "ar": "500 ضعف"
       },
       {
         "en": "10 times",
@@ -1093,12 +1093,12 @@
         "ar": "باندمونيوم"
       },
       {
-        "en": "A murder",
-        "ar": "ميردر"
-      },
-      {
         "en": "A bloat",
         "ar": "بلوت"
+      },
+      {
+        "en": "A murder",
+        "ar": "ميردر"
       },
       {
         "en": "A crash",
@@ -1127,12 +1127,12 @@
         "ar": "الطيران المستمر الحقيقي"
       },
       {
-        "en": "Living underwater permanently",
-        "ar": "تعيش تحت المية بشكل دائم"
-      },
-      {
         "en": "Changing skin color",
         "ar": "تغيّر لون جلدها"
+      },
+      {
+        "en": "Living underwater permanently",
+        "ar": "تعيش تحت المية بشكل دائم"
       }
     ],
     "correctAnswer": 1,
@@ -1149,6 +1149,10 @@
     "question_ar": "إيه الحشرة المعروفة بلف كور من الروث أكبر من حجمها بكتير عشان تاكل منها وتحط فيها بيضها؟",
     "options": [
       {
+        "en": "Dung beetle",
+        "ar": "خنفساء الروث"
+      },
+      {
         "en": "Termite",
         "ar": "الأرضة"
       },
@@ -1157,15 +1161,11 @@
         "ar": "الجندب"
       },
       {
-        "en": "Dung beetle",
-        "ar": "خنفساء الروث"
-      },
-      {
         "en": "Locust",
         "ar": "الجراد"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Dung beetles roll dung into balls far larger than themselves for food and egg-laying.",
     "explanation_ar": "خنفساء الروث بتلف الروث في كور أكبر من حجمها بكتير عشان تستخدمها كأكل ومكان تحط فيه بيضها."
   },
@@ -1179,12 +1179,12 @@
     "question_ar": "بعض أنواع القروش لازم تفضل تعوم طول الوقت، وإلا هيحصل لها إيه؟",
     "options": [
       {
-        "en": "Losing their color",
-        "ar": "تفقد لونها"
-      },
-      {
         "en": "Falling asleep instantly",
         "ar": "تنام فورًا"
+      },
+      {
+        "en": "Losing their color",
+        "ar": "تفقد لونها"
       },
       {
         "en": "Losing their teeth",
@@ -1209,23 +1209,23 @@
     "question_ar": "بيتسمى إيه تجمع الفلامنجو؟",
     "options": [
       {
-        "en": "A flamboyance",
-        "ar": "فلامبوانس"
-      },
-      {
-        "en": "A crash",
-        "ar": "كراش"
-      },
-      {
         "en": "A parliament",
         "ar": "برلمان"
       },
       {
         "en": "A pod",
         "ar": "مجموعة"
+      },
+      {
+        "en": "A flamboyance",
+        "ar": "فلامبوانس"
+      },
+      {
+        "en": "A crash",
+        "ar": "كراش"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A group of flamingos is called a flamboyance.",
     "explanation_ar": "تجمع الفلامنجو بيتسمى \"a flamboyance\"."
   },
@@ -1239,23 +1239,23 @@
     "question_ar": "ليه النقار يقدر يدق بمنقاره في الخشب باستمرار من غير ما يضر مخه؟",
     "options": [
       {
-        "en": "Their beaks are hollow and absorb no force",
-        "ar": "منقاره مجوف ومابيمتصش أي قوة"
-      },
-      {
-        "en": "Special skull structures absorb the shock",
-        "ar": "تركيبات خاصة في جمجمته بتمتص الصدمة"
-      },
-      {
         "en": "They only peck very softly",
         "ar": "بينقر بخفة شديدة بس"
       },
       {
         "en": "Their brains are unusually small and unaffected",
         "ar": "مخه صغير جدًا وده مابيأثرش فيه"
+      },
+      {
+        "en": "Special skull structures absorb the shock",
+        "ar": "تركيبات خاصة في جمجمته بتمتص الصدمة"
+      },
+      {
+        "en": "Their beaks are hollow and absorb no force",
+        "ar": "منقاره مجوف ومابيمتصش أي قوة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Woodpeckers have shock-absorbing skull structures that protect their brains while pecking.",
     "explanation_ar": "النقار عنده تركيبات في جمجمته بتمتص الصدمة وبتحمي مخه أثناء النقر."
   },
@@ -1269,23 +1269,23 @@
     "question_ar": "حمل الفيل الأفريقي بيستمر لحوالي قد إيه، وهو أطول فترة حمل بين كل الثدييات؟",
     "options": [
       {
-        "en": "9 months",
-        "ar": "9 شهور"
+        "en": "22 months",
+        "ar": "22 شهر"
       },
       {
         "en": "14 months",
         "ar": "14 شهر"
       },
       {
-        "en": "22 months",
-        "ar": "22 شهر"
-      },
-      {
         "en": "30 months",
         "ar": "30 شهر"
+      },
+      {
+        "en": "9 months",
+        "ar": "9 شهور"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "African elephants have a gestation period of about 22 months, the longest of any mammal.",
     "explanation_ar": "الفيل الأفريقي بيحمل لحوالي 22 شهر، وهي أطول فترة حمل بين كل الثدييات."
   },
@@ -1299,8 +1299,8 @@
     "question_ar": "في الطاووس، أنهي جنس بيكون عنده ديل الريش الكبير والملون اللي بيستخدمه عشان يجذب شريك؟",
     "options": [
       {
-        "en": "Only the females (peahens)",
-        "ar": "الإناث بس (أنثى الطاووس)"
+        "en": "Only the males (peacocks)",
+        "ar": "الذكور بس (الطاووس)"
       },
       {
         "en": "Both sexes equally",
@@ -1311,11 +1311,11 @@
         "ar": "ولا حد، بينمو بس في الأسر"
       },
       {
-        "en": "Only the males (peacocks)",
-        "ar": "الذكور بس (الطاووس)"
+        "en": "Only the females (peahens)",
+        "ar": "الإناث بس (أنثى الطاووس)"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Only male peacocks grow the large, colorful train used to attract females.",
     "explanation_ar": "الذكر بس هو اللي بينمو له ديل الريش الكبير والملون اللي بيستخدمه عشان يجذب الإناث."
   },
@@ -1329,23 +1329,23 @@
     "question_ar": "بيتسمى إيه تجمع الضباع؟",
     "options": [
       {
-        "en": "A clan",
-        "ar": "عشيرة"
+        "en": "A murder",
+        "ar": "ميردر"
       },
       {
         "en": "A troop",
         "ar": "فرقة"
       },
       {
-        "en": "A murder",
-        "ar": "ميردر"
+        "en": "A clan",
+        "ar": "عشيرة"
       },
       {
         "en": "A dazzle",
         "ar": "دازل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A group of hyenas is called a clan.",
     "explanation_ar": "تجمع الضباع بيتسمى \"a clan\"."
   },
@@ -1389,6 +1389,10 @@
     "question_ar": "إيه نوع الحوت المعروف بإنتاج أغاني طويلة ومعقدة تقدر تنتقل لمسافات ميلات تحت المية؟",
     "options": [
       {
+        "en": "Humpback whale",
+        "ar": "الحوت الأحدب"
+      },
+      {
         "en": "Orca",
         "ar": "الحوت القاتل"
       },
@@ -1397,15 +1401,11 @@
         "ar": "الحوت الأزرق"
       },
       {
-        "en": "Humpback whale",
-        "ar": "الحوت الأحدب"
-      },
-      {
         "en": "Sperm whale",
         "ar": "حوت العنبر"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Humpback whales are famous for their long, complex, and haunting underwater songs.",
     "explanation_ar": "الحوت الأحدب مشهور بأغانيه الطويلة والمعقدة وشبه الحزينة تحت المية."
   },
@@ -1419,16 +1419,16 @@
     "question_ar": "إيه الحيوان المعروف بواحدة من أقوى قوى عض بين كل الحيوانات الحية؟",
     "options": [
       {
-        "en": "Elephant",
-        "ar": "الفيل"
+        "en": "Zebra",
+        "ar": "الحمار الوحشي"
       },
       {
         "en": "Giraffe",
         "ar": "الزرافة"
       },
       {
-        "en": "Zebra",
-        "ar": "الحمار الوحشي"
+        "en": "Elephant",
+        "ar": "الفيل"
       },
       {
         "en": "Crocodile",
@@ -1449,23 +1449,23 @@
     "question_ar": "القطة بتقضي كام بالمية تقريبًا من عمرها وهي نايمة؟",
     "options": [
       {
-        "en": "About 70%",
-        "ar": "حوالي 70%"
+        "en": "About 30%",
+        "ar": "حوالي 30%"
       },
       {
         "en": "About 90%",
         "ar": "حوالي 90%"
       },
       {
-        "en": "About 30%",
-        "ar": "حوالي 30%"
+        "en": "About 70%",
+        "ar": "حوالي 70%"
       },
       {
         "en": "About 50%",
         "ar": "حوالي 50%"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Cats sleep a large portion of their lives, roughly 70% of the time.",
     "explanation_ar": "القطة بتنام جزء كبير من عمرها، حوالي 70% من الوقت."
   },
@@ -1479,23 +1479,23 @@
     "question_ar": "إيه السمكة المعروفة بقدرتها إنها تسيب المية و\"تمشي\" على الطين بزعانفها؟",
     "options": [
       {
-        "en": "Catfish",
-        "ar": "القرموط"
+        "en": "Eel",
+        "ar": "الأنقليس"
       },
       {
-        "en": "Mudskipper",
-        "ar": "سمكة قافزة الطين"
+        "en": "Catfish",
+        "ar": "القرموط"
       },
       {
         "en": "Flying fish",
         "ar": "السمكة الطايرة"
       },
       {
-        "en": "Eel",
-        "ar": "الأنقليس"
+        "en": "Mudskipper",
+        "ar": "سمكة قافزة الطين"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Mudskippers are unusual fish that can leave water and move across mud using their fins.",
     "explanation_ar": "سمكة قافزة الطين نوع غريب من السمك بيقدر يسيب المية ويتحرك على الطين بزعانفه."
   }

@@ -1,1502 +1,1502 @@
 [
-{
-"id": "SER-010-001",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Who plays Ross in the show 'Friends'?",
-"question_ar": "مين اللي بيمثل شخصية روس في مسلسل فريندز؟",
-"options": [
-{
-"en": "Matt LeBlanc",
-"ar": "مات لوبلانك"
-},
-{
-"en": "David Schwimmer",
-"ar": "ديفيد شويمر"
-},
-{
-"en": "Matthew Perry",
-"ar": "ماثيو بيري"
-},
-{
-"en": "Chandler Bing",
-"ar": "تشاندلر بينج"
-}
-],
-"correctAnswer": 1,
-"explanation_en": "David Schwimmer played the paleontologist Ross Geller.",
-"explanation_ar": "ديفيد شويمر كان بيمثل شخصية روس چيلر."
-},
-{
-"id": "SER-010-002",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actor starred as 'El Ekhteyar' hero?",
-"question_ar": "مين اللي مثل بطل مسلسل الاختيار؟",
-"options": [
-{
-"en": "Amr Youssef",
-"ar": "عمرو يوسف"
-},
-{
-"en": "Amir Karara",
-"ar": "أمير كرارة"
-},
-{
-"en": "Ahmed El Sakka",
-"ar": "أحمد السقا"
-},
-{
-"en": "Karim Abdel Aziz",
-"ar": "كريم عبد العزيز"
-}
-],
-"correctAnswer": 1,
-"explanation_en": "Amir Karara played the lead role of the officer in 'El Ekhteyar'.",
-"explanation_ar": "أمير كرارة مثل دور الضابط البطل في مسلسل الاختيار."
-},
-{
-"id": "SER-010-003",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "What is the name of the crime show set in a house of paper thieves in Spain?",
-"question_ar": "إيه اسم المسلسل الإسباني عن سرقة دار سك العملة؟",
-"options": [
-{
-"en": "Narcos",
-"ar": "نارکوس"
-},
-{
-"en": "Money Heist",
-"ar": "لعبة النقود / La Casa de Papel"
-},
-{
-"en": "Elite",
-"ar": "إيليت"
-},
-{
-"en": "Dark",
-"ar": "دارك"
-}
-],
-"correctAnswer": 1,
-"explanation_en": "'Money Heist' (La Casa de Papel) follows a group robbing the Royal Mint of Spain.",
-"explanation_ar": "لعبة النقود بتحكي عن عصابة بتسرق دار سك العملة في إسبانيا."
-},
-{
-"id": "SER-010-004",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which streaming platform produced 'Stranger Things'?",
-"question_ar": "إيه المنصة اللي أنتجت مسلسل سترينجر ثينجز؟",
-"options": [
-{
-"en": "Netflix",
-"ar": "نتفليكس"
-},
-{
-"en": "HBO",
-"ar": "إتش بي أو"
-},
-{
-"en": "Disney+",
-"ar": "ديزني بلس"
-},
-{
-"en": "Amazon Prime",
-"ar": "أمازون برايم"
-}
-],
-"correctAnswer": 0,
-"explanation_en": "'Stranger Things' is a Netflix original series.",
-"explanation_ar": "مسلسل سترينجر ثينجز إنتاج نتفليكس."
-},
-{
-"id": "SER-010-005",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which actress played 'Fatma' in 'Faten Amal Harby'?",
-"question_ar": "مين اللي مثلت دور فاتن في مسلسل فاتن أمل حربي؟",
-"options": [
-{
-"en": "Nelly Karim",
-"ar": "نيللي كريم"
-},
-{
-"en": "Ghada Abdel Razek",
-"ar": "غادة عبد الرازق"
-},
-{
-"en": "Yousra",
-"ar": "يسرا"
-},
-{
-"en": "Mona Zaki",
-"ar": "منى زكي"
-}
-],
-"correctAnswer": 0,
-"explanation_en": "Nelly Karim played the title role of Faten Amal Harby.",
-"explanation_ar": "نيللي كريم مثلت شخصية فاتن أمل حربي."
-},
-{
-"id": "SER-010-006",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "What crime drama follows a chemistry teacher who makes drugs?",
-"question_ar": "إيه اسم المسلسل اللي بطله مدرس كيمياء بيصنع مخدرات؟",
-"options": [
-{
-"en": "Narcos",
-"ar": "نارکوس"
-},
-{
-"en": "Dexter",
-"ar": "دكستر"
-},
-{
-"en": "Ozark",
-"ar": "أوزارك"
-},
-{
-"en": "Breaking Bad",
-"ar": "بريكينج باد"
-}
-],
-"correctAnswer": 3,
-"explanation_en": "'Breaking Bad' stars Bryan Cranston as Walter White, a teacher turned drug maker.",
-"explanation_ar": "بريكينج باد بطولة برايان كرانستون في دور والتر وايت."
-},
-{
-"id": "SER-010-007",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian series is set during the 1973 war and follows officer Ahmed?",
-"question_ar": "إيه اسم المسلسل اللي بيحكي عن حرب 73 وبطله ضابط اسمه أحمد؟",
-"options": [
-{
-"en": "Grand Hotel",
-"ar": "جراند أوتيل"
-},
-{
-"en": "Haga Gamda",
-"ar": "حاجة غريبة"
-},
-{
-"en": "El Ekhteyar",
-"ar": "الاختيار"
-},
-{
-"en": "El Gama'a",
-"ar": "الجماعة"
-}
-],
-"correctAnswer": 2,
-"explanation_en": "'El Ekhteyar' is a landmark series honoring army heroes, including the 1973 war.",
-"explanation_ar": "مسلسل الاختيار بيتكلم عن أبطال الجيش المصري ومنهم حرب 73."
-},
-{
-"id": "SER-010-008",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "In 'Friends', what is the name of the coffee shop the friends hang out at?",
-"question_ar": "إيه اسم الكافيه اللي بيتقابلوا فيه الأصحاب في مسلسل فريندز؟",
-"options": [
-{
-"en": "Central Perk",
-"ar": "سنترال بيرك"
-},
-{
-"en": "Monk's Cafe",
-"ar": "مونكس كافيه"
-},
-{
-"en": "MacLaren's",
-"ar": "ماكلارينز"
-},
-{
-"en": "The Peach Pit",
-"ar": "ذا بيتش بيت"
-}
-],
-"correctAnswer": 0,
-"explanation_en": "Central Perk is the iconic coffee shop in 'Friends'.",
-"explanation_ar": "سنترال بيرك هو الكافيه الشهير في مسلسل فريندز."
-},
-{
-"id": "SER-010-009",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actor is famous for playing Sheikh Hassouna in Ramadan comedies?",
-"question_ar": "مين الممثل المصري المشهور بدور الشيخ حسونة في مسلسلات رمضان؟",
-"options": [
-{
-"en": "Ahmed Zaki",
-"ar": "أحمد زكي"
-},
-{
-"en": "Yehia El Fakharany",
-"ar": "يحيى الفخراني"
-},
-{
-"en": "Samir Ghanem",
-"ar": "سمير غانم"
-},
-{
-"en": "Adel Emam",
-"ar": "عادل إمام"
-}
-],
-"correctAnswer": 2,
-"explanation_en": "Samir Ghanem was well known for comedic Ramadan roles.",
-"explanation_ar": "سمير غانم كان مشهور بأدوار كوميدية في مسلسلات رمضان."
-},
-{
-"id": "SER-010-010",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "What is the deadly children's game series from South Korea called?",
-"question_ar": "إيه اسم المسلسل الكوري عن ألعاب الأطفال القاتلة؟",
-"options": [
-{
-"en": "Kingdom",
-"ar": "كينجدوم"
-},
-{
-"en": "Squid Game",
-"ar": "سكويد جيم"
-},
-{
-"en": "Hellbound",
-"ar": "هيل باوند"
-},
-{
-"en": "All of Us Are Dead",
-"ar": "أول أوف أس آر ديد"
-}
-],
-"correctAnswer": 1,
-"explanation_en": "'Squid Game' became a global Netflix phenomenon in 2021.",
-"explanation_ar": "سكويد جيم بقى ظاهرة عالمية على نتفليكس سنة 2021."
-},
-{
-"id": "SER-010-011",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which actress played 'Ola' in the famous series 'Grand Hotel'?",
-"question_ar": "مين اللي مثلت دور علا في مسلسل جراند أوتيل؟",
-"options": [
-{
-"en": "Yasmine Abdel Aziz",
-"ar": "ياسمين عبد العزيز"
-},
-{
-"en": "Menna Shalaby",
-"ar": "منة شلبي"
-},
-{
-"en": "Hend Sabry",
-"ar": "هند صبري"
-},
-{
-"en": "Dorra",
-"ar": "درة"
-}
-],
-"correctAnswer": 2,
-"explanation_en": "Hend Sabry starred as Ola in 'Grand Hotel'.",
-"explanation_ar": "هند صبري مثلت دور علا في جراند أوتيل."
-},
-{
-"id": "SER-010-012",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which show features dragons and the fight for the Iron Throne?",
-"question_ar": "إيه المسلسل اللي فيه تنانين وصراع على العرش الحديدي؟",
-"options": [
-{
-"en": "House of Cards",
-"ar": "هاوس أوف كاردز"
-},
-{
-"en": "Game of Thrones",
-"ar": "جيم أوف ثرونز"
-},
-{
-"en": "The Witcher",
-"ar": "ذا ويتشر"
-},
-{
-"en": "Vikings",
-"ar": "فايكنجز"
-}
-],
-"correctAnswer": 1,
-"explanation_en": "'Game of Thrones' revolves around noble houses fighting for the Iron Throne.",
-"explanation_ar": "جيم أوف ثرونز بيدور حول صراع البيوت النبيلة على العرش الحديدي."
-},
-{
-"id": "SER-010-013",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actor played the legendary spy 'Raafat El Hagan'?",
-"question_ar": "مين اللي مثل شخصية الجاسوس رأفت الهجان؟",
-"options": [
-{
-"en": "Mahmoud Abdel Aziz",
-"ar": "محمود عبد العزيز"
-},
-{
-"en": "Adel Emam",
-"ar": "عادل إمام"
-},
-{
-"en": "Nour El Sherif",
-"ar": "نور الشريف"
-},
-{
-"en": "Ahmed Zaki",
-"ar": "أحمد زكي"
-}
-],
-"correctAnswer": 0,
-"explanation_en": "Mahmoud Abdel Aziz became iconic playing spy Raafat El Hagan.",
-"explanation_ar": "محمود عبد العزيز بقى أيقونة بدوره كجاسوس رأفت الهجان."
-},
-{
-"id": "SER-010-014",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "In 'How I Met Your Mother', who is the main narrator telling the story?",
-"question_ar": "في مسلسل هاو آي ميت يور مازر، مين اللي بيحكي القصة؟",
-"options": [
-{
-"en": "Ted",
-"ar": "تيد"
-},
-{
-"en": "Barney",
-"ar": "بارني"
-},
-{
-"en": "Marshall",
-"ar": "مارشال"
-},
-{
-"en": "Ted's son",
-"ar": "ابن تيد"
-}
-],
-"correctAnswer": 0,
-"explanation_en": "Ted Mosby narrates the story of how he met the mother of his kids.",
-"explanation_ar": "تيد موزبي هو اللي بيحكي قصة إزاي قابل أم ولاده."
-},
-{
-"id": "SER-010-015",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actress is famous for 'Abu El Arousa' role as a father worried about his daughter's wedding?",
-"question_ar": "مين الممثل اللي عمل دور أبو العروسة القلقان على جواز بنته؟",
-"options": [
-{
-"en": "Ahmed Helmy",
-"ar": "أحمد حلمي"
-},
-{
-"en": "Samir Ghanem",
-"ar": "سمير غانم"
-},
-{
-"en": "Khaled El Sawy",
-"ar": "خالد الصاوي"
-},
-{
-"en": "Yehia El Fakharany",
-"ar": "يحيى الفخراني"
-}
-],
-"correctAnswer": 3,
-"explanation_en": "Yehia El Fakharany starred in the classic 'Abu El Arousa' series.",
-"explanation_ar": "يحيى الفخراني بطل مسلسل أبو العروسة الكلاسيكي."
-},
-{
-"id": "SER-010-016",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which British crime drama is set among a gangster family in Birmingham with flat caps?",
-"question_ar": "إيه اسم المسلسل البريطاني عن عيلة عصابات في برمنجهام لابسين كابات مسطحة؟",
-"options": [
-{
-"en": "The Crown",
-"ar": "ذا كراون"
-},
-{
-"en": "Sherlock",
-"ar": "شيرلوك"
-},
-{
-"en": "Downton Abbey",
-"ar": "داونتون آبي"
-},
-{
-"en": "Peaky Blinders",
-"ar": "بيكي بلايندرز"
-}
-],
-"correctAnswer": 3,
-"explanation_en": "'Peaky Blinders' follows the Shelby crime family in Birmingham.",
-"explanation_ar": "بيكي بلايندرز بيحكي عن عيلة شيلبي في برمنجهام."
-},
-{
-"id": "SER-010-017",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actor is known for playing comic roles alongside his father Samir Ghanem, and also acts solo?",
-"question_ar": "مين ابن سمير غانم اللي بيمثل أدوار كوميدية؟",
-"options": [
-{
-"en": "Donia Samir Ghanem",
-"ar": "دنيا سمير غانم"
-},
-{
-"en": "Ahmed Fahmy",
-"ar": "أحمد فهمي"
-},
-{
-"en": "Amr Diab",
-"ar": "عمرو دياب"
-},
-{
-"en": "Karim Mahmoud Abdel Aziz",
-"ar": "كريم محمود عبد العزيز"
-}
-],
-"correctAnswer": 0,
-"explanation_en": "Donia Samir Ghanem is Samir Ghanem's daughter and a well-known actress.",
-"explanation_ar": "دنيا سمير غانم بنت سمير غانم وممثلة معروفة."
-},
-{
-"id": "SER-010-018",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "What is the name of the prison-escape show starring Wentworth Miller?",
-"question_ar": "إيه اسم مسلسل الهروب من السجن بطولة وينتورث ميلر؟",
-"options": [
-{
-"en": "Escape at Dannemora",
-"ar": "إسكيب أت دانيمورا"
-},
-{
-"en": "Prison Break",
-"ar": "بريزون بريك"
-},
-{
-"en": "Oz",
-"ar": "أوز"
-},
-{
-"en": "Breaking Bad",
-"ar": "بريكينج باد"
-}
-],
-"correctAnswer": 1,
-"explanation_en": "'Prison Break' follows Michael Scofield's plan to break his brother out of prison.",
-"explanation_ar": "بريزون بريك بيحكي عن خطة مايكل سكوفيلد لتهريب أخوه من السجن."
-},
-{
-"id": "SER-010-019",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actress starred in 'Segn El Nesa' about a women's prison?",
-"question_ar": "مين اللي مثلت بطولة مسلسل سجن النسا؟",
-"options": [
-{
-"en": "Ghada Abdel Razek",
-"ar": "غادة عبد الرازق"
-},
-{
-"en": "Nelly Karim",
-"ar": "نيللي كريم"
-},
-{
-"en": "Elham Shahin",
-"ar": "إلهام شاهين"
-},
-{
-"en": "Yousra",
-"ar": "يسرا"
-}
-],
-"correctAnswer": 2,
-"explanation_en": "Elham Shahin headlined the ensemble cast of 'Segn El Nesa'.",
-"explanation_ar": "إلهام شاهين كانت في بطولة مسلسل سجن النسا."
-},
-{
-"id": "SER-010-020",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "In 'The Office' (US), what paper company do the characters work for?",
-"question_ar": "في مسلسل ذا أوفيس الأمريكي، بيشتغلوا في شركة ورق اسمها إيه؟",
-"options": [
-{
-"en": "Dunder Mifflin",
-"ar": "داندر ميفلين"
-},
-{
-"en": "Wernham Hogg",
-"ar": "ويرنهام هوج"
-},
-{
-"en": "Sterling Cooper",
-"ar": "ستيرلينج كوبر"
-},
-{
-"en": "Initech",
-"ar": "إينيتك"
-}
-],
-"correctAnswer": 0,
-"explanation_en": "The show is set at the Scranton branch of Dunder Mifflin.",
-"explanation_ar": "المسلسل بيدور في فرع سكرانتون لشركة داندر ميفلين."
-},
-{
-"id": "SER-010-021",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actor is known as the star of many police/action Ramadan series like 'Kalabsh'?",
-"question_ar": "مين الممثل المصري المعروف بأدوار البوليسي زي مسلسل كلبش؟",
-"options": [
-{
-"en": "Karim Abdel Aziz",
-"ar": "كريم عبد العزيز"
-},
-{
-"en": "Mohamed Ramadan",
-"ar": "محمد رمضان"
-},
-{
-"en": "Ahmed El Sakka",
-"ar": "أحمد السقا"
-},
-{
-"en": "Amir Karara",
-"ar": "أمير كرارة"
-}
-],
-"correctAnswer": 3,
-"explanation_en": "Amir Karara starred as the police officer lead in 'Kalabsh'.",
-"explanation_ar": "أمير كرارة بطل مسلسل كلبش بدور الضابط."
-},
-{
-"id": "SER-010-022",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "What is the name of the show about supernatural events in a small town called Hawkins, Indiana?",
-"question_ar": "إيه اسم المسلسل عن أحداث غريبة في بلدة هوكينز الأمريكية؟",
-"options": [
-{
-"en": "The X-Files",
-"ar": "ذا إكس فايلز"
-},
-{
-"en": "Stranger Things",
-"ar": "سترينجر ثينجز"
-},
-{
-"en": "Twin Peaks",
-"ar": "توين بيكس"
-},
-{
-"en": "Dark",
-"ar": "دارك"
-}
-],
-"correctAnswer": 1,
-"explanation_en": "'Stranger Things' is set in the fictional town of Hawkins, Indiana.",
-"explanation_ar": "سترينجر ثينجز بتدور أحداثه في بلدة هوكينز الخيالية."
-},
-{
-"id": "SER-010-023",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actress is well known for the drama series 'Taht El Saytara' (Under Control)?",
-"question_ar": "مين اللي مثلت بطولة مسلسل تحت السيطرة؟",
-"options": [
-{
-"en": "Nelly Karim",
-"ar": "نيللي كريم"
-},
-{
-"en": "Ghada Abdel Razek",
-"ar": "غادة عبد الرازق"
-},
-{
-"en": "Yousra",
-"ar": "يسرا"
-},
-{
-"en": "Elham Shahin",
-"ar": "إلهام شاهين"
-}
-],
-"correctAnswer": 2,
-"explanation_en": "Yousra starred in 'Taht El Saytara'.",
-"explanation_ar": "يسرا بطلة مسلسل تحت السيطرة."
-},
-{
-"id": "SER-010-024",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actor is famous for playing 'Ali Kamel' style tough guys and starred in 'El Kabeer Awy'?",
-"question_ar": "مين بطل مسلسل الكبير أوي؟",
-"options": [
-{
-"en": "Ahmed Zaki",
-"ar": "أحمد زكي"
-},
-{
-"en": "Samir Ghanem",
-"ar": "سمير غانم"
-},
-{
-"en": "Yehia El Fakharany",
-"ar": "يحيى الفخراني"
-},
-{
-"en": "Adel Emam",
-"ar": "عادل إمام"
-}
-],
-"correctAnswer": 3,
-"explanation_en": "Adel Emam starred as 'El Kabeer' in the long-running series.",
-"explanation_ar": "عادل إمام مثل دور الكبير في المسلسل الطويل ده."
-},
-{
-"id": "SER-010-025",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "In 'Money Heist', what color jumpsuits do the robbers wear?",
-"question_ar": "إيه لون البدل اللي بيلبسها اللصوص في مسلسل لعبة النقود؟",
-"options": [
-{
-"en": "Black",
-"ar": "أسود"
-},
-{
-"en": "Orange",
-"ar": "برتقالي"
-},
-{
-"en": "Blue",
-"ar": "أزرق"
-},
-{
-"en": "Red",
-"ar": "أحمر"
-}
-],
-"correctAnswer": 3,
-"explanation_en": "The robbers wear iconic red jumpsuits with Dali masks.",
-"explanation_ar": "اللصوص بيلبسوا بدل حمرا مع ماسك دالي الشهير."
-},
-{
-"id": "SER-010-026",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actor plays the lead in the historical series 'El Gama'a' about the Muslim Brotherhood's founder?",
-"question_ar": "مين اللي مثل دور حسن البنا في مسلسل الجماعة؟",
-"options": [
-{
-"en": "Sayed Ragab",
-"ar": "سيد رجب"
-},
-{
-"en": "Khaled El Sawy",
-"ar": "خالد الصاوي"
-},
-{
-"en": "Iyad Nassar",
-"ar": "إياد نصار"
-},
-{
-"en": "Mohamed Mamdouh",
-"ar": "محمد ممدوح"
-}
-],
-"correctAnswer": 2,
-"explanation_en": "Iyad Nassar played Hassan El Banna in 'El Gama'a'.",
-"explanation_ar": "إياد نصار مثل شخصية حسن البنا في مسلسل الجماعة."
-},
-{
-"id": "SER-010-027",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian comedy series is famous for the phrase 'Ya doubara'a' and stars Mohamed Heneidy in a folk role?",
-"question_ar": "إيه اسم مسلسل الأنمي الشهير اللي بيتفرج عليه المصريين كل رمضان اسمه بكار؟",
-"options": [
-{
-"en": "Abla Fahita",
-"ar": "عبلة فاهيتا"
-},
-{
-"en": "El Shanfara",
-"ar": "الشنفرى"
-},
-{
-"en": "Bakkar",
-"ar": "بكار"
-},
-{
-"en": "Goha",
-"ar": "جحا"
-}
-],
-"correctAnswer": 2,
-"explanation_en": "'Bakkar' is a beloved Egyptian animated series that airs every Ramadan.",
-"explanation_ar": "بكار مسلسل كرتون مصري محبوب بيتعرض كل رمضان."
-},
-{
-"id": "SER-010-028",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which zombie apocalypse show follows Rick Grimes and his group of survivors?",
-"question_ar": "إيه اسم مسلسل الزومبي اللي بطله ريك جرايمز والناجيين معاه؟",
-"options": [
-{
-"en": "Fear the Walking Dead",
-"ar": "فير ذا ووكينج ديد"
-},
-{
-"en": "The Walking Dead",
-"ar": "ذا ووكينج ديد"
-},
-{
-"en": "iZombie",
-"ar": "آي زومبي"
-},
-{
-"en": "Z Nation",
-"ar": "زد نيشن"
-}
-],
-"correctAnswer": 1,
-"explanation_en": "'The Walking Dead' follows sheriff Rick Grimes surviving a zombie outbreak.",
-"explanation_ar": "ذا ووكينج ديد بيحكي عن الشريف ريك جرايمز وناجين من غزو الزومبي."
-},
-{
-"id": "SER-010-029",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actress starred as the strong-willed 'Sabaya' in many social dramas and is called Egypt's drama queen?",
-"question_ar": "مين ملكة الدراما المصرية اللي مثلت في مسلسلات اجتماعية كتير زي أرزاق يا دنيا؟",
-"options": [
-{
-"en": "Hend Sabry",
-"ar": "هند صبري"
-},
-{
-"en": "Ghada Abdel Razek",
-"ar": "غادة عبد الرازق"
-},
-{
-"en": "Elham Shahin",
-"ar": "إلهام شاهين"
-},
-{
-"en": "Yousra",
-"ar": "يسرا"
-}
-],
-"correctAnswer": 1,
-"explanation_en": "Ghada Abdel Razek is often called the 'Drama Queen' of Egyptian TV.",
-"explanation_ar": "غادة عبد الرازق بتتلقب بملكة الدراما المصرية."
-},
-{
-"id": "SER-010-030",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which show is about superheroes and villains with powers, following Eleven with telekinesis?",
-"question_ar": "مين البطلة اللي عندها قوة تحريك الأشياء بالتفكير في سترينجر ثينجز؟",
-"options": [
-{
-"en": "Max",
-"ar": "ماكس"
-},
-{
-"en": "Robin",
-"ar": "روبن"
-},
-{
-"en": "Nancy",
-"ar": "نانسي"
-},
-{
-"en": "Eleven",
-"ar": "إيليفن"
-}
-],
-"correctAnswer": 3,
-"explanation_en": "Eleven is the telekinetic girl at the center of 'Stranger Things'.",
-"explanation_ar": "إيليفن هي البنت اللي عندها قوة خارقة في المسلسل."
-},
-{
-"id": "SER-010-031",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actor plays lovable troublemaker roles and starred in 'Nesibi w Ma Kasabtou' type comedies?",
-"question_ar": "مين بطل مسلسل نصيبي وقسمتي الكوميدي؟",
-"options": [
-{
-"en": "Karim Mahmoud Abdel Aziz",
-"ar": "كريم محمود عبد العزيز"
-},
-{
-"en": "Ahmed Helmy",
-"ar": "أحمد حلمي"
-},
-{
-"en": "Mohamed Emam",
-"ar": "محمد إمام"
-},
-{
-"en": "Ahmed Fahmy",
-"ar": "أحمد فهمي"
-}
-],
-"correctAnswer": 3,
-"explanation_en": "Ahmed Fahmy starred in the hit comedy 'Nesibi Ya Nesba'.",
-"explanation_ar": "أحمد فهمي بطل مسلسل نصيبي يا نصيبة الكوميدي."
-},
-{
-"id": "SER-010-032",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "What genre best describes 'Suits', about lawyers at a New York firm?",
-"question_ar": "مسلسل سوتس بيحكي عن محامين في مكتب في أنهي مدينة؟",
-"options": [
-{
-"en": "Los Angeles",
-"ar": "لوس أنجلوس"
-},
-{
-"en": "Chicago",
-"ar": "شيكاغو"
-},
-{
-"en": "New York",
-"ar": "نيويورك"
-},
-{
-"en": "Boston",
-"ar": "بوسطن"
-}
-],
-"correctAnswer": 2,
-"explanation_en": "'Suits' is set at a fictional law firm in New York City.",
-"explanation_ar": "سوتس بيدور في مكتب محاماة خيالي في نيويورك."
-},
-{
-"id": "SER-010-033",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actress is known for 'Layali Eugenie' and many social dramas about family struggles?",
-"question_ar": "مين بطلة مسلسل ليالي أوجيني؟",
-"options": [
-{
-"en": "Elham Shahin",
-"ar": "إلهام شاهين"
-},
-{
-"en": "Ghada Abdel Razek",
-"ar": "غادة عبد الرازق"
-},
-{
-"en": "Yousra",
-"ar": "يسرا"
-},
-{
-"en": "Nelly Karim",
-"ar": "نيللي كريم"
-}
-],
-"correctAnswer": 2,
-"explanation_en": "Yousra starred as Eugenie in 'Layali Eugenie'.",
-"explanation_ar": "يسرا مثلت شخصية أوجيني في مسلسل ليالي أوجيني."
-},
-{
-"id": "SER-010-034",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which show follows Wednesday Addams at Nevermore Academy?",
-"question_ar": "إيه اسم مسلسل ونزداي اللي بتدرس في أكاديمية نيفرمور؟",
-"options": [
-{
-"en": "Riverdale",
-"ar": "ريفرديل"
-},
-{
-"en": "The Addams Family",
-"ar": "ذا آدامز فاميلي"
-},
-{
-"en": "Sabrina",
-"ar": "سابرينا"
-},
-{
-"en": "Wednesday",
-"ar": "ونزداي"
-}
-],
-"correctAnswer": 3,
-"explanation_en": "'Wednesday' is the Netflix series about Wednesday Addams at Nevermore Academy.",
-"explanation_ar": "مسلسل ونزداي عن حياتها في أكاديمية نيفرمور."
-},
-{
-"id": "SER-010-035",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actor is known for war-hero roles and starred as a soldier in 'El Ekhteyar 2'?",
-"question_ar": "مين اللي مثل شخصية العقيد أحمد المنسي في الاختيار 2؟",
-"options": [
-{
-"en": "Asser Yassin",
-"ar": "آسر ياسين"
-},
-{
-"en": "Karim Abdel Aziz",
-"ar": "كريم عبد العزيز"
-},
-{
-"en": "Amir Karara",
-"ar": "أمير كرارة"
-},
-{
-"en": "Ahmed El Sakka",
-"ar": "أحمد السقا"
-}
-],
-"correctAnswer": 1,
-"explanation_en": "Karim Abdel Aziz played Colonel Ahmed El Mansy in season 2.",
-"explanation_ar": "كريم عبد العزيز مثل شخصية العقيد أحمد المنسي في الجزء التاني."
-},
-{
-"id": "SER-010-036",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actress is famous for the classic series 'Zizinia' about Alexandria in old times?",
-"question_ar": "مين بطلة مسلسل زيزينيا اللي بيحكي عن إسكندرية زمان؟",
-"options": [
-{
-"en": "Elham Shahin",
-"ar": "إلهام شاهين"
-},
-{
-"en": "Menna Shalaby",
-"ar": "منة شلبي"
-},
-{
-"en": "Yousra",
-"ar": "يسرا"
-},
-{
-"en": "Nelly Karim",
-"ar": "نيللي كريم"
-}
-],
-"correctAnswer": 3,
-"explanation_en": "Nelly Karim starred in 'Zizinia', set in old Alexandria.",
-"explanation_ar": "نيللي كريم بطلة مسلسل زيزينيا اللي بيحكي عن إسكندرية زمان."
-},
-{
-"id": "SER-010-037",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "In 'Breaking Bad', what is the nickname Walter White adopts as a drug maker?",
-"question_ar": "إيه الاسم المستعار اللي بياخده والتر وايت وهو بيصنع المخدرات؟",
-"options": [
-{
-"en": "The Cook",
-"ar": "ذا كوك"
-},
-{
-"en": "Blue Sky",
-"ar": "بلو سكاي"
-},
-{
-"en": "El Chapo",
-"ar": "الشابو"
-},
-{
-"en": "Heisenberg",
-"ar": "هايزنبيرج"
-}
-],
-"correctAnswer": 3,
-"explanation_en": "Walter White uses the alias 'Heisenberg'.",
-"explanation_ar": "والتر وايت بياخد اسم هايزنبيرج المستعار."
-},
-{
-"id": "SER-010-038",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actor is known as 'El Za'eem' and starred in many hit comedies since the 1990s?",
-"question_ar": "مين الممثل المصري الملقب بالزعيم؟",
-"options": [
-{
-"en": "Adel Emam",
-"ar": "عادل إمام"
-},
-{
-"en": "Mahmoud Abdel Aziz",
-"ar": "محمود عبد العزيز"
-},
-{
-"en": "Nour El Sherif",
-"ar": "نور الشريف"
-},
-{
-"en": "Yehia El Fakharany",
-"ar": "يحيى الفخراني"
-}
-],
-"correctAnswer": 0,
-"explanation_en": "Adel Emam is famously nicknamed 'El Za'eem' (The Leader).",
-"explanation_ar": "عادل إمام ملقب بالزعيم."
-},
-{
-"id": "SER-010-039",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which drama follows Queen Elizabeth II's reign in the UK?",
-"question_ar": "إيه اسم المسلسل اللي بيحكي عن حكم الملكة إليزابيث التانية؟",
-"options": [
-{
-"en": "Victoria",
-"ar": "فيكتوريا"
-},
-{
-"en": "Downton Abbey",
-"ar": "داونتون آبي"
-},
-{
-"en": "The Crown",
-"ar": "ذا كراون"
-},
-{
-"en": "Bridgerton",
-"ar": "بريدجرتون"
-}
-],
-"correctAnswer": 2,
-"explanation_en": "'The Crown' dramatizes the reign of Queen Elizabeth II.",
-"explanation_ar": "ذا كراون بيحكي عن فترة حكم الملكة إليزابيث التانية."
-},
-{
-"id": "SER-010-040",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actress played the iconic role in 'El Haram' era classics and 'Emraa Ala Waraq'?",
-"question_ar": "مين ممثلة مصرية كبيرة اتشهرت في أدوار اجتماعية درامية قوية من زمان؟",
-"options": [
-{
-"en": "Soad Hosny",
-"ar": "سعاد حسني"
-},
-{
-"en": "Shadia",
-"ar": "شادية"
-},
-{
-"en": "Faten Hamama",
-"ar": "فاتن حمامة"
-},
-{
-"en": "Magda",
-"ar": "ماجدة"
-}
-],
-"correctAnswer": 2,
-"explanation_en": "Faten Hamama is one of the most iconic Egyptian actresses in drama.",
-"explanation_ar": "فاتن حمامة من أشهر الممثلات المصريات في الدراما."
-},
-{
-"id": "SER-010-041",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which show is about a chess prodigy named Beth Harmon?",
-"question_ar": "إيه اسم المسلسل عن عبقرية الشطرنج بيث هارمون؟",
-"options": [
-{
-"en": "The Queen's Gambit",
-"ar": "ذا كوينز جامبت"
-},
-{
-"en": "Bridgerton",
-"ar": "بريدجرتون"
-},
-{
-"en": "You",
-"ar": "يو"
-},
-{
-"en": "Emily in Paris",
-"ar": "إيميلي إن باريس"
-}
-],
-"correctAnswer": 0,
-"explanation_en": "'The Queen's Gambit' follows Beth Harmon's rise in chess.",
-"explanation_ar": "ذا كوينز جامبت بيحكي عن صعود بيث هارمون في الشطرنج."
-},
-{
-"id": "SER-010-042",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actor and actress duo is famous for the folk comedy series 'Al Sarhan'?",
-"question_ar": "إيه اسم البطل في مسلسل السرحان الكوميدي مع الفنانة شيرين رضا؟",
-"options": [
-{
-"en": "Ahmed Helmy",
-"ar": "أحمد حلمي"
-},
-{
-"en": "Karim Abdel Aziz",
-"ar": "كريم عبد العزيز"
-},
-{
-"en": "Khaled El Sawy",
-"ar": "خالد الصاوي"
-},
-{
-"en": "Amr Youssef",
-"ar": "عمرو يوسف"
-}
-],
-"correctAnswer": 2,
-"explanation_en": "Khaled El Sawy starred in the popular comedy series 'Al Sarhan'.",
-"explanation_ar": "خالد الصاوي بطل مسلسل السرحان الكوميدي."
-},
-{
-"id": "SER-010-043",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "What is the name of the show about a serial killer who only kills other killers?",
-"question_ar": "إيه اسم المسلسل عن قاتل متسلسل بيقتل بس القتلة التانيين؟",
-"options": [
-{
-"en": "Dexter",
-"ar": "دكستر"
-},
-{
-"en": "Hannibal",
-"ar": "هانيبال"
-},
-{
-"en": "Mindhunter",
-"ar": "مايند هنتر"
-},
-{
-"en": "You",
-"ar": "يو"
-}
-],
-"correctAnswer": 0,
-"explanation_en": "'Dexter' follows a forensic analyst who secretly kills killers.",
-"explanation_ar": "دكستر بيحكي عن محلل جنائي بيقتل القتلة سرًا."
-},
-{
-"id": "SER-010-044",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actress is famous for portraying strong mother roles in 'Ded El Nesyan' and social dramas?",
-"question_ar": "مين ممثلة مصرية كبيرة السن اشتهرت بأدوار الأم في الدراما المصرية؟",
-"options": [
-{
-"en": "Ferdous Abdel Hamid",
-"ar": "فردوس عبد الحميد"
-},
-{
-"en": "Lebleba",
-"ar": "لبلبة"
-},
-{
-"en": "Sanaa Younes",
-"ar": "سناء يونس"
-},
-{
-"en": "Salwa Mohamed Ali",
-"ar": "سلوى محمد علي"
-}
-],
-"correctAnswer": 0,
-"explanation_en": "Ferdous Abdel Hamid is well known for strong maternal roles.",
-"explanation_ar": "فردوس عبد الحميد اشتهرت بأدوار الأم القوية."
-},
-{
-"id": "SER-010-045",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which sitcom is set at a bar in Boston called Cheers?",
-"question_ar": "إيه اسم المسلسل الكوميدي القديم اللي بيدور في بار اسمه تشيرز؟",
-"options": [
-{
-"en": "Frasier",
-"ar": "فريجر"
-},
-{
-"en": "Cheers",
-"ar": "تشيرز"
-},
-{
-"en": "Friends",
-"ar": "فريندز"
-},
-{
-"en": "Seinfeld",
-"ar": "ساينفيلد"
-}
-],
-"correctAnswer": 1,
-"explanation_en": "'Cheers' is set entirely at the Boston bar of the same name.",
-"explanation_ar": "تشيرز بيدور بالكامل في بار بنفس الاسم في بوسطن."
-},
-{
-"id": "SER-010-046",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actor stars alongside Yasmine Abdel Aziz in many hit comedies and is known for 'Zombie' movie too?",
-"question_ar": "مين زوج ياسمين عبد العزيز اللي بيمثل معاها مسلسلات كوميدية كتير؟",
-"options": [
-{
-"en": "Karim Fahmy",
-"ar": "كريم فهمي"
-},
-{
-"en": "Ahmed El Fishawy",
-"ar": "أحمد الفيشاوي"
-},
-{
-"en": "Ahmed Fahmy",
-"ar": "أحمد فهمي"
-},
-{
-"en": "Ahmed Dawoud",
-"ar": "أحمد داود"
-}
-],
-"correctAnswer": 1,
-"explanation_en": "Ahmed El Fishawy is married to Yasmine Abdel Aziz and co-stars with her.",
-"explanation_ar": "أحمد الفيشاوي جوز ياسمين عبد العزيز وبيمثلوا مع بعض."
-},
-{
-"id": "SER-010-047",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which show follows a group of Colombian drug lord Pablo Escobar's story?",
-"question_ar": "إيه اسم المسلسل عن تاجر المخدرات الكولومبي بابلو إسكوبار؟",
-"options": [
-{
-"en": "El Chapo",
-"ar": "إل شابو"
-},
-{
-"en": "Narcos",
-"ar": "نارکوس"
-},
-{
-"en": "Snowfall",
-"ar": "سنو فول"
-},
-{
-"en": "Griselda",
-"ar": "جريزيلدا"
-}
-],
-"correctAnswer": 1,
-"explanation_en": "'Narcos' tells the story of Pablo Escobar's cartel.",
-"explanation_ar": "نارکوس بيحكي قصة عصابة بابلو إسكوبار."
-},
-{
-"id": "SER-010-048",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actor played the lead police officer in the hit series 'El Prince'?",
-"question_ar": "مين بطل مسلسل البرنس؟",
-"options": [
-{
-"en": "Mohamed Ramadan",
-"ar": "محمد رمضان"
-},
-{
-"en": "Karim Abdel Aziz",
-"ar": "كريم عبد العزيز"
-},
-{
-"en": "Ahmed El Sakka",
-"ar": "أحمد السقا"
-},
-{
-"en": "Amir Karara",
-"ar": "أمير كرارة"
-}
-],
-"correctAnswer": 0,
-"explanation_en": "Mohamed Ramadan starred in 'El Prince'.",
-"explanation_ar": "محمد رمضان بطل مسلسل البرنس."
-},
-{
-"id": "SER-010-049",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which show is about high schoolers at a Spanish elite school dealing with murder and secrets?",
-"question_ar": "إيه اسم المسلسل الإسباني عن طلبة مدرسة نخبة وسط أسرار وجرائم؟",
-"options": [
-{
-"en": "Elite",
-"ar": "إيليت"
-},
-{
-"en": "Who Killed Sara",
-"ar": "هو قتل سارة"
-},
-{
-"en": "Money Heist",
-"ar": "لعبة النقود"
-},
-{
-"en": "Dark Desire",
-"ar": "دارك ديزاير"
-}
-],
-"correctAnswer": 0,
-"explanation_en": "'Elite' follows students at a prestigious Spanish school amid a murder mystery.",
-"explanation_ar": "إيليت بيحكي عن طلبة مدرسة نخبة إسبانية وسط لغز جريمة قتل."
-},
-{
-"id": "SER-010-050",
-"category": "Series",
-"category_ar": "مسلسلات",
-"value": 10,
-"difficulty": 1,
-"question_en": "Which Egyptian actress starred in the hit historical series 'Malika El Gamal' (Queen Farida)?",
-"question_ar": "مين اللي مثلت دور الملكة فريدة في مسلسل تاريخي؟",
-"options": [
-{
-"en": "Yousra",
-"ar": "يسرا"
-},
-{
-"en": "Hend Sabry",
-"ar": "هند صبري"
-},
-{
-"en": "Nelly Karim",
-"ar": "نيللي كريم"
-},
-{
-"en": "Menna Shalaby",
-"ar": "منة شلبي"
-}
-],
-"correctAnswer": 3,
-"explanation_en": "Menna Shalaby played Queen Farida in a historical drama.",
-"explanation_ar": "منة شلبي مثلت شخصية الملكة فريدة في مسلسل تاريخي."
-}
+  {
+    "id": "SER-010-001",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Who plays Ross in the show 'Friends'?",
+    "question_ar": "مين اللي بيمثل شخصية روس في مسلسل فريندز؟",
+    "options": [
+      {
+        "en": "Matt LeBlanc",
+        "ar": "مات لوبلانك"
+      },
+      {
+        "en": "Matthew Perry",
+        "ar": "ماثيو بيري"
+      },
+      {
+        "en": "David Schwimmer",
+        "ar": "ديفيد شويمر"
+      },
+      {
+        "en": "Chandler Bing",
+        "ar": "تشاندلر بينج"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "David Schwimmer played the paleontologist Ross Geller.",
+    "explanation_ar": "ديفيد شويمر كان بيمثل شخصية روس چيلر."
+  },
+  {
+    "id": "SER-010-002",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actor starred as 'El Ekhteyar' hero?",
+    "question_ar": "مين اللي مثل بطل مسلسل الاختيار؟",
+    "options": [
+      {
+        "en": "Amr Youssef",
+        "ar": "عمرو يوسف"
+      },
+      {
+        "en": "Ahmed El Sakka",
+        "ar": "أحمد السقا"
+      },
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبد العزيز"
+      },
+      {
+        "en": "Amir Karara",
+        "ar": "أمير كرارة"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Amir Karara played the lead role of the officer in 'El Ekhteyar'.",
+    "explanation_ar": "أمير كرارة مثل دور الضابط البطل في مسلسل الاختيار."
+  },
+  {
+    "id": "SER-010-003",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the name of the crime show set in a house of paper thieves in Spain?",
+    "question_ar": "إيه اسم المسلسل الإسباني عن سرقة دار سك العملة؟",
+    "options": [
+      {
+        "en": "Narcos",
+        "ar": "نارکوس"
+      },
+      {
+        "en": "Elite",
+        "ar": "إيليت"
+      },
+      {
+        "en": "Dark",
+        "ar": "دارك"
+      },
+      {
+        "en": "Money Heist",
+        "ar": "لعبة النقود / La Casa de Papel"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "'Money Heist' (La Casa de Papel) follows a group robbing the Royal Mint of Spain.",
+    "explanation_ar": "لعبة النقود بتحكي عن عصابة بتسرق دار سك العملة في إسبانيا."
+  },
+  {
+    "id": "SER-010-004",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which streaming platform produced 'Stranger Things'?",
+    "question_ar": "إيه المنصة اللي أنتجت مسلسل سترينجر ثينجز؟",
+    "options": [
+      {
+        "en": "Amazon Prime",
+        "ar": "أمازون برايم"
+      },
+      {
+        "en": "Disney+",
+        "ar": "ديزني بلس"
+      },
+      {
+        "en": "HBO",
+        "ar": "إتش بي أو"
+      },
+      {
+        "en": "Netflix",
+        "ar": "نتفليكس"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "'Stranger Things' is a Netflix original series.",
+    "explanation_ar": "مسلسل سترينجر ثينجز إنتاج نتفليكس."
+  },
+  {
+    "id": "SER-010-005",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which actress played 'Fatma' in 'Faten Amal Harby'?",
+    "question_ar": "مين اللي مثلت دور فاتن في مسلسل فاتن أمل حربي؟",
+    "options": [
+      {
+        "en": "Nelly Karim",
+        "ar": "نيللي كريم"
+      },
+      {
+        "en": "Mona Zaki",
+        "ar": "منى زكي"
+      },
+      {
+        "en": "Yousra",
+        "ar": "يسرا"
+      },
+      {
+        "en": "Ghada Abdel Razek",
+        "ar": "غادة عبد الرازق"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Nelly Karim played the title role of Faten Amal Harby.",
+    "explanation_ar": "نيللي كريم مثلت شخصية فاتن أمل حربي."
+  },
+  {
+    "id": "SER-010-006",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What crime drama follows a chemistry teacher who makes drugs?",
+    "question_ar": "إيه اسم المسلسل اللي بطله مدرس كيمياء بيصنع مخدرات؟",
+    "options": [
+      {
+        "en": "Breaking Bad",
+        "ar": "بريكينج باد"
+      },
+      {
+        "en": "Ozark",
+        "ar": "أوزارك"
+      },
+      {
+        "en": "Dexter",
+        "ar": "دكستر"
+      },
+      {
+        "en": "Narcos",
+        "ar": "نارکوس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "'Breaking Bad' stars Bryan Cranston as Walter White, a teacher turned drug maker.",
+    "explanation_ar": "بريكينج باد بطولة برايان كرانستون في دور والتر وايت."
+  },
+  {
+    "id": "SER-010-007",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian series is set during the 1973 war and follows officer Ahmed?",
+    "question_ar": "إيه اسم المسلسل اللي بيحكي عن حرب 73 وبطله ضابط اسمه أحمد؟",
+    "options": [
+      {
+        "en": "Grand Hotel",
+        "ar": "جراند أوتيل"
+      },
+      {
+        "en": "El Gama'a",
+        "ar": "الجماعة"
+      },
+      {
+        "en": "El Ekhteyar",
+        "ar": "الاختيار"
+      },
+      {
+        "en": "Haga Gamda",
+        "ar": "حاجة غريبة"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "'El Ekhteyar' is a landmark series honoring army heroes, including the 1973 war.",
+    "explanation_ar": "مسلسل الاختيار بيتكلم عن أبطال الجيش المصري ومنهم حرب 73."
+  },
+  {
+    "id": "SER-010-008",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "In 'Friends', what is the name of the coffee shop the friends hang out at?",
+    "question_ar": "إيه اسم الكافيه اللي بيتقابلوا فيه الأصحاب في مسلسل فريندز؟",
+    "options": [
+      {
+        "en": "The Peach Pit",
+        "ar": "ذا بيتش بيت"
+      },
+      {
+        "en": "MacLaren's",
+        "ar": "ماكلارينز"
+      },
+      {
+        "en": "Central Perk",
+        "ar": "سنترال بيرك"
+      },
+      {
+        "en": "Monk's Cafe",
+        "ar": "مونكس كافيه"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Central Perk is the iconic coffee shop in 'Friends'.",
+    "explanation_ar": "سنترال بيرك هو الكافيه الشهير في مسلسل فريندز."
+  },
+  {
+    "id": "SER-010-009",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actor is famous for playing Sheikh Hassouna in Ramadan comedies?",
+    "question_ar": "مين الممثل المصري المشهور بدور الشيخ حسونة في مسلسلات رمضان؟",
+    "options": [
+      {
+        "en": "Ahmed Zaki",
+        "ar": "أحمد زكي"
+      },
+      {
+        "en": "Samir Ghanem",
+        "ar": "سمير غانم"
+      },
+      {
+        "en": "Yehia El Fakharany",
+        "ar": "يحيى الفخراني"
+      },
+      {
+        "en": "Adel Emam",
+        "ar": "عادل إمام"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Samir Ghanem was well known for comedic Ramadan roles.",
+    "explanation_ar": "سمير غانم كان مشهور بأدوار كوميدية في مسلسلات رمضان."
+  },
+  {
+    "id": "SER-010-010",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the deadly children's game series from South Korea called?",
+    "question_ar": "إيه اسم المسلسل الكوري عن ألعاب الأطفال القاتلة؟",
+    "options": [
+      {
+        "en": "Kingdom",
+        "ar": "كينجدوم"
+      },
+      {
+        "en": "Hellbound",
+        "ar": "هيل باوند"
+      },
+      {
+        "en": "Squid Game",
+        "ar": "سكويد جيم"
+      },
+      {
+        "en": "All of Us Are Dead",
+        "ar": "أول أوف أس آر ديد"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "'Squid Game' became a global Netflix phenomenon in 2021.",
+    "explanation_ar": "سكويد جيم بقى ظاهرة عالمية على نتفليكس سنة 2021."
+  },
+  {
+    "id": "SER-010-011",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which actress played 'Ola' in the famous series 'Grand Hotel'?",
+    "question_ar": "مين اللي مثلت دور علا في مسلسل جراند أوتيل؟",
+    "options": [
+      {
+        "en": "Dorra",
+        "ar": "درة"
+      },
+      {
+        "en": "Yasmine Abdel Aziz",
+        "ar": "ياسمين عبد العزيز"
+      },
+      {
+        "en": "Menna Shalaby",
+        "ar": "منة شلبي"
+      },
+      {
+        "en": "Hend Sabry",
+        "ar": "هند صبري"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Hend Sabry starred as Ola in 'Grand Hotel'.",
+    "explanation_ar": "هند صبري مثلت دور علا في جراند أوتيل."
+  },
+  {
+    "id": "SER-010-012",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which show features dragons and the fight for the Iron Throne?",
+    "question_ar": "إيه المسلسل اللي فيه تنانين وصراع على العرش الحديدي؟",
+    "options": [
+      {
+        "en": "House of Cards",
+        "ar": "هاوس أوف كاردز"
+      },
+      {
+        "en": "The Witcher",
+        "ar": "ذا ويتشر"
+      },
+      {
+        "en": "Game of Thrones",
+        "ar": "جيم أوف ثرونز"
+      },
+      {
+        "en": "Vikings",
+        "ar": "فايكنجز"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "'Game of Thrones' revolves around noble houses fighting for the Iron Throne.",
+    "explanation_ar": "جيم أوف ثرونز بيدور حول صراع البيوت النبيلة على العرش الحديدي."
+  },
+  {
+    "id": "SER-010-013",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actor played the legendary spy 'Raafat El Hagan'?",
+    "question_ar": "مين اللي مثل شخصية الجاسوس رأفت الهجان؟",
+    "options": [
+      {
+        "en": "Mahmoud Abdel Aziz",
+        "ar": "محمود عبد العزيز"
+      },
+      {
+        "en": "Nour El Sherif",
+        "ar": "نور الشريف"
+      },
+      {
+        "en": "Adel Emam",
+        "ar": "عادل إمام"
+      },
+      {
+        "en": "Ahmed Zaki",
+        "ar": "أحمد زكي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mahmoud Abdel Aziz became iconic playing spy Raafat El Hagan.",
+    "explanation_ar": "محمود عبد العزيز بقى أيقونة بدوره كجاسوس رأفت الهجان."
+  },
+  {
+    "id": "SER-010-014",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "In 'How I Met Your Mother', who is the main narrator telling the story?",
+    "question_ar": "في مسلسل هاو آي ميت يور مازر، مين اللي بيحكي القصة؟",
+    "options": [
+      {
+        "en": "Ted's son",
+        "ar": "ابن تيد"
+      },
+      {
+        "en": "Marshall",
+        "ar": "مارشال"
+      },
+      {
+        "en": "Ted",
+        "ar": "تيد"
+      },
+      {
+        "en": "Barney",
+        "ar": "بارني"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Ted Mosby narrates the story of how he met the mother of his kids.",
+    "explanation_ar": "تيد موزبي هو اللي بيحكي قصة إزاي قابل أم ولاده."
+  },
+  {
+    "id": "SER-010-015",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actress is famous for 'Abu El Arousa' role as a father worried about his daughter's wedding?",
+    "question_ar": "مين الممثل اللي عمل دور أبو العروسة القلقان على جواز بنته؟",
+    "options": [
+      {
+        "en": "Ahmed Helmy",
+        "ar": "أحمد حلمي"
+      },
+      {
+        "en": "Yehia El Fakharany",
+        "ar": "يحيى الفخراني"
+      },
+      {
+        "en": "Samir Ghanem",
+        "ar": "سمير غانم"
+      },
+      {
+        "en": "Khaled El Sawy",
+        "ar": "خالد الصاوي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Yehia El Fakharany starred in the classic 'Abu El Arousa' series.",
+    "explanation_ar": "يحيى الفخراني بطل مسلسل أبو العروسة الكلاسيكي."
+  },
+  {
+    "id": "SER-010-016",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which British crime drama is set among a gangster family in Birmingham with flat caps?",
+    "question_ar": "إيه اسم المسلسل البريطاني عن عيلة عصابات في برمنجهام لابسين كابات مسطحة؟",
+    "options": [
+      {
+        "en": "Peaky Blinders",
+        "ar": "بيكي بلايندرز"
+      },
+      {
+        "en": "Sherlock",
+        "ar": "شيرلوك"
+      },
+      {
+        "en": "Downton Abbey",
+        "ar": "داونتون آبي"
+      },
+      {
+        "en": "The Crown",
+        "ar": "ذا كراون"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "'Peaky Blinders' follows the Shelby crime family in Birmingham.",
+    "explanation_ar": "بيكي بلايندرز بيحكي عن عيلة شيلبي في برمنجهام."
+  },
+  {
+    "id": "SER-010-017",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actor is known for playing comic roles alongside his father Samir Ghanem, and also acts solo?",
+    "question_ar": "مين ابن سمير غانم اللي بيمثل أدوار كوميدية؟",
+    "options": [
+      {
+        "en": "Donia Samir Ghanem",
+        "ar": "دنيا سمير غانم"
+      },
+      {
+        "en": "Amr Diab",
+        "ar": "عمرو دياب"
+      },
+      {
+        "en": "Karim Mahmoud Abdel Aziz",
+        "ar": "كريم محمود عبد العزيز"
+      },
+      {
+        "en": "Ahmed Fahmy",
+        "ar": "أحمد فهمي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Donia Samir Ghanem is Samir Ghanem's daughter and a well-known actress.",
+    "explanation_ar": "دنيا سمير غانم بنت سمير غانم وممثلة معروفة."
+  },
+  {
+    "id": "SER-010-018",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the name of the prison-escape show starring Wentworth Miller?",
+    "question_ar": "إيه اسم مسلسل الهروب من السجن بطولة وينتورث ميلر؟",
+    "options": [
+      {
+        "en": "Breaking Bad",
+        "ar": "بريكينج باد"
+      },
+      {
+        "en": "Oz",
+        "ar": "أوز"
+      },
+      {
+        "en": "Prison Break",
+        "ar": "بريزون بريك"
+      },
+      {
+        "en": "Escape at Dannemora",
+        "ar": "إسكيب أت دانيمورا"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "'Prison Break' follows Michael Scofield's plan to break his brother out of prison.",
+    "explanation_ar": "بريزون بريك بيحكي عن خطة مايكل سكوفيلد لتهريب أخوه من السجن."
+  },
+  {
+    "id": "SER-010-019",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actress starred in 'Segn El Nesa' about a women's prison?",
+    "question_ar": "مين اللي مثلت بطولة مسلسل سجن النسا؟",
+    "options": [
+      {
+        "en": "Yousra",
+        "ar": "يسرا"
+      },
+      {
+        "en": "Ghada Abdel Razek",
+        "ar": "غادة عبد الرازق"
+      },
+      {
+        "en": "Nelly Karim",
+        "ar": "نيللي كريم"
+      },
+      {
+        "en": "Elham Shahin",
+        "ar": "إلهام شاهين"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Elham Shahin headlined the ensemble cast of 'Segn El Nesa'.",
+    "explanation_ar": "إلهام شاهين كانت في بطولة مسلسل سجن النسا."
+  },
+  {
+    "id": "SER-010-020",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "In 'The Office' (US), what paper company do the characters work for?",
+    "question_ar": "في مسلسل ذا أوفيس الأمريكي، بيشتغلوا في شركة ورق اسمها إيه؟",
+    "options": [
+      {
+        "en": "Initech",
+        "ar": "إينيتك"
+      },
+      {
+        "en": "Dunder Mifflin",
+        "ar": "داندر ميفلين"
+      },
+      {
+        "en": "Wernham Hogg",
+        "ar": "ويرنهام هوج"
+      },
+      {
+        "en": "Sterling Cooper",
+        "ar": "ستيرلينج كوبر"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The show is set at the Scranton branch of Dunder Mifflin.",
+    "explanation_ar": "المسلسل بيدور في فرع سكرانتون لشركة داندر ميفلين."
+  },
+  {
+    "id": "SER-010-021",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actor is known as the star of many police/action Ramadan series like 'Kalabsh'?",
+    "question_ar": "مين الممثل المصري المعروف بأدوار البوليسي زي مسلسل كلبش؟",
+    "options": [
+      {
+        "en": "Ahmed El Sakka",
+        "ar": "أحمد السقا"
+      },
+      {
+        "en": "Mohamed Ramadan",
+        "ar": "محمد رمضان"
+      },
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبد العزيز"
+      },
+      {
+        "en": "Amir Karara",
+        "ar": "أمير كرارة"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Amir Karara starred as the police officer lead in 'Kalabsh'.",
+    "explanation_ar": "أمير كرارة بطل مسلسل كلبش بدور الضابط."
+  },
+  {
+    "id": "SER-010-022",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the name of the show about supernatural events in a small town called Hawkins, Indiana?",
+    "question_ar": "إيه اسم المسلسل عن أحداث غريبة في بلدة هوكينز الأمريكية؟",
+    "options": [
+      {
+        "en": "The X-Files",
+        "ar": "ذا إكس فايلز"
+      },
+      {
+        "en": "Stranger Things",
+        "ar": "سترينجر ثينجز"
+      },
+      {
+        "en": "Twin Peaks",
+        "ar": "توين بيكس"
+      },
+      {
+        "en": "Dark",
+        "ar": "دارك"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "'Stranger Things' is set in the fictional town of Hawkins, Indiana.",
+    "explanation_ar": "سترينجر ثينجز بتدور أحداثه في بلدة هوكينز الخيالية."
+  },
+  {
+    "id": "SER-010-023",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actress is well known for the drama series 'Taht El Saytara' (Under Control)?",
+    "question_ar": "مين اللي مثلت بطولة مسلسل تحت السيطرة؟",
+    "options": [
+      {
+        "en": "Ghada Abdel Razek",
+        "ar": "غادة عبد الرازق"
+      },
+      {
+        "en": "Yousra",
+        "ar": "يسرا"
+      },
+      {
+        "en": "Nelly Karim",
+        "ar": "نيللي كريم"
+      },
+      {
+        "en": "Elham Shahin",
+        "ar": "إلهام شاهين"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Yousra starred in 'Taht El Saytara'.",
+    "explanation_ar": "يسرا بطلة مسلسل تحت السيطرة."
+  },
+  {
+    "id": "SER-010-024",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actor is famous for playing 'Ali Kamel' style tough guys and starred in 'El Kabeer Awy'?",
+    "question_ar": "مين بطل مسلسل الكبير أوي؟",
+    "options": [
+      {
+        "en": "Adel Emam",
+        "ar": "عادل إمام"
+      },
+      {
+        "en": "Yehia El Fakharany",
+        "ar": "يحيى الفخراني"
+      },
+      {
+        "en": "Ahmed Zaki",
+        "ar": "أحمد زكي"
+      },
+      {
+        "en": "Samir Ghanem",
+        "ar": "سمير غانم"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Adel Emam starred as 'El Kabeer' in the long-running series.",
+    "explanation_ar": "عادل إمام مثل دور الكبير في المسلسل الطويل ده."
+  },
+  {
+    "id": "SER-010-025",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "In 'Money Heist', what color jumpsuits do the robbers wear?",
+    "question_ar": "إيه لون البدل اللي بيلبسها اللصوص في مسلسل لعبة النقود؟",
+    "options": [
+      {
+        "en": "Orange",
+        "ar": "برتقالي"
+      },
+      {
+        "en": "Blue",
+        "ar": "أزرق"
+      },
+      {
+        "en": "Red",
+        "ar": "أحمر"
+      },
+      {
+        "en": "Black",
+        "ar": "أسود"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The robbers wear iconic red jumpsuits with Dali masks.",
+    "explanation_ar": "اللصوص بيلبسوا بدل حمرا مع ماسك دالي الشهير."
+  },
+  {
+    "id": "SER-010-026",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actor plays the lead in the historical series 'El Gama'a' about the Muslim Brotherhood's founder?",
+    "question_ar": "مين اللي مثل دور حسن البنا في مسلسل الجماعة؟",
+    "options": [
+      {
+        "en": "Mohamed Mamdouh",
+        "ar": "محمد ممدوح"
+      },
+      {
+        "en": "Sayed Ragab",
+        "ar": "سيد رجب"
+      },
+      {
+        "en": "Khaled El Sawy",
+        "ar": "خالد الصاوي"
+      },
+      {
+        "en": "Iyad Nassar",
+        "ar": "إياد نصار"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Iyad Nassar played Hassan El Banna in 'El Gama'a'.",
+    "explanation_ar": "إياد نصار مثل شخصية حسن البنا في مسلسل الجماعة."
+  },
+  {
+    "id": "SER-010-027",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian comedy series is famous for the phrase 'Ya doubara'a' and stars Mohamed Heneidy in a folk role?",
+    "question_ar": "إيه اسم مسلسل الأنمي الشهير اللي بيتفرج عليه المصريين كل رمضان اسمه بكار؟",
+    "options": [
+      {
+        "en": "El Shanfara",
+        "ar": "الشنفرى"
+      },
+      {
+        "en": "Bakkar",
+        "ar": "بكار"
+      },
+      {
+        "en": "Goha",
+        "ar": "جحا"
+      },
+      {
+        "en": "Abla Fahita",
+        "ar": "عبلة فاهيتا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "'Bakkar' is a beloved Egyptian animated series that airs every Ramadan.",
+    "explanation_ar": "بكار مسلسل كرتون مصري محبوب بيتعرض كل رمضان."
+  },
+  {
+    "id": "SER-010-028",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which zombie apocalypse show follows Rick Grimes and his group of survivors?",
+    "question_ar": "إيه اسم مسلسل الزومبي اللي بطله ريك جرايمز والناجيين معاه؟",
+    "options": [
+      {
+        "en": "The Walking Dead",
+        "ar": "ذا ووكينج ديد"
+      },
+      {
+        "en": "Z Nation",
+        "ar": "زد نيشن"
+      },
+      {
+        "en": "Fear the Walking Dead",
+        "ar": "فير ذا ووكينج ديد"
+      },
+      {
+        "en": "iZombie",
+        "ar": "آي زومبي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "'The Walking Dead' follows sheriff Rick Grimes surviving a zombie outbreak.",
+    "explanation_ar": "ذا ووكينج ديد بيحكي عن الشريف ريك جرايمز وناجين من غزو الزومبي."
+  },
+  {
+    "id": "SER-010-029",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actress starred as the strong-willed 'Sabaya' in many social dramas and is called Egypt's drama queen?",
+    "question_ar": "مين ملكة الدراما المصرية اللي مثلت في مسلسلات اجتماعية كتير زي أرزاق يا دنيا؟",
+    "options": [
+      {
+        "en": "Hend Sabry",
+        "ar": "هند صبري"
+      },
+      {
+        "en": "Ghada Abdel Razek",
+        "ar": "غادة عبد الرازق"
+      },
+      {
+        "en": "Yousra",
+        "ar": "يسرا"
+      },
+      {
+        "en": "Elham Shahin",
+        "ar": "إلهام شاهين"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Ghada Abdel Razek is often called the 'Drama Queen' of Egyptian TV.",
+    "explanation_ar": "غادة عبد الرازق بتتلقب بملكة الدراما المصرية."
+  },
+  {
+    "id": "SER-010-030",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which show is about superheroes and villains with powers, following Eleven with telekinesis?",
+    "question_ar": "مين البطلة اللي عندها قوة تحريك الأشياء بالتفكير في سترينجر ثينجز؟",
+    "options": [
+      {
+        "en": "Eleven",
+        "ar": "إيليفن"
+      },
+      {
+        "en": "Robin",
+        "ar": "روبن"
+      },
+      {
+        "en": "Nancy",
+        "ar": "نانسي"
+      },
+      {
+        "en": "Max",
+        "ar": "ماكس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Eleven is the telekinetic girl at the center of 'Stranger Things'.",
+    "explanation_ar": "إيليفن هي البنت اللي عندها قوة خارقة في المسلسل."
+  },
+  {
+    "id": "SER-010-031",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actor plays lovable troublemaker roles and starred in 'Nesibi w Ma Kasabtou' type comedies?",
+    "question_ar": "مين بطل مسلسل نصيبي وقسمتي الكوميدي؟",
+    "options": [
+      {
+        "en": "Ahmed Helmy",
+        "ar": "أحمد حلمي"
+      },
+      {
+        "en": "Ahmed Fahmy",
+        "ar": "أحمد فهمي"
+      },
+      {
+        "en": "Karim Mahmoud Abdel Aziz",
+        "ar": "كريم محمود عبد العزيز"
+      },
+      {
+        "en": "Mohamed Emam",
+        "ar": "محمد إمام"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Ahmed Fahmy starred in the hit comedy 'Nesibi Ya Nesba'.",
+    "explanation_ar": "أحمد فهمي بطل مسلسل نصيبي يا نصيبة الكوميدي."
+  },
+  {
+    "id": "SER-010-032",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What genre best describes 'Suits', about lawyers at a New York firm?",
+    "question_ar": "مسلسل سوتس بيحكي عن محامين في مكتب في أنهي مدينة؟",
+    "options": [
+      {
+        "en": "New York",
+        "ar": "نيويورك"
+      },
+      {
+        "en": "Los Angeles",
+        "ar": "لوس أنجلوس"
+      },
+      {
+        "en": "Chicago",
+        "ar": "شيكاغو"
+      },
+      {
+        "en": "Boston",
+        "ar": "بوسطن"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "'Suits' is set at a fictional law firm in New York City.",
+    "explanation_ar": "سوتس بيدور في مكتب محاماة خيالي في نيويورك."
+  },
+  {
+    "id": "SER-010-033",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actress is known for 'Layali Eugenie' and many social dramas about family struggles?",
+    "question_ar": "مين بطلة مسلسل ليالي أوجيني؟",
+    "options": [
+      {
+        "en": "Nelly Karim",
+        "ar": "نيللي كريم"
+      },
+      {
+        "en": "Yousra",
+        "ar": "يسرا"
+      },
+      {
+        "en": "Ghada Abdel Razek",
+        "ar": "غادة عبد الرازق"
+      },
+      {
+        "en": "Elham Shahin",
+        "ar": "إلهام شاهين"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Yousra starred as Eugenie in 'Layali Eugenie'.",
+    "explanation_ar": "يسرا مثلت شخصية أوجيني في مسلسل ليالي أوجيني."
+  },
+  {
+    "id": "SER-010-034",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which show follows Wednesday Addams at Nevermore Academy?",
+    "question_ar": "إيه اسم مسلسل ونزداي اللي بتدرس في أكاديمية نيفرمور؟",
+    "options": [
+      {
+        "en": "Wednesday",
+        "ar": "ونزداي"
+      },
+      {
+        "en": "The Addams Family",
+        "ar": "ذا آدامز فاميلي"
+      },
+      {
+        "en": "Riverdale",
+        "ar": "ريفرديل"
+      },
+      {
+        "en": "Sabrina",
+        "ar": "سابرينا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "'Wednesday' is the Netflix series about Wednesday Addams at Nevermore Academy.",
+    "explanation_ar": "مسلسل ونزداي عن حياتها في أكاديمية نيفرمور."
+  },
+  {
+    "id": "SER-010-035",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actor is known for war-hero roles and starred as a soldier in 'El Ekhteyar 2'?",
+    "question_ar": "مين اللي مثل شخصية العقيد أحمد المنسي في الاختيار 2؟",
+    "options": [
+      {
+        "en": "Asser Yassin",
+        "ar": "آسر ياسين"
+      },
+      {
+        "en": "Amir Karara",
+        "ar": "أمير كرارة"
+      },
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبد العزيز"
+      },
+      {
+        "en": "Ahmed El Sakka",
+        "ar": "أحمد السقا"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Karim Abdel Aziz played Colonel Ahmed El Mansy in season 2.",
+    "explanation_ar": "كريم عبد العزيز مثل شخصية العقيد أحمد المنسي في الجزء التاني."
+  },
+  {
+    "id": "SER-010-036",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actress is famous for the classic series 'Zizinia' about Alexandria in old times?",
+    "question_ar": "مين بطلة مسلسل زيزينيا اللي بيحكي عن إسكندرية زمان؟",
+    "options": [
+      {
+        "en": "Menna Shalaby",
+        "ar": "منة شلبي"
+      },
+      {
+        "en": "Yousra",
+        "ar": "يسرا"
+      },
+      {
+        "en": "Nelly Karim",
+        "ar": "نيللي كريم"
+      },
+      {
+        "en": "Elham Shahin",
+        "ar": "إلهام شاهين"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Nelly Karim starred in 'Zizinia', set in old Alexandria.",
+    "explanation_ar": "نيللي كريم بطلة مسلسل زيزينيا اللي بيحكي عن إسكندرية زمان."
+  },
+  {
+    "id": "SER-010-037",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "In 'Breaking Bad', what is the nickname Walter White adopts as a drug maker?",
+    "question_ar": "إيه الاسم المستعار اللي بياخده والتر وايت وهو بيصنع المخدرات؟",
+    "options": [
+      {
+        "en": "Blue Sky",
+        "ar": "بلو سكاي"
+      },
+      {
+        "en": "El Chapo",
+        "ar": "الشابو"
+      },
+      {
+        "en": "The Cook",
+        "ar": "ذا كوك"
+      },
+      {
+        "en": "Heisenberg",
+        "ar": "هايزنبيرج"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Walter White uses the alias 'Heisenberg'.",
+    "explanation_ar": "والتر وايت بياخد اسم هايزنبيرج المستعار."
+  },
+  {
+    "id": "SER-010-038",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actor is known as 'El Za'eem' and starred in many hit comedies since the 1990s?",
+    "question_ar": "مين الممثل المصري الملقب بالزعيم؟",
+    "options": [
+      {
+        "en": "Nour El Sherif",
+        "ar": "نور الشريف"
+      },
+      {
+        "en": "Yehia El Fakharany",
+        "ar": "يحيى الفخراني"
+      },
+      {
+        "en": "Mahmoud Abdel Aziz",
+        "ar": "محمود عبد العزيز"
+      },
+      {
+        "en": "Adel Emam",
+        "ar": "عادل إمام"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Adel Emam is famously nicknamed 'El Za'eem' (The Leader).",
+    "explanation_ar": "عادل إمام ملقب بالزعيم."
+  },
+  {
+    "id": "SER-010-039",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which drama follows Queen Elizabeth II's reign in the UK?",
+    "question_ar": "إيه اسم المسلسل اللي بيحكي عن حكم الملكة إليزابيث التانية؟",
+    "options": [
+      {
+        "en": "Bridgerton",
+        "ar": "بريدجرتون"
+      },
+      {
+        "en": "Victoria",
+        "ar": "فيكتوريا"
+      },
+      {
+        "en": "Downton Abbey",
+        "ar": "داونتون آبي"
+      },
+      {
+        "en": "The Crown",
+        "ar": "ذا كراون"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "'The Crown' dramatizes the reign of Queen Elizabeth II.",
+    "explanation_ar": "ذا كراون بيحكي عن فترة حكم الملكة إليزابيث التانية."
+  },
+  {
+    "id": "SER-010-040",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actress played the iconic role in 'El Haram' era classics and 'Emraa Ala Waraq'?",
+    "question_ar": "مين ممثلة مصرية كبيرة اتشهرت في أدوار اجتماعية درامية قوية من زمان؟",
+    "options": [
+      {
+        "en": "Soad Hosny",
+        "ar": "سعاد حسني"
+      },
+      {
+        "en": "Magda",
+        "ar": "ماجدة"
+      },
+      {
+        "en": "Faten Hamama",
+        "ar": "فاتن حمامة"
+      },
+      {
+        "en": "Shadia",
+        "ar": "شادية"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Faten Hamama is one of the most iconic Egyptian actresses in drama.",
+    "explanation_ar": "فاتن حمامة من أشهر الممثلات المصريات في الدراما."
+  },
+  {
+    "id": "SER-010-041",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which show is about a chess prodigy named Beth Harmon?",
+    "question_ar": "إيه اسم المسلسل عن عبقرية الشطرنج بيث هارمون؟",
+    "options": [
+      {
+        "en": "The Queen's Gambit",
+        "ar": "ذا كوينز جامبت"
+      },
+      {
+        "en": "You",
+        "ar": "يو"
+      },
+      {
+        "en": "Emily in Paris",
+        "ar": "إيميلي إن باريس"
+      },
+      {
+        "en": "Bridgerton",
+        "ar": "بريدجرتون"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "'The Queen's Gambit' follows Beth Harmon's rise in chess.",
+    "explanation_ar": "ذا كوينز جامبت بيحكي عن صعود بيث هارمون في الشطرنج."
+  },
+  {
+    "id": "SER-010-042",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actor and actress duo is famous for the folk comedy series 'Al Sarhan'?",
+    "question_ar": "إيه اسم البطل في مسلسل السرحان الكوميدي مع الفنانة شيرين رضا؟",
+    "options": [
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبد العزيز"
+      },
+      {
+        "en": "Amr Youssef",
+        "ar": "عمرو يوسف"
+      },
+      {
+        "en": "Khaled El Sawy",
+        "ar": "خالد الصاوي"
+      },
+      {
+        "en": "Ahmed Helmy",
+        "ar": "أحمد حلمي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Khaled El Sawy starred in the popular comedy series 'Al Sarhan'.",
+    "explanation_ar": "خالد الصاوي بطل مسلسل السرحان الكوميدي."
+  },
+  {
+    "id": "SER-010-043",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "What is the name of the show about a serial killer who only kills other killers?",
+    "question_ar": "إيه اسم المسلسل عن قاتل متسلسل بيقتل بس القتلة التانيين؟",
+    "options": [
+      {
+        "en": "You",
+        "ar": "يو"
+      },
+      {
+        "en": "Hannibal",
+        "ar": "هانيبال"
+      },
+      {
+        "en": "Mindhunter",
+        "ar": "مايند هنتر"
+      },
+      {
+        "en": "Dexter",
+        "ar": "دكستر"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "'Dexter' follows a forensic analyst who secretly kills killers.",
+    "explanation_ar": "دكستر بيحكي عن محلل جنائي بيقتل القتلة سرًا."
+  },
+  {
+    "id": "SER-010-044",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actress is famous for portraying strong mother roles in 'Ded El Nesyan' and social dramas?",
+    "question_ar": "مين ممثلة مصرية كبيرة السن اشتهرت بأدوار الأم في الدراما المصرية؟",
+    "options": [
+      {
+        "en": "Lebleba",
+        "ar": "لبلبة"
+      },
+      {
+        "en": "Salwa Mohamed Ali",
+        "ar": "سلوى محمد علي"
+      },
+      {
+        "en": "Sanaa Younes",
+        "ar": "سناء يونس"
+      },
+      {
+        "en": "Ferdous Abdel Hamid",
+        "ar": "فردوس عبد الحميد"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Ferdous Abdel Hamid is well known for strong maternal roles.",
+    "explanation_ar": "فردوس عبد الحميد اشتهرت بأدوار الأم القوية."
+  },
+  {
+    "id": "SER-010-045",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which sitcom is set at a bar in Boston called Cheers?",
+    "question_ar": "إيه اسم المسلسل الكوميدي القديم اللي بيدور في بار اسمه تشيرز؟",
+    "options": [
+      {
+        "en": "Friends",
+        "ar": "فريندز"
+      },
+      {
+        "en": "Seinfeld",
+        "ar": "ساينفيلد"
+      },
+      {
+        "en": "Frasier",
+        "ar": "فريجر"
+      },
+      {
+        "en": "Cheers",
+        "ar": "تشيرز"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "'Cheers' is set entirely at the Boston bar of the same name.",
+    "explanation_ar": "تشيرز بيدور بالكامل في بار بنفس الاسم في بوسطن."
+  },
+  {
+    "id": "SER-010-046",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actor stars alongside Yasmine Abdel Aziz in many hit comedies and is known for 'Zombie' movie too?",
+    "question_ar": "مين زوج ياسمين عبد العزيز اللي بيمثل معاها مسلسلات كوميدية كتير؟",
+    "options": [
+      {
+        "en": "Ahmed Fahmy",
+        "ar": "أحمد فهمي"
+      },
+      {
+        "en": "Ahmed El Fishawy",
+        "ar": "أحمد الفيشاوي"
+      },
+      {
+        "en": "Ahmed Dawoud",
+        "ar": "أحمد داود"
+      },
+      {
+        "en": "Karim Fahmy",
+        "ar": "كريم فهمي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Ahmed El Fishawy is married to Yasmine Abdel Aziz and co-stars with her.",
+    "explanation_ar": "أحمد الفيشاوي جوز ياسمين عبد العزيز وبيمثلوا مع بعض."
+  },
+  {
+    "id": "SER-010-047",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which show follows a group of Colombian drug lord Pablo Escobar's story?",
+    "question_ar": "إيه اسم المسلسل عن تاجر المخدرات الكولومبي بابلو إسكوبار؟",
+    "options": [
+      {
+        "en": "El Chapo",
+        "ar": "إل شابو"
+      },
+      {
+        "en": "Griselda",
+        "ar": "جريزيلدا"
+      },
+      {
+        "en": "Narcos",
+        "ar": "نارکوس"
+      },
+      {
+        "en": "Snowfall",
+        "ar": "سنو فول"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "'Narcos' tells the story of Pablo Escobar's cartel.",
+    "explanation_ar": "نارکوس بيحكي قصة عصابة بابلو إسكوبار."
+  },
+  {
+    "id": "SER-010-048",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actor played the lead police officer in the hit series 'El Prince'?",
+    "question_ar": "مين بطل مسلسل البرنس؟",
+    "options": [
+      {
+        "en": "Karim Abdel Aziz",
+        "ar": "كريم عبد العزيز"
+      },
+      {
+        "en": "Mohamed Ramadan",
+        "ar": "محمد رمضان"
+      },
+      {
+        "en": "Amir Karara",
+        "ar": "أمير كرارة"
+      },
+      {
+        "en": "Ahmed El Sakka",
+        "ar": "أحمد السقا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Mohamed Ramadan starred in 'El Prince'.",
+    "explanation_ar": "محمد رمضان بطل مسلسل البرنس."
+  },
+  {
+    "id": "SER-010-049",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which show is about high schoolers at a Spanish elite school dealing with murder and secrets?",
+    "question_ar": "إيه اسم المسلسل الإسباني عن طلبة مدرسة نخبة وسط أسرار وجرائم؟",
+    "options": [
+      {
+        "en": "Who Killed Sara",
+        "ar": "هو قتل سارة"
+      },
+      {
+        "en": "Money Heist",
+        "ar": "لعبة النقود"
+      },
+      {
+        "en": "Elite",
+        "ar": "إيليت"
+      },
+      {
+        "en": "Dark Desire",
+        "ar": "دارك ديزاير"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "'Elite' follows students at a prestigious Spanish school amid a murder mystery.",
+    "explanation_ar": "إيليت بيحكي عن طلبة مدرسة نخبة إسبانية وسط لغز جريمة قتل."
+  },
+  {
+    "id": "SER-010-050",
+    "category": "Series",
+    "category_ar": "مسلسلات",
+    "value": 10,
+    "difficulty": 1,
+    "question_en": "Which Egyptian actress starred in the hit historical series 'Malika El Gamal' (Queen Farida)?",
+    "question_ar": "مين اللي مثلت دور الملكة فريدة في مسلسل تاريخي؟",
+    "options": [
+      {
+        "en": "Nelly Karim",
+        "ar": "نيللي كريم"
+      },
+      {
+        "en": "Menna Shalaby",
+        "ar": "منة شلبي"
+      },
+      {
+        "en": "Yousra",
+        "ar": "يسرا"
+      },
+      {
+        "en": "Hend Sabry",
+        "ar": "هند صبري"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Menna Shalaby played Queen Farida in a historical drama.",
+    "explanation_ar": "منة شلبي مثلت شخصية الملكة فريدة في مسلسل تاريخي."
+  }
 ]

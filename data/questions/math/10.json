@@ -9,23 +9,23 @@
     "question_ar": "5 + 7 بكام؟",
     "options": [
       {
-        "en": "12",
-        "ar": "12"
-      },
-      {
-        "en": "10",
-        "ar": "10"
-      },
-      {
         "en": "13",
         "ar": "13"
       },
       {
         "en": "11",
         "ar": "11"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "10",
+        "ar": "10"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "5 + 7 = 12.",
     "explanation_ar": "5 + 7 = 12."
   },
@@ -39,23 +39,23 @@
     "question_ar": "9 + 6 بكام؟",
     "options": [
       {
-        "en": "14",
-        "ar": "14"
-      },
-      {
-        "en": "16",
-        "ar": "16"
-      },
-      {
         "en": "15",
         "ar": "15"
       },
       {
         "en": "13",
         "ar": "13"
+      },
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "16",
+        "ar": "16"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "9 + 6 = 15.",
     "explanation_ar": "9 + 6 = 15."
   },
@@ -69,23 +69,23 @@
     "question_ar": "15 زائد 15 بكام؟",
     "options": [
       {
-        "en": "30",
-        "ar": "30"
-      },
-      {
-        "en": "35",
-        "ar": "35"
+        "en": "25",
+        "ar": "25"
       },
       {
         "en": "20",
         "ar": "20"
       },
       {
-        "en": "25",
-        "ar": "25"
+        "en": "30",
+        "ar": "30"
+      },
+      {
+        "en": "35",
+        "ar": "35"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "15 + 15 = 30.",
     "explanation_ar": "15 + 15 = 30."
   },
@@ -107,12 +107,12 @@
         "ar": "60"
       },
       {
-        "en": "45",
-        "ar": "45"
-      },
-      {
         "en": "40",
         "ar": "40"
+      },
+      {
+        "en": "45",
+        "ar": "45"
       }
     ],
     "correctAnswer": 0,
@@ -133,19 +133,19 @@
         "ar": "55"
       },
       {
+        "en": "50",
+        "ar": "50"
+      },
+      {
         "en": "48",
         "ar": "48"
       },
       {
         "en": "40",
         "ar": "40"
-      },
-      {
-        "en": "50",
-        "ar": "50"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "45 + 5 = 50.",
     "explanation_ar": "45 + 5 = 50."
   },
@@ -163,19 +163,19 @@
         "ar": "18"
       },
       {
-        "en": "15",
-        "ar": "15"
-      },
-      {
         "en": "16",
         "ar": "16"
       },
       {
         "en": "14",
         "ar": "14"
+      },
+      {
+        "en": "15",
+        "ar": "15"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "8 + 8 = 16.",
     "explanation_ar": "8 + 8 = 16."
   },
@@ -193,19 +193,19 @@
         "ar": "60"
       },
       {
+        "en": "55",
+        "ar": "55"
+      },
+      {
         "en": "45",
         "ar": "45"
       },
       {
         "en": "50",
         "ar": "50"
-      },
-      {
-        "en": "55",
-        "ar": "55"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "25 + 25 = 50.",
     "explanation_ar": "25 + 25 = 50."
   },
@@ -219,23 +219,23 @@
     "question_ar": "12 + 12 بكام؟",
     "options": [
       {
-        "en": "20",
-        "ar": "20"
-      },
-      {
-        "en": "22",
-        "ar": "22"
+        "en": "26",
+        "ar": "26"
       },
       {
         "en": "24",
         "ar": "24"
       },
       {
-        "en": "26",
-        "ar": "26"
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "22",
+        "ar": "22"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "12 + 12 = 24.",
     "explanation_ar": "12 + 12 = 24."
   },
@@ -249,6 +249,10 @@
     "question_ar": "99 + 1 بكام؟",
     "options": [
       {
+        "en": "109",
+        "ar": "109"
+      },
+      {
         "en": "101",
         "ar": "101"
       },
@@ -259,13 +263,9 @@
       {
         "en": "100",
         "ar": "100"
-      },
-      {
-        "en": "109",
-        "ar": "109"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "99 + 1 = 100.",
     "explanation_ar": "99 + 1 = 100."
   },
@@ -279,23 +279,23 @@
     "question_ar": "7 + 13 بكام؟",
     "options": [
       {
-        "en": "20",
-        "ar": "20"
-      },
-      {
-        "en": "21",
-        "ar": "21"
-      },
-      {
         "en": "18",
         "ar": "18"
       },
       {
+        "en": "20",
+        "ar": "20"
+      },
+      {
         "en": "19",
         "ar": "19"
+      },
+      {
+        "en": "21",
+        "ar": "21"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "7 + 13 = 20.",
     "explanation_ar": "7 + 13 = 20."
   },
@@ -309,23 +309,23 @@
     "question_ar": "10 - 4 بكام؟",
     "options": [
       {
-        "en": "7",
-        "ar": "7"
-      },
-      {
-        "en": "4",
-        "ar": "4"
-      },
-      {
         "en": "6",
         "ar": "6"
       },
       {
+        "en": "7",
+        "ar": "7"
+      },
+      {
         "en": "5",
         "ar": "5"
+      },
+      {
+        "en": "4",
+        "ar": "4"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "10 - 4 = 6.",
     "explanation_ar": "10 - 4 = 6."
   },
@@ -347,12 +347,12 @@
         "ar": "11"
       },
       {
-        "en": "10",
-        "ar": "10"
-      },
-      {
         "en": "14",
         "ar": "14"
+      },
+      {
+        "en": "10",
+        "ar": "10"
       }
     ],
     "correctAnswer": 0,
@@ -369,23 +369,23 @@
     "question_ar": "50 - 20 بكام؟",
     "options": [
       {
-        "en": "35",
-        "ar": "35"
-      },
-      {
         "en": "30",
         "ar": "30"
+      },
+      {
+        "en": "25",
+        "ar": "25"
       },
       {
         "en": "20",
         "ar": "20"
       },
       {
-        "en": "25",
-        "ar": "25"
+        "en": "35",
+        "ar": "35"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "50 - 20 = 30.",
     "explanation_ar": "50 - 20 = 30."
   },
@@ -399,23 +399,23 @@
     "question_ar": "100 - 25 بكام؟",
     "options": [
       {
-        "en": "75",
-        "ar": "75"
-      },
-      {
-        "en": "70",
-        "ar": "70"
+        "en": "65",
+        "ar": "65"
       },
       {
         "en": "80",
         "ar": "80"
       },
       {
-        "en": "65",
-        "ar": "65"
+        "en": "75",
+        "ar": "75"
+      },
+      {
+        "en": "70",
+        "ar": "70"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "100 - 25 = 75.",
     "explanation_ar": "100 - 25 = 75."
   },
@@ -433,19 +433,19 @@
         "ar": "20"
       },
       {
-        "en": "5",
-        "ar": "5"
-      },
-      {
         "en": "10",
         "ar": "10"
       },
       {
         "en": "15",
         "ar": "15"
+      },
+      {
+        "en": "5",
+        "ar": "5"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "30 - 15 = 15.",
     "explanation_ar": "30 - 15 = 15."
   },
@@ -459,23 +459,23 @@
     "question_ar": "18 - 9 بكام؟",
     "options": [
       {
-        "en": "10",
-        "ar": "10"
+        "en": "9",
+        "ar": "9"
       },
       {
         "en": "7",
         "ar": "7"
       },
       {
-        "en": "8",
-        "ar": "8"
+        "en": "10",
+        "ar": "10"
       },
       {
-        "en": "9",
-        "ar": "9"
+        "en": "8",
+        "ar": "8"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "18 - 9 = 9.",
     "explanation_ar": "18 - 9 = 9."
   },
@@ -489,6 +489,10 @@
     "question_ar": "40 - 22 بكام؟",
     "options": [
       {
+        "en": "20",
+        "ar": "20"
+      },
+      {
         "en": "18",
         "ar": "18"
       },
@@ -497,15 +501,11 @@
         "ar": "16"
       },
       {
-        "en": "20",
-        "ar": "20"
-      },
-      {
         "en": "22",
         "ar": "22"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "40 - 22 = 18.",
     "explanation_ar": "40 - 22 = 18."
   },
@@ -523,19 +523,19 @@
         "ar": "55"
       },
       {
-        "en": "45",
-        "ar": "45"
-      },
-      {
         "en": "40",
         "ar": "40"
       },
       {
         "en": "50",
         "ar": "50"
+      },
+      {
+        "en": "45",
+        "ar": "45"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "60 - 10 = 50.",
     "explanation_ar": "60 - 10 = 50."
   },
@@ -549,23 +549,23 @@
     "question_ar": "3 × 4 بكام؟",
     "options": [
       {
-        "en": "14",
-        "ar": "14"
-      },
-      {
-        "en": "9",
-        "ar": "9"
-      },
-      {
         "en": "10",
         "ar": "10"
       },
       {
+        "en": "14",
+        "ar": "14"
+      },
+      {
         "en": "12",
         "ar": "12"
+      },
+      {
+        "en": "9",
+        "ar": "9"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "3 × 4 = 12.",
     "explanation_ar": "3 × 4 = 12."
   },
@@ -583,19 +583,19 @@
         "ar": "20"
       },
       {
-        "en": "15",
-        "ar": "15"
-      },
-      {
         "en": "25",
         "ar": "25"
       },
       {
         "en": "30",
         "ar": "30"
+      },
+      {
+        "en": "15",
+        "ar": "15"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "5 × 5 = 25.",
     "explanation_ar": "5 × 5 = 25."
   },
@@ -609,23 +609,23 @@
     "question_ar": "6 × 2 بكام؟",
     "options": [
       {
-        "en": "12",
-        "ar": "12"
-      },
-      {
-        "en": "10",
-        "ar": "10"
-      },
-      {
         "en": "14",
         "ar": "14"
       },
       {
         "en": "8",
         "ar": "8"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "10",
+        "ar": "10"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "6 × 2 = 12.",
     "explanation_ar": "6 × 2 = 12."
   },
@@ -639,23 +639,23 @@
     "question_ar": "7 × 3 بكام؟",
     "options": [
       {
-        "en": "24",
-        "ar": "24"
+        "en": "20",
+        "ar": "20"
       },
       {
         "en": "18",
         "ar": "18"
       },
       {
-        "en": "21",
-        "ar": "21"
+        "en": "24",
+        "ar": "24"
       },
       {
-        "en": "20",
-        "ar": "20"
+        "en": "21",
+        "ar": "21"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "7 × 3 = 21.",
     "explanation_ar": "7 × 3 = 21."
   },
@@ -669,6 +669,10 @@
     "question_ar": "9 × 2 بكام؟",
     "options": [
       {
+        "en": "20",
+        "ar": "20"
+      },
+      {
         "en": "16",
         "ar": "16"
       },
@@ -679,13 +683,9 @@
       {
         "en": "18",
         "ar": "18"
-      },
-      {
-        "en": "20",
-        "ar": "20"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "9 × 2 = 18.",
     "explanation_ar": "9 × 2 = 18."
   },
@@ -699,23 +699,23 @@
     "question_ar": "8 × 3 بكام؟",
     "options": [
       {
-        "en": "21",
-        "ar": "21"
-      },
-      {
         "en": "27",
         "ar": "27"
+      },
+      {
+        "en": "24",
+        "ar": "24"
       },
       {
         "en": "20",
         "ar": "20"
       },
       {
-        "en": "24",
-        "ar": "24"
+        "en": "21",
+        "ar": "21"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "8 × 3 = 24.",
     "explanation_ar": "8 × 3 = 24."
   },
@@ -729,8 +729,8 @@
     "question_ar": "10 × 6 بكام؟",
     "options": [
       {
-        "en": "60",
-        "ar": "60"
+        "en": "70",
+        "ar": "70"
       },
       {
         "en": "50",
@@ -741,11 +741,11 @@
         "ar": "16"
       },
       {
-        "en": "70",
-        "ar": "70"
+        "en": "60",
+        "ar": "60"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "10 × 6 = 60.",
     "explanation_ar": "10 × 6 = 60."
   },
@@ -759,23 +759,23 @@
     "question_ar": "4 × 4 بكام؟",
     "options": [
       {
-        "en": "20",
-        "ar": "20"
-      },
-      {
-        "en": "12",
-        "ar": "12"
-      },
-      {
         "en": "18",
         "ar": "18"
       },
       {
         "en": "16",
         "ar": "16"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "20",
+        "ar": "20"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "4 × 4 = 16.",
     "explanation_ar": "4 × 4 = 16."
   },
@@ -789,10 +789,6 @@
     "question_ar": "5 × 9 بكام؟",
     "options": [
       {
-        "en": "35",
-        "ar": "35"
-      },
-      {
         "en": "45",
         "ar": "45"
       },
@@ -801,11 +797,15 @@
         "ar": "50"
       },
       {
+        "en": "35",
+        "ar": "35"
+      },
+      {
         "en": "40",
         "ar": "40"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "5 × 9 = 45.",
     "explanation_ar": "5 × 9 = 45."
   },
@@ -849,10 +849,6 @@
     "question_ar": "ضعف 8 بكام؟",
     "options": [
       {
-        "en": "12",
-        "ar": "12"
-      },
-      {
         "en": "18",
         "ar": "18"
       },
@@ -861,11 +857,15 @@
         "ar": "16"
       },
       {
+        "en": "12",
+        "ar": "12"
+      },
+      {
         "en": "14",
         "ar": "14"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Double of 8 is 16.",
     "explanation_ar": "ضعف 8 هو 16."
   },
@@ -879,23 +879,23 @@
     "question_ar": "ضعف 15 بكام؟",
     "options": [
       {
-        "en": "30",
-        "ar": "30"
-      },
-      {
-        "en": "28",
-        "ar": "28"
-      },
-      {
         "en": "25",
         "ar": "25"
       },
       {
+        "en": "30",
+        "ar": "30"
+      },
+      {
         "en": "35",
         "ar": "35"
+      },
+      {
+        "en": "28",
+        "ar": "28"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Double of 15 is 30.",
     "explanation_ar": "ضعف 15 هو 30."
   },
@@ -909,23 +909,23 @@
     "question_ar": "نص 20 بكام؟",
     "options": [
       {
-        "en": "12",
-        "ar": "12"
-      },
-      {
-        "en": "8",
-        "ar": "8"
-      },
-      {
         "en": "15",
         "ar": "15"
       },
       {
         "en": "10",
         "ar": "10"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      },
+      {
+        "en": "8",
+        "ar": "8"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Half of 20 is 10.",
     "explanation_ar": "نص 20 هو 10."
   },
@@ -939,23 +939,23 @@
     "question_ar": "نص 50 بكام؟",
     "options": [
       {
-        "en": "20",
-        "ar": "20"
-      },
-      {
-        "en": "30",
-        "ar": "30"
-      },
-      {
         "en": "25",
         "ar": "25"
       },
       {
         "en": "15",
         "ar": "15"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "30",
+        "ar": "30"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Half of 50 is 25.",
     "explanation_ar": "نص 50 هو 25."
   },
@@ -969,23 +969,23 @@
     "question_ar": "ضعف 25 بكام؟",
     "options": [
       {
-        "en": "50",
-        "ar": "50"
-      },
-      {
-        "en": "45",
-        "ar": "45"
-      },
-      {
         "en": "40",
         "ar": "40"
       },
       {
         "en": "55",
         "ar": "55"
+      },
+      {
+        "en": "50",
+        "ar": "50"
+      },
+      {
+        "en": "45",
+        "ar": "45"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Double of 25 is 50.",
     "explanation_ar": "ضعف 25 هو 50."
   },
@@ -999,23 +999,23 @@
     "question_ar": "نص 8 بكام؟",
     "options": [
       {
-        "en": "5",
-        "ar": "5"
-      },
-      {
-        "en": "2",
-        "ar": "2"
+        "en": "4",
+        "ar": "4"
       },
       {
         "en": "3",
         "ar": "3"
       },
       {
-        "en": "4",
-        "ar": "4"
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "2",
+        "ar": "2"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Half of 8 is 4.",
     "explanation_ar": "نص 8 هو 4."
   },
@@ -1029,23 +1029,23 @@
     "question_ar": "ضعف 40 بكام؟",
     "options": [
       {
-        "en": "90",
-        "ar": "90"
-      },
-      {
         "en": "80",
         "ar": "80"
+      },
+      {
+        "en": "70",
+        "ar": "70"
       },
       {
         "en": "60",
         "ar": "60"
       },
       {
-        "en": "70",
-        "ar": "70"
+        "en": "90",
+        "ar": "90"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Double of 40 is 80.",
     "explanation_ar": "ضعف 40 هو 80."
   },
@@ -1059,23 +1059,23 @@
     "question_ar": "نص 60 بكام؟",
     "options": [
       {
-        "en": "40",
-        "ar": "40"
-      },
-      {
-        "en": "20",
-        "ar": "20"
-      },
-      {
         "en": "30",
         "ar": "30"
       },
       {
+        "en": "40",
+        "ar": "40"
+      },
+      {
         "en": "25",
         "ar": "25"
+      },
+      {
+        "en": "20",
+        "ar": "20"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Half of 60 is 30.",
     "explanation_ar": "نص 60 هو 30."
   },
@@ -1089,8 +1089,8 @@
     "question_ar": "المثلث ليه كام ضلع؟",
     "options": [
       {
-        "en": "5",
-        "ar": "5"
+        "en": "4",
+        "ar": "4"
       },
       {
         "en": "6",
@@ -1101,8 +1101,8 @@
         "ar": "3"
       },
       {
-        "en": "4",
-        "ar": "4"
+        "en": "5",
+        "ar": "5"
       }
     ],
     "correctAnswer": 2,
@@ -1119,12 +1119,12 @@
     "question_ar": "المربع ليه كام ضلع؟",
     "options": [
       {
-        "en": "6",
-        "ar": "6"
-      },
-      {
         "en": "5",
         "ar": "5"
+      },
+      {
+        "en": "6",
+        "ar": "6"
       },
       {
         "en": "4",
@@ -1149,23 +1149,23 @@
     "question_ar": "الشكل الخماسي ليه كام ضلع؟",
     "options": [
       {
-        "en": "5",
-        "ar": "5"
-      },
-      {
-        "en": "4",
-        "ar": "4"
-      },
-      {
         "en": "6",
         "ar": "6"
       },
       {
         "en": "7",
         "ar": "7"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "5",
+        "ar": "5"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "A pentagon has 5 sides.",
     "explanation_ar": "الشكل الخماسي ليه 5 أضلاع."
   },
@@ -1179,23 +1179,23 @@
     "question_ar": "الشكل السداسي ليه كام ضلع؟",
     "options": [
       {
-        "en": "7",
-        "ar": "7"
-      },
-      {
-        "en": "8",
-        "ar": "8"
-      },
-      {
         "en": "5",
         "ar": "5"
       },
       {
+        "en": "7",
+        "ar": "7"
+      },
+      {
         "en": "6",
         "ar": "6"
+      },
+      {
+        "en": "8",
+        "ar": "8"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "A hexagon has 6 sides.",
     "explanation_ar": "الشكل السداسي ليه 6 أضلاع."
   },
@@ -1209,23 +1209,23 @@
     "question_ar": "الشكل الثماني ليه كام ضلع؟",
     "options": [
       {
-        "en": "9",
-        "ar": "9"
-      },
-      {
-        "en": "8",
-        "ar": "8"
-      },
-      {
         "en": "6",
         "ar": "6"
       },
       {
+        "en": "9",
+        "ar": "9"
+      },
+      {
         "en": "7",
         "ar": "7"
+      },
+      {
+        "en": "8",
+        "ar": "8"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "An octagon has 8 sides.",
     "explanation_ar": "الشكل الثماني ليه 8 أضلاع."
   },
@@ -1239,23 +1239,23 @@
     "question_ar": "الدايرة ليها كام ضلع؟",
     "options": [
       {
-        "en": "infinite",
-        "ar": "عدد لا نهائي"
-      },
-      {
         "en": "0",
         "ar": "0"
       },
       {
-        "en": "1",
-        "ar": "1"
+        "en": "infinite",
+        "ar": "عدد لا نهائي"
       },
       {
         "en": "2",
         "ar": "2"
+      },
+      {
+        "en": "1",
+        "ar": "1"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "A circle has no straight sides — the answer is 0.",
     "explanation_ar": "الدايرة معندهاش أضلاع مستقيمة، يعني صفر."
   },
@@ -1269,6 +1269,10 @@
     "question_ar": "المكعب (زي الزهر) ليه كام وش؟",
     "options": [
       {
+        "en": "4",
+        "ar": "4"
+      },
+      {
         "en": "6",
         "ar": "6"
       },
@@ -1279,13 +1283,9 @@
       {
         "en": "5",
         "ar": "5"
-      },
-      {
-        "en": "4",
-        "ar": "4"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "A cube has 6 faces.",
     "explanation_ar": "المكعب ليه 6 وشوش."
   },
@@ -1299,23 +1299,23 @@
     "question_ar": "نجمة زي اللي بنرسمها ليها كام رأس؟",
     "options": [
       {
-        "en": "5",
-        "ar": "5"
+        "en": "6",
+        "ar": "6"
       },
       {
-        "en": "7",
-        "ar": "7"
+        "en": "5",
+        "ar": "5"
       },
       {
         "en": "4",
         "ar": "4"
       },
       {
-        "en": "6",
-        "ar": "6"
+        "en": "7",
+        "ar": "7"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The classic star shape has 5 points.",
     "explanation_ar": "النجمة المعروفة ليها 5 رؤوس."
   },
@@ -1337,15 +1337,15 @@
         "ar": "8"
       },
       {
-        "en": "6",
-        "ar": "6"
-      },
-      {
         "en": "7",
         "ar": "7"
+      },
+      {
+        "en": "6",
+        "ar": "6"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "A week has 7 days.",
     "explanation_ar": "الأسبوع فيه 7 أيام."
   },
@@ -1359,23 +1359,23 @@
     "question_ar": "السنة فيها كام شهر؟",
     "options": [
       {
-        "en": "10",
-        "ar": "10"
-      },
-      {
         "en": "11",
         "ar": "11"
+      },
+      {
+        "en": "12",
+        "ar": "12"
       },
       {
         "en": "13",
         "ar": "13"
       },
       {
-        "en": "12",
-        "ar": "12"
+        "en": "10",
+        "ar": "10"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "A year has 12 months.",
     "explanation_ar": "السنة فيها 12 شهر."
   },
@@ -1389,23 +1389,23 @@
     "question_ar": "الرقم اللي جاي بعد 99 إيه؟",
     "options": [
       {
-        "en": "90",
-        "ar": "90"
-      },
-      {
-        "en": "101",
-        "ar": "101"
+        "en": "100",
+        "ar": "100"
       },
       {
         "en": "98",
         "ar": "98"
       },
       {
-        "en": "100",
-        "ar": "100"
+        "en": "101",
+        "ar": "101"
+      },
+      {
+        "en": "90",
+        "ar": "90"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "The number after 99 is 100.",
     "explanation_ar": "الرقم اللي بعد 99 هو 100."
   },
@@ -1419,10 +1419,6 @@
     "question_ar": "الرقم اللي قبل 10 إيه؟",
     "options": [
       {
-        "en": "11",
-        "ar": "11"
-      },
-      {
         "en": "7",
         "ar": "7"
       },
@@ -1433,9 +1429,13 @@
       {
         "en": "9",
         "ar": "9"
+      },
+      {
+        "en": "11",
+        "ar": "11"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "The number before 10 is 9.",
     "explanation_ar": "الرقم اللي قبل 10 هو 9."
   },
@@ -1453,19 +1453,19 @@
         "ar": "فردي"
       },
       {
-        "en": "Even",
-        "ar": "زوجي"
-      },
-      {
         "en": "Both",
         "ar": "الاتنين"
       },
       {
         "en": "Neither",
         "ar": "ولا ده ولا ده"
+      },
+      {
+        "en": "Even",
+        "ar": "زوجي"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "8 divides evenly by 2, so it's even.",
     "explanation_ar": "8 بينقسم على 2 بالظبط، يبقى زوجي."
   },
@@ -1479,23 +1479,23 @@
     "question_ar": "الرقم 1000 فيه كام صفر؟",
     "options": [
       {
-        "en": "2",
-        "ar": "2"
-      },
-      {
         "en": "3",
         "ar": "3"
+      },
+      {
+        "en": "4",
+        "ar": "4"
       },
       {
         "en": "1",
         "ar": "1"
       },
       {
-        "en": "4",
-        "ar": "4"
+        "en": "2",
+        "ar": "2"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "1000 has three zeros.",
     "explanation_ar": "1000 فيه 3 أصفار."
   }

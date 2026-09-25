@@ -9,23 +9,23 @@
     "question_ar": "إيه عاصمة مصر؟",
     "options": [
       {
-        "en": "Cairo",
-        "ar": "القاهرة"
-      },
-      {
         "en": "Alexandria",
         "ar": "الإسكندرية"
       },
       {
-        "en": "Luxor",
-        "ar": "الأقصر"
-      },
-      {
         "en": "Giza",
         "ar": "الجيزة"
+      },
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Cairo has been Egypt's capital for over a thousand years.",
     "explanation_ar": "القاهرة عاصمة مصر من أكتر من ألف سنة."
   },
@@ -39,23 +39,23 @@
     "question_ar": "برج إيفل موجود في أنهي بلد؟",
     "options": [
       {
-        "en": "Italy",
-        "ar": "إيطاليا"
-      },
-      {
-        "en": "France",
-        "ar": "فرنسا"
+        "en": "Spain",
+        "ar": "إسبانيا"
       },
       {
         "en": "Germany",
         "ar": "ألمانيا"
       },
       {
-        "en": "Spain",
-        "ar": "إسبانيا"
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The Eiffel Tower stands in Paris, the capital of France.",
     "explanation_ar": "برج إيفل موجود في باريس عاصمة فرنسا."
   },
@@ -69,23 +69,23 @@
     "question_ar": "إيه عاصمة السعودية؟",
     "options": [
       {
-        "en": "Jeddah",
-        "ar": "جدة"
-      },
-      {
-        "en": "Mecca",
-        "ar": "مكة"
+        "en": "Medina",
+        "ar": "المدينة"
       },
       {
         "en": "Riyadh",
         "ar": "الرياض"
       },
       {
-        "en": "Medina",
-        "ar": "المدينة"
+        "en": "Mecca",
+        "ar": "مكة"
+      },
+      {
+        "en": "Jeddah",
+        "ar": "جدة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Riyadh is the capital and largest city of Saudi Arabia.",
     "explanation_ar": "الرياض عاصمة السعودية وأكبر مدينة فيها."
   },
@@ -129,23 +129,23 @@
     "question_ar": "تمثال الحرية موجود في أنهي بلد؟",
     "options": [
       {
-        "en": "Canada",
-        "ar": "كندا"
-      },
-      {
-        "en": "UK",
-        "ar": "بريطانيا"
+        "en": "USA",
+        "ar": "أمريكا"
       },
       {
         "en": "France",
         "ar": "فرنسا"
       },
       {
-        "en": "USA",
-        "ar": "أمريكا"
+        "en": "UK",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "Canada",
+        "ar": "كندا"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "The Statue of Liberty stands on an island in New York, USA.",
     "explanation_ar": "تمثال الحرية موجود في جزيرة في نيويورك بأمريكا."
   },
@@ -159,23 +159,23 @@
     "question_ar": "أهرامات الجيزة موجودة في أنهي بلد؟",
     "options": [
       {
-        "en": "Sudan",
-        "ar": "السودان"
-      },
-      {
-        "en": "Egypt",
-        "ar": "مصر"
+        "en": "Jordan",
+        "ar": "الأردن"
       },
       {
         "en": "Libya",
         "ar": "ليبيا"
       },
       {
-        "en": "Jordan",
-        "ar": "الأردن"
+        "en": "Sudan",
+        "ar": "السودان"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The Pyramids of Giza are just outside Cairo, Egypt.",
     "explanation_ar": "أهرامات الجيزة موجودة على أطراف القاهرة في مصر."
   },
@@ -219,8 +219,8 @@
     "question_ar": "إيه عاصمة أمريكا؟",
     "options": [
       {
-        "en": "New York",
-        "ar": "نيويورك"
+        "en": "Chicago",
+        "ar": "شيكاغو"
       },
       {
         "en": "Washington D.C.",
@@ -231,8 +231,8 @@
         "ar": "لوس أنجلوس"
       },
       {
-        "en": "Chicago",
-        "ar": "شيكاغو"
+        "en": "New York",
+        "ar": "نيويورك"
       }
     ],
     "correctAnswer": 1,
@@ -249,12 +249,12 @@
     "question_ar": "بيج بن، الساعة الشهيرة، موجودة في أنهي بلد؟",
     "options": [
       {
-        "en": "UK",
-        "ar": "بريطانيا"
-      },
-      {
         "en": "France",
         "ar": "فرنسا"
+      },
+      {
+        "en": "UK",
+        "ar": "بريطانيا"
       },
       {
         "en": "Ireland",
@@ -265,7 +265,7 @@
         "ar": "ألمانيا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Big Ben is part of the Houses of Parliament in London, UK.",
     "explanation_ar": "بيج بن جزء من مبنى البرلمان في لندن ببريطانيا."
   },
@@ -279,10 +279,6 @@
     "question_ar": "إيه عاصمة إيطاليا؟",
     "options": [
       {
-        "en": "Milan",
-        "ar": "ميلانو"
-      },
-      {
         "en": "Venice",
         "ar": "البندقية"
       },
@@ -291,11 +287,15 @@
         "ar": "روما"
       },
       {
+        "en": "Milan",
+        "ar": "ميلانو"
+      },
+      {
         "en": "Naples",
         "ar": "نابولي"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Rome has been Italy's capital since 1871.",
     "explanation_ar": "روما عاصمة إيطاليا من سنة 1871."
   },
@@ -309,16 +309,16 @@
     "question_ar": "الكولوسيوم موجود في أنهي بلد؟",
     "options": [
       {
-        "en": "Greece",
-        "ar": "اليونان"
+        "en": "Turkey",
+        "ar": "تركيا"
       },
       {
         "en": "Spain",
         "ar": "إسبانيا"
       },
       {
-        "en": "Turkey",
-        "ar": "تركيا"
+        "en": "Greece",
+        "ar": "اليونان"
       },
       {
         "en": "Italy",
@@ -339,23 +339,23 @@
     "question_ar": "إيه عاصمة اليابان؟",
     "options": [
       {
-        "en": "Tokyo",
-        "ar": "طوكيو"
-      },
-      {
-        "en": "Osaka",
-        "ar": "أوساكا"
-      },
-      {
         "en": "Kyoto",
         "ar": "كيوتو"
       },
       {
         "en": "Yokohama",
         "ar": "يوكوهاما"
+      },
+      {
+        "en": "Tokyo",
+        "ar": "طوكيو"
+      },
+      {
+        "en": "Osaka",
+        "ar": "أوساكا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Tokyo is Japan's capital and largest city.",
     "explanation_ar": "طوكيو عاصمة اليابان وأكبر مدنها."
   },
@@ -369,23 +369,23 @@
     "question_ar": "سور الصين العظيم موجود في أنهي بلد؟",
     "options": [
       {
-        "en": "Mongolia",
-        "ar": "منغوليا"
-      },
-      {
-        "en": "Vietnam",
-        "ar": "فيتنام"
+        "en": "Japan",
+        "ar": "اليابان"
       },
       {
         "en": "China",
         "ar": "الصين"
       },
       {
-        "en": "Japan",
-        "ar": "اليابان"
+        "en": "Vietnam",
+        "ar": "فيتنام"
+      },
+      {
+        "en": "Mongolia",
+        "ar": "منغوليا"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "The Great Wall stretches across northern China.",
     "explanation_ar": "سور الصين العظيم بيمتد في شمال الصين."
   },
@@ -399,20 +399,20 @@
     "question_ar": "إيه عاصمة الصين؟",
     "options": [
       {
-        "en": "Shanghai",
-        "ar": "شنغهاي"
+        "en": "Hong Kong",
+        "ar": "هونج كونج"
       },
       {
         "en": "Beijing",
         "ar": "بكين"
       },
       {
-        "en": "Hong Kong",
-        "ar": "هونج كونج"
-      },
-      {
         "en": "Guangzhou",
         "ar": "جوانجزو"
+      },
+      {
+        "en": "Shanghai",
+        "ar": "شنغهاي"
       }
     ],
     "correctAnswer": 1,
@@ -429,23 +429,23 @@
     "question_ar": "إيه عاصمة الإمارات؟",
     "options": [
       {
-        "en": "Dubai",
-        "ar": "دبي"
+        "en": "Ajman",
+        "ar": "عجمان"
       },
       {
         "en": "Sharjah",
         "ar": "الشارقة"
       },
       {
-        "en": "Abu Dhabi",
-        "ar": "أبوظبي"
+        "en": "Dubai",
+        "ar": "دبي"
       },
       {
-        "en": "Ajman",
-        "ar": "عجمان"
+        "en": "Abu Dhabi",
+        "ar": "أبوظبي"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Abu Dhabi is the capital of the UAE, not Dubai.",
     "explanation_ar": "أبوظبي هي عاصمة الإمارات مش دبي."
   },
@@ -459,23 +459,23 @@
     "question_ar": "برج خليفة، أطول مبنى في العالم، موجود في أنهي بلد؟",
     "options": [
       {
-        "en": "Qatar",
-        "ar": "قطر"
-      },
-      {
-        "en": "Saudi Arabia",
-        "ar": "السعودية"
+        "en": "UAE",
+        "ar": "الإمارات"
       },
       {
         "en": "Kuwait",
         "ar": "الكويت"
       },
       {
-        "en": "UAE",
-        "ar": "الإمارات"
+        "en": "Qatar",
+        "ar": "قطر"
+      },
+      {
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "The Burj Khalifa is in Dubai, UAE.",
     "explanation_ar": "برج خليفة موجود في دبي بالإمارات."
   },
@@ -489,6 +489,10 @@
     "question_ar": "إيه عاصمة ألمانيا؟",
     "options": [
       {
+        "en": "Frankfurt",
+        "ar": "فرانكفورت"
+      },
+      {
         "en": "Berlin",
         "ar": "برلين"
       },
@@ -499,13 +503,9 @@
       {
         "en": "Hamburg",
         "ar": "هامبورج"
-      },
-      {
-        "en": "Frankfurt",
-        "ar": "فرانكفورت"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Berlin is the capital of Germany.",
     "explanation_ar": "برلين عاصمة ألمانيا."
   },
@@ -523,19 +523,19 @@
         "ar": "برشلونة"
       },
       {
-        "en": "Seville",
-        "ar": "إشبيلية"
-      },
-      {
         "en": "Madrid",
         "ar": "مدريد"
+      },
+      {
+        "en": "Seville",
+        "ar": "إشبيلية"
       },
       {
         "en": "Valencia",
         "ar": "فالنسيا"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Madrid is the capital of Spain.",
     "explanation_ar": "مدريد عاصمة إسبانيا."
   },
@@ -549,23 +549,23 @@
     "question_ar": "إيه عاصمة روسيا؟",
     "options": [
       {
-        "en": "St. Petersburg",
-        "ar": "سان بطرسبرج"
-      },
-      {
-        "en": "Moscow",
-        "ar": "موسكو"
+        "en": "Novosibirsk",
+        "ar": "نوفوسيبيرسك"
       },
       {
         "en": "Kazan",
         "ar": "قازان"
       },
       {
-        "en": "Novosibirsk",
-        "ar": "نوفوسيبيرسك"
+        "en": "St. Petersburg",
+        "ar": "سان بطرسبرج"
+      },
+      {
+        "en": "Moscow",
+        "ar": "موسكو"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Moscow is the capital of Russia.",
     "explanation_ar": "موسكو عاصمة روسيا."
   },
@@ -583,12 +583,12 @@
         "ar": "أوتاوا"
       },
       {
-        "en": "Toronto",
-        "ar": "تورونتو"
-      },
-      {
         "en": "Vancouver",
         "ar": "فانكوفر"
+      },
+      {
+        "en": "Toronto",
+        "ar": "تورونتو"
       },
       {
         "en": "Montreal",
@@ -613,19 +613,19 @@
         "ar": "ريو دي جانيرو"
       },
       {
-        "en": "São Paulo",
-        "ar": "ساو باولو"
-      },
-      {
         "en": "Brasília",
         "ar": "برازيليا"
+      },
+      {
+        "en": "São Paulo",
+        "ar": "ساو باولو"
       },
       {
         "en": "Salvador",
         "ar": "سلفادور"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Brasília became Brazil's capital in 1960.",
     "explanation_ar": "برازيليا بقت عاصمة البرازيل من سنة 1960."
   },
@@ -639,23 +639,23 @@
     "question_ar": "إيه عاصمة تركيا؟",
     "options": [
       {
-        "en": "Istanbul",
-        "ar": "إسطنبول"
-      },
-      {
-        "en": "Ankara",
-        "ar": "أنقرة"
+        "en": "Antalya",
+        "ar": "أنطاليا"
       },
       {
         "en": "Izmir",
         "ar": "إزمير"
       },
       {
-        "en": "Antalya",
-        "ar": "أنطاليا"
+        "en": "Istanbul",
+        "ar": "إسطنبول"
+      },
+      {
+        "en": "Ankara",
+        "ar": "أنقرة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Ankara is Turkey's capital, not Istanbul.",
     "explanation_ar": "أنقرة عاصمة تركيا مش إسطنبول."
   },
@@ -669,8 +669,8 @@
     "question_ar": "إيه عاصمة اليونان؟",
     "options": [
       {
-        "en": "Athens",
-        "ar": "أثينا"
+        "en": "Patras",
+        "ar": "باتراس"
       },
       {
         "en": "Sparta",
@@ -681,11 +681,11 @@
         "ar": "سالونيك"
       },
       {
-        "en": "Patras",
-        "ar": "باتراس"
+        "en": "Athens",
+        "ar": "أثينا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Athens is the capital of Greece.",
     "explanation_ar": "أثينا عاصمة اليونان."
   },
@@ -699,23 +699,23 @@
     "question_ar": "إيه عاصمة الهند؟",
     "options": [
       {
-        "en": "Mumbai",
-        "ar": "مومباي"
-      },
-      {
         "en": "New Delhi",
         "ar": "نيودلهي"
       },
       {
-        "en": "Bangalore",
-        "ar": "بنجالور"
-      },
-      {
         "en": "Kolkata",
         "ar": "كولكاتا"
+      },
+      {
+        "en": "Mumbai",
+        "ar": "مومباي"
+      },
+      {
+        "en": "Bangalore",
+        "ar": "بنجالور"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "New Delhi is the capital of India.",
     "explanation_ar": "نيودلهي عاصمة الهند."
   },
@@ -729,23 +729,23 @@
     "question_ar": "إيه عاصمة لبنان؟",
     "options": [
       {
-        "en": "Tripoli",
-        "ar": "طرابلس"
+        "en": "Byblos",
+        "ar": "جبيل"
       },
       {
         "en": "Sidon",
         "ar": "صيدا"
       },
       {
-        "en": "Beirut",
-        "ar": "بيروت"
+        "en": "Tripoli",
+        "ar": "طرابلس"
       },
       {
-        "en": "Byblos",
-        "ar": "جبيل"
+        "en": "Beirut",
+        "ar": "بيروت"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Beirut is the capital of Lebanon.",
     "explanation_ar": "بيروت عاصمة لبنان."
   },
@@ -759,23 +759,23 @@
     "question_ar": "إيه عاصمة الأردن؟",
     "options": [
       {
-        "en": "Amman",
-        "ar": "عمّان"
-      },
-      {
         "en": "Petra",
         "ar": "البتراء"
       },
       {
-        "en": "Aqaba",
-        "ar": "العقبة"
-      },
-      {
         "en": "Zarqa",
         "ar": "الزرقاء"
+      },
+      {
+        "en": "Amman",
+        "ar": "عمّان"
+      },
+      {
+        "en": "Aqaba",
+        "ar": "العقبة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Amman is the capital of Jordan.",
     "explanation_ar": "عمّان عاصمة الأردن."
   },
@@ -789,23 +789,23 @@
     "question_ar": "إيه عاصمة المغرب؟",
     "options": [
       {
-        "en": "Casablanca",
-        "ar": "الدار البيضاء"
-      },
-      {
         "en": "Marrakesh",
         "ar": "مراكش"
+      },
+      {
+        "en": "Rabat",
+        "ar": "الرباط"
       },
       {
         "en": "Fez",
         "ar": "فاس"
       },
       {
-        "en": "Rabat",
-        "ar": "الرباط"
+        "en": "Casablanca",
+        "ar": "الدار البيضاء"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Rabat is Morocco's capital, not Casablanca.",
     "explanation_ar": "الرباط عاصمة المغرب مش الدار البيضاء."
   },
@@ -819,23 +819,23 @@
     "question_ar": "إيه عاصمة الكويت؟",
     "options": [
       {
-        "en": "Kuwait City",
-        "ar": "مدينة الكويت"
-      },
-      {
-        "en": "Doha",
-        "ar": "الدوحة"
-      },
-      {
         "en": "Manama",
         "ar": "المنامة"
       },
       {
         "en": "Riyadh",
         "ar": "الرياض"
+      },
+      {
+        "en": "Kuwait City",
+        "ar": "مدينة الكويت"
+      },
+      {
+        "en": "Doha",
+        "ar": "الدوحة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Kuwait City is the capital of Kuwait.",
     "explanation_ar": "مدينة الكويت عاصمة دولة الكويت."
   },
@@ -849,23 +849,23 @@
     "question_ar": "إيه عاصمة قطر؟",
     "options": [
       {
-        "en": "Al Rayyan",
-        "ar": "الريان"
-      },
-      {
-        "en": "Lusail",
-        "ar": "لوسيل"
-      },
-      {
         "en": "Doha",
         "ar": "الدوحة"
       },
       {
         "en": "Al Wakrah",
         "ar": "الوكرة"
+      },
+      {
+        "en": "Lusail",
+        "ar": "لوسيل"
+      },
+      {
+        "en": "Al Rayyan",
+        "ar": "الريان"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Doha is the capital of Qatar.",
     "explanation_ar": "الدوحة عاصمة قطر."
   },
@@ -879,23 +879,23 @@
     "question_ar": "إيه أطول نهر في العالم؟",
     "options": [
       {
-        "en": "The Amazon",
-        "ar": "الأمازون"
-      },
-      {
-        "en": "The Nile",
-        "ar": "النيل"
-      },
-      {
         "en": "The Mississippi",
         "ar": "المسيسيبي"
       },
       {
+        "en": "The Amazon",
+        "ar": "الأمازون"
+      },
+      {
         "en": "The Congo",
         "ar": "الكونغو"
+      },
+      {
+        "en": "The Nile",
+        "ar": "النيل"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The Nile, flowing through Egypt and Sudan, is the longest river in the world.",
     "explanation_ar": "نهر النيل اللي بيمر بمصر والسودان هو أطول نهر في العالم."
   },
@@ -913,19 +913,19 @@
         "ar": "صحراء جوبي"
       },
       {
-        "en": "The Kalahari",
-        "ar": "صحراء كالاهاري"
-      },
-      {
         "en": "The Arabian Desert",
         "ar": "الصحراء العربية"
       },
       {
         "en": "The Sahara",
         "ar": "الصحراء الكبرى"
+      },
+      {
+        "en": "The Kalahari",
+        "ar": "صحراء كالاهاري"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "The Sahara, covering much of North Africa, is the largest hot desert on Earth.",
     "explanation_ar": "الصحراء الكبرى اللي بتغطي معظم شمال أفريقيا هي أكبر صحراء حارة في العالم."
   },
@@ -939,6 +939,10 @@
     "question_ar": "مصر موجودة في أنهي قارة؟",
     "options": [
       {
+        "en": "Europe",
+        "ar": "أوروبا"
+      },
+      {
         "en": "Africa",
         "ar": "أفريقيا"
       },
@@ -947,15 +951,11 @@
         "ar": "آسيا"
       },
       {
-        "en": "Europe",
-        "ar": "أوروبا"
-      },
-      {
         "en": "South America",
         "ar": "أمريكا الجنوبية"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Egypt is located in the northeastern corner of Africa.",
     "explanation_ar": "مصر موجودة في الركن الشمالي الشرقي من قارة أفريقيا."
   },
@@ -969,23 +969,23 @@
     "question_ar": "تمثال أبو الهول موجود في أنهي بلد؟",
     "options": [
       {
-        "en": "Sudan",
-        "ar": "السودان"
-      },
-      {
-        "en": "Jordan",
-        "ar": "الأردن"
-      },
-      {
         "en": "Egypt",
         "ar": "مصر"
       },
       {
         "en": "Iraq",
         "ar": "العراق"
+      },
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
+      },
+      {
+        "en": "Sudan",
+        "ar": "السودان"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The Great Sphinx stands next to the pyramids in Giza, Egypt.",
     "explanation_ar": "تمثال أبو الهول موجود جنب الأهرامات في الجيزة بمصر."
   },
@@ -999,23 +999,23 @@
     "question_ar": "العالم فيه كام قارة؟",
     "options": [
       {
-        "en": "5",
-        "ar": "5"
+        "en": "7",
+        "ar": "7"
       },
       {
         "en": "6",
         "ar": "6"
       },
       {
-        "en": "7",
-        "ar": "7"
-      },
-      {
         "en": "8",
         "ar": "8"
+      },
+      {
+        "en": "5",
+        "ar": "5"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The world is commonly divided into 7 continents.",
     "explanation_ar": "العالم عادة بيتقسم لـ 7 قارات."
   },
@@ -1033,19 +1033,19 @@
         "ar": "يورو"
       },
       {
-        "en": "Dollar",
-        "ar": "دولار"
-      },
-      {
         "en": "Pound",
         "ar": "جنيه"
       },
       {
         "en": "Peso",
         "ar": "بيزو"
+      },
+      {
+        "en": "Dollar",
+        "ar": "دولار"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The US Dollar is the official currency of the United States.",
     "explanation_ar": "الدولار الأمريكي هو عملة أمريكا الرسمية."
   },
@@ -1059,23 +1059,23 @@
     "question_ar": "إيه عملة بريطانيا؟",
     "options": [
       {
-        "en": "Euro",
-        "ar": "يورو"
+        "en": "Franc",
+        "ar": "فرانك"
       },
       {
         "en": "Dollar",
         "ar": "دولار"
       },
       {
-        "en": "Franc",
-        "ar": "فرانك"
-      },
-      {
         "en": "Pound Sterling",
         "ar": "الجنيه الإسترليني"
+      },
+      {
+        "en": "Euro",
+        "ar": "يورو"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "The Pound Sterling is the official currency of the UK.",
     "explanation_ar": "الجنيه الإسترليني هو عملة بريطانيا الرسمية."
   },
@@ -1097,15 +1097,15 @@
         "ar": "المحيط الهندي"
       },
       {
-        "en": "Pacific Ocean",
-        "ar": "المحيط الهادي"
-      },
-      {
         "en": "Arctic Ocean",
         "ar": "المحيط المتجمد الشمالي"
+      },
+      {
+        "en": "Pacific Ocean",
+        "ar": "المحيط الهادي"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "The Pacific Ocean is the largest and deepest ocean on Earth.",
     "explanation_ar": "المحيط الهادي هو أكبر وأعمق محيط في العالم."
   },
@@ -1119,23 +1119,23 @@
     "question_ar": "إيه عاصمة سوريا؟",
     "options": [
       {
-        "en": "Damascus",
-        "ar": "دمشق"
+        "en": "Latakia",
+        "ar": "اللاذقية"
       },
       {
         "en": "Aleppo",
         "ar": "حلب"
       },
       {
-        "en": "Homs",
-        "ar": "حمص"
+        "en": "Damascus",
+        "ar": "دمشق"
       },
       {
-        "en": "Latakia",
-        "ar": "اللاذقية"
+        "en": "Homs",
+        "ar": "حمص"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Damascus is the capital of Syria.",
     "explanation_ar": "دمشق عاصمة سوريا."
   },
@@ -1149,23 +1149,23 @@
     "question_ar": "إيه عاصمة العراق؟",
     "options": [
       {
-        "en": "Basra",
-        "ar": "البصرة"
-      },
-      {
         "en": "Baghdad",
         "ar": "بغداد"
       },
       {
-        "en": "Mosul",
-        "ar": "الموصل"
+        "en": "Basra",
+        "ar": "البصرة"
       },
       {
         "en": "Erbil",
         "ar": "أربيل"
+      },
+      {
+        "en": "Mosul",
+        "ar": "الموصل"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Baghdad is the capital of Iraq.",
     "explanation_ar": "بغداد عاصمة العراق."
   },
@@ -1179,23 +1179,23 @@
     "question_ar": "إيه عاصمة السودان؟",
     "options": [
       {
-        "en": "Khartoum",
-        "ar": "الخرطوم"
+        "en": "Kassala",
+        "ar": "كسلا"
       },
       {
-        "en": "Omdurman",
-        "ar": "أم درمان"
+        "en": "Khartoum",
+        "ar": "الخرطوم"
       },
       {
         "en": "Port Sudan",
         "ar": "بورتسودان"
       },
       {
-        "en": "Kassala",
-        "ar": "كسلا"
+        "en": "Omdurman",
+        "ar": "أم درمان"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Khartoum is the capital of Sudan.",
     "explanation_ar": "الخرطوم عاصمة السودان."
   },
@@ -1239,23 +1239,23 @@
     "question_ar": "إيه عاصمة الجزائر؟",
     "options": [
       {
-        "en": "Algiers",
-        "ar": "الجزائر العاصمة"
-      },
-      {
         "en": "Oran",
         "ar": "وهران"
       },
       {
-        "en": "Constantine",
-        "ar": "قسنطينة"
+        "en": "Algiers",
+        "ar": "الجزائر العاصمة"
       },
       {
         "en": "Annaba",
         "ar": "عنابة"
+      },
+      {
+        "en": "Constantine",
+        "ar": "قسنطينة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Algiers is the capital of Algeria.",
     "explanation_ar": "مدينة الجزائر هي عاصمة دولة الجزائر."
   },
@@ -1269,16 +1269,16 @@
     "question_ar": "إيه عاصمة تونس؟",
     "options": [
       {
-        "en": "Sfax",
-        "ar": "صفاقس"
-      },
-      {
         "en": "Sousse",
         "ar": "سوسة"
       },
       {
         "en": "Kairouan",
         "ar": "القيروان"
+      },
+      {
+        "en": "Sfax",
+        "ar": "صفاقس"
       },
       {
         "en": "Tunis",
@@ -1299,23 +1299,23 @@
     "question_ar": "تاج محل موجود في أنهي بلد؟",
     "options": [
       {
-        "en": "Pakistan",
-        "ar": "باكستان"
-      },
-      {
-        "en": "Bangladesh",
-        "ar": "بنجلاديش"
-      },
-      {
         "en": "Nepal",
         "ar": "نيبال"
       },
       {
         "en": "India",
         "ar": "الهند"
+      },
+      {
+        "en": "Bangladesh",
+        "ar": "بنجلاديش"
+      },
+      {
+        "en": "Pakistan",
+        "ar": "باكستان"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "The Taj Mahal is located in Agra, India.",
     "explanation_ar": "تاج محل موجود في مدينة أجرا بالهند."
   },
@@ -1329,10 +1329,6 @@
     "question_ar": "مكة المكرمة موجودة في أنهي بلد؟",
     "options": [
       {
-        "en": "Jordan",
-        "ar": "الأردن"
-      },
-      {
         "en": "UAE",
         "ar": "الإمارات"
       },
@@ -1343,9 +1339,13 @@
       {
         "en": "Qatar",
         "ar": "قطر"
+      },
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Mecca is located in Saudi Arabia.",
     "explanation_ar": "مكة المكرمة موجودة في السعودية."
   },
@@ -1359,23 +1359,23 @@
     "question_ar": "إيه أكبر دولة في العالم من حيث المساحة؟",
     "options": [
       {
-        "en": "Canada",
-        "ar": "كندا"
-      },
-      {
-        "en": "China",
-        "ar": "الصين"
-      },
-      {
         "en": "USA",
         "ar": "أمريكا"
       },
       {
         "en": "Russia",
         "ar": "روسيا"
+      },
+      {
+        "en": "Canada",
+        "ar": "كندا"
+      },
+      {
+        "en": "China",
+        "ar": "الصين"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Russia is the largest country in the world by land area.",
     "explanation_ar": "روسيا هي أكبر دولة في العالم من حيث المساحة."
   },
@@ -1389,23 +1389,23 @@
     "question_ar": "إيه أصغر قارة في العالم؟",
     "options": [
       {
-        "en": "Australia",
-        "ar": "أستراليا"
+        "en": "Antarctica",
+        "ar": "القارة القطبية الجنوبية"
       },
       {
         "en": "Europe",
         "ar": "أوروبا"
       },
       {
-        "en": "Antarctica",
-        "ar": "القارة القطبية الجنوبية"
-      },
-      {
         "en": "South America",
         "ar": "أمريكا الجنوبية"
+      },
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Australia is the smallest of the 7 continents.",
     "explanation_ar": "أستراليا هي أصغر قارة من القارات السبعة."
   },
@@ -1423,19 +1423,19 @@
         "ar": "الإنجليزية"
       },
       {
-        "en": "French",
-        "ar": "الفرنسية"
-      },
-      {
         "en": "Arabic",
         "ar": "العربية"
       },
       {
         "en": "Turkish",
         "ar": "التركية"
+      },
+      {
+        "en": "French",
+        "ar": "الفرنسية"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Arabic is the official language of Egypt.",
     "explanation_ar": "اللغة العربية هي اللغة الرسمية في مصر."
   },
@@ -1453,19 +1453,19 @@
         "ar": "بوسان"
       },
       {
-        "en": "Incheon",
-        "ar": "إنتشون"
-      },
-      {
         "en": "Daegu",
         "ar": "دايجو"
       },
       {
         "en": "Seoul",
         "ar": "سيول"
+      },
+      {
+        "en": "Incheon",
+        "ar": "إنتشون"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Seoul is the capital of South Korea.",
     "explanation_ar": "سيول عاصمة كوريا الجنوبية."
   },
@@ -1479,23 +1479,23 @@
     "question_ar": "جبل إيفرست، أعلى جبل في العالم، موجود في أنهي بلد؟",
     "options": [
       {
-        "en": "Nepal",
-        "ar": "نيبال"
+        "en": "Pakistan",
+        "ar": "باكستان"
       },
       {
         "en": "India",
         "ar": "الهند"
       },
       {
-        "en": "Pakistan",
-        "ar": "باكستان"
-      },
-      {
         "en": "Bhutan",
         "ar": "بوتان"
+      },
+      {
+        "en": "Nepal",
+        "ar": "نيبال"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Mount Everest sits on the border of Nepal, and is usually said to be in Nepal.",
     "explanation_ar": "جبل إيفرست موجود على حدود نيبال، وبيتقال عادة إنه في نيبال."
   }

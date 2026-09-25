@@ -9,23 +9,23 @@
     "question_ar": "أم كلثوم اسمها الحقيقي فاطمة إبراهيم السيد البلتاجي، اتولدت في أنهي محافظة مصرية؟",
     "options": [
       {
-        "en": "Gharbiya",
-        "ar": "الغربية"
-      },
-      {
         "en": "Daqahliya",
         "ar": "الدقهلية"
       },
       {
-        "en": "Sharqiya",
-        "ar": "الشرقية"
+        "en": "Gharbiya",
+        "ar": "الغربية"
       },
       {
         "en": "Beheira",
         "ar": "البحيرة"
+      },
+      {
+        "en": "Sharqiya",
+        "ar": "الشرقية"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Umm Kulthum was born in the village of Tammay El-Zahayra in Daqahliya governorate.",
     "explanation_ar": "أم كلثوم اتولدت في قرية طماي الزهايرة بمحافظة الدقهلية."
   },
@@ -43,12 +43,12 @@
         "ar": "محمد الموجي"
       },
       {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
-      },
-      {
         "en": "Kamal El Taweel",
         "ar": "كمال الطويل"
+      },
+      {
+        "en": "Baligh Hamdi",
+        "ar": "بليغ حمدي"
       },
       {
         "en": "Mohamed Abdel Wahab",
@@ -69,16 +69,16 @@
     "question_ar": "أنهي مطرب وملحن مصري لقبه \"موسيقار الأجيال\" ومثل في أفلام أبيض وأسود كتير ولحن نشيد رئاسي؟",
     "options": [
       {
+        "en": "Riad El Sonbati",
+        "ar": "رياض السنباطي"
+      },
+      {
         "en": "Farid El Atrache",
         "ar": "فريد الأطرش"
       },
       {
         "en": "Zakaria Ahmed",
         "ar": "زكريا أحمد"
-      },
-      {
-        "en": "Riad El Sonbati",
-        "ar": "رياض السنباطي"
       },
       {
         "en": "Mohamed Abdel Wahab",
@@ -99,23 +99,23 @@
     "question_ar": "أنهي فرقة روك ألبومها الرابع سنة 1971 (المعروف بـ\"Led Zeppelin IV\") فيه \"Stairway to Heaven\" وأربع رموز على الغلاف من غير اسم؟",
     "options": [
       {
-        "en": "Pink Floyd",
-        "ar": "بينك فلويد"
-      },
-      {
         "en": "Deep Purple",
         "ar": "ديب بيربل"
       },
       {
-        "en": "Black Sabbath",
-        "ar": "بلاك ساباث"
+        "en": "Pink Floyd",
+        "ar": "بينك فلويد"
       },
       {
         "en": "Led Zeppelin",
         "ar": "ليد زبلين"
+      },
+      {
+        "en": "Black Sabbath",
+        "ar": "بلاك ساباث"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Led Zeppelin's untitled fourth album, known as \"Led Zeppelin IV\", features four member symbols and \"Stairway to Heaven\".",
     "explanation_ar": "ألبوم ليد زبلين الرابع من غير اسم، المعروف بـ\"Led Zeppelin IV\"، فيه أربع رموز وأغنية \"Stairway to Heaven\"."
   },
@@ -129,10 +129,6 @@
     "question_ar": "أنهي مطرب مصري، كان منافس لأم كلثوم في وقتها، اشتهر بأغنية \"جفنه علم الغزل\" وتوفي سنة 1974؟",
     "options": [
       {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبد الحليم حافظ"
-      },
-      {
         "en": "Karem Mahmoud",
         "ar": "كارم محمود"
       },
@@ -143,9 +139,13 @@
       {
         "en": "Mohamed Fawzi",
         "ar": "محمد فوزي"
+      },
+      {
+        "en": "Abdel Halim Hafez",
+        "ar": "عبد الحليم حافظ"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Farid El Atrache, known for \"Gafnou El Alil\", passed away in 1974.",
     "explanation_ar": "فريد الأطرش، صاحب أغنية \"جفنه علم الغزل\"، توفي سنة 1974."
   },
@@ -159,23 +159,23 @@
     "question_ar": "ألبوم أنهي مطرب أمريكي سنة 1982 فضل صاحب رقم أكتر ألبوم مبيعًا في التاريخ لعقود؟",
     "options": [
       {
-        "en": "Whitney Houston – Whitney",
-        "ar": "ويتني هيوستن – Whitney"
-      },
-      {
         "en": "Prince – 1999",
         "ar": "برنس – 1999"
       },
       {
-        "en": "Madonna – Like a Virgin",
-        "ar": "مادونا – Like a Virgin"
-      },
-      {
         "en": "Michael Jackson – Thriller",
         "ar": "مايكل جاكسون – Thriller"
+      },
+      {
+        "en": "Whitney Houston – Whitney",
+        "ar": "ويتني هيوستن – Whitney"
+      },
+      {
+        "en": "Madonna – Like a Virgin",
+        "ar": "مادونا – Like a Virgin"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Michael Jackson's \"Thriller\" (1982) has long held the record for best-selling album.",
     "explanation_ar": "ألبوم \"Thriller\" لمايكل جاكسون (1982) فضل صاحب رقم أكتر ألبوم مبيعًا لفترة طويلة."
   },
@@ -189,8 +189,8 @@
     "question_ar": "أنهي مطربة مصرية اشتهرت بأغاني الطرب الأصيل وكانت بنت شيخ قارئ مشهور؟",
     "options": [
       {
-        "en": "Warda",
-        "ar": "وردة"
+        "en": "Umm Kulthum",
+        "ar": "أم كلثوم"
       },
       {
         "en": "Naima Akef",
@@ -201,11 +201,11 @@
         "ar": "شادية"
       },
       {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
+        "en": "Warda",
+        "ar": "وردة"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Umm Kulthum's father was a religious reciter (Sheikh), and she began singing religious verse before her rise to fame.",
     "explanation_ar": "والد أم كلثوم كان شيخ قارئ، وهي بدأت الغناء الديني قبل شهرتها."
   },
@@ -219,20 +219,20 @@
     "question_ar": "أنهي ملحن مصري رائد ألف أوبريت \"العشرة الطيبة\" المعتبرة من أهم أعمال المسرح الغنائي المصري الحديث في بداية العشرينات؟",
     "options": [
       {
-        "en": "Dawoud Hosni",
-        "ar": "داود حسني"
+        "en": "Zakaria Ahmed",
+        "ar": "زكريا أحمد"
       },
       {
         "en": "Sayed Darwish",
         "ar": "سيد درويش"
       },
       {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
-      },
-      {
         "en": "Kamel El Kholai",
         "ar": "كامل الخلعي"
+      },
+      {
+        "en": "Dawoud Hosni",
+        "ar": "داود حسني"
       }
     ],
     "correctAnswer": 1,
@@ -253,16 +253,16 @@
         "ar": "إيجلز"
       },
       {
-        "en": "Fleetwood Mac",
-        "ar": "فليتوود ماك"
-      },
-      {
         "en": "Chicago",
         "ar": "شيكاجو"
       },
       {
         "en": "The Doobie Brothers",
         "ar": "ذا دوبي براذرز"
+      },
+      {
+        "en": "Fleetwood Mac",
+        "ar": "فليتوود ماك"
       }
     ],
     "correctAnswer": 0,
@@ -309,23 +309,23 @@
     "question_ar": "أنهي فنان أمريكي، ملقب بـ\"ملك الروك آند رول\"، مات سنة 1977 في قصره \"جريسلاند\" في ممفيس؟",
     "options": [
       {
-        "en": "Chuck Berry",
-        "ar": "تشاك بيري"
-      },
-      {
         "en": "Elvis Presley",
         "ar": "إلفيس بريسلي"
+      },
+      {
+        "en": "Jerry Lee Lewis",
+        "ar": "جيري لي لويس"
       },
       {
         "en": "Little Richard",
         "ar": "ليتل ريتشارد"
       },
       {
-        "en": "Jerry Lee Lewis",
-        "ar": "جيري لي لويس"
+        "en": "Chuck Berry",
+        "ar": "تشاك بيري"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Elvis Presley died in 1977 at Graceland, his Memphis mansion.",
     "explanation_ar": "إلفيس بريسلي مات سنة 1977 في قصره جريسلاند في ممفيس."
   },
@@ -339,23 +339,23 @@
     "question_ar": "أنهي مطرب مصري غنى أغاني وطنية مشهورة في فترة الستينات وكان من الأصوات المرتبطة بتلك الحقبة جنبًا لجنب مع عبد الحليم؟",
     "options": [
       {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبد الحليم حافظ"
+        "en": "Fayza Ahmed",
+        "ar": "فايزة أحمد"
       },
       {
-        "en": "Karem Mahmoud",
-        "ar": "كارم محمود"
+        "en": "Abdel Halim Hafez",
+        "ar": "عبد الحليم حافظ"
       },
       {
         "en": "Mohamed Kandil",
         "ar": "محمد قنديل"
       },
       {
-        "en": "Fayza Ahmed",
-        "ar": "فايزة أحمد"
+        "en": "Karem Mahmoud",
+        "ar": "كارم محمود"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Abdel Halim Hafez was closely associated with the patriotic songs of the 1960s era in Egypt.",
     "explanation_ar": "عبد الحليم حافظ ارتبط بشكل كبير بالأغاني الوطنية في حقبة الستينات."
   },
@@ -369,10 +369,6 @@
     "question_ar": "أنهي فرقة روك طرحت ألبوم مفاهيمي اسمه \"The Wall\" بيتكلم عن العزلة؟",
     "options": [
       {
-        "en": "Genesis",
-        "ar": "جينيسيس"
-      },
-      {
         "en": "Yes",
         "ar": "يس"
       },
@@ -381,11 +377,15 @@
         "ar": "بينك فلويد"
       },
       {
+        "en": "Genesis",
+        "ar": "جينيسيس"
+      },
+      {
         "en": "King Crimson",
         "ar": "كينج كريمسون"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "\"The Wall\" is Pink Floyd's landmark 1979 concept album.",
     "explanation_ar": "\"The Wall\" ألبوم بينك فلويد المفاهيمي الشهير سنة 1979."
   },
@@ -399,23 +399,23 @@
     "question_ar": "أنهي مطرب مصري ساهم في إحياء أسلوب الغناء الأندلسي \"الموشح\" في الموسيقى المصرية الحديثة في القرن العشرين؟",
     "options": [
       {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
+        "en": "Mohamed El Mougy",
+        "ar": "محمد الموجي"
       },
       {
         "en": "Riad El Sonbati",
         "ar": "رياض السنباطي"
       },
       {
-        "en": "Mohamed El Mougy",
-        "ar": "محمد الموجي"
-      },
-      {
         "en": "Sayed Mekawy",
         "ar": "سيد مكاوي"
+      },
+      {
+        "en": "Zakaria Ahmed",
+        "ar": "زكريا أحمد"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Sayed Mekawy is known for reviving muwashah and traditional Arabic vocal forms in modern settings.",
     "explanation_ar": "سيد مكاوي معروف بإحياء الموشحات والأشكال الغنائية العربية التراثية بشكل حديث."
   },
@@ -429,12 +429,12 @@
     "question_ar": "مطرب أنهي فرقة بريطانية، فريدي ميركوري، مات سنة 1991 بعد ما أعلن إصابته بالإيدز بوقت قصير؟",
     "options": [
       {
-        "en": "Queen",
-        "ar": "كوين"
-      },
-      {
         "en": "Genesis",
         "ar": "جينيسيس"
+      },
+      {
+        "en": "Queen",
+        "ar": "كوين"
       },
       {
         "en": "The Police",
@@ -445,7 +445,7 @@
         "ar": "ديب بيربل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Freddie Mercury of Queen died in 1991, a day after announcing he had AIDS.",
     "explanation_ar": "فريدي ميركوري من فرقة كوين مات سنة 1991 بعد يوم من إعلانه إصابته بالإيدز."
   },
@@ -463,16 +463,16 @@
         "ar": "بليغ حمدي"
       },
       {
-        "en": "Mohamed El Mougy",
-        "ar": "محمد الموجي"
+        "en": "Ahmed Fouad Hassan",
+        "ar": "أحمد فؤاد حسن"
       },
       {
         "en": "Kamal El Taweel",
         "ar": "كمال الطويل"
       },
       {
-        "en": "Ahmed Fouad Hassan",
-        "ar": "أحمد فؤاد حسن"
+        "en": "Mohamed El Mougy",
+        "ar": "محمد الموجي"
       }
     ],
     "correctAnswer": 0,
@@ -489,6 +489,10 @@
     "question_ar": "ألبوم أنهي فنان أمريكي سنة 1971 اسمه \"What's Going On\" بيتعتبر من أعظم ألبومات السول الاجتماعية في التاريخ؟",
     "options": [
       {
+        "en": "Al Green",
+        "ar": "آل جرين"
+      },
+      {
         "en": "Marvin Gaye",
         "ar": "مارفن جاي"
       },
@@ -497,15 +501,11 @@
         "ar": "ستيفي وندر"
       },
       {
-        "en": "Al Green",
-        "ar": "آل جرين"
-      },
-      {
         "en": "Curtis Mayfield",
         "ar": "كورتيس مايفيلد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Marvin Gaye's \"What's Going On\" (1971) is a landmark socially-conscious soul album.",
     "explanation_ar": "ألبوم \"What's Going On\" لمارفن جاي (1971) من أهم ألبومات السول الاجتماعية."
   },
@@ -519,12 +519,12 @@
     "question_ar": "أنهي مطرب لبناني قديم، معروف بلقب \"صوت لبنان\"، بنى مشوار فلكلوري أسطوري بعيدًا عن فيروز؟",
     "options": [
       {
-        "en": "Wadih El Safi",
-        "ar": "وديع الصافي"
-      },
-      {
         "en": "Sabah",
         "ar": "صباح"
+      },
+      {
+        "en": "Wadih El Safi",
+        "ar": "وديع الصافي"
       },
       {
         "en": "Melhem Barakat",
@@ -535,7 +535,7 @@
         "ar": "راغب علامة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Wadih El Safi, nicknamed the \"Voice of Lebanon\", was a towering figure in Lebanese song, independent of Fairuz's circle.",
     "explanation_ar": "وديع الصافي، ملقب بـ\"صوت لبنان\"، كان من أعمدة الغناء اللبناني، بعيدًا عن دائرة فيروز."
   },
@@ -549,23 +549,23 @@
     "question_ar": "ألبوم أنهي رابر أمريكي الأول \"Ready to Die\" سنة 1994 بيتعتبر من أهم ألبومات الهيب هوب الشرقية قبل مقتله سنة 1997؟",
     "options": [
       {
-        "en": "The Notorious B.I.G.",
-        "ar": "ذا نوتوريوس بي آي جي"
-      },
-      {
-        "en": "Tupac Shakur",
-        "ar": "توباك شاكور"
-      },
-      {
         "en": "Nas",
         "ar": "ناس"
       },
       {
+        "en": "The Notorious B.I.G.",
+        "ar": "ذا نوتوريوس بي آي جي"
+      },
+      {
         "en": "Jay-Z",
         "ar": "جاي زي"
+      },
+      {
+        "en": "Tupac Shakur",
+        "ar": "توباك شاكور"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Notorious B.I.G.'s \"Ready to Die\" (1994) is a landmark East Coast hip-hop album.",
     "explanation_ar": "ألبوم \"Ready to Die\" (1994) لذا نوتوريوس بي آي جي من أهم ألبومات الهيب هوب الشرقية."
   },
@@ -579,23 +579,23 @@
     "question_ar": "أنهي مطربة مصرية اشتهرت بأغاني السينما الغنائية في الخمسينات والستينات وبعدين بقت ممثلة سينمائية محترمة؟",
     "options": [
       {
-        "en": "Naima Akef",
-        "ar": "نعيمة عاكف"
-      },
-      {
-        "en": "Faten Hamama",
-        "ar": "فاتن حمامة"
+        "en": "Soad Hosny",
+        "ar": "سعاد حسني"
       },
       {
         "en": "Shadia",
         "ar": "شادية"
       },
       {
-        "en": "Soad Hosny",
-        "ar": "سعاد حسني"
+        "en": "Naima Akef",
+        "ar": "نعيمة عاكف"
+      },
+      {
+        "en": "Faten Hamama",
+        "ar": "فاتن حمامة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Shadia was a major singing and acting star of Egyptian cinema's golden era.",
     "explanation_ar": "شادية كانت نجمة غناء وتمثيل كبيرة في العصر الذهبي للسينما المصرية."
   },
@@ -609,16 +609,16 @@
     "question_ar": "أنهي مطربة أمريكية توفت وعمرها 27 سنة، وبكده بقت من \"نادي الـ27\" زي جيمي هيندريكس وجيم موريسون وكورت كوبين وإيمي واينهاوس؟",
     "options": [
       {
-        "en": "Karen Carpenter",
-        "ar": "كارين كاربنتر"
+        "en": "Dusty Springfield",
+        "ar": "داستي سبرينجفيلد"
       },
       {
         "en": "Cass Elliot",
         "ar": "كاس إليوت"
       },
       {
-        "en": "Dusty Springfield",
-        "ar": "داستي سبرينجفيلد"
+        "en": "Karen Carpenter",
+        "ar": "كارين كاربنتر"
       },
       {
         "en": "Janis Joplin",
@@ -639,23 +639,23 @@
     "question_ar": "أنهي مطربة مصرية غنت \"أحسن الناس\" (تلحين بليغ حمدي) وكانت من أهم أصوات الرومانسية في السبعينات والثمانينات؟",
     "options": [
       {
-        "en": "Nagat El Saghira",
-        "ar": "نجاة الصغيرة"
-      },
-      {
         "en": "Faiza Ahmed",
         "ar": "فايزة أحمد"
+      },
+      {
+        "en": "Shadia",
+        "ar": "شادية"
       },
       {
         "en": "Warda",
         "ar": "وردة"
       },
       {
-        "en": "Shadia",
-        "ar": "شادية"
+        "en": "Nagat El Saghira",
+        "ar": "نجاة الصغيرة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Nagat El Saghira sang \"Ahsan Nas\" and was a leading romantic pop voice of her era.",
     "explanation_ar": "نجاة الصغيرة غنت \"أحسن الناس\" وكانت من أهم أصوات الرومانسية في وقتها."
   },
@@ -669,23 +669,23 @@
     "question_ar": "أنهي فرقة أمريكية مطربها الرئيسي جيم موريسون مات في باريس سنة 1971 وبقى من \"نادي الـ27\"؟",
     "options": [
       {
-        "en": "Jefferson Airplane",
-        "ar": "جيفرسون إيربلين"
+        "en": "The Byrds",
+        "ar": "ذا بيردز"
       },
       {
         "en": "The Grateful Dead",
         "ar": "ذا جريتفل ديد"
       },
       {
-        "en": "The Doors",
-        "ar": "ذا دورز"
+        "en": "Jefferson Airplane",
+        "ar": "جيفرسون إيربلين"
       },
       {
-        "en": "The Byrds",
-        "ar": "ذا بيردز"
+        "en": "The Doors",
+        "ar": "ذا دورز"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Jim Morrison of The Doors died in Paris in 1971 at age 27.",
     "explanation_ar": "جيم موريسون من فرقة ذا دورز مات في باريس سنة 1971 وعمره 27 سنة."
   },
@@ -699,23 +699,23 @@
     "question_ar": "أنهي فنان مصري في أغنيته سنة 2022 بقت نشيد غير رسمي مرتبط بكأس العالم وصدرت تشارتات الاستماع العربية في السنة دي؟",
     "options": [
       {
-        "en": "Wegz — \"Dorak Gai\"",
-        "ar": "ويجز – \"دورك جاي\""
-      },
-      {
-        "en": "Marwan Pablo — \"El Gamaa\"",
-        "ar": "مروان بابلو – \"الجماعة\""
-      },
-      {
         "en": "Abyusif — \"Analogy\"",
         "ar": "أبيوسف – \"أنالوجي\""
       },
       {
+        "en": "Wegz — \"Dorak Gai\"",
+        "ar": "ويجز – \"دورك جاي\""
+      },
+      {
         "en": "Afroto — \"Aymen\"",
         "ar": "أفروتو – \"أيمن\""
+      },
+      {
+        "en": "Marwan Pablo — \"El Gamaa\"",
+        "ar": "مروان بابلو – \"الجماعة\""
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Wegz's \"Dorak Gai\" was tied to the 2022 FIFA World Cup and became one of the year's biggest Arabic tracks.",
     "explanation_ar": "\"دورك جاي\" لويجز ارتبطت بكأس العالم 2022 وبقت من أنجح الأغاني العربية في السنة دي."
   },
@@ -729,16 +729,16 @@
     "question_ar": "أنهي فنان أمريكي مات سنة 2016 وكانت وفاته صدمة كبيرة، واشتهر بأغنية \"Purple Rain\" ومزج الروك والفانك والبوب؟",
     "options": [
       {
-        "en": "David Bowie",
-        "ar": "ديفيد بوي"
+        "en": "George Michael",
+        "ar": "جورج مايكل"
       },
       {
         "en": "Prince",
         "ar": "برنس"
       },
       {
-        "en": "George Michael",
-        "ar": "جورج مايكل"
+        "en": "David Bowie",
+        "ar": "ديفيد بوي"
       },
       {
         "en": "Chris Cornell",
@@ -763,12 +763,12 @@
         "ar": "روبي"
       },
       {
-        "en": "Angham",
-        "ar": "أنغام"
-      },
-      {
         "en": "Latifa",
         "ar": "لطيفة"
+      },
+      {
+        "en": "Angham",
+        "ar": "أنغام"
       },
       {
         "en": "Aida El Ayoubi",
@@ -789,16 +789,16 @@
     "question_ar": "أنهي فرقة روك أمريكية، مطربها كريس كورنيل (اللي كان كمان في ساوندجاردن)، مات سنة 2017 وهو بيعمل جولة حفلات؟",
     "options": [
       {
-        "en": "Alice in Chains",
-        "ar": "أليس إن تشينز"
-      },
-      {
         "en": "Stone Temple Pilots",
         "ar": "ستون تمبل بايلوتس"
       },
       {
         "en": "Rage Against the Machine",
         "ar": "ريج أجينست ذا ماشين"
+      },
+      {
+        "en": "Alice in Chains",
+        "ar": "أليس إن تشينز"
       },
       {
         "en": "Audioslave",
@@ -819,23 +819,23 @@
     "question_ar": "أنهي مطربة مصرية، معروفة بـ\"كوكب الشرق\"، قدمت آخر حفلاتها الكبيرة سنة 1973 قبل ما مشاكلها الصحية توقف ظهورها الحي؟",
     "options": [
       {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
-      },
-      {
         "en": "Warda",
         "ar": "وردة"
+      },
+      {
+        "en": "Shadia",
+        "ar": "شادية"
       },
       {
         "en": "Fayza Ahmed",
         "ar": "فايزة أحمد"
       },
       {
-        "en": "Shadia",
-        "ar": "شادية"
+        "en": "Umm Kulthum",
+        "ar": "أم كلثوم"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Umm Kulthum's live performing career largely ended around 1973 due to declining health, before her death in 1975.",
     "explanation_ar": "مشوار أم كلثوم في الغناء الحي توقف تقريبًا حوالين 1973 بسبب تدهور صحتها، قبل وفاتها سنة 1975."
   },
@@ -849,23 +849,23 @@
     "question_ar": "مطرب أنهي فرقة أمريكية، كورت كوبين، مات سنة 1994 وبقى رمز لنهاية عصر الجرانج و\"نادي الـ27\"؟",
     "options": [
       {
-        "en": "Soundgarden",
-        "ar": "ساوندجاردن"
+        "en": "Alice in Chains",
+        "ar": "أليس إن تشينز"
       },
       {
-        "en": "Nirvana",
-        "ar": "نيرفانا"
+        "en": "Soundgarden",
+        "ar": "ساوندجاردن"
       },
       {
         "en": "Stone Temple Pilots",
         "ar": "ستون تمبل بايلوتس"
       },
       {
-        "en": "Alice in Chains",
-        "ar": "أليس إن تشينز"
+        "en": "Nirvana",
+        "ar": "نيرفانا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Kurt Cobain of Nirvana died in 1994 at age 27.",
     "explanation_ar": "كورت كوبين من فرقة نيرفانا مات سنة 1994 وعمره 27 سنة."
   },
@@ -879,6 +879,10 @@
     "question_ar": "أنهي مطربة مصرية اشتهرت بأغنية \"ست الحبايب\" وكانت من أهم أصوات الأغاني الرومانسية في الثمانينات والتسعينات؟",
     "options": [
       {
+        "en": "Iman El Bahr Darwish (distractor)",
+        "ar": "إيمان البحر درويش (مموه)"
+      },
+      {
         "en": "Mohamed Fouad (male, distractor)",
         "ar": "محمد فؤاد (ذكر، مموه)"
       },
@@ -889,13 +893,9 @@
       {
         "en": "Aida El Ayoubi",
         "ar": "عايدة الأيوبي"
-      },
-      {
-        "en": "Iman El Bahr Darwish (distractor)",
-        "ar": "إيمان البحر درويش (مموه)"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Latifa, a Tunisian-born singer popular in Egypt, is known for the hit \"Set El Habayeb\".",
     "explanation_ar": "لطيفة، المطربة التونسية المشهورة في مصر، معروفة بأغنية \"ست الحبايب\"."
   },
@@ -909,23 +909,23 @@
     "question_ar": "أنهي مطرب بريطاني مات سنة 2016 بعد ما طرح ألبوم \"Blackstar\" بيومين بس من عيد ميلاده الـ69؟",
     "options": [
       {
-        "en": "George Michael",
-        "ar": "جورج مايكل"
-      },
-      {
-        "en": "Freddie Mercury",
-        "ar": "فريدي ميركوري"
-      },
-      {
         "en": "David Bowie",
         "ar": "ديفيد بوي"
       },
       {
         "en": "Ian Curtis",
         "ar": "إيان كيرتس"
+      },
+      {
+        "en": "Freddie Mercury",
+        "ar": "فريدي ميركوري"
+      },
+      {
+        "en": "George Michael",
+        "ar": "جورج مايكل"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "David Bowie died in January 2016, two days after his 69th birthday and the release of \"Blackstar\".",
     "explanation_ar": "ديفيد بوي توفي في يناير 2016 بعد يومين بس من عيد ميلاده الـ69 وطرح ألبوم \"Blackstar\"."
   },
@@ -939,23 +939,23 @@
     "question_ar": "بيتقال إيه على نظام السلالم اللحنية الأساسي في الموسيقى العربية الكلاسيكية، زي مقام راست أو مقام حجاز؟",
     "options": [
       {
-        "en": "Iqa",
-        "ar": "إيقاع"
-      },
-      {
-        "en": "Maqam",
-        "ar": "مقام"
-      },
-      {
         "en": "Tarab",
         "ar": "طرب"
       },
       {
         "en": "Sama'i",
         "ar": "سماعي"
+      },
+      {
+        "en": "Maqam",
+        "ar": "مقام"
+      },
+      {
+        "en": "Iqa",
+        "ar": "إيقاع"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "The maqam system is the foundational modal scale system of Arabic classical music.",
     "explanation_ar": "نظام المقامات هو أساس السلالم اللحنية في الموسيقى العربية الكلاسيكية."
   },
@@ -969,10 +969,6 @@
     "question_ar": "أنهي مطرب مصري في التسعينات اشتهر بأغاني بوب-شعبي ناجحة من إنتاج عمرو مصطفى؟",
     "options": [
       {
-        "en": "Mostafa Amar",
-        "ar": "مصطفى قمر"
-      },
-      {
         "en": "Hisham Abbas",
         "ar": "هشام عباس"
       },
@@ -983,9 +979,13 @@
       {
         "en": "Ehab Tawfik",
         "ar": "إيهاب توفيق"
+      },
+      {
+        "en": "Mostafa Amar",
+        "ar": "مصطفى قمر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Mostafa Amar had major 1990s hits produced by composer Amr Mostafa.",
     "explanation_ar": "مصطفى قمر كان من نجوم التسعينات بأغاني إنتاج عمرو مصطفى."
   },
@@ -999,23 +999,23 @@
     "question_ar": "أغنية \"Bohemian Rhapsody\" (1975) لأنهي فرقة كانت غريبة لأنها جمعت بالاد وأوبرا وهارد روك في أغنية واحدة طولها 6 دقايق؟",
     "options": [
       {
-        "en": "Genesis",
-        "ar": "جينيسيس"
-      },
-      {
         "en": "Yes",
         "ar": "يس"
       },
       {
-        "en": "10cc",
-        "ar": "تن سي سي"
+        "en": "Genesis",
+        "ar": "جينيسيس"
       },
       {
         "en": "Queen",
         "ar": "كوين"
+      },
+      {
+        "en": "10cc",
+        "ar": "تن سي سي"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Queen's \"Bohemian Rhapsody\" famously blends multiple musical styles in one song.",
     "explanation_ar": "أغنية \"Bohemian Rhapsody\" لكوين مشهورة بمزجها لأساليب موسيقية مختلفة في أغنية واحدة."
   },
@@ -1029,12 +1029,12 @@
     "question_ar": "أنهي عازف عود مصري بارع وملحن، كان من عازفي أوركسترا أم كلثوم لفترة طويلة واشتهر كعازف منفرد كمان؟",
     "options": [
       {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      },
-      {
         "en": "Farid El Atrache",
         "ar": "فريد الأطرش"
+      },
+      {
+        "en": "Mohamed Abdel Wahab",
+        "ar": "محمد عبد الوهاب"
       },
       {
         "en": "Riad El Sonbati",
@@ -1059,23 +1059,23 @@
     "question_ar": "أنهي مطربة أمريكية معروفة بأغنية \"Genie in a Bottle\" وبقدرتها الصوتية الكبيرة؟",
     "options": [
       {
-        "en": "Britney Spears",
-        "ar": "بريتني سبيرز"
-      },
-      {
         "en": "Jessica Simpson",
         "ar": "جيسيكا سيمبسون"
+      },
+      {
+        "en": "Christina Aguilera",
+        "ar": "كريستينا أغيليرا"
       },
       {
         "en": "Mandy Moore",
         "ar": "ماندي مور"
       },
       {
-        "en": "Christina Aguilera",
-        "ar": "كريستينا أغيليرا"
+        "en": "Britney Spears",
+        "ar": "بريتني سبيرز"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Christina Aguilera is known for \"Genie in a Bottle\" and her powerful vocals.",
     "explanation_ar": "كريستينا أغيليرا معروفة بأغنية \"Genie in a Bottle\" وقدرتها الصوتية."
   },
@@ -1097,12 +1097,12 @@
         "ar": "مدحت صالح"
       },
       {
-        "en": "Ali El Haggar",
-        "ar": "علي الحجار"
-      },
-      {
         "en": "Mohamed Fouad",
         "ar": "محمد فؤاد"
+      },
+      {
+        "en": "Ali El Haggar",
+        "ar": "علي الحجار"
       }
     ],
     "correctAnswer": 0,
@@ -1123,16 +1123,16 @@
         "ar": "مايكل جاكسون"
       },
       {
-        "en": "Prince",
-        "ar": "برنس"
+        "en": "George Michael",
+        "ar": "جورج مايكل"
       },
       {
         "en": "Whitney Houston",
         "ar": "ويتني هيوستن"
       },
       {
-        "en": "George Michael",
-        "ar": "جورج مايكل"
+        "en": "Prince",
+        "ar": "برنس"
       }
     ],
     "correctAnswer": 0,
@@ -1149,23 +1149,23 @@
     "question_ar": "أنهي مطربة مصرية، بصوت قوي مميز، غنت أغاني كتير في الستينات من تلحين بليغ حمدي وكانت من أهم مؤديات ألحانه الأولى؟",
     "options": [
       {
-        "en": "Naima Akef",
-        "ar": "نعيمة عاكف"
-      },
-      {
         "en": "Shadia",
         "ar": "شادية"
+      },
+      {
+        "en": "Fayza Ahmed",
+        "ar": "فايزة أحمد"
       },
       {
         "en": "Warda",
         "ar": "وردة"
       },
       {
-        "en": "Fayza Ahmed",
-        "ar": "فايزة أحمد"
+        "en": "Naima Akef",
+        "ar": "نعيمة عاكف"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Fayza Ahmed was known for her powerful voice and was a key early interpreter of Baligh Hamdi's compositions.",
     "explanation_ar": "فايزة أحمد اشتهرت بصوتها القوي وكانت من أهم مؤديات ألحان بليغ حمدي الأولى."
   },
@@ -1179,8 +1179,8 @@
     "question_ar": "بيتقال إيه على الأنماط الإيقاعية التقليدية زي المقسوم والصعيدي في الموسيقى العربية الإيقاعية؟",
     "options": [
       {
-        "en": "Maqam",
-        "ar": "مقام"
+        "en": "Iqa",
+        "ar": "إيقاع"
       },
       {
         "en": "Tarab",
@@ -1191,11 +1191,11 @@
         "ar": "زجل"
       },
       {
-        "en": "Iqa",
-        "ar": "إيقاع"
+        "en": "Maqam",
+        "ar": "مقام"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "These traditional rhythmic patterns are called \"iqa\" in Arabic music theory.",
     "explanation_ar": "الأنماط الإيقاعية التقليدية دي اسمها \"إيقاع\" في نظرية الموسيقى العربية."
   },
@@ -1209,23 +1209,23 @@
     "question_ar": "أنهي فرقة روك، اتأسست في سياتل، طرحت ألبوم الجرانج المهم \"Ten\" سنة 1991 بقيادة إيدي فيدر؟",
     "options": [
       {
-        "en": "Nirvana",
-        "ar": "نيرفانا"
-      },
-      {
         "en": "Soundgarden",
         "ar": "ساوندجاردن"
       },
       {
-        "en": "Pearl Jam",
-        "ar": "بيرل جام"
-      },
-      {
         "en": "Stone Temple Pilots",
         "ar": "ستون تمبل بايلوتس"
+      },
+      {
+        "en": "Nirvana",
+        "ar": "نيرفانا"
+      },
+      {
+        "en": "Pearl Jam",
+        "ar": "بيرل جام"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Pearl Jam, fronted by Eddie Vedder, released \"Ten\" in 1991.",
     "explanation_ar": "فرقة بيرل جام، بقيادة إيدي فيدر، طرحت ألبوم \"Ten\" سنة 1991."
   },
@@ -1243,16 +1243,16 @@
         "ar": "مصطفى قمر"
       },
       {
-        "en": "Hisham Gamal",
-        "ar": "هشام جمال"
-      },
-      {
         "en": "Amr Mostafa",
         "ar": "عمرو مصطفى"
       },
       {
         "en": "Medhat Saleh",
         "ar": "مدحت صالح"
+      },
+      {
+        "en": "Hisham Gamal",
+        "ar": "هشام جمال"
       }
     ],
     "correctAnswer": 0,
@@ -1269,10 +1269,6 @@
     "question_ar": "ألبوم أنهي مطربة أمريكية سنة 1998 \"...Baby One More Time\" بدأ مشوارها كأيقونة بوب أواخر التسعينات وبداية الألفينات؟",
     "options": [
       {
-        "en": "Britney Spears",
-        "ar": "بريتني سبيرز"
-      },
-      {
         "en": "Christina Aguilera",
         "ar": "كريستينا أغيليرا"
       },
@@ -1283,9 +1279,13 @@
       {
         "en": "Jessica Simpson",
         "ar": "جيسيكا سيمبسون"
+      },
+      {
+        "en": "Britney Spears",
+        "ar": "بريتني سبيرز"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Britney Spears' debut album \"...Baby One More Time\" (1998) launched her superstardom.",
     "explanation_ar": "ألبوم بريتني سبيرز الأول \"...Baby One More Time\" (1998) بدأ نجوميتها الكبيرة."
   },
@@ -1303,12 +1303,12 @@
         "ar": "فتحي سلامة"
       },
       {
-        "en": "Yehia Khalil",
-        "ar": "يحيى خليل"
-      },
-      {
         "en": "Rageh Daoud",
         "ar": "راجح داود"
+      },
+      {
+        "en": "Yehia Khalil",
+        "ar": "يحيى خليل"
       },
       {
         "en": "Helmy Bakr",
@@ -1329,23 +1329,23 @@
     "question_ar": "أداء أنهي فنان أمريكي في مهرجان وودستوك 1969، وفيه عزف منفرد للنشيد الأمريكي، بقى أسطوريًا؟",
     "options": [
       {
-        "en": "Santana",
-        "ar": "سانتانا"
-      },
-      {
-        "en": "Jimi Hendrix",
-        "ar": "جيمي هيندريكس"
-      },
-      {
         "en": "The Who",
         "ar": "ذا هو"
       },
       {
+        "en": "Santana",
+        "ar": "سانتانا"
+      },
+      {
         "en": "Janis Joplin",
         "ar": "جانيس جوبلين"
+      },
+      {
+        "en": "Jimi Hendrix",
+        "ar": "جيمي هيندريكس"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Jimi Hendrix's Woodstock 1969 rendition of \"The Star-Spangled Banner\" is legendary.",
     "explanation_ar": "عزف جيمي هيندريكس للنشيد الأمريكي في وودستوك 1969 بقى أسطوريًا."
   },
@@ -1359,23 +1359,23 @@
     "question_ar": "أنهي مطرب مصري، بصوته القوي الخشن وأغاني زي \"حبيبي ولا على بالي\"، اشتهر عن طريق السينما المصرية في الخمسينات والستينات؟",
     "options": [
       {
-        "en": "Mohamed Fawzi",
-        "ar": "محمد فوزي"
+        "en": "Karem Mahmoud",
+        "ar": "كارم محمود"
       },
       {
         "en": "Abdel Aziz Mahmoud",
         "ar": "عبد العزيز محمود"
       },
       {
-        "en": "Karem Mahmoud",
-        "ar": "كارم محمود"
+        "en": "Mohamed Fawzi",
+        "ar": "محمد فوزي"
       },
       {
         "en": "Mohamed Kandil",
         "ar": "محمد قنديل"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Karem Mahmoud was a prominent singer and film star of that era known for his rich voice.",
     "explanation_ar": "كارم محمود كان مطرب ونجم سينما بارز في الفترة دي بصوته الغني."
   },
@@ -1389,23 +1389,23 @@
     "question_ar": "مقتل أنهي رابر أمريكي في لاس فيجاس سنة 1996 فضل من أشهر قضايا الهيب هوب الغامضة لعقود؟",
     "options": [
       {
-        "en": "Tupac Shakur",
-        "ar": "توباك شاكور"
-      },
-      {
-        "en": "The Notorious B.I.G.",
-        "ar": "ذا نوتوريوس بي آي جي"
-      },
-      {
         "en": "Big L",
         "ar": "بيج إل"
       },
       {
         "en": "Proof (D12)",
         "ar": "بروف (دي 12)"
+      },
+      {
+        "en": "Tupac Shakur",
+        "ar": "توباك شاكور"
+      },
+      {
+        "en": "The Notorious B.I.G.",
+        "ar": "ذا نوتوريوس بي آي جي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Tupac Shakur was murdered in Las Vegas in 1996 in a case that remained officially unsolved for decades.",
     "explanation_ar": "توباك شاكور اتقتل في لاس فيجاس سنة 1996 وفضلت القضية غامضة رسميًا لعقود."
   },
@@ -1419,23 +1419,23 @@
     "question_ar": "أنهي مطرب مصري صوته موجود في أغنية شهيرة ومحبوبة للأطفال جنب مشوار حافل بالأغاني الرومانسية؟",
     "options": [
       {
-        "en": "Mohamed Fouad",
-        "ar": "محمد فؤاد"
-      },
-      {
-        "en": "Hany Shaker",
-        "ar": "هاني شاكر"
-      },
-      {
         "en": "Medhat Saleh",
         "ar": "مدحت صالح"
       },
       {
         "en": "Ehab Tawfik",
         "ar": "إيهاب توفيق"
+      },
+      {
+        "en": "Mohamed Fouad",
+        "ar": "محمد فؤاد"
+      },
+      {
+        "en": "Hany Shaker",
+        "ar": "هاني شاكر"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Medhat Saleh is known for the beloved song \"Baba Fen\" in addition to his romantic repertoire.",
     "explanation_ar": "مدحت صالح معروف بأغنية \"بابا فين\" المحبوبة بجانب مشواره في الأغاني الرومانسية."
   },
@@ -1449,23 +1449,23 @@
     "question_ar": "أنهي فنان أمريكي شارك في كتابة أغنية \"We Are the World\" الخيرية سنة 1985 مع ليونيل ريتشي لجمع تبرعات للمجاعة في أفريقيا؟",
     "options": [
       {
-        "en": "Stevie Wonder",
-        "ar": "ستيفي وندر"
-      },
-      {
         "en": "Michael Jackson",
         "ar": "مايكل جاكسون"
       },
       {
-        "en": "Prince",
-        "ar": "برنس"
-      },
-      {
         "en": "Quincy Jones",
         "ar": "كوينسي جونز"
+      },
+      {
+        "en": "Stevie Wonder",
+        "ar": "ستيفي وندر"
+      },
+      {
+        "en": "Prince",
+        "ar": "برنس"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Michael Jackson co-wrote \"We Are the World\" with Lionel Richie in 1985.",
     "explanation_ar": "مايكل جاكسون شارك في كتابة \"We Are the World\" مع ليونيل ريتشي سنة 1985."
   },
@@ -1483,12 +1483,12 @@
         "ar": "زياد رحباني"
       },
       {
-        "en": "Marcel Khalife",
-        "ar": "مارسيل خليفة"
-      },
-      {
         "en": "Toufic Farroukh",
         "ar": "توفيق فروخ"
+      },
+      {
+        "en": "Marcel Khalife",
+        "ar": "مارسيل خليفة"
       },
       {
         "en": "Issam Rafea",

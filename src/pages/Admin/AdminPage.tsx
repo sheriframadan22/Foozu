@@ -72,8 +72,13 @@ function StatTile({ label, value, accent }: { label: string; value: string | num
 function Dashboard() {
   const [query, setQuery] = useState('');
   const [tick, setTick] = useState(0); // bump to force re-read from storage
+  // `tick` isn't read inside these — it's a deliberate cache-buster so this component
+  // re-reads localStorage after an export/reset action, since the store itself isn't reactive.
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const games = useMemo(() => gameStore.getAll(), [tick]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const leaderboard = useMemo(() => gameStore.leaderboard(), [tick]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const stats = useMemo(() => Object.values(questionStatsStore.getAll()), [tick]);
 
   const todayGames = games.filter((g) => isToday(g.endTime));

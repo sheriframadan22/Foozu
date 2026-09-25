@@ -9,10 +9,6 @@
     "question_ar": "حفلات أم كلثوم الشهرية كانت بتتذاع لايف في الراديو المصري أول أنهي يوم في الشهر لعقود وبقت طقس وطني؟",
     "options": [
       {
-        "en": "Thursday",
-        "ar": "خميس"
-      },
-      {
         "en": "Friday",
         "ar": "جمعة"
       },
@@ -23,9 +19,13 @@
       {
         "en": "Tuesday",
         "ar": "تلات"
+      },
+      {
+        "en": "Thursday",
+        "ar": "خميس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Umm Kulthum's concerts aired on the first Thursday of every month, a beloved national tradition.",
     "explanation_ar": "حفلات أم كلثوم كانت بتتذاع أول خميس من كل شهر، تقليد وطني محبوب."
   },
@@ -39,23 +39,23 @@
     "question_ar": "أنهي شاعر مصري كتب كلمات \"إنت عمري\"، الأغنية الكلاسيكية اللي غنتها أم كلثوم وتلحين محمد عبد الوهاب؟",
     "options": [
       {
-        "en": "Bayram El Tunisi",
-        "ar": "بيرم التونسي"
-      },
-      {
         "en": "Ahmed Shafiq Kamel",
         "ar": "أحمد شفيق كامل"
+      },
+      {
+        "en": "Salah Jahin",
+        "ar": "صلاح جاهين"
       },
       {
         "en": "Nizar Qabbani",
         "ar": "نزار قباني"
       },
       {
-        "en": "Salah Jahin",
-        "ar": "صلاح جاهين"
+        "en": "Bayram El Tunisi",
+        "ar": "بيرم التونسي"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Ahmed Shafiq Kamel wrote the lyrics for \"Enta Omri\".",
     "explanation_ar": "أحمد شفيق كامل كتب كلمات أغنية \"إنت عمري\"."
   },
@@ -99,23 +99,23 @@
     "question_ar": "أداء أنهي عازف جيتار من أصل لاتيني لأغنية \"Soul Sacrifice\" في وودستوك 1969 أطلق شهرة فرقته على المستوى العالمي؟",
     "options": [
       {
-        "en": "Jimi Hendrix",
-        "ar": "جيمي هيندريكس"
-      },
-      {
-        "en": "Eric Clapton",
-        "ar": "إريك كلابتون"
+        "en": "Carlos Santana",
+        "ar": "كارلوس سانتانا"
       },
       {
         "en": "Jorge Santana",
         "ar": "خورخي سانتانا"
       },
       {
-        "en": "Carlos Santana",
-        "ar": "كارلوس سانتانا"
+        "en": "Jimi Hendrix",
+        "ar": "جيمي هيندريكس"
+      },
+      {
+        "en": "Eric Clapton",
+        "ar": "إريك كلابتون"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Carlos Santana's Woodstock 1969 performance of \"Soul Sacrifice\" launched his band's fame.",
     "explanation_ar": "أداء كارلوس سانتانا لأغنية \"Soul Sacrifice\" في وودستوك 1969 أطلق شهرة فرقته."
   },
@@ -129,23 +129,23 @@
     "question_ar": "أنهي ملحن مصري في العشرينات كان من أوائل من استخدموا العامية المصرية (بدل الفصحى) في الأعمال الغنائية الجادة؟",
     "options": [
       {
-        "en": "Sayed Darwish",
-        "ar": "سيد درويش"
-      },
-      {
         "en": "Dawoud Hosni",
         "ar": "داود حسني"
       },
       {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
+        "en": "Sayed Darwish",
+        "ar": "سيد درويش"
       },
       {
         "en": "Kamel El Kholai",
         "ar": "كامل الخلعي"
+      },
+      {
+        "en": "Zakaria Ahmed",
+        "ar": "زكريا أحمد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Sayed Darwish pioneered using colloquial Egyptian Arabic in serious musical compositions, a revolutionary shift.",
     "explanation_ar": "سيد درويش كان من أوائل من استخدموا العامية المصرية في الأعمال الغنائية الجادة، وده كان تحول ثوري."
   },
@@ -159,23 +159,23 @@
     "question_ar": "وفاة أنهي مطرب أمريكي سنة 1959 في حادثة طيارة مع بادي هولي وذا بيج بوبر بقت معروفة بـ\"يوم موت الموسيقى\"؟",
     "options": [
       {
-        "en": "Ritchie Valens",
-        "ar": "ريتشي فالينز"
+        "en": "Gene Vincent",
+        "ar": "جين فينسنت"
       },
       {
         "en": "Eddie Cochran",
         "ar": "إيدي كوكران"
       },
       {
-        "en": "Gene Vincent",
-        "ar": "جين فينسنت"
-      },
-      {
         "en": "Del Shannon",
         "ar": "ديل شانون"
+      },
+      {
+        "en": "Ritchie Valens",
+        "ar": "ريتشي فالينز"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Ritchie Valens died alongside Buddy Holly and The Big Bopper in the 1959 plane crash known as \"The Day the Music Died\".",
     "explanation_ar": "ريتشي فالينز مات مع بادي هولي وذا بيج بوبر في حادثة الطيارة سنة 1959 المعروفة بـ\"يوم موت الموسيقى\"."
   },
@@ -189,23 +189,23 @@
     "question_ar": "أغنية \"الأطلال\" الأيقونية لأنهي مطربة مبنية على قصيدة للشاعر إبراهيم ناجي وتلحين رياض السنباطي؟",
     "options": [
       {
-        "en": "Warda",
-        "ar": "وردة"
+        "en": "Umm Kulthum",
+        "ar": "أم كلثوم"
       },
       {
-        "en": "Fairuz",
-        "ar": "فيروز"
+        "en": "Warda",
+        "ar": "وردة"
       },
       {
         "en": "Najat El Saghira",
         "ar": "نجاة الصغيرة"
       },
       {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
+        "en": "Fairuz",
+        "ar": "فيروز"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "\"Al Atlal\", performed by Umm Kulthum, is based on Ibrahim Naji's poem, composed by Riad El Sonbati.",
     "explanation_ar": "\"الأطلال\"، غناء أم كلثوم، مبنية على قصيدة إبراهيم ناجي وتلحين رياض السنباطي."
   },
@@ -223,16 +223,16 @@
         "ar": "جيف بيك"
       },
       {
-        "en": "Jimmy Page",
-        "ar": "جيمي بيدج"
+        "en": "Pete Townshend",
+        "ar": "بيت تاونسند"
       },
       {
         "en": "Eric Clapton",
         "ar": "إريك كلابتون"
       },
       {
-        "en": "Pete Townshend",
-        "ar": "بيت تاونسند"
+        "en": "Jimmy Page",
+        "ar": "جيمي بيدج"
       }
     ],
     "correctAnswer": 2,
@@ -253,16 +253,16 @@
         "ar": "زكريا أحمد"
       },
       {
-        "en": "Dawoud Hosni",
-        "ar": "داود حسني"
+        "en": "Ahmed Sabra",
+        "ar": "أحمد صبرة"
       },
       {
         "en": "Mohamed El Qasabgi",
         "ar": "محمد القصبجي"
       },
       {
-        "en": "Ahmed Sabra",
-        "ar": "أحمد صبرة"
+        "en": "Dawoud Hosni",
+        "ar": "داود حسني"
       }
     ],
     "correctAnswer": 2,
@@ -279,23 +279,23 @@
     "question_ar": "أنهي فرقة بريطانية عازف الباص فيها جون إنتويسل والدرامز كيث مون كانوا مشهورين بحفلات حية عنيفة وكيث مون بيكسر الدرامز على المسرح؟",
     "options": [
       {
-        "en": "The Rolling Stones",
-        "ar": "ذا رولينج ستونز"
-      },
-      {
-        "en": "The Who",
-        "ar": "ذا هو"
-      },
-      {
         "en": "Led Zeppelin",
         "ar": "ليد زبلين"
       },
       {
         "en": "Cream",
         "ar": "كريم"
+      },
+      {
+        "en": "The Who",
+        "ar": "ذا هو"
+      },
+      {
+        "en": "The Rolling Stones",
+        "ar": "ذا رولينج ستونز"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "The Who's Keith Moon was famous for destroying drum kits during performances.",
     "explanation_ar": "كيث مون من فرقة ذا هو كان مشهور بتكسير الدرامز في الحفلات."
   },
@@ -313,19 +313,19 @@
         "ar": "أسمهان"
       },
       {
-        "en": "Naima Akef",
-        "ar": "نعيمة عاكف"
-      },
-      {
         "en": "Umm Kulthum",
         "ar": "أم كلثوم"
+      },
+      {
+        "en": "Naima Akef",
+        "ar": "نعيمة عاكف"
       },
       {
         "en": "Shadia",
         "ar": "شادية"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Young Umm Kulthum performed dressed as a boy, at her father's insistence, in her earliest public singing.",
     "explanation_ar": "أم كلثوم وهي صغيرة كانت بتغني وهي لابسة زي ولد بإصرار من والدها في بداية ظهورها للجمهور."
   },
@@ -339,23 +339,23 @@
     "question_ar": "أنهي شركة تسجيلات أمريكية، اتأسست في ديترويت سنة 1959، بقت أسطورية لإطلاقها فنانين موتاون زي The Supremes ومارفن جاي؟",
     "options": [
       {
-        "en": "Stax Records",
-        "ar": "ستاكس ريكوردز"
-      },
-      {
-        "en": "Atlantic Records",
-        "ar": "أتلانتيك ريكوردز"
-      },
-      {
         "en": "Chess Records",
         "ar": "تشيس ريكوردز"
       },
       {
         "en": "Motown Records",
         "ar": "موتاون ريكوردز"
+      },
+      {
+        "en": "Atlantic Records",
+        "ar": "أتلانتيك ريكوردز"
+      },
+      {
+        "en": "Stax Records",
+        "ar": "ستاكس ريكوردز"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Motown Records, founded in Detroit in 1959, launched numerous soul legends.",
     "explanation_ar": "شركة موتاون ريكوردز، اتأسست في ديترويت سنة 1959، أطلقت أساطير سول كتير."
   },
@@ -369,10 +369,6 @@
     "question_ar": "منافسة أنهي ملحن مصري مع رياض السنباطي على تلحين أغاني أم كلثوم كانت من أهم توترات الموسيقى المصرية في الخمسينات والستينات؟",
     "options": [
       {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
-      },
-      {
         "en": "Mohamed Abdel Wahab",
         "ar": "محمد عبد الوهاب"
       },
@@ -381,11 +377,15 @@
         "ar": "زكريا أحمد"
       },
       {
+        "en": "Baligh Hamdi",
+        "ar": "بليغ حمدي"
+      },
+      {
         "en": "Mohamed El Mougy",
         "ar": "محمد الموجي"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Mohamed Abdel Wahab and Riad El Sonbati were seen as rival composers competing for Umm Kulthum's repertoire.",
     "explanation_ar": "محمد عبد الوهاب ورياض السنباطي كانا يعتبران متنافسين على تلحين أغاني أم كلثوم."
   },
@@ -399,23 +399,23 @@
     "question_ar": "صوت أنهي مطربة أمريكية الأجش في أغنية \"Piece of My Heart\" كانت مصحوبة بفرقة Big Brother and the Holding Company بداية مشوارها؟",
     "options": [
       {
-        "en": "Janis Joplin",
-        "ar": "جانيس جوبلين"
-      },
-      {
-        "en": "Grace Slick",
-        "ar": "جريس سليك"
+        "en": "Nico",
+        "ar": "نيكو"
       },
       {
         "en": "Cass Elliot",
         "ar": "كاس إليوت"
       },
       {
-        "en": "Nico",
-        "ar": "نيكو"
+        "en": "Janis Joplin",
+        "ar": "جانيس جوبلين"
+      },
+      {
+        "en": "Grace Slick",
+        "ar": "جريس سليك"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Janis Joplin rose to fame fronting Big Brother and the Holding Company.",
     "explanation_ar": "جانيس جوبلين اشتهرت وهي بتغني مع فرقة Big Brother and the Holding Company."
   },
@@ -429,6 +429,10 @@
     "question_ar": "أغنية \"الوطن الأكبر\" سنة 1968 (تلحين عبد الوهاب) جمعت كام مطرب كبير بيغنوا سوا في نشيد وطني واحد؟",
     "options": [
       {
+        "en": "Fairuz and the Rahbani Brothers",
+        "ar": "فيروز والأخوين رحباني"
+      },
+      {
         "en": "Only Umm Kulthum solo",
         "ar": "أم كلثوم بس"
       },
@@ -439,13 +443,9 @@
       {
         "en": "Umm Kulthum, Abdel Halim Hafez, and others",
         "ar": "أم كلثوم وعبد الحليم حافظ وغيرهم"
-      },
-      {
-        "en": "Fairuz and the Rahbani Brothers",
-        "ar": "فيروز والأخوين رحباني"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "\"El Watan El Akbar\" (1968) featured Umm Kulthum, Abdel Halim Hafez, and other top singers together.",
     "explanation_ar": "\"الوطن الأكبر\" (1968) جمعت أم كلثوم وعبد الحليم حافظ ونجوم تانيين في أغنية واحدة."
   },
@@ -459,10 +459,6 @@
     "question_ar": "أنهي مطرب مصري كان له شراكة طويلة ومحتفى بيها مع عمار الشريعي، الملحن الكفيف اللي اشتهر بمزج التوزيع الأوركسترالي بالموسيقى العربية في الثمانينات والتسعينات؟",
     "options": [
       {
-        "en": "Medhat Saleh",
-        "ar": "مدحت صالح"
-      },
-      {
         "en": "Mohamed Mounir",
         "ar": "محمد منير"
       },
@@ -473,9 +469,13 @@
       {
         "en": "Ali El Haggar",
         "ar": "علي الحجار"
+      },
+      {
+        "en": "Medhat Saleh",
+        "ar": "مدحت صالح"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Ammar El Sherei, a celebrated blind Egyptian composer, worked closely with singer Ali El Haggar.",
     "explanation_ar": "عمار الشريعي، الملحن الكفيف المصري الشهير، اشتغل بشكل كبير مع المطرب علي الحجار."
   },
@@ -489,20 +489,20 @@
     "question_ar": "أنهي مطربة مصرية كانت أغنيتها \"أنا بعشق البحر\" من آخر الأغاني اللي لحنها بليغ حمدي قبل وفاته سنة 1993؟",
     "options": [
       {
-        "en": "Najat El Saghira",
-        "ar": "نجاة الصغيرة"
+        "en": "Angham",
+        "ar": "أنغام"
       },
       {
         "en": "Warda",
         "ar": "وردة"
       },
       {
-        "en": "Sherine",
-        "ar": "شيرين"
+        "en": "Najat El Saghira",
+        "ar": "نجاة الصغيرة"
       },
       {
-        "en": "Angham",
-        "ar": "أنغام"
+        "en": "Sherine",
+        "ar": "شيرين"
       }
     ],
     "correctAnswer": 1,
@@ -519,10 +519,6 @@
     "question_ar": "أنهي اقتصادي ورجل أعمال مصري أسس \"استوديو مصر\" سنة 1934، اللي كان مركز إنتاج الأفلام الغنائية في العصر الذهبي؟",
     "options": [
       {
-        "en": "Ahmed Abboud",
-        "ar": "أحمد عبود"
-      },
-      {
         "en": "Talaat Harb",
         "ar": "طلعت حرب"
       },
@@ -533,9 +529,13 @@
       {
         "en": "Hafez Afifi",
         "ar": "حافظ عفيفي"
+      },
+      {
+        "en": "Ahmed Abboud",
+        "ar": "أحمد عبود"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Talaat Harb, founder of Bank Misr, also established Studio Misr in 1934.",
     "explanation_ar": "طلعت حرب، مؤسس بنك مصر، أسس كمان استوديو مصر سنة 1934."
   },
@@ -549,23 +549,23 @@
     "question_ar": "أنهي مطربة وممثلة أمريكية، نجمة فيلم \"The Wizard of Oz\" (1939)، اشتهرت بأغنية \"Over the Rainbow\"؟",
     "options": [
       {
-        "en": "Doris Day",
-        "ar": "دوريس داي"
-      },
-      {
         "en": "Ginger Rogers",
         "ar": "جينجر روجرز"
       },
       {
-        "en": "Judy Garland",
-        "ar": "جودي جارلاند"
+        "en": "Doris Day",
+        "ar": "دوريس داي"
       },
       {
         "en": "Deanna Durbin",
         "ar": "ديانا دوربين"
+      },
+      {
+        "en": "Judy Garland",
+        "ar": "جودي جارلاند"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Judy Garland, star of \"The Wizard of Oz\", is famous for \"Over the Rainbow\".",
     "explanation_ar": "جودي جارلاند، نجمة فيلم \"The Wizard of Oz\"، اشتهرت بأغنية \"Over the Rainbow\"."
   },
@@ -579,20 +579,20 @@
     "question_ar": "ألبوم أنهي مطربة أمريكية سنة 1985 \"Like a Virgin\" وأداءاتها الجريئة في MTV رسّخت لقبها \"ملكة البوب\" وسط جدل كبير؟",
     "options": [
       {
-        "en": "Cyndi Lauper",
-        "ar": "سيندي لوبر"
+        "en": "Debbie Gibson",
+        "ar": "ديبي جيبسون"
       },
       {
         "en": "Madonna",
         "ar": "مادونا"
       },
       {
-        "en": "Debbie Gibson",
-        "ar": "ديبي جيبسون"
-      },
-      {
         "en": "Janet Jackson",
         "ar": "جانيت جاكسون"
+      },
+      {
+        "en": "Cyndi Lauper",
+        "ar": "سيندي لوبر"
       }
     ],
     "correctAnswer": 1,
@@ -609,23 +609,23 @@
     "question_ar": "أنهي مطرب مصري، من رواد \"الموجة الجديدة\" جنب محمد منير أواخر السبعينات، مزج الفلكلور بالجاز في موسيقاه؟",
     "options": [
       {
-        "en": "Hany Shaker",
-        "ar": "هاني شاكر"
+        "en": "Ali El Haggar",
+        "ar": "علي الحجار"
       },
       {
         "en": "Hamid El Shaeri",
         "ar": "حميد الشاعري"
       },
       {
-        "en": "Ali El Haggar",
-        "ar": "علي الحجار"
-      },
-      {
         "en": "Mohamed Fouad",
         "ar": "محمد فؤاد"
+      },
+      {
+        "en": "Hany Shaker",
+        "ar": "هاني شاكر"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Ali El Haggar is associated with Egypt's late-1970s 'new wave' movement blending folk and jazz elements.",
     "explanation_ar": "علي الحجار مرتبط بحركة \"الموجة الجديدة\" أواخر السبعينات اللي مزجت الفلكلور بالجاز."
   },
@@ -639,23 +639,23 @@
     "question_ar": "أنهي فنان أمريكي، ملقب بـ\"عراب السول\"، معروف بحضوره الناري على المسرح وأغنية \"I Got You (I Feel Good)\"؟",
     "options": [
       {
-        "en": "Otis Redding",
-        "ar": "أوتيس ريدينج"
-      },
-      {
-        "en": "Wilson Pickett",
-        "ar": "ويلسون بيكيت"
-      },
-      {
         "en": "James Brown",
         "ar": "جيمس براون"
       },
       {
         "en": "Sam Cooke",
         "ar": "سام كوك"
+      },
+      {
+        "en": "Otis Redding",
+        "ar": "أوتيس ريدينج"
+      },
+      {
+        "en": "Wilson Pickett",
+        "ar": "ويلسون بيكيت"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "James Brown, the \"Godfather of Soul\", was famous for \"I Got You (I Feel Good)\".",
     "explanation_ar": "جيمس براون، عراب السول، اشتهر بأغنية \"I Got You (I Feel Good)\"."
   },
@@ -669,23 +669,23 @@
     "question_ar": "أغنية \"كلنا للوطن\" في السبعينات لأنهي مطرب مصري ارتبطت بالبث الوطني والمناسبات الرسمية؟",
     "options": [
       {
-        "en": "Mohamed Kandil",
-        "ar": "محمد قنديل"
+        "en": "Mohamed Roushdy",
+        "ar": "محمد رشدي"
       },
       {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبد الحليم حافظ"
+        "en": "Mohamed Kandil",
+        "ar": "محمد قنديل"
       },
       {
         "en": "Karem Mahmoud",
         "ar": "كارم محمود"
       },
       {
-        "en": "Mohamed Roushdy",
-        "ar": "محمد رشدي"
+        "en": "Abdel Halim Hafez",
+        "ar": "عبد الحليم حافظ"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "\"Kollena Lel Watan\" is closely tied to Abdel Halim Hafez's patriotic repertoire.",
     "explanation_ar": "\"كلنا للوطن\" مرتبطة بمشوار عبد الحليم حافظ الوطني."
   },
@@ -703,19 +703,19 @@
         "ar": "جينيسيس"
       },
       {
-        "en": "Pink Floyd",
-        "ar": "بينك فلويد"
-      },
-      {
         "en": "King Crimson",
         "ar": "كينج كريمسون"
+      },
+      {
+        "en": "Pink Floyd",
+        "ar": "بينك فلويد"
       },
       {
         "en": "Yes",
         "ar": "يس"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Pink Floyd founder Syd Barrett left the band in 1968 due to declining mental health.",
     "explanation_ar": "سيد باريت، مؤسس بينك فلويد، خرج من الفرقة سنة 1968 بسبب تدهور حالته النفسية."
   },
@@ -733,16 +733,16 @@
         "ar": "شادية"
       },
       {
-        "en": "Fayza Ahmed",
-        "ar": "فايزة أحمد"
-      },
-      {
         "en": "Naima Akef",
         "ar": "نعيمة عاكف"
       },
       {
         "en": "Warda",
         "ar": "وردة"
+      },
+      {
+        "en": "Fayza Ahmed",
+        "ar": "فايزة أحمد"
       }
     ],
     "correctAnswer": 0,
@@ -759,10 +759,6 @@
     "question_ar": "أنهي مطربة أمريكية، معروفة بلقب \"ملكة الروك آند رول\"، رجعت بقوة في الثمانينات بأغنية \"What's Love Got to Do with It\" بعد زواج أول صعب؟",
     "options": [
       {
-        "en": "Aretha Franklin",
-        "ar": "أريثا فرانكلين"
-      },
-      {
         "en": "Diana Ross",
         "ar": "دايانا روس"
       },
@@ -771,11 +767,15 @@
         "ar": "تينا تيرنر"
       },
       {
+        "en": "Aretha Franklin",
+        "ar": "أريثا فرانكلين"
+      },
+      {
         "en": "Patti LaBelle",
         "ar": "باتي لابيل"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Tina Turner, the \"Queen of Rock and Roll\", had a major comeback in the 1980s with \"What's Love Got to Do with It\".",
     "explanation_ar": "تينا تيرنر، ملكة الروك آند رول، رجعت بقوة في الثمانينات بأغنية \"What's Love Got to Do with It\"."
   },
@@ -823,12 +823,12 @@
         "ar": "هاري تشابين"
       },
       {
-        "en": "Jim Croce",
-        "ar": "جيم كروتشي"
-      },
-      {
         "en": "Gordon Lightfoot",
         "ar": "جوردون لايتفوت"
+      },
+      {
+        "en": "Jim Croce",
+        "ar": "جيم كروتشي"
       },
       {
         "en": "Don McLean",
@@ -857,15 +857,15 @@
         "ar": "نعيمة عاكف"
       },
       {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
-      },
-      {
         "en": "Layla Mourad",
         "ar": "ليلى مراد"
+      },
+      {
+        "en": "Umm Kulthum",
+        "ar": "أم كلثوم"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "\"Fakkarouni\", composed by Mohamed Abdel Wahab for Umm Kulthum, was groundbreaking for its full orchestral arrangement.",
     "explanation_ar": "\"فكروني\"، تلحين محمد عبد الوهاب لأم كلثوم، كانت مبتكرة لاستخدامها أوركسترا كاملة."
   },
@@ -879,23 +879,23 @@
     "question_ar": "تقنية إنتاج \"Wall of Sound\" اللي ابتكرها المنتج فيل سبيكتور واستخدمها في أغاني فرق البنات في الستينات كانت مرتبطة بأنهي منتج؟",
     "options": [
       {
-        "en": "Berry Gordy",
-        "ar": "بيري جوردي"
-      },
-      {
-        "en": "George Martin",
-        "ar": "جورج مارتن"
-      },
-      {
         "en": "Quincy Jones",
         "ar": "كوينسي جونز"
       },
       {
         "en": "Phil Spector",
         "ar": "فيل سبيكتور"
+      },
+      {
+        "en": "Berry Gordy",
+        "ar": "بيري جوردي"
+      },
+      {
+        "en": "George Martin",
+        "ar": "جورج مارتن"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Phil Spector pioneered the \"Wall of Sound\" production technique in the 1960s.",
     "explanation_ar": "فيل سبيكتور ابتكر تقنية \"Wall of Sound\" الإنتاجية في الستينات."
   },
@@ -913,12 +913,12 @@
         "ar": "نعيمة عاكف"
       },
       {
-        "en": "Shadia",
-        "ar": "شادية"
-      },
-      {
         "en": "Asmahan",
         "ar": "أسمهان"
+      },
+      {
+        "en": "Shadia",
+        "ar": "شادية"
       },
       {
         "en": "Layla Mourad",
@@ -939,23 +939,23 @@
     "question_ar": "ألبوم أنهي فرقة أمريكية سنة 1966 \"Pet Sounds\" بيتقال إنه أثر بشكل مباشر على ألبوم البيتلز \"Sgt. Pepper's\"؟",
     "options": [
       {
-        "en": "The Byrds",
-        "ar": "ذا بيردز"
-      },
-      {
-        "en": "The Association",
-        "ar": "ذا أسوسييشن"
-      },
-      {
         "en": "The Turtles",
         "ar": "ذا تيرتلز"
       },
       {
         "en": "The Beach Boys",
         "ar": "ذا بيتش بويز"
+      },
+      {
+        "en": "The Byrds",
+        "ar": "ذا بيردز"
+      },
+      {
+        "en": "The Association",
+        "ar": "ذا أسوسييشن"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "The Beach Boys' \"Pet Sounds\" is widely credited as influencing The Beatles' \"Sgt. Pepper's\".",
     "explanation_ar": "ألبوم \"Pet Sounds\" لذا بيتش بويز بيتقال إنه أثر على ألبوم البيتلز \"Sgt. Pepper's\"."
   },
@@ -969,12 +969,12 @@
     "question_ar": "أنهي ملحن مصري، تعاون مع أم كلثوم بدري في مشوارها، اشتهر بالأغاني الدينية والتراثية؟",
     "options": [
       {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
-      },
-      {
         "en": "Mohamed El Mougy",
         "ar": "محمد الموجي"
+      },
+      {
+        "en": "Baligh Hamdi",
+        "ar": "بليغ حمدي"
       },
       {
         "en": "Ahmed Fouad Hassan",
@@ -999,23 +999,23 @@
     "question_ar": "ألبوم أنهي مطربة أمريكية-كندية سنة 1971 \"Blue\" بيتعتبر من أكتر ألبومات الفولك تأثيرًا وصدقًا عاطفيًا في التاريخ؟",
     "options": [
       {
-        "en": "Carole King",
-        "ar": "كارول كينج"
+        "en": "Judy Collins",
+        "ar": "جودي كولينز"
       },
       {
         "en": "Joan Baez",
         "ar": "جوان بايز"
       },
       {
-        "en": "Judy Collins",
-        "ar": "جودي كولينز"
-      },
-      {
         "en": "Joni Mitchell",
         "ar": "جوني ميتشل"
+      },
+      {
+        "en": "Carole King",
+        "ar": "كارول كينج"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Joni Mitchell's \"Blue\" (1971) is considered one of the greatest folk albums ever made.",
     "explanation_ar": "ألبوم جوني ميتشل \"Blue\" (1971) من أعظم ألبومات الفولك في التاريخ."
   },
@@ -1059,23 +1059,23 @@
     "question_ar": "أنهي قائد فرقة أمريكي، ملقب بـ\"ملك السوينج\"، قاد واحدة من أشهر فرق البيج باند في الثلاثينات بأغنية \"Sing, Sing, Sing\"؟",
     "options": [
       {
-        "en": "Benny Goodman",
-        "ar": "بيني جودمان"
-      },
-      {
-        "en": "Glenn Miller",
-        "ar": "جلين ميلر"
-      },
-      {
         "en": "Duke Ellington",
         "ar": "ديوك إلينجتون"
       },
       {
+        "en": "Benny Goodman",
+        "ar": "بيني جودمان"
+      },
+      {
         "en": "Count Basie",
         "ar": "كاونت بيسي"
+      },
+      {
+        "en": "Glenn Miller",
+        "ar": "جلين ميلر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Benny Goodman, the \"King of Swing\", led a top big band with \"Sing, Sing, Sing\".",
     "explanation_ar": "بيني جودمان، ملك السوينج، قاد فرقة بيج باند كبيرة بأغنية \"Sing, Sing, Sing\"."
   },
@@ -1089,8 +1089,8 @@
     "question_ar": "أنهي مطرب مصري كانت أغانيه في الثمانينات من أوائل اللي تصدرت تشارتات دول خليجية متعددة في نفس الوقت؟",
     "options": [
       {
-        "en": "Mohamed Fouad",
-        "ar": "محمد فؤاد"
+        "en": "Medhat Saleh",
+        "ar": "مدحت صالح"
       },
       {
         "en": "Ali Hemeda",
@@ -1101,8 +1101,8 @@
         "ar": "هاني شاكر"
       },
       {
-        "en": "Medhat Saleh",
-        "ar": "مدحت صالح"
+        "en": "Mohamed Fouad",
+        "ar": "محمد فؤاد"
       }
     ],
     "correctAnswer": 1,
@@ -1119,10 +1119,6 @@
     "question_ar": "أنهي موسيقي أمريكي، عضو مؤسس في فرقة Creedence Clearwater Revival، كتب وغنى \"Fortunate Son\" كأغنية احتجاجية؟",
     "options": [
       {
-        "en": "Stu Cook",
-        "ar": "ستو كوك"
-      },
-      {
         "en": "Doug Clifford",
         "ar": "دوج كليفورد"
       },
@@ -1133,9 +1129,13 @@
       {
         "en": "John Fogerty",
         "ar": "جون فوجرتي"
+      },
+      {
+        "en": "Stu Cook",
+        "ar": "ستو كوك"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "John Fogerty, CCR's lead singer/songwriter, wrote \"Fortunate Son\".",
     "explanation_ar": "جون فوجرتي، مطرب وكاتب فرقة CCR، كتب أغنية \"Fortunate Son\"."
   },
@@ -1149,23 +1149,23 @@
     "question_ar": "أنهي مطربة لبنانية بصوتها المدرب أوبراليًا وأغنية \"أندلسية\" بقت من القلائل اللي مزجوا تقنية الأوبرا الغربية بالموسيقى العربية؟",
     "options": [
       {
-        "en": "Fairuz",
-        "ar": "فيروز"
-      },
-      {
-        "en": "Carole Samaha",
-        "ar": "كارول سماحة"
-      },
-      {
         "en": "Majida El Roumi",
         "ar": "ماجدة الرومي"
       },
       {
         "en": "Elissa",
         "ar": "إليسا"
+      },
+      {
+        "en": "Fairuz",
+        "ar": "فيروز"
+      },
+      {
+        "en": "Carole Samaha",
+        "ar": "كارول سماحة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Majida El Roumi is known for her operatic vocal training blended with Arabic repertoire.",
     "explanation_ar": "ماجدة الرومي معروفة بصوتها المدرب أوبراليًا ومزجه بالتراث العربي."
   },
@@ -1179,20 +1179,20 @@
     "question_ar": "أنهي منتج أمريكي، معروف باكتشافه إلفيس بريسلي، كان بيدير شركة Sun Records في ممفيس وساعد في إطلاق جوني كاش وجيري لي لويس كمان؟",
     "options": [
       {
-        "en": "Berry Gordy",
-        "ar": "بيري جوردي"
-      },
-      {
         "en": "Phil Spector",
         "ar": "فيل سبيكتور"
+      },
+      {
+        "en": "Ahmet Ertegun",
+        "ar": "أحمد إرتيجن"
       },
       {
         "en": "Sam Phillips",
         "ar": "سام فيليبس"
       },
       {
-        "en": "Ahmet Ertegun",
-        "ar": "أحمد إرتيجن"
+        "en": "Berry Gordy",
+        "ar": "بيري جوردي"
       }
     ],
     "correctAnswer": 2,
@@ -1209,20 +1209,20 @@
     "question_ar": "أغنية \"يا حبيبي تعالى\" في السبعينات (تلحين بليغ حمدي) لأنهي مطربة ساعدت في تشكيل صوت البوب الرومانسي المصري قبل عصر عمرو دياب؟",
     "options": [
       {
-        "en": "Najat El Saghira",
-        "ar": "نجاة الصغيرة"
-      },
-      {
         "en": "Fayza Ahmed",
         "ar": "فايزة أحمد"
+      },
+      {
+        "en": "Shadia",
+        "ar": "شادية"
       },
       {
         "en": "Warda",
         "ar": "وردة"
       },
       {
-        "en": "Shadia",
-        "ar": "شادية"
+        "en": "Najat El Saghira",
+        "ar": "نجاة الصغيرة"
       }
     ],
     "correctAnswer": 2,
@@ -1239,20 +1239,20 @@
     "question_ar": "أنهي عازف جيتار أمريكي، من فرقة Van Halen، غيّر أسلوب عزف الجيتار في الروك بتقنية النقر بإيدين في أغنية \"Eruption\"؟",
     "options": [
       {
-        "en": "Randy Rhoads",
-        "ar": "راندي رودز"
+        "en": "Joe Satriani",
+        "ar": "جو ساترياني"
       },
       {
         "en": "Eddie Van Halen",
         "ar": "إيدي فان هيلين"
       },
       {
-        "en": "Yngwie Malmsteen",
-        "ar": "إينجوي مالمستين"
+        "en": "Randy Rhoads",
+        "ar": "راندي رودز"
       },
       {
-        "en": "Joe Satriani",
-        "ar": "جو ساترياني"
+        "en": "Yngwie Malmsteen",
+        "ar": "إينجوي مالمستين"
       }
     ],
     "correctAnswer": 1,
@@ -1273,19 +1273,19 @@
         "ar": "محمد فؤاد"
       },
       {
-        "en": "Ehab Tawfik",
-        "ar": "إيهاب توفيق"
-      },
-      {
         "en": "Hamid El Shaeri",
         "ar": "حميد الشاعري"
+      },
+      {
+        "en": "Ehab Tawfik",
+        "ar": "إيهاب توفيق"
       },
       {
         "en": "Hisham Abbas",
         "ar": "هشام عباس"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Hamid El Shaeri is widely credited with pioneering synth-heavy 'Al Jeel' pop production in Egypt in the 1980s.",
     "explanation_ar": "حميد الشاعري معروف بإدخاله إنتاج السينثسايزر في موسيقى الجيل المصرية في الثمانينات."
   },
@@ -1299,20 +1299,20 @@
     "question_ar": "أنهي مطرب أمريكي، عضو في ثلاثي Crosby, Stills & Nash، كان كمان عضو مؤسس في فرقة The Byrds قبل مشواره الجماعي التاني؟",
     "options": [
       {
-        "en": "Stephen Stills",
-        "ar": "ستيفن ستيلز"
+        "en": "Graham Nash",
+        "ar": "جراهام ناش"
       },
       {
         "en": "David Crosby",
         "ar": "ديفيد كروسبي"
       },
       {
-        "en": "Graham Nash",
-        "ar": "جراهام ناش"
-      },
-      {
         "en": "Neil Young",
         "ar": "نيل يانج"
+      },
+      {
+        "en": "Stephen Stills",
+        "ar": "ستيفن ستيلز"
       }
     ],
     "correctAnswer": 1,
@@ -1333,19 +1333,19 @@
         "ar": "شيرين"
       },
       {
-        "en": "Ruby",
-        "ar": "روبي"
-      },
-      {
         "en": "Angham",
         "ar": "أنغام"
+      },
+      {
+        "en": "Ruby",
+        "ar": "روبي"
       },
       {
         "en": "Donia Samir Ghanem",
         "ar": "دنيا سمير غانم"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Ruby's early-2000s videos were known for high-production, internationally-shot visuals that shaped the era's pop culture.",
     "explanation_ar": "فيديو كليبات روبي في بداية الألفينات كانت معروفة بإنتاجها الكبير وتصويرها في الخارج."
   },
@@ -1359,23 +1359,23 @@
     "question_ar": "ألبوم أنهي فنان أمريكي سنة 1975 \"Born to Run\" مع فرقة E Street Band رسّخ سمعته كراوي قصص الروك الأمريكي؟",
     "options": [
       {
-        "en": "Tom Petty",
-        "ar": "توم بيتي"
-      },
-      {
-        "en": "Bruce Springsteen",
-        "ar": "بروس سبرينجستين"
-      },
-      {
         "en": "Bob Seger",
         "ar": "بوب سيجر"
       },
       {
         "en": "Meat Loaf",
         "ar": "ميت لوف"
+      },
+      {
+        "en": "Tom Petty",
+        "ar": "توم بيتي"
+      },
+      {
+        "en": "Bruce Springsteen",
+        "ar": "بروس سبرينجستين"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Bruce Springsteen's \"Born to Run\" (1975) with the E Street Band was a career-defining album.",
     "explanation_ar": "ألبوم بروس سبرينجستين \"Born to Run\" (1975) مع فرقة E Street Band كان علامة فارقة في مشواره."
   },
@@ -1389,23 +1389,23 @@
     "question_ar": "أنهي مطربة مصرية غنت \"أمل حياتي\" الكلاسيكية، تلحين رياض السنباطي؟",
     "options": [
       {
-        "en": "Warda",
-        "ar": "وردة"
+        "en": "Shadia",
+        "ar": "شادية"
       },
       {
         "en": "Fayza Ahmed",
         "ar": "فايزة أحمد"
       },
       {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
+        "en": "Warda",
+        "ar": "وردة"
       },
       {
-        "en": "Shadia",
-        "ar": "شادية"
+        "en": "Umm Kulthum",
+        "ar": "أم كلثوم"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "\"Amal Hayati\", composed by Riad El Sonbati for Umm Kulthum, showcased her deep expressive vocal delivery.",
     "explanation_ar": "\"أمل حياتي\"، تلحين رياض السنباطي لأم كلثوم، أظهرت أداءها الصوتي العميق."
   },
@@ -1419,10 +1419,6 @@
     "question_ar": "أنهي عازف ترومبيت ومطرب جاز أمريكي، ملقب بـ\"ساتشمو\"، كان من أهم رواد الجاز المبكر بأغنية \"What a Wonderful World\"؟",
     "options": [
       {
-        "en": "Louis Armstrong",
-        "ar": "لويس أرمسترونج"
-      },
-      {
         "en": "Duke Ellington",
         "ar": "ديوك إلينجتون"
       },
@@ -1431,11 +1427,15 @@
         "ar": "ديزي جيليسبي"
       },
       {
+        "en": "Louis Armstrong",
+        "ar": "لويس أرمسترونج"
+      },
+      {
         "en": "Miles Davis",
         "ar": "مايلز ديفيس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Louis Armstrong, nicknamed \"Satchmo\", was a foundational jazz figure known for \"What a Wonderful World\".",
     "explanation_ar": "لويس أرمسترونج، ملقب بساتشمو، كان من أهم رواد الجاز واشتهر بأغنية \"What a Wonderful World\"."
   },
@@ -1449,23 +1449,23 @@
     "question_ar": "أنهي فرقة بريطانية-أسترالية، كونها ثلاث إخوة من عيلة جيب، سيطرت على عصر الديسكو بموسيقى فيلم \"Saturday Night Fever\"؟",
     "options": [
       {
-        "en": "Bee Gees",
-        "ar": "بي جيز"
-      },
-      {
         "en": "Kool & the Gang",
         "ar": "كول آند ذا جانج"
+      },
+      {
+        "en": "Earth, Wind & Fire",
+        "ar": "إيرث ويند آند فاير"
       },
       {
         "en": "Chic",
         "ar": "شيك"
       },
       {
-        "en": "Earth, Wind & Fire",
-        "ar": "إيرث ويند آند فاير"
+        "en": "Bee Gees",
+        "ar": "بي جيز"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The Bee Gees, formed by the three Gibb brothers, dominated disco with \"Saturday Night Fever\".",
     "explanation_ar": "فرقة بي جيز، اللي كونها إخوة جيب التلاتة، سيطرت على الديسكو بموسيقى \"Saturday Night Fever\"."
   },
@@ -1487,12 +1487,12 @@
         "ar": "جيمس تايلور"
       },
       {
-        "en": "Jackson Browne",
-        "ar": "جاكسون براون"
-      },
-      {
         "en": "Gordon Lightfoot",
         "ar": "جوردون لايتفوت"
+      },
+      {
+        "en": "Jackson Browne",
+        "ar": "جاكسون براون"
       }
     ],
     "correctAnswer": 0,

@@ -8,12 +8,24 @@
     "question_en": "In which year was Al Ahly, Egypt's most decorated club, founded?",
     "question_ar": "نادي الأهلي، أكتر نادي مصري تتويجًا، اتأسس سنة كام؟",
     "options": [
-      {"en": "1911", "ar": "1911"},
-      {"en": "1920", "ar": "1920"},
-      {"en": "1907", "ar": "1907"},
-      {"en": "1935", "ar": "1935"}
+      {
+        "en": "1907",
+        "ar": "1907"
+      },
+      {
+        "en": "1911",
+        "ar": "1911"
+      },
+      {
+        "en": "1935",
+        "ar": "1935"
+      },
+      {
+        "en": "1920",
+        "ar": "1920"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Al Ahly was founded in 1907, making it one of Africa's oldest clubs.",
     "explanation_ar": "الأهلي اتأسس سنة 1907، من أقدم الأندية في أفريقيا."
   },
@@ -26,12 +38,24 @@
     "question_en": "In which year was Zamalek founded?",
     "question_ar": "نادي الزمالك اتأسس سنة كام؟",
     "options": [
-      {"en": "1907", "ar": "1907"},
-      {"en": "1930", "ar": "1930"},
-      {"en": "1925", "ar": "1925"},
-      {"en": "1911", "ar": "1911"}
+      {
+        "en": "1907",
+        "ar": "1907"
+      },
+      {
+        "en": "1930",
+        "ar": "1930"
+      },
+      {
+        "en": "1911",
+        "ar": "1911"
+      },
+      {
+        "en": "1925",
+        "ar": "1925"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Zamalek was founded in 1911.",
     "explanation_ar": "الزمالك اتأسس سنة 1911."
   },
@@ -44,10 +68,22 @@
     "question_en": "Which Al Ahly legend, nicknamed \"Bibo,\" captained the club and Egypt's national team in the 1970s-80s?",
     "question_ar": "أنهي أسطورة أهلاوي، ملقب بـ \"بيبو\"، كان كابتن الأهلي ومنتخب مصر في السبعينات والتمانينات؟",
     "options": [
-      {"en": "Mahmoud El-Khatib", "ar": "محمود الخطيب"},
-      {"en": "Hossam Hassan", "ar": "حسام حسن"},
-      {"en": "Ahmed Hassan", "ar": "أحمد حسن"},
-      {"en": "Mohamed Aboutrika", "ar": "محمد أبوتريكة"}
+      {
+        "en": "Mahmoud El-Khatib",
+        "ar": "محمود الخطيب"
+      },
+      {
+        "en": "Mohamed Aboutrika",
+        "ar": "محمد أبوتريكة"
+      },
+      {
+        "en": "Hossam Hassan",
+        "ar": "حسام حسن"
+      },
+      {
+        "en": "Ahmed Hassan",
+        "ar": "أحمد حسن"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Mahmoud El-Khatib \"Bibo\" is one of Al Ahly's greatest-ever legends.",
@@ -62,12 +98,24 @@
     "question_en": "Which Egyptian goalkeeper became famous for saving a penalty at the 2018 World Cup at a record-breaking age?",
     "question_ar": "أنهي حارس مرمى مصري بقى مشهور بتصدي ضربة جزاء في كأس عالم 2018 بسن كسرت الرقم القياسي؟",
     "options": [
-      {"en": "Ahmed Shobeir", "ar": "أحمد شوبير"},
-      {"en": "Essam El-Hadary", "ar": "عصام الحضري"},
-      {"en": "Mohamed El-Shenawy", "ar": "محمد الشناوي"},
-      {"en": "Sherif Ekramy", "ar": "شريف إكرامي"}
+      {
+        "en": "Sherif Ekramy",
+        "ar": "شريف إكرامي"
+      },
+      {
+        "en": "Ahmed Shobeir",
+        "ar": "أحمد شوبير"
+      },
+      {
+        "en": "Essam El-Hadary",
+        "ar": "عصام الحضري"
+      },
+      {
+        "en": "Mohamed El-Shenawy",
+        "ar": "محمد الشناوي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Essam El-Hadary became the oldest player ever to appear at a World Cup and saved a penalty at the 2018 tournament.",
     "explanation_ar": "عصام الحضري بقى أكبر لاعب سنًا يشارك في كأس العالم واتصدى لضربة جزاء في نسخة 2018."
   },
@@ -80,12 +128,24 @@
     "question_en": "Which Egyptian club did Mohamed Salah play for before starting his European career?",
     "question_ar": "محمد صلاح كان بيلعب لأنهي فريق مصري قبل ما يبدأ مشواره الأوروبي؟",
     "options": [
-      {"en": "Al Ahly", "ar": "الأهلي"},
-      {"en": "Zamalek", "ar": "الزمالك"},
-      {"en": "El Mokawloon Al Arab", "ar": "المقاولون العرب"},
-      {"en": "Ismaily", "ar": "الإسماعيلي"}
+      {
+        "en": "Al Ahly",
+        "ar": "الأهلي"
+      },
+      {
+        "en": "Zamalek",
+        "ar": "الزمالك"
+      },
+      {
+        "en": "Ismaily",
+        "ar": "الإسماعيلي"
+      },
+      {
+        "en": "El Mokawloon Al Arab",
+        "ar": "المقاولون العرب"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Mohamed Salah began his senior career at El Mokawloon Al Arab (Arab Contractors).",
     "explanation_ar": "محمد صلاح بدأ مشواره الاحترافي في نادي المقاولون العرب."
   },
@@ -98,12 +158,24 @@
     "question_en": "Which Egyptian legend holds the record for most caps (appearances) for the national team?",
     "question_ar": "أنهي أسطورة مصرية صاحبة الرقم القياسي في عدد المباريات الدولية للمنتخب؟",
     "options": [
-      {"en": "Hossam Hassan", "ar": "حسام حسن"},
-      {"en": "Ahmed Hassan", "ar": "أحمد حسن"},
-      {"en": "Mohamed Aboutrika", "ar": "محمد أبوتريكة"},
-      {"en": "Ahmed Fathy", "ar": "أحمد فتحي"}
+      {
+        "en": "Ahmed Fathy",
+        "ar": "أحمد فتحي"
+      },
+      {
+        "en": "Hossam Hassan",
+        "ar": "حسام حسن"
+      },
+      {
+        "en": "Ahmed Hassan",
+        "ar": "أحمد حسن"
+      },
+      {
+        "en": "Mohamed Aboutrika",
+        "ar": "محمد أبوتريكة"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Ahmed Hassan holds Egypt's record for most international appearances.",
     "explanation_ar": "أحمد حسن صاحب الرقم القياسي في عدد مباريات منتخب مصر."
   },
@@ -116,10 +188,22 @@
     "question_en": "Mohamed Aboutrika, nicknamed \"The Smiling Assassin,\" is a legend of which Egyptian club?",
     "question_ar": "محمد أبوتريكة، ملقب بـ \"القاتل الهادئ\"، أسطورة أنهي نادي مصري؟",
     "options": [
-      {"en": "Zamalek", "ar": "الزمالك"},
-      {"en": "Al Ahly", "ar": "الأهلي"},
-      {"en": "Ismaily", "ar": "الإسماعيلي"},
-      {"en": "Al Masry", "ar": "المصري"}
+      {
+        "en": "Zamalek",
+        "ar": "الزمالك"
+      },
+      {
+        "en": "Al Ahly",
+        "ar": "الأهلي"
+      },
+      {
+        "en": "Ismaily",
+        "ar": "الإسماعيلي"
+      },
+      {
+        "en": "Al Masry",
+        "ar": "المصري"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Mohamed Aboutrika is one of Al Ahly's greatest modern legends.",
@@ -134,10 +218,22 @@
     "question_en": "Egypt won three consecutive Africa Cup of Nations titles in which run of years?",
     "question_ar": "مصر فازت بـ 3 كؤوس أمم أفريقيا على التوالي في أنهي فترة؟",
     "options": [
-      {"en": "2000, 2002, 2004", "ar": "2000، 2002، 2004"},
-      {"en": "2006, 2008, 2010", "ar": "2006، 2008، 2010"},
-      {"en": "1998, 2000, 2002", "ar": "1998، 2000، 2002"},
-      {"en": "2010, 2012, 2014", "ar": "2010، 2012، 2014"}
+      {
+        "en": "2000, 2002, 2004",
+        "ar": "2000، 2002، 2004"
+      },
+      {
+        "en": "2006, 2008, 2010",
+        "ar": "2006، 2008، 2010"
+      },
+      {
+        "en": "2010, 2012, 2014",
+        "ar": "2010، 2012، 2014"
+      },
+      {
+        "en": "1998, 2000, 2002",
+        "ar": "1998، 2000، 2002"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Egypt won an unmatched three straight AFCON titles in 2006, 2008, and 2010.",
@@ -152,10 +248,22 @@
     "question_en": "Pyramids FC, a fast-rising Egyptian club, is based near which area?",
     "question_ar": "بيراميدز، النادي المصري الصاعد بسرعة، أساسه قريب من أنهي منطقة؟",
     "options": [
-      {"en": "Alexandria", "ar": "الإسكندرية"},
-      {"en": "6th of October City", "ar": "مدينة السادس من أكتوبر"},
-      {"en": "Aswan", "ar": "أسوان"},
-      {"en": "Port Said", "ar": "بورسعيد"}
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "6th of October City",
+        "ar": "مدينة السادس من أكتوبر"
+      },
+      {
+        "en": "Port Said",
+        "ar": "بورسعيد"
+      },
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Pyramids FC is based near 6th of October City, Greater Cairo.",
@@ -170,12 +278,24 @@
     "question_en": "ENPPI, a well-known Egyptian club, takes its name from a company in which industry?",
     "question_ar": "نادي الإنبي، النادي المصري المعروف، اسمه مرتبط بشركة في أنهي مجال؟",
     "options": [
-      {"en": "Banking", "ar": "البنوك"},
-      {"en": "Telecom", "ar": "الاتصالات"},
-      {"en": "Petroleum", "ar": "البترول"},
-      {"en": "Textiles", "ar": "الغزل والنسيج"}
+      {
+        "en": "Petroleum",
+        "ar": "البترول"
+      },
+      {
+        "en": "Telecom",
+        "ar": "الاتصالات"
+      },
+      {
+        "en": "Textiles",
+        "ar": "الغزل والنسيج"
+      },
+      {
+        "en": "Banking",
+        "ar": "البنوك"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "ENPPI stands for a petroleum-sector engineering company.",
     "explanation_ar": "الإنبي اسمه مرتبط بشركة هندسية في مجال البترول."
   },
@@ -188,12 +308,24 @@
     "question_en": "Al Ittihad Alexandria, one of Egypt's oldest clubs, is based in which city?",
     "question_ar": "نادي الاتحاد السكندري، من أقدم أندية مصر، أساسه في أنهي مدينة؟",
     "options": [
-      {"en": "Cairo", "ar": "القاهرة"},
-      {"en": "Alexandria", "ar": "الإسكندرية"},
-      {"en": "Giza", "ar": "الجيزة"},
-      {"en": "Tanta", "ar": "طنطا"}
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Giza",
+        "ar": "الجيزة"
+      },
+      {
+        "en": "Tanta",
+        "ar": "طنطا"
+      },
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Al Ittihad is one of Alexandria's most historic football clubs.",
     "explanation_ar": "الاتحاد من أعرق أندية الإسكندرية."
   },
@@ -206,10 +338,22 @@
     "question_en": "Smouha SC, a well-known Egyptian Premier League club, is based in which city?",
     "question_ar": "نادي سموحة، الفريق المعروف في الدوري المصري الممتاز، أساسه في أنهي مدينة؟",
     "options": [
-      {"en": "Alexandria", "ar": "الإسكندرية"},
-      {"en": "Cairo", "ar": "القاهرة"},
-      {"en": "Mansoura", "ar": "المنصورة"},
-      {"en": "Suez", "ar": "السويس"}
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Suez",
+        "ar": "السويس"
+      },
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Mansoura",
+        "ar": "المنصورة"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Smouha SC is based in Alexandria.",
@@ -224,12 +368,24 @@
     "question_en": "Al Ahly holds the record for the most Egyptian Premier League titles won by any club. Roughly how do their title numbers compare to other clubs?",
     "question_ar": "الأهلي صاحب الرقم القياسي في عدد بطولات الدوري المصري الممتاز. إزاي رقمه بيقارن بباقي الأندية؟",
     "options": [
-      {"en": "Far more than any rival", "ar": "أكتر بكتير من أي منافس"},
-      {"en": "Tied with Zamalek", "ar": "متعادل مع الزمالك"},
-      {"en": "Fewer than Zamalek", "ar": "أقل من الزمالك"},
-      {"en": "Tied with Ismaily", "ar": "متعادل مع الإسماعيلي"}
+      {
+        "en": "Tied with Zamalek",
+        "ar": "متعادل مع الزمالك"
+      },
+      {
+        "en": "Far more than any rival",
+        "ar": "أكتر بكتير من أي منافس"
+      },
+      {
+        "en": "Tied with Ismaily",
+        "ar": "متعادل مع الإسماعيلي"
+      },
+      {
+        "en": "Fewer than Zamalek",
+        "ar": "أقل من الزمالك"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Al Ahly has won far more Egyptian league titles than any other club in the country's history.",
     "explanation_ar": "الأهلي فاز ببطولات الدوري المصري أكتر بكتير من أي فريق تاني في تاريخ الكورة المصرية."
   },
@@ -242,10 +398,22 @@
     "question_en": "Egypt lost all three of their group matches at which World Cup, including to Uruguay, Russia, and Saudi Arabia?",
     "question_ar": "مصر خسرت الـ 3 مباريات في مجموعتها أمام الأوروجواي وروسيا والسعودية في أنهي كأس عالم؟",
     "options": [
-      {"en": "1934", "ar": "1934"},
-      {"en": "1990", "ar": "1990"},
-      {"en": "2018", "ar": "2018"},
-      {"en": "2014", "ar": "2014"}
+      {
+        "en": "1990",
+        "ar": "1990"
+      },
+      {
+        "en": "1934",
+        "ar": "1934"
+      },
+      {
+        "en": "2018",
+        "ar": "2018"
+      },
+      {
+        "en": "2014",
+        "ar": "2014"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "At the 2018 World Cup, Egypt lost all three group matches, against Uruguay, Russia, and Saudi Arabia.",
@@ -260,10 +428,22 @@
     "question_en": "Which club has won the most Premier League titles in English football history?",
     "question_ar": "أنهي فريق فاز بأكتر عدد بطولات في تاريخ البريميرليج الإنجليزي؟",
     "options": [
-      {"en": "Liverpool", "ar": "ليفربول"},
-      {"en": "Chelsea", "ar": "تشيلسي"},
-      {"en": "Manchester United", "ar": "مانشستر يونايتد"},
-      {"en": "Arsenal", "ar": "أرسنال"}
+      {
+        "en": "Liverpool",
+        "ar": "ليفربول"
+      },
+      {
+        "en": "Arsenal",
+        "ar": "أرسنال"
+      },
+      {
+        "en": "Manchester United",
+        "ar": "مانشستر يونايتد"
+      },
+      {
+        "en": "Chelsea",
+        "ar": "تشيلسي"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Manchester United has won the most Premier League titles of any club.",
@@ -278,10 +458,22 @@
     "question_en": "Which club has won the UEFA Champions League the most times?",
     "question_ar": "أنهي فريق فاز بدوري أبطال أوروبا أكتر عدد مرات؟",
     "options": [
-      {"en": "AC Milan", "ar": "ميلان"},
-      {"en": "Bayern Munich", "ar": "بايرن ميونخ"},
-      {"en": "Liverpool", "ar": "ليفربول"},
-      {"en": "Real Madrid", "ar": "ريال مدريد"}
+      {
+        "en": "Liverpool",
+        "ar": "ليفربول"
+      },
+      {
+        "en": "Bayern Munich",
+        "ar": "بايرن ميونخ"
+      },
+      {
+        "en": "AC Milan",
+        "ar": "ميلان"
+      },
+      {
+        "en": "Real Madrid",
+        "ar": "ريال مدريد"
+      }
     ],
     "correctAnswer": 3,
     "explanation_en": "Real Madrid has won the Champions League/European Cup more than any other club.",
@@ -296,10 +488,22 @@
     "question_en": "Which club has won the most Serie A titles in Italy?",
     "question_ar": "أنهي فريق فاز بأكتر عدد بطولات في السيري أ الإيطالي؟",
     "options": [
-      {"en": "AC Milan", "ar": "ميلان"},
-      {"en": "Juventus", "ar": "يوفنتوس"},
-      {"en": "Inter Milan", "ar": "إنتر ميلان"},
-      {"en": "AS Roma", "ar": "روما"}
+      {
+        "en": "AS Roma",
+        "ar": "روما"
+      },
+      {
+        "en": "Juventus",
+        "ar": "يوفنتوس"
+      },
+      {
+        "en": "AC Milan",
+        "ar": "ميلان"
+      },
+      {
+        "en": "Inter Milan",
+        "ar": "إنتر ميلان"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Juventus has won more Serie A titles than any other Italian club.",
@@ -314,12 +518,24 @@
     "question_en": "Which club has won the most Bundesliga titles in Germany?",
     "question_ar": "أنهي فريق فاز بأكتر عدد بطولات في البوندسليجا الألمانية؟",
     "options": [
-      {"en": "Borussia Dortmund", "ar": "بوروسيا دورتموند"},
-      {"en": "Bayer Leverkusen", "ar": "باير ليفركوزن"},
-      {"en": "Bayern Munich", "ar": "بايرن ميونخ"},
-      {"en": "RB Leipzig", "ar": "آر بي لايبزيج"}
+      {
+        "en": "Borussia Dortmund",
+        "ar": "بوروسيا دورتموند"
+      },
+      {
+        "en": "Bayer Leverkusen",
+        "ar": "باير ليفركوزن"
+      },
+      {
+        "en": "RB Leipzig",
+        "ar": "آر بي لايبزيج"
+      },
+      {
+        "en": "Bayern Munich",
+        "ar": "بايرن ميونخ"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Bayern Munich has dominated the Bundesliga with far more titles than any rival.",
     "explanation_ar": "بايرن ميونخ سيطر على البوندسليجا بألقاب أكتر بكتير من أي منافس."
   },
@@ -332,10 +548,22 @@
     "question_en": "The Ballon d'Or is an annual award given to which of the following?",
     "question_ar": "جائزة الكرة الدهبية بتتديلها لمين كل سنة؟",
     "options": [
-      {"en": "Best young player only", "ar": "أفضل لاعب شاب بس"},
-      {"en": "Best goalkeeper only", "ar": "أفضل حارس مرمى بس"},
-      {"en": "The world's best player of the year", "ar": "أفضل لاعب في العالم في السنة"},
-      {"en": "Best manager only", "ar": "أفضل مدرب بس"}
+      {
+        "en": "Best goalkeeper only",
+        "ar": "أفضل حارس مرمى بس"
+      },
+      {
+        "en": "Best manager only",
+        "ar": "أفضل مدرب بس"
+      },
+      {
+        "en": "The world's best player of the year",
+        "ar": "أفضل لاعب في العالم في السنة"
+      },
+      {
+        "en": "Best young player only",
+        "ar": "أفضل لاعب شاب بس"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "The Ballon d'Or is awarded each year to the world's best football player.",
@@ -350,12 +578,24 @@
     "question_en": "Old Trafford, home of Manchester United, is famously nicknamed what?",
     "question_ar": "أولد ترافورد، ملعب مانشستر يونايتد، معروف بلقب إيه؟",
     "options": [
-      {"en": "The Theatre of Dreams", "ar": "مسرح الأحلام"},
-      {"en": "The Bridge", "ar": "الجسر"},
-      {"en": "The Emirates", "ar": "الإمارات"},
-      {"en": "The Cathedral", "ar": "الكاتدرائية"}
+      {
+        "en": "The Cathedral",
+        "ar": "الكاتدرائية"
+      },
+      {
+        "en": "The Theatre of Dreams",
+        "ar": "مسرح الأحلام"
+      },
+      {
+        "en": "The Emirates",
+        "ar": "الإمارات"
+      },
+      {
+        "en": "The Bridge",
+        "ar": "الجسر"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Old Trafford is famously known as \"The Theatre of Dreams.\"",
     "explanation_ar": "أولد ترافورد معروف بلقب \"مسرح الأحلام\"."
   },
@@ -368,12 +608,24 @@
     "question_en": "Which manager won the most Premier League titles in history, mostly with Manchester United?",
     "question_ar": "أنهي مدرب فاز بأكتر عدد بطولات بريميرليج في التاريخ، معظمها مع مانشستر يونايتد؟",
     "options": [
-      {"en": "Pep Guardiola", "ar": "بيب جوارديولا"},
-      {"en": "Alex Ferguson", "ar": "أليكس فيرجسون"},
-      {"en": "Jose Mourinho", "ar": "جوزيه مورينيو"},
-      {"en": "Arsène Wenger", "ar": "أرسين فينجر"}
+      {
+        "en": "Alex Ferguson",
+        "ar": "أليكس فيرجسون"
+      },
+      {
+        "en": "Jose Mourinho",
+        "ar": "جوزيه مورينيو"
+      },
+      {
+        "en": "Arsène Wenger",
+        "ar": "أرسين فينجر"
+      },
+      {
+        "en": "Pep Guardiola",
+        "ar": "بيب جوارديولا"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Alex Ferguson won a record number of Premier League titles with Manchester United.",
     "explanation_ar": "أليكس فيرجسون فاز بأكتر عدد بطولات بريميرليج مع مانشستر يونايتد."
   },
@@ -386,12 +638,24 @@
     "question_en": "Zinedine Zidane, the football legend and manager, played for which country?",
     "question_ar": "زين الدين زيدان، أسطورة الكورة والمدرب، كان بيلعب لأنهي دولة؟",
     "options": [
-      {"en": "Italy", "ar": "إيطاليا"},
-      {"en": "France", "ar": "فرنسا"},
-      {"en": "Algeria", "ar": "الجزائر"},
-      {"en": "Spain", "ar": "إسبانيا"}
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Zinedine Zidane is a French football legend.",
     "explanation_ar": "زين الدين زيدان أسطورة الكورة الفرنسية."
   },
@@ -404,10 +668,22 @@
     "question_en": "Which country did Zinedine Zidane help win the World Cup in 1998?",
     "question_ar": "زين الدين زيدان ساعد أنهي دولة تفوز بكأس العالم سنة 1998؟",
     "options": [
-      {"en": "France", "ar": "فرنسا"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Italy", "ar": "إيطاليا"},
-      {"en": "Germany", "ar": "ألمانيا"}
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Zidane starred as France won the 1998 World Cup on home soil.",
@@ -422,12 +698,24 @@
     "question_en": "Ronaldinho, famous for his skills and smile, played for which country?",
     "question_ar": "رونالدينيو، المشهور بمهاراته وابتسامته، كان بيلعب لأنهي دولة؟",
     "options": [
-      {"en": "Argentina", "ar": "الأرجنتين"},
-      {"en": "Portugal", "ar": "البرتغال"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Uruguay", "ar": "الأوروجواي"}
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Portugal",
+        "ar": "البرتغال"
+      },
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Uruguay",
+        "ar": "الأوروجواي"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Ronaldinho is a Brazilian football legend.",
     "explanation_ar": "رونالدينيو أسطورة الكورة البرازيلية."
   },
@@ -440,12 +728,24 @@
     "question_en": "David Beckham became famous playing for which English club?",
     "question_ar": "ديفيد بيكهام بقى مشهور وهو بيلعب لأنهي فريق إنجليزي؟",
     "options": [
-      {"en": "Chelsea", "ar": "تشيلسي"},
-      {"en": "Manchester United", "ar": "مانشستر يونايتد"},
-      {"en": "Arsenal", "ar": "أرسنال"},
-      {"en": "Liverpool", "ar": "ليفربول"}
+      {
+        "en": "Manchester United",
+        "ar": "مانشستر يونايتد"
+      },
+      {
+        "en": "Chelsea",
+        "ar": "تشيلسي"
+      },
+      {
+        "en": "Arsenal",
+        "ar": "أرسنال"
+      },
+      {
+        "en": "Liverpool",
+        "ar": "ليفربول"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "David Beckham rose to fame playing for Manchester United.",
     "explanation_ar": "ديفيد بيكهام بقى مشهور وهو بيلعب لمانشستر يونايتد."
   },
@@ -458,12 +758,24 @@
     "question_en": "What is the name of FC Barcelona's home stadium?",
     "question_ar": "إيه اسم ملعب برشلونة؟",
     "options": [
-      {"en": "Santiago Bernabéu", "ar": "سانتياجو برنابيو"},
-      {"en": "Camp Nou", "ar": "كامب نو"},
-      {"en": "San Siro", "ar": "سان سيرو"},
-      {"en": "Wanda Metropolitano", "ar": "واندا متروبوليتانو"}
+      {
+        "en": "San Siro",
+        "ar": "سان سيرو"
+      },
+      {
+        "en": "Santiago Bernabéu",
+        "ar": "سانتياجو برنابيو"
+      },
+      {
+        "en": "Camp Nou",
+        "ar": "كامب نو"
+      },
+      {
+        "en": "Wanda Metropolitano",
+        "ar": "واندا متروبوليتانو"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "FC Barcelona plays its home matches at the Camp Nou.",
     "explanation_ar": "برشلونة بيلعب مبارياته على ملعب الكامب نو."
   },
@@ -476,10 +788,22 @@
     "question_en": "What is the name of Real Madrid's home stadium?",
     "question_ar": "إيه اسم ملعب ريال مدريد؟",
     "options": [
-      {"en": "Camp Nou", "ar": "كامب نو"},
-      {"en": "Santiago Bernabéu", "ar": "سانتياجو برنابيو"},
-      {"en": "Wembley", "ar": "ويمبلي"},
-      {"en": "San Siro", "ar": "سان سيرو"}
+      {
+        "en": "Camp Nou",
+        "ar": "كامب نو"
+      },
+      {
+        "en": "Santiago Bernabéu",
+        "ar": "سانتياجو برنابيو"
+      },
+      {
+        "en": "San Siro",
+        "ar": "سان سيرو"
+      },
+      {
+        "en": "Wembley",
+        "ar": "ويمبلي"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Real Madrid plays its home matches at the Santiago Bernabéu.",
@@ -494,12 +818,24 @@
     "question_en": "Which country hosted the FIFA World Cup in 2006?",
     "question_ar": "أنهي دولة استضافت كأس العالم سنة 2006؟",
     "options": [
-      {"en": "France", "ar": "فرنسا"},
-      {"en": "South Africa", "ar": "جنوب أفريقيا"},
-      {"en": "Germany", "ar": "ألمانيا"},
-      {"en": "Japan", "ar": "اليابان"}
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      },
+      {
+        "en": "South Africa",
+        "ar": "جنوب أفريقيا"
+      },
+      {
+        "en": "Japan",
+        "ar": "اليابان"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Germany hosted the 2006 FIFA World Cup.",
     "explanation_ar": "ألمانيا استضافت كأس عالم 2006."
   },
@@ -512,12 +848,24 @@
     "question_en": "Which country hosted the FIFA World Cup in 2010, the first held on African soil?",
     "question_ar": "أنهي دولة استضافت كأس العالم سنة 2010، أول نسخة على أرض أفريقية؟",
     "options": [
-      {"en": "Egypt", "ar": "مصر"},
-      {"en": "Morocco", "ar": "المغرب"},
-      {"en": "Nigeria", "ar": "نيجيريا"},
-      {"en": "South Africa", "ar": "جنوب أفريقيا"}
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Morocco",
+        "ar": "المغرب"
+      },
+      {
+        "en": "South Africa",
+        "ar": "جنوب أفريقيا"
+      },
+      {
+        "en": "Nigeria",
+        "ar": "نيجيريا"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "South Africa hosted the 2010 World Cup, the first ever held in Africa.",
     "explanation_ar": "جنوب أفريقيا استضافت كأس عالم 2010، أول نسخة على أرض أفريقية."
   },
@@ -530,12 +878,24 @@
     "question_en": "Wembley Stadium, home of many famous football finals, is located in which city?",
     "question_ar": "استاد ويمبلي، اللي بتتقام فيه نهائيات كتير مشهورة، موجود في أنهي مدينة؟",
     "options": [
-      {"en": "Manchester", "ar": "مانشستر"},
-      {"en": "London", "ar": "لندن"},
-      {"en": "Liverpool", "ar": "ليفربول"},
-      {"en": "Birmingham", "ar": "برمنجهام"}
+      {
+        "en": "Manchester",
+        "ar": "مانشستر"
+      },
+      {
+        "en": "Birmingham",
+        "ar": "برمنجهام"
+      },
+      {
+        "en": "Liverpool",
+        "ar": "ليفربول"
+      },
+      {
+        "en": "London",
+        "ar": "لندن"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Wembley Stadium is located in London.",
     "explanation_ar": "استاد ويمبلي موجود في لندن."
   },
@@ -548,12 +908,24 @@
     "question_en": "Which club did Lionel Messi, Luis Suárez, and Neymar famously play for together, forming the \"MSN\" attacking trio?",
     "question_ar": "ميسي وسواريز ونيمار كانوا بيلعبوا مع بعض لأنهي فريق، مكونين ثلاثي الهجوم \"MSN\"؟",
     "options": [
-      {"en": "Real Madrid", "ar": "ريال مدريد"},
-      {"en": "Barcelona", "ar": "برشلونة"},
-      {"en": "Paris Saint-Germain", "ar": "باريس سان جيرمان"},
-      {"en": "Juventus", "ar": "يوفنتوس"}
+      {
+        "en": "Paris Saint-Germain",
+        "ar": "باريس سان جيرمان"
+      },
+      {
+        "en": "Real Madrid",
+        "ar": "ريال مدريد"
+      },
+      {
+        "en": "Barcelona",
+        "ar": "برشلونة"
+      },
+      {
+        "en": "Juventus",
+        "ar": "يوفنتوس"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Messi, Suárez, and Neymar formed Barcelona's famous \"MSN\" attacking trio.",
     "explanation_ar": "ميسي وسواريز ونيمار كونوا ثلاثي هجوم برشلونة الشهير \"MSN\"."
   },
@@ -566,12 +938,24 @@
     "question_en": "Luis Suárez, part of Barcelona's famous attacking trio, comes from which country?",
     "question_ar": "لويس سواريز، جزء من ثلاثي هجوم برشلونة الشهير، أصله من أنهي دولة؟",
     "options": [
-      {"en": "Argentina", "ar": "الأرجنتين"},
-      {"en": "Uruguay", "ar": "الأوروجواي"},
-      {"en": "Chile", "ar": "تشيلي"},
-      {"en": "Colombia", "ar": "كولومبيا"}
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Chile",
+        "ar": "تشيلي"
+      },
+      {
+        "en": "Colombia",
+        "ar": "كولومبيا"
+      },
+      {
+        "en": "Uruguay",
+        "ar": "الأوروجواي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Luis Suárez is a football legend from Uruguay.",
     "explanation_ar": "لويس سواريز أسطورة الكورة الأوروجوانية."
   },
@@ -584,12 +968,24 @@
     "question_en": "Which country won the UEFA European Championship (Euro) in 2020, played in 2021?",
     "question_ar": "أنهي دولة فازت ببطولة أمم أوروبا (يورو) نسخة 2020 اللي اتلعبت سنة 2021؟",
     "options": [
-      {"en": "England", "ar": "إنجلترا"},
-      {"en": "Italy", "ar": "إيطاليا"},
-      {"en": "Spain", "ar": "إسبانيا"},
-      {"en": "France", "ar": "فرنسا"}
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "England",
+        "ar": "إنجلترا"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Italy won the delayed Euro 2020 tournament, held in 2021.",
     "explanation_ar": "إيطاليا فازت ببطولة يورو 2020 اللي اتأجلت وتلعبت 2021."
   },
@@ -602,12 +998,24 @@
     "question_en": "The UEFA European Championship (\"Euro\") is the top international tournament for teams from which continent?",
     "question_ar": "بطولة أمم أوروبا (\"اليورو\") هي أهم بطولة منتخبات في أنهي قارة؟",
     "options": [
-      {"en": "Europe", "ar": "أوروبا"},
-      {"en": "Africa", "ar": "أفريقيا"},
-      {"en": "Asia", "ar": "آسيا"},
-      {"en": "South America", "ar": "أمريكا الجنوبية"}
+      {
+        "en": "South America",
+        "ar": "أمريكا الجنوبية"
+      },
+      {
+        "en": "Asia",
+        "ar": "آسيا"
+      },
+      {
+        "en": "Europe",
+        "ar": "أوروبا"
+      },
+      {
+        "en": "Africa",
+        "ar": "أفريقيا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Euro is the top international competition for European national teams.",
     "explanation_ar": "اليورو هي أهم بطولة للمنتخبات الأوروبية."
   },
@@ -620,10 +1028,22 @@
     "question_en": "Between AC Milan and Inter Milan, which club has won more European Cup/Champions League titles?",
     "question_ar": "بين ميلان وإنتر ميلان، أنهي فريق فاز بألقاب كأس أوروبا/دوري الأبطال أكتر؟",
     "options": [
-      {"en": "AC Milan", "ar": "ميلان"},
-      {"en": "Inter Milan", "ar": "إنتر ميلان"},
-      {"en": "They are tied", "ar": "متعادلين"},
-      {"en": "Neither has won it", "ar": "ولا واحد فيهم فاز بيها"}
+      {
+        "en": "AC Milan",
+        "ar": "ميلان"
+      },
+      {
+        "en": "Inter Milan",
+        "ar": "إنتر ميلان"
+      },
+      {
+        "en": "Neither has won it",
+        "ar": "ولا واحد فيهم فاز بيها"
+      },
+      {
+        "en": "They are tied",
+        "ar": "متعادلين"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "AC Milan has won more European Cup/Champions League titles than city rivals Inter.",
@@ -638,12 +1058,24 @@
     "question_en": "Paris Saint-Germain (PSG), one of Europe's richest clubs, is based in which capital city?",
     "question_ar": "باريس سان جيرمان، واحد من أغنى أندية أوروبا، أساسه في أنهي عاصمة؟",
     "options": [
-      {"en": "Paris", "ar": "باريس"},
-      {"en": "Lyon", "ar": "ليون"},
-      {"en": "Marseille", "ar": "مارسيليا"},
-      {"en": "Nice", "ar": "نيس"}
+      {
+        "en": "Lyon",
+        "ar": "ليون"
+      },
+      {
+        "en": "Marseille",
+        "ar": "مارسيليا"
+      },
+      {
+        "en": "Paris",
+        "ar": "باريس"
+      },
+      {
+        "en": "Nice",
+        "ar": "نيس"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "PSG is based in the French capital, Paris.",
     "explanation_ar": "باريس سان جيرمان أساسه في العاصمة الفرنسية باريس."
   },
@@ -656,12 +1088,24 @@
     "question_en": "Bayern Munich, Germany's most successful club, is based in which city?",
     "question_ar": "بايرن ميونخ، أنجح نادي ألماني، أساسه في أنهي مدينة؟",
     "options": [
-      {"en": "Berlin", "ar": "برلين"},
-      {"en": "Munich", "ar": "ميونخ"},
-      {"en": "Dortmund", "ar": "دورتموند"},
-      {"en": "Hamburg", "ar": "هامبورج"}
+      {
+        "en": "Dortmund",
+        "ar": "دورتموند"
+      },
+      {
+        "en": "Hamburg",
+        "ar": "هامبورج"
+      },
+      {
+        "en": "Munich",
+        "ar": "ميونخ"
+      },
+      {
+        "en": "Berlin",
+        "ar": "برلين"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Bayern Munich is based in the city of Munich.",
     "explanation_ar": "بايرن ميونخ أساسه في مدينة ميونخ."
   },
@@ -674,12 +1118,24 @@
     "question_en": "Diego Maradona's controversial \"Hand of God\" goal in 1986 came in a match against which country?",
     "question_ar": "هدف \"يد الإله\" المثير للجدل بتاع مارادونا سنة 1986 كان في مباراة أمام أنهي دولة؟",
     "options": [
-      {"en": "Germany", "ar": "ألمانيا"},
-      {"en": "England", "ar": "إنجلترا"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Italy", "ar": "إيطاليا"}
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "England",
+        "ar": "إنجلترا"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Maradona's infamous \"Hand of God\" goal came against England at the 1986 World Cup.",
     "explanation_ar": "هدف \"يد الإله\" الشهير لمارادونا كان أمام إنجلترا في كأس عالم 1986."
   },
@@ -692,12 +1148,24 @@
     "question_en": "Which stadium traditionally hosts the FA Cup final in England?",
     "question_ar": "إيه الملعب اللي بتتقام فيه نهائي كأس الاتحاد الإنجليزي عادة؟",
     "options": [
-      {"en": "Old Trafford", "ar": "أولد ترافورد"},
-      {"en": "Wembley", "ar": "ويمبلي"},
-      {"en": "Anfield", "ar": "أنفيلد"},
-      {"en": "Stamford Bridge", "ar": "ستامفورد بريدج"}
+      {
+        "en": "Wembley",
+        "ar": "ويمبلي"
+      },
+      {
+        "en": "Old Trafford",
+        "ar": "أولد ترافورد"
+      },
+      {
+        "en": "Anfield",
+        "ar": "أنفيلد"
+      },
+      {
+        "en": "Stamford Bridge",
+        "ar": "ستامفورد بريدج"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Wembley Stadium is the traditional home of the FA Cup final.",
     "explanation_ar": "استاد ويمبلي هو الملعب التقليدي لنهائي كأس الاتحاد الإنجليزي."
   },
@@ -710,12 +1178,24 @@
     "question_en": "Which English club is nicknamed \"The Gunners\"?",
     "question_ar": "أنهي فريق إنجليزي ملقب بـ \"الجانرز\" (المدفعجية)؟",
     "options": [
-      {"en": "Chelsea", "ar": "تشيلسي"},
-      {"en": "Arsenal", "ar": "أرسنال"},
-      {"en": "Tottenham", "ar": "توتنهام"},
-      {"en": "West Ham", "ar": "وست هام"}
+      {
+        "en": "Tottenham",
+        "ar": "توتنهام"
+      },
+      {
+        "en": "Chelsea",
+        "ar": "تشيلسي"
+      },
+      {
+        "en": "Arsenal",
+        "ar": "أرسنال"
+      },
+      {
+        "en": "West Ham",
+        "ar": "وست هام"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Arsenal is famously nicknamed \"The Gunners.\"",
     "explanation_ar": "أرسنال ملقب بـ \"الجانرز\" (المدفعجية)."
   },
@@ -728,10 +1208,22 @@
     "question_en": "Which English club is famously nicknamed \"The Reds\" and plays at Anfield?",
     "question_ar": "أنهي فريق إنجليزي ملقب بـ \"الريدز\" وبيلعب في أنفيلد؟",
     "options": [
-      {"en": "Manchester United", "ar": "مانشستر يونايتد"},
-      {"en": "Liverpool", "ar": "ليفربول"},
-      {"en": "Nottingham Forest", "ar": "نوتنجهام فورست"},
-      {"en": "Sunderland", "ar": "سندرلاند"}
+      {
+        "en": "Sunderland",
+        "ar": "سندرلاند"
+      },
+      {
+        "en": "Liverpool",
+        "ar": "ليفربول"
+      },
+      {
+        "en": "Manchester United",
+        "ar": "مانشستر يونايتد"
+      },
+      {
+        "en": "Nottingham Forest",
+        "ar": "نوتنجهام فورست"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Liverpool is famously known as \"The Reds\" and plays at Anfield.",
@@ -746,12 +1238,24 @@
     "question_en": "Which club, before Mohamed Salah's Liverpool, hosted him in Italy on his path to becoming a Serie A star?",
     "question_ar": "أنهي فريق إيطالي استضاف محمد صلاح قبل ليفربول في طريقه لبقى نجم في السيري أ؟",
     "options": [
-      {"en": "Juventus", "ar": "يوفنتوس"},
-      {"en": "AS Roma", "ar": "روما"},
-      {"en": "Napoli", "ar": "نابولي"},
-      {"en": "Inter Milan", "ar": "إنتر ميلان"}
+      {
+        "en": "AS Roma",
+        "ar": "روما"
+      },
+      {
+        "en": "Napoli",
+        "ar": "نابولي"
+      },
+      {
+        "en": "Juventus",
+        "ar": "يوفنتوس"
+      },
+      {
+        "en": "Inter Milan",
+        "ar": "إنتر ميلان"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Mohamed Salah became a star in Italy playing for AS Roma before joining Liverpool.",
     "explanation_ar": "محمد صلاح بقى نجم في إيطاليا وهو بيلعب لروما قبل ما ينضم لليفربول."
   },
@@ -764,12 +1268,24 @@
     "question_en": "What is the term used for a match with no goals scored by either team?",
     "question_ar": "إيه المصطلح اللي بيتقال على المباراة اللي مفيهاش أهداف لأي فريق؟",
     "options": [
-      {"en": "A clean sheet", "ar": "شباك نظيفة"},
-      {"en": "A goalless draw", "ar": "تعادل سلبي"},
-      {"en": "An own goal", "ar": "هدف عكسي"},
-      {"en": "A hat-trick", "ar": "هاتريك"}
+      {
+        "en": "A clean sheet",
+        "ar": "شباك نظيفة"
+      },
+      {
+        "en": "A hat-trick",
+        "ar": "هاتريك"
+      },
+      {
+        "en": "An own goal",
+        "ar": "هدف عكسي"
+      },
+      {
+        "en": "A goalless draw",
+        "ar": "تعادل سلبي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "A match with no goals for either side is called a goalless draw.",
     "explanation_ar": "المباراة اللي مفيهاش أهداف لأي فريق بيتقال عليها تعادل سلبي."
   },
@@ -782,12 +1298,24 @@
     "question_en": "What is the football term for a player scoring three goals in a single match?",
     "question_ar": "إيه مصطلح الكورة لما اللاعب يسجل 3 أهداف في مباراة واحدة؟",
     "options": [
-      {"en": "A brace", "ar": "هدفين"},
-      {"en": "A hat-trick", "ar": "هاتريك"},
-      {"en": "A clean sheet", "ar": "شباك نظيفة"},
-      {"en": "An assist", "ar": "تمريرة حاسمة"}
+      {
+        "en": "An assist",
+        "ar": "تمريرة حاسمة"
+      },
+      {
+        "en": "A brace",
+        "ar": "هدفين"
+      },
+      {
+        "en": "A clean sheet",
+        "ar": "شباك نظيفة"
+      },
+      {
+        "en": "A hat-trick",
+        "ar": "هاتريك"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Scoring three goals in one match is called a hat-trick.",
     "explanation_ar": "تسجيل 3 أهداف في مباراة واحدة بيتسمى هاتريك."
   },
@@ -800,10 +1328,22 @@
     "question_en": "Which country's national team is nicknamed \"The Three Lions\"?",
     "question_ar": "أنهي منتخب ملقب بـ \"الأسود التلاتة\"؟",
     "options": [
-      {"en": "Wales", "ar": "ويلز"},
-      {"en": "Scotland", "ar": "اسكتلندا"},
-      {"en": "England", "ar": "إنجلترا"},
-      {"en": "Ireland", "ar": "أيرلندا"}
+      {
+        "en": "Ireland",
+        "ar": "أيرلندا"
+      },
+      {
+        "en": "Scotland",
+        "ar": "اسكتلندا"
+      },
+      {
+        "en": "England",
+        "ar": "إنجلترا"
+      },
+      {
+        "en": "Wales",
+        "ar": "ويلز"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "England's national team is nicknamed \"The Three Lions.\"",
@@ -818,10 +1358,22 @@
     "question_en": "Which club is Zlatan Ibrahimović, the tall and confident striker, most associated with in Sweden's national team history?",
     "question_ar": "زلاتان إبراهيموفيتش، المهاجم الطويل الواثق من نفسه، بيمثل أنهي منتخب؟",
     "options": [
-      {"en": "Norway", "ar": "النرويج"},
-      {"en": "Sweden", "ar": "السويد"},
-      {"en": "Denmark", "ar": "الدنمارك"},
-      {"en": "Finland", "ar": "فنلندا"}
+      {
+        "en": "Denmark",
+        "ar": "الدنمارك"
+      },
+      {
+        "en": "Sweden",
+        "ar": "السويد"
+      },
+      {
+        "en": "Finland",
+        "ar": "فنلندا"
+      },
+      {
+        "en": "Norway",
+        "ar": "النرويج"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Zlatan Ibrahimović is Sweden's all-time record goal-scorer and captain.",
@@ -836,12 +1388,24 @@
     "question_en": "What do football fans call the specific position of a player who mainly creates and scores goals up front?",
     "question_ar": "الجماهير بتنادي إزاي على اللاعب اللي شغلته الأساسية إنه يسجل ويصنع أهداف في الخط الأمامي؟",
     "options": [
-      {"en": "Defender", "ar": "مدافع"},
-      {"en": "Striker", "ar": "مهاجم"},
-      {"en": "Goalkeeper", "ar": "حارس مرمى"},
-      {"en": "Referee", "ar": "حكم"}
+      {
+        "en": "Defender",
+        "ar": "مدافع"
+      },
+      {
+        "en": "Goalkeeper",
+        "ar": "حارس مرمى"
+      },
+      {
+        "en": "Striker",
+        "ar": "مهاجم"
+      },
+      {
+        "en": "Referee",
+        "ar": "حكم"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "A striker is a player positioned upfront to score and create goals.",
     "explanation_ar": "المهاجم هو اللاعب اللي بيلعب في المقدمة عشان يسجل ويصنع الأهداف."
   },
@@ -854,12 +1418,24 @@
     "question_en": "Which club is Thierry Henry, the Arsenal legend, originally from in terms of nationality?",
     "question_ar": "تييري هنري، أسطورة أرسنال، أصله من أنهي دولة؟",
     "options": [
-      {"en": "Belgium", "ar": "بلجيكا"},
-      {"en": "France", "ar": "فرنسا"},
-      {"en": "Netherlands", "ar": "هولندا"},
-      {"en": "Senegal", "ar": "السنغال"}
+      {
+        "en": "Belgium",
+        "ar": "بلجيكا"
+      },
+      {
+        "en": "Netherlands",
+        "ar": "هولندا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "Senegal",
+        "ar": "السنغال"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Thierry Henry is a French football legend and Arsenal icon.",
     "explanation_ar": "تييري هنري أسطورة فرنسية ورمز من رموز أرسنال."
   },
@@ -872,12 +1448,24 @@
     "question_en": "Which trophy is contested annually between the league champions of England and the FA Cup winners at the start of the season?",
     "question_ar": "إيه اسم الكأس اللي بتتلعب بين بطل الدوري الإنجليزي وبطل كأس الاتحاد في بداية الموسم؟",
     "options": [
-      {"en": "The Community Shield", "ar": "درع المجتمع"},
-      {"en": "The League Cup", "ar": "كأس الرابطة"},
-      {"en": "The FA Trophy", "ar": "كأس الاتحاد التذكارية"},
-      {"en": "The Charity Cup", "ar": "كأس الخيرية"}
+      {
+        "en": "The FA Trophy",
+        "ar": "كأس الاتحاد التذكارية"
+      },
+      {
+        "en": "The Community Shield",
+        "ar": "درع المجتمع"
+      },
+      {
+        "en": "The Charity Cup",
+        "ar": "كأس الخيرية"
+      },
+      {
+        "en": "The League Cup",
+        "ar": "كأس الرابطة"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Community Shield opens the English season between the league and FA Cup winners.",
     "explanation_ar": "درع المجتمع بيفتتح الموسم الإنجليزي بين بطل الدوري وبطل كأس الاتحاد."
   },
@@ -890,12 +1478,24 @@
     "question_en": "What do fans call the intense rivalry match between Manchester United and Liverpool?",
     "question_ar": "الجماهير بتنادي إزاي على الماتش الناري بين مانشستر يونايتد وليفربول؟",
     "options": [
-      {"en": "El Clásico", "ar": "الكلاسيكو"},
-      {"en": "The North West Derby", "ar": "ديربي شمال غرب إنجلترا"},
-      {"en": "The Old Firm", "ar": "أولد فيرم"},
-      {"en": "The Merseyside Derby", "ar": "ديربي ميرسيسايد"}
+      {
+        "en": "The Old Firm",
+        "ar": "أولد فيرم"
+      },
+      {
+        "en": "El Clásico",
+        "ar": "الكلاسيكو"
+      },
+      {
+        "en": "The North West Derby",
+        "ar": "ديربي شمال غرب إنجلترا"
+      },
+      {
+        "en": "The Merseyside Derby",
+        "ar": "ديربي ميرسيسايد"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "The Manchester United vs Liverpool rivalry is known as the North West Derby.",
     "explanation_ar": "الماتش بين مانشستر يونايتد وليفربول بيتسمى ديربي شمال غرب إنجلترا."
   }

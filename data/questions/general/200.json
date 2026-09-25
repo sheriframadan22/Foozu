@@ -9,23 +9,23 @@
     "question_ar": "إيه أول دولة في العالم أصدرت عملة ورقية؟",
     "options": [
       {
-        "en": "China",
-        "ar": "الصين"
-      },
-      {
         "en": "England",
         "ar": "إنجلترا"
       },
       {
-        "en": "Egypt",
-        "ar": "مصر"
-      },
-      {
         "en": "Sweden",
         "ar": "السويد"
+      },
+      {
+        "en": "China",
+        "ar": "الصين"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "China issued the world's first paper currency during the Tang and Song dynasties.",
     "explanation_ar": "الصين أصدرت أول عملة ورقية في العالم في عصر أسرتي تانج وسونج."
   },
@@ -39,23 +39,23 @@
     "question_ar": "إيه الحاكم المصري اللي بينسب له توحيد مصر العليا والسفلى في مملكة واحدة حوالي 3100 قبل الميلاد؟",
     "options": [
       {
-        "en": "Khufu",
-        "ar": "خوفو"
-      },
-      {
         "en": "Narmer",
         "ar": "نارمر"
+      },
+      {
+        "en": "Menes",
+        "ar": "مينا"
       },
       {
         "en": "Djoser",
         "ar": "زوسر"
       },
       {
-        "en": "Menes",
-        "ar": "مينا"
+        "en": "Khufu",
+        "ar": "خوفو"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Narmer is widely credited by archaeologists as the king who unified Upper and Lower Egypt.",
     "explanation_ar": "نارمر بينسب له علماء الآثار توحيد مصر العليا والسفلى."
   },
@@ -69,23 +69,23 @@
     "question_ar": "إيه اسم البحر جمب مصر اللي بيتسع بسبب حركة الصفائح التكتونية وممكن يبقى محيط جديد يومًا ما؟",
     "options": [
       {
-        "en": "The Mediterranean Sea",
-        "ar": "البحر الأبيض المتوسط"
+        "en": "The Red Sea",
+        "ar": "البحر الأحمر"
       },
       {
         "en": "The Arabian Sea",
         "ar": "البحر العربي"
       },
       {
-        "en": "The Red Sea",
-        "ar": "البحر الأحمر"
+        "en": "The Mediterranean Sea",
+        "ar": "البحر الأبيض المتوسط"
       },
       {
         "en": "The Black Sea",
         "ar": "البحر الأسود"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The Red Sea sits on a widening rift and is theorized to eventually become a new ocean.",
     "explanation_ar": "البحر الأحمر موجود على صدع بيتسع وممكن يبقى محيط جديد في المستقبل البعيد."
   },
@@ -129,23 +129,23 @@
     "question_ar": "إيه اسم الحجر اللي اتكتشف سنة 1799 وساعد في فك رموز الهيروغليفية المصرية القديمة؟",
     "options": [
       {
-        "en": "The Rosetta Stone",
-        "ar": "حجر رشيد"
-      },
-      {
-        "en": "The Palermo Stone",
-        "ar": "حجر باليرمو"
+        "en": "The Behistun Inscription",
+        "ar": "نقش بيستون"
       },
       {
         "en": "The Narmer Palette",
         "ar": "لوحة نارمر"
       },
       {
-        "en": "The Behistun Inscription",
-        "ar": "نقش بيستون"
+        "en": "The Rosetta Stone",
+        "ar": "حجر رشيد"
+      },
+      {
+        "en": "The Palermo Stone",
+        "ar": "حجر باليرمو"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Rosetta Stone, found near Rosetta, Egypt, was key to decoding hieroglyphics.",
     "explanation_ar": "حجر رشيد، اللي اتكتشف قرب مدينة رشيد المصرية، كان مفتاح فك رموز الهيروغليفية."
   },
@@ -159,23 +159,23 @@
     "question_ar": "إيه الدولة اللي عملتها (الدينار) من العملات النادرة اللي بتتقسم لـ1000 وحدة أصغر بدل 100؟",
     "options": [
       {
-        "en": "Jordan",
-        "ar": "الأردن"
-      },
-      {
         "en": "Kuwait",
         "ar": "الكويت"
       },
       {
-        "en": "Iraq",
-        "ar": "العراق"
+        "en": "Jordan",
+        "ar": "الأردن"
       },
       {
         "en": "Tunisia",
         "ar": "تونس"
+      },
+      {
+        "en": "Iraq",
+        "ar": "العراق"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The Kuwaiti dinar is subdivided into 1,000 fils, unlike most currencies with 100 subunits.",
     "explanation_ar": "الدينار الكويتي بينقسم لـ1000 فلس، على عكس معظم العملات اللي بتنقسم لـ100."
   },
@@ -189,23 +189,23 @@
     "question_ar": "إيه اسم فرع اللغويات اللي بيدرس أصل الكلمات وتاريخها؟",
     "options": [
       {
-        "en": "Phonetics",
-        "ar": "علم الأصوات"
-      },
-      {
-        "en": "Syntax",
-        "ar": "علم التركيب"
+        "en": "Semantics",
+        "ar": "علم الدلالة"
       },
       {
         "en": "Etymology",
         "ar": "علم الاشتقاق (إيتيمولوجي)"
       },
       {
-        "en": "Semantics",
-        "ar": "علم الدلالة"
+        "en": "Syntax",
+        "ar": "علم التركيب"
+      },
+      {
+        "en": "Phonetics",
+        "ar": "علم الأصوات"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Etymology is the study of the origin and history of words.",
     "explanation_ar": "علم الاشتقاق (إيتيمولوجي) بيدرس أصل الكلمات وتاريخها."
   },
@@ -219,23 +219,23 @@
     "question_ar": "إيه المهندس المعماري اللي صمم هرم متحف اللوفر في باريس وبرج بنك الصين في هونج كونج؟",
     "options": [
       {
-        "en": "Frank Gehry",
-        "ar": "فرانك جيري"
-      },
-      {
-        "en": "Norman Foster",
-        "ar": "نورمان فوستر"
-      },
-      {
         "en": "Zaha Hadid",
         "ar": "زها حديد"
       },
       {
         "en": "I. M. Pei",
         "ar": "آي إم بي"
+      },
+      {
+        "en": "Frank Gehry",
+        "ar": "فرانك جيري"
+      },
+      {
+        "en": "Norman Foster",
+        "ar": "نورمان فوستر"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "I. M. Pei designed both the Louvre Pyramid and the Bank of China Tower.",
     "explanation_ar": "آي إم بي صمم هرم اللوفر وبرج بنك الصين."
   },
@@ -249,23 +249,23 @@
     "question_ar": "إيه الدولة الوحيدة في العالم اللي علمها مش شكله مستطيل؟",
     "options": [
       {
-        "en": "Nepal",
-        "ar": "نيبال"
-      },
-      {
-        "en": "Bhutan",
-        "ar": "بوتان"
-      },
-      {
         "en": "Switzerland",
         "ar": "سويسرا"
       },
       {
+        "en": "Nepal",
+        "ar": "نيبال"
+      },
+      {
         "en": "Vatican City",
         "ar": "الفاتيكان"
+      },
+      {
+        "en": "Bhutan",
+        "ar": "بوتان"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Nepal's flag is the only national flag that is not rectangular; it is made of two overlapping triangles.",
     "explanation_ar": "علم نيبال هو العلم الوطني الوحيد اللي مش مستطيل، وشكله مثلثين متداخلين."
   },
@@ -279,10 +279,6 @@
     "question_ar": "إيه الملكة المصرية القديمة المشهورة بتمثالها النصفي اللي اتكتشف سنة 1912 وموجود دلوقتي في برلين؟",
     "options": [
       {
-        "en": "Hatshepsut",
-        "ar": "حتشبسوت"
-      },
-      {
         "en": "Nefertiti",
         "ar": "نفرتيتي"
       },
@@ -291,11 +287,15 @@
         "ar": "كليوباترا"
       },
       {
+        "en": "Hatshepsut",
+        "ar": "حتشبسوت"
+      },
+      {
         "en": "Ankhesenamun",
         "ar": "عنخ إس آمون"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The bust of Nefertiti was discovered in 1912 and is displayed in Berlin's Neues Museum.",
     "explanation_ar": "تمثال نفرتيتي النصفي اتكتشف سنة 1912 وموجود في متحف نويس في برلين."
   },
@@ -309,6 +309,10 @@
     "question_ar": "إيه اسم النظام العالمي للوحدات المبني على المتر والكيلوجرام والثانية واللي بتستخدمه معظم دول العالم؟",
     "options": [
       {
+        "en": "The Metric System (SI)",
+        "ar": "النظام المتري (SI)"
+      },
+      {
         "en": "The Imperial System",
         "ar": "النظام الإمبراطوري"
       },
@@ -317,15 +321,11 @@
         "ar": "النظام الأمريكي المعتاد"
       },
       {
-        "en": "The Metric System (SI)",
-        "ar": "النظام المتري (SI)"
-      },
-      {
         "en": "The Avoirdupois System",
         "ar": "نظام الأفوردوبوا"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The Metric System (International System of Units, SI) is used by nearly all countries.",
     "explanation_ar": "النظام المتري (SI) بتستخدمه معظم دول العالم."
   },
@@ -339,23 +339,23 @@
     "question_ar": "مين اللي صورته على ورقة الـ100 دولار رغم إنه معملش رئيس أمريكا؟",
     "options": [
       {
-        "en": "Alexander Hamilton",
-        "ar": "ألكسندر هاملتون"
-      },
-      {
-        "en": "Ulysses S. Grant",
-        "ar": "يوليسيس جرانت"
-      },
-      {
         "en": "Andrew Jackson",
         "ar": "أندرو جاكسون"
       },
       {
         "en": "Benjamin Franklin",
         "ar": "بنجامين فرانكلين"
+      },
+      {
+        "en": "Ulysses S. Grant",
+        "ar": "يوليسيس جرانت"
+      },
+      {
+        "en": "Alexander Hamilton",
+        "ar": "ألكسندر هاملتون"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Benjamin Franklin, a Founding Father who was never president, appears on the $100 bill.",
     "explanation_ar": "بنجامين فرانكلين، أحد الآباء المؤسسين، معملش رئيس لكن صورته على ورقة الـ100 دولار."
   },
@@ -369,23 +369,23 @@
     "question_ar": "إيه اسم النظرية اللي بتقول إن قارات الأرض كانت متصلة زمان في كتلة أرضية واحدة اسمها بانجيا؟",
     "options": [
       {
-        "en": "Continental drift",
-        "ar": "الانجراف القاري"
-      },
-      {
         "en": "Plate stasis",
         "ar": "سكون الصفائح"
       },
       {
-        "en": "Isostatic rebound",
-        "ar": "الارتداد الأيزوستاتي"
-      },
-      {
         "en": "Seafloor stagnation",
         "ar": "ركود قاع البحر"
+      },
+      {
+        "en": "Continental drift",
+        "ar": "الانجراف القاري"
+      },
+      {
+        "en": "Isostatic rebound",
+        "ar": "الارتداد الأيزوستاتي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The theory of continental drift proposed that continents were once joined as Pangaea.",
     "explanation_ar": "نظرية الانجراف القاري بتقول إن القارات كانت متصلة زمان في بانجيا."
   },
@@ -399,23 +399,23 @@
     "question_ar": "إيه المدينة اللي كانت عاصمة مصر القديمة في عصر الدولة القديمة، قريبة من الجيزة الحالية؟",
     "options": [
       {
-        "en": "Thebes",
-        "ar": "طيبة"
-      },
-      {
-        "en": "Memphis",
-        "ar": "منف"
+        "en": "Amarna",
+        "ar": "العمارنة"
       },
       {
         "en": "Heliopolis",
         "ar": "عين شمس"
       },
       {
-        "en": "Amarna",
-        "ar": "العمارنة"
+        "en": "Thebes",
+        "ar": "طيبة"
+      },
+      {
+        "en": "Memphis",
+        "ar": "منف"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Memphis was the capital of Egypt during the Old Kingdom, near modern Giza.",
     "explanation_ar": "منف كانت عاصمة مصر في عصر الدولة القديمة، قريبة من الجيزة الحالية."
   },
@@ -429,23 +429,23 @@
     "question_ar": "إيه المصطلح الاقتصادي اللي بيوصف ارتفاع الأسعار السريع مع ركود الاقتصاد وارتفاع البطالة؟",
     "options": [
       {
-        "en": "Deflation",
-        "ar": "الانكماش"
-      },
-      {
         "en": "Hyperinflation",
         "ar": "التضخم المفرط"
       },
       {
-        "en": "Stagflation",
-        "ar": "الركود التضخمي"
-      },
-      {
         "en": "Recession",
         "ar": "الركود"
+      },
+      {
+        "en": "Deflation",
+        "ar": "الانكماش"
+      },
+      {
+        "en": "Stagflation",
+        "ar": "الركود التضخمي"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Stagflation combines stagnant growth, high unemployment, and rising prices.",
     "explanation_ar": "الركود التضخمي بيجمع بين ركود النمو وارتفاع البطالة وارتفاع الأسعار."
   },
@@ -459,23 +459,23 @@
     "question_ar": "إيه المعدن اللي عنده أعلى درجة انصهار من كل المعادن، ومستخدم في فتيل لمبات الإضاءة القديمة؟",
     "options": [
       {
-        "en": "Titanium",
-        "ar": "التيتانيوم"
-      },
-      {
-        "en": "Platinum",
-        "ar": "البلاتين"
-      },
-      {
         "en": "Chromium",
         "ar": "الكروم"
       },
       {
         "en": "Tungsten",
         "ar": "التنجستن"
+      },
+      {
+        "en": "Platinum",
+        "ar": "البلاتين"
+      },
+      {
+        "en": "Titanium",
+        "ar": "التيتانيوم"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Tungsten has the highest melting point of all metals and is used in light bulb filaments.",
     "explanation_ar": "التنجستن عنده أعلى درجة انصهار من كل المعادن، ومستخدم في فتيل اللمبات."
   },
@@ -489,8 +489,8 @@
     "question_ar": "إيه الدولة الأفريقية اللي معملش استعمار أوروبي ليها وفضلت مستقلة طول عصر الاستعمار (غير احتلال إيطالي قصير)؟",
     "options": [
       {
-        "en": "Ethiopia",
-        "ar": "إثيوبيا"
+        "en": "Egypt",
+        "ar": "مصر"
       },
       {
         "en": "Liberia",
@@ -501,11 +501,11 @@
         "ar": "المغرب"
       },
       {
-        "en": "Egypt",
-        "ar": "مصر"
+        "en": "Ethiopia",
+        "ar": "إثيوبيا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Ethiopia remained independent through the colonial era, aside from a brief Italian occupation (1936-1941).",
     "explanation_ar": "إثيوبيا فضلت مستقلة طول عصر الاستعمار، غير احتلال إيطالي قصير من 1936 لـ1941."
   },
@@ -519,23 +519,23 @@
     "question_ar": "إيه اسم الثابت الرياضي اللي قيمته تقريبًا 3.14159 وبيمثل محيط الدايرة مقسوم على قطرها؟",
     "options": [
       {
-        "en": "Euler's number",
-        "ar": "عدد أويلر"
+        "en": "Avogadro's number",
+        "ar": "عدد أفوجادرو"
       },
       {
-        "en": "Pi",
-        "ar": "باي (π)"
+        "en": "Euler's number",
+        "ar": "عدد أويلر"
       },
       {
         "en": "The golden ratio",
         "ar": "النسبة الذهبية"
       },
       {
-        "en": "Avogadro's number",
-        "ar": "عدد أفوجادرو"
+        "en": "Pi",
+        "ar": "باي (π)"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Pi (π) is approximately 3.14159, the ratio of a circle's circumference to its diameter.",
     "explanation_ar": "باي (π) قيمته تقريبًا 3.14159، وهو نسبة محيط الدايرة لقطرها."
   },
@@ -549,23 +549,23 @@
     "question_ar": "إيه المدينة المصرية في الدلتا اللي اسمها بقى اسم نوع قماش قطن رفيع كان بيتصدر من مينائها قديمًا؟",
     "options": [
       {
-        "en": "Mahalla",
-        "ar": "المحلة"
+        "en": "Damietta",
+        "ar": "دمياط"
       },
       {
         "en": "Kafr el-Sheikh",
         "ar": "كفر الشيخ"
       },
       {
-        "en": "Damietta",
-        "ar": "دمياط"
-      },
-      {
         "en": "Zagazig",
         "ar": "الزقازيق"
+      },
+      {
+        "en": "Mahalla",
+        "ar": "المحلة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The fabric 'dimity' takes its name from Damietta, a historic Nile Delta trading port.",
     "explanation_ar": "قماش 'الدمياطي' (دمتي) اتسمى نسبة لمدينة دمياط، الميناء التاريخي في الدلتا."
   },
@@ -583,12 +583,12 @@
         "ar": "القاهرة، مصر"
       },
       {
-        "en": "Damascus, Syria",
-        "ar": "دمشق، سوريا"
-      },
-      {
         "en": "Aleppo, Syria",
         "ar": "حلب، سوريا"
+      },
+      {
+        "en": "Damascus, Syria",
+        "ar": "دمشق، سوريا"
       },
       {
         "en": "Mosul, Iraq",
@@ -609,23 +609,23 @@
     "question_ar": "إيه القاعدة اللي بتحدد إن السنين اللي بتخلص بـ00 لازم تتقسم على 400 عشان تبقى سنة كبيسة؟",
     "options": [
       {
-        "en": "The Gregorian calendar rule",
-        "ar": "قاعدة التقويم الجريجوري"
-      },
-      {
-        "en": "The Julian calendar rule",
-        "ar": "قاعدة التقويم اليولياني"
+        "en": "The Metonic cycle rule",
+        "ar": "قاعدة دورة ميتون"
       },
       {
         "en": "The Solar cycle rule",
         "ar": "قاعدة الدورة الشمسية"
       },
       {
-        "en": "The Metonic cycle rule",
-        "ar": "قاعدة دورة ميتون"
+        "en": "The Julian calendar rule",
+        "ar": "قاعدة التقويم اليولياني"
+      },
+      {
+        "en": "The Gregorian calendar rule",
+        "ar": "قاعدة التقويم الجريجوري"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The Gregorian calendar rule requires century years to be divisible by 400 to be leap years.",
     "explanation_ar": "قاعدة التقويم الجريجوري بتحدد إن سنين القرون لازم تتقسم على 400 عشان تبقى كبيسة."
   },
@@ -639,12 +639,12 @@
     "question_ar": "إيه الدولة المعترف فيها بـ11 لغة رسمية على المستوى الوطني، أكتر من أي دولة تانية تقريبًا؟",
     "options": [
       {
-        "en": "India",
-        "ar": "الهند"
-      },
-      {
         "en": "South Africa",
         "ar": "جنوب أفريقيا"
+      },
+      {
+        "en": "India",
+        "ar": "الهند"
       },
       {
         "en": "Switzerland",
@@ -655,7 +655,7 @@
         "ar": "بوليفيا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "South Africa recognizes 11 official languages at the national level.",
     "explanation_ar": "جنوب أفريقيا معترف بيها بـ11 لغة رسمية على المستوى الوطني."
   },
@@ -669,10 +669,6 @@
     "question_ar": "إيه العالم اللي أول واحد اقترح إن الضوء بيتصرف كموجة وكجسيم في نفس الوقت، وده كان أساس نظرية الكم؟",
     "options": [
       {
-        "en": "Isaac Newton",
-        "ar": "إسحق نيوتن"
-      },
-      {
         "en": "Niels Bohr",
         "ar": "نيلز بور"
       },
@@ -681,11 +677,15 @@
         "ar": "ألبرت أينشتاين"
       },
       {
+        "en": "Isaac Newton",
+        "ar": "إسحق نيوتن"
+      },
+      {
         "en": "Max Planck",
         "ar": "ماكس بلانك"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Einstein's explanation of the photoelectric effect proposed light's dual wave-particle nature, earning him the Nobel Prize.",
     "explanation_ar": "أينشتاين فسر التأثير الكهروضوئي واقترح إن الضوء له طبيعة مزدوجة كموجة وجسيم، وده كسبه جايزة نوبل."
   },
@@ -699,10 +699,6 @@
     "question_ar": "إيه اسم إله العالم التاني عند المصريين القدماء، اللي بيتصور غالبًا برأس ابن آوى؟",
     "options": [
       {
-        "en": "Osiris",
-        "ar": "أوزوريس"
-      },
-      {
         "en": "Horus",
         "ar": "حورس"
       },
@@ -713,9 +709,13 @@
       {
         "en": "Anubis",
         "ar": "أنوبيس"
+      },
+      {
+        "en": "Osiris",
+        "ar": "أوزوريس"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Anubis, the jackal-headed god, was associated with mummification and the afterlife.",
     "explanation_ar": "أنوبيس، الإله اللي برأس ابن آوى، كان مرتبط بالتحنيط والعالم التاني."
   },
@@ -729,23 +729,23 @@
     "question_ar": "إيه أول بنك مركزي اتأسس في العالم سنة 1668؟",
     "options": [
       {
-        "en": "Sweden (Sveriges Riksbank)",
-        "ar": "السويد (ريكسبانك)"
-      },
-      {
-        "en": "England (Bank of England)",
-        "ar": "إنجلترا (بنك إنجلترا)"
-      },
-      {
         "en": "Netherlands",
         "ar": "هولندا"
       },
       {
         "en": "France",
         "ar": "فرنسا"
+      },
+      {
+        "en": "Sweden (Sveriges Riksbank)",
+        "ar": "السويد (ريكسبانك)"
+      },
+      {
+        "en": "England (Bank of England)",
+        "ar": "إنجلترا (بنك إنجلترا)"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Sweden's Sveriges Riksbank, founded in 1668, is the world's oldest central bank.",
     "explanation_ar": "بنك ريكسبانك السويدي، اللي اتأسس سنة 1668، هو أقدم بنك مركزي في العالم."
   },
@@ -759,23 +759,23 @@
     "question_ar": "إيه اسم مجموعة الخطوط التلاتة (الهيروغليفي والديموطيقي واليوناني) الموجودة مع بعض على حجر رشيد؟",
     "options": [
       {
-        "en": "A bilingual cipher",
-        "ar": "شفرة ثنائية اللغة"
-      },
-      {
         "en": "A trilingual (triple) inscription",
         "ar": "نقش ثلاثي اللغة"
       },
       {
-        "en": "A Rosetta script",
-        "ar": "خط رشيد"
-      },
-      {
         "en": "A cartouche set",
         "ar": "مجموعة خرطوش"
+      },
+      {
+        "en": "A bilingual cipher",
+        "ar": "شفرة ثنائية اللغة"
+      },
+      {
+        "en": "A Rosetta script",
+        "ar": "خط رشيد"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The Rosetta Stone bears a trilingual inscription in hieroglyphic, Demotic, and Greek.",
     "explanation_ar": "حجر رشيد عليه نقش ثلاثي اللغة بالهيروغليفي والديموطيقي واليوناني."
   },
@@ -789,20 +789,20 @@
     "question_ar": "إيه الدولة اللي بينسب لها أصل لعبة الشطرنج، قبل ما تنتشر عن طريق بلاد فارس لباقي العالم؟",
     "options": [
       {
-        "en": "China",
-        "ar": "الصين"
+        "en": "Egypt",
+        "ar": "مصر"
       },
       {
-        "en": "Persia (Iran)",
-        "ar": "بلاد فارس (إيران)"
+        "en": "China",
+        "ar": "الصين"
       },
       {
         "en": "India",
         "ar": "الهند"
       },
       {
-        "en": "Egypt",
-        "ar": "مصر"
+        "en": "Persia (Iran)",
+        "ar": "بلاد فارس (إيران)"
       }
     ],
     "correctAnswer": 2,
@@ -819,16 +819,16 @@
     "question_ar": "إيه اسم التأثير اللي بيخلي الهوا والمية المتحركة تنحني بسبب دوران الأرض، وده بيأثر على اتجاه دوران الأعاصير؟",
     "options": [
       {
+        "en": "The Magnus effect",
+        "ar": "تأثير ماجنوس"
+      },
+      {
         "en": "The Doppler effect",
         "ar": "تأثير دوبلر"
       },
       {
         "en": "The Venturi effect",
         "ar": "تأثير فنتوري"
-      },
-      {
-        "en": "The Magnus effect",
-        "ar": "تأثير ماجنوس"
       },
       {
         "en": "The Coriolis effect",
@@ -849,12 +849,12 @@
     "question_ar": "إيه الحاكم المصري في العصر العثماني اللي بيعتبر مؤسس مصر الحديثة وحدّث جيشها واقتصادها في أوائل القرن التاسع عشر؟",
     "options": [
       {
-        "en": "Muhammad Ali Pasha",
-        "ar": "محمد علي باشا"
-      },
-      {
         "en": "Khedive Ismail",
         "ar": "الخديوي إسماعيل"
+      },
+      {
+        "en": "Muhammad Ali Pasha",
+        "ar": "محمد علي باشا"
       },
       {
         "en": "Ibrahim Pasha",
@@ -865,7 +865,7 @@
         "ar": "سعيد باشا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Muhammad Ali Pasha is considered the founder of modern Egypt.",
     "explanation_ar": "محمد علي باشا بيعتبر مؤسس مصر الحديثة."
   },
@@ -883,19 +883,19 @@
         "ar": "كولومبيا"
       },
       {
-        "en": "Bolivia",
-        "ar": "بوليفيا"
-      },
-      {
         "en": "Venezuela",
         "ar": "فنزويلا"
       },
       {
         "en": "Ecuador",
         "ar": "الإكوادور"
+      },
+      {
+        "en": "Bolivia",
+        "ar": "بوليفيا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Bolivia is named directly after independence leader Simón Bolívar.",
     "explanation_ar": "بوليفيا سُميت مباشرة على اسم زعيم الاستقلال سيمون بوليفار."
   },
@@ -913,19 +913,19 @@
         "ar": "عطارد"
       },
       {
-        "en": "Mars",
-        "ar": "المريخ"
-      },
-      {
         "en": "Venus",
         "ar": "الزهرة"
       },
       {
         "en": "Uranus",
         "ar": "أورانوس"
+      },
+      {
+        "en": "Mars",
+        "ar": "المريخ"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Venus rotates so slowly that its day is longer than its year around the Sun.",
     "explanation_ar": "الزهرة بتدور حوالين نفسها ببطء شديد لدرجة إن يومها أطول من سنتها حوالين الشمس."
   },
@@ -939,12 +939,12 @@
     "question_ar": "إيه اسم العملية اللي المصريين القدماء كانوا بيحافظوا بيها على الجسد بعد الموت عن طريق التجفيف واللف؟",
     "options": [
       {
-        "en": "Embalming",
-        "ar": "التحنيط الحديث"
-      },
-      {
         "en": "Preservation rite",
         "ar": "طقس الحفظ"
+      },
+      {
+        "en": "Embalming",
+        "ar": "التحنيط الحديث"
       },
       {
         "en": "Sarcophagy",
@@ -969,23 +969,23 @@
     "question_ar": "إيه العالم اللي كتابه 'أصل الأنواع' سنة 1859 قدّم نظرية التطور بالانتخاب الطبيعي؟",
     "options": [
       {
-        "en": "Charles Darwin",
-        "ar": "تشارلز داروين"
+        "en": "Alfred Russel Wallace",
+        "ar": "ألفريد راسل والاس"
       },
       {
         "en": "Gregor Mendel",
         "ar": "جريجور مندل"
       },
       {
-        "en": "Alfred Russel Wallace",
-        "ar": "ألفريد راسل والاس"
-      },
-      {
         "en": "Thomas Huxley",
         "ar": "توماس هكسلي"
+      },
+      {
+        "en": "Charles Darwin",
+        "ar": "تشارلز داروين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Charles Darwin's 'On the Origin of Species' (1859) introduced natural selection.",
     "explanation_ar": "كتاب تشارلز داروين 'أصل الأنواع' سنة 1859 قدّم نظرية الانتخاب الطبيعي."
   },
@@ -999,20 +999,20 @@
     "question_ar": "إيه اسم نظام الصرف اللي فيه الدولة بتربط قيمة عملتها بشكل مباشر بعملة تانية زي الدولار؟",
     "options": [
       {
-        "en": "Free float",
-        "ar": "التعويم الحر"
+        "en": "Dual currency system",
+        "ar": "نظام العملة المزدوجة"
       },
       {
         "en": "A currency peg",
         "ar": "ربط العملة"
       },
       {
-        "en": "Managed float",
-        "ar": "التعويم المُدار"
+        "en": "Free float",
+        "ar": "التعويم الحر"
       },
       {
-        "en": "Dual currency system",
-        "ar": "نظام العملة المزدوجة"
+        "en": "Managed float",
+        "ar": "التعويم المُدار"
       }
     ],
     "correctAnswer": 1,
@@ -1029,6 +1029,10 @@
     "question_ar": "إيه المسجد التاريخي في القاهرة، اتبنى في القرن التاسع، ومن أقدم مساجد أفريقيا اللي محافظة على شكلها الأصلي؟",
     "options": [
       {
+        "en": "Mosque of Ibn Tulun",
+        "ar": "مسجد ابن طولون"
+      },
+      {
         "en": "Al-Azhar Mosque",
         "ar": "الجامع الأزهر"
       },
@@ -1037,15 +1041,11 @@
         "ar": "مسجد عمرو بن العاص"
       },
       {
-        "en": "Mosque of Ibn Tulun",
-        "ar": "مسجد ابن طولون"
-      },
-      {
         "en": "Sultan Hassan Mosque",
         "ar": "مسجد السلطان حسن"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The Mosque of Ibn Tulun, built in the 9th century, is one of Africa's oldest mosques retaining its original form.",
     "explanation_ar": "مسجد ابن طولون، اللي اتبنى في القرن التاسع، من أقدم مساجد أفريقيا المحافظة على شكلها الأصلي."
   },
@@ -1059,12 +1059,12 @@
     "question_ar": "إيه المصطلح اللي بيوصف نوع من الحيوانات موجود بس في مكان جغرافي واحد ومش موجود في أي مكان تاني في العالم؟",
     "options": [
       {
-        "en": "Invasive",
-        "ar": "غازي"
-      },
-      {
         "en": "Migratory",
         "ar": "مهاجر"
+      },
+      {
+        "en": "Invasive",
+        "ar": "غازي"
       },
       {
         "en": "Extinct",
@@ -1089,23 +1089,23 @@
     "question_ar": "إيه الدولة اللي بنكها أصدر أول عملة ورقية حديثة اتستخدمت على نطاق واسع في أوروبا، في القرن السابع عشر؟",
     "options": [
       {
-        "en": "Sweden",
-        "ar": "السويد"
-      },
-      {
-        "en": "England",
-        "ar": "إنجلترا"
+        "en": "Italy",
+        "ar": "إيطاليا"
       },
       {
         "en": "Netherlands",
         "ar": "هولندا"
       },
       {
-        "en": "Italy",
-        "ar": "إيطاليا"
+        "en": "England",
+        "ar": "إنجلترا"
+      },
+      {
+        "en": "Sweden",
+        "ar": "السويد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Stockholms Banco in Sweden issued Europe's first modern banknotes in 1661.",
     "explanation_ar": "بنك ستوكهولم في السويد أصدر أول عملة ورقية حديثة في أوروبا سنة 1661."
   },
@@ -1119,23 +1119,23 @@
     "question_ar": "إيه الأسرة المصرية اللي فراعنتها، زي رمسيس التاني، نقلوا العاصمة لمدينة بر رمسيس في الدلتا؟",
     "options": [
       {
-        "en": "The 4th Dynasty",
-        "ar": "الأسرة الرابعة"
-      },
-      {
         "en": "The 19th Dynasty",
         "ar": "الأسرة التاسعة عشر"
       },
       {
-        "en": "The 18th Dynasty",
-        "ar": "الأسرة الثامنة عشر"
+        "en": "The 4th Dynasty",
+        "ar": "الأسرة الرابعة"
       },
       {
         "en": "The 26th Dynasty",
         "ar": "الأسرة السادسة والعشرين"
+      },
+      {
+        "en": "The 18th Dynasty",
+        "ar": "الأسرة الثامنة عشر"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Pharaohs of the 19th Dynasty, including Ramesses II, ruled from Pi-Ramesses.",
     "explanation_ar": "فراعنة الأسرة التاسعة عشر، زي رمسيس التاني، حكموا من بر رمسيس."
   },
@@ -1149,8 +1149,8 @@
     "question_ar": "إيه اسم الظاهرة النفسية اللي بتخلي الناس تتذكر المهام الناقصة أو المقطوعة أحسن من المهام المخلصة؟",
     "options": [
       {
-        "en": "The Halo effect",
-        "ar": "تأثير الهالة"
+        "en": "The Mandela effect",
+        "ar": "تأثير مانديلا"
       },
       {
         "en": "The Placebo effect",
@@ -1161,8 +1161,8 @@
         "ar": "تأثير زيجارنيك"
       },
       {
-        "en": "The Mandela effect",
-        "ar": "تأثير مانديلا"
+        "en": "The Halo effect",
+        "ar": "تأثير الهالة"
       }
     ],
     "correctAnswer": 2,
@@ -1179,23 +1179,23 @@
     "question_ar": "إيه المدينة المصرية اللي أسسها الإسكندر الأكبر سنة 331 قبل الميلاد وبقت من أعظم مراكز العلم في العالم القديم؟",
     "options": [
       {
-        "en": "Cairo",
-        "ar": "القاهرة"
-      },
-      {
         "en": "Memphis",
         "ar": "منف"
       },
       {
-        "en": "Thebes",
-        "ar": "طيبة"
-      },
-      {
         "en": "Alexandria",
         "ar": "الإسكندرية"
+      },
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Thebes",
+        "ar": "طيبة"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Alexandria was founded by Alexander the Great in 331 BC.",
     "explanation_ar": "الإسكندرية أسسها الإسكندر الأكبر سنة 331 قبل الميلاد."
   },
@@ -1209,23 +1209,23 @@
     "question_ar": "إيه المصطلح الاقتصادي اللي بيقول إن مع زيادة استهلاك سلعة معينة، الإشباع الإضافي من كل وحدة بيقل؟",
     "options": [
       {
-        "en": "Diminishing marginal utility",
-        "ar": "تناقص المنفعة الحدية"
-      },
-      {
-        "en": "Opportunity cost",
-        "ar": "تكلفة الفرصة البديلة"
+        "en": "Elasticity of demand",
+        "ar": "مرونة الطلب"
       },
       {
         "en": "Comparative advantage",
         "ar": "الميزة النسبية"
       },
       {
-        "en": "Elasticity of demand",
-        "ar": "مرونة الطلب"
+        "en": "Diminishing marginal utility",
+        "ar": "تناقص المنفعة الحدية"
+      },
+      {
+        "en": "Opportunity cost",
+        "ar": "تكلفة الفرصة البديلة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Diminishing marginal utility describes decreasing satisfaction per additional unit consumed.",
     "explanation_ar": "تناقص المنفعة الحدية بيوصف تناقص الإشباع مع كل وحدة إضافية بتتستهلك."
   },
@@ -1239,23 +1239,23 @@
     "question_ar": "إيه المؤرخ اليوناني القديم اللي بيتلقب بـ'أبو التاريخ' وكتب كتير عن مصر بعد ما زارها في القرن الخامس قبل الميلاد؟",
     "options": [
       {
-        "en": "Thucydides",
-        "ar": "ثوسيديدس"
-      },
-      {
-        "en": "Herodotus",
-        "ar": "هيرودوت"
-      },
-      {
         "en": "Plutarch",
         "ar": "بلوتارخ"
       },
       {
         "en": "Strabo",
         "ar": "سترابو"
+      },
+      {
+        "en": "Thucydides",
+        "ar": "ثوسيديدس"
+      },
+      {
+        "en": "Herodotus",
+        "ar": "هيرودوت"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Herodotus, the 'Father of History,' wrote extensively about Egypt.",
     "explanation_ar": "هيرودوت، 'أبو التاريخ'، كتب كتير عن مصر."
   },
@@ -1269,23 +1269,23 @@
     "question_ar": "إيه اسم أعمق نقطة في محيطات الأرض، موجودة جوه خندق ماريانا؟",
     "options": [
       {
-        "en": "Horizon Deep",
-        "ar": "هورايزون ديب"
+        "en": "Challenger Deep",
+        "ar": "تشالنجر ديب"
       },
       {
         "en": "Sirena Deep",
         "ar": "سيرينا ديب"
       },
       {
-        "en": "Challenger Deep",
-        "ar": "تشالنجر ديب"
+        "en": "Horizon Deep",
+        "ar": "هورايزون ديب"
       },
       {
         "en": "Milwaukee Deep",
         "ar": "ميلواكي ديب"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Challenger Deep is the deepest known point in Earth's oceans.",
     "explanation_ar": "تشالنجر ديب هي أعمق نقطة معروفة في محيطات الأرض."
   },
@@ -1307,15 +1307,15 @@
         "ar": "مصطفى السيد"
       },
       {
-        "en": "Magdi Yacoub",
-        "ar": "مجدي يعقوب"
-      },
-      {
         "en": "Ahmed Zewail",
         "ar": "أحمد زويل"
+      },
+      {
+        "en": "Magdi Yacoub",
+        "ar": "مجدي يعقوب"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Ahmed Zewail won the 1999 Nobel Prize in Chemistry for femtosecond chemistry research.",
     "explanation_ar": "أحمد زويل فاز بجايزة نوبل في الكيمياء سنة 1999 بسبب أبحاثه في الكيمياء الفيمتوثانية."
   },
@@ -1359,12 +1359,12 @@
     "question_ar": "إيه الدولة اللي بتنتج أكبر كمية بن في العالم؟",
     "options": [
       {
-        "en": "Colombia",
-        "ar": "كولومبيا"
-      },
-      {
         "en": "Brazil",
         "ar": "البرازيل"
+      },
+      {
+        "en": "Colombia",
+        "ar": "كولومبيا"
       },
       {
         "en": "Vietnam",
@@ -1375,7 +1375,7 @@
         "ar": "إثيوبيا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Brazil is the world's largest producer of coffee.",
     "explanation_ar": "البرازيل هي أكبر دولة منتجة للبن في العالم."
   },
@@ -1389,23 +1389,23 @@
     "question_ar": "إيه المصطلح اللي بيوصف كلمة بتتكتب نفس الكتابة بس معناها بيختلف حسب النطق، زي كلمة 'lead' الإنجليزية؟",
     "options": [
       {
-        "en": "Homophone",
-        "ar": "هوموفون"
-      },
-      {
-        "en": "Synonym",
-        "ar": "مرادف"
-      },
-      {
         "en": "Heteronym",
         "ar": "هيتيرونيم"
       },
       {
         "en": "Antonym",
         "ar": "عكس"
+      },
+      {
+        "en": "Homophone",
+        "ar": "هوموفون"
+      },
+      {
+        "en": "Synonym",
+        "ar": "مرادف"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "A heteronym is spelled the same but pronounced differently with different meanings.",
     "explanation_ar": "الهيتيرونيم كلمة بتتكتب نفس الكتابة بس بتتنطق مختلف ومعناها مختلف."
   },
@@ -1419,8 +1419,8 @@
     "question_ar": "إيه عجيبة قديمة كانت تمثال برونزي عملاق لإله الشمس هيليوس، وكانت واقفة عند مدخل ميناء جزيرة يونانية قبل ما تقع بسبب زلزال؟",
     "options": [
       {
-        "en": "The Statue of Zeus at Olympia",
-        "ar": "تمثال زيوس في أوليمبيا"
+        "en": "The Colossus of Rhodes",
+        "ar": "تمثال رودس العملاق"
       },
       {
         "en": "The Lighthouse of Alexandria",
@@ -1431,11 +1431,11 @@
         "ar": "معبد أرتميس"
       },
       {
-        "en": "The Colossus of Rhodes",
-        "ar": "تمثال رودس العملاق"
+        "en": "The Statue of Zeus at Olympia",
+        "ar": "تمثال زيوس في أوليمبيا"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "The Colossus of Rhodes was a giant statue of Helios that stood at the harbor of Rhodes.",
     "explanation_ar": "تمثال رودس العملاق كان تمثال هيليوس اللي كان واقف عند ميناء جزيرة رودس."
   },
@@ -1449,23 +1449,23 @@
     "question_ar": "إيه اسم الغلاف الخارجي للشمس اللي بيظهر كهالة مضيئة حوالين القمر أثناء الكسوف الكلي للشمس؟",
     "options": [
       {
-        "en": "The corona",
-        "ar": "الهالة الشمسية (الكورونا)"
+        "en": "The chromosphere",
+        "ar": "الغلاف اللوني"
       },
       {
         "en": "The penumbra",
         "ar": "شبه الظل"
       },
       {
-        "en": "The umbra",
-        "ar": "الظل الكامل"
+        "en": "The corona",
+        "ar": "الهالة الشمسية (الكورونا)"
       },
       {
-        "en": "The chromosphere",
-        "ar": "الغلاف اللوني"
+        "en": "The umbra",
+        "ar": "الظل الكامل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The corona, the Sun's outer atmosphere, becomes visible around the Moon during a total solar eclipse.",
     "explanation_ar": "الهالة الشمسية (الكورونا)، الغلاف الخارجي للشمس، بتبقى ظاهرة حوالين القمر أثناء الكسوف الكلي."
   },
@@ -1479,6 +1479,10 @@
     "question_ar": "إيه المدينة المصرية اللي اسمها القديم كان 'إيونو' وكانت معروفة عند اليونانيين كمركز كبير لعبادة الشمس؟",
     "options": [
       {
+        "en": "Bubastis",
+        "ar": "بوباستيس"
+      },
+      {
         "en": "Memphis",
         "ar": "منف"
       },
@@ -1489,13 +1493,9 @@
       {
         "en": "Thebes",
         "ar": "طيبة"
-      },
-      {
-        "en": "Bubastis",
-        "ar": "بوباستيس"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Heliopolis, known to Egyptians as Iunu, was a major center of sun worship, now part of Cairo (Ain Shams).",
     "explanation_ar": "عين شمس، اسمها القديم إيونو، كانت مركز كبير لعبادة الشمس، وحاليًا جزء من القاهرة."
   }

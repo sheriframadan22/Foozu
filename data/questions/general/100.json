@@ -9,23 +9,23 @@
     "question_ar": "إيه الدولة اللي ليها 3 عواصم منفصلة للسلطة التشريعية والقضائية والتنفيذية؟",
     "options": [
       {
-        "en": "South Africa",
-        "ar": "جنوب أفريقيا"
-      },
-      {
         "en": "Bolivia",
         "ar": "بوليفيا"
       },
       {
-        "en": "Netherlands",
-        "ar": "هولندا"
-      },
-      {
         "en": "Sri Lanka",
         "ar": "سريلانكا"
+      },
+      {
+        "en": "South Africa",
+        "ar": "جنوب أفريقيا"
+      },
+      {
+        "en": "Netherlands",
+        "ar": "هولندا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "South Africa has three capitals: Pretoria, Bloemfontein and Cape Town.",
     "explanation_ar": "جنوب أفريقيا ليها 3 عواصم: بريتوريا وبلومفونتين وكيب تاون."
   },
@@ -39,23 +39,23 @@
     "question_ar": "إيه الحيوان الثديي الوحيد اللي بيقدر يطير طيران حقيقي ومستمر؟",
     "options": [
       {
-        "en": "Flying squirrel",
-        "ar": "السنجاب الطائر"
-      },
-      {
-        "en": "Bat",
-        "ar": "الخفاش"
+        "en": "Flying fox only as glider",
+        "ar": "ثعلب طائر شراعي"
       },
       {
         "en": "Colugo",
         "ar": "الكولوجو"
       },
       {
-        "en": "Flying fox only as glider",
-        "ar": "ثعلب طائر شراعي"
+        "en": "Flying squirrel",
+        "ar": "السنجاب الطائر"
+      },
+      {
+        "en": "Bat",
+        "ar": "الخفاش"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Bats are the only mammals capable of true, sustained flight.",
     "explanation_ar": "الخفافيش هي الحيوانات الثديية الوحيدة اللي بتقدر تطير طيران حقيقي ومستمر."
   },
@@ -65,29 +65,29 @@
     "category_ar": "عامة",
     "value": 100,
     "difficulty": 4,
-    "question_en": "What is the chemical symbol for iron?",
-    "question_ar": "إيه الرمز الكيميائي للحديد؟",
+    "question_en": "Which architect designed the Sydney Opera House?",
+    "question_ar": "مين المهندس المعماري اللي صمم دار أوبرا سيدني؟",
     "options": [
       {
-        "en": "Ir",
-        "ar": "Ir"
+        "en": "I. M. Pei",
+        "ar": "آي إم بي"
       },
       {
-        "en": "In",
-        "ar": "In"
+        "en": "Jørn Utzon",
+        "ar": "يورن أوتزون"
       },
       {
-        "en": "Fe",
-        "ar": "Fe"
+        "en": "Frank Gehry",
+        "ar": "فرانك جيري"
       },
       {
-        "en": "Fr",
-        "ar": "Fr"
+        "en": "Zaha Hadid",
+        "ar": "زها حديد"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Iron's chemical symbol is Fe, from the Latin 'ferrum'.",
-    "explanation_ar": "الرمز الكيميائي للحديد هو Fe من الكلمة اللاتينية 'ferrum'."
+    "correctAnswer": 1,
+    "explanation_en": "Danish architect Jørn Utzon designed the Sydney Opera House.",
+    "explanation_ar": "المهندس الدنماركي يورن أوتزون هو اللي صمم دار أوبرا سيدني."
   },
   {
     "id": "GEN-100-004",
@@ -95,29 +95,30 @@
     "category_ar": "عامة",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Who was the first person to walk on the Moon?",
-    "question_ar": "مين أول إنسان مشى على سطح القمر؟",
+    "question_en": "Which company was the first to reach a $1 trillion market valuation, in 2018?",
+    "question_ar": "أنهي شركة أول واحدة توصل قيمتها السوقية لتريليون دولار سنة 2018؟",
     "options": [
       {
-        "en": "Buzz Aldrin",
-        "ar": "باز ألدرين"
+        "en": "Amazon",
+        "ar": "أمازون"
       },
       {
-        "en": "Yuri Gagarin",
-        "ar": "يوري جاجارين"
+        "en": "Google",
+        "ar": "جوجل"
       },
       {
-        "en": "John Glenn",
-        "ar": "جون جلين"
+        "en": "Apple",
+        "ar": "آبل"
       },
       {
-        "en": "Neil Armstrong",
-        "ar": "نيل أرمسترونج"
+        "en": "Microsoft",
+        "ar": "مايكروسوفت"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Neil Armstrong was the first person to walk on the Moon in 1969.",
-    "explanation_ar": "نيل أرمسترونج أول إنسان مشى على سطح القمر سنة 1969."
+    "correctAnswer": 2,
+    "explanation_en": "Apple became the first US company to hit a $1 trillion valuation in August 2018.",
+    "explanation_ar": "آبل كانت أول شركة أمريكية توصل قيمتها لتريليون دولار في أغسطس 2018.",
+    "verified_as_of": "2025-06"
   },
   {
     "id": "GEN-100-005",
@@ -129,23 +130,23 @@
     "question_ar": "آبل طرحت جهاز الماكنتوش الأصلي سنة كام؟",
     "options": [
       {
-        "en": "1984",
-        "ar": "1984"
-      },
-      {
-        "en": "1976",
-        "ar": "1976"
-      },
-      {
         "en": "1991",
         "ar": "1991"
       },
       {
+        "en": "1984",
+        "ar": "1984"
+      },
+      {
         "en": "1998",
         "ar": "1998"
+      },
+      {
+        "en": "1976",
+        "ar": "1976"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The original Macintosh was released by Apple in 1984.",
     "explanation_ar": "جهاز الماكنتوش الأصلي طرحته آبل سنة 1984."
   },
@@ -159,6 +160,10 @@
     "question_ar": "إيه اسم الفرعون المصري الشاب اللي مقبرته اتكتشفت شبه سليمة سنة 1922؟",
     "options": [
       {
+        "en": "Akhenaten",
+        "ar": "إخناتون"
+      },
+      {
         "en": "Ramesses II",
         "ar": "رمسيس التاني"
       },
@@ -167,15 +172,11 @@
         "ar": "توت عنخ آمون"
       },
       {
-        "en": "Akhenaten",
-        "ar": "إخناتون"
-      },
-      {
         "en": "Thutmose III",
         "ar": "تحتمس التالت"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Tutankhamun's nearly intact tomb was discovered in 1922 by Howard Carter.",
     "explanation_ar": "مقبرة توت عنخ آمون اتكتشفت شبه سليمة سنة 1922 على يد هوارد كارتر."
   },
@@ -189,10 +190,6 @@
     "question_ar": "مين اللي اكتشف المضاد الحيوي البنسلين؟",
     "options": [
       {
-        "en": "Louis Pasteur",
-        "ar": "لويس باستور"
-      },
-      {
         "en": "Marie Curie",
         "ar": "ماري كوري"
       },
@@ -203,9 +200,13 @@
       {
         "en": "Robert Koch",
         "ar": "روبرت كوخ"
+      },
+      {
+        "en": "Louis Pasteur",
+        "ar": "لويس باستور"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Alexander Fleming discovered penicillin in 1928.",
     "explanation_ar": "ألكسندر فليمنج اكتشف البنسلين سنة 1928."
   },
@@ -219,16 +220,16 @@
     "question_ar": "إيه أطول جبل في أفريقيا؟",
     "options": [
       {
-        "en": "Mount Kenya",
-        "ar": "جبل كينيا"
+        "en": "Ras Dashen",
+        "ar": "جبل راس دشن"
       },
       {
         "en": "Atlas Mountains",
         "ar": "جبال الأطلس"
       },
       {
-        "en": "Ras Dashen",
-        "ar": "جبل راس دشن"
+        "en": "Mount Kenya",
+        "ar": "جبل كينيا"
       },
       {
         "en": "Mount Kilimanjaro",
@@ -249,6 +250,10 @@
     "question_ar": "إيه الأسرة الحاكمة التاريخية اللي أسست القاهرة الحديثة وسمتها بالاسم ده؟",
     "options": [
       {
+        "en": "The Ottomans",
+        "ar": "العثمانيين"
+      },
+      {
         "en": "The Fatimids",
         "ar": "الفاطميين"
       },
@@ -259,13 +264,9 @@
       {
         "en": "The Ayyubids",
         "ar": "الأيوبيين"
-      },
-      {
-        "en": "The Ottomans",
-        "ar": "العثمانيين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Fatimids founded Cairo (Al-Qahira) in 969 AD.",
     "explanation_ar": "الفاطميين أسسوا القاهرة سنة 969 ميلادية."
   },
@@ -275,29 +276,29 @@
     "category_ar": "عامة",
     "value": 100,
     "difficulty": 4,
-    "question_en": "What is the smallest bone in the human body, found in the ear?",
-    "question_ar": "إيه أصغر عظمة في جسم الإنسان وموجودة في الأدن؟",
+    "question_en": "What does the abbreviation \"GPS\" stand for?",
+    "question_ar": "إيه معنى اختصار \"GPS\"؟",
     "options": [
       {
-        "en": "The femur",
-        "ar": "عظمة الفخذ"
+        "en": "Global Path Sensor",
+        "ar": "حساس مسار عالمي"
       },
       {
-        "en": "The stapes",
-        "ar": "الركاب"
+        "en": "Geo Precision Sensor",
+        "ar": "حساس دقة جغرافي"
       },
       {
-        "en": "The clavicle",
-        "ar": "الترقوة"
+        "en": "General Positioning Service",
+        "ar": "خدمة تحديد عامة"
       },
       {
-        "en": "The patella",
-        "ar": "الرضفة"
+        "en": "Global Positioning System",
+        "ar": "نظام تحديد المواقع العالمي"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "The stapes in the ear is the smallest bone in the human body.",
-    "explanation_ar": "عظمة الركاب في الأدن هي أصغر عظمة في جسم الإنسان."
+    "correctAnswer": 3,
+    "explanation_en": "GPS stands for Global Positioning System.",
+    "explanation_ar": "GPS اختصار لـ Global Positioning System، نظام تحديد المواقع العالمي."
   },
   {
     "id": "GEN-100-011",
@@ -309,6 +310,10 @@
     "question_ar": "بعد الصيني الماندرين، إيه اللغة اللي ليها أكبر عدد متحدثين أصليين في العالم؟",
     "options": [
       {
+        "en": "Spanish",
+        "ar": "الإسباني"
+      },
+      {
         "en": "English",
         "ar": "الإنجليزي"
       },
@@ -317,15 +322,11 @@
         "ar": "الهندي"
       },
       {
-        "en": "Spanish",
-        "ar": "الإسباني"
-      },
-      {
         "en": "Arabic",
         "ar": "العربي"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Spanish has the second-most native speakers in the world after Mandarin Chinese.",
     "explanation_ar": "الإسباني ثاني أكبر لغة من حيث المتحدثين الأصليين بعد الصيني الماندرين."
   },
@@ -339,23 +340,23 @@
     "question_ar": "إيه الدولة اللي فيها أكبر عدد مواقع تراث عالمي لليونسكو؟",
     "options": [
       {
-        "en": "China",
-        "ar": "الصين"
+        "en": "Germany",
+        "ar": "ألمانيا"
       },
       {
         "en": "Spain",
         "ar": "إسبانيا"
       },
       {
-        "en": "Germany",
-        "ar": "ألمانيا"
-      },
-      {
         "en": "Italy",
         "ar": "إيطاليا"
+      },
+      {
+        "en": "China",
+        "ar": "الصين"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Italy has the most UNESCO World Heritage Sites of any country.",
     "explanation_ar": "إيطاليا فيها أكبر عدد مواقع تراث عالمي لليونسكو.",
     "verified_as_of": "2025-06"
@@ -370,23 +371,23 @@
     "question_ar": "إيه المستكشف اللي رحلته كانت أول رحلة تدور حوالين الكرة الأرضية، رغم إنه مات قبل ما تخلص؟",
     "options": [
       {
-        "en": "Ferdinand Magellan",
-        "ar": "فرديناند ماجلان"
+        "en": "Vasco da Gama",
+        "ar": "فاسكو دا جاما"
       },
       {
         "en": "Christopher Columbus",
         "ar": "كريستوفر كولومبوس"
       },
       {
-        "en": "Vasco da Gama",
-        "ar": "فاسكو دا جاما"
-      },
-      {
         "en": "James Cook",
         "ar": "جيمس كوك"
+      },
+      {
+        "en": "Ferdinand Magellan",
+        "ar": "فرديناند ماجلان"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Ferdinand Magellan's expedition completed the first circumnavigation, though he died en route.",
     "explanation_ar": "رحلة فرديناند ماجلان كانت أول رحلة تدور حوالين الكرة الأرضية، رغم إنه مات في الطريق."
   },
@@ -396,29 +397,29 @@
     "category_ar": "عامة",
     "value": 100,
     "difficulty": 4,
-    "question_en": "What is the capital of Canada?",
-    "question_ar": "إيه عاصمة كندا؟",
+    "question_en": "Which Egyptian architect is famous for pioneering mud-brick, eco-friendly design in the New Gourna village project?",
+    "question_ar": "مين المهندس المصري المشهور بتصميمه بالطوب اللبن الصديق للبيئة في مشروع قرية القرنة الجديدة؟",
     "options": [
       {
-        "en": "Toronto",
-        "ar": "تورونتو"
+        "en": "Zaha Hadid",
+        "ar": "زها حديد"
       },
       {
-        "en": "Ottawa",
-        "ar": "أوتاوا"
+        "en": "Mustafa Fahmy",
+        "ar": "مصطفى فهمي"
       },
       {
-        "en": "Vancouver",
-        "ar": "فانكوفر"
+        "en": "Hassan Fathy",
+        "ar": "حسن فتحي"
       },
       {
-        "en": "Montreal",
-        "ar": "مونتريال"
+        "en": "Sayed Karim",
+        "ar": "سيد كريم"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Ottawa is the capital of Canada, though Toronto is more famous.",
-    "explanation_ar": "أوتاوا هي عاصمة كندا، رغم إن تورونتو أشهر."
+    "correctAnswer": 2,
+    "explanation_en": "Hassan Fathy pioneered eco-friendly mud-brick architecture in Egypt, notably at New Gourna.",
+    "explanation_ar": "حسن فتحي هو رائد العمارة الصديقة للبيئة بالطوب اللبن في مصر، وأشهر أعماله قرية القرنة الجديدة."
   },
   {
     "id": "GEN-100-015",
@@ -430,12 +431,12 @@
     "question_ar": "إيه الروائي المصري اللي فاز بجايزة نوبل في الأدب سنة 1988؟",
     "options": [
       {
-        "en": "Taha Hussein",
-        "ar": "طه حسين"
-      },
-      {
         "en": "Tawfiq al-Hakim",
         "ar": "توفيق الحكيم"
+      },
+      {
+        "en": "Taha Hussein",
+        "ar": "طه حسين"
       },
       {
         "en": "Naguib Mahfouz",
@@ -464,12 +465,12 @@
         "ar": "اليابان"
       },
       {
-        "en": "Iceland",
-        "ar": "آيسلندا"
-      },
-      {
         "en": "Philippines",
         "ar": "الفلبين"
+      },
+      {
+        "en": "Iceland",
+        "ar": "آيسلندا"
       },
       {
         "en": "Indonesia",
@@ -494,12 +495,12 @@
         "ar": "فرنسا"
       },
       {
-        "en": "Russia",
-        "ar": "روسيا"
-      },
-      {
         "en": "United Kingdom",
         "ar": "بريطانيا"
+      },
+      {
+        "en": "Russia",
+        "ar": "روسيا"
       },
       {
         "en": "United States",
@@ -520,6 +521,10 @@
     "question_ar": "إيه شركة التصوير والأفلام اللي أشهرت إفلاسها بعد ما فشلت تتأقلم مع الكاميرات الرقمية؟",
     "options": [
       {
+        "en": "Nikon",
+        "ar": "نيكون"
+      },
+      {
         "en": "Fujifilm",
         "ar": "فوجي فيلم"
       },
@@ -530,13 +535,9 @@
       {
         "en": "Polaroid",
         "ar": "بولارويد"
-      },
-      {
-        "en": "Nikon",
-        "ar": "نيكون"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Kodak famously filed for bankruptcy after failing to adapt to digital photography.",
     "explanation_ar": "كوداك أشهرت إفلاسها بعد ما فشلت تتأقلم مع التصوير الرقمي."
   },
@@ -546,29 +547,29 @@
     "category_ar": "عامة",
     "value": 100,
     "difficulty": 4,
-    "question_en": "What is the chemical symbol for potassium?",
-    "question_ar": "إيه الرمز الكيميائي للبوتاسيوم؟",
+    "question_en": "The word \"algorithm\" is derived from the name of which medieval Muslim scholar?",
+    "question_ar": "كلمة \"algorithm\" (خوارزمية) مشتقة من اسم أنهي عالم مسلم في العصور الوسطى؟",
     "options": [
       {
-        "en": "P",
-        "ar": "P"
+        "en": "Al-Khwarizmi",
+        "ar": "الخوارزمي"
       },
       {
-        "en": "Po",
-        "ar": "Po"
+        "en": "Ibn al-Haytham",
+        "ar": "ابن الهيثم"
       },
       {
-        "en": "K",
-        "ar": "K"
+        "en": "Ibn Sina",
+        "ar": "ابن سينا"
       },
       {
-        "en": "Pt",
-        "ar": "Pt"
+        "en": "Al-Kindi",
+        "ar": "الكندي"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Potassium's chemical symbol is K, from the Latin 'kalium'.",
-    "explanation_ar": "الرمز الكيميائي للبوتاسيوم هو K من الكلمة اللاتينية 'kalium'."
+    "correctAnswer": 0,
+    "explanation_en": "\"Algorithm\" comes from the name of the Persian mathematician Al-Khwarizmi.",
+    "explanation_ar": "كلمة \"خوارزمية\" مشتقة من اسم العالم الفارسي الخوارزمي."
   },
   {
     "id": "GEN-100-020",
@@ -580,23 +581,23 @@
     "question_ar": "إيه الكوكب في مجموعتنا الشمسية المشهور إنه بيدور شبه مايل على جنبه؟",
     "options": [
       {
-        "en": "Neptune",
-        "ar": "نبتون"
-      },
-      {
         "en": "Saturn",
         "ar": "زحل"
       },
       {
-        "en": "Venus",
-        "ar": "الزهرة"
-      },
-      {
         "en": "Uranus",
         "ar": "أورانوس"
+      },
+      {
+        "en": "Neptune",
+        "ar": "نبتون"
+      },
+      {
+        "en": "Venus",
+        "ar": "الزهرة"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Uranus has an extreme axial tilt of about 98 degrees.",
     "explanation_ar": "أورانوس بيدور بميل محوري غريب حوالي 98 درجة."
   },
@@ -610,23 +611,23 @@
     "question_ar": "إيه الدولة اللي بتشرب أكتر شاي للفرد في العالم؟",
     "options": [
       {
-        "en": "Turkey",
-        "ar": "تركيا"
-      },
-      {
         "en": "UK",
         "ar": "بريطانيا"
+      },
+      {
+        "en": "India",
+        "ar": "الهند"
       },
       {
         "en": "China",
         "ar": "الصين"
       },
       {
-        "en": "India",
-        "ar": "الهند"
+        "en": "Turkey",
+        "ar": "تركيا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Turkey has the highest tea consumption per capita in the world.",
     "explanation_ar": "تركيا عندها أعلى معدل استهلاك شاي للفرد في العالم."
   },
@@ -644,19 +645,19 @@
         "ar": "موتسارت"
       },
       {
-        "en": "Ludwig van Beethoven",
-        "ar": "لودفيج فان بيتهوفن"
+        "en": "Franz Schubert",
+        "ar": "شوبرت"
       },
       {
         "en": "Johann Sebastian Bach",
         "ar": "باخ"
       },
       {
-        "en": "Franz Schubert",
-        "ar": "شوبرت"
+        "en": "Ludwig van Beethoven",
+        "ar": "لودفيج فان بيتهوفن"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Beethoven composed the famous Symphony No. 5.",
     "explanation_ar": "بيتهوفن ألف السيمفونية رقم 5 الشهيرة."
   },
@@ -674,19 +675,19 @@
         "ar": "ألبرت أينشتاين"
       },
       {
-        "en": "Galileo Galilei",
-        "ar": "جاليليو جاليلي"
-      },
-      {
         "en": "Isaac Newton",
         "ar": "إسحق نيوتن"
+      },
+      {
+        "en": "Galileo Galilei",
+        "ar": "جاليليو جاليلي"
       },
       {
         "en": "Johannes Kepler",
         "ar": "يوهانس كيبلر"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Isaac Newton formulated the laws of motion and universal gravitation.",
     "explanation_ar": "إسحق نيوتن هو اللي وضع قوانين الحركة والجاذبية الكونية."
   },
@@ -700,16 +701,16 @@
     "question_ar": "إيه مدينة الصعيد المصرية المعروفة تاريخيًا بموقع طيبة القديمة ومعبد الكرنك؟",
     "options": [
       {
-        "en": "Aswan",
-        "ar": "أسوان"
-      },
-      {
         "en": "Qena",
         "ar": "قنا"
       },
       {
         "en": "Sohag",
         "ar": "سوهاج"
+      },
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
       },
       {
         "en": "Luxor",
@@ -730,23 +731,23 @@
     "question_ar": "إيه الدولة اللي عندها أطول ساحل في العالم؟",
     "options": [
       {
-        "en": "Canada",
-        "ar": "كندا"
-      },
-      {
         "en": "Indonesia",
         "ar": "إندونيسيا"
       },
       {
-        "en": "Russia",
-        "ar": "روسيا"
+        "en": "Canada",
+        "ar": "كندا"
       },
       {
         "en": "Australia",
         "ar": "أستراليا"
+      },
+      {
+        "en": "Russia",
+        "ar": "روسيا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Canada has the longest coastline of any country in the world.",
     "explanation_ar": "كندا عندها أطول ساحل من أي دولة في العالم."
   },
@@ -760,23 +761,23 @@
     "question_ar": "إيه الشركة اليابانية اللي عملت جهاز البلايستيشن الأصلي؟",
     "options": [
       {
-        "en": "Nintendo",
-        "ar": "نينتندو"
-      },
-      {
         "en": "Sony",
         "ar": "سوني"
+      },
+      {
+        "en": "Konami",
+        "ar": "كونامي"
       },
       {
         "en": "Sega",
         "ar": "سيجا"
       },
       {
-        "en": "Konami",
-        "ar": "كونامي"
+        "en": "Nintendo",
+        "ar": "نينتندو"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Sony developed and released the original PlayStation.",
     "explanation_ar": "سوني هي اللي طورت وأصدرت البلايستيشن الأصلي."
   },
@@ -790,23 +791,23 @@
     "question_ar": "إيه اسم عملة إيران؟",
     "options": [
       {
-        "en": "Dinar",
-        "ar": "الدينار"
-      },
-      {
         "en": "Toman",
         "ar": "التومان"
       },
       {
-        "en": "Rial",
-        "ar": "الريال"
+        "en": "Dinar",
+        "ar": "الدينار"
       },
       {
         "en": "Lira",
         "ar": "الليرة"
+      },
+      {
+        "en": "Rial",
+        "ar": "الريال"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Iran's official currency is the rial.",
     "explanation_ar": "العملة الرسمية لإيران هي الريال."
   },
@@ -820,23 +821,23 @@
     "question_ar": "إيه المدينة المصرية المعروفة بـ'عاصمة الصعيد' ومركز سياحي كبير للمعابد القديمة؟",
     "options": [
       {
-        "en": "Minya",
-        "ar": "المنيا"
-      },
-      {
-        "en": "Beni Suef",
-        "ar": "بني سويف"
+        "en": "Luxor",
+        "ar": "الأقصر"
       },
       {
         "en": "Qena",
         "ar": "قنا"
       },
       {
-        "en": "Luxor",
-        "ar": "الأقصر"
+        "en": "Minya",
+        "ar": "المنيا"
+      },
+      {
+        "en": "Beni Suef",
+        "ar": "بني سويف"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Luxor is known as the capital of Upper Egypt and a top tourism hub.",
     "explanation_ar": "الأقصر معروفة بأنها عاصمة الصعيد ومركز سياحي كبير."
   },
@@ -850,6 +851,10 @@
     "question_ar": "إيه الشركة التقنية اللي كانت أول شركة في العالم توصل لقيمة سوقية تريليون دولار حوالي سنة 2018؟",
     "options": [
       {
+        "en": "Google",
+        "ar": "جوجل"
+      },
+      {
         "en": "Apple",
         "ar": "آبل"
       },
@@ -860,13 +865,9 @@
       {
         "en": "Microsoft",
         "ar": "مايكروسوفت"
-      },
-      {
-        "en": "Google",
-        "ar": "جوجل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Apple became the first company to reach a $1 trillion market value in 2018.",
     "explanation_ar": "آبل بقت أول شركة توصل لقيمة سوقية تريليون دولار سنة 2018.",
     "verified_as_of": "2025-06"
@@ -881,16 +882,16 @@
     "question_ar": "إيه أقدم نظام كتابة معروف مرتبط ببلاد ما بين النهرين القديمة؟",
     "options": [
       {
-        "en": "Hieroglyphics",
-        "ar": "الهيروغليفية"
+        "en": "Phoenician script",
+        "ar": "الأبجدية الفينيقية"
       },
       {
         "en": "Cuneiform",
         "ar": "الكتابة المسمارية"
       },
       {
-        "en": "Phoenician script",
-        "ar": "الأبجدية الفينيقية"
+        "en": "Hieroglyphics",
+        "ar": "الهيروغليفية"
       },
       {
         "en": "Sanskrit script",
@@ -915,19 +916,19 @@
         "ar": "ليبيا"
       },
       {
-        "en": "Mexico",
-        "ar": "المكسيك"
-      },
-      {
         "en": "Sudan",
         "ar": "السودان"
+      },
+      {
+        "en": "Mexico",
+        "ar": "المكسيك"
       },
       {
         "en": "Peru",
         "ar": "بيرو"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Sudan has more pyramids than Egypt, built by the ancient Kingdom of Kush.",
     "explanation_ar": "السودان فيه أهرامات أكتر من مصر، بناها مملكة كوش القديمة."
   },
@@ -941,23 +942,23 @@
     "question_ar": "إيه الشركة اللي طورت نظام أندرويد الأصلي قبل ما جوجل تشتريه؟",
     "options": [
       {
-        "en": "Danger Inc.",
-        "ar": "دينجر إنك"
+        "en": "Android Inc.",
+        "ar": "أندرويد إنك"
       },
       {
-        "en": "Palm Inc.",
-        "ar": "بالم إنك"
+        "en": "Danger Inc.",
+        "ar": "دينجر إنك"
       },
       {
         "en": "BlackBerry",
         "ar": "بلاك بيري"
       },
       {
-        "en": "Android Inc.",
-        "ar": "أندرويد إنك"
+        "en": "Palm Inc.",
+        "ar": "بالم إنك"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Android was originally developed by Android Inc. before Google acquired it in 2005.",
     "explanation_ar": "أندرويد كانت شركة مستقلة اسمها Android Inc. قبل ما جوجل تشتريها سنة 2005."
   },
@@ -971,10 +972,6 @@
     "question_ar": "بنسمي مجموعة الغربان إيه؟",
     "options": [
       {
-        "en": "A murder",
-        "ar": "murder"
-      },
-      {
         "en": "A flock",
         "ar": "flock"
       },
@@ -985,9 +982,13 @@
       {
         "en": "A gaggle",
         "ar": "gaggle"
+      },
+      {
+        "en": "A murder",
+        "ar": "murder"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "A group of crows is called a 'murder.'",
     "explanation_ar": "مجموعة الغربان بيتقال عليها 'murder'."
   },
@@ -1001,23 +1002,23 @@
     "question_ar": "إيه اسم أطول برج في مصر، اتبنى في العاصمة الإدارية الجديدة؟",
     "options": [
       {
-        "en": "Cairo Tower",
-        "ar": "برج القاهرة"
-      },
-      {
         "en": "The Iconic Tower",
         "ar": "البرج الأيقوني"
+      },
+      {
+        "en": "Four Seasons Tower",
+        "ar": "برج فور سيزونز"
       },
       {
         "en": "Nile City Towers",
         "ar": "أبراج نايل سيتي"
       },
       {
-        "en": "Four Seasons Tower",
-        "ar": "برج فور سيزونز"
+        "en": "Cairo Tower",
+        "ar": "برج القاهرة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The Iconic Tower is Egypt and Africa's tallest skyscraper, in the New Administrative Capital.",
     "explanation_ar": "البرج الأيقوني هو أطول برج في مصر وأفريقيا، موجود في العاصمة الإدارية الجديدة.",
     "verified_as_of": "2025-06"
@@ -1032,6 +1033,10 @@
     "question_ar": "إيه العجيبة القديمة اللي لسه موجودة من عجائب الدنيا السبع القديمة؟",
     "options": [
       {
+        "en": "The Great Pyramid of Giza",
+        "ar": "هرم خوفو الأكبر"
+      },
+      {
         "en": "The Hanging Gardens of Babylon",
         "ar": "حدائق بابل المعلقة"
       },
@@ -1040,15 +1045,11 @@
         "ar": "تمثال رودس"
       },
       {
-        "en": "The Great Pyramid of Giza",
-        "ar": "هرم خوفو الأكبر"
-      },
-      {
         "en": "The Lighthouse of Alexandria",
         "ar": "منارة الإسكندرية"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The Great Pyramid of Giza is the only ancient wonder still standing.",
     "explanation_ar": "هرم خوفو الأكبر هو العجيبة الوحيدة من عجائب الدنيا القديمة اللي لسه موجودة."
   },
@@ -1062,23 +1063,23 @@
     "question_ar": "إيه الدولة اللي بينسب لها اختراع مفهوم الطباعة الحديثة بالحروف المتحركة في أوروبا؟",
     "options": [
       {
-        "en": "Italy",
-        "ar": "إيطاليا"
-      },
-      {
-        "en": "France",
-        "ar": "فرنسا"
-      },
-      {
         "en": "England",
         "ar": "إنجلترا"
       },
       {
         "en": "Germany",
         "ar": "ألمانيا"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Johannes Gutenberg of Germany invented the movable-type printing press in Europe.",
     "explanation_ar": "يوهانس جوتنبرج الألماني اخترع الطباعة بالحروف المتحركة في أوروبا."
   },
@@ -1092,12 +1093,12 @@
     "question_ar": "إيه الفيتامين اللي كان من أول الفيتامينات المكتشفة وضروري للوقاية من مرض البري بري؟",
     "options": [
       {
-        "en": "Vitamin B1 (thiamine)",
-        "ar": "فيتامين B1 (الثيامين)"
-      },
-      {
         "en": "Vitamin C",
         "ar": "فيتامين C"
+      },
+      {
+        "en": "Vitamin B1 (thiamine)",
+        "ar": "فيتامين B1 (الثيامين)"
       },
       {
         "en": "Vitamin A",
@@ -1108,7 +1109,7 @@
         "ar": "فيتامين E"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Vitamin B1 (thiamine) deficiency causes beriberi.",
     "explanation_ar": "نقص فيتامين B1 (الثيامين) بيسبب مرض البري بري."
   },
@@ -1126,19 +1127,19 @@
         "ar": "مضيق البوسفور"
       },
       {
-        "en": "The Strait of Gibraltar",
-        "ar": "مضيق جبل طارق"
-      },
-      {
         "en": "The Strait of Hormuz",
         "ar": "مضيق هرمز"
       },
       {
         "en": "The Bab-el-Mandeb Strait",
         "ar": "مضيق باب المندب"
+      },
+      {
+        "en": "The Strait of Gibraltar",
+        "ar": "مضيق جبل طارق"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The Strait of Gibraltar separates Africa from Europe at its narrowest point.",
     "explanation_ar": "مضيق جبل طارق بيفصل أفريقيا عن أوروبا عند أضيق نقطة."
   },
@@ -1152,6 +1153,10 @@
     "question_ar": "إيه شركة السوشيال ميديا اللي اسمها الأصلي قبل التغيير كان 'ذا فيسبوك'؟",
     "options": [
       {
+        "en": "MySpace",
+        "ar": "ماي سبيس"
+      },
+      {
         "en": "Twitter",
         "ar": "تويتر"
       },
@@ -1162,13 +1167,9 @@
       {
         "en": "Facebook",
         "ar": "فيسبوك"
-      },
-      {
-        "en": "MySpace",
-        "ar": "ماي سبيس"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Facebook was originally launched under the name 'TheFacebook.'",
     "explanation_ar": "فيسبوك اتطلقت في الأول باسم 'ذا فيسبوك'."
   },
@@ -1182,23 +1183,23 @@
     "question_ar": "إيه اسم البحيرة الصناعية الكبيرة اللي اتكونت بسبب السد العالي في أسوان؟",
     "options": [
       {
-        "en": "Lake Qarun",
-        "ar": "بحيرة قارون"
-      },
-      {
-        "en": "Lake Bardawil",
-        "ar": "بحيرة البردويل"
-      },
-      {
         "en": "Lake Manzala",
         "ar": "بحيرة المنزلة"
       },
       {
         "en": "Lake Nasser",
         "ar": "بحيرة ناصر"
+      },
+      {
+        "en": "Lake Bardawil",
+        "ar": "بحيرة البردويل"
+      },
+      {
+        "en": "Lake Qarun",
+        "ar": "بحيرة قارون"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Lake Nasser is the large artificial lake created by the Aswan High Dam.",
     "explanation_ar": "بحيرة ناصر هي البحيرة الصناعية الكبيرة اللي اتكونت بسبب السد العالي."
   },
@@ -1216,16 +1217,16 @@
         "ar": "مايكل أنجلو"
       },
       {
-        "en": "Leonardo da Vinci",
-        "ar": "ليوناردو دافينشي"
-      },
-      {
         "en": "Raphael",
         "ar": "رافائيل"
       },
       {
         "en": "Donatello",
         "ar": "دوناتيلو"
+      },
+      {
+        "en": "Leonardo da Vinci",
+        "ar": "ليوناردو دافينشي"
       }
     ],
     "correctAnswer": 0,
@@ -1242,12 +1243,12 @@
     "question_ar": "إيه المصطلح اللي بيوصف الرهاب من الأماكن المغلقة؟",
     "options": [
       {
-        "en": "Acrophobia",
-        "ar": "أكروفوبيا"
-      },
-      {
         "en": "Claustrophobia",
         "ar": "كلاستروفوبيا"
+      },
+      {
+        "en": "Acrophobia",
+        "ar": "أكروفوبيا"
       },
       {
         "en": "Agoraphobia",
@@ -1258,7 +1259,7 @@
         "ar": "أراكنوفوبيا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Claustrophobia is the fear of enclosed spaces.",
     "explanation_ar": "كلاستروفوبيا هي الرهاب من الأماكن المغلقة."
   },
@@ -1302,23 +1303,23 @@
     "question_ar": "إيه الغاز اللي بيدي كوكب نبتون لونه الأزرق المميز؟",
     "options": [
       {
-        "en": "Nitrogen",
-        "ar": "النيتروجين"
-      },
-      {
-        "en": "Oxygen",
-        "ar": "الأكسچين"
+        "en": "Methane",
+        "ar": "الميثان"
       },
       {
         "en": "Hydrogen",
         "ar": "الهيدروجين"
       },
       {
-        "en": "Methane",
-        "ar": "الميثان"
+        "en": "Oxygen",
+        "ar": "الأكسچين"
+      },
+      {
+        "en": "Nitrogen",
+        "ar": "النيتروجين"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Methane in Neptune's atmosphere absorbs red light, giving it a blue color.",
     "explanation_ar": "غاز الميثان في غلاف نبتون بيمتص الضوء الأحمر، وده بيدي الكوكب لونه الأزرق."
   },
@@ -1340,12 +1341,12 @@
         "ar": "الأكسچين"
       },
       {
-        "en": "Carbon dioxide",
-        "ar": "ثاني أكسيد الكربون"
-      },
-      {
         "en": "Argon",
         "ar": "الأرجون"
+      },
+      {
+        "en": "Carbon dioxide",
+        "ar": "ثاني أكسيد الكربون"
       }
     ],
     "correctAnswer": 0,
@@ -1392,20 +1393,20 @@
     "question_ar": "إيه معنى كلمة 'ليزر' كاختصار؟",
     "options": [
       {
-        "en": "Light And Sound Energy Ray",
-        "ar": "لايت آند ساوند إنيرجي راي"
-      },
-      {
         "en": "Long Amplitude Signal Emission Ray",
         "ar": "لونج أمبليتيود سيجنال إميشن راي"
+      },
+      {
+        "en": "Linear Array of Systematic Energy Rays",
+        "ar": "لينيار أراي أوف سيستماتيك إنيرجي رايز"
       },
       {
         "en": "Light Amplification by Stimulated Emission of Radiation",
         "ar": "تضخيم الضوء عن طريق الانبعاث المحفز للإشعاع"
       },
       {
-        "en": "Linear Array of Systematic Energy Rays",
-        "ar": "لينيار أراي أوف سيستماتيك إنيرجي رايز"
+        "en": "Light And Sound Energy Ray",
+        "ar": "لايت آند ساوند إنيرجي راي"
       }
     ],
     "correctAnswer": 2,
@@ -1426,19 +1427,19 @@
         "ar": "الريال الكويتي"
       },
       {
+        "en": "Kuwaiti Dinar",
+        "ar": "الدينار الكويتي"
+      },
+      {
         "en": "Kuwaiti Pound",
         "ar": "الجنيه الكويتي"
       },
       {
         "en": "Kuwaiti Franc",
         "ar": "الفرنك الكويتي"
-      },
-      {
-        "en": "Kuwaiti Dinar",
-        "ar": "الدينار الكويتي"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "The Kuwaiti Dinar is often cited as one of the world's highest-valued currency units.",
     "explanation_ar": "الدينار الكويتي من أعلى العملات قيمة في العالم.",
     "verified_as_of": "2025-06"
@@ -1453,23 +1454,23 @@
     "question_ar": "إيه المصطلح اللي بيوصف كلمة بتتقرا نفسها من الاتجاهين، زي 'level'؟",
     "options": [
       {
-        "en": "Palindrome",
-        "ar": "بالندروم"
+        "en": "Homophone",
+        "ar": "هوموفون"
       },
       {
         "en": "Anagram",
         "ar": "أناجرام"
       },
       {
-        "en": "Acronym",
-        "ar": "اختصار"
+        "en": "Palindrome",
+        "ar": "بالندروم"
       },
       {
-        "en": "Homophone",
-        "ar": "هوموفون"
+        "en": "Acronym",
+        "ar": "اختصار"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A palindrome reads the same forwards and backwards.",
     "explanation_ar": "البالندروم كلمة بتتقرا نفسها من الاتجاهين."
   },

@@ -43,19 +43,19 @@
         "ar": "بليغ حمدي"
       },
       {
-        "en": "Sayed Mekawy",
-        "ar": "سيد مكاوي"
-      },
-      {
         "en": "Riad El Sonbati",
         "ar": "رياض السنباطي"
       },
       {
         "en": "Mohamed El Mougy",
         "ar": "محمد الموجي"
+      },
+      {
+        "en": "Sayed Mekawy",
+        "ar": "سيد مكاوي"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Riad El Sonbati composed \"Al Atlal\" and many of Umm Kulthum's classical works.",
     "explanation_ar": "رياض السنباطي هو ملحن \"الأطلال\" وكتير من أغاني أم كلثوم الكلاسيكية."
   },
@@ -69,20 +69,20 @@
     "question_ar": "أنهي مطرب وممثل مصري كان معروف بـ\"العندليب\" ومات وهو لسه صغير في 1977؟",
     "options": [
       {
-        "en": "Farid El Atrache",
-        "ar": "فريد الأطرش"
+        "en": "Mohamed Fawzi",
+        "ar": "محمد فوزي"
       },
       {
         "en": "Abdel Halim Hafez",
         "ar": "عبد الحليم حافظ"
       },
       {
-        "en": "Karem Mahmoud",
-        "ar": "كارم محمود"
+        "en": "Farid El Atrache",
+        "ar": "فريد الأطرش"
       },
       {
-        "en": "Mohamed Fawzi",
-        "ar": "محمد فوزي"
+        "en": "Karem Mahmoud",
+        "ar": "كارم محمود"
       }
     ],
     "correctAnswer": 1,
@@ -99,23 +99,23 @@
     "question_ar": "أنهي نجمة بوب اسمها الحقيقي \"Stefani Joanne Angelina Germanotta\"؟",
     "options": [
       {
-        "en": "Lady Gaga",
-        "ar": "ليدي جاجا"
-      },
-      {
         "en": "Katy Perry",
         "ar": "كاتي بيري"
+      },
+      {
+        "en": "Ariana Grande",
+        "ar": "أريانا جراندي"
       },
       {
         "en": "Miley Cyrus",
         "ar": "مايلي سايرس"
       },
       {
-        "en": "Ariana Grande",
-        "ar": "أريانا جراندي"
+        "en": "Lady Gaga",
+        "ar": "ليدي جاجا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Stefani Germanotta is Lady Gaga's real name.",
     "explanation_ar": "ستيفاني جيرمانوتا هو الاسم الحقيقي لليدي جاجا."
   },
@@ -133,12 +133,12 @@
         "ar": "سادات"
       },
       {
-        "en": "Wegz",
-        "ar": "ويجز"
-      },
-      {
         "en": "Hassan Shakosh",
         "ar": "حسن شاكوش"
+      },
+      {
+        "en": "Wegz",
+        "ar": "ويجز"
       },
       {
         "en": "Oka",
@@ -159,23 +159,23 @@
     "question_ar": "أنهي حفل جوايز عالمي معروف بجايزته على شكل \"رجل القمر\"؟",
     "options": [
       {
-        "en": "Grammy Awards",
-        "ar": "جرامي"
-      },
-      {
-        "en": "Billboard Music Awards",
-        "ar": "بيلبورد ميوزيك أواردز"
-      },
-      {
         "en": "American Music Awards",
         "ar": "أميريكان ميوزيك أواردز"
       },
       {
+        "en": "Grammy Awards",
+        "ar": "جرامي"
+      },
+      {
         "en": "MTV Video Music Awards",
         "ar": "إم تي في فيديو ميوزك أواردز"
+      },
+      {
+        "en": "Billboard Music Awards",
+        "ar": "بيلبورد ميوزيك أواردز"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "The MTV VMAs trophy is the iconic \"Moon Person\".",
     "explanation_ar": "جايزة الـ MTV VMAs هي تمثال \"رجل القمر\"."
   },
@@ -189,23 +189,23 @@
     "question_ar": "أنهي آلة شرق أوسطية شبه القانون بتتنقر وهي مفرودة، وشائعة في الفرق الكلاسيكية العربية؟",
     "options": [
       {
-        "en": "Oud",
-        "ar": "عود"
-      },
-      {
         "en": "Santoor",
         "ar": "سانتور"
+      },
+      {
+        "en": "Qanun",
+        "ar": "قانون"
       },
       {
         "en": "Buzuq",
         "ar": "بزق"
       },
       {
-        "en": "Qanun",
-        "ar": "قانون"
+        "en": "Oud",
+        "ar": "عود"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "The qanun is a plucked flat string instrument central to Arabic classical music.",
     "explanation_ar": "القانون آلة وترية بتتنقر وهي مفرودة، وأساسية في الموسيقى الكلاسيكية العربية."
   },
@@ -223,19 +223,19 @@
         "ar": "مصطفى قمر"
       },
       {
+        "en": "Ihab Tawfik",
+        "ar": "إيهاب توفيق"
+      },
+      {
         "en": "Hisham Abbas",
         "ar": "هشام عباس"
       },
       {
         "en": "Amr Diab",
         "ar": "عمرو دياب"
-      },
-      {
-        "en": "Ihab Tawfik",
-        "ar": "إيهاب توفيق"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Amr Diab pioneered a Mediterranean pop fusion sound in Egyptian music.",
     "explanation_ar": "عمرو دياب من رواد مزج البوب بالموسيقى المتوسطية في مصر."
   },
@@ -249,20 +249,20 @@
     "question_ar": "بيتقال إيه على تغيير درجة الصوت للأغنية لأعلى أو أقل في نص الأداء؟",
     "options": [
       {
-        "en": "Syncopation",
-        "ar": "سنكوبيشن"
-      },
-      {
         "en": "Harmonization",
         "ar": "هارمونايزيشن"
+      },
+      {
+        "en": "Improvisation",
+        "ar": "إمبروفيزيشن"
       },
       {
         "en": "Modulation",
         "ar": "مودوليشن"
       },
       {
-        "en": "Improvisation",
-        "ar": "إمبروفيزيشن"
+        "en": "Syncopation",
+        "ar": "سنكوبيشن"
       }
     ],
     "correctAnswer": 2,
@@ -279,23 +279,23 @@
     "question_ar": "أنهي ملحن ومطرب مصري أسطوري اشتهر بأغنية الأوبريت \"يا واابور قوللي رايح فين\"؟",
     "options": [
       {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      },
-      {
         "en": "Sayed Darwish",
         "ar": "سيد درويش"
       },
       {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
+        "en": "Mohamed Abdel Wahab",
+        "ar": "محمد عبد الوهاب"
       },
       {
         "en": "Dawoud Hosni",
         "ar": "داود حسني"
+      },
+      {
+        "en": "Zakaria Ahmed",
+        "ar": "زكريا أحمد"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Sayed Darwish is known for this operetta-style song from early 20th-century Egyptian musical theatre.",
     "explanation_ar": "سيد درويش معروف بأغنية الأوبريت دي من مسرح الغناء المصري في أوائل القرن العشرين."
   },
@@ -309,23 +309,23 @@
     "question_ar": "أنهي فرقة روك بريطانية، بقيادة فريدي ميركوري، قدمت الحفلة الأسطورية في لايف إيد 1985؟",
     "options": [
       {
-        "en": "The Rolling Stones",
-        "ar": "ذا رولينج ستونز"
-      },
-      {
-        "en": "Queen",
-        "ar": "كوين"
+        "en": "The Who",
+        "ar": "ذا هو"
       },
       {
         "en": "Led Zeppelin",
         "ar": "ليد زبلين"
       },
       {
-        "en": "The Who",
-        "ar": "ذا هو"
+        "en": "The Rolling Stones",
+        "ar": "ذا رولينج ستونز"
+      },
+      {
+        "en": "Queen",
+        "ar": "كوين"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Queen's Live Aid 1985 performance is considered one of the greatest live sets ever.",
     "explanation_ar": "حفلة كوين في لايف إيد 1985 من أعظم الحفلات الحية في التاريخ."
   },
@@ -339,23 +339,23 @@
     "question_ar": "أنهي مطرب مصري معروف بكلمات عميقة وفلسفية ولقبه \"الكينج\" وبيمزج جذوره النوبية في موسيقاه؟",
     "options": [
       {
-        "en": "Ali El Haggar",
-        "ar": "علي الحجار"
+        "en": "Mohamed Mounir",
+        "ar": "محمد منير"
       },
       {
         "en": "Hamza Namira",
         "ar": "حمزة نمرة"
       },
       {
-        "en": "Fathy Salama",
-        "ar": "فتحي سلامة"
+        "en": "Ali El Haggar",
+        "ar": "علي الحجار"
       },
       {
-        "en": "Mohamed Mounir",
-        "ar": "محمد منير"
+        "en": "Fathy Salama",
+        "ar": "فتحي سلامة"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Mohamed Mounir, of Nubian descent, is known as \"El King\" for his poetic style.",
     "explanation_ar": "محمد منير، من أصل نوبي، معروف بلقب \"الكينج\" وكلماته الفلسفية."
   },
@@ -369,23 +369,23 @@
     "question_ar": "أنهي مطرب أمريكي طرح ألبوم \"Songs in the Key of Life\" المؤثر ومشهور بعبقريته الموسيقية رغم إعاقة بصرية؟",
     "options": [
       {
-        "en": "Ray Charles",
-        "ar": "راي تشارلز"
-      },
-      {
         "en": "Marvin Gaye",
         "ar": "مارفن جاي"
       },
       {
-        "en": "Al Green",
-        "ar": "آل جرين"
-      },
-      {
         "en": "Stevie Wonder",
         "ar": "ستيفي وندر"
+      },
+      {
+        "en": "Ray Charles",
+        "ar": "راي تشارلز"
+      },
+      {
+        "en": "Al Green",
+        "ar": "آل جرين"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Stevie Wonder, who is blind, released the acclaimed album \"Songs in the Key of Life\".",
     "explanation_ar": "ستيفي وندر، فاقد البصر، طرح ألبوم \"Songs in the Key of Life\" المؤثر جدًا."
   },
@@ -399,8 +399,8 @@
     "question_ar": "أنهي أخوين لبنانيين لحنوا معظم أغاني فيروز وشكلوا ثنائي \"الأخوين رحباني\"؟",
     "options": [
       {
-        "en": "Ziad and Hali Rahbani",
-        "ar": "زياد وهالي رحباني"
+        "en": "Assi and Mansour Rahbani",
+        "ar": "عاصي ومنصور رحباني"
       },
       {
         "en": "Wadih and Elias Safi",
@@ -411,11 +411,11 @@
         "ar": "فيلمون وتوفيق وهبة"
       },
       {
-        "en": "Assi and Mansour Rahbani",
-        "ar": "عاصي ومنصور رحباني"
+        "en": "Ziad and Hali Rahbani",
+        "ar": "زياد وهالي رحباني"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Assi and Mansour Rahbani composed most of Fairuz's iconic repertoire.",
     "explanation_ar": "عاصي ومنصور رحباني لحنوا معظم أغاني فيروز الشهيرة."
   },
@@ -429,23 +429,23 @@
     "question_ar": "أنهي مطرب مصري ساعد ينشر مزيج الشعبي والبوب الحديث في العشرية اللي فاتت؟",
     "options": [
       {
-        "en": "Hamada Helal",
-        "ar": "حماده هلال"
+        "en": "Hassan Shakosh",
+        "ar": "حسن شاكوش"
       },
       {
         "en": "Saad El Soghayar",
         "ar": "سعد الصغير"
       },
       {
-        "en": "Hassan Shakosh",
-        "ar": "حسن شاكوش"
+        "en": "Hamada Helal",
+        "ar": "حماده هلال"
       },
       {
         "en": "Shaaban Abdel Rahim",
         "ar": "شعبان عبد الرحيم"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Hassan Shakosh, with hits like \"Bent El Giran\", is a leading figure in modern shaabi/mahraganat fusion.",
     "explanation_ar": "حسن شاكوش، بأغاني زي \"بنت الجيران\"، من أبرز رموز المهرجانات الشعبية الحديثة."
   },
@@ -459,23 +459,23 @@
     "question_ar": "أنهي فرقة روك كلاسيكية من أعضائها روبرت بلانت وجيمي بيدج ومعروفة بأغنية \"Stairway to Heaven\"؟",
     "options": [
       {
-        "en": "Deep Purple",
-        "ar": "ديب بيربل"
+        "en": "Led Zeppelin",
+        "ar": "ليد زبلين"
       },
       {
         "en": "Black Sabbath",
         "ar": "بلاك ساباث"
       },
       {
-        "en": "The Who",
-        "ar": "ذا هو"
+        "en": "Deep Purple",
+        "ar": "ديب بيربل"
       },
       {
-        "en": "Led Zeppelin",
-        "ar": "ليد زبلين"
+        "en": "The Who",
+        "ar": "ذا هو"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Led Zeppelin, with Robert Plant and Jimmy Page, created \"Stairway to Heaven\".",
     "explanation_ar": "فرقة ليد زبلين، بروبرت بلانت وجيمي بيدج، هي اللي غنت \"Stairway to Heaven\"."
   },
@@ -489,23 +489,23 @@
     "question_ar": "مين من الأوائل اللي جددوا الموسيقى العربية بإدخال آلات وأشكال غربية في أوائل القرن العشرين؟",
     "options": [
       {
-        "en": "Sayed Darwish",
-        "ar": "سيد درويش"
-      },
-      {
         "en": "Mohamed Abdel Wahab",
         "ar": "محمد عبد الوهاب"
       },
       {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
+        "en": "Sayed Darwish",
+        "ar": "سيد درويش"
       },
       {
         "en": "Abdo El Hamouli",
         "ar": "عبده الحامولي"
+      },
+      {
+        "en": "Zakaria Ahmed",
+        "ar": "زكريا أحمد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Sayed Darwish is widely credited as the father of modern Egyptian music, blending Western and Arabic forms.",
     "explanation_ar": "سيد درويش معروف بإنه أبو الموسيقى المصرية الحديثة لأنه مزج الأشكال الغربية والعربية."
   },
@@ -523,19 +523,19 @@
         "ar": "إيمي واينهاوس"
       },
       {
-        "en": "Duffy",
-        "ar": "دافي"
+        "en": "Adele",
+        "ar": "أديل"
       },
       {
         "en": "Sam Smith",
         "ar": "سام سميث"
       },
       {
-        "en": "Adele",
-        "ar": "أديل"
+        "en": "Duffy",
+        "ar": "دافي"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Adele's album \"21\" won multiple Grammys and features \"Someone Like You\".",
     "explanation_ar": "ألبوم \"21\" لأديل فاز بجوايز جرامي كتير وفيه أغنية \"Someone Like You\"."
   },
@@ -549,12 +549,12 @@
     "question_ar": "أنهي فرقة مصرية، أسسها صلاح أشرف وآخرين، معروفة بألبومات روك بديل زي \"Analog Feelings\"؟",
     "options": [
       {
-        "en": "Cairokee",
-        "ar": "كايروكي"
-      },
-      {
         "en": "Massar Egbari",
         "ar": "مسار إجباري"
+      },
+      {
+        "en": "Cairokee",
+        "ar": "كايروكي"
       },
       {
         "en": "Sahara",
@@ -565,7 +565,7 @@
         "ar": "وسط البلد"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Massar Egbari is known for alternative rock work including the \"Analog Feelings\" album.",
     "explanation_ar": "مسار إجباري معروفة بألبومات روك بديل ومنها \"Analog Feelings\"."
   },
@@ -587,12 +587,12 @@
         "ar": "جيرمين جاكسون"
       },
       {
-        "en": "Tito Jackson",
-        "ar": "تيتو جاكسون"
-      },
-      {
         "en": "Marlon Jackson",
         "ar": "مارلون جاكسون"
+      },
+      {
+        "en": "Tito Jackson",
+        "ar": "تيتو جاكسون"
       }
     ],
     "correctAnswer": 0,
@@ -609,23 +609,23 @@
     "question_ar": "بيتقال إيه على قدرة الموسيقي إنه يغني أو يعزف من غير نوتة، بالسمع بس؟",
     "options": [
       {
-        "en": "Sight-reading",
-        "ar": "القراءة البصرية"
-      },
-      {
-        "en": "Transposing",
-        "ar": "النقل"
+        "en": "Playing by ear",
+        "ar": "العزف بالسمع"
       },
       {
         "en": "Sampling",
         "ar": "السامبلينج"
       },
       {
-        "en": "Playing by ear",
-        "ar": "العزف بالسمع"
+        "en": "Transposing",
+        "ar": "النقل"
+      },
+      {
+        "en": "Sight-reading",
+        "ar": "القراءة البصرية"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Performing music without sheet music, by ear, is called \"playing by ear\".",
     "explanation_ar": "العزف من غير نوتة والاعتماد على السمع اسمه \"العزف بالسمع\"."
   },
@@ -647,12 +647,12 @@
         "ar": "محمد فؤاد"
       },
       {
-        "en": "Medhat Saleh",
-        "ar": "مدحت صالح"
-      },
-      {
         "en": "Amr Mostafa",
         "ar": "عمرو مصطفى"
+      },
+      {
+        "en": "Medhat Saleh",
+        "ar": "مدحت صالح"
       }
     ],
     "correctAnswer": 0,
@@ -669,6 +669,10 @@
     "question_ar": "أنهي رابر أمريكي اسمه الحقيقي Marshall Mathers؟",
     "options": [
       {
+        "en": "Jay-Z",
+        "ar": "جاي زي"
+      },
+      {
         "en": "Eminem",
         "ar": "إيمينم"
       },
@@ -677,15 +681,11 @@
         "ar": "فيفتي سنت"
       },
       {
-        "en": "Jay-Z",
-        "ar": "جاي زي"
-      },
-      {
         "en": "Snoop Dogg",
         "ar": "سنوب دوج"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Eminem's real name is Marshall Bruce Mathers III.",
     "explanation_ar": "الاسم الحقيقي لإيمينم هو Marshall Bruce Mathers III."
   },
@@ -699,23 +699,23 @@
     "question_ar": "أنهي مطرب كلاسيكي، مولود في سوريا ومشهور بالعزف على العود، كان في منافسة فنية مع أم كلثوم لعقود؟",
     "options": [
       {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      },
-      {
         "en": "Farid El Atrache",
         "ar": "فريد الأطرش"
       },
       {
-        "en": "Karem Mahmoud",
-        "ar": "كارم محمود"
+        "en": "Mohamed Abdel Wahab",
+        "ar": "محمد عبد الوهاب"
       },
       {
         "en": "Abdel Halim Hafez",
         "ar": "عبد الحليم حافظ"
+      },
+      {
+        "en": "Karem Mahmoud",
+        "ar": "كارم محمود"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Farid El Atrache, born in Syria, was a legendary oud player and singer.",
     "explanation_ar": "فريد الأطرش، المولود في سوريا، كان عازف عود ومطرب أسطوري."
   },
@@ -729,8 +729,8 @@
     "question_ar": "أنهي فرقة أمريكية، أسسها كورت كوبين، من أهم فرق حركة الجرانج بألبوم \"Nevermind\"؟",
     "options": [
       {
-        "en": "Pearl Jam",
-        "ar": "بيرل جام"
+        "en": "Alice in Chains",
+        "ar": "أليس إن تشينز"
       },
       {
         "en": "Soundgarden",
@@ -741,8 +741,8 @@
         "ar": "نيرفانا"
       },
       {
-        "en": "Alice in Chains",
-        "ar": "أليس إن تشينز"
+        "en": "Pearl Jam",
+        "ar": "بيرل جام"
       }
     ],
     "correctAnswer": 2,
@@ -759,23 +759,23 @@
     "question_ar": "أنهي مطرب مصري لقبه \"سلطان الطرب\" غنى \"ع بالي حبيبي\" و\"خدني المرض\"؟",
     "options": [
       {
-        "en": "Ihab Tawfik",
-        "ar": "إيهاب توفيق"
+        "en": "Medhat Saleh",
+        "ar": "مدحت صالح"
       },
       {
         "en": "Ali El Haggar",
         "ar": "علي الحجار"
       },
       {
-        "en": "Mohamed Adaweya",
-        "ar": "محمد عدوية"
+        "en": "Ihab Tawfik",
+        "ar": "إيهاب توفيق"
       },
       {
-        "en": "Medhat Saleh",
-        "ar": "مدحت صالح"
+        "en": "Mohamed Adaweya",
+        "ar": "محمد عدوية"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Ihab Tawfik is nicknamed \"Sultan El Tarab\" (Sultan of Tarab).",
     "explanation_ar": "إيهاب توفيق معروف بلقب \"سلطان الطرب\"."
   },
@@ -789,12 +789,12 @@
     "question_ar": "أنهي فنان أمريكي-كندي معروف بأغنية \"Blinding Lights\" واسمه الفني \"ذا ويكند\"؟",
     "options": [
       {
-        "en": "Frank Ocean",
-        "ar": "فرانك أوشن"
-      },
-      {
         "en": "The Weeknd",
         "ar": "ذا ويكند"
+      },
+      {
+        "en": "Frank Ocean",
+        "ar": "فرانك أوشن"
       },
       {
         "en": "Bruno Mars",
@@ -805,7 +805,7 @@
         "ar": "أشر"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The Weeknd (Abel Tesfaye) is known for the hit \"Blinding Lights\".",
     "explanation_ar": "ذا ويكند (أبل تسفاي) معروف بأغنية \"Blinding Lights\"."
   },
@@ -819,23 +819,23 @@
     "question_ar": "بيتقال إيه في الموسيقى العربية على المقدمة الغنائية أو الموسيقية المرتجلة اللي بتظهر مهارة المطرب أو العازف؟",
     "options": [
       {
-        "en": "Mawwal",
-        "ar": "موال"
+        "en": "Taqsim",
+        "ar": "تقسيم"
       },
       {
         "en": "Muwashah",
         "ar": "موشح"
       },
       {
-        "en": "Taqsim",
-        "ar": "تقسيم"
-      },
-      {
         "en": "Qasida",
         "ar": "قصيدة"
+      },
+      {
+        "en": "Mawwal",
+        "ar": "موال"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "A mawwal is an improvised vocal introduction in Arabic music.",
     "explanation_ar": "الموال هو مقدمة غنائية مرتجلة في الموسيقى العربية."
   },
@@ -849,23 +849,23 @@
     "question_ar": "أنهي مطربة أمريكية، مشهورة بأغنية \"Halo\"، متجوزة جاي زي وكانت في فريق ديستنيز تشايلد؟",
     "options": [
       {
-        "en": "Kelly Rowland",
-        "ar": "كيلي رولاند"
+        "en": "Beyoncé",
+        "ar": "بيونسيه"
       },
       {
         "en": "Michelle Williams",
         "ar": "ميشيل ويليامز"
       },
       {
-        "en": "Beyoncé",
-        "ar": "بيونسيه"
+        "en": "Kelly Rowland",
+        "ar": "كيلي رولاند"
       },
       {
         "en": "Rihanna",
         "ar": "ريهانا"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Beyoncé, known for \"Halo\", is married to Jay-Z.",
     "explanation_ar": "بيونسيه، صاحبة أغنية \"Halo\"، متجوزة جاي زي."
   },
@@ -879,23 +879,23 @@
     "question_ar": "أنهي مطرب مصري معروف بمزج التراث النوبي بالبوب/الروك في أغاني زي \"اتكلمي\"؟",
     "options": [
       {
-        "en": "Mohamed Mounir",
-        "ar": "محمد منير"
-      },
-      {
         "en": "Hamza Namira",
         "ar": "حمزة نمرة"
+      },
+      {
+        "en": "Fathy Salama",
+        "ar": "فتحي سلامة"
       },
       {
         "en": "Ali El Haggar",
         "ar": "علي الحجار"
       },
       {
-        "en": "Fathy Salama",
-        "ar": "فتحي سلامة"
+        "en": "Mohamed Mounir",
+        "ar": "محمد منير"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Mohamed Mounir is known for blending Nubian roots into his music, including in \"Etkalemy\".",
     "explanation_ar": "محمد منير معروف بمزج جذوره النوبية في موسيقاه ومنها \"اتكلمي\"."
   },
@@ -909,23 +909,23 @@
     "question_ar": "أنهي مطربة بريطانية، معروفة بأغاني السول، غنت \"Back to Black\" قبل وفاتها المبكرة سنة 2011؟",
     "options": [
       {
-        "en": "Duffy",
-        "ar": "دافي"
-      },
-      {
         "en": "Adele",
         "ar": "أديل"
       },
       {
-        "en": "Amy Winehouse",
-        "ar": "إيمي واينهاوس"
+        "en": "Duffy",
+        "ar": "دافي"
       },
       {
         "en": "Joss Stone",
         "ar": "جوس ستون"
+      },
+      {
+        "en": "Amy Winehouse",
+        "ar": "إيمي واينهاوس"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Amy Winehouse recorded \"Back to Black\" and passed away in 2011.",
     "explanation_ar": "إيمي واينهاوس غنت \"Back to Black\" وتوفيت سنة 2011."
   },
@@ -939,23 +939,23 @@
     "question_ar": "بيتقال إيه على الموسيقى المبنية على نمط إيقاعي أو لحني قصير بيتكرر، شائع في أغاني المهرجانات والدانس؟",
     "options": [
       {
-        "en": "Bridge",
-        "ar": "بريدج"
-      },
-      {
         "en": "Cadence",
         "ar": "كادنس"
       },
       {
-        "en": "Loop",
-        "ar": "لوب"
-      },
-      {
         "en": "Overture",
         "ar": "أوفرتشر"
+      },
+      {
+        "en": "Bridge",
+        "ar": "بريدج"
+      },
+      {
+        "en": "Loop",
+        "ar": "لوب"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "A repeating musical pattern is called a loop.",
     "explanation_ar": "النمط الموسيقي المتكرر اسمه لوب."
   },
@@ -969,23 +969,23 @@
     "question_ar": "أنهي ملحن مصري لحن لأم كلثوم وعبد الحليم أغاني زي \"أحسن الناس\" و\"زي الهوا\"؟",
     "options": [
       {
-        "en": "Kamal El Taweel",
-        "ar": "كمال الطويل"
+        "en": "Sayed Mekawy",
+        "ar": "سيد مكاوي"
       },
       {
         "en": "Mohamed El Mougy",
         "ar": "محمد الموجي"
       },
       {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
+        "en": "Kamal El Taweel",
+        "ar": "كمال الطويل"
       },
       {
-        "en": "Sayed Mekawy",
-        "ar": "سيد مكاوي"
+        "en": "Baligh Hamdi",
+        "ar": "بليغ حمدي"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Baligh Hamdi composed both \"Ahsan Nas\" and \"Zay El Hawa\" among many other classics.",
     "explanation_ar": "بليغ حمدي لحن \"أحسن الناس\" و\"زي الهوا\" ضمن كلاسيكيات تانية كتير."
   },
@@ -1029,23 +1029,23 @@
     "question_ar": "أنهي مطربة تونسية اشتهرت في مصر وغنت أغنية \"فاكرني\"؟",
     "options": [
       {
-        "en": "Latifa",
-        "ar": "لطيفة"
-      },
-      {
         "en": "Samira Said",
         "ar": "سميرة سعيد"
+      },
+      {
+        "en": "Saber Rebaï",
+        "ar": "صابر الرباعي"
       },
       {
         "en": "Amina Fakher",
         "ar": "أمينة فاخر"
       },
       {
-        "en": "Saber Rebaï",
-        "ar": "صابر الرباعي"
+        "en": "Latifa",
+        "ar": "لطيفة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "\"Fakerni\" is a well-known hit by Latifa.",
     "explanation_ar": "\"فاكرني\" من أغاني لطيفة المشهورة."
   },
@@ -1063,16 +1063,16 @@
         "ar": "على طريقة الكنيسة/الكابيلا"
       },
       {
+        "en": "Free style",
+        "ar": "أسلوب حر"
+      },
+      {
         "en": "Without rhythm",
         "ar": "من غير إيقاع"
       },
       {
         "en": "High voice",
         "ar": "صوت عالي"
-      },
-      {
-        "en": "Free style",
-        "ar": "أسلوب حر"
       }
     ],
     "correctAnswer": 0,
@@ -1089,6 +1089,10 @@
     "question_ar": "أنهي مطربة مصرية معروفة بمشاركتها كمدربة (مش متسابقة) في برنامج \"ذا فويس\" بالعربي؟",
     "options": [
       {
+        "en": "Nawal El Zoghbi",
+        "ar": "نوال الزغبي"
+      },
+      {
         "en": "Angham",
         "ar": "أنغام"
       },
@@ -1099,13 +1103,9 @@
       {
         "en": "Assala",
         "ar": "أصالة"
-      },
-      {
-        "en": "Nawal El Zoghbi",
-        "ar": "نوال الزغبي"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Sherine has served as a coach on \"The Voice\" Arabic editions.",
     "explanation_ar": "شيرين شاركت كمدربة في برنامج \"ذا فويس\" بالعربي."
   },
@@ -1149,16 +1149,16 @@
     "question_ar": "أنهي مطربة أمريكية اشتهرت بأغنية \"Man! I Feel Like a Woman!\" وبدأت في الكانتري قبل ما تنتقل للبوب؟",
     "options": [
       {
+        "en": "Reba McEntire",
+        "ar": "ريبا ماكنتاير"
+      },
+      {
         "en": "Faith Hill",
         "ar": "فيث هيل"
       },
       {
         "en": "LeAnn Rimes",
         "ar": "لي آن رايمز"
-      },
-      {
-        "en": "Reba McEntire",
-        "ar": "ريبا ماكنتاير"
       },
       {
         "en": "Shania Twain",
@@ -1187,15 +1187,15 @@
         "ar": "بوتليج"
       },
       {
-        "en": "Mashup",
-        "ar": "ماش أب"
-      },
-      {
         "en": "Cover",
         "ar": "كفر"
+      },
+      {
+        "en": "Mashup",
+        "ar": "ماش أب"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "A cover is a performance of a song by someone other than the original artist.",
     "explanation_ar": "الكفر هو أداء لأغنية بواسطة فنان غير المطرب الأصلي."
   },
@@ -1209,23 +1209,23 @@
     "question_ar": "أنهي مطرب مصري، معروف بصوته وأغاني زي \"قال الحب\"، كان من أهم أصوات الإذاعة المصرية لعقود؟",
     "options": [
       {
-        "en": "Mohamed Mounir",
-        "ar": "محمد منير"
-      },
-      {
         "en": "Medhat Saleh",
         "ar": "مدحت صالح"
       },
       {
-        "en": "Hany Shaker",
-        "ar": "هاني شاكر"
+        "en": "Mohamed Mounir",
+        "ar": "محمد منير"
       },
       {
         "en": "Ali El Haggar",
         "ar": "علي الحجار"
+      },
+      {
+        "en": "Hany Shaker",
+        "ar": "هاني شاكر"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Ali El Haggar has long been a prominent voice on Egyptian radio and stage.",
     "explanation_ar": "علي الحجار من أبرز الأصوات في الإذاعة والمسرح المصري لعقود."
   },
@@ -1239,23 +1239,23 @@
     "question_ar": "أنهي فرقة روك أمريكية-بريطانية، بقيادة ميك جاجر وكيث ريتشاردز، مشهورة بأغنية \"Satisfaction\"؟",
     "options": [
       {
-        "en": "The Who",
-        "ar": "ذا هو"
-      },
-      {
-        "en": "The Kinks",
-        "ar": "ذا كينكس"
-      },
-      {
         "en": "The Animals",
         "ar": "ذا أنيمالز"
       },
       {
+        "en": "The Who",
+        "ar": "ذا هو"
+      },
+      {
         "en": "The Rolling Stones",
         "ar": "ذا رولينج ستونز"
+      },
+      {
+        "en": "The Kinks",
+        "ar": "ذا كينكس"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "The Rolling Stones, fronted by Mick Jagger, made \"Satisfaction\" iconic.",
     "explanation_ar": "فرقة ذا رولينج ستونز، بقيادة ميك جاجر، غنت \"Satisfaction\" الأسطورية."
   },
@@ -1269,12 +1269,12 @@
     "question_ar": "أنهي نوع من الارتجال الغنائي العربي الكلاسيكي بيتقدم من غير إيقاع ثابت قبل الأغنية المنظمة؟",
     "options": [
       {
-        "en": "Dabke",
-        "ar": "دبكة"
-      },
-      {
         "en": "Zajal",
         "ar": "زجل"
+      },
+      {
+        "en": "Dabke",
+        "ar": "دبكة"
       },
       {
         "en": "Ataba",
@@ -1299,23 +1299,23 @@
     "question_ar": "أنهي مطربة مصرية بدأت مشوارها كواحدة من أهم أصوات البوب النسائية أواخر التسعينات وبداية الألفينات؟",
     "options": [
       {
-        "en": "Angham",
-        "ar": "أنغام"
-      },
-      {
         "en": "Ruby",
         "ar": "روبي"
       },
       {
-        "en": "Sherine",
-        "ar": "شيرين"
+        "en": "Angham",
+        "ar": "أنغام"
       },
       {
         "en": "Donia Samir Ghanem",
         "ar": "دنيا سمير غانم"
+      },
+      {
+        "en": "Sherine",
+        "ar": "شيرين"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Sherine debuted in the late 1990s and became one of Egypt's leading female pop voices.",
     "explanation_ar": "شيرين بدأت مشوارها أواخر التسعينات وبقت من أهم أصوات البوب النسائية في مصر."
   },
@@ -1329,20 +1329,20 @@
     "question_ar": "أنهي موسيقي أمريكي معروف بلقب \"The Piano Man\" وغنى أغنية بنفس الاسم سنة 1973؟",
     "options": [
       {
-        "en": "Elton John",
-        "ar": "إلتون جون"
+        "en": "Neil Diamond",
+        "ar": "نيل دايموند"
       },
       {
         "en": "Billy Joel",
         "ar": "بيلي جول"
       },
       {
-        "en": "Barry Manilow",
-        "ar": "باري مانيلو"
+        "en": "Elton John",
+        "ar": "إلتون جون"
       },
       {
-        "en": "Neil Diamond",
-        "ar": "نيل دايموند"
+        "en": "Barry Manilow",
+        "ar": "باري مانيلو"
       }
     ],
     "correctAnswer": 1,
@@ -1363,19 +1363,19 @@
         "ar": "محمد عطية"
       },
       {
-        "en": "Hazem Sherif",
-        "ar": "حازم شريف"
+        "en": "Bahaa Sultan",
+        "ar": "بهاء سلطان"
       },
       {
         "en": "Ramy Ayach",
         "ar": "رامي عياش"
       },
       {
-        "en": "Bahaa Sultan",
-        "ar": "بهاء سلطان"
+        "en": "Hazem Sherif",
+        "ar": "حازم شريف"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Bahaa Sultan gained fame through Star Academy and became a successful Egyptian pop singer.",
     "explanation_ar": "بهاء سلطان بقى معروف من خلال ستار أكاديمي وبعدين بقى مطرب بوب ناجح في مصر."
   },
@@ -1389,10 +1389,6 @@
     "question_ar": "إيه اسم الضبط القياسي لأوتار الجيتار الستة من الأوطى للأعلى؟",
     "options": [
       {
-        "en": "E A D G B E",
-        "ar": "E A D G B E"
-      },
-      {
         "en": "A D G C E A",
         "ar": "A D G C E A"
       },
@@ -1403,9 +1399,13 @@
       {
         "en": "C F A D G C",
         "ar": "C F A D G C"
+      },
+      {
+        "en": "E A D G B E",
+        "ar": "E A D G B E"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Standard guitar tuning, low to high, is E A D G B E.",
     "explanation_ar": "الضبط القياسي لأوتار الجيتار من الأوطى للأعلى هو E A D G B E."
   },
@@ -1419,23 +1419,23 @@
     "question_ar": "أنهي مطرب مصري بصوته الأجش أصبح أيقونة الشعبي في التسعينات بأغنية \"زحمة يا دنيا زحمة\"؟",
     "options": [
       {
-        "en": "Shaaban Abdel Rahim",
-        "ar": "شعبان عبد الرحيم"
-      },
-      {
         "en": "Ahmed Adaweya",
         "ar": "أحمد عدوية"
+      },
+      {
+        "en": "Saad El Soghayar",
+        "ar": "سعد الصغير"
       },
       {
         "en": "Hakim",
         "ar": "حكيم"
       },
       {
-        "en": "Saad El Soghayar",
-        "ar": "سعد الصغير"
+        "en": "Shaaban Abdel Rahim",
+        "ar": "شعبان عبد الرحيم"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Shaaban Abdel Rahim became a shaabi icon with \"Zahma Ya Donia Zahma\".",
     "explanation_ar": "شعبان عبد الرحيم بقى أيقونة الشعبي بأغنية \"زحمة يا دنيا زحمة\"."
   },
@@ -1449,23 +1449,23 @@
     "question_ar": "أنهي مطربة أمريكية معروفة بأغنية \"Vision of Love\" ومدى صوتي أسطوري ولقبها \"Songbird Supreme\"؟",
     "options": [
       {
-        "en": "Celine Dion",
-        "ar": "سيلين ديون"
-      },
-      {
         "en": "Whitney Houston",
         "ar": "ويتني هيوستن"
       },
       {
-        "en": "Christina Aguilera",
-        "ar": "كريستينا أغيليرا"
-      },
-      {
         "en": "Mariah Carey",
         "ar": "ماريا كاري"
+      },
+      {
+        "en": "Celine Dion",
+        "ar": "سيلين ديون"
+      },
+      {
+        "en": "Christina Aguilera",
+        "ar": "كريستينا أغيليرا"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Mariah Carey is renowned for her exceptional vocal range and hits like \"Vision of Love\".",
     "explanation_ar": "ماريا كاري معروفة بمدى صوتي استثنائي وأغاني زي \"Vision of Love\"."
   },
@@ -1479,23 +1479,23 @@
     "question_ar": "أنهي مطرب مصري بيتعتبر عراب الغناء الشعبي وبقى مشهور في السبعينات بصوته الأجش وأغاني الأفراح؟",
     "options": [
       {
-        "en": "Shaaban Abdel Rahim",
-        "ar": "شعبان عبد الرحيم"
+        "en": "Ahmed Adaweya",
+        "ar": "أحمد عدوية"
       },
       {
         "en": "Hakim",
         "ar": "حكيم"
       },
       {
-        "en": "Ahmed Adaweya",
-        "ar": "أحمد عدوية"
+        "en": "Shaaban Abdel Rahim",
+        "ar": "شعبان عبد الرحيم"
       },
       {
         "en": "Ali El Haggar",
         "ar": "علي الحجار"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Ahmed Adaweya is widely regarded as the godfather of modern Egyptian shaabi music.",
     "explanation_ar": "أحمد عدوية بيتعتبر عراب الغناء الشعبي المصري الحديث."
   }

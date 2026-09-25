@@ -8,12 +8,24 @@
     "question_en": "Which two Cairo clubs play Egypt's most famous football derby?",
     "question_ar": "أنهي فريقين بيلعبوا أشهر ديربي في الكورة المصرية؟",
     "options": [
-      {"en": "Al Ahly & Zamalek", "ar": "الأهلي والزمالك"},
-      {"en": "Ismaily & Al Masry", "ar": "الإسماعيلي والمصري"},
-      {"en": "Pyramids & ENPPI", "ar": "بيراميدز والإنبي"},
-      {"en": "Al Ittihad & Smouha", "ar": "الاتحاد وسموحة"}
+      {
+        "en": "Ismaily & Al Masry",
+        "ar": "الإسماعيلي والمصري"
+      },
+      {
+        "en": "Al Ittihad & Smouha",
+        "ar": "الاتحاد وسموحة"
+      },
+      {
+        "en": "Al Ahly & Zamalek",
+        "ar": "الأهلي والزمالك"
+      },
+      {
+        "en": "Pyramids & ENPPI",
+        "ar": "بيراميدز والإنبي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Cairo Derby between Al Ahly and Zamalek is Egypt's biggest football rivalry.",
     "explanation_ar": "ديربي القاهرة بين الأهلي والزمالك هو أشهر ديربي في مصر."
   },
@@ -26,12 +38,24 @@
     "question_en": "What is the nickname of Egypt's national football team?",
     "question_ar": "إيه لقب منتخب مصر لكرة القدم؟",
     "options": [
-      {"en": "The Lions", "ar": "الأسود"},
-      {"en": "The Pharaohs", "ar": "الفراعنة"},
-      {"en": "The Eagles", "ar": "الصقور"},
-      {"en": "The Tigers", "ar": "النمور"}
+      {
+        "en": "The Eagles",
+        "ar": "الصقور"
+      },
+      {
+        "en": "The Lions",
+        "ar": "الأسود"
+      },
+      {
+        "en": "The Pharaohs",
+        "ar": "الفراعنة"
+      },
+      {
+        "en": "The Tigers",
+        "ar": "النمور"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Egypt's national team is known worldwide as the Pharaohs.",
     "explanation_ar": "منتخب مصر بيتسمى الفراعنة."
   },
@@ -44,10 +68,22 @@
     "question_en": "Mohamed Salah has starred for which English club since 2017?",
     "question_ar": "محمد صلاح بيلعب لأنهي فريق إنجليزي من سنة 2017؟",
     "options": [
-      {"en": "Chelsea", "ar": "تشيلسي"},
-      {"en": "Arsenal", "ar": "أرسنال"},
-      {"en": "Liverpool", "ar": "ليفربول"},
-      {"en": "Manchester City", "ar": "مانشستر سيتي"}
+      {
+        "en": "Chelsea",
+        "ar": "تشيلسي"
+      },
+      {
+        "en": "Manchester City",
+        "ar": "مانشستر سيتي"
+      },
+      {
+        "en": "Liverpool",
+        "ar": "ليفربول"
+      },
+      {
+        "en": "Arsenal",
+        "ar": "أرسنال"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Mohamed Salah has been Liverpool's star forward since 2017.",
@@ -63,12 +99,24 @@
     "question_en": "What color jersey does Al Ahly play in?",
     "question_ar": "الأهلي بيلعب بقميص لونه إيه؟",
     "options": [
-      {"en": "Blue", "ar": "أزرق"},
-      {"en": "Green", "ar": "أخضر"},
-      {"en": "White", "ar": "أبيض"},
-      {"en": "Red", "ar": "أحمر"}
+      {
+        "en": "Blue",
+        "ar": "أزرق"
+      },
+      {
+        "en": "Red",
+        "ar": "أحمر"
+      },
+      {
+        "en": "White",
+        "ar": "أبيض"
+      },
+      {
+        "en": "Green",
+        "ar": "أخضر"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Al Ahly's iconic home colour is red.",
     "explanation_ar": "الأهلي بيلعب بقميصه الأحمر المعروف."
   },
@@ -81,12 +129,24 @@
     "question_en": "What color jersey does Zamalek play in?",
     "question_ar": "الزمالك بيلعب بقميص لونه إيه؟",
     "options": [
-      {"en": "White", "ar": "أبيض"},
-      {"en": "Red", "ar": "أحمر"},
-      {"en": "Yellow", "ar": "أصفر"},
-      {"en": "Black", "ar": "أسود"}
+      {
+        "en": "Red",
+        "ar": "أحمر"
+      },
+      {
+        "en": "White",
+        "ar": "أبيض"
+      },
+      {
+        "en": "Yellow",
+        "ar": "أصفر"
+      },
+      {
+        "en": "Black",
+        "ar": "أسود"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Zamalek's classic home colour is white.",
     "explanation_ar": "الزمالك بيلعب بقميصه الأبيض المعروف."
   },
@@ -99,12 +159,24 @@
     "question_en": "In which Egyptian city are both Al Ahly and Zamalek based?",
     "question_ar": "الأهلي والزمالك أساسهم في أنهي مدينة؟",
     "options": [
-      {"en": "Alexandria", "ar": "الإسكندرية"},
-      {"en": "Cairo", "ar": "القاهرة"},
-      {"en": "Giza", "ar": "الجيزة"},
-      {"en": "Port Said", "ar": "بورسعيد"}
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Giza",
+        "ar": "الجيزة"
+      },
+      {
+        "en": "Port Said",
+        "ar": "بورسعيد"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Both giants of Egyptian football, Al Ahly and Zamalek, are based in Cairo.",
     "explanation_ar": "الأهلي والزمالك، عمالقة الكورة المصرية، أساسهم في القاهرة."
   },
@@ -117,12 +189,24 @@
     "question_en": "Egypt has won the Africa Cup of Nations more times than any other country. How many titles?",
     "question_ar": "مصر فازت بكأس أمم أفريقيا أكتر من أي دولة تانية. بكام كأس؟",
     "options": [
-      {"en": "4", "ar": "4"},
-      {"en": "5", "ar": "5"},
-      {"en": "9", "ar": "9"},
-      {"en": "7", "ar": "7"}
+      {
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "9",
+        "ar": "9"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Egypt has won a record 7 Africa Cup of Nations titles.",
     "explanation_ar": "مصر فازت بـ 7 كؤوس أمم أفريقيا، رقم قياسي.",
     "verified_as_of": "2025-06"
@@ -136,12 +220,24 @@
     "question_en": "What is Mohamed Salah's famous nickname among Egyptian fans?",
     "question_ar": "إيه لقب محمد صلاح الشهير عند المصريين؟",
     "options": [
-      {"en": "The King", "ar": "الملك"},
-      {"en": "The Eagle", "ar": "الصقر"},
-      {"en": "The Lion", "ar": "الأسد"},
-      {"en": "The General", "ar": "الچنرال"}
+      {
+        "en": "The Lion",
+        "ar": "الأسد"
+      },
+      {
+        "en": "The Eagle",
+        "ar": "الصقر"
+      },
+      {
+        "en": "The General",
+        "ar": "الچنرال"
+      },
+      {
+        "en": "The King",
+        "ar": "الملك"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Egyptian fans proudly call Mohamed Salah \"The King\" (El Malek).",
     "explanation_ar": "المصريين بينادوا محمد صلاح بـ \"الملك\" افتخارًا بيه."
   },
@@ -154,12 +250,24 @@
     "question_en": "What position does Mohamed Salah play?",
     "question_ar": "محمد صلاح بيلعب في أنهي مركز؟",
     "options": [
-      {"en": "Goalkeeper", "ar": "حارس مرمى"},
-      {"en": "Forward", "ar": "مهاجم"},
-      {"en": "Center-back", "ar": "قلب دفاع"},
-      {"en": "Referee", "ar": "حكم"}
+      {
+        "en": "Referee",
+        "ar": "حكم"
+      },
+      {
+        "en": "Goalkeeper",
+        "ar": "حارس مرمى"
+      },
+      {
+        "en": "Forward",
+        "ar": "مهاجم"
+      },
+      {
+        "en": "Center-back",
+        "ar": "قلب دفاع"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Salah is a forward, famous for scoring and creating goals.",
     "explanation_ar": "صلاح مهاجم مشهور بتسجيل وصناعة الأهداف."
   },
@@ -172,10 +280,22 @@
     "question_en": "Egypt qualified for the 2018 FIFA World Cup, held in which country?",
     "question_ar": "مصر اتأهلت لكأس العالم 2018 اللي اتقامت في أنهي بلد؟",
     "options": [
-      {"en": "Qatar", "ar": "قطر"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Russia", "ar": "روسيا"},
-      {"en": "Germany", "ar": "ألمانيا"}
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Russia",
+        "ar": "روسيا"
+      },
+      {
+        "en": "Qatar",
+        "ar": "قطر"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Egypt played at the 2018 World Cup held in Russia.",
@@ -190,12 +310,24 @@
     "question_en": "What is the official name of Egypt's top football league?",
     "question_ar": "إيه اسم أعلى دوري لكرة القدم في مصر؟",
     "options": [
-      {"en": "Egyptian Premier League", "ar": "الدوري المصري الممتاز"},
-      {"en": "Cairo League", "ar": "دوري القاهرة"},
-      {"en": "Nile League", "ar": "دوري النيل"},
-      {"en": "Egyptian Super League", "ar": "السوبر ليج المصري"}
+      {
+        "en": "Nile League",
+        "ar": "دوري النيل"
+      },
+      {
+        "en": "Cairo League",
+        "ar": "دوري القاهرة"
+      },
+      {
+        "en": "Egyptian Super League",
+        "ar": "السوبر ليج المصري"
+      },
+      {
+        "en": "Egyptian Premier League",
+        "ar": "الدوري المصري الممتاز"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Egypt's top division is officially called the Egyptian Premier League.",
     "explanation_ar": "أعلى دوري في مصر اسمه الدوري المصري الممتاز."
   },
@@ -208,12 +340,24 @@
     "question_en": "What is Zamalek's famous nickname in Arabic?",
     "question_ar": "إيه لقب الزمالك الشهير؟",
     "options": [
-      {"en": "The White Castle", "ar": "القلعة البيضاء"},
-      {"en": "The Red Castle", "ar": "القلعة الحمراء"},
-      {"en": "The Golden Eagles", "ar": "الصقور الذهبية"},
-      {"en": "The Green Machine", "ar": "الآلة الخضراء"}
+      {
+        "en": "The Golden Eagles",
+        "ar": "الصقور الذهبية"
+      },
+      {
+        "en": "The Green Machine",
+        "ar": "الآلة الخضراء"
+      },
+      {
+        "en": "The Red Castle",
+        "ar": "القلعة الحمراء"
+      },
+      {
+        "en": "The White Castle",
+        "ar": "القلعة البيضاء"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Zamalek is famously nicknamed \"The White Castle\" (El Qalaa El Baida).",
     "explanation_ar": "الزمالك ملقب بـ \"القلعة البيضاء\"."
   },
@@ -226,12 +370,24 @@
     "question_en": "Which club holds the record for the most CAF Champions League (Africa's top club title) wins?",
     "question_ar": "أنهي فريق حقق أكتر عدد بطولات في دوري أبطال أفريقيا؟",
     "options": [
-      {"en": "Zamalek", "ar": "الزمالك"},
-      {"en": "Al Ahly", "ar": "الأهلي"},
-      {"en": "Esperance de Tunis", "ar": "الترجي التونسي"},
-      {"en": "Wydad Casablanca", "ar": "الوداد المغربي"}
+      {
+        "en": "Al Ahly",
+        "ar": "الأهلي"
+      },
+      {
+        "en": "Zamalek",
+        "ar": "الزمالك"
+      },
+      {
+        "en": "Wydad Casablanca",
+        "ar": "الوداد المغربي"
+      },
+      {
+        "en": "Esperance de Tunis",
+        "ar": "الترجي التونسي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Al Ahly holds the all-time record for CAF Champions League titles.",
     "explanation_ar": "الأهلي صاحب الرقم القياسي في عدد بطولات دوري أبطال أفريقيا."
   },
@@ -244,12 +400,24 @@
     "question_en": "Which country does Mohamed Salah represent in international football?",
     "question_ar": "محمد صلاح بيمثل أنهي دولة في الكورة الدولية؟",
     "options": [
-      {"en": "Morocco", "ar": "المغرب"},
-      {"en": "Tunisia", "ar": "تونس"},
-      {"en": "Algeria", "ar": "الجزائر"},
-      {"en": "Egypt", "ar": "مصر"}
+      {
+        "en": "Tunisia",
+        "ar": "تونس"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Morocco",
+        "ar": "المغرب"
+      },
+      {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Mohamed Salah is the captain and star of the Egyptian national team.",
     "explanation_ar": "محمد صلاح كابتن ونجم منتخب مصر."
   },
@@ -262,12 +430,24 @@
     "question_en": "Al Ahly is often called Africa's biggest club because of its record haul in which type of competition?",
     "question_ar": "الأهلي بيتقال عليه أكبر نادي في أفريقيا بسبب إنجازاته في أنهي نوع بطولات؟",
     "options": [
-      {"en": "Asian competitions", "ar": "بطولات آسيوية"},
-      {"en": "African competitions", "ar": "بطولات أفريقية"},
-      {"en": "European competitions", "ar": "بطولات أوروبية"},
-      {"en": "South American competitions", "ar": "بطولات أمريكا الجنوبية"}
+      {
+        "en": "European competitions",
+        "ar": "بطولات أوروبية"
+      },
+      {
+        "en": "South American competitions",
+        "ar": "بطولات أمريكا الجنوبية"
+      },
+      {
+        "en": "African competitions",
+        "ar": "بطولات أفريقية"
+      },
+      {
+        "en": "Asian competitions",
+        "ar": "بطولات آسيوية"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Al Ahly's huge trophy haul in African club competitions makes it a continental giant.",
     "explanation_ar": "بطولات الأهلي الكتير في المسابقات الأفريقية خلته عملاق القارة."
   },
@@ -280,12 +460,24 @@
     "question_en": "What does the name \"Al Ahly\" mean in Arabic?",
     "question_ar": "إيه معنى كلمة \"الأهلي\"؟",
     "options": [
-      {"en": "The National (of the people)", "ar": "الوطني (بتاع الشعب)"},
-      {"en": "The Royal", "ar": "الملكي"},
-      {"en": "The Golden", "ar": "الدهبي"},
-      {"en": "The Eternal", "ar": "الخالد"}
+      {
+        "en": "The Royal",
+        "ar": "الملكي"
+      },
+      {
+        "en": "The Eternal",
+        "ar": "الخالد"
+      },
+      {
+        "en": "The National (of the people)",
+        "ar": "الوطني (بتاع الشعب)"
+      },
+      {
+        "en": "The Golden",
+        "ar": "الدهبي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"Al Ahly\" translates to \"The National\" club, of the Egyptian people.",
     "explanation_ar": "\"الأهلي\" معناها النادي الوطني بتاع الشعب."
   },
@@ -298,12 +490,24 @@
     "question_en": "Zamalek is named after a real district located in which Egyptian city?",
     "question_ar": "الزمالك اتسمى على اسم منطقة حقيقية في أنهي مدينة؟",
     "options": [
-      {"en": "Cairo", "ar": "القاهرة"},
-      {"en": "Alexandria", "ar": "الإسكندرية"},
-      {"en": "Luxor", "ar": "الأقصر"},
-      {"en": "Aswan", "ar": "أسوان"}
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Zamalek is a real island district in Cairo, and the club takes its name from it.",
     "explanation_ar": "الزمالك جزيرة حقيقية في القاهرة، والنادي بياخد اسمه منها."
   },
@@ -316,12 +520,24 @@
     "question_en": "What color is featured on Egypt's national team home jersey?",
     "question_ar": "إيه اللون الأساسي لقميص منتخب مصر؟",
     "options": [
-      {"en": "Blue", "ar": "أزرق"},
-      {"en": "Green", "ar": "أخضر"},
-      {"en": "Yellow", "ar": "أصفر"},
-      {"en": "Red", "ar": "أحمر"}
+      {
+        "en": "Blue",
+        "ar": "أزرق"
+      },
+      {
+        "en": "Red",
+        "ar": "أحمر"
+      },
+      {
+        "en": "Green",
+        "ar": "أخضر"
+      },
+      {
+        "en": "Yellow",
+        "ar": "أصفر"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Egypt's home kit is famously red, like the Pharaohs' colours.",
     "explanation_ar": "قميص منتخب مصر الأساسي لونه أحمر."
   },
@@ -334,10 +550,22 @@
     "question_en": "Egypt hosted the Africa Cup of Nations in which recent year?",
     "question_ar": "مصر استضافت كأس أمم أفريقيا في أنهي سنة قريبة؟",
     "options": [
-      {"en": "2015", "ar": "2015"},
-      {"en": "2017", "ar": "2017"},
-      {"en": "2021", "ar": "2021"},
-      {"en": "2019", "ar": "2019"}
+      {
+        "en": "2021",
+        "ar": "2021"
+      },
+      {
+        "en": "2017",
+        "ar": "2017"
+      },
+      {
+        "en": "2015",
+        "ar": "2015"
+      },
+      {
+        "en": "2019",
+        "ar": "2019"
+      }
     ],
     "correctAnswer": 3,
     "explanation_en": "Egypt hosted the Africa Cup of Nations in 2019.",
@@ -352,12 +580,24 @@
     "question_en": "Al Masry, a well-known Egyptian club, is based in which city?",
     "question_ar": "نادي المصري، الفريق المصري المعروف، أساسه في أنهي مدينة؟",
     "options": [
-      {"en": "Suez", "ar": "السويس"},
-      {"en": "Port Said", "ar": "بورسعيد"},
-      {"en": "Ismailia", "ar": "الإسماعيلية"},
-      {"en": "Damietta", "ar": "دمياط"}
+      {
+        "en": "Damietta",
+        "ar": "دمياط"
+      },
+      {
+        "en": "Suez",
+        "ar": "السويس"
+      },
+      {
+        "en": "Ismailia",
+        "ar": "الإسماعيلية"
+      },
+      {
+        "en": "Port Said",
+        "ar": "بورسعيد"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Al Masry Club represents the city of Port Said.",
     "explanation_ar": "نادي المصري بيمثل مدينة بورسعيد."
   },
@@ -370,12 +610,24 @@
     "question_en": "Ismaily SC, a well-known Egyptian club, represents which city?",
     "question_ar": "نادي الإسماعيلي بيمثل أنهي مدينة؟",
     "options": [
-      {"en": "Ismailia", "ar": "الإسماعيلية"},
-      {"en": "Aswan", "ar": "أسوان"},
-      {"en": "Minya", "ar": "المنيا"},
-      {"en": "Tanta", "ar": "طنطا"}
+      {
+        "en": "Tanta",
+        "ar": "طنطا"
+      },
+      {
+        "en": "Minya",
+        "ar": "المنيا"
+      },
+      {
+        "en": "Ismailia",
+        "ar": "الإسماعيلية"
+      },
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Ismaily SC represents the Suez Canal city of Ismailia.",
     "explanation_ar": "نادي الإسماعيلي بيمثل مدينة الإسماعيلية على قناة السويس."
   },
@@ -388,12 +640,24 @@
     "question_en": "As of the 2018 World Cup, how many times had Egypt appeared at the FIFA World Cup (1934, 1990, 2018)?",
     "question_ar": "لحد كأس عالم 2018، مصر كانت لعبت في كام كأس عالم؟",
     "options": [
-      {"en": "1", "ar": "1"},
-      {"en": "2", "ar": "2"},
-      {"en": "3", "ar": "3"},
-      {"en": "5", "ar": "5"}
+      {
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "3",
+        "ar": "3"
+      },
+      {
+        "en": "1",
+        "ar": "1"
+      },
+      {
+        "en": "2",
+        "ar": "2"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Egypt had played 3 World Cups by 2018: 1934, 1990, and 2018.",
     "explanation_ar": "مصر لعبت 3 كؤوس عالم لحد سنة 2018: 1934، 1990، و2018."
   },
@@ -406,10 +670,22 @@
     "question_en": "Which famous stadium in Cairo is the traditional home of Egypt's national team?",
     "question_ar": "إيه اسم الملعب الشهير في القاهرة اللي بيتعتبر معقل منتخب مصر؟",
     "options": [
-      {"en": "Borg El Arab Stadium", "ar": "استاد برج العرب"},
-      {"en": "Cairo International Stadium", "ar": "استاد القاهرة الدولي"},
-      {"en": "Petro Sport Stadium", "ar": "استاد بتروسبورت"},
-      {"en": "Alexandria Stadium", "ar": "استاد الإسكندرية"}
+      {
+        "en": "Alexandria Stadium",
+        "ar": "استاد الإسكندرية"
+      },
+      {
+        "en": "Cairo International Stadium",
+        "ar": "استاد القاهرة الدولي"
+      },
+      {
+        "en": "Petro Sport Stadium",
+        "ar": "استاد بتروسبورت"
+      },
+      {
+        "en": "Borg El Arab Stadium",
+        "ar": "استاد برج العرب"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Cairo International Stadium is Egypt's most famous national stadium.",
@@ -424,10 +700,22 @@
     "question_en": "How many players from each team are on the pitch during a football match?",
     "question_ar": "كل فريق بيلعب بكام لاعب جوه الملعب؟",
     "options": [
-      {"en": "9", "ar": "9"},
-      {"en": "10", "ar": "10"},
-      {"en": "11", "ar": "11"},
-      {"en": "12", "ar": "12"}
+      {
+        "en": "9",
+        "ar": "9"
+      },
+      {
+        "en": "10",
+        "ar": "10"
+      },
+      {
+        "en": "11",
+        "ar": "11"
+      },
+      {
+        "en": "12",
+        "ar": "12"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Each football team fields 11 players on the pitch.",
@@ -442,12 +730,24 @@
     "question_en": "Which country has won the FIFA World Cup the most times (5 titles)?",
     "question_ar": "أنهي دولة فازت بكأس العالم أكتر عدد مرات (5 مرات)؟",
     "options": [
-      {"en": "Germany", "ar": "ألمانيا"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Argentina", "ar": "الأرجنتين"},
-      {"en": "Italy", "ar": "إيطاليا"}
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      },
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Brazil has won a record 5 FIFA World Cup titles.",
     "explanation_ar": "البرازيل فازت بكأس العالم 5 مرات، رقم قياسي.",
     "verified_as_of": "2025-06"
@@ -461,12 +761,24 @@
     "question_en": "Which country won the 2022 FIFA World Cup in Qatar?",
     "question_ar": "أنهي دولة فازت بكأس العالم 2022 في قطر؟",
     "options": [
-      {"en": "France", "ar": "فرنسا"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Argentina", "ar": "الأرجنتين"},
-      {"en": "Croatia", "ar": "كرواتيا"}
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "Croatia",
+        "ar": "كرواتيا"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Argentina, led by Lionel Messi, won the 2022 World Cup in Qatar.",
     "explanation_ar": "الأرجنتين بقيادة ميسي فازت بكأس العالم 2022 في قطر."
   },
@@ -479,12 +791,24 @@
     "question_en": "Lionel Messi represents which country in international football?",
     "question_ar": "ليونيل ميسي بيمثل أنهي دولة في الكورة الدولية؟",
     "options": [
-      {"en": "Spain", "ar": "إسبانيا"},
-      {"en": "Argentina", "ar": "الأرجنتين"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Uruguay", "ar": "الأوروجواي"}
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Uruguay",
+        "ar": "الأوروجواي"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Lionel Messi is Argentina's all-time great and World Cup-winning captain.",
     "explanation_ar": "ليونيل ميسي أسطورة الأرجنتين وكابتنها اللي فاز بكأس العالم."
   },
@@ -497,10 +821,22 @@
     "question_en": "Cristiano Ronaldo represents which country in international football?",
     "question_ar": "كريستيانو رونالدو بيمثل أنهي دولة في الكورة الدولية؟",
     "options": [
-      {"en": "Spain", "ar": "إسبانيا"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Portugal", "ar": "البرتغال"},
-      {"en": "Italy", "ar": "إيطاليا"}
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "Portugal",
+        "ar": "البرتغال"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Cristiano Ronaldo is Portugal's all-time top scorer and captain.",
@@ -515,10 +851,22 @@
     "question_en": "Which organization runs the FIFA World Cup?",
     "question_ar": "أنهي منظمة هي المسؤولة عن تنظيم كأس العالم؟",
     "options": [
-      {"en": "UEFA", "ar": "الاتحاد الأوروبي (يويفا)"},
-      {"en": "FIFA", "ar": "الفيفا"},
-      {"en": "CAF", "ar": "الكاف"},
-      {"en": "IOC", "ar": "اللجنة الأوليمبية"}
+      {
+        "en": "IOC",
+        "ar": "اللجنة الأوليمبية"
+      },
+      {
+        "en": "FIFA",
+        "ar": "الفيفا"
+      },
+      {
+        "en": "CAF",
+        "ar": "الكاف"
+      },
+      {
+        "en": "UEFA",
+        "ar": "الاتحاد الأوروبي (يويفا)"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "FIFA is football's world governing body that organizes the World Cup.",
@@ -533,12 +881,24 @@
     "question_en": "The FIFA World Cup is held every how many years?",
     "question_ar": "كأس العالم بتتقام كل كام سنة؟",
     "options": [
-      {"en": "2 years", "ar": "سنتين"},
-      {"en": "3 years", "ar": "3 سنين"},
-      {"en": "5 years", "ar": "5 سنين"},
-      {"en": "4 years", "ar": "4 سنين"}
+      {
+        "en": "4 years",
+        "ar": "4 سنين"
+      },
+      {
+        "en": "2 years",
+        "ar": "سنتين"
+      },
+      {
+        "en": "3 years",
+        "ar": "3 سنين"
+      },
+      {
+        "en": "5 years",
+        "ar": "5 سنين"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "The World Cup takes place every 4 years.",
     "explanation_ar": "كأس العالم بتتقام كل 4 سنين."
   },
@@ -551,12 +911,24 @@
     "question_en": "Diego Maradona, one of football's greatest legends, played for which country?",
     "question_ar": "دييجو مارادونا، واحد من أعظم أساطير الكورة، كان بيلعب لأنهي دولة؟",
     "options": [
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Argentina", "ar": "الأرجنتين"},
-      {"en": "Spain", "ar": "إسبانيا"},
-      {"en": "Uruguay", "ar": "الأوروجواي"}
+      {
+        "en": "Uruguay",
+        "ar": "الأوروجواي"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Diego Maradona is one of Argentina's greatest footballing legends.",
     "explanation_ar": "مارادونا واحد من أعظم أساطير الأرجنتين."
   },
@@ -569,12 +941,24 @@
     "question_en": "Pelé, one of football's greatest legends, played for which country?",
     "question_ar": "بيليه، واحد من أعظم أساطير الكورة، كان بيلعب لأنهي دولة؟",
     "options": [
-      {"en": "Argentina", "ar": "الأرجنتين"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Portugal", "ar": "البرتغال"},
-      {"en": "Uruguay", "ar": "الأوروجواي"}
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Portugal",
+        "ar": "البرتغال"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Uruguay",
+        "ar": "الأوروجواي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Pelé is a Brazilian legend and a three-time World Cup winner.",
     "explanation_ar": "بيليه أسطورة برازيلية وفاز بكأس العالم 3 مرات."
   },
@@ -587,12 +971,24 @@
     "question_en": "In which city is the Real Madrid club based?",
     "question_ar": "ريال مدريد أساسه في أنهي مدينة؟",
     "options": [
-      {"en": "Barcelona", "ar": "برشلونة"},
-      {"en": "Seville", "ar": "إشبيلية"},
-      {"en": "Madrid", "ar": "مدريد"},
-      {"en": "Valencia", "ar": "فالنسيا"}
+      {
+        "en": "Madrid",
+        "ar": "مدريد"
+      },
+      {
+        "en": "Seville",
+        "ar": "إشبيلية"
+      },
+      {
+        "en": "Barcelona",
+        "ar": "برشلونة"
+      },
+      {
+        "en": "Valencia",
+        "ar": "فالنسيا"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Real Madrid is based in the Spanish capital, Madrid.",
     "explanation_ar": "ريال مدريد أساسه في مدريد عاصمة إسبانيا."
   },
@@ -605,10 +1001,22 @@
     "question_en": "In which city is FC Barcelona based?",
     "question_ar": "برشلونة أساسه في أنهي مدينة؟",
     "options": [
-      {"en": "Madrid", "ar": "مدريد"},
-      {"en": "Barcelona", "ar": "برشلونة"},
-      {"en": "Bilbao", "ar": "بلباو"},
-      {"en": "Valencia", "ar": "فالنسيا"}
+      {
+        "en": "Bilbao",
+        "ar": "بلباو"
+      },
+      {
+        "en": "Barcelona",
+        "ar": "برشلونة"
+      },
+      {
+        "en": "Valencia",
+        "ar": "فالنسيا"
+      },
+      {
+        "en": "Madrid",
+        "ar": "مدريد"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "FC Barcelona is based in the city of Barcelona, Spain.",
@@ -623,12 +1031,24 @@
     "question_en": "The UEFA Champions League is the top club competition for teams from which continent?",
     "question_ar": "دوري أبطال أوروبا هو أهم بطولة أندية في أنهي قارة؟",
     "options": [
-      {"en": "Europe", "ar": "أوروبا"},
-      {"en": "Asia", "ar": "آسيا"},
-      {"en": "Africa", "ar": "أفريقيا"},
-      {"en": "South America", "ar": "أمريكا الجنوبية"}
+      {
+        "en": "Africa",
+        "ar": "أفريقيا"
+      },
+      {
+        "en": "South America",
+        "ar": "أمريكا الجنوبية"
+      },
+      {
+        "en": "Asia",
+        "ar": "آسيا"
+      },
+      {
+        "en": "Europe",
+        "ar": "أوروبا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The Champions League is Europe's top club competition.",
     "explanation_ar": "دوري أبطال أوروبا هو أهم بطولة أندية أوروبية."
   },
@@ -641,12 +1061,24 @@
     "question_en": "How long is a standard football match (excluding stoppage time)?",
     "question_ar": "المباراة العادية في كورة القدم بتاخد كام دقيقة (من غير الوقت البدل ضايع)؟",
     "options": [
-      {"en": "60 minutes", "ar": "60 دقيقة"},
-      {"en": "90 minutes", "ar": "90 دقيقة"},
-      {"en": "120 minutes", "ar": "120 دقيقة"},
-      {"en": "45 minutes", "ar": "45 دقيقة"}
+      {
+        "en": "120 minutes",
+        "ar": "120 دقيقة"
+      },
+      {
+        "en": "45 minutes",
+        "ar": "45 دقيقة"
+      },
+      {
+        "en": "90 minutes",
+        "ar": "90 دقيقة"
+      },
+      {
+        "en": "60 minutes",
+        "ar": "60 دقيقة"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "A standard football match lasts 90 minutes, split into two halves.",
     "explanation_ar": "المباراة العادية بتاخد 90 دقيقة، مقسومة على شوطين."
   },
@@ -659,12 +1091,24 @@
     "question_en": "What does a yellow card mean for a player in football?",
     "question_ar": "الكارت الأصفر معناه إيه للاعب في الكورة؟",
     "options": [
-      {"en": "He is sent off", "ar": "بيتطرد من الملعب"},
-      {"en": "He receives a warning", "ar": "بياخد إنذار"},
-      {"en": "He scores a goal", "ar": "بيسجل جون"},
-      {"en": "He wins the match", "ar": "بيكسب الماتش"}
+      {
+        "en": "He wins the match",
+        "ar": "بيكسب الماتش"
+      },
+      {
+        "en": "He is sent off",
+        "ar": "بيتطرد من الملعب"
+      },
+      {
+        "en": "He scores a goal",
+        "ar": "بيسجل جون"
+      },
+      {
+        "en": "He receives a warning",
+        "ar": "بياخد إنذار"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "A yellow card is an official warning to a player.",
     "explanation_ar": "الكارت الأصفر هو إنذار رسمي للاعب."
   },
@@ -677,12 +1121,24 @@
     "question_en": "What happens to a player who receives a red card?",
     "question_ar": "بيحصل إيه للاعب لما ياخد كارت أحمر؟",
     "options": [
-      {"en": "He gets a warning only", "ar": "بياخد إنذار بس"},
-      {"en": "He is sent off the pitch", "ar": "بيتطرد من الملعب"},
-      {"en": "He must take a penalty", "ar": "لازم يضرب ضربة جزاء"},
-      {"en": "Nothing happens", "ar": "مفيش حاجة بتحصل"}
+      {
+        "en": "Nothing happens",
+        "ar": "مفيش حاجة بتحصل"
+      },
+      {
+        "en": "He gets a warning only",
+        "ar": "بياخد إنذار بس"
+      },
+      {
+        "en": "He is sent off the pitch",
+        "ar": "بيتطرد من الملعب"
+      },
+      {
+        "en": "He must take a penalty",
+        "ar": "لازم يضرب ضربة جزاء"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "A red card means the player is sent off and cannot continue playing.",
     "explanation_ar": "الكارت الأحمر معناه إن اللاعب بيتطرد ومينفعش يكمل يلعب."
   },
@@ -695,12 +1151,24 @@
     "question_en": "Which player is famously known as \"CR7\"?",
     "question_ar": "أنهي لاعب معروف بلقب \"CR7\"؟",
     "options": [
-      {"en": "Lionel Messi", "ar": "ليونيل ميسي"},
-      {"en": "Cristiano Ronaldo", "ar": "كريستيانو رونالدو"},
-      {"en": "Neymar", "ar": "نيمار"},
-      {"en": "Kylian Mbappé", "ar": "كيليان مبابي"}
+      {
+        "en": "Kylian Mbappé",
+        "ar": "كيليان مبابي"
+      },
+      {
+        "en": "Lionel Messi",
+        "ar": "ليونيل ميسي"
+      },
+      {
+        "en": "Cristiano Ronaldo",
+        "ar": "كريستيانو رونالدو"
+      },
+      {
+        "en": "Neymar",
+        "ar": "نيمار"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Cristiano Ronaldo is universally known by his nickname \"CR7.\"",
     "explanation_ar": "كريستيانو رونالدو معروف عالميًا بلقب \"CR7\"."
   },
@@ -713,10 +1181,22 @@
     "question_en": "What is the name of England's top professional football league?",
     "question_ar": "إيه اسم أعلى دوري لكرة القدم في إنجلترا؟",
     "options": [
-      {"en": "La Liga", "ar": "الليجا"},
-      {"en": "Serie A", "ar": "السيري أ"},
-      {"en": "Premier League", "ar": "البريميرليج"},
-      {"en": "Bundesliga", "ar": "البوندسليجا"}
+      {
+        "en": "La Liga",
+        "ar": "الليجا"
+      },
+      {
+        "en": "Bundesliga",
+        "ar": "البوندسليجا"
+      },
+      {
+        "en": "Premier League",
+        "ar": "البريميرليج"
+      },
+      {
+        "en": "Serie A",
+        "ar": "السيري أ"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "England's top division is called the Premier League.",
@@ -731,10 +1211,22 @@
     "question_en": "What is the name of Spain's top professional football league?",
     "question_ar": "إيه اسم أعلى دوري لكرة القدم في إسبانيا؟",
     "options": [
-      {"en": "La Liga", "ar": "الليجا"},
-      {"en": "Premier League", "ar": "البريميرليج"},
-      {"en": "Ligue 1", "ar": "الليج 1"},
-      {"en": "Serie A", "ar": "السيري أ"}
+      {
+        "en": "La Liga",
+        "ar": "الليجا"
+      },
+      {
+        "en": "Premier League",
+        "ar": "البريميرليج"
+      },
+      {
+        "en": "Ligue 1",
+        "ar": "الليج 1"
+      },
+      {
+        "en": "Serie A",
+        "ar": "السيري أ"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Spain's top division is called La Liga.",
@@ -749,12 +1241,24 @@
     "question_en": "What is the name of Italy's top professional football league?",
     "question_ar": "إيه اسم أعلى دوري لكرة القدم في إيطاليا؟",
     "options": [
-      {"en": "Bundesliga", "ar": "البوندسليجا"},
-      {"en": "La Liga", "ar": "الليجا"},
-      {"en": "Ligue 1", "ar": "الليج 1"},
-      {"en": "Serie A", "ar": "السيري أ"}
+      {
+        "en": "Serie A",
+        "ar": "السيري أ"
+      },
+      {
+        "en": "La Liga",
+        "ar": "الليجا"
+      },
+      {
+        "en": "Bundesliga",
+        "ar": "البوندسليجا"
+      },
+      {
+        "en": "Ligue 1",
+        "ar": "الليج 1"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Italy's top division is called Serie A.",
     "explanation_ar": "أعلى دوري في إيطاليا اسمه السيري أ."
   },
@@ -767,12 +1271,24 @@
     "question_en": "What is the name of Germany's top professional football league?",
     "question_ar": "إيه اسم أعلى دوري لكرة القدم في ألمانيا؟",
     "options": [
-      {"en": "Bundesliga", "ar": "البوندسليجا"},
-      {"en": "Serie A", "ar": "السيري أ"},
-      {"en": "La Liga", "ar": "الليجا"},
-      {"en": "Premier League", "ar": "البريميرليج"}
+      {
+        "en": "Serie A",
+        "ar": "السيري أ"
+      },
+      {
+        "en": "La Liga",
+        "ar": "الليجا"
+      },
+      {
+        "en": "Premier League",
+        "ar": "البريميرليج"
+      },
+      {
+        "en": "Bundesliga",
+        "ar": "البوندسليجا"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Germany's top division is called the Bundesliga.",
     "explanation_ar": "أعلى دوري في ألمانيا اسمه البوندسليجا."
   },
@@ -785,12 +1301,24 @@
     "question_en": "Which player is famously nicknamed \"The GOAT\" alongside Cristiano Ronaldo, having won multiple World Cups and Ballon d'Ors?",
     "question_ar": "أنهي لاعب بيتنافس مع رونالدو على لقب \"أعظم لاعب في التاريخ\" وفاز بكأس العالم وبالونات دور كتير؟",
     "options": [
-      {"en": "Neymar", "ar": "نيمار"},
-      {"en": "Lionel Messi", "ar": "ليونيل ميسي"},
-      {"en": "Kylian Mbappé", "ar": "كيليان مبابي"},
-      {"en": "Luka Modrić", "ar": "لوكا مودريتش"}
+      {
+        "en": "Lionel Messi",
+        "ar": "ليونيل ميسي"
+      },
+      {
+        "en": "Luka Modrić",
+        "ar": "لوكا مودريتش"
+      },
+      {
+        "en": "Neymar",
+        "ar": "نيمار"
+      },
+      {
+        "en": "Kylian Mbappé",
+        "ar": "كيليان مبابي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Lionel Messi is widely considered one of the greatest players ever, alongside Ronaldo.",
     "explanation_ar": "ليونيل ميسي من أعظم لاعبين في التاريخ زي رونالدو."
   },
@@ -803,12 +1331,24 @@
     "question_en": "Neymar, a football superstar, comes from which country?",
     "question_ar": "نيمار، نجم الكورة الشهير، أصله من أنهي دولة؟",
     "options": [
-      {"en": "Argentina", "ar": "الأرجنتين"},
-      {"en": "Portugal", "ar": "البرتغال"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Colombia", "ar": "كولومبيا"}
+      {
+        "en": "Colombia",
+        "ar": "كولومبيا"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Portugal",
+        "ar": "البرتغال"
+      },
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Neymar is one of Brazil's biggest football stars.",
     "explanation_ar": "نيمار واحد من أشهر نجوم الكورة في البرازيل."
   },
@@ -821,10 +1361,22 @@
     "question_en": "Kylian Mbappé, a football superstar, comes from which country?",
     "question_ar": "كيليان مبابي، نجم الكورة الشهير، أصله من أنهي دولة؟",
     "options": [
-      {"en": "France", "ar": "فرنسا"},
-      {"en": "Belgium", "ar": "بلجيكا"},
-      {"en": "Portugal", "ar": "البرتغال"},
-      {"en": "Spain", "ar": "إسبانيا"}
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "Belgium",
+        "ar": "بلجيكا"
+      },
+      {
+        "en": "Portugal",
+        "ar": "البرتغال"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Kylian Mbappé is a French football superstar.",
@@ -839,12 +1391,24 @@
     "question_en": "Which player, before joining Inter Miami, spent most of his career at FC Barcelona?",
     "question_ar": "أنهي لاعب، قبل ما ينضم لإنتر ميامي، قضى معظم مشواره في برشلونة؟",
     "options": [
-      {"en": "Cristiano Ronaldo", "ar": "كريستيانو رونالدو"},
-      {"en": "Neymar", "ar": "نيمار"},
-      {"en": "Lionel Messi", "ar": "ليونيل ميسي"},
-      {"en": "Luis Suárez", "ar": "لويس سواريز"}
+      {
+        "en": "Cristiano Ronaldo",
+        "ar": "كريستيانو رونالدو"
+      },
+      {
+        "en": "Neymar",
+        "ar": "نيمار"
+      },
+      {
+        "en": "Luis Suárez",
+        "ar": "لويس سواريز"
+      },
+      {
+        "en": "Lionel Messi",
+        "ar": "ليونيل ميسي"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Lionel Messi spent almost two decades at Barcelona before later joining Inter Miami.",
     "explanation_ar": "ليونيل ميسي قضى قرابة عشرين سنة في برشلونة قبل ما ينضم لإنتر ميامي.",
     "verified_as_of": "2025-06"
@@ -858,12 +1422,24 @@
     "question_en": "Which player is famous for scoring free-kicks and penalties for Portugal and Real Madrid/Manchester United?",
     "question_ar": "أنهي لاعب مشهور بتسجيل الضربات الحرة والجزاء لمنتخب البرتغال وريال مدريد/مانشستر يونايتد؟",
     "options": [
-      {"en": "Cristiano Ronaldo", "ar": "كريستيانو رونالدو"},
-      {"en": "Lionel Messi", "ar": "ليونيل ميسي"},
-      {"en": "Neymar", "ar": "نيمار"},
-      {"en": "Zlatan Ibrahimović", "ar": "زلاتان إبراهيموفيتش"}
+      {
+        "en": "Neymar",
+        "ar": "نيمار"
+      },
+      {
+        "en": "Lionel Messi",
+        "ar": "ليونيل ميسي"
+      },
+      {
+        "en": "Cristiano Ronaldo",
+        "ar": "كريستيانو رونالدو"
+      },
+      {
+        "en": "Zlatan Ibrahimović",
+        "ar": "زلاتان إبراهيموفيتش"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Cristiano Ronaldo is world-famous for his powerful free-kicks and penalties.",
     "explanation_ar": "كريستيانو رونالدو مشهور عالميًا بضرباته الحرة وركلات الجزاء."
   },
@@ -876,10 +1452,22 @@
     "question_en": "In football, what is a \"goalkeeper\" mainly responsible for?",
     "question_ar": "حارس المرمى في الكورة مسؤول عن إيه أساسًا؟",
     "options": [
-      {"en": "Scoring goals", "ar": "تسجيل الأهداف"},
-      {"en": "Stopping the ball from entering the net", "ar": "منع الكورة من دخول الشباك"},
-      {"en": "Taking corner kicks", "ar": "ضرب الكورنر"},
-      {"en": "Refereeing the match", "ar": "تحكيم المباراة"}
+      {
+        "en": "Refereeing the match",
+        "ar": "تحكيم المباراة"
+      },
+      {
+        "en": "Stopping the ball from entering the net",
+        "ar": "منع الكورة من دخول الشباك"
+      },
+      {
+        "en": "Taking corner kicks",
+        "ar": "ضرب الكورنر"
+      },
+      {
+        "en": "Scoring goals",
+        "ar": "تسجيل الأهداف"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "The goalkeeper's main job is to stop the ball from entering the goal.",
@@ -894,12 +1482,24 @@
     "question_en": "What is the biggest and most prestigious trophy in international football?",
     "question_ar": "إيه أكبر وأهم كأس في الكورة الدولية؟",
     "options": [
-      {"en": "The Champions League", "ar": "دوري أبطال أوروبا"},
-      {"en": "The World Cup", "ar": "كأس العالم"},
-      {"en": "The Africa Cup of Nations", "ar": "كأس أمم أفريقيا"},
-      {"en": "The Ballon d'Or", "ar": "الكرة الدهبية"}
+      {
+        "en": "The Africa Cup of Nations",
+        "ar": "كأس أمم أفريقيا"
+      },
+      {
+        "en": "The Champions League",
+        "ar": "دوري أبطال أوروبا"
+      },
+      {
+        "en": "The World Cup",
+        "ar": "كأس العالم"
+      },
+      {
+        "en": "The Ballon d'Or",
+        "ar": "الكرة الدهبية"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "The FIFA World Cup is football's biggest and most prestigious international trophy.",
     "explanation_ar": "كأس العالم هو أكبر وأهم كأس في الكورة الدولية."
   }

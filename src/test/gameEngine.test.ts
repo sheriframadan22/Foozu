@@ -121,8 +121,8 @@ describe('gameEngine — level and category rules', () => {
 
   it('cannot reuse a category/value slot already answered in this game', () => {
     let state = engine.startGame('No Reuse');
+    expect(engine.canSelectCategory(state, CAT[0])).toBe(true); // selectable before it's used
     state = engine.selectCategory(state, CAT[0]);
-    expect(engine.canSelectCategory(state, CAT[0])).toBe(true);
     state = engine.recordAnswer(state, 0);
     state = engine.reveal(state);
     state = engine.confirmOutcome(state, true);

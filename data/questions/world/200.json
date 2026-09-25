@@ -9,6 +9,10 @@
     "question_ar": "أنهي بلد فيه أهرامات أكتر من مصر فعليًا، حوالي 200 هرم نوبي؟",
     "options": [
       {
+        "en": "Chad",
+        "ar": "تشاد"
+      },
+      {
         "en": "Sudan",
         "ar": "السودان"
       },
@@ -19,13 +23,9 @@
       {
         "en": "Libya",
         "ar": "ليبيا"
-      },
-      {
-        "en": "Chad",
-        "ar": "تشاد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Sudan has far more pyramids than Egypt, built by the ancient kingdom of Kush.",
     "explanation_ar": "السودان فيه أهرامات أكتر بكتير من مصر، اتبنت على يد مملكة كوش القديمة."
   },
@@ -39,23 +39,23 @@
     "question_ar": "اسم السودان بالعربي 'بلاد السودان' معناه إيه بالظبط؟",
     "options": [
       {
-        "en": "Land of gold",
-        "ar": "بلاد الذهب"
-      },
-      {
         "en": "Land of the Blacks",
         "ar": "بلاد السود"
       },
       {
-        "en": "Land of rivers",
-        "ar": "بلاد الأنهار"
+        "en": "Land of gold",
+        "ar": "بلاد الذهب"
       },
       {
         "en": "Land of the Nile",
         "ar": "بلاد النيل"
+      },
+      {
+        "en": "Land of rivers",
+        "ar": "بلاد الأنهار"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "'Bilad al-Sudan' means 'Land of the Blacks', referring to the region south of the Sahara.",
     "explanation_ar": "'بلاد السودان' معناها 'بلاد السود'، وده بيشير للمنطقة اللي جنوب الصحرا الكبرى."
   },
@@ -73,16 +73,16 @@
         "ar": "ليبيا"
       },
       {
-        "en": "Syria",
-        "ar": "سوريا"
+        "en": "Yemen",
+        "ar": "اليمن"
       },
       {
         "en": "Sudan",
         "ar": "السودان"
       },
       {
-        "en": "Yemen",
-        "ar": "اليمن"
+        "en": "Syria",
+        "ar": "سوريا"
       }
     ],
     "correctAnswer": 0,
@@ -99,8 +99,8 @@
     "question_ar": "قبل ما تتسمى الأقصر باسمها الحالي، كانت المدينة دي عاصمة مصر القديمة باسم تاني، إيه كان الاسم ده؟",
     "options": [
       {
-        "en": "Memphis",
-        "ar": "منف"
+        "en": "Elephantine",
+        "ar": "الفنتين"
       },
       {
         "en": "Thebes",
@@ -111,8 +111,8 @@
         "ar": "عين شمس"
       },
       {
-        "en": "Elephantine",
-        "ar": "الفنتين"
+        "en": "Memphis",
+        "ar": "منف"
       }
     ],
     "correctAnswer": 1,
@@ -159,23 +159,23 @@
     "question_ar": "عاصمة السودان، الخرطوم، موجودة بالظبط عند التقاء أنهي نهرين؟",
     "options": [
       {
-        "en": "The Blue Nile and White Nile",
-        "ar": "النيل الأزرق والنيل الأبيض"
-      },
-      {
-        "en": "The Tigris and Euphrates",
-        "ar": "دجلة والفرات"
-      },
-      {
         "en": "The Niger and Congo",
         "ar": "النيجر والكونغو"
       },
       {
         "en": "The Zambezi and Limpopo",
         "ar": "الزامبيزي والليمبوبو"
+      },
+      {
+        "en": "The Blue Nile and White Nile",
+        "ar": "النيل الأزرق والنيل الأبيض"
+      },
+      {
+        "en": "The Tigris and Euphrates",
+        "ar": "دجلة والفرات"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Khartoum sits precisely where the Blue Nile and White Nile merge to form the main Nile.",
     "explanation_ar": "الخرطوم موجودة بالظبط في نقطة التقاء النيل الأزرق بالنيل الأبيض ليتكوّن نهر النيل الرئيسي."
   },
@@ -189,23 +189,23 @@
     "question_ar": "المدينة القديمة في صنعاء مشهورة ببيوتها البرجية اللي عمرها أكتر من 1000 سنة، مبنية من إيه؟",
     "options": [
       {
-        "en": "Rammed earth and mud brick",
-        "ar": "الطين المدكوك والطوب اللبن"
-      },
-      {
-        "en": "Coral stone",
-        "ar": "حجر مرجاني"
-      },
-      {
         "en": "Carved white marble",
         "ar": "رخام أبيض منحوت"
       },
       {
         "en": "Cedar wood",
         "ar": "خشب الأرز"
+      },
+      {
+        "en": "Coral stone",
+        "ar": "حجر مرجاني"
+      },
+      {
+        "en": "Rammed earth and mud brick",
+        "ar": "الطين المدكوك والطوب اللبن"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Sana'a's tower houses are built from rammed earth and mud brick, some standing over 1,000 years.",
     "explanation_ar": "بيوت صنعاء البرجية مبنية من الطين المدكوك والطوب اللبن، وبعضها عمره أكتر من 1000 سنة."
   },
@@ -219,6 +219,10 @@
     "question_ar": "سد مأرب القديم، من أعظم الإنجازات الهندسية القديمة، بنته مملكة سبأ في أنهي بلد حالي؟",
     "options": [
       {
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
+      },
+      {
         "en": "Yemen",
         "ar": "اليمن"
       },
@@ -227,15 +231,11 @@
         "ar": "عُمان"
       },
       {
-        "en": "Saudi Arabia",
-        "ar": "السعودية"
-      },
-      {
         "en": "Jordan",
         "ar": "الأردن"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Marib Dam was built in ancient Yemen by the Sabaean kingdom around the 8th century BC.",
     "explanation_ar": "سد مأرب اتبنى في اليمن القديمة على يد مملكة سبأ حوالي القرن الثامن قبل الميلاد."
   },
@@ -249,23 +249,23 @@
     "question_ar": "أنهي دولة خليجية صغيرة من أعلى دول العالم في نصيب الفرد من الناتج المحلي، وده بسبب صادرات الغاز الطبيعي؟",
     "options": [
       {
-        "en": "Bahrain",
-        "ar": "البحرين"
-      },
-      {
-        "en": "Qatar",
-        "ar": "قطر"
-      },
-      {
         "en": "Oman",
         "ar": "عُمان"
       },
       {
         "en": "Jordan",
         "ar": "الأردن"
+      },
+      {
+        "en": "Bahrain",
+        "ar": "البحرين"
+      },
+      {
+        "en": "Qatar",
+        "ar": "قطر"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Qatar's massive natural gas reserves give it one of the world's highest GDP per capita figures.",
     "explanation_ar": "احتياطي الغاز الطبيعي الضخم في قطر بيخليها من أعلى دول العالم في نصيب الفرد من الناتج المحلي.",
     "verified_as_of": "2025-01"
@@ -280,6 +280,10 @@
     "question_ar": "قبل ما تتكوّن دولة الإمارات سنة 1971، الإمارات السبعة كانت معروفة باسم إيه؟",
     "options": [
       {
+        "en": "The Coastal Sheikhdoms",
+        "ar": "مشيخات الساحل"
+      },
+      {
         "en": "The Trucial States",
         "ar": "إمارات الساحل المتصالح"
       },
@@ -288,15 +292,11 @@
         "ar": "محميات الخليج"
       },
       {
-        "en": "The Coastal Sheikhdoms",
-        "ar": "مشيخات الساحل"
-      },
-      {
         "en": "The Federal Emirates",
         "ar": "الإمارات الفيدرالية"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The emirates were known as the Trucial States before they united to form the UAE.",
     "explanation_ar": "الإمارات كانت معروفة باسم إمارات الساحل المتصالح قبل ما تتحد في دولة الإمارات."
   },
@@ -314,16 +314,16 @@
         "ar": "البحرين"
       },
       {
-        "en": "Kuwait",
-        "ar": "الكويت"
-      },
-      {
         "en": "Qatar",
         "ar": "قطر"
       },
       {
         "en": "UAE",
         "ar": "الإمارات"
+      },
+      {
+        "en": "Kuwait",
+        "ar": "الكويت"
       }
     ],
     "correctAnswer": 0,
@@ -340,23 +340,23 @@
     "question_ar": "آثار بابل القديمة، اللي فيها الحدائق المعلقة الأسطورية، موجودة في أنهي بلد حديث؟",
     "options": [
       {
-        "en": "Iran",
-        "ar": "إيران"
-      },
-      {
-        "en": "Iraq",
-        "ar": "العراق"
+        "en": "Turkey",
+        "ar": "تركيا"
       },
       {
         "en": "Syria",
         "ar": "سوريا"
       },
       {
-        "en": "Turkey",
-        "ar": "تركيا"
+        "en": "Iraq",
+        "ar": "العراق"
+      },
+      {
+        "en": "Iran",
+        "ar": "إيران"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Babylon's ruins lie south of Baghdad in modern Iraq.",
     "explanation_ar": "آثار بابل موجودة جنوب بغداد في العراق الحديث."
   },
@@ -370,12 +370,12 @@
     "question_ar": "مدينة أور السومرية القديمة، من أقدم المدن في تاريخ البشرية، موجودة في أنهي بلد حديث؟",
     "options": [
       {
-        "en": "Iraq",
-        "ar": "العراق"
-      },
-      {
         "en": "Iran",
         "ar": "إيران"
+      },
+      {
+        "en": "Iraq",
+        "ar": "العراق"
       },
       {
         "en": "Kuwait",
@@ -386,7 +386,7 @@
         "ar": "سوريا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The ruins of Ur are located in southern Iraq.",
     "explanation_ar": "آثار مدينة أور موجودة في جنوب العراق."
   },
@@ -400,16 +400,16 @@
     "question_ar": "الكويت استقلت بالكامل عن بريطانيا في أنهي سنة؟",
     "options": [
       {
-        "en": "1951",
-        "ar": "1951"
+        "en": "1971",
+        "ar": "1971"
       },
       {
         "en": "1961",
         "ar": "1961"
       },
       {
-        "en": "1971",
-        "ar": "1971"
+        "en": "1951",
+        "ar": "1951"
       },
       {
         "en": "1932",
@@ -430,23 +430,23 @@
     "question_ar": "جامع القيروان الكبير، من أقدم وأهم المساجد في العالم الإسلامي، موجود في أنهي بلد؟",
     "options": [
       {
-        "en": "Tunisia",
-        "ar": "تونس"
-      },
-      {
-        "en": "Algeria",
-        "ar": "الجزائر"
-      },
-      {
         "en": "Morocco",
         "ar": "المغرب"
       },
       {
         "en": "Libya",
         "ar": "ليبيا"
+      },
+      {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      },
+      {
+        "en": "Tunisia",
+        "ar": "تونس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The Great Mosque of Kairouan, founded in the 7th century, is in Tunisia.",
     "explanation_ar": "جامع القيروان الكبير، اللي اتأسس في القرن السابع، موجود في تونس."
   },
@@ -460,8 +460,8 @@
     "question_ar": "لبدة الكبرى، من أفضل مواقع الآثار الرومانية المحفوظة في العالم، موجودة في أنهي بلد؟",
     "options": [
       {
-        "en": "Tunisia",
-        "ar": "تونس"
+        "en": "Egypt",
+        "ar": "مصر"
       },
       {
         "en": "Libya",
@@ -472,8 +472,8 @@
         "ar": "الجزائر"
       },
       {
-        "en": "Egypt",
-        "ar": "مصر"
+        "en": "Tunisia",
+        "ar": "تونس"
       }
     ],
     "correctAnswer": 1,
@@ -490,8 +490,8 @@
     "question_ar": "تدمر، المدينة الأثرية الشهيرة بأعمدتها الحجرية وسط الصحرا، موجودة في أنهي بلد؟",
     "options": [
       {
-        "en": "Jordan",
-        "ar": "الأردن"
+        "en": "Lebanon",
+        "ar": "لبنان"
       },
       {
         "en": "Syria",
@@ -502,8 +502,8 @@
         "ar": "العراق"
       },
       {
-        "en": "Lebanon",
-        "ar": "لبنان"
+        "en": "Jordan",
+        "ar": "الأردن"
       }
     ],
     "correctAnswer": 1,
@@ -520,23 +520,23 @@
     "question_ar": "بعلبك، اللي فيها بعض أكبر وأحسن معابد رومانية محفوظة اتبنت في التاريخ، موجودة في أنهي بلد؟",
     "options": [
       {
-        "en": "Lebanon",
-        "ar": "لبنان"
-      },
-      {
         "en": "Syria",
         "ar": "سوريا"
+      },
+      {
+        "en": "Turkey",
+        "ar": "تركيا"
       },
       {
         "en": "Jordan",
         "ar": "الأردن"
       },
       {
-        "en": "Turkey",
-        "ar": "تركيا"
+        "en": "Lebanon",
+        "ar": "لبنان"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Baalbek in Lebanon holds some of the largest Roman temple ruins in the world.",
     "explanation_ar": "بعلبك في لبنان فيها بعض أكبر المعابد الرومانية المحفوظة في العالم."
   },
@@ -550,10 +550,6 @@
     "question_ar": "بحيرة عسل، أخفض نقطة في أفريقيا وواحدة من أملح البحيرات على وجه الأرض، موجودة في أنهي بلد؟",
     "options": [
       {
-        "en": "Djibouti",
-        "ar": "جيبوتي"
-      },
-      {
         "en": "Eritrea",
         "ar": "إريتريا"
       },
@@ -564,9 +560,13 @@
       {
         "en": "Sudan",
         "ar": "السودان"
+      },
+      {
+        "en": "Djibouti",
+        "ar": "جيبوتي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Lake Assal in Djibouti is the lowest point in Africa and among the saltiest lakes in the world.",
     "explanation_ar": "بحيرة عسل في جيبوتي هي أخفض نقطة في أفريقيا ومن أملح البحيرات في العالم."
   },
@@ -580,23 +580,23 @@
     "question_ar": "فاس البالي، المدينة القديمة المسوّرة في أنهي مدينة مغربية، بتتعتبر أكبر منطقة حضرية خالية من السيارات في العالم؟",
     "options": [
       {
-        "en": "Marrakesh",
-        "ar": "مراكش"
-      },
-      {
-        "en": "Fez",
-        "ar": "فاس"
+        "en": "Meknes",
+        "ar": "مكناس"
       },
       {
         "en": "Rabat",
         "ar": "الرباط"
       },
       {
-        "en": "Meknes",
-        "ar": "مكناس"
+        "en": "Fez",
+        "ar": "فاس"
+      },
+      {
+        "en": "Marrakesh",
+        "ar": "مراكش"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Fez's ancient medina, Fez el Bali, is believed to be the world's largest car-free urban area.",
     "explanation_ar": "المدينة القديمة في فاس، فاس البالي، بيُعتقد إنها أكبر منطقة حضرية خالية من السيارات في العالم."
   },
@@ -614,19 +614,19 @@
         "ar": "بيزنطة"
       },
       {
-        "en": "Constantinople",
-        "ar": "القسطنطينية"
-      },
-      {
         "en": "Nicaea",
         "ar": "نيقية"
       },
       {
         "en": "Antioch",
         "ar": "أنطاكية"
+      },
+      {
+        "en": "Constantinople",
+        "ar": "القسطنطينية"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The city was known as Constantinople for centuries before being officially renamed Istanbul in 1930.",
     "explanation_ar": "المدينة كانت معروفة باسم القسطنطينية لمئات السنين قبل ما تتغير رسميًا لإسطنبول سنة 1930."
   },
@@ -640,8 +640,8 @@
     "question_ar": "مومباي، العاصمة المالية للهند، كانت معروفة باسم إيه في فترة الاستعمار البريطاني؟",
     "options": [
       {
-        "en": "Bombay",
-        "ar": "بومباي"
+        "en": "Bangalore",
+        "ar": "بنجالور"
       },
       {
         "en": "Calcutta",
@@ -652,11 +652,11 @@
         "ar": "مدراس"
       },
       {
-        "en": "Bangalore",
-        "ar": "بنجالور"
+        "en": "Bombay",
+        "ar": "بومباي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Mumbai was officially known as Bombay until it was renamed in 1995.",
     "explanation_ar": "مومباي كانت معروفة رسميًا باسم بومباي لحد ما اتغير اسمها سنة 1995."
   },
@@ -670,10 +670,6 @@
     "question_ar": "زيمبابوي كان اسمها إيه قبل ما تستقل سنة 1980؟",
     "options": [
       {
-        "en": "Rhodesia",
-        "ar": "روديسيا"
-      },
-      {
         "en": "Nyasaland",
         "ar": "نياسالاند"
       },
@@ -682,11 +678,15 @@
         "ar": "بيتشوانالاند"
       },
       {
+        "en": "Rhodesia",
+        "ar": "روديسيا"
+      },
+      {
         "en": "Basutoland",
         "ar": "باسوتولاند"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Zimbabwe was called Rhodesia before its independence in 1980.",
     "explanation_ar": "زيمبابوي كان اسمها روديسيا قبل استقلالها سنة 1980."
   },
@@ -700,8 +700,8 @@
     "question_ar": "مدينة هوشي منه، أكبر مدينة في فيتنام، كان اسمها إيه قديمًا؟",
     "options": [
       {
-        "en": "Hanoi",
-        "ar": "هانوي"
+        "en": "Da Nang",
+        "ar": "دا نانج"
       },
       {
         "en": "Saigon",
@@ -712,8 +712,8 @@
         "ar": "هوي"
       },
       {
-        "en": "Da Nang",
-        "ar": "دا نانج"
+        "en": "Hanoi",
+        "ar": "هانوي"
       }
     ],
     "correctAnswer": 1,
@@ -730,23 +730,23 @@
     "question_ar": "مدينة نيويورك اتأسست في الأول وكان اسمها إيه في فترة الاستعمار الهولندي؟",
     "options": [
       {
-        "en": "New Amsterdam",
-        "ar": "نيو أمستردام"
+        "en": "New Haarlem",
+        "ar": "نيو هارلم"
       },
       {
         "en": "New Rotterdam",
         "ar": "نيو روتردام"
       },
       {
-        "en": "New Haarlem",
-        "ar": "نيو هارلم"
-      },
-      {
         "en": "New Delft",
         "ar": "نيو دلفت"
+      },
+      {
+        "en": "New Amsterdam",
+        "ar": "نيو أمستردام"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "New York was founded as New Amsterdam by the Dutch before becoming a British colony.",
     "explanation_ar": "نيويورك اتأسست باسم نيو أمستردام على يد الهولنديين قبل ما تبقى مستعمرة بريطانية."
   },
@@ -760,10 +760,6 @@
     "question_ar": "إيه عاصمة بوتان؟",
     "options": [
       {
-        "en": "Thimphu",
-        "ar": "تيمفو"
-      },
-      {
         "en": "Paro",
         "ar": "بارو"
       },
@@ -772,11 +768,15 @@
         "ar": "بوناخا"
       },
       {
+        "en": "Thimphu",
+        "ar": "تيمفو"
+      },
+      {
         "en": "Phuntsholing",
         "ar": "فونتشولينج"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Thimphu is the capital of Bhutan.",
     "explanation_ar": "تيمفو عاصمة بوتان."
   },
@@ -794,19 +794,19 @@
         "ar": "جورجتاون"
       },
       {
-        "en": "Paramaribo",
-        "ar": "باراماريبو"
+        "en": "Bridgetown",
+        "ar": "بريدجتاون"
       },
       {
         "en": "Cayenne",
         "ar": "كايين"
       },
       {
-        "en": "Bridgetown",
-        "ar": "بريدجتاون"
+        "en": "Paramaribo",
+        "ar": "باراماريبو"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Paramaribo is the capital of Suriname.",
     "explanation_ar": "باراماريبو عاصمة سورينام."
   },
@@ -850,23 +850,23 @@
     "question_ar": "إيه عاصمة أذربيجان؟",
     "options": [
       {
-        "en": "Baku",
-        "ar": "باكو"
-      },
-      {
         "en": "Ganja",
         "ar": "جانجا"
       },
       {
-        "en": "Sumqayit",
-        "ar": "سومقايت"
+        "en": "Baku",
+        "ar": "باكو"
       },
       {
         "en": "Nakhchivan",
         "ar": "ناخيتشيفان"
+      },
+      {
+        "en": "Sumqayit",
+        "ar": "سومقايت"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Baku is the capital of Azerbaijan.",
     "explanation_ar": "باكو عاصمة أذربيجان."
   },
@@ -884,19 +884,19 @@
         "ar": "باتومي"
       },
       {
+        "en": "Gori",
+        "ar": "جوري"
+      },
+      {
         "en": "Tbilisi",
         "ar": "تبليسي"
       },
       {
         "en": "Kutaisi",
         "ar": "كوتايسي"
-      },
-      {
-        "en": "Gori",
-        "ar": "جوري"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Tbilisi is the capital of the country of Georgia.",
     "explanation_ar": "تبليسي عاصمة دولة جورجيا."
   },
@@ -910,12 +910,12 @@
     "question_ar": "إيه عاصمة أرمينيا؟",
     "options": [
       {
-        "en": "Gyumri",
-        "ar": "جيومري"
-      },
-      {
         "en": "Vanadzor",
         "ar": "فانادزور"
+      },
+      {
+        "en": "Gyumri",
+        "ar": "جيومري"
       },
       {
         "en": "Yerevan",
@@ -940,6 +940,10 @@
     "question_ar": "إيه عاصمة أوزبكستان؟",
     "options": [
       {
+        "en": "Tashkent",
+        "ar": "طشقند"
+      },
+      {
         "en": "Samarkand",
         "ar": "سمرقند"
       },
@@ -948,15 +952,11 @@
         "ar": "بخارى"
       },
       {
-        "en": "Tashkent",
-        "ar": "طشقند"
-      },
-      {
         "en": "Khiva",
         "ar": "خيوة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Tashkent is the capital of Uzbekistan.",
     "explanation_ar": "طشقند عاصمة أوزبكستان."
   },
@@ -970,23 +970,23 @@
     "question_ar": "إيه عاصمة تركمانستان؟",
     "options": [
       {
-        "en": "Ashgabat",
-        "ar": "عشق أباد"
-      },
-      {
         "en": "Mary",
         "ar": "ماري"
       },
       {
-        "en": "Turkmenbashi",
-        "ar": "تركمن باشي"
-      },
-      {
         "en": "Dashoguz",
         "ar": "داشوغوز"
+      },
+      {
+        "en": "Ashgabat",
+        "ar": "عشق أباد"
+      },
+      {
+        "en": "Turkmenbashi",
+        "ar": "تركمن باشي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Ashgabat is the capital of Turkmenistan.",
     "explanation_ar": "عشق أباد عاصمة تركمانستان."
   },
@@ -1000,8 +1000,8 @@
     "question_ar": "إيه أكبر دولة محاطة باليابسة تمامًا (من غير أي ساحل) في العالم؟",
     "options": [
       {
-        "en": "Mongolia",
-        "ar": "منغوليا"
+        "en": "Bolivia",
+        "ar": "بوليفيا"
       },
       {
         "en": "Kazakhstan",
@@ -1012,8 +1012,8 @@
         "ar": "تشاد"
       },
       {
-        "en": "Bolivia",
-        "ar": "بوليفيا"
+        "en": "Mongolia",
+        "ar": "منغوليا"
       }
     ],
     "correctAnswer": 1,
@@ -1030,23 +1030,23 @@
     "question_ar": "إيه الدولة الوحيدة في العالم اللي أراضيها ممتدة في الأربع نصفي كرة كلهم: شمال وجنوب وشرق وغرب؟",
     "options": [
       {
-        "en": "Kiribati",
-        "ar": "كيريباتي"
-      },
-      {
         "en": "Indonesia",
         "ar": "إندونيسيا"
       },
       {
-        "en": "Fiji",
-        "ar": "فيجي"
+        "en": "Kiribati",
+        "ar": "كيريباتي"
       },
       {
         "en": "Ecuador",
         "ar": "الإكوادور"
+      },
+      {
+        "en": "Fiji",
+        "ar": "فيجي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Kiribati's scattered islands cross both the equator and the international date line, placing it in all four hemispheres.",
     "explanation_ar": "جزر كيريباتي المتناثرة بتعدي خط الاستواء وخط التاريخ الدولي، وده بيحطها في الأربع نصفي كرة كلهم."
   },
@@ -1064,19 +1064,19 @@
         "ar": "إندونيسيا"
       },
       {
-        "en": "Canada",
-        "ar": "كندا"
-      },
-      {
         "en": "Russia",
         "ar": "روسيا"
+      },
+      {
+        "en": "Canada",
+        "ar": "كندا"
       },
       {
         "en": "Australia",
         "ar": "أستراليا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Canada has the longest coastline of any country, thanks to its many islands and inlets.",
     "explanation_ar": "كندا عندها أطول ساحل بين كل دول العالم بسبب كتر جزرها وخلجانها."
   },
@@ -1090,23 +1090,23 @@
     "question_ar": "علم أنهي دولة بيتعتبر بشكل عام أقدم تصميم علم مستخدم بشكل متواصل في العالم؟",
     "options": [
       {
-        "en": "Denmark",
-        "ar": "الدنمارك"
-      },
-      {
         "en": "Sweden",
         "ar": "السويد"
       },
       {
-        "en": "Austria",
-        "ar": "النمسا"
-      },
-      {
         "en": "Netherlands",
         "ar": "هولندا"
+      },
+      {
+        "en": "Denmark",
+        "ar": "الدنمارك"
+      },
+      {
+        "en": "Austria",
+        "ar": "النمسا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Denmark's flag, the Dannebrog, is considered the oldest continuously used national flag design.",
     "explanation_ar": "علم الدنمارك، المعروف باسم دانبروج، بيتعتبر أقدم تصميم علم وطني مستخدم بشكل متواصل."
   },
@@ -1120,8 +1120,8 @@
     "question_ar": "علم أنهي دولة هو الوحيد في العالم اللي مش شكله مستطيل؟",
     "options": [
       {
-        "en": "Nepal",
-        "ar": "نيبال"
+        "en": "Vatican City",
+        "ar": "الفاتيكان"
       },
       {
         "en": "Bhutan",
@@ -1132,11 +1132,11 @@
         "ar": "سويسرا"
       },
       {
-        "en": "Vatican City",
-        "ar": "الفاتيكان"
+        "en": "Nepal",
+        "ar": "نيبال"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Nepal's flag is made of two overlapping pennant shapes, making it the world's only non-rectangular national flag.",
     "explanation_ar": "علم نيبال مكوّن من شكلين مثلثين متداخلين، وده بيخليه العلم الوحيد في العالم اللي مش مستطيل."
   },
@@ -1150,12 +1150,12 @@
     "question_ar": "بحر قزوين، أكبر مسطح مائي داخلي في العالم، بيحده كام دولة؟",
     "options": [
       {
-        "en": "3",
-        "ar": "3"
-      },
-      {
         "en": "4",
         "ar": "4"
+      },
+      {
+        "en": "3",
+        "ar": "3"
       },
       {
         "en": "5",
@@ -1180,23 +1180,23 @@
     "question_ar": "إيه الدولة الأفريقية الوحيدة اللي بتلمس المحيط الأطلسي والمحيط الهندي مباشرة؟",
     "options": [
       {
-        "en": "Egypt",
-        "ar": "مصر"
-      },
-      {
-        "en": "South Africa",
-        "ar": "جنوب أفريقيا"
-      },
-      {
         "en": "Kenya",
         "ar": "كينيا"
       },
       {
         "en": "Morocco",
         "ar": "المغرب"
+      },
+      {
+        "en": "South Africa",
+        "ar": "جنوب أفريقيا"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "South Africa's coastline stretches to touch both the Atlantic and Indian Oceans.",
     "explanation_ar": "ساحل جنوب أفريقيا بيمتد لدرجة إنه بيلمس المحيط الأطلسي والمحيط الهندي مع بعض."
   },
@@ -1210,23 +1210,23 @@
     "question_ar": "أنهي دولة فيها أكبر عدد من البراكين النشطة في العالم؟",
     "options": [
       {
-        "en": "Japan",
-        "ar": "اليابان"
-      },
-      {
-        "en": "Indonesia",
-        "ar": "إندونيسيا"
-      },
-      {
         "en": "Philippines",
         "ar": "الفلبين"
       },
       {
+        "en": "Japan",
+        "ar": "اليابان"
+      },
+      {
         "en": "Chile",
         "ar": "تشيلي"
+      },
+      {
+        "en": "Indonesia",
+        "ar": "إندونيسيا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Indonesia has more active volcanoes than any other country, over 120 of them.",
     "explanation_ar": "إندونيسيا فيها براكين نشطة أكتر من أي دولة تانية، أكتر من 120 بركان."
   },
@@ -1240,23 +1240,23 @@
     "question_ar": "أنهي دولة عندها جزر أكتر من أي دولة تانية في العالم، أكتر من 260 ألف جزيرة؟",
     "options": [
       {
-        "en": "Norway",
-        "ar": "النرويج"
-      },
-      {
-        "en": "Sweden",
-        "ar": "السويد"
+        "en": "Philippines",
+        "ar": "الفلبين"
       },
       {
         "en": "Finland",
         "ar": "فنلندا"
       },
       {
-        "en": "Philippines",
-        "ar": "الفلبين"
+        "en": "Sweden",
+        "ar": "السويد"
+      },
+      {
+        "en": "Norway",
+        "ar": "النرويج"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Sweden has been counted as having more islands than any other country in the world.",
     "explanation_ar": "السويد بيتقال إن فيها جزر أكتر من أي دولة تانية في العالم.",
     "verified_as_of": "2017-01"
@@ -1271,23 +1271,23 @@
     "question_ar": "أنهي دولة في أمريكا الجنوبية سميت مباشرة على اسم قائد الاستقلال سيمون بوليفار؟",
     "options": [
       {
-        "en": "Colombia",
-        "ar": "كولومبيا"
-      },
-      {
-        "en": "Bolivia",
-        "ar": "بوليفيا"
+        "en": "Ecuador",
+        "ar": "الإكوادور"
       },
       {
         "en": "Venezuela",
         "ar": "فنزويلا"
       },
       {
-        "en": "Ecuador",
-        "ar": "الإكوادور"
+        "en": "Bolivia",
+        "ar": "بوليفيا"
+      },
+      {
+        "en": "Colombia",
+        "ar": "كولومبيا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Bolivia is named directly after Simón Bolívar, who helped lead South America's independence movements.",
     "explanation_ar": "بوليفيا اتسمت مباشرة على اسم سيمون بوليفار، اللي ساعد في قيادة حركات استقلال أمريكا الجنوبية."
   },
@@ -1301,23 +1301,23 @@
     "question_ar": "إيه أحدث دولة معترف بيها على نطاق واسع في العالم، استقلت سنة 2011؟",
     "options": [
       {
-        "en": "Kosovo",
-        "ar": "كوسوفو"
-      },
-      {
-        "en": "South Sudan",
-        "ar": "جنوب السودان"
+        "en": "Montenegro",
+        "ar": "الجبل الأسود"
       },
       {
         "en": "East Timor",
         "ar": "تيمور الشرقية"
       },
       {
-        "en": "Montenegro",
-        "ar": "الجبل الأسود"
+        "en": "South Sudan",
+        "ar": "جنوب السودان"
+      },
+      {
+        "en": "Kosovo",
+        "ar": "كوسوفو"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "South Sudan became independent in 2011, making it the world's newest widely recognized country.",
     "explanation_ar": "جنوب السودان استقلت سنة 2011، وبكده بقت أحدث دولة معترف بيها على نطاق واسع في العالم."
   },
@@ -1331,23 +1331,23 @@
     "question_ar": "أنهي دولة إسكندنافية مشهورة بظاهرة 'شمس منتصف الليل'، لما الشمس تقريبًا ما تغربش في الصيف؟",
     "options": [
       {
-        "en": "Sweden",
-        "ar": "السويد"
-      },
-      {
-        "en": "Norway",
-        "ar": "النرويج"
-      },
-      {
         "en": "Denmark",
         "ar": "الدنمارك"
       },
       {
         "en": "Iceland",
         "ar": "آيسلندا"
+      },
+      {
+        "en": "Norway",
+        "ar": "النرويج"
+      },
+      {
+        "en": "Sweden",
+        "ar": "السويد"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Norway is especially famous for the midnight sun above the Arctic Circle in summer.",
     "explanation_ar": "النرويج مشهورة جدًا بظاهرة شمس منتصف الليل فوق الدائرة القطبية الشمالية في الصيف."
   },
@@ -1361,23 +1361,23 @@
     "question_ar": "علم أنهي دولة هو الوحيد في العالم اللي عليه خريطة للدولة نفسها؟",
     "options": [
       {
-        "en": "Cyprus",
-        "ar": "قبرص"
+        "en": "Bangladesh",
+        "ar": "بنجلاديش"
       },
       {
         "en": "Kosovo",
         "ar": "كوسوفو"
       },
       {
-        "en": "Bangladesh",
-        "ar": "بنجلاديش"
+        "en": "Cyprus",
+        "ar": "قبرص"
       },
       {
         "en": "Israel",
         "ar": "إسرائيل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Cyprus's flag depicts a copper-colored silhouette map of the island.",
     "explanation_ar": "علم قبرص فيه رسمة بلون النحاس لخريطة الجزيرة نفسها."
   },
@@ -1391,12 +1391,12 @@
     "question_ar": "إيه أصغر دولة في قارة آسيا من حيث المساحة؟",
     "options": [
       {
-        "en": "Singapore",
-        "ar": "سنغافورة"
-      },
-      {
         "en": "Maldives",
         "ar": "المالديف"
+      },
+      {
+        "en": "Singapore",
+        "ar": "سنغافورة"
       },
       {
         "en": "Bahrain",
@@ -1407,7 +1407,7 @@
         "ar": "بروناي"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The Maldives is the smallest country in Asia by land area.",
     "explanation_ar": "المالديف هي أصغر دولة في قارة آسيا من حيث المساحة."
   },
@@ -1421,23 +1421,23 @@
     "question_ar": "اسم أنهي دولة في أمريكا الجنوبية معناه بالحرف 'خط الاستواء' بالإسباني؟",
     "options": [
       {
-        "en": "Ecuador",
-        "ar": "الإكوادور"
-      },
-      {
         "en": "Peru",
         "ar": "بيرو"
       },
       {
-        "en": "Colombia",
-        "ar": "كولومبيا"
+        "en": "Ecuador",
+        "ar": "الإكوادور"
       },
       {
         "en": "Bolivia",
         "ar": "بوليفيا"
+      },
+      {
+        "en": "Colombia",
+        "ar": "كولومبيا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Ecuador is named after the equator, which passes directly through the country.",
     "explanation_ar": "الإكوادور سميت على اسم خط الاستواء اللي بيمر مباشرة من وسط البلد."
   },
@@ -1451,23 +1451,23 @@
     "question_ar": "أنهي دولة في غرب أفريقيا هي أكبر مصدّر لحبوب الكاكاو في العالم؟",
     "options": [
       {
-        "en": "Ghana",
-        "ar": "غانا"
-      },
-      {
-        "en": "Nigeria",
-        "ar": "نيجيريا"
+        "en": "Cameroon",
+        "ar": "الكاميرون"
       },
       {
         "en": "Ivory Coast",
         "ar": "ساحل العاج"
       },
       {
-        "en": "Cameroon",
-        "ar": "الكاميرون"
+        "en": "Ghana",
+        "ar": "غانا"
+      },
+      {
+        "en": "Nigeria",
+        "ar": "نيجيريا"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Ivory Coast (Côte d'Ivoire) produces and exports more cocoa than any other country.",
     "explanation_ar": "ساحل العاج بينتج ويصدّر كاكاو أكتر من أي دولة تانية في العالم.",
     "verified_as_of": "2024-01"
@@ -1486,16 +1486,16 @@
         "ar": "إثيوبيا"
       },
       {
-        "en": "Ghana",
-        "ar": "غانا"
-      },
-      {
         "en": "Kenya",
         "ar": "كينيا"
       },
       {
         "en": "Nigeria",
         "ar": "نيجيريا"
+      },
+      {
+        "en": "Ghana",
+        "ar": "غانا"
       }
     ],
     "correctAnswer": 0,

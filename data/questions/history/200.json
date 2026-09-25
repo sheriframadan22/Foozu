@@ -9,8 +9,8 @@
     "question_ar": "لوحة نارمر معروضة دلوقتي في أنهي متحف؟",
     "options": [
       {
-        "en": "The Egyptian Museum in Cairo",
-        "ar": "المتحف المصري بالقاهرة"
+        "en": "The Metropolitan Museum",
+        "ar": "متحف المتروبوليتان"
       },
       {
         "en": "The British Museum",
@@ -21,11 +21,11 @@
         "ar": "متحف اللوفر"
       },
       {
-        "en": "The Metropolitan Museum",
-        "ar": "متحف المتروبوليتان"
+        "en": "The Egyptian Museum in Cairo",
+        "ar": "المتحف المصري بالقاهرة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The Narmer Palette is a centerpiece of the Egyptian Museum in Cairo.",
     "explanation_ar": "لوحة نارمر من أهم مقتنيات المتحف المصري بالقاهرة."
   },
@@ -39,10 +39,6 @@
     "question_ar": "اليونانيين القدماء ربطوا إمحوتب المؤله بأنهي إله من آلهتهم؟",
     "options": [
       {
-        "en": "Zeus",
-        "ar": "زيوس"
-      },
-      {
         "en": "Asclepius, god of medicine",
         "ar": "أسكليبيوس، إله الطب"
       },
@@ -53,9 +49,13 @@
       {
         "en": "Hermes",
         "ar": "هيرميس"
+      },
+      {
+        "en": "Zeus",
+        "ar": "زيوس"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Greeks identified Imhotep with Asclepius, their healing god.",
     "explanation_ar": "اليونانيين ربطوا إمحوتب بأسكليبيوس، إله الشفاء عندهم."
   },
@@ -69,23 +69,23 @@
     "question_ar": "'الهرم المنحني' بتاع سنفرو، المعروف بتغيير زاويته الغريب، موجود في أنهي موقع؟",
     "options": [
       {
-        "en": "Saqqara",
-        "ar": "سقارة"
-      },
-      {
-        "en": "Giza",
-        "ar": "الجيزة"
-      },
-      {
         "en": "Dahshur",
         "ar": "دهشور"
       },
       {
         "en": "Meidum",
         "ar": "ميدوم"
+      },
+      {
+        "en": "Saqqara",
+        "ar": "سقارة"
+      },
+      {
+        "en": "Giza",
+        "ar": "الجيزة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The Bent Pyramid stands at the Dahshur necropolis.",
     "explanation_ar": "الهرم المنحني موجود في جبانة دهشور."
   },
@@ -99,23 +99,23 @@
     "question_ar": "لوحة مرنبتاح، اللي فيها أقدم إشارة لإسرائيل، بيتم تأريخها تقريبًا لأنهي سنة قبل الميلاد؟",
     "options": [
       {
-        "en": "1550 BC",
-        "ar": "1550 قبل الميلاد"
+        "en": "1208 BC",
+        "ar": "1208 قبل الميلاد"
       },
       {
         "en": "664 BC",
         "ar": "664 قبل الميلاد"
       },
       {
-        "en": "30 BC",
-        "ar": "30 قبل الميلاد"
+        "en": "1550 BC",
+        "ar": "1550 قبل الميلاد"
       },
       {
-        "en": "1208 BC",
-        "ar": "1208 قبل الميلاد"
+        "en": "30 BC",
+        "ar": "30 قبل الميلاد"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "The Merneptah Stele is dated to around 1208 BC.",
     "explanation_ar": "لوحة مرنبتاح بيتم تأريخها لحوالي سنة 1208 قبل الميلاد.",
     "verified_as_of": "2025-06"
@@ -160,10 +160,6 @@
     "question_ar": "المصطلح المصري للهكسوس، 'حقا خاسوت'، معناه الحرفي إيه؟",
     "options": [
       {
-        "en": "People of the sea",
-        "ar": "شعب البحر"
-      },
-      {
         "en": "Rulers of foreign lands",
         "ar": "حكام البلاد الأجنبية"
       },
@@ -172,11 +168,15 @@
         "ar": "أبناء الصحراء"
       },
       {
+        "en": "People of the sea",
+        "ar": "شعب البحر"
+      },
+      {
         "en": "Priests of Ra",
         "ar": "كهنة رع"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "'Heka khasut' means 'rulers of foreign lands' in ancient Egyptian.",
     "explanation_ar": "'حقا خاسوت' معناها 'حكام البلاد الأجنبية' في المصرية القديمة."
   },
@@ -190,23 +190,23 @@
     "question_ar": "قرية دير المدينة كانت سكن العمال اللي بنوا المقابر في أنهي وادي مشهور؟",
     "options": [
       {
-        "en": "The Valley of the Queens only",
-        "ar": "وادي الملكات بس"
+        "en": "The Valley of the Kings",
+        "ar": "وادي الملوك"
       },
       {
         "en": "The Valley of the Nobles only",
         "ar": "وادي النبلاء بس"
       },
       {
-        "en": "The Valley of the Kings",
-        "ar": "وادي الملوك"
+        "en": "The Valley of the Queens only",
+        "ar": "وادي الملكات بس"
       },
       {
         "en": "The Bahariya Oasis",
         "ar": "واحة البحرية"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Deir el-Medina was home to the craftsmen who built royal tombs in the Valley of the Kings.",
     "explanation_ar": "دير المدينة كانت سكن الصنايعية اللي بنوا المقابر الملكية في وادي الملوك."
   },
@@ -220,23 +220,23 @@
     "question_ar": "صالة الأعمدة الكبرى في الكرنك اتبنت أساسًا في عهد أنهي فرعونين؟",
     "options": [
       {
-        "en": "Khufu and Khafre",
-        "ar": "خوفو وخفرع"
-      },
-      {
         "en": "Akhenaten and Tutankhamun",
         "ar": "إخناتون وتوت عنخ آمون"
+      },
+      {
+        "en": "Seti I and Ramesses II",
+        "ar": "سيتي الأول ورمسيس التاني"
       },
       {
         "en": "Ptolemy I and II",
         "ar": "بطليموس الأول والتاني"
       },
       {
-        "en": "Seti I and Ramesses II",
-        "ar": "سيتي الأول ورمسيس التاني"
+        "en": "Khufu and Khafre",
+        "ar": "خوفو وخفرع"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Seti I began and Ramesses II completed the Hypostyle Hall at Karnak.",
     "explanation_ar": "سيتي الأول بدأ صالة الأعمدة في الكرنك ورمسيس التاني كملها."
   },
@@ -250,23 +250,23 @@
     "question_ar": "رسائل تل العمارنة، المراسلات الدبلوماسية من عصر إخناتون، اتكتبت أساسًا بأنهي لغة؟",
     "options": [
       {
-        "en": "Akkadian",
-        "ar": "الأكادية"
-      },
-      {
-        "en": "Ancient Greek",
-        "ar": "اليونانية القديمة"
+        "en": "Aramaic",
+        "ar": "الآرامية"
       },
       {
         "en": "Old Persian",
         "ar": "الفارسية القديمة"
       },
       {
-        "en": "Aramaic",
-        "ar": "الآرامية"
+        "en": "Akkadian",
+        "ar": "الأكادية"
+      },
+      {
+        "en": "Ancient Greek",
+        "ar": "اليونانية القديمة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Amarna Letters were written in Akkadian cuneiform, the era's diplomatic language.",
     "explanation_ar": "رسائل تل العمارنة اتكتبت بالمسمارية الأكادية، لغة الدبلوماسية في وقتها."
   },
@@ -280,12 +280,12 @@
     "question_ar": "اسم 'نفرتيتي' بيتترجم تقليديًا معناه إيه؟",
     "options": [
       {
-        "en": "Beloved of the sun",
-        "ar": "محبوبة الشمس"
-      },
-      {
         "en": "The beautiful one has come",
         "ar": "الجميلة قد أتت"
+      },
+      {
+        "en": "Beloved of the sun",
+        "ar": "محبوبة الشمس"
       },
       {
         "en": "Daughter of the Nile",
@@ -296,7 +296,7 @@
         "ar": "ملكة الصحراء"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Nefertiti's name is usually translated as 'the beautiful one has come.'",
     "explanation_ar": "اسم نفرتيتي بيتترجم عادة 'الجميلة قد أتت'."
   },
@@ -310,12 +310,12 @@
     "question_ar": "حورمحب، في إعادته للديانة التقليدية، تصرف ضد آثار أنهي مجموعة من أسلافه؟",
     "options": [
       {
-        "en": "The Old Kingdom pyramid builders",
-        "ar": "بناة أهرامات الدولة القديمة"
-      },
-      {
         "en": "The Ptolemaic kings",
         "ar": "ملوك البطالمة"
+      },
+      {
+        "en": "The Old Kingdom pyramid builders",
+        "ar": "بناة أهرامات الدولة القديمة"
       },
       {
         "en": "The Amarna-era pharaohs (Akhenaten, Tutankhamun, Ay)",
@@ -340,6 +340,10 @@
     "question_ar": "مرنبتاح، اللي لوحته الشهيرة بتذكر إسرائيل، كان ابن وخليفة أنهي فرعون؟",
     "options": [
       {
+        "en": "Ramesses II",
+        "ar": "رمسيس التاني"
+      },
+      {
         "en": "Seti I",
         "ar": "سيتي الأول"
       },
@@ -350,13 +354,9 @@
       {
         "en": "Akhenaten",
         "ar": "إخناتون"
-      },
-      {
-        "en": "Ramesses II",
-        "ar": "رمسيس التاني"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Merneptah succeeded his long-reigning father, Ramesses II.",
     "explanation_ar": "مرنبتاح خلف والده رمسيس التاني اللي حكم مدة طويلة."
   },
@@ -370,23 +370,23 @@
     "question_ar": "نسخة من معاهدة سلام قادش اتحفظت كمان بالمسمارية في أنهي عاصمة حيثية؟",
     "options": [
       {
-        "en": "Hattusa",
-        "ar": "خاتوشا"
-      },
-      {
-        "en": "Nineveh",
-        "ar": "نينوى"
+        "en": "Ugarit",
+        "ar": "أوغاريت"
       },
       {
         "en": "Babylon",
         "ar": "بابل"
       },
       {
-        "en": "Ugarit",
-        "ar": "أوغاريت"
+        "en": "Hattusa",
+        "ar": "خاتوشا"
+      },
+      {
+        "en": "Nineveh",
+        "ar": "نينوى"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A cuneiform copy of the treaty survives from Hattusa, the Hittite capital.",
     "explanation_ar": "نسخة مسمارية من المعاهدة نجت من خاتوشا، عاصمة الحيثيين."
   },
@@ -400,23 +400,23 @@
     "question_ar": "قصة 'رحلة ون آمون' الأدبية بتعكس تراجع نفوذ مصر بالخارج، وأحداثها في عهد أنهي أسرة؟",
     "options": [
       {
-        "en": "The Fourth Dynasty",
-        "ar": "الأسرة الرابعة"
-      },
-      {
-        "en": "The Twenty-First Dynasty",
-        "ar": "الأسرة الحادية والعشرين"
+        "en": "The Twenty-Sixth Dynasty",
+        "ar": "الأسرة السادسة والعشرين"
       },
       {
         "en": "The Eighteenth Dynasty",
         "ar": "الأسرة الثامنة عشرة"
       },
       {
-        "en": "The Twenty-Sixth Dynasty",
-        "ar": "الأسرة السادسة والعشرين"
+        "en": "The Twenty-First Dynasty",
+        "ar": "الأسرة الحادية والعشرين"
+      },
+      {
+        "en": "The Fourth Dynasty",
+        "ar": "الأسرة الرابعة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Wenamun's journey is set in the Twenty-First Dynasty's era of decline.",
     "explanation_ar": "رحلة ون آمون بتدور في عصر تراجع الأسرة الحادية والعشرين."
   },
@@ -430,23 +430,23 @@
     "question_ar": "حملة شيشنق الأول العسكرية في بلاد الشام مسجلة على أنهي أثر في الكرنك؟",
     "options": [
       {
-        "en": "The Hypostyle Hall reliefs only, unrelated to any campaign",
-        "ar": "نقوش صالة الأعمدة بس، مالهاش علاقة بأي حملة"
-      },
-      {
         "en": "The Sphinx Stele",
         "ar": "لوحة أبو الهول"
       },
       {
-        "en": "The Bubastite Portal",
-        "ar": "بوابة بوباسطة"
+        "en": "The Hypostyle Hall reliefs only, unrelated to any campaign",
+        "ar": "نقوش صالة الأعمدة بس، مالهاش علاقة بأي حملة"
       },
       {
         "en": "The Palermo Stone",
         "ar": "حجر باليرمو"
+      },
+      {
+        "en": "The Bubastite Portal",
+        "ar": "بوابة بوباسطة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Shoshenq I's campaign is depicted on the Bubastite Portal at Karnak.",
     "explanation_ar": "حملة شيشنق الأول مصورة على بوابة بوباسطة في الكرنك."
   },
@@ -460,23 +460,23 @@
     "question_ar": "فتح باي لمصر مسجل بتفاصيل على لوحة ضخمة اتلقيت في أنهي موقع؟",
     "options": [
       {
-        "en": "Gebel Barkal",
-        "ar": "جبل البركل"
-      },
-      {
         "en": "Karnak",
         "ar": "الكرنك"
       },
       {
-        "en": "Saqqara",
-        "ar": "سقارة"
+        "en": "Gebel Barkal",
+        "ar": "جبل البركل"
       },
       {
         "en": "Abu Simbel",
         "ar": "أبو سمبل"
+      },
+      {
+        "en": "Saqqara",
+        "ar": "سقارة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Piye's famous Victory Stele was found at Gebel Barkal, near Napata.",
     "explanation_ar": "لوحة انتصار باي الشهيرة اتلقيت في جبل البركل، قرب نبتة."
   },
@@ -494,16 +494,16 @@
         "ar": "663 قبل الميلاد"
       },
       {
+        "en": "30 BC",
+        "ar": "30 قبل الميلاد"
+      },
+      {
         "en": "525 BC",
         "ar": "525 قبل الميلاد"
       },
       {
         "en": "332 BC",
         "ar": "332 قبل الميلاد"
-      },
-      {
-        "en": "30 BC",
-        "ar": "30 قبل الميلاد"
       }
     ],
     "correctAnswer": 0,
@@ -520,23 +520,23 @@
     "question_ar": "مشروع نخاو التاني الناقص لقناة تربط النيل بالبحر الأحمر، الطموح ده اتكمل بعدين في عهد أنهي حاكم؟",
     "options": [
       {
-        "en": "Alexander the Great",
-        "ar": "الإسكندر الأكبر"
-      },
-      {
-        "en": "Darius I of Persia",
-        "ar": "دارا الأول الفارسي"
-      },
-      {
         "en": "Ptolemy I",
         "ar": "بطليموس الأول"
       },
       {
         "en": "Cleopatra VII",
         "ar": "كيلوباترا السابعة"
+      },
+      {
+        "en": "Alexander the Great",
+        "ar": "الإسكندر الأكبر"
+      },
+      {
+        "en": "Darius I of Persia",
+        "ar": "دارا الأول الفارسي"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Persian king Darius I later completed a version of the canal Necho II began.",
     "explanation_ar": "الملك الفارسي دارا الأول كمل بعدين نسخة من القناة اللي بدأها نخاو التاني."
   },
@@ -550,23 +550,23 @@
     "question_ar": "نوقراطيس، أهم مستعمرة تجارية يونانية في مصر، ازدهرت أساسًا في عهد أنهي فرعون صاوي؟",
     "options": [
       {
-        "en": "Psamtik I",
-        "ar": "بسماتيك الأول"
+        "en": "Amasis II",
+        "ar": "أحمس التاني"
       },
       {
         "en": "Necho II",
         "ar": "نخاو التاني"
       },
       {
-        "en": "Amasis II",
-        "ar": "أحمس التاني"
+        "en": "Psamtik I",
+        "ar": "بسماتيك الأول"
       },
       {
         "en": "Apries",
         "ar": "أبريس"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Naucratis particularly flourished under Amasis II's reign.",
     "explanation_ar": "نوقراطيس ازدهرت بشكل خاص في عهد أحمس التاني."
   },
@@ -580,16 +580,16 @@
     "question_ar": "غزو قمبيز التاني لمصر، زي ما سجله هيرودوت، أنهى حكم أنهي فرعون أصلي؟",
     "options": [
       {
-        "en": "Nectanebo II",
-        "ar": "نختنبو التاني"
-      },
-      {
         "en": "Apries",
         "ar": "أبريس"
       },
       {
         "en": "Amasis II",
         "ar": "أحمس التاني"
+      },
+      {
+        "en": "Nectanebo II",
+        "ar": "نختنبو التاني"
       },
       {
         "en": "Psamtik III",
@@ -610,23 +610,23 @@
     "question_ar": "الأسرة الـ31 في مصر، فترة الحكم الفارسي التاني، انتهت بوصول أنهي غازي؟",
     "options": [
       {
-        "en": "Alexander the Great",
-        "ar": "الإسكندر الأكبر"
+        "en": "Cambyses II",
+        "ar": "قمبيز التاني"
       },
       {
-        "en": "Julius Caesar",
-        "ar": "يوليوس قيصر"
+        "en": "Alexander the Great",
+        "ar": "الإسكندر الأكبر"
       },
       {
         "en": "Amr ibn al-As",
         "ar": "عمرو بن العاص"
       },
       {
-        "en": "Cambyses II",
-        "ar": "قمبيز التاني"
+        "en": "Julius Caesar",
+        "ar": "يوليوس قيصر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Alexander the Great ended Persian rule over Egypt in 332 BC.",
     "explanation_ar": "الإسكندر الأكبر أنهى الحكم الفارسي لمصر سنة 332 قبل الميلاد."
   },
@@ -640,6 +640,10 @@
     "question_ar": "بطليموس التاني فيلادلفوس مرتبط بشكل خاص بتوسيع أنهي مؤسستين عظيمتين في الإسكندرية؟",
     "options": [
       {
+        "en": "The Serapeum and the Sphinx",
+        "ar": "السرابيوم وأبو الهول"
+      },
+      {
         "en": "Al-Azhar and the Citadel",
         "ar": "الأزهر والقلعة"
       },
@@ -648,15 +652,11 @@
         "ar": "المكتبة والمنارة (فاروس)"
       },
       {
-        "en": "The Serapeum and the Sphinx",
-        "ar": "السرابيوم وأبو الهول"
-      },
-      {
         "en": "The Karnak temple and Abu Simbel",
         "ar": "معبد الكرنك وأبو سمبل"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Ptolemy II expanded the Library of Alexandria and completed the Pharos lighthouse.",
     "explanation_ar": "بطليموس التاني وسع مكتبة الإسكندرية وكمل منارة فاروس."
   },
@@ -670,6 +670,10 @@
     "question_ar": "قرار حجر رشيد بيكرم أنهي فرعون بطلمي؟",
     "options": [
       {
+        "en": "Ptolemy V",
+        "ar": "بطليموس الخامس"
+      },
+      {
         "en": "Ptolemy I",
         "ar": "بطليموس الأول"
       },
@@ -678,15 +682,11 @@
         "ar": "كيلوباترا السابعة"
       },
       {
-        "en": "Ptolemy V",
-        "ar": "بطليموس الخامس"
-      },
-      {
         "en": "Ptolemy XIII",
         "ar": "بطليموس الثالث عشر"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The Rosetta Stone records a decree honoring Ptolemy V.",
     "explanation_ar": "حجر رشيد فيه قرار بتكريم بطليموس الخامس."
   },
@@ -700,23 +700,23 @@
     "question_ar": "المسلات المعروفة بـ'إبرة كيلوباترا'، اللي اتنقلت للندن ونيويورك، اتنصبت أصلًا في عهد أنهي فرعون؟",
     "options": [
       {
-        "en": "Ramesses II",
-        "ar": "رمسيس التاني"
-      },
-      {
-        "en": "Cleopatra VII herself",
-        "ar": "كيلوباترا السابعة نفسها"
-      },
-      {
         "en": "Ptolemy I",
         "ar": "بطليموس الأول"
       },
       {
         "en": "Thutmose III",
         "ar": "تحتمس التالت"
+      },
+      {
+        "en": "Ramesses II",
+        "ar": "رمسيس التاني"
+      },
+      {
+        "en": "Cleopatra VII herself",
+        "ar": "كيلوباترا السابعة نفسها"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "The 'Cleopatra's Needles' were originally raised for Thutmose III, long before Cleopatra's era.",
     "explanation_ar": "'إبرة كيلوباترا' اتنصبت أصلًا لتحتمس التالت، قبل عصر كيلوباترا بزمن طويل."
   },
@@ -730,6 +730,10 @@
     "question_ar": "بداية التقويم القبطي، المعروفة بـ'عصر الشهداء'، بتبدأ سنة كام، وبتوثق فترة اضطهاد؟",
     "options": [
       {
+        "en": "969 AD",
+        "ar": "969 ميلادية"
+      },
+      {
         "en": "284 AD",
         "ar": "284 ميلادية"
       },
@@ -738,15 +742,11 @@
         "ar": "641 ميلادية"
       },
       {
-        "en": "969 AD",
-        "ar": "969 ميلادية"
-      },
-      {
         "en": "30 BC",
         "ar": "30 قبل الميلاد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Coptic calendar starts in 284 AD, linked to Diocletian's persecution of Christians.",
     "explanation_ar": "التقويم القبطي بيبدأ سنة 284 ميلادية، مرتبط باضطهاد دقلديانوس للمسيحيين."
   },
@@ -760,12 +760,12 @@
     "question_ar": "فتح عمرو بن العاص لمصر البيزنطية اتم فعليًا بعد سقوط أنهي حصن قرب القاهرة الحالية؟",
     "options": [
       {
-        "en": "The Cairo Citadel",
-        "ar": "قلعة القاهرة"
-      },
-      {
         "en": "Babylon Fortress",
         "ar": "حصن بابليون"
+      },
+      {
+        "en": "The Cairo Citadel",
+        "ar": "قلعة القاهرة"
       },
       {
         "en": "Fort Qaitbay",
@@ -776,7 +776,7 @@
         "ar": "حصن السرابيوم بس، موقع مخترع"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The fall of the Babylon Fortress opened the way for the Arab conquest of Egypt.",
     "explanation_ar": "سقوط حصن بابليون فتح الطريق للفتح العربي لمصر."
   },
@@ -790,20 +790,20 @@
     "question_ar": "المئذنة الحلزونية لجامع ابن طولون بالقاهرة اتأثرت بجامع شهير في أنهي مدينة؟",
     "options": [
       {
-        "en": "Damascus",
-        "ar": "دمشق"
-      },
-      {
         "en": "Baghdad's central mosque only",
         "ar": "الجامع المركزي في بغداد بس"
+      },
+      {
+        "en": "Istanbul",
+        "ar": "إسطنبول"
       },
       {
         "en": "Samarra, in Iraq",
         "ar": "سامراء، في العراق"
       },
       {
-        "en": "Istanbul",
-        "ar": "إسطنبول"
+        "en": "Damascus",
+        "ar": "دمشق"
       }
     ],
     "correctAnswer": 2,
@@ -820,12 +820,12 @@
     "question_ar": "جامع الأزهر اتأسس في القاهرة تقريبًا في أنهي سنة؟",
     "options": [
       {
-        "en": "1171 AD",
-        "ar": "1171 ميلادية"
-      },
-      {
         "en": "1517 AD",
         "ar": "1517 ميلادية"
+      },
+      {
+        "en": "1171 AD",
+        "ar": "1171 ميلادية"
       },
       {
         "en": "641 AD",
@@ -850,23 +850,23 @@
     "question_ar": "القائد الفاطمي اللي قاد فتح مصر سنة 969 ميلادية كان مين؟",
     "options": [
       {
-        "en": "Jawhar al-Siqilli",
-        "ar": "جوهر الصقلي"
+        "en": "Ahmed ibn Tulun",
+        "ar": "أحمد بن طولون"
       },
       {
         "en": "Amr ibn al-As",
         "ar": "عمرو بن العاص"
       },
       {
-        "en": "Ahmed ibn Tulun",
-        "ar": "أحمد بن طولون"
-      },
-      {
         "en": "Salah al-Din",
         "ar": "صلاح الدين"
+      },
+      {
+        "en": "Jawhar al-Siqilli",
+        "ar": "جوهر الصقلي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Jawhar al-Siqilli led the Fatimid conquest of Egypt and founded Cairo.",
     "explanation_ar": "جوهر الصقلي قاد الفتح الفاطمي لمصر وأسس القاهرة."
   },
@@ -880,23 +880,23 @@
     "question_ar": "بإلغاء الخلافة الفاطمية، صلاح الدين رجع ولاء مصر الديني لأنهي خلافة؟",
     "options": [
       {
-        "en": "The Umayyad Caliphate",
-        "ar": "الخلافة الأموية"
-      },
-      {
-        "en": "The Abbasid Caliphate",
-        "ar": "الخلافة العباسية"
-      },
-      {
         "en": "The Ottoman Caliphate, not yet existing at the time",
         "ar": "الخلافة العثمانية، اللي ماكانتش موجودة وقتها"
       },
       {
         "en": "The Almohad Caliphate",
         "ar": "الخلافة الموحدية"
+      },
+      {
+        "en": "The Abbasid Caliphate",
+        "ar": "الخلافة العباسية"
+      },
+      {
+        "en": "The Umayyad Caliphate",
+        "ar": "الخلافة الأموية"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Saladin restored nominal allegiance to the Sunni Abbasid Caliphate in Baghdad.",
     "explanation_ar": "صلاح الدين رجع الولاء الاسمي للخلافة العباسية السنية في بغداد."
   },
@@ -914,19 +914,19 @@
         "ar": "المماليك البرجية"
       },
       {
-        "en": "The Ayyubid line directly",
-        "ar": "السلالة الأيوبية مباشرة"
-      },
-      {
         "en": "The Bahri Mamluks",
         "ar": "المماليك البحرية"
       },
       {
         "en": "The Ottoman governors",
         "ar": "الولاة العثمانيين"
+      },
+      {
+        "en": "The Ayyubid line directly",
+        "ar": "السلالة الأيوبية مباشرة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Baibars was a central figure of the Bahri Mamluk period.",
     "explanation_ar": "بيبرس كان شخصية محورية في عصر المماليك البحرية."
   },
@@ -940,23 +940,23 @@
     "question_ar": "مجمع قلاوون في القاهرة، اللي بيجمع مستشفى ومدرسة وضريح، مثال بارز على عمارة أنهي عصر؟",
     "options": [
       {
-        "en": "The Fatimid era",
-        "ar": "العصر الفاطمي"
-      },
-      {
-        "en": "The Ottoman era",
-        "ar": "العصر العثماني"
+        "en": "The Mamluk era",
+        "ar": "العصر المملوكي"
       },
       {
         "en": "The Ptolemaic era",
         "ar": "العصر البطلمي"
       },
       {
-        "en": "The Mamluk era",
-        "ar": "العصر المملوكي"
+        "en": "The Ottoman era",
+        "ar": "العصر العثماني"
+      },
+      {
+        "en": "The Fatimid era",
+        "ar": "العصر الفاطمي"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "The Qalawun complex is a hallmark of Mamluk-era architecture in Cairo.",
     "explanation_ar": "مجمع قلاوون من أبرز نماذج العمارة المملوكية في القاهرة."
   },
@@ -970,23 +970,23 @@
     "question_ar": "انتصار العثمانيين الحاسم على المماليك في مرج دابق سنة 1516 تبعه بعد سنة معركة تانية مهمة في أنهي موقع؟",
     "options": [
       {
-        "en": "Ridaniya, near Cairo",
-        "ar": "الريدانية، قرب القاهرة"
-      },
-      {
-        "en": "Ain Jalut",
-        "ar": "عين جالوت"
-      },
-      {
         "en": "Hattin",
         "ar": "حطين"
       },
       {
         "en": "Tel el-Kebir",
         "ar": "التل الكبير"
+      },
+      {
+        "en": "Ridaniya, near Cairo",
+        "ar": "الريدانية، قرب القاهرة"
+      },
+      {
+        "en": "Ain Jalut",
+        "ar": "عين جالوت"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Battle of Ridaniya in 1517 completed the Ottoman conquest of Egypt.",
     "explanation_ar": "معركة الريدانية سنة 1517 أكملت الفتح العثماني لمصر."
   },
@@ -1000,23 +1000,23 @@
     "question_ar": "تحت الحكم العثماني، والي مصر شارك السلطة محليًا مع بكوات المماليك، والنظام ده استمر لحد صعود أنهي حاكم في القرن الـ19؟",
     "options": [
       {
-        "en": "Khedive Ismail",
-        "ar": "الخديوي إسماعيل"
-      },
-      {
-        "en": "Muhammad Ali Pasha",
-        "ar": "محمد علي باشا"
-      },
-      {
         "en": "King Fuad",
         "ar": "الملك فؤاد"
       },
       {
         "en": "Ahmed Orabi",
         "ar": "أحمد عرابي"
+      },
+      {
+        "en": "Khedive Ismail",
+        "ar": "الخديوي إسماعيل"
+      },
+      {
+        "en": "Muhammad Ali Pasha",
+        "ar": "محمد علي باشا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Muhammad Ali eliminated Mamluk power and centralized rule in Egypt.",
     "explanation_ar": "محمد علي قضى على سلطة المماليك ومركز الحكم في مصر."
   },
@@ -1068,15 +1068,15 @@
         "ar": "الحروب النابليونية"
       },
       {
-        "en": "World War I",
-        "ar": "الحرب العالمية الأولى"
-      },
-      {
         "en": "The Greek War of Independence",
         "ar": "حرب الاستقلال اليونانية"
+      },
+      {
+        "en": "World War I",
+        "ar": "الحرب العالمية الأولى"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Ibrahim Pasha's forces fought in Greece to help suppress the independence uprising.",
     "explanation_ar": "قوات إبراهيم باشا حاربت في اليونان عشان تساعد في قمع ثورة الاستقلال."
   },
@@ -1090,23 +1090,23 @@
     "question_ar": "نظام الرقابة المالية المشتركة بين بريطانيا وفرنسا على مصر، المعروف بـ'الرقابة الثنائية'، بدأ سنة كام؟",
     "options": [
       {
-        "en": "1876",
-        "ar": "1876"
-      },
-      {
         "en": "1882",
         "ar": "1882"
       },
       {
-        "en": "1798",
-        "ar": "1798"
+        "en": "1876",
+        "ar": "1876"
       },
       {
         "en": "1922",
         "ar": "1922"
+      },
+      {
+        "en": "1798",
+        "ar": "1798"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The Dual Control over Egyptian finances was established in 1876.",
     "explanation_ar": "الرقابة الثنائية على مالية مصر اتأسست سنة 1876."
   },
@@ -1120,23 +1120,23 @@
     "question_ar": "شعار الثورة العرابية اللي عبر عن المطالب الوطنية كان إيه؟",
     "options": [
       {
-        "en": "'Unity, Order, Progress'",
-        "ar": "'وحدة، نظام، تقدم'"
+        "en": "'One Nile, One Nation'",
+        "ar": "'نيل واحد، أمة واحدة'"
       },
       {
-        "en": "'Egypt for the Egyptians'",
-        "ar": "'مصر للمصريين'"
+        "en": "'Unity, Order, Progress'",
+        "ar": "'وحدة، نظام، تقدم'"
       },
       {
         "en": "'Freedom or Death'",
         "ar": "'الحرية أو الموت'"
       },
       {
-        "en": "'One Nile, One Nation'",
-        "ar": "'نيل واحد، أمة واحدة'"
+        "en": "'Egypt for the Egyptians'",
+        "ar": "'مصر للمصريين'"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "'Egypt for the Egyptians' was Orabi's nationalist rallying cry.",
     "explanation_ar": "'مصر للمصريين' كان شعار عرابي الوطني."
   },
@@ -1150,8 +1150,8 @@
     "question_ar": "القائد البريطاني اللي قاد القوات للانتصار على جيش عرابي في التل الكبير كان مين؟",
     "options": [
       {
-        "en": "Herbert Kitchener",
-        "ar": "هربرت كيتشنر"
+        "en": "Edmund Allenby",
+        "ar": "إدموند اللنبي"
       },
       {
         "en": "Evelyn Baring (Lord Cromer)",
@@ -1162,8 +1162,8 @@
         "ar": "جارنت وولزلي"
       },
       {
-        "en": "Edmund Allenby",
-        "ar": "إدموند اللنبي"
+        "en": "Herbert Kitchener",
+        "ar": "هربرت كيتشنر"
       }
     ],
     "correctAnswer": 2,
@@ -1180,23 +1180,23 @@
     "question_ar": "الشخصية النسوية والوطنية المصرية اللي قادت بشكل مشهور مظاهرات نسائية في شوارع ثورة 1919 كانت مين؟",
     "options": [
       {
-        "en": "Doria Shafik",
-        "ar": "درية شفيق"
-      },
-      {
-        "en": "Safia Zaghloul",
-        "ar": "صفية زغلول"
-      },
-      {
         "en": "Aisha Taymur",
         "ar": "عائشة تيمور"
       },
       {
         "en": "Huda Sha'arawi",
         "ar": "هدى شعراوي"
+      },
+      {
+        "en": "Safia Zaghloul",
+        "ar": "صفية زغلول"
+      },
+      {
+        "en": "Doria Shafik",
+        "ar": "درية شفيق"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Huda Sha'arawi led prominent women's protests during the 1919 uprising.",
     "explanation_ar": "هدى شعراوي قادت مظاهرات نسائية بارزة في ثورة 1919."
   },
@@ -1210,10 +1210,6 @@
     "question_ar": "اتفاقية سايكس بيكو، اللي قسمت سرًا الأراضي العربية العثمانية بين بريطانيا وفرنسا، اتعملت سنة كام؟",
     "options": [
       {
-        "en": "1916",
-        "ar": "1916"
-      },
-      {
         "en": "1922",
         "ar": "1922"
       },
@@ -1222,11 +1218,15 @@
         "ar": "1936"
       },
       {
+        "en": "1916",
+        "ar": "1916"
+      },
+      {
         "en": "1908",
         "ar": "1908"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Sykes-Picot Agreement was concluded in 1916, during World War I.",
     "explanation_ar": "اتفاقية سايكس بيكو اتعملت سنة 1916، وقت الحرب العالمية الأولى."
   },
@@ -1240,6 +1240,10 @@
     "question_ar": "معاهدة 1936 الإنجليزية-المصرية أنهت معظم الاحتلال البريطاني لكن أبقت وجود عسكري بريطاني في أنهي منطقة تحديدًا؟",
     "options": [
       {
+        "en": "Alexandria's harbor only",
+        "ar": "ميناء الإسكندرية بس"
+      },
+      {
         "en": "The Sinai border zone only",
         "ar": "منطقة حدود سيناء بس"
       },
@@ -1248,15 +1252,11 @@
         "ar": "منطقة قناة السويس"
       },
       {
-        "en": "Alexandria's harbor only",
-        "ar": "ميناء الإسكندرية بس"
-      },
-      {
         "en": "The whole of Upper Egypt",
         "ar": "كل مصر العليا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "British troops remained specifically in the Suez Canal zone under the 1936 treaty.",
     "explanation_ar": "القوات البريطانية فضلت تحديدًا في منطقة قناة السويس بموجب معاهدة 1936."
   },
@@ -1274,19 +1274,19 @@
         "ar": "1958"
       },
       {
-        "en": "1967",
-        "ar": "1967"
-      },
-      {
         "en": "1961",
         "ar": "1961"
       },
       {
         "en": "1970",
         "ar": "1970"
+      },
+      {
+        "en": "1967",
+        "ar": "1967"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Syria seceded from the union in 1961, ending the United Arab Republic as a two-state entity.",
     "explanation_ar": "سوريا انفصلت عن الاتحاد سنة 1961، وأنهت الجمهورية العربية المتحدة كدولة موحدة."
   },
@@ -1300,23 +1300,23 @@
     "question_ar": "مؤتمر فيينا، اللي أعاد رسم خريطة أوروبا بعد نابليون، ترأسه غالبًا أنهي رجل دولة نمساوي؟",
     "options": [
       {
-        "en": "Otto von Bismarck",
-        "ar": "أوتو فون بسمارك"
+        "en": "Klemens von Metternich",
+        "ar": "كليمنس فون مترنيخ"
       },
       {
-        "en": "Charles Talleyrand",
-        "ar": "تشارلز تاليران"
+        "en": "Otto von Bismarck",
+        "ar": "أوتو فون بسمارك"
       },
       {
         "en": "Viscount Castlereagh",
         "ar": "فيسكاونت كاسلريه"
       },
       {
-        "en": "Klemens von Metternich",
-        "ar": "كليمنس فون مترنيخ"
+        "en": "Charles Talleyrand",
+        "ar": "تشارلز تاليران"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Austrian Chancellor Metternich was the dominant figure at the Congress of Vienna.",
     "explanation_ar": "المستشار النمساوي مترنيخ كان الشخصية المسيطرة في مؤتمر فيينا."
   },
@@ -1330,23 +1330,23 @@
     "question_ar": "تراجع مكتبة الإسكندرية القديمة بيترجع جزء منه لحريق انتشر أثناء حصار مين للمدينة سنة 48 قبل الميلاد؟",
     "options": [
       {
-        "en": "Julius Caesar",
-        "ar": "يوليوس قيصر"
+        "en": "Cambyses II",
+        "ar": "قمبيز التاني"
       },
       {
         "en": "Octavian (Augustus)",
         "ar": "أوكتافيان (أوغسطس)"
       },
       {
-        "en": "Cambyses II",
-        "ar": "قمبيز التاني"
-      },
-      {
         "en": "Amr ibn al-As",
         "ar": "عمرو بن العاص"
+      },
+      {
+        "en": "Julius Caesar",
+        "ar": "يوليوس قيصر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "A fire during Julius Caesar's siege in 48 BC is one factor often cited in the library's decline.",
     "explanation_ar": "الحريق أثناء حصار يوليوس قيصر سنة 48 قبل الميلاد من العوامل اللي بتتذكر غالبًا في تراجع المكتبة."
   },
@@ -1360,23 +1360,23 @@
     "question_ar": "موقف الكنيسة القبطية العقائدي من طبيعة المسيح، اللي سبب انفصالها عن مسيحية خلقيدونية، معروف بإيه؟",
     "options": [
       {
-        "en": "Arianism",
-        "ar": "الأريوسية"
+        "en": "Gnosticism",
+        "ar": "الغنوصية"
       },
       {
-        "en": "Miaphysitism (belief in a single united nature)",
-        "ar": "الطبيعة الواحدة (الإيمان بطبيعة واحدة متحدة)"
+        "en": "Arianism",
+        "ar": "الأريوسية"
       },
       {
         "en": "Iconoclasm",
         "ar": "تحطيم الأيقونات"
       },
       {
-        "en": "Gnosticism",
-        "ar": "الغنوصية"
+        "en": "Miaphysitism (belief in a single united nature)",
+        "ar": "الطبيعة الواحدة (الإيمان بطبيعة واحدة متحدة)"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The Coptic Church holds a Miaphysite Christology, differing from Chalcedonian doctrine.",
     "explanation_ar": "الكنيسة القبطية بتؤمن بعقيدة الطبيعة الواحدة، وده بيختلف عن عقيدة خلقيدونية."
   },
@@ -1390,10 +1390,6 @@
     "question_ar": "الخديوي إسماعيل أسس أنهي معلم كبير بالقاهرة خصيصًا لاحتفالات افتتاح قناة السويس سنة 1869؟",
     "options": [
       {
-        "en": "Al-Azhar Mosque",
-        "ar": "جامع الأزهر"
-      },
-      {
         "en": "The Cairo Citadel",
         "ar": "قلعة القاهرة"
       },
@@ -1404,9 +1400,13 @@
       {
         "en": "The Egyptian Museum",
         "ar": "المتحف المصري"
+      },
+      {
+        "en": "Al-Azhar Mosque",
+        "ar": "جامع الأزهر"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Khedive Ismail built the Cairo Opera House for the Suez Canal celebrations in 1869.",
     "explanation_ar": "الخديوي إسماعيل بنى دار الأوبرا المصرية لاحتفالات قناة السويس سنة 1869."
   },
@@ -1420,23 +1420,23 @@
     "question_ar": "صعود بيبرس جه بعد دوره في هزيمة الحملة الصليبية السابعة، بقيادة أنهي ملك فرنسي اتأسر في مصر؟",
     "options": [
       {
-        "en": "Richard the Lionheart",
-        "ar": "ريتشارد قلب الأسد"
-      },
-      {
-        "en": "Philip II Augustus",
-        "ar": "فيليب التاني أوغسطس"
-      },
-      {
         "en": "Frederick II",
         "ar": "فريدريك التاني"
       },
       {
+        "en": "Richard the Lionheart",
+        "ar": "ريتشارد قلب الأسد"
+      },
+      {
         "en": "Louis IX",
         "ar": "لويس التاسع"
+      },
+      {
+        "en": "Philip II Augustus",
+        "ar": "فيليب التاني أوغسطس"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "King Louis IX of France was captured by Egyptian forces at Mansoura in 1250.",
     "explanation_ar": "الملك لويس التاسع الفرنسي اتأسر على يد القوات المصرية في المنصورة سنة 1250."
   },
@@ -1454,16 +1454,16 @@
         "ar": "القرن التاسع"
       },
       {
-        "en": "The 12th century",
-        "ar": "القرن الثاني عشر"
-      },
-      {
         "en": "The 16th century",
         "ar": "القرن السادس عشر"
       },
       {
         "en": "The 7th century",
         "ar": "القرن السابع"
+      },
+      {
+        "en": "The 12th century",
+        "ar": "القرن الثاني عشر"
       }
     ],
     "correctAnswer": 0,
@@ -1480,16 +1480,16 @@
     "question_ar": "المماليك البرجية في مصر، اللي خلفوا المماليك البحرية، كان أصلهم أنهي عرقية غالبًا؟",
     "options": [
       {
-        "en": "Turkic",
-        "ar": "تركية"
+        "en": "Mongol",
+        "ar": "مغولية"
       },
       {
         "en": "Circassian",
         "ar": "شركسية"
       },
       {
-        "en": "Mongol",
-        "ar": "مغولية"
+        "en": "Turkic",
+        "ar": "تركية"
       },
       {
         "en": "Berber",

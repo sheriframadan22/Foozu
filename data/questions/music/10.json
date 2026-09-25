@@ -9,23 +9,23 @@
     "question_ar": "إيه اللقب اللي بيتنادى بيه عمرو دياب بين جمهوره؟",
     "options": [
       {
-        "en": "El Andalib",
-        "ar": "العندليب"
-      },
-      {
         "en": "El King",
         "ar": "الكينج"
+      },
+      {
+        "en": "El Hadaba",
+        "ar": "الهضبة"
       },
       {
         "en": "El Kabtin",
         "ar": "الكابتن"
       },
       {
-        "en": "El Hadaba",
-        "ar": "الهضبة"
+        "en": "El Andalib",
+        "ar": "العندليب"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Amr Diab is nicknamed \"El Hadaba\" (The Plateau).",
     "explanation_ar": "عمرو دياب معروف بلقب \"الهضبة\"."
   },
@@ -39,23 +39,23 @@
     "question_ar": "أم كلثوم معروفة بلقب \"كوكب ___\"؟",
     "options": [
       {
-        "en": "West",
-        "ar": "الغرب"
+        "en": "Egypt",
+        "ar": "مصر"
       },
       {
-        "en": "East",
-        "ar": "الشرق"
+        "en": "West",
+        "ar": "الغرب"
       },
       {
         "en": "Nile",
         "ar": "النيل"
       },
       {
-        "en": "Egypt",
-        "ar": "مصر"
+        "en": "East",
+        "ar": "الشرق"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Umm Kulthum is known as \"Kawkab El Sharq\" (Star of the East).",
     "explanation_ar": "أم كلثوم لقبها \"كوكب الشرق\"."
   },
@@ -69,20 +69,20 @@
     "question_ar": "مين اللي غنى أغنية \"إنت عمري\" الشهيرة؟",
     "options": [
       {
-        "en": "Sherine",
-        "ar": "شيرين"
+        "en": "Fairuz",
+        "ar": "فيروز"
       },
       {
-        "en": "Warda",
-        "ar": "وردة"
+        "en": "Sherine",
+        "ar": "شيرين"
       },
       {
         "en": "Umm Kulthum",
         "ar": "أم كلثوم"
       },
       {
-        "en": "Fairuz",
-        "ar": "فيروز"
+        "en": "Warda",
+        "ar": "وردة"
       }
     ],
     "correctAnswer": 2,
@@ -103,19 +103,19 @@
         "ar": "كولدبلاي"
       },
       {
+        "en": "Cairokee",
+        "ar": "كايروكي"
+      },
+      {
         "en": "Maroon 5",
         "ar": "مارون 5"
       },
       {
         "en": "Metallica",
         "ar": "ميتاليكا"
-      },
-      {
-        "en": "Cairokee",
-        "ar": "كايروكي"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Cairokee is a well-known Egyptian rock band.",
     "explanation_ar": "كايروكي فرقة روك مصرية معروفة."
   },
@@ -129,23 +129,23 @@
     "question_ar": "مايكل جاكسون معروف بإنه ملك أنهي نوع من الموسيقى؟",
     "options": [
       {
-        "en": "Pop",
-        "ar": "البوب"
+        "en": "Reggae",
+        "ar": "الريجي"
       },
       {
-        "en": "Rock",
-        "ar": "الروك"
+        "en": "Pop",
+        "ar": "البوب"
       },
       {
         "en": "Jazz",
         "ar": "الجاز"
       },
       {
-        "en": "Reggae",
-        "ar": "الريجي"
+        "en": "Rock",
+        "ar": "الروك"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Michael Jackson is called the \"King of Pop\".",
     "explanation_ar": "مايكل جاكسون لقبه \"ملك البوب\"."
   },
@@ -159,12 +159,12 @@
     "question_ar": "الجيتار العادي بيبقى فيه كام وتر؟",
     "options": [
       {
-        "en": "4",
-        "ar": "4"
-      },
-      {
         "en": "6",
         "ar": "6"
+      },
+      {
+        "en": "4",
+        "ar": "4"
       },
       {
         "en": "5",
@@ -175,7 +175,7 @@
         "ar": "8"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "A standard guitar has 6 strings.",
     "explanation_ar": "الجيتار العادي بيبقى فيه 6 أوتار."
   },
@@ -189,23 +189,23 @@
     "question_ar": "إلفيس بريسلي معروف بإنه ملك أنهي حاجة؟",
     "options": [
       {
-        "en": "Country",
-        "ar": "الكانتري"
-      },
-      {
-        "en": "Rock and Roll",
-        "ar": "الروك آند رول"
-      },
-      {
         "en": "Blues",
         "ar": "البلوز"
       },
       {
         "en": "Disco",
         "ar": "الديسكو"
+      },
+      {
+        "en": "Country",
+        "ar": "الكانتري"
+      },
+      {
+        "en": "Rock and Roll",
+        "ar": "الروك آند رول"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Elvis Presley is known as the \"King of Rock and Roll\".",
     "explanation_ar": "إلفيس بريسلي لقبه \"ملك الروك آند رول\"."
   },
@@ -219,6 +219,10 @@
     "question_ar": "مين المطرب المصري اللي غنى أغنية \"عز العرب\"؟",
     "options": [
       {
+        "en": "Wegz",
+        "ar": "ويجز"
+      },
+      {
         "en": "Mohamed Ramadan",
         "ar": "محمد رمضان"
       },
@@ -227,15 +231,11 @@
         "ar": "مروان بابلو"
       },
       {
-        "en": "Wegz",
-        "ar": "ويجز"
-      },
-      {
         "en": "Afroto",
         "ar": "أفروتو"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "\"Ezz El Arab\" is one of Wegz's biggest hits.",
     "explanation_ar": "\"عز العرب\" من أشهر أغاني ويجز."
   },
@@ -283,19 +283,19 @@
         "ar": "مصر"
       },
       {
-        "en": "Syria",
-        "ar": "سوريا"
-      },
-      {
         "en": "Lebanon",
         "ar": "لبنان"
       },
       {
         "en": "Jordan",
         "ar": "الأردن"
+      },
+      {
+        "en": "Syria",
+        "ar": "سوريا"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Ragheb Alama is a well-known Lebanese singer.",
     "explanation_ar": "راغب علامة مطرب لبناني معروف."
   },
@@ -305,29 +305,29 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Beyoncé rose to fame as part of which girl group?",
-    "question_ar": "بيونسيه بقت مشهورة أول مرة مع أنهي فريق بنات؟",
+    "question_en": "Which Egyptian singer, known simply as \"Hamaki\", is a popular romantic pop star who rose to fame in the 2000s?",
+    "question_ar": "أنهي مطرب مصري، معروف باسم \"حماقي\"، نجم بوب رومانسي مشهور طلع في الألفينات؟",
     "options": [
       {
-        "en": "Destiny's Child",
-        "ar": "ديستنيز تشايلد"
+        "en": "Mohamed Hamaki",
+        "ar": "محمد حماقي"
       },
       {
-        "en": "Spice Girls",
-        "ar": "سبايس جيرلز"
+        "en": "Tamer Hosny",
+        "ar": "تامر حسني"
       },
       {
-        "en": "Fifth Harmony",
-        "ar": "فيفث هارموني"
+        "en": "Amr Diab",
+        "ar": "عمرو دياب"
       },
       {
-        "en": "TLC",
-        "ar": "تي إل سي"
+        "en": "Ehab Tawfik",
+        "ar": "إيهاب توفيق"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Beyoncé started her career with Destiny's Child.",
-    "explanation_ar": "بيونسيه بدأت مشوارها مع فريق ديستنيز تشايلد."
+    "explanation_en": "Mohamed Hamaki, known as \"Hamaki\", is a popular Egyptian romantic pop singer.",
+    "explanation_ar": "محمد حماقي، المعروف باسم \"حماقي\"، مطرب بوب رومانسي مصري مشهور."
   },
   {
     "id": "MUS-010-012",
@@ -339,8 +339,8 @@
     "question_ar": "أنهي آلة موسيقية فيها 88 مفتاح؟",
     "options": [
       {
-        "en": "Guitar",
-        "ar": "جيتار"
+        "en": "Drum",
+        "ar": "طبلة"
       },
       {
         "en": "Piano",
@@ -351,8 +351,8 @@
         "ar": "كمان"
       },
       {
-        "en": "Drum",
-        "ar": "طبلة"
+        "en": "Guitar",
+        "ar": "جيتار"
       }
     ],
     "correctAnswer": 1,
@@ -369,20 +369,20 @@
     "question_ar": "تامر حسني مشهور في مصر كمطرب و ___ كمان؟",
     "options": [
       {
-        "en": "Chef",
-        "ar": "شيف"
+        "en": "Painter",
+        "ar": "رسام"
       },
       {
-        "en": "Footballer",
-        "ar": "لاعب كورة"
+        "en": "Chef",
+        "ar": "شيف"
       },
       {
         "en": "Actor",
         "ar": "ممثل"
       },
       {
-        "en": "Painter",
-        "ar": "رسام"
+        "en": "Footballer",
+        "ar": "لاعب كورة"
       }
     ],
     "correctAnswer": 2,
@@ -399,8 +399,8 @@
     "question_ar": "محمد منير جمهوره بينده عليه \"ال ___\"؟",
     "options": [
       {
-        "en": "Sultan",
-        "ar": "سلطان"
+        "en": "Zaeem",
+        "ar": "زعيم"
       },
       {
         "en": "Basha",
@@ -411,8 +411,8 @@
         "ar": "كينج"
       },
       {
-        "en": "Zaeem",
-        "ar": "زعيم"
+        "en": "Sultan",
+        "ar": "سلطان"
       }
     ],
     "correctAnswer": 2,
@@ -429,23 +429,23 @@
     "question_ar": "عبد الحليم حافظ كان معروف بلقب \"ال ___\" (العندليب)؟",
     "options": [
       {
-        "en": "Andalib",
-        "ar": "عندليب"
+        "en": "Kabtin",
+        "ar": "كابتن"
       },
       {
         "en": "Sindibad",
         "ar": "سندباد"
       },
       {
-        "en": "Kabtin",
-        "ar": "كابتن"
+        "en": "Andalib",
+        "ar": "عندليب"
       },
       {
         "en": "Amir",
         "ar": "أمير"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Abdel Halim Hafez was known as \"El Andalib\" (The Nightingale).",
     "explanation_ar": "عبد الحليم حافظ كان لقبه \"العندليب\"."
   },
@@ -459,23 +459,23 @@
     "question_ar": "فيروز من أشهر مطربات أنهي بلد؟",
     "options": [
       {
-        "en": "Syria",
-        "ar": "سوريا"
-      },
-      {
-        "en": "Jordan",
-        "ar": "الأردن"
-      },
-      {
         "en": "Lebanon",
         "ar": "لبنان"
       },
       {
         "en": "Iraq",
         "ar": "العراق"
+      },
+      {
+        "en": "Syria",
+        "ar": "سوريا"
+      },
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Fairuz is a legendary Lebanese singer.",
     "explanation_ar": "فيروز مطربة لبنانية أسطورية."
   },
@@ -493,19 +493,19 @@
         "ar": "مصر"
       },
       {
+        "en": "Syria",
+        "ar": "سوريا"
+      },
+      {
         "en": "Lebanon",
         "ar": "لبنان"
       },
       {
         "en": "Jordan",
         "ar": "الأردن"
-      },
-      {
-        "en": "Syria",
-        "ar": "سوريا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Najwa Karam is a Lebanese singer nicknamed \"Sultanat Al Tarab\".",
     "explanation_ar": "نجوى كرم مطربة لبنانية ملقبة بـ\"سلطانة الطرب\"."
   },
@@ -523,19 +523,19 @@
         "ar": "أمريكا"
       },
       {
+        "en": "Australia",
+        "ar": "أستراليا"
+      },
+      {
         "en": "Canada",
         "ar": "كندا"
       },
       {
         "en": "UK",
         "ar": "بريطانيا"
-      },
-      {
-        "en": "Australia",
-        "ar": "أستراليا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Justin Bieber is Canadian.",
     "explanation_ar": "جاستن بيبر كندي الجنسية."
   },
@@ -553,16 +553,16 @@
         "ar": "باربادوس"
       },
       {
-        "en": "Jamaica",
-        "ar": "جامايكا"
-      },
-      {
         "en": "Trinidad",
         "ar": "ترينيداد"
       },
       {
         "en": "Bahamas",
         "ar": "الباهاماس"
+      },
+      {
+        "en": "Jamaica",
+        "ar": "جامايكا"
       }
     ],
     "correctAnswer": 0,
@@ -579,23 +579,23 @@
     "question_ar": "إد شيران عمل هيت ضخم سنة 2017 اسمه \"Shape of ___\"؟",
     "options": [
       {
-        "en": "You",
-        "ar": "يو"
+        "en": "Life",
+        "ar": "لايف"
       },
       {
         "en": "Love",
         "ar": "لاف"
       },
       {
-        "en": "Us",
-        "ar": "أس"
+        "en": "You",
+        "ar": "يو"
       },
       {
-        "en": "Life",
-        "ar": "لايف"
+        "en": "Us",
+        "ar": "أس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "\"Shape of You\" was a global Ed Sheeran hit.",
     "explanation_ar": "\"Shape of You\" كانت هيت عالمي لإد شيران."
   },
@@ -609,23 +609,23 @@
     "question_ar": "دريك واحد من أكبر رابرز في العالم من أنهي مدينة؟",
     "options": [
       {
-        "en": "New York",
-        "ar": "نيويورك"
-      },
-      {
-        "en": "Toronto",
-        "ar": "تورونتو"
-      },
-      {
         "en": "Los Angeles",
         "ar": "لوس أنجلوس"
       },
       {
+        "en": "New York",
+        "ar": "نيويورك"
+      },
+      {
         "en": "Atlanta",
         "ar": "أتلانتا"
+      },
+      {
+        "en": "Toronto",
+        "ar": "تورونتو"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Drake is from Toronto, Canada.",
     "explanation_ar": "دريك من مدينة تورونتو الكندية."
   },
@@ -639,23 +639,23 @@
     "question_ar": "أنهي أغنية شهيرة لويتني هيوستن بيكون فيها \"I will always love you\"؟",
     "options": [
       {
-        "en": "Greatest Love of All",
-        "ar": "Greatest Love of All"
-      },
-      {
         "en": "I Will Always Love You",
         "ar": "I Will Always Love You"
+      },
+      {
+        "en": "I Wanna Dance With Somebody",
+        "ar": "I Wanna Dance With Somebody"
       },
       {
         "en": "How Will I Know",
         "ar": "How Will I Know"
       },
       {
-        "en": "I Wanna Dance With Somebody",
-        "ar": "I Wanna Dance With Somebody"
+        "en": "Greatest Love of All",
+        "ar": "Greatest Love of All"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "\"I Will Always Love You\" is a Whitney Houston classic.",
     "explanation_ar": "\"I Will Always Love You\" أغنية كلاسيكية لويتني هيوستن."
   },
@@ -677,12 +677,12 @@
         "ar": "ليفربول"
       },
       {
-        "en": "Manchester",
-        "ar": "مانشستر"
-      },
-      {
         "en": "Glasgow",
         "ar": "جلاسجو"
+      },
+      {
+        "en": "Manchester",
+        "ar": "مانشستر"
       }
     ],
     "correctAnswer": 1,
@@ -699,23 +699,23 @@
     "question_ar": "شاكيرا مغنية \"Waka Waka\" من أنهي بلد؟",
     "options": [
       {
-        "en": "Mexico",
-        "ar": "المكسيك"
-      },
-      {
-        "en": "Spain",
-        "ar": "إسبانيا"
-      },
-      {
         "en": "Argentina",
         "ar": "الأرجنتين"
       },
       {
         "en": "Colombia",
         "ar": "كولومبيا"
+      },
+      {
+        "en": "Mexico",
+        "ar": "المكسيك"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Shakira is Colombian.",
     "explanation_ar": "شاكيرا كولومبية الجنسية."
   },
@@ -729,10 +729,6 @@
     "question_ar": "مروان بابلو معروف في مصر بأنهي نوع موسيقى؟",
     "options": [
       {
-        "en": "Trap/Rap",
-        "ar": "تراب/راب"
-      },
-      {
         "en": "Classical",
         "ar": "كلاسيك"
       },
@@ -743,9 +739,13 @@
       {
         "en": "Jazz",
         "ar": "جاز"
+      },
+      {
+        "en": "Trap/Rap",
+        "ar": "تراب/راب"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Marwan Pablo is a well-known Egyptian trap/rap artist.",
     "explanation_ar": "مروان بابلو من أشهر فناني التراب والراب في مصر."
   },
@@ -759,23 +759,23 @@
     "question_ar": "نانسي عجرم مغنية \"آه ونص\" أصلها من أنهي بلد؟",
     "options": [
       {
-        "en": "Lebanon",
-        "ar": "لبنان"
-      },
-      {
         "en": "Syria",
         "ar": "سوريا"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
       },
       {
         "en": "Jordan",
         "ar": "الأردن"
       },
       {
-        "en": "Egypt",
-        "ar": "مصر"
+        "en": "Lebanon",
+        "ar": "لبنان"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Nancy Ajram is Lebanese.",
     "explanation_ar": "نانسي عجرم لبنانية الجنسية."
   },
@@ -789,8 +789,8 @@
     "question_ar": "إليسا واحدة من أكبر مطربات البوب العرب، من أنهي بلد؟",
     "options": [
       {
-        "en": "Lebanon",
-        "ar": "لبنان"
+        "en": "Morocco",
+        "ar": "المغرب"
       },
       {
         "en": "Egypt",
@@ -801,11 +801,11 @@
         "ar": "تونس"
       },
       {
-        "en": "Morocco",
-        "ar": "المغرب"
+        "en": "Lebanon",
+        "ar": "لبنان"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Elissa is Lebanese.",
     "explanation_ar": "إليسا لبنانية الجنسية."
   },
@@ -827,15 +827,15 @@
         "ar": "شيف"
       },
       {
-        "en": "Singer",
-        "ar": "مطرب"
-      },
-      {
         "en": "Painter",
         "ar": "رسام"
+      },
+      {
+        "en": "Singer",
+        "ar": "مطرب"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Mohamed Ramadan is a well-known actor and singer.",
     "explanation_ar": "محمد رمضان ممثل ومطرب معروف."
   },
@@ -849,23 +849,23 @@
     "question_ar": "إيه تكملة اسم واحدة من أشهر أغاني عمرو دياب \"حبيبي يا نور ال___\"؟",
     "options": [
       {
-        "en": "Shams",
-        "ar": "شمس"
-      },
-      {
         "en": "Amar",
         "ar": "قمر"
       },
       {
-        "en": "Ain",
-        "ar": "عين"
+        "en": "Shams",
+        "ar": "شمس"
       },
       {
         "en": "Donya",
         "ar": "دنيا"
+      },
+      {
+        "en": "Ain",
+        "ar": "عين"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "\"Habibi Ya Nour El Ain\" is one of Amr Diab's most iconic hits.",
     "explanation_ar": "\"حبيبي يا نور العين\" من أشهر أغاني عمرو دياب."
   },
@@ -879,10 +879,6 @@
     "question_ar": "أصالة نصري، المطربة العربية بصوتها القوي، أصلها من أنهي بلد؟",
     "options": [
       {
-        "en": "Syria",
-        "ar": "سوريا"
-      },
-      {
         "en": "Egypt",
         "ar": "مصر"
       },
@@ -893,9 +889,13 @@
       {
         "en": "Jordan",
         "ar": "الأردن"
+      },
+      {
+        "en": "Syria",
+        "ar": "سوريا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Assala Nasri is a Syrian singer.",
     "explanation_ar": "أصالة نصري مطربة سورية."
   },
@@ -909,10 +909,6 @@
     "question_ar": "أنهي آلة موسيقية بتتعزف بقوس وفيها 4 أوتار؟",
     "options": [
       {
-        "en": "Violin",
-        "ar": "كمان"
-      },
-      {
         "en": "Guitar",
         "ar": "جيتار"
       },
@@ -923,9 +919,13 @@
       {
         "en": "Piano",
         "ar": "بيانو"
+      },
+      {
+        "en": "Violin",
+        "ar": "كمان"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The violin is played with a bow and has 4 strings.",
     "explanation_ar": "الكمان بيتعزف بقوس وفيه 4 أوتار."
   },
@@ -939,23 +939,23 @@
     "question_ar": "بوب مارلي أسطورة الريجي كان من أنهي بلد؟",
     "options": [
       {
-        "en": "Cuba",
-        "ar": "كوبا"
-      },
-      {
-        "en": "Haiti",
-        "ar": "هايتي"
-      },
-      {
         "en": "Jamaica",
         "ar": "جامايكا"
       },
       {
         "en": "Bahamas",
         "ar": "الباهاماس"
+      },
+      {
+        "en": "Haiti",
+        "ar": "هايتي"
+      },
+      {
+        "en": "Cuba",
+        "ar": "كوبا"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Bob Marley was from Jamaica.",
     "explanation_ar": "بوب مارلي كان من جامايكا."
   },
@@ -969,23 +969,23 @@
     "question_ar": "حسين الجسمي، مغني \"بشرة خير\"، من أنهي بلد؟",
     "options": [
       {
-        "en": "UAE",
-        "ar": "الإمارات"
-      },
-      {
         "en": "Saudi Arabia",
         "ar": "السعودية"
       },
       {
-        "en": "Qatar",
-        "ar": "قطر"
+        "en": "UAE",
+        "ar": "الإمارات"
       },
       {
         "en": "Bahrain",
         "ar": "البحرين"
+      },
+      {
+        "en": "Qatar",
+        "ar": "قطر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Hussain Al Jassmi is an Emirati singer.",
     "explanation_ar": "حسين الجسمي مطرب إماراتي."
   },
@@ -995,29 +995,29 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "What do we call an instrument like the drums that you hit to make sound?",
-    "question_ar": "بيتقال إيه على الآلات اللي بتتضرب عشان يطلع منها صوت زي الطبلة؟",
+    "question_en": "Which Egyptian singer became a viral sensation with the mahraganat hit \"Bent El Giran\"?",
+    "question_ar": "أنهي مطرب مصري بقى مشهور جدًا بأغنية المهرجانات الفيروسية \"بنت الجيران\"؟",
     "options": [
       {
-        "en": "String",
-        "ar": "وترية"
+        "en": "Hassan Shakosh",
+        "ar": "حسن شاكوش"
       },
       {
-        "en": "Wind",
-        "ar": "هوائية"
+        "en": "Afroto",
+        "ar": "أفروتو"
       },
       {
-        "en": "Brass",
-        "ar": "نحاسية"
+        "en": "Wegz",
+        "ar": "ويجز"
       },
       {
-        "en": "Percussion",
-        "ar": "إيقاعية"
+        "en": "Marwan Pablo",
+        "ar": "مروان بابلو"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Instruments played by striking, like drums, are called percussion instruments.",
-    "explanation_ar": "الآلات اللي بتتضرب زي الطبلة اسمها آلات إيقاعية."
+    "correctAnswer": 0,
+    "explanation_en": "Hassan Shakosh became hugely popular with \"Bent El Giran\".",
+    "explanation_ar": "حسن شاكوش بقى مشهور جدًا بأغنية \"بنت الجيران\"."
   },
   {
     "id": "MUS-010-035",
@@ -1037,12 +1037,12 @@
         "ar": "مصر"
       },
       {
-        "en": "Syria",
-        "ar": "سوريا"
-      },
-      {
         "en": "Jordan",
         "ar": "الأردن"
+      },
+      {
+        "en": "Syria",
+        "ar": "سوريا"
       }
     ],
     "correctAnswer": 1,
@@ -1059,23 +1059,23 @@
     "question_ar": "أنهي واحدة من دول تطبيق لسماع الموسيقى؟",
     "options": [
       {
-        "en": "Spotify",
-        "ar": "سبوتيفاي"
+        "en": "LinkedIn",
+        "ar": "لينكدإن"
       },
       {
         "en": "Instagram",
         "ar": "إنستجرام"
       },
       {
-        "en": "LinkedIn",
-        "ar": "لينكدإن"
-      },
-      {
         "en": "Snapchat",
         "ar": "سناب شات"
+      },
+      {
+        "en": "Spotify",
+        "ar": "سبوتيفاي"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Spotify is a popular music streaming service.",
     "explanation_ar": "سبوتيفاي تطبيق مشهور لسماع الموسيقى."
   },
@@ -1089,8 +1089,8 @@
     "question_ar": "أنهي آلة نفخ عربية تقليدية، عبارة عن ناي من القصب، أساسية في فرق الموسيقى العربية الكلاسيكية؟",
     "options": [
       {
-        "en": "Oud",
-        "ar": "العود"
+        "en": "Darbuka",
+        "ar": "الدربوكة"
       },
       {
         "en": "Qanun",
@@ -1101,8 +1101,8 @@
         "ar": "الناي"
       },
       {
-        "en": "Darbuka",
-        "ar": "الدربوكة"
+        "en": "Oud",
+        "ar": "العود"
       }
     ],
     "correctAnswer": 2,
@@ -1119,23 +1119,23 @@
     "question_ar": "تايلور سويفت واحدة من أكبر نجمات البوب في العالم، من أنهي بلد؟",
     "options": [
       {
-        "en": "UK",
-        "ar": "بريطانيا"
+        "en": "USA",
+        "ar": "أمريكا"
       },
       {
         "en": "Canada",
         "ar": "كندا"
       },
       {
-        "en": "Australia",
-        "ar": "أستراليا"
+        "en": "UK",
+        "ar": "بريطانيا"
       },
       {
-        "en": "USA",
-        "ar": "أمريكا"
+        "en": "Australia",
+        "ar": "أستراليا"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Taylor Swift is American.",
     "explanation_ar": "تايلور سويفت أمريكية الجنسية."
   },
@@ -1149,23 +1149,23 @@
     "question_ar": "بيتقال إيه على أداء غنائي بمطرب واحد بس من غير حد تاني؟",
     "options": [
       {
-        "en": "Duet",
-        "ar": "دويتو"
-      },
-      {
         "en": "Solo",
         "ar": "سولو"
       },
       {
-        "en": "Trio",
-        "ar": "تريو"
-      },
-      {
         "en": "Chorus",
         "ar": "كورال"
+      },
+      {
+        "en": "Duet",
+        "ar": "دويتو"
+      },
+      {
+        "en": "Trio",
+        "ar": "تريو"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "A performance by one singer alone is called a solo.",
     "explanation_ar": "الأداء بمطرب واحد لوحده اسمه سولو."
   },
@@ -1179,10 +1179,6 @@
     "question_ar": "بيتقال إيه على أداء موسيقى حي قدام جمهور؟",
     "options": [
       {
-        "en": "Recording",
-        "ar": "تسجيل"
-      },
-      {
         "en": "Rehearsal",
         "ar": "بروفة"
       },
@@ -1193,9 +1189,13 @@
       {
         "en": "Concert",
         "ar": "حفلة/كونسير"
+      },
+      {
+        "en": "Recording",
+        "ar": "تسجيل"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "A live music performance in front of an audience is called a concert.",
     "explanation_ar": "الأداء الحي قدام الجمهور اسمه حفلة/كونسير."
   },
@@ -1209,12 +1209,12 @@
     "question_ar": "إيمينم، واحد من أشهر الرابرز في التاريخ، من أنهي مدينة أمريكية؟",
     "options": [
       {
-        "en": "Chicago",
-        "ar": "شيكاغو"
-      },
-      {
         "en": "Miami",
         "ar": "ميامي"
+      },
+      {
+        "en": "Chicago",
+        "ar": "شيكاغو"
       },
       {
         "en": "Boston",
@@ -1239,20 +1239,20 @@
     "question_ar": "بيتقال إيه على كلام الأغنية؟",
     "options": [
       {
-        "en": "Melody",
-        "ar": "لحن"
+        "en": "Chorus line",
+        "ar": "كورال"
       },
       {
         "en": "Lyrics",
         "ar": "كلمات"
       },
       {
-        "en": "Rhythm",
-        "ar": "إيقاع"
+        "en": "Melody",
+        "ar": "لحن"
       },
       {
-        "en": "Chorus line",
-        "ar": "كورال"
+        "en": "Rhythm",
+        "ar": "إيقاع"
       }
     ],
     "correctAnswer": 1,
@@ -1269,10 +1269,6 @@
     "question_ar": "أنهي فنان مشهور بأغنية وألبوم \"Thriller\"؟",
     "options": [
       {
-        "en": "Prince",
-        "ar": "برنس"
-      },
-      {
         "en": "Michael Jackson",
         "ar": "مايكل جاكسون"
       },
@@ -1281,11 +1277,15 @@
         "ar": "ستيفي وندر"
       },
       {
+        "en": "Prince",
+        "ar": "برنس"
+      },
+      {
         "en": "James Brown",
         "ar": "جيمس براون"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "\"Thriller\" is one of Michael Jackson's most famous works.",
     "explanation_ar": "\"Thriller\" من أشهر أعمال مايكل جاكسون."
   },
@@ -1299,23 +1299,23 @@
     "question_ar": "أنهي آلة من دول بتتعزف عن طريق النفخ فيها؟",
     "options": [
       {
-        "en": "Guitar",
-        "ar": "جيتار"
-      },
-      {
-        "en": "Flute",
-        "ar": "فلوت"
-      },
-      {
         "en": "Piano",
         "ar": "بيانو"
       },
       {
         "en": "Drum",
         "ar": "طبلة"
+      },
+      {
+        "en": "Flute",
+        "ar": "فلوت"
+      },
+      {
+        "en": "Guitar",
+        "ar": "جيتار"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "The flute is a wind instrument played by blowing.",
     "explanation_ar": "الفلوت آلة هوائية بتتعزف بالنفخ."
   },
@@ -1329,23 +1329,23 @@
     "question_ar": "أغنية ويجز \"دورك جاي\" كانت مرتبطة بأنهي حدث رياضي كبير سنة 2022؟",
     "options": [
       {
-        "en": "Africa Cup of Nations",
-        "ar": "كأس أمم أفريقيا"
-      },
-      {
         "en": "FIFA World Cup",
         "ar": "كأس العالم"
       },
       {
-        "en": "Olympics",
-        "ar": "الأولمبياد"
-      },
-      {
         "en": "UEFA Euro",
         "ar": "يورو"
+      },
+      {
+        "en": "Africa Cup of Nations",
+        "ar": "كأس أمم أفريقيا"
+      },
+      {
+        "en": "Olympics",
+        "ar": "الأولمبياد"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "\"Dorak Gai\" was released as part of the 2022 FIFA World Cup in Qatar.",
     "explanation_ar": "\"دورك جاي\" طلعت مرتبطة بكأس العالم 2022 في قطر."
   },
@@ -1359,12 +1359,12 @@
     "question_ar": "بيتقال إيه على أغنية بتتغنى بالصوت بس من غير أي آلات؟",
     "options": [
       {
-        "en": "Instrumental",
-        "ar": "إنسترومنتال"
-      },
-      {
         "en": "A cappella",
         "ar": "أكابيلا"
+      },
+      {
+        "en": "Instrumental",
+        "ar": "إنسترومنتال"
       },
       {
         "en": "Remix",
@@ -1375,7 +1375,7 @@
         "ar": "كفر"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "A song performed with voices only is called a cappella.",
     "explanation_ar": "الأغنية اللي بتتغنى بالصوت بس اسمها أكابيلا."
   },
@@ -1419,23 +1419,23 @@
     "question_ar": "فريدي ميركوري مطرب فرقة كوين اشتهر بأغنية \"Bohemian ___\"؟",
     "options": [
       {
-        "en": "Symphony",
-        "ar": "سيمفوني"
-      },
-      {
-        "en": "Serenade",
-        "ar": "سيرينيد"
-      },
-      {
         "en": "Rhapsody",
         "ar": "رابسودي"
       },
       {
         "en": "Requiem",
         "ar": "ريكويم"
+      },
+      {
+        "en": "Symphony",
+        "ar": "سيمفوني"
+      },
+      {
+        "en": "Serenade",
+        "ar": "سيرينيد"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "\"Bohemian Rhapsody\" is Queen's most iconic song.",
     "explanation_ar": "\"Bohemian Rhapsody\" أشهر أغاني فرقة كوين."
   },
@@ -1479,23 +1479,23 @@
     "question_ar": "أنهي فنانة عالمية معروفة بلقب \"ملكة البوب\"؟",
     "options": [
       {
-        "en": "Cher",
-        "ar": "شير"
+        "en": "Madonna",
+        "ar": "مادونا"
       },
       {
         "en": "Lady Gaga",
         "ar": "ليدي جاجا"
       },
       {
-        "en": "Madonna",
-        "ar": "مادونا"
+        "en": "Cher",
+        "ar": "شير"
       },
       {
         "en": "Celine Dion",
         "ar": "سيلين ديون"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Madonna has long been called the \"Queen of Pop\".",
     "explanation_ar": "مادونا معروفة من زمان بلقب \"ملكة البوب\"."
   }

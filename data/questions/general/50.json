@@ -5,29 +5,29 @@
     "category_ar": "عامة",
     "value": 50,
     "difficulty": 3,
-    "question_en": "What is the chemical symbol for gold?",
-    "question_ar": "إيه الرمز الكيميائي للدهب؟",
+    "question_en": "Which company developed the Android operating system?",
+    "question_ar": "أنهي شركة اللي طورت نظام تشغيل أندرويد؟",
     "options": [
       {
-        "en": "Au",
-        "ar": "Au"
+        "en": "Microsoft",
+        "ar": "مايكروسوفت"
       },
       {
-        "en": "Ag",
-        "ar": "Ag"
+        "en": "Apple",
+        "ar": "آبل"
       },
       {
-        "en": "Go",
-        "ar": "Go"
+        "en": "Google",
+        "ar": "جوجل"
       },
       {
-        "en": "Gd",
-        "ar": "Gd"
+        "en": "Samsung",
+        "ar": "سامسونج"
       }
     ],
-    "correctAnswer": 0,
-    "explanation_en": "Gold's chemical symbol is Au, from the Latin 'aurum'.",
-    "explanation_ar": "الرمز الكيميائي للدهب هو Au من الكلمة اللاتينية 'aurum'."
+    "correctAnswer": 2,
+    "explanation_en": "Google develops and maintains the Android operating system.",
+    "explanation_ar": "جوجل هي اللي بتطور وبتدير نظام أندرويد."
   },
   {
     "id": "GEN-050-002",
@@ -43,19 +43,19 @@
         "ar": "نيكولا تسلا"
       },
       {
-        "en": "Thomas Edison",
-        "ar": "توماس إديسون"
-      },
-      {
         "en": "Alexander Graham Bell",
         "ar": "ألكسندر جراهام بيل"
       },
       {
         "en": "Benjamin Franklin",
         "ar": "بنجامين فرانكلين"
+      },
+      {
+        "en": "Thomas Edison",
+        "ar": "توماس إديسون"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Thomas Edison is widely credited with developing the practical light bulb.",
     "explanation_ar": "توماس إديسون بينسب له تطوير اللمبة الكهربائية العملية."
   },
@@ -69,6 +69,10 @@
     "question_ar": "إيه أصغر دولة في العالم؟",
     "options": [
       {
+        "en": "Vatican City",
+        "ar": "الفاتيكان"
+      },
+      {
         "en": "Monaco",
         "ar": "موناكو"
       },
@@ -77,15 +81,11 @@
         "ar": "سان مارينو"
       },
       {
-        "en": "Vatican City",
-        "ar": "الفاتيكان"
-      },
-      {
         "en": "Liechtenstein",
         "ar": "ليختنشتاين"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Vatican City is the smallest country in the world by area.",
     "explanation_ar": "الفاتيكان أصغر دولة في العالم من حيث المساحة."
   },
@@ -95,29 +95,29 @@
     "category_ar": "عامة",
     "value": 50,
     "difficulty": 3,
-    "question_en": "What is the largest island in the world?",
-    "question_ar": "إيه أكبر جزيرة في العالم؟",
+    "question_en": "Which social media platform's logo used to be a small blue bird?",
+    "question_ar": "أنهي منصة تواصل اجتماعي كان شعارها عصفورة زرقا صغيرة؟",
     "options": [
       {
-        "en": "Madagascar",
-        "ar": "مدغشقر"
+        "en": "Facebook",
+        "ar": "فيسبوك"
       },
       {
-        "en": "Borneo",
-        "ar": "بورنيو"
+        "en": "Twitter (now X)",
+        "ar": "تويتر (دلوقتي X)"
       },
       {
-        "en": "Iceland",
-        "ar": "آيسلندا"
+        "en": "Pinterest",
+        "ar": "بينتريست"
       },
       {
-        "en": "Greenland",
-        "ar": "جرينلاند"
+        "en": "LinkedIn",
+        "ar": "لينكدإن"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Greenland is the world's largest island.",
-    "explanation_ar": "جرينلاند هي أكبر جزيرة في العالم."
+    "correctAnswer": 1,
+    "explanation_en": "Twitter's original logo was a small blue bird before it rebranded to X.",
+    "explanation_ar": "شعار تويتر الأصلي كان عصفورة زرقا قبل ما يتغير للاسم X."
   },
   {
     "id": "GEN-050-005",
@@ -125,29 +125,29 @@
     "category_ar": "عامة",
     "value": 50,
     "difficulty": 3,
-    "question_en": "What is the hardest naturally occurring substance on Earth?",
-    "question_ar": "إيه أصلب مادة طبيعية على كوكب الأرض؟",
+    "question_en": "What is the most spoken native language in the world?",
+    "question_ar": "إيه أكتر لغة أم متكلمة في العالم؟",
     "options": [
       {
-        "en": "Diamond",
-        "ar": "الألماظ"
+        "en": "Mandarin Chinese",
+        "ar": "الصينية الماندرين"
       },
       {
-        "en": "Quartz",
-        "ar": "الكوارتز"
+        "en": "Hindi",
+        "ar": "الهندية"
       },
       {
-        "en": "Iron",
-        "ar": "الحديد"
+        "en": "Spanish",
+        "ar": "الإسبانية"
       },
       {
-        "en": "Granite",
-        "ar": "الجرانيت"
+        "en": "English",
+        "ar": "الإنجليزية"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Diamond is the hardest naturally occurring substance.",
-    "explanation_ar": "الألماظ هو أصلب مادة طبيعية موجودة."
+    "explanation_en": "Mandarin Chinese has the largest number of native speakers.",
+    "explanation_ar": "الصينية الماندرين عندها أكبر عدد من الناطقين بيها كلغة أم."
   },
   {
     "id": "GEN-050-006",
@@ -155,29 +155,29 @@
     "category_ar": "عامة",
     "value": 50,
     "difficulty": 3,
-    "question_en": "In what year did the Suez Canal officially open?",
-    "question_ar": "قناة السويس اتفتحت رسميًا سنة كام؟",
+    "question_en": "What is the traditional Japanese art of paper folding called?",
+    "question_ar": "إيه اسم فن طي الورق التقليدي الياباني؟",
     "options": [
       {
-        "en": "1902",
-        "ar": "1902"
+        "en": "Origami",
+        "ar": "أوريجامي"
       },
       {
-        "en": "1869",
-        "ar": "1869"
+        "en": "Ikebana",
+        "ar": "إيكيبانا"
       },
       {
-        "en": "1956",
-        "ar": "1956"
+        "en": "Sumi-e",
+        "ar": "سومي-إيه"
       },
       {
-        "en": "1820",
-        "ar": "1820"
+        "en": "Bonsai",
+        "ar": "بونساي"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "The Suez Canal opened in 1869.",
-    "explanation_ar": "قناة السويس اتفتحت سنة 1869."
+    "correctAnswer": 0,
+    "explanation_en": "Origami is the traditional Japanese art of paper folding.",
+    "explanation_ar": "الأوريجامي هو فن طي الورق التقليدي الياباني."
   },
   {
     "id": "GEN-050-007",
@@ -193,19 +193,19 @@
         "ar": "جوستاف إيفل"
       },
       {
-        "en": "Frank Lloyd Wright",
-        "ar": "فرانك لويد رايت"
-      },
-      {
         "en": "Antoni Gaudí",
         "ar": "أنطونيو جاودي"
       },
       {
         "en": "Zaha Hadid",
         "ar": "زها حديد"
+      },
+      {
+        "en": "Frank Lloyd Wright",
+        "ar": "فرانك لويد رايت"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Antoni Gaudí designed the Sagrada Familia.",
     "explanation_ar": "أنطونيو جاودي هو مصمم كنيسة الساجرادا فاميليا."
   },
@@ -219,10 +219,6 @@
     "question_ar": "إيه معنى اختصار 'HTML'؟",
     "options": [
       {
-        "en": "High Text Machine Language",
-        "ar": "هاي تكست ماشين لانجويدج"
-      },
-      {
         "en": "Hyperlink Text Manage Log",
         "ar": "هايبرلينك تكست مانيدج لوج"
       },
@@ -233,9 +229,13 @@
       {
         "en": "HyperText Markup Language",
         "ar": "هايبر تكست ماركاب لانجويدج"
+      },
+      {
+        "en": "High Text Machine Language",
+        "ar": "هاي تكست ماشين لانجويدج"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "HTML stands for HyperText Markup Language.",
     "explanation_ar": "HTML معناها HyperText Markup Language."
   },
@@ -249,6 +249,10 @@
     "question_ar": "في كرة السلة، كام لاعب من كل فريق بيكون في الملعب في نفس الوقت؟",
     "options": [
       {
+        "en": "4",
+        "ar": "4"
+      },
+      {
         "en": "5",
         "ar": "5"
       },
@@ -259,13 +263,9 @@
       {
         "en": "7",
         "ar": "7"
-      },
-      {
-        "en": "4",
-        "ar": "4"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Each basketball team has 5 players on court at once.",
     "explanation_ar": "كل فريق كرة سلة بيكون له 5 لاعبين في الملعب في نفس الوقت."
   },
@@ -279,23 +279,23 @@
     "question_ar": "إيه الشركة المالكة ليوتيوب؟",
     "options": [
       {
-        "en": "Meta",
-        "ar": "ميتا"
-      },
-      {
         "en": "Google",
         "ar": "جوجل"
+      },
+      {
+        "en": "Amazon",
+        "ar": "أمازون"
       },
       {
         "en": "Microsoft",
         "ar": "مايكروسوفت"
       },
       {
-        "en": "Amazon",
-        "ar": "أمازون"
+        "en": "Meta",
+        "ar": "ميتا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "YouTube is owned by Google.",
     "explanation_ar": "يوتيوب مملوكة لجوجل."
   },
@@ -309,10 +309,6 @@
     "question_ar": "مين اللي رسم لوحة الموناليزا؟",
     "options": [
       {
-        "en": "Michelangelo",
-        "ar": "مايكل أنجلو"
-      },
-      {
         "en": "Pablo Picasso",
         "ar": "بابلو بيكاسو"
       },
@@ -321,11 +317,15 @@
         "ar": "ليوناردو دافينشي"
       },
       {
+        "en": "Michelangelo",
+        "ar": "مايكل أنجلو"
+      },
+      {
         "en": "Vincent van Gogh",
         "ar": "فان جوخ"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Leonardo da Vinci painted the Mona Lisa.",
     "explanation_ar": "ليوناردو دافينشي هو رسام لوحة الموناليزا."
   },
@@ -335,29 +335,29 @@
     "category_ar": "عامة",
     "value": 50,
     "difficulty": 3,
-    "question_en": "What is the largest organ in the human body?",
-    "question_ar": "إيه أكبر عضو في جسم الإنسان؟",
+    "question_en": "Which company created the PlayStation gaming console?",
+    "question_ar": "أنهي شركة اللي صنعت جهاز البلايستيشن؟",
     "options": [
       {
-        "en": "Liver",
-        "ar": "الكبد"
+        "en": "Sony",
+        "ar": "سوني"
       },
       {
-        "en": "Lungs",
-        "ar": "الرئتين"
+        "en": "Sega",
+        "ar": "سيجا"
       },
       {
-        "en": "Intestine",
-        "ar": "الأمعاء"
+        "en": "Microsoft",
+        "ar": "مايكروسوفت"
       },
       {
-        "en": "Skin",
-        "ar": "الجلد"
+        "en": "Nintendo",
+        "ar": "نينتندو"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "The skin is the largest organ in the human body.",
-    "explanation_ar": "الجلد هو أكبر عضو في جسم الإنسان."
+    "correctAnswer": 0,
+    "explanation_en": "Sony created and manufactures the PlayStation console line.",
+    "explanation_ar": "شركة سوني هي اللي صنعت أجهزة البلايستيشن."
   },
   {
     "id": "GEN-050-013",
@@ -369,23 +369,23 @@
     "question_ar": "إيه الغاز اللي بتمتصه النباتات عشان تعمل عملية البناء الضوئي؟",
     "options": [
       {
-        "en": "Carbon dioxide",
-        "ar": "ثاني أكسيد الكربون"
-      },
-      {
         "en": "Oxygen",
         "ar": "الأكسچين"
       },
       {
-        "en": "Nitrogen",
-        "ar": "النيتروجين"
-      },
-      {
         "en": "Hydrogen",
         "ar": "الهيدروجين"
+      },
+      {
+        "en": "Carbon dioxide",
+        "ar": "ثاني أكسيد الكربون"
+      },
+      {
+        "en": "Nitrogen",
+        "ar": "النيتروجين"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Plants absorb carbon dioxide for photosynthesis.",
     "explanation_ar": "النباتات بتمتص ثاني أكسيد الكربون عشان البناء الضوئي."
   },
@@ -395,29 +395,29 @@
     "category_ar": "عامة",
     "value": 50,
     "difficulty": 3,
-    "question_en": "At what temperature does water freeze in degrees Fahrenheit?",
-    "question_ar": "المية بتتجمد عند كام درجة فهرنهايت؟",
+    "question_en": "The word \"app\", as in a phone app, is short for which full word?",
+    "question_ar": "كلمة \"app\" بتاعت تطبيقات الموبايل هي اختصار لإيه؟",
     "options": [
       {
-        "en": "0",
-        "ar": "0"
+        "en": "Approach",
+        "ar": "Approach"
       },
       {
-        "en": "32",
-        "ar": "32"
+        "en": "Appendix",
+        "ar": "Appendix"
       },
       {
-        "en": "100",
-        "ar": "100"
+        "en": "Application",
+        "ar": "Application"
       },
       {
-        "en": "212",
-        "ar": "212"
+        "en": "Appliance",
+        "ar": "Appliance"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Water freezes at 32 degrees Fahrenheit.",
-    "explanation_ar": "المية بتتجمد عند 32 درجة فهرنهايت."
+    "correctAnswer": 2,
+    "explanation_en": "\"App\" is short for \"application\", a piece of software.",
+    "explanation_ar": "\"App\" اختصار لكلمة \"Application\" يعني برنامج."
   },
   {
     "id": "GEN-050-015",
@@ -429,23 +429,23 @@
     "question_ar": "إيه الدولة اللي أهدت تمثال الحرية لأمريكا؟",
     "options": [
       {
-        "en": "United Kingdom",
-        "ar": "بريطانيا"
+        "en": "France",
+        "ar": "فرنسا"
       },
       {
         "en": "Spain",
         "ar": "إسبانيا"
       },
       {
-        "en": "France",
-        "ar": "فرنسا"
+        "en": "United Kingdom",
+        "ar": "بريطانيا"
       },
       {
         "en": "Italy",
         "ar": "إيطاليا"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "France gifted the Statue of Liberty to the United States.",
     "explanation_ar": "فرنسا هي اللي أهدت تمثال الحرية لأمريكا."
   },
@@ -463,19 +463,19 @@
         "ar": "المسمارية"
       },
       {
-        "en": "Cyrillic",
-        "ar": "السيريلية"
-      },
-      {
         "en": "Sanskrit",
         "ar": "السنسكريتية"
       },
       {
         "en": "Hieroglyphics",
         "ar": "الهيروغليفية"
+      },
+      {
+        "en": "Cyrillic",
+        "ar": "السيريلية"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Ancient Egyptians wrote using hieroglyphics.",
     "explanation_ar": "المصريين القدماء كانوا بيكتبوا بالهيروغليفية."
   },
@@ -489,23 +489,23 @@
     "question_ar": "معابد أبو سمبل قريبة من إيه مدينة مصرية؟",
     "options": [
       {
-        "en": "Aswan",
-        "ar": "أسوان"
-      },
-      {
-        "en": "Luxor",
-        "ar": "الأقصر"
+        "en": "Sohag",
+        "ar": "سوهاج"
       },
       {
         "en": "Minya",
         "ar": "المنيا"
       },
       {
-        "en": "Sohag",
-        "ar": "سوهاج"
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Abu Simbel temples are located near Aswan.",
     "explanation_ar": "معابد أبو سمبل قريبة من أسوان."
   },
@@ -519,23 +519,23 @@
     "question_ar": "عدد بطولات الجراند سلام في التنس كام في السنة؟",
     "options": [
       {
-        "en": "3",
-        "ar": "3"
-      },
-      {
         "en": "4",
         "ar": "4"
+      },
+      {
+        "en": "6",
+        "ar": "6"
       },
       {
         "en": "5",
         "ar": "5"
       },
       {
-        "en": "6",
-        "ar": "6"
+        "en": "3",
+        "ar": "3"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "There are 4 Grand Slam tournaments each year in tennis.",
     "explanation_ar": "فيه 4 بطولات جراند سلام في التنس كل سنة."
   },
@@ -545,29 +545,29 @@
     "category_ar": "عامة",
     "value": 50,
     "difficulty": 3,
-    "question_en": "What is the capital of Brazil?",
-    "question_ar": "إيه عاصمة البرازيل؟",
+    "question_en": "What is the name of the popular Egyptian dish made of rice, pasta, lentils and tomato sauce?",
+    "question_ar": "إيه اسم الأكلة المصرية الشهيرة اللي فيها رز ومكرونة وعدس وصلصة طماطم؟",
     "options": [
       {
-        "en": "Rio de Janeiro",
-        "ar": "ريو دي جانيرو"
+        "en": "Koshari",
+        "ar": "كشري"
       },
       {
-        "en": "São Paulo",
-        "ar": "ساو باولو"
+        "en": "Molokhia",
+        "ar": "ملوخية"
       },
       {
-        "en": "Brasília",
-        "ar": "برازيليا"
+        "en": "Fattah",
+        "ar": "فتة"
       },
       {
-        "en": "Salvador",
-        "ar": "سلفادور"
+        "en": "Mahshi",
+        "ar": "محشي"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Brasília is the capital of Brazil, though Rio de Janeiro is more famous.",
-    "explanation_ar": "برازيليا هي عاصمة البرازيل، رغم إن ريو دي جانيرو أشهر."
+    "correctAnswer": 0,
+    "explanation_en": "Koshari is Egypt's iconic street-food dish of rice, pasta, lentils and tomato sauce.",
+    "explanation_ar": "الكشري هو الأكلة الشعبية المصرية المشهورة اللي فيها رز ومكرونة وعدس وصلصة."
   },
   {
     "id": "GEN-050-020",
@@ -587,15 +587,15 @@
         "ar": "أمريكا"
       },
       {
-        "en": "Finland",
-        "ar": "فنلندا"
-      },
-      {
         "en": "Canada",
         "ar": "كندا"
+      },
+      {
+        "en": "Finland",
+        "ar": "فنلندا"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Canada has the most natural lakes of any country.",
     "explanation_ar": "كندا فيها أكبر عدد بحيرات طبيعية من أي دولة تانية."
   },
@@ -613,16 +613,16 @@
         "ar": "تيم بيرنرز لي"
       },
       {
-        "en": "Steve Jobs",
-        "ar": "ستيف جوبز"
+        "en": "Larry Page",
+        "ar": "لاري بيدج"
       },
       {
         "en": "Bill Gates",
         "ar": "بيل جيتس"
       },
       {
-        "en": "Larry Page",
-        "ar": "لاري بيدج"
+        "en": "Steve Jobs",
+        "ar": "ستيف جوبز"
       }
     ],
     "correctAnswer": 0,
@@ -643,19 +643,19 @@
         "ar": "2001"
       },
       {
+        "en": "2005",
+        "ar": "2005"
+      },
+      {
         "en": "2007",
         "ar": "2007"
       },
       {
         "en": "2010",
         "ar": "2010"
-      },
-      {
-        "en": "2005",
-        "ar": "2005"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "The first iPhone was released in 2007.",
     "explanation_ar": "أول آيفون طلع سنة 2007."
   },
@@ -669,23 +669,23 @@
     "question_ar": "إيه معنى اختصار 'PDF'؟",
     "options": [
       {
-        "en": "Personal Data File",
-        "ar": "بيرسونال داتا فايل"
-      },
-      {
         "en": "Printed Document Form",
         "ar": "برنتد دوكيومنت فورم"
       },
       {
-        "en": "Portable Document Format",
-        "ar": "بورتابل دوكيومنت فورمات"
-      },
-      {
         "en": "Public Data Format",
         "ar": "بابليك داتا فورمات"
+      },
+      {
+        "en": "Personal Data File",
+        "ar": "بيرسونال داتا فايل"
+      },
+      {
+        "en": "Portable Document Format",
+        "ar": "بورتابل دوكيومنت فورمات"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "PDF stands for Portable Document Format.",
     "explanation_ar": "PDF معناها Portable Document Format."
   },
@@ -703,19 +703,19 @@
         "ar": "السعودية"
       },
       {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      },
+      {
         "en": "Sudan",
         "ar": "السودان"
       },
       {
         "en": "Egypt",
         "ar": "مصر"
-      },
-      {
-        "en": "Algeria",
-        "ar": "الجزائر"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Algeria is the largest Arab country by land area.",
     "explanation_ar": "الجزائر أكبر دولة عربية من حيث المساحة."
   },
@@ -729,23 +729,23 @@
     "question_ar": "إيه اسم الوحدة الأصغر من الجنيه المصري؟",
     "options": [
       {
-        "en": "Piastre (qirsh)",
-        "ar": "القرش"
+        "en": "Fils",
+        "ar": "فلس"
       },
       {
         "en": "Cent",
         "ar": "سنت"
       },
       {
-        "en": "Fils",
-        "ar": "فلس"
+        "en": "Piastre (qirsh)",
+        "ar": "القرش"
       },
       {
         "en": "Dirham",
         "ar": "درهم"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Egyptian pound is divided into 100 piastres (qirsh).",
     "explanation_ar": "الجنيه المصري بينقسم لـ100 قرش."
   },
@@ -759,6 +759,10 @@
     "question_ar": "فيسبوك اتأسس سنة كام؟",
     "options": [
       {
+        "en": "1998",
+        "ar": "1998"
+      },
+      {
         "en": "2000",
         "ar": "2000"
       },
@@ -769,13 +773,9 @@
       {
         "en": "2008",
         "ar": "2008"
-      },
-      {
-        "en": "1998",
-        "ar": "1998"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Facebook was founded in 2004.",
     "explanation_ar": "فيسبوك اتأسس سنة 2004."
   },
@@ -789,20 +789,20 @@
     "question_ar": "إيه الكوكب المعروف بحلقاته الواضحة اللي بتتبان حتى بتليسكوب صغير؟",
     "options": [
       {
-        "en": "Uranus",
-        "ar": "أورانوس"
-      },
-      {
         "en": "Neptune",
         "ar": "نبتون"
+      },
+      {
+        "en": "Jupiter",
+        "ar": "المشتري"
       },
       {
         "en": "Saturn",
         "ar": "زحل"
       },
       {
-        "en": "Jupiter",
-        "ar": "المشتري"
+        "en": "Uranus",
+        "ar": "أورانوس"
       }
     ],
     "correctAnswer": 2,
@@ -819,16 +819,16 @@
     "question_ar": "بنسمي مجموعة الأسود اللي بتعيش مع بعض إيه؟",
     "options": [
       {
+        "en": "A flock",
+        "ar": "flock"
+      },
+      {
         "en": "A pack",
         "ar": "pack"
       },
       {
         "en": "A herd",
         "ar": "herd"
-      },
-      {
-        "en": "A flock",
-        "ar": "flock"
       },
       {
         "en": "A pride",
@@ -849,23 +849,23 @@
     "question_ar": "إيه الشركة اللي عملت نظام أندرويد المستخدم في معظم الموبايلات؟",
     "options": [
       {
-        "en": "Google",
-        "ar": "جوجل"
+        "en": "Huawei",
+        "ar": "هواوي"
       },
       {
         "en": "Apple",
         "ar": "آبل"
       },
       {
-        "en": "Samsung",
-        "ar": "سامسونج"
+        "en": "Google",
+        "ar": "جوجل"
       },
       {
-        "en": "Huawei",
-        "ar": "هواوي"
+        "en": "Samsung",
+        "ar": "سامسونج"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Google develops the Android operating system.",
     "explanation_ar": "جوجل هي اللي بتطور نظام أندرويد."
   },
@@ -883,19 +883,19 @@
         "ar": "الصين"
       },
       {
-        "en": "India",
-        "ar": "الهند"
-      },
-      {
         "en": "USA",
         "ar": "أمريكا"
       },
       {
         "en": "Indonesia",
         "ar": "إندونيسيا"
+      },
+      {
+        "en": "India",
+        "ar": "الهند"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "India became the world's most populous country in 2023, surpassing China.",
     "explanation_ar": "الهند بقت أكتر دولة سكانًا في العالم من 2023 بعد ما تخطت الصين.",
     "verified_as_of": "2025-06"
@@ -910,23 +910,23 @@
     "question_ar": "المصريين القدماء كانوا بيسموا بلدهم إيه؟",
     "options": [
       {
-        "en": "Nubia",
-        "ar": "النوبة"
-      },
-      {
-        "en": "Punt",
-        "ar": "بونت"
-      },
-      {
         "en": "Kemet",
         "ar": "كيميت"
       },
       {
         "en": "Canaan",
         "ar": "كنعان"
+      },
+      {
+        "en": "Punt",
+        "ar": "بونت"
+      },
+      {
+        "en": "Nubia",
+        "ar": "النوبة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Ancient Egyptians called their land 'Kemet.'",
     "explanation_ar": "المصريين القدماء كانوا بيسموا بلدهم 'كيميت'."
   },
@@ -940,23 +940,23 @@
     "question_ar": "إيه معنى 'GDP' في علم الاقتصاد؟",
     "options": [
       {
-        "en": "General Debt Payment",
-        "ar": "جنرال ديبت بايمنت"
-      },
-      {
         "en": "Global Development Plan",
         "ar": "جلوبال ديفلوبمنت بلان"
       },
       {
-        "en": "Gross Direct Profit",
-        "ar": "جروس دايركت بروفيت"
+        "en": "General Debt Payment",
+        "ar": "جنرال ديبت بايمنت"
       },
       {
         "en": "Gross Domestic Product",
         "ar": "الناتج المحلي الإجمالي"
+      },
+      {
+        "en": "Gross Direct Profit",
+        "ar": "جروس دايركت بروفيت"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "GDP stands for Gross Domestic Product.",
     "explanation_ar": "GDP معناها الناتج المحلي الإجمالي."
   },
@@ -970,23 +970,23 @@
     "question_ar": "نقص إيه فيتامين بيسبب مرض الاسقربوط؟",
     "options": [
       {
-        "en": "Vitamin C",
-        "ar": "فيتامين C"
-      },
-      {
-        "en": "Vitamin D",
-        "ar": "فيتامين D"
+        "en": "Vitamin K",
+        "ar": "فيتامين K"
       },
       {
         "en": "Vitamin B12",
         "ar": "فيتامين B12"
       },
       {
-        "en": "Vitamin K",
-        "ar": "فيتامين K"
+        "en": "Vitamin C",
+        "ar": "فيتامين C"
+      },
+      {
+        "en": "Vitamin D",
+        "ar": "فيتامين D"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A vitamin C deficiency causes scurvy.",
     "explanation_ar": "نقص فيتامين C بيسبب مرض الاسقربوط."
   },
@@ -1000,23 +1000,23 @@
     "question_ar": "إيه اسم أكبر نظام شعاب مرجانية في العالم؟",
     "options": [
       {
-        "en": "The Red Sea Reef",
-        "ar": "شعاب البحر الأحمر"
-      },
-      {
-        "en": "The Great Barrier Reef",
-        "ar": "الحاجز المرجاني العظيم"
-      },
-      {
         "en": "The Belize Barrier Reef",
         "ar": "حاجز بليز المرجاني"
       },
       {
+        "en": "The Red Sea Reef",
+        "ar": "شعاب البحر الأحمر"
+      },
+      {
         "en": "The Coral Triangle",
         "ar": "مثلث المرجان"
+      },
+      {
+        "en": "The Great Barrier Reef",
+        "ar": "الحاجز المرجاني العظيم"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The Great Barrier Reef in Australia is the world's largest coral reef system.",
     "explanation_ar": "الحاجز المرجاني العظيم في أستراليا هو أكبر نظام شعاب مرجانية في العالم."
   },
@@ -1030,10 +1030,6 @@
     "question_ar": "إيه أقرب كوكب للشمس في المجموعة الشمسية؟",
     "options": [
       {
-        "en": "Venus",
-        "ar": "الزهرة"
-      },
-      {
         "en": "Mars",
         "ar": "المريخ"
       },
@@ -1044,9 +1040,13 @@
       {
         "en": "Earth",
         "ar": "الأرض"
+      },
+      {
+        "en": "Venus",
+        "ar": "الزهرة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Mercury is the closest planet to the Sun.",
     "explanation_ar": "عطارد هو أقرب كوكب للشمس."
   },
@@ -1056,29 +1056,29 @@
     "category_ar": "عامة",
     "value": 50,
     "difficulty": 3,
-    "question_en": "What is the chemical symbol for sodium?",
-    "question_ar": "إيه الرمز الكيميائي للصوديوم؟",
+    "question_en": "Which company is the parent company of Google and YouTube?",
+    "question_ar": "إيه اسم الشركة الأم بتاعة جوجل ويوتيوب؟",
     "options": [
       {
-        "en": "So",
-        "ar": "So"
+        "en": "Apple",
+        "ar": "آبل"
       },
       {
-        "en": "Sd",
-        "ar": "Sd"
+        "en": "Alphabet",
+        "ar": "ألفابت"
       },
       {
-        "en": "Nu",
-        "ar": "Nu"
+        "en": "Amazon",
+        "ar": "أمازون"
       },
       {
-        "en": "Na",
-        "ar": "Na"
+        "en": "Meta",
+        "ar": "ميتا"
       }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Sodium's chemical symbol is Na, from the Latin 'natrium'.",
-    "explanation_ar": "الرمز الكيميائي للصوديوم هو Na من الكلمة اللاتينية 'natrium'."
+    "correctAnswer": 1,
+    "explanation_en": "Alphabet Inc. is the parent company of Google and YouTube.",
+    "explanation_ar": "شركة ألفابت هي الشركة الأم لجوجل ويوتيوب."
   },
   {
     "id": "GEN-050-037",
@@ -1090,10 +1090,6 @@
     "question_ar": "روسيا بتمتد على كام منطقة توقيت؟",
     "options": [
       {
-        "en": "11",
-        "ar": "11"
-      },
-      {
         "en": "6",
         "ar": "6"
       },
@@ -1102,11 +1098,15 @@
         "ar": "15"
       },
       {
+        "en": "11",
+        "ar": "11"
+      },
+      {
         "en": "8",
         "ar": "8"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Russia spans 11 time zones.",
     "explanation_ar": "روسيا بتمتد على 11 منطقة توقيت."
   },
@@ -1120,23 +1120,23 @@
     "question_ar": "إيه أكتر عملة بيتم تداولها في العالم؟",
     "options": [
       {
-        "en": "The Euro",
-        "ar": "اليورو"
-      },
-      {
-        "en": "The US Dollar",
-        "ar": "الدولار الأمريكي"
-      },
-      {
         "en": "The Japanese Yen",
         "ar": "الين الياباني"
       },
       {
         "en": "The British Pound",
         "ar": "الجنيه الإسترليني"
+      },
+      {
+        "en": "The US Dollar",
+        "ar": "الدولار الأمريكي"
+      },
+      {
+        "en": "The Euro",
+        "ar": "اليورو"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "The US Dollar is the world's most traded currency.",
     "explanation_ar": "الدولار الأمريكي هو أكتر عملة بيتم تداولها في العالم."
   },
@@ -1150,23 +1150,23 @@
     "question_ar": "إيه المدينة المصرية المعروفة بمكتبة الإسكندرية الحديثة اللي اتبنت مكانها القديمة؟",
     "options": [
       {
-        "en": "Cairo",
-        "ar": "القاهرة"
-      },
-      {
-        "en": "Port Said",
-        "ar": "بورسعيد"
-      },
-      {
         "en": "Alexandria",
         "ar": "الإسكندرية"
       },
       {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
         "en": "Damietta",
         "ar": "دمياط"
+      },
+      {
+        "en": "Port Said",
+        "ar": "بورسعيد"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The Bibliotheca Alexandrina, opened in 2002, is in Alexandria.",
     "explanation_ar": "مكتبة الإسكندرية، اللي اتفتحت سنة 2002، موجودة في الإسكندرية."
   },
@@ -1180,6 +1180,10 @@
     "question_ar": "إيه الشركة اللي شعارها القديم كان عصفور قبل ما تتحول لاسم 'X'؟",
     "options": [
       {
+        "en": "Twitter",
+        "ar": "تويتر"
+      },
+      {
         "en": "Telegram",
         "ar": "تليجرام"
       },
@@ -1190,13 +1194,9 @@
       {
         "en": "Snapchat",
         "ar": "سناب شات"
-      },
-      {
-        "en": "Twitter",
-        "ar": "تويتر"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Twitter's bird logo was replaced when it rebranded to X.",
     "explanation_ar": "شعار تويتر (العصفور) اتغير لما الشركة اتحولت لاسم X."
   },
@@ -1210,12 +1210,12 @@
     "question_ar": "رقعة الشطرنج فيها كام مربع؟",
     "options": [
       {
-        "en": "64",
-        "ar": "64"
-      },
-      {
         "en": "48",
         "ar": "48"
+      },
+      {
+        "en": "64",
+        "ar": "64"
       },
       {
         "en": "100",
@@ -1226,7 +1226,7 @@
         "ar": "81"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "A chessboard has 64 squares.",
     "explanation_ar": "رقعة الشطرنج فيها 64 مربع."
   },
@@ -1240,10 +1240,6 @@
     "question_ar": "إيه المعدن اللي بيكون سائل في درجة حرارة الغرفة العادية؟",
     "options": [
       {
-        "en": "Iron",
-        "ar": "الحديد"
-      },
-      {
         "en": "Mercury",
         "ar": "الزئبق"
       },
@@ -1254,9 +1250,13 @@
       {
         "en": "Copper",
         "ar": "النحاس"
+      },
+      {
+        "en": "Iron",
+        "ar": "الحديد"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Mercury is a liquid metal at room temperature.",
     "explanation_ar": "الزئبق معدن سائل في درجة حرارة الغرفة."
   },
@@ -1270,23 +1270,23 @@
     "question_ar": "إيه اسم أكبر غابة استوائية في العالم؟",
     "options": [
       {
-        "en": "The Congo Rainforest",
-        "ar": "غابة الكونغو"
+        "en": "The Amazon Rainforest",
+        "ar": "غابة الأمازون"
       },
       {
         "en": "The Daintree Rainforest",
         "ar": "غابة داينتري"
       },
       {
-        "en": "The Amazon Rainforest",
-        "ar": "غابة الأمازون"
+        "en": "The Congo Rainforest",
+        "ar": "غابة الكونغو"
       },
       {
         "en": "The Sundarbans",
         "ar": "غابة السندربان"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The Amazon Rainforest is the world's largest rainforest.",
     "explanation_ar": "غابة الأمازون هي أكبر غابة استوائية في العالم."
   },
@@ -1300,23 +1300,23 @@
     "question_ar": "السد العالي في أسوان اتبنى بمساعدة كبيرة من إيه دولة؟",
     "options": [
       {
-        "en": "The United States",
-        "ar": "أمريكا"
-      },
-      {
-        "en": "France",
-        "ar": "فرنسا"
-      },
-      {
         "en": "Germany",
         "ar": "ألمانيا"
       },
       {
         "en": "The Soviet Union",
         "ar": "الاتحاد السوفيتي"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "The United States",
+        "ar": "أمريكا"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "The Soviet Union provided major assistance in building the Aswan High Dam.",
     "explanation_ar": "الاتحاد السوفيتي ساعد بشكل كبير في بناء السد العالي."
   },
@@ -1326,29 +1326,29 @@
     "category_ar": "عامة",
     "value": 50,
     "difficulty": 3,
-    "question_en": "What is the capital of Australia?",
-    "question_ar": "إيه عاصمة أستراليا؟",
+    "question_en": "Which fast-food chain's logo is a golden arch shaped like the letter M?",
+    "question_ar": "أنهي سلسلة فاست فود شعارها قوس دهبي شكله زي حرف M؟",
     "options": [
       {
-        "en": "Canberra",
-        "ar": "كانبرا"
+        "en": "Hardee's",
+        "ar": "هارديز"
       },
       {
-        "en": "Sydney",
-        "ar": "سيدني"
+        "en": "Burger King",
+        "ar": "برجر كينج"
       },
       {
-        "en": "Melbourne",
-        "ar": "ملبورن"
+        "en": "McDonald's",
+        "ar": "ماكدونالدز"
       },
       {
-        "en": "Perth",
-        "ar": "بيرث"
+        "en": "KFC",
+        "ar": "كنتاكي"
       }
     ],
-    "correctAnswer": 0,
-    "explanation_en": "Canberra is the capital of Australia, though Sydney is more famous.",
-    "explanation_ar": "كانبرا هي عاصمة أستراليا، رغم إن سيدني أشهر."
+    "correctAnswer": 2,
+    "explanation_en": "McDonald's golden arches form the shape of the letter M.",
+    "explanation_ar": "الأقواس الدهبية بتاعة ماكدونالدز شكلها زي حرف M."
   },
   {
     "id": "GEN-050-046",
@@ -1360,23 +1360,23 @@
     "question_ar": "مين اللي بينسب له تصميم برج إيفل؟",
     "options": [
       {
-        "en": "Antoni Gaudí",
-        "ar": "أنطونيو جاودي"
-      },
-      {
         "en": "Gustave Eiffel",
         "ar": "جوستاف إيفل"
       },
       {
-        "en": "Le Corbusier",
-        "ar": "لو كوربوزييه"
+        "en": "Antoni Gaudí",
+        "ar": "أنطونيو جاودي"
       },
       {
         "en": "I. M. Pei",
         "ar": "آي إم بي"
+      },
+      {
+        "en": "Le Corbusier",
+        "ar": "لو كوربوزييه"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The Eiffel Tower is named after and designed by Gustave Eiffel's company.",
     "explanation_ar": "برج إيفل سُمي على اسم جوستاف إيفل وصممته شركته."
   },
@@ -1390,20 +1390,20 @@
     "question_ar": "إيه اسم أعمق خندق محيطي معروف في العالم؟",
     "options": [
       {
-        "en": "The Puerto Rico Trench",
-        "ar": "خندق بورتوريكو"
-      },
-      {
         "en": "The Java Trench",
         "ar": "خندق جافا"
+      },
+      {
+        "en": "The Peru-Chile Trench",
+        "ar": "خندق بيرو-تشيلي"
       },
       {
         "en": "The Mariana Trench",
         "ar": "خندق ماريانا"
       },
       {
-        "en": "The Peru-Chile Trench",
-        "ar": "خندق بيرو-تشيلي"
+        "en": "The Puerto Rico Trench",
+        "ar": "خندق بورتوريكو"
       }
     ],
     "correctAnswer": 2,
@@ -1420,23 +1420,23 @@
     "question_ar": "إيه الملكة المصرية المعروفة إنها حكمت كفرعون وكانت بتتصور بدقن مستعارة؟",
     "options": [
       {
-        "en": "Nefertiti",
-        "ar": "نفرتيتي"
-      },
-      {
-        "en": "Cleopatra",
-        "ar": "كليوباترا"
-      },
-      {
         "en": "Tiye",
         "ar": "تي"
       },
       {
         "en": "Hatshepsut",
         "ar": "حتشبسوت"
+      },
+      {
+        "en": "Nefertiti",
+        "ar": "نفرتيتي"
+      },
+      {
+        "en": "Cleopatra",
+        "ar": "كليوباترا"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Queen Hatshepsut ruled as pharaoh and was often depicted with a false beard.",
     "explanation_ar": "الملكة حتشبسوت حكمت كفرعون وكانت بتتصور غالبًا بدقن مستعارة."
   },
@@ -1446,29 +1446,30 @@
     "category_ar": "عامة",
     "value": 50,
     "difficulty": 3,
-    "question_en": "In what year did the Berlin Wall fall?",
-    "question_ar": "سور برلين اتهد سنة كام؟",
+    "question_en": "Which mobile operating system has the largest global market share?",
+    "question_ar": "إيه نظام تشغيل الموبايلات اللي عنده أكبر حصة سوقية في العالم؟",
     "options": [
       {
-        "en": "1989",
-        "ar": "1989"
+        "en": "Windows Phone",
+        "ar": "ويندوز فون"
       },
       {
-        "en": "1991",
-        "ar": "1991"
+        "en": "HarmonyOS",
+        "ar": "هارموني أو إس"
       },
       {
-        "en": "1975",
-        "ar": "1975"
+        "en": "Android",
+        "ar": "أندرويد"
       },
       {
-        "en": "1999",
-        "ar": "1999"
+        "en": "iOS",
+        "ar": "iOS"
       }
     ],
-    "correctAnswer": 0,
-    "explanation_en": "The Berlin Wall fell in 1989.",
-    "explanation_ar": "سور برلين اتهد سنة 1989."
+    "correctAnswer": 2,
+    "explanation_en": "Android runs on more devices worldwide than any other mobile OS.",
+    "explanation_ar": "أندرويد بيشتغل على أجهزة أكتر من أي نظام تشغيل موبايل تاني في العالم.",
+    "verified_as_of": "2025-06"
   },
   {
     "id": "GEN-050-050",
@@ -1480,23 +1481,23 @@
     "question_ar": "إيه الدولة اللي اخترعت الورق زي ما بنعرفه من أكتر من ألف سنة؟",
     "options": [
       {
-        "en": "Egypt",
-        "ar": "مصر"
-      },
-      {
         "en": "China",
         "ar": "الصين"
+      },
+      {
+        "en": "India",
+        "ar": "الهند"
       },
       {
         "en": "Greece",
         "ar": "اليونان"
       },
       {
-        "en": "India",
-        "ar": "الهند"
+        "en": "Egypt",
+        "ar": "مصر"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Paper as we know it was invented in ancient China.",
     "explanation_ar": "الورق زي ما بنعرفه اتخترع في الصين القديمة."
   }

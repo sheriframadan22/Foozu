@@ -13,19 +13,19 @@
         "ar": "حوالي 15 مليون كم"
       },
       {
+        "en": "About 1.5 million km",
+        "ar": "حوالي 1.5 مليون كم"
+      },
+      {
         "en": "About 150 million km",
         "ar": "حوالي 150 مليون كم"
       },
       {
         "en": "About 1.5 billion km",
         "ar": "حوالي 1.5 مليار كم"
-      },
-      {
-        "en": "About 1.5 million km",
-        "ar": "حوالي 1.5 مليون كم"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Earth is about 150 million km from the Sun, a distance called an astronomical unit.",
     "explanation_ar": "الأرض بتبعد عن الشمس حوالي 150 مليون كيلومتر، وده اللي بيتسمى وحدة فلكية."
   },
@@ -47,15 +47,15 @@
         "ar": "نيوترونات"
       },
       {
-        "en": "Shells",
-        "ar": "مدارات"
-      },
-      {
         "en": "Protons",
         "ar": "بروتونات"
+      },
+      {
+        "en": "Shells",
+        "ar": "مدارات"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "An element's atomic number equals its number of protons; carbon has 6.",
     "explanation_ar": "العدد الذري للعنصر بيساوي عدد البروتونات فيه، والكربون عنده 6."
   },
@@ -69,23 +69,23 @@
     "question_ar": "بيتقال إيه للوقت اللي بياخده نصف مادة مشعة عشان تتحلل؟",
     "options": [
       {
-        "en": "Its isotope span",
-        "ar": "مدى النظائر"
-      },
-      {
         "en": "Its radiation period",
         "ar": "فترة الإشعاع"
       },
       {
-        "en": "Its decay rate",
-        "ar": "معدل التحلل"
-      },
-      {
         "en": "Its half-life",
         "ar": "عمر النصف"
+      },
+      {
+        "en": "Its isotope span",
+        "ar": "مدى النظائر"
+      },
+      {
+        "en": "Its decay rate",
+        "ar": "معدل التحلل"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Half-life is the time needed for half of a radioactive sample to decay.",
     "explanation_ar": "عمر النصف هو الوقت اللازم عشان يتحلل نص العينة المشعة."
   },
@@ -99,10 +99,6 @@
     "question_ar": "مين العالم المصري اللي فاز بجايزة نوبل في الكيمياء سنة 1999 لشغله على التفاعلات الكيميائية فائقة السرعة؟",
     "options": [
       {
-        "en": "Farouk El-Baz",
-        "ar": "فاروق الباز"
-      },
-      {
         "en": "Zewail Ibrahim",
         "ar": "زويل إبراهيم"
       },
@@ -113,9 +109,13 @@
       {
         "en": "Magdi Yacoub",
         "ar": "مجدي يعقوب"
+      },
+      {
+        "en": "Farouk El-Baz",
+        "ar": "فاروق الباز"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Ahmed Zewail won the Nobel Prize in Chemistry in 1999 for pioneering femtochemistry.",
     "explanation_ar": "أحمد زويل فاز بجايزة نوبل في الكيمياء سنة 1999 لريادته في علم الكيمياء الفائقة السرعة."
   },
@@ -129,23 +129,23 @@
     "question_ar": "مين الطبيب العربي في العصور الوسطى اللي بيتنسبله أول وصف صحيح للدورة الدموية الرئوية؟",
     "options": [
       {
-        "en": "Ibn al-Nafis",
-        "ar": "ابن النفيس"
+        "en": "Ibn Sina",
+        "ar": "ابن سينا"
       },
       {
         "en": "Al-Razi",
         "ar": "الرازي"
       },
       {
-        "en": "Ibn Sina",
-        "ar": "ابن سينا"
-      },
-      {
         "en": "Ibn al-Haytham",
         "ar": "ابن الهيثم"
+      },
+      {
+        "en": "Ibn al-Nafis",
+        "ar": "ابن النفيس"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Ibn al-Nafis was the first to accurately describe how blood circulates through the lungs.",
     "explanation_ar": "ابن النفيس كان أول من وصف بدقة إزاي الدم بيدور خلال الرئتين."
   },
@@ -159,8 +159,8 @@
     "question_ar": "مين العالمة اللي فازت بجايزتي نوبل في مجالين علميين مختلفين، الفيزيا والكيمياء؟",
     "options": [
       {
-        "en": "Dorothy Hodgkin",
-        "ar": "دوروثي هودجكين"
+        "en": "Rosalind Franklin",
+        "ar": "روزاليند فرانكلين"
       },
       {
         "en": "Ada Lovelace",
@@ -171,8 +171,8 @@
         "ar": "ماري كوري"
       },
       {
-        "en": "Rosalind Franklin",
-        "ar": "روزاليند فرانكلين"
+        "en": "Dorothy Hodgkin",
+        "ar": "دوروثي هودجكين"
       }
     ],
     "correctAnswer": 2,
@@ -189,16 +189,16 @@
     "question_ar": "أنهي كوكب عنده أقصر سنة في المجموعة الشمسية، وبيلف حوالين الشمس في 88 يوم بس؟",
     "options": [
       {
-        "en": "Earth",
-        "ar": "الأرض"
+        "en": "Venus",
+        "ar": "الزهرة"
       },
       {
         "en": "Mercury",
         "ar": "عطارد"
       },
       {
-        "en": "Venus",
-        "ar": "الزهرة"
+        "en": "Earth",
+        "ar": "الأرض"
       },
       {
         "en": "Mars",
@@ -219,23 +219,23 @@
     "question_ar": "بيتقال إيه لأقصى طبقة صلبة في الأرض واللي إحنا عايشين عليها؟",
     "options": [
       {
-        "en": "The outer core",
-        "ar": "اللب الخارجي"
-      },
-      {
-        "en": "The mantle",
-        "ar": "الوشاح"
-      },
-      {
         "en": "The crust",
         "ar": "القشرة الأرضية"
       },
       {
+        "en": "The outer core",
+        "ar": "اللب الخارجي"
+      },
+      {
         "en": "The inner core",
         "ar": "اللب الداخلي"
+      },
+      {
+        "en": "The mantle",
+        "ar": "الوشاح"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The crust is Earth's outermost solid layer.",
     "explanation_ar": "القشرة الأرضية هي أقصى طبقة صلبة في الأرض."
   },
@@ -249,23 +249,23 @@
     "question_ar": "إيه أعمق طبقة في الأرض، ومعتقد إنها كرة صلبة من حديد ونيكل؟",
     "options": [
       {
-        "en": "The outer core",
-        "ar": "اللب الخارجي"
-      },
-      {
         "en": "The inner core",
         "ar": "اللب الداخلي"
       },
       {
-        "en": "The mantle",
-        "ar": "الوشاح"
+        "en": "The outer core",
+        "ar": "اللب الخارجي"
       },
       {
         "en": "The crust",
         "ar": "القشرة الأرضية"
+      },
+      {
+        "en": "The mantle",
+        "ar": "الوشاح"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The inner core is a solid ball of iron and nickel at Earth's center.",
     "explanation_ar": "اللب الداخلي كرة صلبة من حديد ونيكل في مركز الأرض."
   },
@@ -279,23 +279,23 @@
     "question_ar": "أنهي نوع أوعية دموية بينقل الدم بعيداً عن القلب؟",
     "options": [
       {
-        "en": "Arteries",
-        "ar": "الشرايين"
+        "en": "Veins",
+        "ar": "الأوردة"
       },
       {
         "en": "Lymph vessels",
         "ar": "الأوعية اللمفاوية"
       },
       {
-        "en": "Capillaries",
-        "ar": "الشعيرات الدموية"
+        "en": "Arteries",
+        "ar": "الشرايين"
       },
       {
-        "en": "Veins",
-        "ar": "الأوردة"
+        "en": "Capillaries",
+        "ar": "الشعيرات الدموية"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Arteries carry blood away from the heart to the body.",
     "explanation_ar": "الشرايين بتنقل الدم بعيداً عن القلب لباقي الجسم."
   },
@@ -309,23 +309,23 @@
     "question_ar": "إيه اسم أكبر شريان في جسم الإنسان، واللي بينقل الدم من القلب؟",
     "options": [
       {
-        "en": "The carotid artery",
-        "ar": "الشريان السباتي"
-      },
-      {
-        "en": "The pulmonary artery",
-        "ar": "الشريان الرئوي"
+        "en": "The aorta",
+        "ar": "الشريان الأورطي"
       },
       {
         "en": "The vena cava",
         "ar": "الوريد الأجوف"
       },
       {
-        "en": "The aorta",
-        "ar": "الشريان الأورطي"
+        "en": "The carotid artery",
+        "ar": "الشريان السباتي"
+      },
+      {
+        "en": "The pulmonary artery",
+        "ar": "الشريان الرئوي"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "The aorta is the body's largest artery, carrying blood from the heart to the rest of the body.",
     "explanation_ar": "الشريان الأورطي هو أكبر شريان في الجسم وبينقل الدم من القلب لباقي الجسم."
   },
@@ -347,15 +347,15 @@
         "ar": "الزمن"
       },
       {
-        "en": "Mass",
-        "ar": "الكتلة"
-      },
-      {
         "en": "Direction",
         "ar": "الاتجاه"
+      },
+      {
+        "en": "Mass",
+        "ar": "الكتلة"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Newton's third law states every action has an equal and opposite reaction.",
     "explanation_ar": "قانون نيوتن الثالث بيقول إن لكل فعل رد فعل مساوي ومعاكس له في الاتجاه."
   },
@@ -369,8 +369,8 @@
     "question_ar": "أنهي جسيم دون ذري بيحمل شحنة كهربائية سالبة؟",
     "options": [
       {
-        "en": "The neutron",
-        "ar": "النيوترون"
+        "en": "The electron",
+        "ar": "الإلكترون"
       },
       {
         "en": "The proton",
@@ -381,11 +381,11 @@
         "ar": "الفوتون"
       },
       {
-        "en": "The electron",
-        "ar": "الإلكترون"
+        "en": "The neutron",
+        "ar": "النيوترون"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Electrons carry a negative charge and orbit the nucleus.",
     "explanation_ar": "الإلكترونات بتحمل شحنة سالبة وبتدور حوالين النواة."
   },
@@ -429,23 +429,23 @@
     "question_ar": "بيتقال إيه لمادة بتسرّع تفاعل كيميائي من غير ما تستهلك فيه؟",
     "options": [
       {
-        "en": "A solvent",
-        "ar": "مذيب"
-      },
-      {
-        "en": "A reagent",
-        "ar": "كاشف"
+        "en": "An enzyme inhibitor",
+        "ar": "مثبط إنزيمي"
       },
       {
         "en": "A catalyst",
         "ar": "عامل حفاز"
       },
       {
-        "en": "An enzyme inhibitor",
-        "ar": "مثبط إنزيمي"
+        "en": "A solvent",
+        "ar": "مذيب"
+      },
+      {
+        "en": "A reagent",
+        "ar": "كاشف"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "A catalyst speeds up reactions without being used up itself.",
     "explanation_ar": "العامل الحفاز بيسرّع التفاعل من غير ما يستهلك بنفسه."
   },
@@ -459,23 +459,23 @@
     "question_ar": "مين العالم اللي ابتكر أول جدول دوري للعناصر معترف بيه على نطاق واسع؟",
     "options": [
       {
-        "en": "Antoine Lavoisier",
-        "ar": "أنطوان لافوازييه"
+        "en": "Dmitri Mendeleev",
+        "ar": "ديمتري مندليف"
       },
       {
         "en": "Robert Boyle",
         "ar": "روبرت بويل"
       },
       {
-        "en": "John Dalton",
-        "ar": "جون دالتون"
+        "en": "Antoine Lavoisier",
+        "ar": "أنطوان لافوازييه"
       },
       {
-        "en": "Dmitri Mendeleev",
-        "ar": "ديمتري مندليف"
+        "en": "John Dalton",
+        "ar": "جون دالتون"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Dmitri Mendeleev created the first widely accepted periodic table in 1869.",
     "explanation_ar": "ديمتري مندليف ابتكر أول جدول دوري معترف بيه على نطاق واسع سنة 1869."
   },
@@ -489,23 +489,23 @@
     "question_ar": "بيتقال إيه للكائنات اللي بتعيش وتتكاثر في بيئات قاسية جداً، زي العيون الحارة المغلية؟",
     "options": [
       {
-        "en": "Symbionts",
-        "ar": "متعايشات"
-      },
-      {
-        "en": "Extremophiles",
-        "ar": "محبات الظروف القاسية"
+        "en": "Parasites",
+        "ar": "طفيليات"
       },
       {
         "en": "Decomposers",
         "ar": "محللات"
       },
       {
-        "en": "Parasites",
-        "ar": "طفيليات"
+        "en": "Symbionts",
+        "ar": "متعايشات"
+      },
+      {
+        "en": "Extremophiles",
+        "ar": "محبات الظروف القاسية"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Extremophiles are organisms adapted to survive in extreme conditions.",
     "explanation_ar": "محبات الظروف القاسية كائنات متأقلمة تعيش في ظروف قاسية جداً."
   },
@@ -553,19 +553,19 @@
         "ar": "14"
       },
       {
-        "en": "1",
-        "ar": "1"
-      },
-      {
         "en": "0",
         "ar": "صفر"
       },
       {
         "en": "7",
         "ar": "7"
+      },
+      {
+        "en": "1",
+        "ar": "1"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Pure water has a neutral pH of 7.",
     "explanation_ar": "المية النقية عندها رقم هيدروجيني متعادل قدره 7."
   },
@@ -583,19 +583,19 @@
         "ar": "طبقة الستراتوسفير"
       },
       {
-        "en": "The thermosphere",
-        "ar": "طبقة الثيرموسفير"
-      },
-      {
         "en": "The troposphere",
         "ar": "طبقة التروبوسفير"
       },
       {
         "en": "The mesosphere",
         "ar": "طبقة الميزوسفير"
+      },
+      {
+        "en": "The thermosphere",
+        "ar": "طبقة الثيرموسفير"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "The troposphere is the lowest atmospheric layer, where most weather occurs.",
     "explanation_ar": "التروبوسفير هي أقرب طبقة جوية للأرض واللي بيحصل فيها معظم الطقس."
   },
@@ -613,19 +613,19 @@
         "ar": "تأثير الاحتباس الحراري"
       },
       {
-        "en": "The Doppler effect",
-        "ar": "تأثير دوبلر"
-      },
-      {
         "en": "The Coriolis effect",
         "ar": "تأثير كوريوليس"
       },
       {
         "en": "The domino effect",
         "ar": "تأثير الدومينو"
+      },
+      {
+        "en": "The Doppler effect",
+        "ar": "تأثير دوبلر"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "The Coriolis effect, caused by Earth's rotation, curves the path of moving air and water.",
     "explanation_ar": "تأثير كوريوليس، الناتج عن دوران الأرض، بيلوي مسار حركة الهوا والمية."
   },
@@ -639,23 +639,23 @@
     "question_ar": "أنهي ممارسة مصرية قديمة كانت محتاجة معرفة متقدمة بتشريح جسم الإنسان؟",
     "options": [
       {
-        "en": "Hieroglyphic writing",
-        "ar": "الكتابة الهيروغليفية"
-      },
-      {
-        "en": "Pyramid building",
-        "ar": "بناء الأهرامات"
-      },
-      {
         "en": "Papyrus making",
         "ar": "صناعة البردي"
       },
       {
+        "en": "Hieroglyphic writing",
+        "ar": "الكتابة الهيروغليفية"
+      },
+      {
         "en": "Mummification",
         "ar": "التحنيط"
+      },
+      {
+        "en": "Pyramid building",
+        "ar": "بناء الأهرامات"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Mummification required detailed anatomical knowledge to preserve bodies.",
     "explanation_ar": "التحنيط كان محتاج معرفة تشريحية دقيقة عشان يحافظ على الجسم."
   },
@@ -669,10 +669,6 @@
     "question_ar": "أنهي جزء في عين الإنسان مفيهوش تروية دموية وبياخد الأكسجين مباشرة من الهوا؟",
     "options": [
       {
-        "en": "The iris",
-        "ar": "القزحية"
-      },
-      {
         "en": "The lens",
         "ar": "العدسة"
       },
@@ -683,9 +679,13 @@
       {
         "en": "The cornea",
         "ar": "القرنية"
+      },
+      {
+        "en": "The iris",
+        "ar": "القزحية"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "The cornea has no blood vessels and gets oxygen directly from the air.",
     "explanation_ar": "القرنية مفيهاش أوعية دموية وبتاخد الأكسجين مباشرة من الهوا."
   },
@@ -699,23 +699,23 @@
     "question_ar": "إيه النوع الوحيد من الصخور اللي ممكن يعوم على المية؟",
     "options": [
       {
-        "en": "Pumice",
-        "ar": "حجر الخفاف"
-      },
-      {
         "en": "Marble",
         "ar": "الرخام"
       },
       {
-        "en": "Basalt",
-        "ar": "البازلت"
-      },
-      {
         "en": "Granite",
         "ar": "الجرانيت"
+      },
+      {
+        "en": "Pumice",
+        "ar": "حجر الخفاف"
+      },
+      {
+        "en": "Basalt",
+        "ar": "البازلت"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Pumice is so full of trapped air bubbles that it can float on water.",
     "explanation_ar": "حجر الخفاف مليان فقاعات هوا محبوسة جواه، فبيقدر يعوم على المية."
   },
@@ -729,10 +729,6 @@
     "question_ar": "مين العالم اللي أول من اقترح إن القارات كانت متصلة مع بعض قديماً وبعدين انجرفت؟",
     "options": [
       {
-        "en": "James Hutton",
-        "ar": "جيمس هاتون"
-      },
-      {
         "en": "Alfred Wegener",
         "ar": "ألفريد فيجنر"
       },
@@ -741,11 +737,15 @@
         "ar": "نيكولا ستينو"
       },
       {
+        "en": "James Hutton",
+        "ar": "جيمس هاتون"
+      },
+      {
         "en": "Charles Lyell",
         "ar": "تشارلز لايل"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Alfred Wegener proposed the theory of continental drift in the early 20th century.",
     "explanation_ar": "ألفريد فيجنر اقترح نظرية انجراف القارات في أوايل القرن العشرين."
   },
@@ -763,12 +763,12 @@
         "ar": "التصعيد"
       },
       {
-        "en": "Deposition",
-        "ar": "الترسيب"
-      },
-      {
         "en": "Evaporation",
         "ar": "التبخر"
+      },
+      {
+        "en": "Deposition",
+        "ar": "الترسيب"
       },
       {
         "en": "Condensation",
@@ -789,23 +789,23 @@
     "question_ar": "أنهي معدن عنده أعلى قدرة على توصيل الكهربا من بين كل المعادن؟",
     "options": [
       {
-        "en": "Copper",
-        "ar": "النحاس"
-      },
-      {
         "en": "Gold",
         "ar": "الدهب"
       },
       {
-        "en": "Aluminum",
-        "ar": "الألومنيوم"
-      },
-      {
         "en": "Silver",
         "ar": "الفضة"
+      },
+      {
+        "en": "Copper",
+        "ar": "النحاس"
+      },
+      {
+        "en": "Aluminum",
+        "ar": "الألومنيوم"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Silver has the highest electrical conductivity of any metal, though copper is more commonly used due to cost.",
     "explanation_ar": "الفضة عندها أعلى قدرة توصيل كهربائي بين المعادن، لكن النحاس بيستخدم أكتر بسبب السعر."
   },
@@ -819,10 +819,6 @@
     "question_ar": "بيتقال إيه لنجمتين بيلفوا حوالين بعض بسبب الجاذبية؟",
     "options": [
       {
-        "en": "A pulsar",
-        "ar": "نجم نابض"
-      },
-      {
         "en": "A binary star system",
         "ar": "نظام نجمي ثنائي"
       },
@@ -833,9 +829,13 @@
       {
         "en": "A supernova",
         "ar": "مستعر أعظم"
+      },
+      {
+        "en": "A pulsar",
+        "ar": "نجم نابض"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "A binary star system consists of two stars orbiting a common center of mass.",
     "explanation_ar": "النظام النجمي الثنائي بيتكون من نجمتين بيلفوا حوالين مركز كتلة مشترك."
   },
@@ -849,23 +849,23 @@
     "question_ar": "أنهي نظرية إغريقية قديمة عن الإبصار كذّبها ابن الهيثم، وأثبت إن العين بتستقبل الضوء مش بتطلقه؟",
     "options": [
       {
-        "en": "The atomic theory",
-        "ar": "النظرية الذرية"
-      },
-      {
         "en": "The theory of humors",
         "ar": "نظرية الأخلاط"
       },
       {
-        "en": "The geocentric theory",
-        "ar": "نظرية مركزية الأرض"
-      },
-      {
         "en": "The emission theory of vision",
         "ar": "نظرية الانبعاث البصري"
+      },
+      {
+        "en": "The atomic theory",
+        "ar": "النظرية الذرية"
+      },
+      {
+        "en": "The geocentric theory",
+        "ar": "نظرية مركزية الأرض"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Ibn al-Haytham disproved the ancient idea that the eye emits rays to see, proving vision works by light entering the eye.",
     "explanation_ar": "ابن الهيثم كذّب الفكرة القديمة إن العين بتطلق أشعة عشان تشوف، وأثبت إن الإبصار بيحصل بدخول الضوء للعين."
   },
@@ -879,20 +879,20 @@
     "question_ar": "بيتقال إيه للحجرتين العلويتين في قلب الإنسان؟",
     "options": [
       {
-        "en": "The valves",
-        "ar": "الصمامات"
+        "en": "The septa",
+        "ar": "الحواجز"
       },
       {
-        "en": "The ventricles",
-        "ar": "البطينان"
+        "en": "The valves",
+        "ar": "الصمامات"
       },
       {
         "en": "The atria",
         "ar": "الأذينان"
       },
       {
-        "en": "The septa",
-        "ar": "الحواجز"
+        "en": "The ventricles",
+        "ar": "البطينان"
       }
     ],
     "correctAnswer": 2,
@@ -909,23 +909,23 @@
     "question_ar": "أنهي حمض بيدّي الفاكهة الحمضية زي الليمون طعمها الحامض؟",
     "options": [
       {
-        "en": "Acetic acid",
-        "ar": "حمض الأسيتيك"
-      },
-      {
         "en": "Hydrochloric acid",
         "ar": "حمض الهيدروكلوريك"
       },
       {
-        "en": "Citric acid",
-        "ar": "حمض الستريك"
+        "en": "Acetic acid",
+        "ar": "حمض الأسيتيك"
       },
       {
         "en": "Lactic acid",
         "ar": "حمض اللاكتيك"
+      },
+      {
+        "en": "Citric acid",
+        "ar": "حمض الستريك"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Citric acid is responsible for the sour taste of citrus fruits.",
     "explanation_ar": "حمض الستريك هو المسؤول عن الطعم الحامض في الفاكهة الحمضية."
   },
@@ -939,23 +939,23 @@
     "question_ar": "بيتقال إيه للمنطقة في المجموعة الشمسية بين المريخ والمشترى واللي فيها أجسام صخرية كتير؟",
     "options": [
       {
-        "en": "The Oort cloud",
-        "ar": "سحابة أورط"
-      },
-      {
         "en": "The asteroid belt",
         "ar": "حزام الكويكبات"
+      },
+      {
+        "en": "The Kuiper belt",
+        "ar": "حزام كايبر"
       },
       {
         "en": "The Van Allen belt",
         "ar": "حزام فان ألن"
       },
       {
-        "en": "The Kuiper belt",
-        "ar": "حزام كايبر"
+        "en": "The Oort cloud",
+        "ar": "سحابة أورط"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The asteroid belt lies between Mars and Jupiter and contains many rocky bodies.",
     "explanation_ar": "حزام الكويكبات موجود بين المريخ والمشترى وفيه أجسام صخرية كتير."
   },
@@ -969,23 +969,23 @@
     "question_ar": "أنهي عضو في جسم الإنسان بيقدر يعوّض جزء كبير من نفسه بعد ما يتضرر؟",
     "options": [
       {
-        "en": "The heart",
-        "ar": "القلب"
-      },
-      {
-        "en": "The kidney",
-        "ar": "الكلى"
-      },
-      {
         "en": "The liver",
         "ar": "الكبد"
       },
       {
         "en": "The brain",
         "ar": "المخ"
+      },
+      {
+        "en": "The heart",
+        "ar": "القلب"
+      },
+      {
+        "en": "The kidney",
+        "ar": "الكلى"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The liver has a remarkable ability to regenerate lost tissue.",
     "explanation_ar": "الكبد عنده قدرة ملحوظة على تعويض الأنسجة المفقودة."
   },
@@ -999,10 +999,6 @@
     "question_ar": "مين العالم اللي اكتشف البنسلين، أول مضاد حيوي بيتستخدم على نطاق واسع؟",
     "options": [
       {
-        "en": "Alexander Fleming",
-        "ar": "ألكسندر فليمنج"
-      },
-      {
         "en": "Robert Koch",
         "ar": "روبرت كوخ"
       },
@@ -1013,9 +1009,13 @@
       {
         "en": "Edward Jenner",
         "ar": "إدوارد جينر"
+      },
+      {
+        "en": "Alexander Fleming",
+        "ar": "ألكسندر فليمنج"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Alexander Fleming discovered penicillin in 1928.",
     "explanation_ar": "ألكسندر فليمنج اكتشف البنسلين سنة 1928."
   },
@@ -1029,23 +1029,23 @@
     "question_ar": "بيتقال إيه للعلم اللي بيصنف الكائنات الحية في مجموعات؟",
     "options": [
       {
-        "en": "Physiology",
-        "ar": "علم وظائف الأعضاء"
-      },
-      {
-        "en": "Genetics",
-        "ar": "علم الوراثة"
+        "en": "Ecology",
+        "ar": "علم البيئة"
       },
       {
         "en": "Taxonomy",
         "ar": "علم التصنيف"
       },
       {
-        "en": "Ecology",
-        "ar": "علم البيئة"
+        "en": "Genetics",
+        "ar": "علم الوراثة"
+      },
+      {
+        "en": "Physiology",
+        "ar": "علم وظائف الأعضاء"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Taxonomy is the science of naming and classifying organisms.",
     "explanation_ar": "علم التصنيف هو علم تسمية وتصنيف الكائنات الحية."
   },
@@ -1059,23 +1059,23 @@
     "question_ar": "كرات الدم الحمرا الناضجة عند الثدييات غريبة لأنها من غير أنهي جزء موجود في معظم الخلايا؟",
     "options": [
       {
-        "en": "Cytoplasm",
-        "ar": "سيتوبلازم"
-      },
-      {
-        "en": "Hemoglobin",
-        "ar": "هيموجلوبين"
-      },
-      {
         "en": "A nucleus",
         "ar": "نواة"
       },
       {
+        "en": "Cytoplasm",
+        "ar": "سيتوبلازم"
+      },
+      {
         "en": "A cell membrane",
         "ar": "غشاء خلوي"
+      },
+      {
+        "en": "Hemoglobin",
+        "ar": "هيموجلوبين"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Mature mammalian red blood cells lose their nucleus, leaving more room for hemoglobin.",
     "explanation_ar": "كرات الدم الحمرا الناضجة عند الثدييات بتفقد نواتها، عشان تسيب مساحة أكبر للهيموجلوبين."
   },
@@ -1089,23 +1089,23 @@
     "question_ar": "أنهي غاز مسؤول عن اللون الأزرق لكوكبي أورانوس ونبتون؟",
     "options": [
       {
-        "en": "Nitrogen",
-        "ar": "النيتروجين"
-      },
-      {
         "en": "Ammonia",
         "ar": "الأمونيا"
+      },
+      {
+        "en": "Methane",
+        "ar": "الميثان"
       },
       {
         "en": "Hydrogen",
         "ar": "الهيدروجين"
       },
       {
-        "en": "Methane",
-        "ar": "الميثان"
+        "en": "Nitrogen",
+        "ar": "النيتروجين"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "Methane in their atmospheres absorbs red light, giving Uranus and Neptune a blue color.",
     "explanation_ar": "الميثان في غلافهم الجوي بيمتص الضوء الأحمر، وده اللي بيدي أورانوس ونبتون لونهم الأزرق."
   },
@@ -1119,23 +1119,23 @@
     "question_ar": "أنهي جزء من المخ مسؤول أساساً عن التوازن وتنسيق العضلات؟",
     "options": [
       {
-        "en": "The thalamus",
-        "ar": "المهاد"
-      },
-      {
         "en": "The medulla",
         "ar": "النخاع المستطيل"
       },
       {
-        "en": "The cerebellum",
-        "ar": "المخيخ"
-      },
-      {
         "en": "The cerebrum",
         "ar": "المخ الأمامي"
+      },
+      {
+        "en": "The thalamus",
+        "ar": "المهاد"
+      },
+      {
+        "en": "The cerebellum",
+        "ar": "المخيخ"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "The cerebellum coordinates balance and muscle movement.",
     "explanation_ar": "المخيخ بينسق التوازن وحركة العضلات."
   },
@@ -1149,6 +1149,10 @@
     "question_ar": "إيه اسم المجرة اللي بتحتوي على مجموعتنا الشمسية؟",
     "options": [
       {
+        "en": "The Triangulum galaxy",
+        "ar": "مجرة المثلث"
+      },
+      {
         "en": "The Milky Way",
         "ar": "درب التبانة"
       },
@@ -1157,15 +1161,11 @@
         "ar": "أندروميدا"
       },
       {
-        "en": "The Triangulum galaxy",
-        "ar": "مجرة المثلث"
-      },
-      {
         "en": "The Whirlpool galaxy",
         "ar": "مجرة الدوامة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Our solar system is located within the Milky Way galaxy.",
     "explanation_ar": "مجموعتنا الشمسية موجودة جوه مجرة درب التبانة."
   },
@@ -1179,20 +1179,20 @@
     "question_ar": "أنهي عنصر، موجود في الملح المُيَوَّد، ضروري لوظيفة الغدة الدرقية الصحية؟",
     "options": [
       {
-        "en": "Calcium",
-        "ar": "الكالسيوم"
+        "en": "Iron",
+        "ar": "الحديد"
       },
       {
         "en": "Iodine",
         "ar": "اليود"
       },
       {
-        "en": "Iron",
-        "ar": "الحديد"
-      },
-      {
         "en": "Zinc",
         "ar": "الزنك"
+      },
+      {
+        "en": "Calcium",
+        "ar": "الكالسيوم"
       }
     ],
     "correctAnswer": 1,
@@ -1209,16 +1209,16 @@
     "question_ar": "بيتقال إيه للعملية اللي بيفقد فيها النبات بخار مية من خلال مسام صغيرة في وراقه؟",
     "options": [
       {
-        "en": "Respiration",
-        "ar": "التنفس"
-      },
-      {
         "en": "Germination",
         "ar": "الإنبات"
       },
       {
         "en": "Photosynthesis",
         "ar": "البناء الضوئي"
+      },
+      {
+        "en": "Respiration",
+        "ar": "التنفس"
       },
       {
         "en": "Transpiration",
@@ -1239,23 +1239,23 @@
     "question_ar": "أنهي عضية جوه خلية النبات بتقوم بعملية البناء الضوئي؟",
     "options": [
       {
-        "en": "The nucleus",
-        "ar": "النواة"
-      },
-      {
-        "en": "The chloroplast",
-        "ar": "البلاستيدة الخضراء"
-      },
-      {
         "en": "The mitochondria",
         "ar": "الميتوكوندريا"
       },
       {
         "en": "The vacuole",
         "ar": "الفجوة العصارية"
+      },
+      {
+        "en": "The chloroplast",
+        "ar": "البلاستيدة الخضراء"
+      },
+      {
+        "en": "The nucleus",
+        "ar": "النواة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Chloroplasts contain chlorophyll and carry out photosynthesis in plant cells.",
     "explanation_ar": "البلاستيدات الخضراء فيها الكلوروفيل وبتقوم بعملية البناء الضوئي في خلية النبات."
   },
@@ -1273,12 +1273,12 @@
         "ar": "الإضاءة الحيوية"
       },
       {
-        "en": "Reflection",
-        "ar": "الانعكاس"
-      },
-      {
         "en": "Photosynthesis",
         "ar": "البناء الضوئي"
+      },
+      {
+        "en": "Reflection",
+        "ar": "الانعكاس"
       },
       {
         "en": "Phototropism",
@@ -1303,16 +1303,16 @@
         "ar": "حد التروبوسفير"
       },
       {
-        "en": "The Van Allen belt",
-        "ar": "حزام فان ألن"
+        "en": "The exosphere boundary",
+        "ar": "حد الإكزوسفير"
       },
       {
         "en": "The Kármán line",
         "ar": "خط كارمان"
       },
       {
-        "en": "The exosphere boundary",
-        "ar": "حد الإكزوسفير"
+        "en": "The Van Allen belt",
+        "ar": "حزام فان ألن"
       }
     ],
     "correctAnswer": 2,
@@ -1329,10 +1329,6 @@
     "question_ar": "الخلية البشرية العادية بيبقى فيها كام زوج من الكروموسومات؟",
     "options": [
       {
-        "en": "12 pairs",
-        "ar": "12 زوج"
-      },
-      {
         "en": "20 pairs",
         "ar": "20 زوج"
       },
@@ -1343,9 +1339,13 @@
       {
         "en": "23 pairs",
         "ar": "23 زوج"
+      },
+      {
+        "en": "12 pairs",
+        "ar": "12 زوج"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "A normal human cell has 23 pairs of chromosomes, 46 in total.",
     "explanation_ar": "الخلية البشرية العادية فيها 23 زوج كروموسومات، يعني 46 كروموسوم."
   },
@@ -1359,23 +1359,23 @@
     "question_ar": "أنهي عضو بينظم توازن المية وضغط الدم في الجسم من خلال إنتاج البول؟",
     "options": [
       {
-        "en": "The bladder",
-        "ar": "المثانة"
-      },
-      {
         "en": "The pancreas",
         "ar": "البنكرياس"
       },
       {
-        "en": "The liver",
-        "ar": "الكبد"
-      },
-      {
         "en": "The kidneys",
         "ar": "الكلى"
+      },
+      {
+        "en": "The bladder",
+        "ar": "المثانة"
+      },
+      {
+        "en": "The liver",
+        "ar": "الكبد"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation_en": "The kidneys regulate water balance and blood pressure while producing urine.",
     "explanation_ar": "الكلى بتنظم توازن المية وضغط الدم مع إنتاجها للبول."
   },
@@ -1389,6 +1389,10 @@
     "question_ar": "أنهي لقاح، اتطور من جدري البقر، كان أول لقاح ناجح ضد مرض بشري في التاريخ؟",
     "options": [
       {
+        "en": "The smallpox vaccine",
+        "ar": "لقاح الجدري"
+      },
+      {
         "en": "The polio vaccine",
         "ar": "لقاح شلل الأطفال"
       },
@@ -1399,13 +1403,9 @@
       {
         "en": "The measles vaccine",
         "ar": "لقاح الحصبة"
-      },
-      {
-        "en": "The smallpox vaccine",
-        "ar": "لقاح الجدري"
       }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Edward Jenner developed the smallpox vaccine from cowpox, the first successful vaccine.",
     "explanation_ar": "إدوارد جينر طور لقاح الجدري من جدري البقر، وكان أول لقاح ناجح في التاريخ."
   },
@@ -1419,10 +1419,6 @@
     "question_ar": "بيتقال إيه للعلم اللي بيدرس الفطريات، زي المشروم والعفن؟",
     "options": [
       {
-        "en": "Bacteriology",
-        "ar": "علم البكتيريا"
-      },
-      {
         "en": "Virology",
         "ar": "علم الفيروسات"
       },
@@ -1431,11 +1427,15 @@
         "ar": "علم الفطريات"
       },
       {
+        "en": "Bacteriology",
+        "ar": "علم البكتيريا"
+      },
+      {
         "en": "Botany",
         "ar": "علم النبات"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Mycology is the branch of biology that studies fungi.",
     "explanation_ar": "علم الفطريات هو فرع الأحياء اللي بيدرس الفطريات."
   },
@@ -1453,19 +1453,19 @@
         "ar": "الكائنات السباتية"
       },
       {
-        "en": "Endotherms (warm-blooded)",
-        "ar": "ذوات الدم الحار"
+        "en": "Ectotherms (cold-blooded)",
+        "ar": "ذوات الدم البارد"
       },
       {
         "en": "Invertebrates",
         "ar": "لافقاريات"
       },
       {
-        "en": "Ectotherms (cold-blooded)",
-        "ar": "ذوات الدم البارد"
+        "en": "Endotherms (warm-blooded)",
+        "ar": "ذوات الدم الحار"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Endotherms, or warm-blooded animals, maintain a constant internal body temperature.",
     "explanation_ar": "ذوات الدم الحار بتحافظ على درجة حرارة جسم ثابتة من الداخل."
   },
@@ -1479,8 +1479,8 @@
     "question_ar": "بيتقال إيه للحيوانات، زي الزواحف، اللي درجة حرارة جسمها بتعتمد على البيئة المحيطة؟",
     "options": [
       {
-        "en": "Ectotherms (cold-blooded)",
-        "ar": "ذوات الدم البارد"
+        "en": "Herbivores",
+        "ar": "آكلات الأعشاب"
       },
       {
         "en": "Endotherms (warm-blooded)",
@@ -1491,11 +1491,11 @@
         "ar": "ثابتات الحرارة"
       },
       {
-        "en": "Herbivores",
-        "ar": "آكلات الأعشاب"
+        "en": "Ectotherms (cold-blooded)",
+        "ar": "ذوات الدم البارد"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Ectotherms rely on external sources like the sun to regulate their body temperature.",
     "explanation_ar": "ذوات الدم البارد بتعتمد على مصادر خارجية زي الشمس عشان تنظم درجة حرارة جسمها."
   }
