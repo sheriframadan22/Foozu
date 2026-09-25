@@ -545,29 +545,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's famous feud with Umm Kulthum's estate over performing her songs became a notable legal/cultural dispute in Egyptian music circles?",
-    "question_ar": "خلاف أنهي مطربة مصرية مع ورثة أم كلثوم بخصوص أداء أغانيها بقى قضية قانونية/ثقافية معروفة في الأوساط الموسيقية المصرية؟",
+    "question_en": "Which US singer/actress, star of \"The Wizard of Oz\" (1939), is famous for the song \"Over the Rainbow\"?",
+    "question_ar": "أنهي مطربة وممثلة أمريكية، نجمة فيلم \"The Wizard of Oz\" (1939)، اشتهرت بأغنية \"Over the Rainbow\"؟",
     "options": [
       {
-        "en": "Najat El Saghira",
-        "ar": "نجاة الصغيرة"
+        "en": "Doris Day",
+        "ar": "دوريس داي"
       },
       {
-        "en": "Shadia",
-        "ar": "شادية"
+        "en": "Ginger Rogers",
+        "ar": "جينجر روجرز"
       },
       {
-        "en": "Warda",
-        "ar": "وردة"
+        "en": "Judy Garland",
+        "ar": "جودي جارلاند"
       },
       {
-        "en": "Fayza Ahmed",
-        "ar": "فايزة أحمد"
+        "en": "Deanna Durbin",
+        "ar": "ديانا دوربين"
       }
     ],
     "correctAnswer": 2,
-    "explanation_en": "There was public controversy around singers performing Umm Kulthum's repertoire, with Warda's renditions notably discussed in Egyptian music circles.",
-    "explanation_ar": "كان فيه جدل عام حوالين غناء تراث أم كلثوم، ومحاولات وردة كانت من أكتر الحالات اللي اتناقشت."
+    "explanation_en": "Judy Garland, star of \"The Wizard of Oz\", is famous for \"Over the Rainbow\".",
+    "explanation_ar": "جودي جارلاند، نجمة فيلم \"The Wizard of Oz\"، اشتهرت بأغنية \"Over the Rainbow\"."
   },
   {
     "id": "MUS-200-020",
@@ -1445,29 +1445,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer built an independent solo career in the 1960s-70s that grew to rival Umm Kulthum's stature?",
-    "question_ar": "أنهي مطربة مصرية بنت مشوار فردي مستقل في الستينات والسبعينات نما ليصبح منافسًا لمكانة أم كلثوم؟",
+    "question_en": "Which British-Australian band, formed by three Gibb brothers, dominated the disco era with the \"Saturday Night Fever\" soundtrack?",
+    "question_ar": "أنهي فرقة بريطانية-أسترالية، كونها ثلاث إخوة من عيلة جيب، سيطرت على عصر الديسكو بموسيقى فيلم \"Saturday Night Fever\"؟",
     "options": [
       {
-        "en": "Warda",
-        "ar": "وردة"
+        "en": "Bee Gees",
+        "ar": "بي جيز"
       },
       {
-        "en": "Shadia",
-        "ar": "شادية"
+        "en": "Kool & the Gang",
+        "ar": "كول آند ذا جانج"
       },
       {
-        "en": "Naima Akef",
-        "ar": "نعيمة عاكف"
+        "en": "Chic",
+        "ar": "شيك"
       },
       {
-        "en": "Fayza Ahmed",
-        "ar": "فايزة أحمد"
+        "en": "Earth, Wind & Fire",
+        "ar": "إيرث ويند آند فاير"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Warda maintained a largely independent solo career that grew to rival the stature of Egypt's top singers.",
-    "explanation_ar": "وردة حافظت على مشوار فردي مستقل نما ليصبح منافسًا لمكانة أكبر مطربات مصر."
+    "explanation_en": "The Bee Gees, formed by the three Gibb brothers, dominated disco with \"Saturday Night Fever\".",
+    "explanation_ar": "فرقة بي جيز، اللي كونها إخوة جيب التلاتة، سيطرت على الديسكو بموسيقى \"Saturday Night Fever\"."
   },
   {
     "id": "MUS-200-050",
