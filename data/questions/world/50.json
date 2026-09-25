@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "WLD-050-001",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Yemen?",
+    "question_ar": "إيه عاصمة اليمن؟",
+    "options": [
+      {
+        "en": "Aden",
+        "ar": "عدن"
+      },
+      {
+        "en": "Sana'a",
+        "ar": "صنعاء"
+      },
+      {
+        "en": "Taiz",
+        "ar": "تعز"
+      },
+      {
+        "en": "Hodeidah",
+        "ar": "الحديدة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Sana'a is the capital of Yemen.",
+    "explanation_ar": "صنعاء عاصمة اليمن."
+  },
+  {
+    "id": "WLD-050-002",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Oman?",
+    "question_ar": "إيه عاصمة عُمان؟",
+    "options": [
+      {
+        "en": "Salalah",
+        "ar": "صلالة"
+      },
+      {
+        "en": "Sohar",
+        "ar": "صحار"
+      },
+      {
+        "en": "Muscat",
+        "ar": "مسقط"
+      },
+      {
+        "en": "Nizwa",
+        "ar": "نزوى"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Muscat is the capital of Oman.",
+    "explanation_ar": "مسقط عاصمة عُمان."
+  },
+  {
+    "id": "WLD-050-003",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Bahrain?",
+    "question_ar": "إيه عاصمة البحرين؟",
+    "options": [
+      {
+        "en": "Manama",
+        "ar": "المنامة"
+      },
+      {
+        "en": "Muharraq",
+        "ar": "المحرق"
+      },
+      {
+        "en": "Riffa",
+        "ar": "الرفاع"
+      },
+      {
+        "en": "Isa Town",
+        "ar": "مدينة عيسى"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Manama is the capital of Bahrain.",
+    "explanation_ar": "المنامة عاصمة البحرين."
+  },
+  {
+    "id": "WLD-050-004",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Egypt's Sinai Peninsula is located on which continent?",
+    "question_ar": "شبه جزيرة سيناء المصرية موجودة في أنهي قارة؟",
+    "options": [
+      {
+        "en": "Africa",
+        "ar": "أفريقيا"
+      },
+      {
+        "en": "Asia",
+        "ar": "آسيا"
+      },
+      {
+        "en": "Europe",
+        "ar": "أوروبا"
+      },
+      {
+        "en": "None, it's an island",
+        "ar": "محتاش، هي جزيرة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Sinai is the only part of Egypt located in Asia; the rest of Egypt is in Africa.",
+    "explanation_ar": "سيناء هي الجزء الوحيد من مصر الموجود في آسيا، وباقي مصر في أفريقيا."
+  },
+  {
+    "id": "WLD-050-005",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Saudi Arabia, UAE, Kuwait, Qatar, Bahrain and Oman together form which regional bloc?",
+    "question_ar": "السعودية والإمارات والكويت وقطر والبحرين وعُمان بيكوّنوا مع بعض أنهي تكتل إقليمي؟",
+    "options": [
+      {
+        "en": "The Arab League",
+        "ar": "جامعة الدول العربية"
+      },
+      {
+        "en": "The Gulf Cooperation Council (GCC)",
+        "ar": "مجلس التعاون الخليجي"
+      },
+      {
+        "en": "The Organization of Islamic Cooperation",
+        "ar": "منظمة التعاون الإسلامي"
+      },
+      {
+        "en": "OPEC",
+        "ar": "أوبك"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "These six countries form the Gulf Cooperation Council (GCC).",
+    "explanation_ar": "الدول الست دي بتكوّن مجلس التعاون الخليجي."
+  },
+  {
+    "id": "WLD-050-006",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Lebanon, Syria, Jordan and Palestine are commonly grouped together as which region?",
+    "question_ar": "لبنان وسوريا والأردن وفلسطين بيتحطوا مع بعض في أنهي منطقة؟",
+    "options": [
+      {
+        "en": "The Maghreb",
+        "ar": "المغرب العربي"
+      },
+      {
+        "en": "The Levant",
+        "ar": "بلاد الشام"
+      },
+      {
+        "en": "The Horn of Africa",
+        "ar": "القرن الأفريقي"
+      },
+      {
+        "en": "The Gulf",
+        "ar": "الخليج"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "This region is commonly known as the Levant, or Bilad al-Sham in Arabic.",
+    "explanation_ar": "المنطقة دي معروفة باسم بلاد الشام أو الليفانت."
+  },
+  {
+    "id": "WLD-050-007",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Suez Canal connects the Mediterranean Sea to which other sea?",
+    "question_ar": "قناة السويس بتوصل البحر الأبيض المتوسط بأنهي بحر تاني؟",
+    "options": [
+      {
+        "en": "The Red Sea",
+        "ar": "البحر الأحمر"
+      },
+      {
+        "en": "The Arabian Sea",
+        "ar": "بحر العرب"
+      },
+      {
+        "en": "The Black Sea",
+        "ar": "البحر الأسود"
+      },
+      {
+        "en": "The Caspian Sea",
+        "ar": "بحر قزوين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Suez Canal, in Egypt, links the Mediterranean Sea to the Red Sea.",
+    "explanation_ar": "قناة السويس في مصر بتوصل البحر الأبيض المتوسط بالبحر الأحمر."
+  },
+  {
+    "id": "WLD-050-008",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which is the most populous Arab country?",
+    "question_ar": "إيه أكتر دولة عربية سكانًا؟",
+    "options": [
+      {
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      },
+      {
+        "en": "Iraq",
+        "ar": "العراق"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Egypt has the largest population among all Arab countries.",
+    "explanation_ar": "مصر هي أكتر دولة عربية عدد سكانها."
+  },
+  {
+    "id": "WLD-050-009",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Strait of Hormuz, a key oil shipping route, separates the Arabian Peninsula from which country?",
+    "question_ar": "مضيق هرمز، أهم ممر لنقل النفط، بيفصل شبه الجزيرة العربية عن أنهي بلد؟",
+    "options": [
+      {
+        "en": "Iran",
+        "ar": "إيران"
+      },
+      {
+        "en": "Pakistan",
+        "ar": "باكستان"
+      },
+      {
+        "en": "India",
+        "ar": "الهند"
+      },
+      {
+        "en": "Somalia",
+        "ar": "الصومال"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Strait of Hormuz lies between the Arabian Peninsula and Iran.",
+    "explanation_ar": "مضيق هرمز موجود بين شبه الجزيرة العربية وإيران."
+  },
+  {
+    "id": "WLD-050-010",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Aswan High Dam, a major dam on the Nile, is located in which country?",
+    "question_ar": "السد العالي بأسوان، السد الكبير على نهر النيل، موجود في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Sudan",
+        "ar": "السودان"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Ethiopia",
+        "ar": "إثيوبيا"
+      },
+      {
+        "en": "Uganda",
+        "ar": "أوغندا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Aswan High Dam is located in southern Egypt.",
+    "explanation_ar": "السد العالي موجود في جنوب مصر."
+  },
+  {
+    "id": "WLD-050-011",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the currency of Iraq?",
+    "question_ar": "إيه عملة العراق؟",
+    "options": [
+      {
+        "en": "Iraqi Riyal",
+        "ar": "الريال العراقي"
+      },
+      {
+        "en": "Iraqi Dinar",
+        "ar": "الدينار العراقي"
+      },
+      {
+        "en": "Iraqi Pound",
+        "ar": "الجنيه العراقي"
+      },
+      {
+        "en": "Iraqi Dirham",
+        "ar": "الدرهم العراقي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Iraqi Dinar is Iraq's official currency.",
+    "explanation_ar": "الدينار العراقي هو عملة العراق الرسمية."
+  },
+  {
+    "id": "WLD-050-012",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the currency of Syria?",
+    "question_ar": "إيه عملة سوريا؟",
+    "options": [
+      {
+        "en": "Syrian Dinar",
+        "ar": "الدينار السوري"
+      },
+      {
+        "en": "Syrian Pound",
+        "ar": "الليرة السورية"
+      },
+      {
+        "en": "Syrian Riyal",
+        "ar": "الريال السوري"
+      },
+      {
+        "en": "Syrian Dirham",
+        "ar": "الدرهم السوري"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Syrian Pound (Lira) is Syria's official currency.",
+    "explanation_ar": "الليرة السورية هي عملة سوريا الرسمية."
+  },
+  {
+    "id": "WLD-050-013",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the currency of Sudan?",
+    "question_ar": "إيه عملة السودان؟",
+    "options": [
+      {
+        "en": "Sudanese Dinar",
+        "ar": "الدينار السوداني"
+      },
+      {
+        "en": "Sudanese Riyal",
+        "ar": "الريال السوداني"
+      },
+      {
+        "en": "Sudanese Pound",
+        "ar": "الجنيه السوداني"
+      },
+      {
+        "en": "Sudanese Dirham",
+        "ar": "الدرهم السوداني"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Sudanese Pound is Sudan's official currency.",
+    "explanation_ar": "الجنيه السوداني هو عملة السودان الرسمية."
+  },
+  {
+    "id": "WLD-050-014",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the currency of Libya?",
+    "question_ar": "إيه عملة ليبيا؟",
+    "options": [
+      {
+        "en": "Libyan Dinar",
+        "ar": "الدينار الليبي"
+      },
+      {
+        "en": "Libyan Pound",
+        "ar": "الجنيه الليبي"
+      },
+      {
+        "en": "Libyan Riyal",
+        "ar": "الريال الليبي"
+      },
+      {
+        "en": "Libyan Franc",
+        "ar": "الفرنك الليبي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Libyan Dinar is Libya's official currency.",
+    "explanation_ar": "الدينار الليبي هو عملة ليبيا الرسمية."
+  },
+  {
+    "id": "WLD-050-015",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the currency of Algeria?",
+    "question_ar": "إيه عملة الجزائر؟",
+    "options": [
+      {
+        "en": "Algerian Riyal",
+        "ar": "الريال الجزائري"
+      },
+      {
+        "en": "Algerian Pound",
+        "ar": "الجنيه الجزائري"
+      },
+      {
+        "en": "Algerian Franc",
+        "ar": "الفرنك الجزائري"
+      },
+      {
+        "en": "Algerian Dinar",
+        "ar": "الدينار الجزائري"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The Algerian Dinar is Algeria's official currency.",
+    "explanation_ar": "الدينار الجزائري هو عملة الجزائر الرسمية."
+  },
+  {
+    "id": "WLD-050-016",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the currency of Tunisia?",
+    "question_ar": "إيه عملة تونس؟",
+    "options": [
+      {
+        "en": "Tunisian Dinar",
+        "ar": "الدينار التونسي"
+      },
+      {
+        "en": "Tunisian Dirham",
+        "ar": "الدرهم التونسي"
+      },
+      {
+        "en": "Tunisian Pound",
+        "ar": "الجنيه التونسي"
+      },
+      {
+        "en": "Tunisian Riyal",
+        "ar": "الريال التونسي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Tunisian Dinar is Tunisia's official currency.",
+    "explanation_ar": "الدينار التونسي هو عملة تونس الرسمية."
+  },
+  {
+    "id": "WLD-050-017",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the currency of Yemen?",
+    "question_ar": "إيه عملة اليمن؟",
+    "options": [
+      {
+        "en": "Yemeni Dinar",
+        "ar": "الدينار اليمني"
+      },
+      {
+        "en": "Yemeni Pound",
+        "ar": "الجنيه اليمني"
+      },
+      {
+        "en": "Yemeni Rial",
+        "ar": "الريال اليمني"
+      },
+      {
+        "en": "Yemeni Dirham",
+        "ar": "الدرهم اليمني"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Yemeni Rial is Yemen's official currency.",
+    "explanation_ar": "الريال اليمني هو عملة اليمن الرسمية."
+  },
+  {
+    "id": "WLD-050-018",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Besides Arabic, which second language is widely spoken in Morocco, Algeria and Tunisia due to colonial history?",
+    "question_ar": "غير العربي، إيه اللغة التانية المنتشرة في المغرب والجزائر وتونس بسبب تاريخ الاستعمار؟",
+    "options": [
+      {
+        "en": "Spanish",
+        "ar": "الإسبانية"
+      },
+      {
+        "en": "French",
+        "ar": "الفرنسية"
+      },
+      {
+        "en": "Italian",
+        "ar": "الإيطالية"
+      },
+      {
+        "en": "Portuguese",
+        "ar": "البرتغالية"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "French is widely spoken across Morocco, Algeria and Tunisia alongside Arabic.",
+    "explanation_ar": "الفرنسية منتشرة جدًا في المغرب والجزائر وتونس جنبًا لجنب مع العربية."
+  },
+  {
+    "id": "WLD-050-019",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Red Sea separates the Arabian Peninsula from which continent?",
+    "question_ar": "البحر الأحمر بيفصل شبه الجزيرة العربية عن أنهي قارة؟",
+    "options": [
+      {
+        "en": "Africa",
+        "ar": "أفريقيا"
+      },
+      {
+        "en": "Europe",
+        "ar": "أوروبا"
+      },
+      {
+        "en": "Asia",
+        "ar": "آسيا"
+      },
+      {
+        "en": "Antarctica",
+        "ar": "القارة القطبية الجنوبية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Red Sea lies between the Arabian Peninsula and Africa.",
+    "explanation_ar": "البحر الأحمر موجود بين شبه الجزيرة العربية وقارة أفريقيا."
+  },
+  {
+    "id": "WLD-050-020",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which is the largest Arab country by land area?",
+    "question_ar": "إيه أكبر دولة عربية من حيث المساحة؟",
+    "options": [
+      {
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
+      },
+      {
+        "en": "Sudan",
+        "ar": "السودان"
+      },
+      {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Algeria is the largest Arab country and the largest country in Africa by area.",
+    "explanation_ar": "الجزائر أكبر دولة عربية وأكبر دولة في أفريقيا من حيث المساحة."
+  },
+  {
+    "id": "WLD-050-021",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which Gulf country was the first to discover oil, back in 1932?",
+    "question_ar": "أنهي دولة خليجية أول اللي اكتشفت البترول سنة 1932؟",
+    "options": [
+      {
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
+      },
+      {
+        "en": "Kuwait",
+        "ar": "الكويت"
+      },
+      {
+        "en": "Bahrain",
+        "ar": "البحرين"
+      },
+      {
+        "en": "UAE",
+        "ar": "الإمارات"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Bahrain discovered oil in 1932, the first country in the Gulf to do so.",
+    "explanation_ar": "البحرين اكتشفت البترول سنة 1932، وكانت أول دولة في الخليج تعمل كده."
+  },
+  {
+    "id": "WLD-050-022",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Switzerland?",
+    "question_ar": "إيه عاصمة سويسرا؟",
+    "options": [
+      {
+        "en": "Zurich",
+        "ar": "زيورخ"
+      },
+      {
+        "en": "Geneva",
+        "ar": "جنيف"
+      },
+      {
+        "en": "Bern",
+        "ar": "برن"
+      },
+      {
+        "en": "Basel",
+        "ar": "بازل"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Bern is Switzerland's capital, even though Zurich is bigger.",
+    "explanation_ar": "برن عاصمة سويسرا رغم إن زيورخ أكبر منها."
+  },
+  {
+    "id": "WLD-050-023",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Australia?",
+    "question_ar": "إيه عاصمة أستراليا؟",
+    "options": [
+      {
+        "en": "Sydney",
+        "ar": "سيدني"
+      },
+      {
+        "en": "Melbourne",
+        "ar": "ملبورن"
+      },
+      {
+        "en": "Canberra",
+        "ar": "كانبرا"
+      },
+      {
+        "en": "Perth",
+        "ar": "بيرث"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Canberra, not Sydney, is Australia's capital.",
+    "explanation_ar": "كانبرا هي عاصمة أستراليا مش سيدني."
+  },
+  {
+    "id": "WLD-050-024",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the administrative capital of South Africa?",
+    "question_ar": "إيه العاصمة الإدارية لجنوب أفريقيا؟",
+    "options": [
+      {
+        "en": "Cape Town",
+        "ar": "كيب تاون"
+      },
+      {
+        "en": "Johannesburg",
+        "ar": "جوهانسبرج"
+      },
+      {
+        "en": "Durban",
+        "ar": "ديربان"
+      },
+      {
+        "en": "Pretoria",
+        "ar": "بريتوريا"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Pretoria serves as South Africa's administrative capital.",
+    "explanation_ar": "بريتوريا هي العاصمة الإدارية لجنوب أفريقيا."
+  },
+  {
+    "id": "WLD-050-025",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of New Zealand?",
+    "question_ar": "إيه عاصمة نيوزيلندا؟",
+    "options": [
+      {
+        "en": "Auckland",
+        "ar": "أوكلاند"
+      },
+      {
+        "en": "Wellington",
+        "ar": "ويلينجتون"
+      },
+      {
+        "en": "Christchurch",
+        "ar": "كرايستشيرش"
+      },
+      {
+        "en": "Hamilton",
+        "ar": "هاميلتون"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Wellington, not Auckland, is New Zealand's capital.",
+    "explanation_ar": "ويلينجتون هي عاصمة نيوزيلندا مش أوكلاند."
+  },
+  {
+    "id": "WLD-050-026",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Vietnam?",
+    "question_ar": "إيه عاصمة فيتنام؟",
+    "options": [
+      {
+        "en": "Ho Chi Minh City",
+        "ar": "مدينة هوشي منه"
+      },
+      {
+        "en": "Hanoi",
+        "ar": "هانوي"
+      },
+      {
+        "en": "Da Nang",
+        "ar": "دا نانج"
+      },
+      {
+        "en": "Hue",
+        "ar": "هوي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Hanoi, not Ho Chi Minh City, is Vietnam's capital.",
+    "explanation_ar": "هانوي هي عاصمة فيتنام مش مدينة هوشي منه."
+  },
+  {
+    "id": "WLD-050-027",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Nigeria?",
+    "question_ar": "إيه عاصمة نيجيريا؟",
+    "options": [
+      {
+        "en": "Lagos",
+        "ar": "لاجوس"
+      },
+      {
+        "en": "Abuja",
+        "ar": "أبوجا"
+      },
+      {
+        "en": "Kano",
+        "ar": "كانو"
+      },
+      {
+        "en": "Ibadan",
+        "ar": "إيبادان"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Abuja, not Lagos, is Nigeria's capital.",
+    "explanation_ar": "أبوجا هي عاصمة نيجيريا مش لاجوس."
+  },
+  {
+    "id": "WLD-050-028",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Pakistan?",
+    "question_ar": "إيه عاصمة باكستان؟",
+    "options": [
+      {
+        "en": "Karachi",
+        "ar": "كراتشي"
+      },
+      {
+        "en": "Lahore",
+        "ar": "لاهور"
+      },
+      {
+        "en": "Islamabad",
+        "ar": "إسلام آباد"
+      },
+      {
+        "en": "Peshawar",
+        "ar": "بيشاور"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Islamabad, not Karachi, is Pakistan's capital.",
+    "explanation_ar": "إسلام آباد هي عاصمة باكستان مش كراتشي."
+  },
+  {
+    "id": "WLD-050-029",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Ethiopia?",
+    "question_ar": "إيه عاصمة إثيوبيا؟",
+    "options": [
+      {
+        "en": "Addis Ababa",
+        "ar": "أديس أبابا"
+      },
+      {
+        "en": "Gondar",
+        "ar": "جوندار"
+      },
+      {
+        "en": "Mekelle",
+        "ar": "مكيلي"
+      },
+      {
+        "en": "Bahir Dar",
+        "ar": "باهر دار"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Addis Ababa is the capital of Ethiopia.",
+    "explanation_ar": "أديس أبابا عاصمة إثيوبيا."
+  },
+  {
+    "id": "WLD-050-030",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Kenya?",
+    "question_ar": "إيه عاصمة كينيا؟",
+    "options": [
+      {
+        "en": "Mombasa",
+        "ar": "مومباسا"
+      },
+      {
+        "en": "Nairobi",
+        "ar": "نيروبي"
+      },
+      {
+        "en": "Kisumu",
+        "ar": "كيسومو"
+      },
+      {
+        "en": "Nakuru",
+        "ar": "ناكورو"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Nairobi is the capital of Kenya.",
+    "explanation_ar": "نيروبي عاصمة كينيا."
+  },
+  {
+    "id": "WLD-050-031",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Argentina?",
+    "question_ar": "إيه عاصمة الأرجنتين؟",
+    "options": [
+      {
+        "en": "Buenos Aires",
+        "ar": "بوينس آيرس"
+      },
+      {
+        "en": "Córdoba",
+        "ar": "كوردوبا"
+      },
+      {
+        "en": "Rosario",
+        "ar": "روساريو"
+      },
+      {
+        "en": "Mendoza",
+        "ar": "مندوزا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Buenos Aires is the capital of Argentina.",
+    "explanation_ar": "بوينس آيرس عاصمة الأرجنتين."
+  },
+  {
+    "id": "WLD-050-032",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Chile?",
+    "question_ar": "إيه عاصمة تشيلي؟",
+    "options": [
+      {
+        "en": "Valparaíso",
+        "ar": "فالبارايسو"
+      },
+      {
+        "en": "Santiago",
+        "ar": "سانتياجو"
+      },
+      {
+        "en": "Concepción",
+        "ar": "كونسبسيون"
+      },
+      {
+        "en": "Antofagasta",
+        "ar": "أنتوفاجاستا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Santiago is the capital of Chile.",
+    "explanation_ar": "سانتياجو عاصمة تشيلي."
+  },
+  {
+    "id": "WLD-050-033",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Portugal?",
+    "question_ar": "إيه عاصمة البرتغال؟",
+    "options": [
+      {
+        "en": "Porto",
+        "ar": "بورتو"
+      },
+      {
+        "en": "Lisbon",
+        "ar": "لشبونة"
+      },
+      {
+        "en": "Braga",
+        "ar": "براجا"
+      },
+      {
+        "en": "Coimbra",
+        "ar": "كويمبرا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Lisbon is the capital of Portugal.",
+    "explanation_ar": "لشبونة عاصمة البرتغال."
+  },
+  {
+    "id": "WLD-050-034",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of the Netherlands?",
+    "question_ar": "إيه عاصمة هولندا؟",
+    "options": [
+      {
+        "en": "Rotterdam",
+        "ar": "روتردام"
+      },
+      {
+        "en": "The Hague",
+        "ar": "لاهاي"
+      },
+      {
+        "en": "Amsterdam",
+        "ar": "أمستردام"
+      },
+      {
+        "en": "Utrecht",
+        "ar": "أوتريخت"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Amsterdam is the official capital of the Netherlands.",
+    "explanation_ar": "أمستردام هي العاصمة الرسمية لهولندا."
+  },
+  {
+    "id": "WLD-050-035",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Austria?",
+    "question_ar": "إيه عاصمة النمسا؟",
+    "options": [
+      {
+        "en": "Salzburg",
+        "ar": "سالزبورج"
+      },
+      {
+        "en": "Vienna",
+        "ar": "فيينا"
+      },
+      {
+        "en": "Graz",
+        "ar": "جراتس"
+      },
+      {
+        "en": "Innsbruck",
+        "ar": "إنسبروك"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Vienna is the capital of Austria.",
+    "explanation_ar": "فيينا عاصمة النمسا."
+  },
+  {
+    "id": "WLD-050-036",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the capital of Finland?",
+    "question_ar": "إيه عاصمة فنلندا؟",
+    "options": [
+      {
+        "en": "Helsinki",
+        "ar": "هلسنكي"
+      },
+      {
+        "en": "Tampere",
+        "ar": "تامبيري"
+      },
+      {
+        "en": "Turku",
+        "ar": "توركو"
+      },
+      {
+        "en": "Oulu",
+        "ar": "أولو"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Helsinki is the capital of Finland.",
+    "explanation_ar": "هلسنكي عاصمة فنلندا."
+  },
+  {
+    "id": "WLD-050-037",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Most of Turkey's land area lies on which continent?",
+    "question_ar": "معظم مساحة تركيا موجودة في أنهي قارة؟",
+    "options": [
+      {
+        "en": "Europe",
+        "ar": "أوروبا"
+      },
+      {
+        "en": "Asia",
+        "ar": "آسيا"
+      },
+      {
+        "en": "Africa",
+        "ar": "أفريقيا"
+      },
+      {
+        "en": "It's split equally",
+        "ar": "متقسمة بالتساوي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Most of Turkey's territory, called Anatolia, lies in Asia.",
+    "explanation_ar": "معظم أراضي تركيا، اللي اسمها الأناضول، موجودة في آسيا."
+  },
+  {
+    "id": "WLD-050-038",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Most of Russia's land area lies on which continent?",
+    "question_ar": "معظم مساحة روسيا موجودة في أنهي قارة؟",
+    "options": [
+      {
+        "en": "Europe",
+        "ar": "أوروبا"
+      },
+      {
+        "en": "Asia",
+        "ar": "آسيا"
+      },
+      {
+        "en": "Both equally",
+        "ar": "الاتنين بالتساوي"
+      },
+      {
+        "en": "Neither",
+        "ar": "ولا واحدة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Although its population is concentrated in Europe, most of Russia's land area lies in Asia.",
+    "explanation_ar": "رغم إن معظم سكان روسيا في الجزء الأوروبي، إلا إن معظم مساحتها موجودة في آسيا."
+  },
+  {
+    "id": "WLD-050-039",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Grand Canyon, one of the most famous natural wonders, is located in which US state?",
+    "question_ar": "جراند كانيون، من أشهر عجائب الطبيعة، موجود في أنهي ولاية أمريكية؟",
+    "options": [
+      {
+        "en": "Nevada",
+        "ar": "نيفادا"
+      },
+      {
+        "en": "Utah",
+        "ar": "يوتا"
+      },
+      {
+        "en": "Arizona",
+        "ar": "أريزونا"
+      },
+      {
+        "en": "Colorado",
+        "ar": "كولورادو"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Grand Canyon is located in the state of Arizona.",
+    "explanation_ar": "جراند كانيون موجود في ولاية أريزونا."
+  },
+  {
+    "id": "WLD-050-040",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the largest lake in the world by surface area?",
+    "question_ar": "إيه أكبر بحيرة في العالم من حيث المساحة؟",
+    "options": [
+      {
+        "en": "Lake Superior",
+        "ar": "بحيرة سوبيريور"
+      },
+      {
+        "en": "Caspian Sea",
+        "ar": "بحر قزوين"
+      },
+      {
+        "en": "Lake Victoria",
+        "ar": "بحيرة فيكتوريا"
+      },
+      {
+        "en": "Lake Baikal",
+        "ar": "بحيرة بايكال"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Caspian Sea is technically the world's largest lake by surface area.",
+    "explanation_ar": "بحر قزوين هو أكبر بحيرة في العالم من حيث المساحة."
+  },
+  {
+    "id": "WLD-050-041",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the largest island in the world?",
+    "question_ar": "إيه أكبر جزيرة في العالم؟",
+    "options": [
+      {
+        "en": "Greenland",
+        "ar": "جرينلاند"
+      },
+      {
+        "en": "Madagascar",
+        "ar": "مدغشقر"
+      },
+      {
+        "en": "Borneo",
+        "ar": "بورنيو"
+      },
+      {
+        "en": "New Guinea",
+        "ar": "غينيا الجديدة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Greenland is the largest island in the world (Australia is classified as a continent).",
+    "explanation_ar": "جرينلاند أكبر جزيرة في العالم (أستراليا بتتصنف كقارة مش جزيرة)."
+  },
+  {
+    "id": "WLD-050-042",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Congo River, one of the world's deepest rivers, flows mainly through which continent?",
+    "question_ar": "نهر الكونغو، من أعمق أنهار العالم، بيمر بشكل رئيسي في أنهي قارة؟",
+    "options": [
+      {
+        "en": "Africa",
+        "ar": "أفريقيا"
+      },
+      {
+        "en": "South America",
+        "ar": "أمريكا الجنوبية"
+      },
+      {
+        "en": "Asia",
+        "ar": "آسيا"
+      },
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Congo River flows through the Congo Basin rainforest in Africa.",
+    "explanation_ar": "نهر الكونغو بيمر في غابات حوض الكونغو المطيرة في أفريقيا."
+  },
+  {
+    "id": "WLD-050-043",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the main language spoken in Brazil?",
+    "question_ar": "إيه اللغة الأساسية اللي بيتكلموها في البرازيل؟",
+    "options": [
+      {
+        "en": "Spanish",
+        "ar": "الإسبانية"
+      },
+      {
+        "en": "Portuguese",
+        "ar": "البرتغالية"
+      },
+      {
+        "en": "French",
+        "ar": "الفرنسية"
+      },
+      {
+        "en": "Italian",
+        "ar": "الإيطالية"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Unlike most of Latin America, Brazil's main language is Portuguese, not Spanish.",
+    "explanation_ar": "على عكس معظم أمريكا اللاتينية، اللغة الأساسية في البرازيل هي البرتغالية مش الإسبانية."
+  },
+  {
+    "id": "WLD-050-044",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the main language spoken in Austria?",
+    "question_ar": "إيه اللغة الأساسية اللي بيتكلموها في النمسا؟",
+    "options": [
+      {
+        "en": "German",
+        "ar": "الألمانية"
+      },
+      {
+        "en": "French",
+        "ar": "الفرنسية"
+      },
+      {
+        "en": "Dutch",
+        "ar": "الهولندية"
+      },
+      {
+        "en": "Italian",
+        "ar": "الإيطالية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "German is the main language spoken in Austria.",
+    "explanation_ar": "الألمانية هي اللغة الأساسية في النمسا."
+  },
+  {
+    "id": "WLD-050-045",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the tallest waterfall in the world?",
+    "question_ar": "إيه أطول شلال في العالم؟",
+    "options": [
+      {
+        "en": "Niagara Falls",
+        "ar": "شلالات نياجرا"
+      },
+      {
+        "en": "Victoria Falls",
+        "ar": "شلالات فيكتوريا"
+      },
+      {
+        "en": "Angel Falls",
+        "ar": "شلالات أنجل"
+      },
+      {
+        "en": "Iguazu Falls",
+        "ar": "شلالات إجوازو"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Angel Falls in Venezuela is the world's tallest waterfall.",
+    "explanation_ar": "شلالات أنجل في فنزويلا هي أطول شلال في العالم."
+  },
+  {
+    "id": "WLD-050-046",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "What is the driest place on Earth?",
+    "question_ar": "إيه أجف مكان على وجه الأرض؟",
+    "options": [
+      {
+        "en": "The Sahara Desert",
+        "ar": "الصحراء الكبرى"
+      },
+      {
+        "en": "The Gobi Desert",
+        "ar": "صحراء جوبي"
+      },
+      {
+        "en": "The Atacama Desert",
+        "ar": "صحراء أتاكاما"
+      },
+      {
+        "en": "The Namib Desert",
+        "ar": "صحراء ناميب"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Atacama Desert in Chile is considered the driest place on Earth.",
+    "explanation_ar": "صحراء أتاكاما في تشيلي بتعتبر أجف مكان على وجه الأرض."
+  },
+  {
+    "id": "WLD-050-047",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which is the largest desert in the world overall, including cold deserts?",
+    "question_ar": "إيه أكبر صحراء في العالم لو حسبنا الصحاري الباردة كمان؟",
+    "options": [
+      {
+        "en": "The Sahara",
+        "ar": "الصحراء الكبرى"
+      },
+      {
+        "en": "Antarctica",
+        "ar": "القارة القطبية الجنوبية"
+      },
+      {
+        "en": "The Gobi",
+        "ar": "صحراء جوبي"
+      },
+      {
+        "en": "The Arabian Desert",
+        "ar": "الصحراء العربية"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "By definition, Antarctica is the world's largest desert since it receives very little precipitation.",
+    "explanation_ar": "بالتعريف العلمي، القارة القطبية الجنوبية هي أكبر صحراء في العالم لأنها بتستقبل أمطار قليلة جدًا."
+  },
+  {
+    "id": "WLD-050-048",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Strait of Gibraltar separates Europe from which continent?",
+    "question_ar": "مضيق جبل طارق بيفصل أوروبا عن أنهي قارة؟",
+    "options": [
+      {
+        "en": "Asia",
+        "ar": "آسيا"
+      },
+      {
+        "en": "Africa",
+        "ar": "أفريقيا"
+      },
+      {
+        "en": "South America",
+        "ar": "أمريكا الجنوبية"
+      },
+      {
+        "en": "Antarctica",
+        "ar": "القارة القطبية الجنوبية"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Strait of Gibraltar separates Spain in Europe from Morocco in Africa.",
+    "explanation_ar": "مضيق جبل طارق بيفصل إسبانيا في أوروبا عن المغرب في أفريقيا."
+  },
+  {
+    "id": "WLD-050-049",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "The Panama Canal connects the Pacific Ocean to which other ocean?",
+    "question_ar": "قناة بنما بتوصل المحيط الهادي بأنهي محيط تاني؟",
+    "options": [
+      {
+        "en": "Indian Ocean",
+        "ar": "المحيط الهندي"
+      },
+      {
+        "en": "Atlantic Ocean",
+        "ar": "المحيط الأطلسي"
+      },
+      {
+        "en": "Arctic Ocean",
+        "ar": "المحيط المتجمد الشمالي"
+      },
+      {
+        "en": "Southern Ocean",
+        "ar": "المحيط الجنوبي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Panama Canal links the Pacific and Atlantic Oceans through Central America.",
+    "explanation_ar": "قناة بنما بتوصل المحيط الهادي بالمحيط الأطلسي عبر أمريكا الوسطى."
+  },
+  {
+    "id": "WLD-050-050",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 50,
+    "difficulty": 3,
+    "question_en": "Which is the smallest country in the world by area?",
+    "question_ar": "إيه أصغر دولة في العالم من حيث المساحة؟",
+    "options": [
+      {
+        "en": "Monaco",
+        "ar": "موناكو"
+      },
+      {
+        "en": "Vatican City",
+        "ar": "الفاتيكان"
+      },
+      {
+        "en": "San Marino",
+        "ar": "سان مارينو"
+      },
+      {
+        "en": "Liechtenstein",
+        "ar": "ليختنشتاين"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Vatican City is the smallest country in the world by area.",
+    "explanation_ar": "الفاتيكان هي أصغر دولة في العالم من حيث المساحة."
+  }
+]

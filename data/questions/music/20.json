@@ -1,0 +1,1503 @@
+[
+  {
+    "id": "MUS-020-001",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian singer released the hit song \"Aleik Alby\" and is known as a top romantic pop star?",
+    "question_ar": "أنهي مطرب مصري غنى أغنية \"عليك قلبي\" ومعروف كنجم بوب رومانسي كبير؟",
+    "options": [
+      {
+        "en": "Amr Diab",
+        "ar": "عمرو دياب"
+      },
+      {
+        "en": "Ramy Sabry",
+        "ar": "رامي صبري"
+      },
+      {
+        "en": "Ihab Tawfik",
+        "ar": "إيهاب توفيق"
+      },
+      {
+        "en": "Wael Kfoury",
+        "ar": "وائل كفوري"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Aleik Alby\" is one of Amr Diab's hit songs.",
+    "explanation_ar": "\"عليك قلبي\" من أغاني عمرو دياب."
+  },
+  {
+    "id": "MUS-020-002",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Who composed and sang the classic love song \"Ahwak\"?",
+    "question_ar": "مين اللي لحن وغنى أغنية الحب الكلاسيكية \"أهواك\"؟",
+    "options": [
+      {
+        "en": "Abdel Halim Hafez",
+        "ar": "عبد الحليم حافظ"
+      },
+      {
+        "en": "Farid El Atrache",
+        "ar": "فريد الأطرش"
+      },
+      {
+        "en": "Mohamed Fawzi",
+        "ar": "محمد فوزي"
+      },
+      {
+        "en": "Karem Mahmoud",
+        "ar": "كارم محمود"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "\"Ahwak\" is one of Farid El Atrache's most famous songs.",
+    "explanation_ar": "\"أهواك\" من أشهر أغاني فريد الأطرش."
+  },
+  {
+    "id": "MUS-020-003",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian rapper is known for the song \"El Bakht\"?",
+    "question_ar": "أنهي رابر مصري معروف بأغنية \"البخت\"؟",
+    "options": [
+      {
+        "en": "Wegz",
+        "ar": "ويجز"
+      },
+      {
+        "en": "Afroto",
+        "ar": "أفروتو"
+      },
+      {
+        "en": "Abyusif",
+        "ar": "أبيوسف"
+      },
+      {
+        "en": "Marwan Moussa",
+        "ar": "مروان موسى"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"El Bakht\" is one of Wegz's hit songs.",
+    "explanation_ar": "\"البخت\" من أغاني ويجز المشهورة."
+  },
+  {
+    "id": "MUS-020-004",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Warda Al-Jazairia, a legendary singer beloved in Egypt, was originally from which country?",
+    "question_ar": "وردة الجزائرية، مطربة أسطورية محبوبة في مصر، أصلها من أنهي بلد؟",
+    "options": [
+      {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      },
+      {
+        "en": "Morocco",
+        "ar": "المغرب"
+      },
+      {
+        "en": "Tunisia",
+        "ar": "تونس"
+      },
+      {
+        "en": "Libya",
+        "ar": "ليبيا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Warda was born in France to an Algerian father and became an icon in Egypt.",
+    "explanation_ar": "وردة كانت من أصل جزائري وبقت أيقونة غناء في مصر."
+  },
+  {
+    "id": "MUS-020-005",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which band is famous for the album \"Dark Side of the Moon\"?",
+    "question_ar": "أنهي فرقة مشهورة بألبوم \"Dark Side of the Moon\"؟",
+    "options": [
+      {
+        "en": "Pink Floyd",
+        "ar": "بينك فلويد"
+      },
+      {
+        "en": "Led Zeppelin",
+        "ar": "ليد زبلين"
+      },
+      {
+        "en": "The Rolling Stones",
+        "ar": "ذا رولينج ستونز"
+      },
+      {
+        "en": "The Who",
+        "ar": "ذا هو"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Dark Side of the Moon\" is a landmark album by Pink Floyd.",
+    "explanation_ar": "ألبوم \"Dark Side of the Moon\" من أهم أعمال بينك فلويد."
+  },
+  {
+    "id": "MUS-020-006",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian instrument is a plucked string instrument with no frets, central to Arabic music?",
+    "question_ar": "أنهي آلة مصرية/عربية وترية بتتنقر وملهاش فريتات وأساسية في الموسيقى العربية؟",
+    "options": [
+      {
+        "en": "Oud",
+        "ar": "عود"
+      },
+      {
+        "en": "Qanun",
+        "ar": "قانون"
+      },
+      {
+        "en": "Nay",
+        "ar": "ناي"
+      },
+      {
+        "en": "Rababa",
+        "ar": "ربابة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The oud is a fretless plucked string instrument central to Arabic music.",
+    "explanation_ar": "العود آلة وترية بتتنقر وملهاش فريتات وأساسية في الموسيقى العربية."
+  },
+  {
+    "id": "MUS-020-007",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Cairokee's lead singer, who also acts, is named?",
+    "question_ar": "مين المطرب الرئيسي لفرقة كايروكي واللي بيمثل كمان؟",
+    "options": [
+      {
+        "en": "Amir Eid",
+        "ar": "أمير عيد"
+      },
+      {
+        "en": "Sherif Mostafa",
+        "ar": "شريف مصطفى"
+      },
+      {
+        "en": "Hany Adel",
+        "ar": "هاني عادل"
+      },
+      {
+        "en": "Adham Nabulsi",
+        "ar": "أدهم نابلسي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Amir Eid is Cairokee's lead vocalist.",
+    "explanation_ar": "أمير عيد هو المطرب الرئيسي لفرقة كايروكي."
+  },
+  {
+    "id": "MUS-020-008",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Lebanese singer is known as the \"Ambassador to the Stars\" for her legendary voice?",
+    "question_ar": "أنهي مطربة لبنانية معروفة بلقب \"سفيرة النجوم\" لصوتها الأسطوري؟",
+    "options": [
+      {
+        "en": "Fairuz",
+        "ar": "فيروز"
+      },
+      {
+        "en": "Nancy Ajram",
+        "ar": "نانسي عجرم"
+      },
+      {
+        "en": "Najwa Karam",
+        "ar": "نجوى كرم"
+      },
+      {
+        "en": "Elissa",
+        "ar": "إليسا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Fairuz is often called the \"Ambassador to the Stars\".",
+    "explanation_ar": "فيروز معروفة بلقب \"سفيرة النجوم\"."
+  },
+  {
+    "id": "MUS-020-009",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which international artist released the album \"1989\", named after her birth year?",
+    "question_ar": "أنهي فنانة عالمية طرحت ألبوم اسمه \"1989\" على اسم سنة ميلادها؟",
+    "options": [
+      {
+        "en": "Taylor Swift",
+        "ar": "تايلور سويفت"
+      },
+      {
+        "en": "Ariana Grande",
+        "ar": "أريانا جراندي"
+      },
+      {
+        "en": "Katy Perry",
+        "ar": "كاتي بيري"
+      },
+      {
+        "en": "Selena Gomez",
+        "ar": "سيلينا جوميز"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Taylor Swift's album \"1989\" is named after her birth year.",
+    "explanation_ar": "ألبوم \"1989\" لتايلور سويفت سمي على سنة ميلادها."
+  },
+  {
+    "id": "MUS-020-010",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the term for the main repeated part of a song, usually the catchiest section?",
+    "question_ar": "بيتقال إيه على الجزء المكرر في الأغنية واللي بيبقى أكتر جزء عالق في الودن؟",
+    "options": [
+      {
+        "en": "Verse",
+        "ar": "كوبليه"
+      },
+      {
+        "en": "Chorus",
+        "ar": "كورس"
+      },
+      {
+        "en": "Bridge",
+        "ar": "بريدج"
+      },
+      {
+        "en": "Intro",
+        "ar": "إنترو"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The repeated catchy part of a song is called the chorus.",
+    "explanation_ar": "الجزء المكرر والعالق في الأغنية اسمه الكورس."
+  },
+  {
+    "id": "MUS-020-011",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian singer is known for the song \"Fen Al Tarik\" and duets with Amr Diab?",
+    "question_ar": "أنهي مطربة مصرية معروفة بأغنية \"فين الطريق\" وأغاني دويتو مع عمرو دياب؟",
+    "options": [
+      {
+        "en": "Angham",
+        "ar": "أنغام"
+      },
+      {
+        "en": "Sherine",
+        "ar": "شيرين"
+      },
+      {
+        "en": "Donia Samir Ghanem",
+        "ar": "دنيا سمير غانم"
+      },
+      {
+        "en": "Yosra El Hawary",
+        "ar": "يسرا الهواري"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Angham is known for \"Fen Al Tarik\" among other hits.",
+    "explanation_ar": "أنغام معروفة بأغنية \"فين الطريق\" ضمن أغاني تانية."
+  },
+  {
+    "id": "MUS-020-012",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which US rapper/producer created the album \"The College Dropout\"?",
+    "question_ar": "أنهي رابر ومنتج أمريكي طرح ألبوم \"The College Dropout\"؟",
+    "options": [
+      {
+        "en": "Jay-Z",
+        "ar": "جاي زي"
+      },
+      {
+        "en": "Kanye West",
+        "ar": "كانييه ويست"
+      },
+      {
+        "en": "50 Cent",
+        "ar": "فيفتي سنت"
+      },
+      {
+        "en": "Nas",
+        "ar": "ناس"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "\"The College Dropout\" was Kanye West's debut studio album.",
+    "explanation_ar": "\"The College Dropout\" أول ألبوم استوديو لكانييه ويست."
+  },
+  {
+    "id": "MUS-020-013",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Middle Eastern percussion instrument, held under the arm, is common in Arabic pop and folk music?",
+    "question_ar": "أنهي آلة إيقاعية شرق أوسطية بتتحط تحت الدراع وشائعة في البوب والفلكلور العربي؟",
+    "options": [
+      {
+        "en": "Darbuka",
+        "ar": "طبلة/دربوكة"
+      },
+      {
+        "en": "Cajon",
+        "ar": "كاخون"
+      },
+      {
+        "en": "Djembe",
+        "ar": "جيمبي"
+      },
+      {
+        "en": "Bongo",
+        "ar": "بونجو"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The darbuka is a hand drum widely used in Arabic music.",
+    "explanation_ar": "الدربوكة آلة إيقاعية بتتستخدم كتير في الموسيقى العربية."
+  },
+  {
+    "id": "MUS-020-014",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian singer, popular in the 90s, sang \"Law Bassit Lel Wara\"?",
+    "question_ar": "أنهي مطرب مصري كان مشهور في التسعينات وغنى \"لو بصيت للورا\"؟",
+    "options": [
+      {
+        "en": "Hisham Abbas",
+        "ar": "هشام عباس"
+      },
+      {
+        "en": "Mostafa Amar",
+        "ar": "مصطفى قمر"
+      },
+      {
+        "en": "Amr Diab",
+        "ar": "عمرو دياب"
+      },
+      {
+        "en": "Hamada Helal",
+        "ar": "حماده هلال"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Mostafa Amar is known for \"Law Bassit Lel Wara\".",
+    "explanation_ar": "مصطفى قمر معروف بأغنية \"لو بصيت للورا\"."
+  },
+  {
+    "id": "MUS-020-015",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which classic rock band is known for the song \"Hotel California\"?",
+    "question_ar": "أنهي فرقة روك كلاسيكية مشهورة بأغنية \"Hotel California\"؟",
+    "options": [
+      {
+        "en": "Eagles",
+        "ar": "إيجلز"
+      },
+      {
+        "en": "The Doors",
+        "ar": "ذا دورز"
+      },
+      {
+        "en": "Fleetwood Mac",
+        "ar": "فليتوود ماك"
+      },
+      {
+        "en": "Aerosmith",
+        "ar": "إيروسميث"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Hotel California\" is a signature song by the Eagles.",
+    "explanation_ar": "\"Hotel California\" أشهر أغاني فرقة إيجلز."
+  },
+  {
+    "id": "MUS-020-016",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the name of the singing style where words are rhythmically spoken rather than sung melodically, central to hip-hop?",
+    "question_ar": "بيتقال إيه على أسلوب الغنا اللي بيتقال فيه الكلام بإيقاع من غير لحن، وده أساس الهيب هوب؟",
+    "options": [
+      {
+        "en": "Rapping",
+        "ar": "الراب"
+      },
+      {
+        "en": "Yodeling",
+        "ar": "اليودل"
+      },
+      {
+        "en": "Beatboxing",
+        "ar": "البيت بوكس"
+      },
+      {
+        "en": "Scatting",
+        "ar": "السكات"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Rhythmic spoken vocals central to hip-hop are called rapping.",
+    "explanation_ar": "أسلوب الكلام الإيقاعي في الهيب هوب اسمه الراب."
+  },
+  {
+    "id": "MUS-020-017",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which of these is one of Umm Kulthum's most famous songs about heartbreak, \"Al ___\"?",
+    "question_ar": "أنهي أغنية من أشهر أغاني أم كلثوم عن الفراق، \"ال___\"؟",
+    "options": [
+      {
+        "en": "Atlal",
+        "ar": "أطلال"
+      },
+      {
+        "en": "Amal",
+        "ar": "أمل"
+      },
+      {
+        "en": "Layali",
+        "ar": "ليالي"
+      },
+      {
+        "en": "Donya",
+        "ar": "دنيا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Al Atlal\" (The Ruins) is one of Umm Kulthum's most celebrated songs.",
+    "explanation_ar": "\"الأطلال\" من أعظم أغاني أم كلثوم."
+  },
+  {
+    "id": "MUS-020-018",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian artist duo/collab is known for popular mahraganat hits with Wegz?",
+    "question_ar": "أنهي فنان مصري معروف بأغاني مهرجانات شهيرة اشتغل مع ويجز؟",
+    "options": [
+      {
+        "en": "Afroto",
+        "ar": "أفروتو"
+      },
+      {
+        "en": "Sherine",
+        "ar": "شيرين"
+      },
+      {
+        "en": "Angham",
+        "ar": "أنغام"
+      },
+      {
+        "en": "Hisham Gamal",
+        "ar": "هشام جمال"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Afroto is a well-known Egyptian mahraganat/rap artist who has worked with Wegz.",
+    "explanation_ar": "أفروتو من فناني المهرجانات المعروفين واللي اشتغل مع ويجز."
+  },
+  {
+    "id": "MUS-020-019",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which international girl group sang \"Wannabe\"?",
+    "question_ar": "أنهي فريق بنات عالمي غنى أغنية \"Wannabe\"؟",
+    "options": [
+      {
+        "en": "Spice Girls",
+        "ar": "سبايس جيرلز"
+      },
+      {
+        "en": "Destiny's Child",
+        "ar": "ديستنيز تشايلد"
+      },
+      {
+        "en": "TLC",
+        "ar": "تي إل سي"
+      },
+      {
+        "en": "Little Mix",
+        "ar": "ليتل ميكس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Wannabe\" is the Spice Girls' breakout hit.",
+    "explanation_ar": "\"Wannabe\" أشهر أغنية لفريق سبايس جيرلز."
+  },
+  {
+    "id": "MUS-020-020",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian singer is known for the wedding-favorite song \"Aa Baly Habibi\"?",
+    "question_ar": "أنهي مطرب مصري معروف بأغنية الأفراح \"ع بالي حبيبي\"؟",
+    "options": [
+      {
+        "en": "Hamada Helal",
+        "ar": "حماده هلال"
+      },
+      {
+        "en": "Mohamed Fouad",
+        "ar": "محمد فؤاد"
+      },
+      {
+        "en": "Ehab Tawfik",
+        "ar": "إيهاب توفيق"
+      },
+      {
+        "en": "Amr Diab",
+        "ar": "عمرو دياب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Aa Baly Habibi\" is a well-known Hamada Helal wedding song.",
+    "explanation_ar": "\"ع بالي حبيبي\" من أشهر أغاني الأفراح لحماده هلال."
+  },
+  {
+    "id": "MUS-020-021",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which of these describes a musical scale of exactly 8 notes returning to the starting note?",
+    "question_ar": "أنهي وصف بيوصف السلم الموسيقي المكون من 8 نغمات بيرجع لنفس النغمة اللي بدأ بيها؟",
+    "options": [
+      {
+        "en": "Octave",
+        "ar": "أوكتاف"
+      },
+      {
+        "en": "Chord",
+        "ar": "كورد"
+      },
+      {
+        "en": "Interval",
+        "ar": "إنترفال"
+      },
+      {
+        "en": "Tempo",
+        "ar": "تمبو"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "An octave is a scale of 8 notes returning to the starting pitch.",
+    "explanation_ar": "الأوكتاف هو سلم من 8 نغمات بيرجع لنفس النغمة الأولى."
+  },
+  {
+    "id": "MUS-020-022",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which artist is known as the \"King of Reggae\" for songs like \"One Love\"?",
+    "question_ar": "أنهي فنان معروف بلقب \"ملك الريجي\" بأغاني زي \"One Love\"؟",
+    "options": [
+      {
+        "en": "Bob Marley",
+        "ar": "بوب مارلي"
+      },
+      {
+        "en": "Peter Tosh",
+        "ar": "بيتر توش"
+      },
+      {
+        "en": "Jimmy Cliff",
+        "ar": "جيمي كليف"
+      },
+      {
+        "en": "UB40",
+        "ar": "يو بي 40"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Bob Marley is widely regarded as the King of Reggae.",
+    "explanation_ar": "بوب مارلي معروف بلقب ملك الريجي."
+  },
+  {
+    "id": "MUS-020-023",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian pop star sang the hit \"Nour El Ain\" and is called \"El Hadaba\"?",
+    "question_ar": "أنهي نجم بوب مصري غنى \"نور العين\" ومعروف بلقب \"الهضبة\"؟",
+    "options": [
+      {
+        "en": "Amr Diab",
+        "ar": "عمرو دياب"
+      },
+      {
+        "en": "Tamer Hosny",
+        "ar": "تامر حسني"
+      },
+      {
+        "en": "Mohamed Fouad",
+        "ar": "محمد فؤاد"
+      },
+      {
+        "en": "Ehab Tawfik",
+        "ar": "إيهاب توفيق"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Amr Diab is nicknamed \"El Hadaba\" and sang \"Nour El Ain\".",
+    "explanation_ar": "عمرو دياب لقبه \"الهضبة\" وغنى \"نور العين\"."
+  },
+  {
+    "id": "MUS-020-024",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which US singer is known as the \"Queen of Soul\", famous for \"Respect\"?",
+    "question_ar": "أنهي مطربة أمريكية معروفة بلقب \"ملكة السول\" وأغنية \"Respect\"؟",
+    "options": [
+      {
+        "en": "Aretha Franklin",
+        "ar": "أريثا فرانكلين"
+      },
+      {
+        "en": "Diana Ross",
+        "ar": "دايانا روس"
+      },
+      {
+        "en": "Tina Turner",
+        "ar": "تينا تيرنر"
+      },
+      {
+        "en": "Gladys Knight",
+        "ar": "جلاديس نايت"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Aretha Franklin is famously called the \"Queen of Soul\".",
+    "explanation_ar": "أريثا فرانكلين لقبها \"ملكة السول\"."
+  },
+  {
+    "id": "MUS-020-025",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What do we call an instrumental version of a song, without vocals?",
+    "question_ar": "بيتقال إيه على نسخة من الأغنية من غير صوت مطرب؟",
+    "options": [
+      {
+        "en": "Instrumental",
+        "ar": "إنسترومنتال"
+      },
+      {
+        "en": "Acapella",
+        "ar": "أكابيلا"
+      },
+      {
+        "en": "Remix",
+        "ar": "ريمكس"
+      },
+      {
+        "en": "Live version",
+        "ar": "نسخة لايف"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A version of a song without vocals is called an instrumental.",
+    "explanation_ar": "نسخة الأغنية من غير غنا اسمها إنسترومنتال."
+  },
+  {
+    "id": "MUS-020-026",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian singer known for \"Aa Bali Habibi\"-style wedding hits also released \"Aslion\"?",
+    "question_ar": "أنهي مطرب مصري معروف بأغاني الأفراح غنى كمان \"أصلي\"؟",
+    "options": [
+      {
+        "en": "Hamada Helal",
+        "ar": "حماده هلال"
+      },
+      {
+        "en": "Saad Lamjarred",
+        "ar": "سعد لمجرد"
+      },
+      {
+        "en": "Mohamed Adaweya",
+        "ar": "محمد عدوية"
+      },
+      {
+        "en": "Ramy Sabry",
+        "ar": "رامي صبري"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "\"Aslion\" is a well-known Ramy Sabry song.",
+    "explanation_ar": "\"أصلي\" من أغاني رامي صبري المعروفة."
+  },
+  {
+    "id": "MUS-020-027",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which US singer/songwriter is famous for the song \"Rolling in the Deep\"?",
+    "question_ar": "أنهي مطربة أمريكية-بريطانية مشهورة بأغنية \"Rolling in the Deep\"؟",
+    "options": [
+      {
+        "en": "Adele",
+        "ar": "أديل"
+      },
+      {
+        "en": "Sia",
+        "ar": "سيا"
+      },
+      {
+        "en": "Amy Winehouse",
+        "ar": "إيمي واينهاوس"
+      },
+      {
+        "en": "Duffy",
+        "ar": "دافي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Rolling in the Deep\" is one of Adele's most famous songs.",
+    "explanation_ar": "\"Rolling in the Deep\" من أشهر أغاني أديل."
+  },
+  {
+    "id": "MUS-020-028",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Arab singer, born in Syria, is known as \"Kokab Al Ughniya Al Arabiya\" and sings \"Ahlaa Donia\"?",
+    "question_ar": "أنهي مطرب عربي، مولود في سوريا، معروف ومغني \"أحلى دنيا\"؟",
+    "options": [
+      {
+        "en": "George Wassouf",
+        "ar": "جورج وسوف"
+      },
+      {
+        "en": "Kadim Al Sahir",
+        "ar": "كاظم الساهر"
+      },
+      {
+        "en": "Wael Kfoury",
+        "ar": "وائل كفوري"
+      },
+      {
+        "en": "Assi El Hallani",
+        "ar": "عاصي الحلاني"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "George Wassouf, a Syrian singer, sings the hit \"Ahlaa Donia\".",
+    "explanation_ar": "جورج وسوف مطرب سوري غنى \"أحلى دنيا\"."
+  },
+  {
+    "id": "MUS-020-029",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the standard number of members in a \"quartet\"?",
+    "question_ar": "الكوارتيت بيتكون من كام فرد عادة؟",
+    "options": [
+      {
+        "en": "2",
+        "ar": "2"
+      },
+      {
+        "en": "3",
+        "ar": "3"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      },
+      {
+        "en": "5",
+        "ar": "5"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "A quartet is a group of four performers.",
+    "explanation_ar": "الكوارتيت مجموعة من 4 أفراد."
+  },
+  {
+    "id": "MUS-020-030",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian singer released the popular song \"Batwanes Beek\"?",
+    "question_ar": "أنهي مطربة مصرية غنت أغنية \"بتونس بيك\" المشهورة؟",
+    "options": [
+      {
+        "en": "Umm Kulthum",
+        "ar": "أم كلثوم"
+      },
+      {
+        "en": "Warda",
+        "ar": "وردة"
+      },
+      {
+        "en": "Sherine",
+        "ar": "شيرين"
+      },
+      {
+        "en": "Angham",
+        "ar": "أنغام"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Batwanes Beek\" is a classic Umm Kulthum song.",
+    "explanation_ar": "\"بتونس بيك\" أغنية كلاسيكية لأم كلثوم."
+  },
+  {
+    "id": "MUS-020-031",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which US pop star sang \"Bad Romance\" and \"Poker Face\"?",
+    "question_ar": "أنهي نجمة بوب أمريكية غنت \"Bad Romance\" و\"Poker Face\"؟",
+    "options": [
+      {
+        "en": "Lady Gaga",
+        "ar": "ليدي جاجا"
+      },
+      {
+        "en": "Katy Perry",
+        "ar": "كاتي بيري"
+      },
+      {
+        "en": "Kesha",
+        "ar": "كيشا"
+      },
+      {
+        "en": "Britney Spears",
+        "ar": "بريتني سبيرز"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Bad Romance\" and \"Poker Face\" are Lady Gaga hits.",
+    "explanation_ar": "\"Bad Romance\" و\"Poker Face\" من أغاني ليدي جاجا."
+  },
+  {
+    "id": "MUS-020-032",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which pioneering Egyptian composer is often called \"Musician of the Generations\"?",
+    "question_ar": "أنهي ملحن مصري رائد معروف بلقب \"موسيقار الأجيال\"؟",
+    "options": [
+      {
+        "en": "Mohamed Abdel Wahab",
+        "ar": "محمد عبد الوهاب"
+      },
+      {
+        "en": "Baligh Hamdi",
+        "ar": "بليغ حمدي"
+      },
+      {
+        "en": "Sayed Darwish",
+        "ar": "سيد درويش"
+      },
+      {
+        "en": "Riad El Sonbati",
+        "ar": "رياض السنباطي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mohamed Abdel Wahab is famously known as \"Musician of the Generations\".",
+    "explanation_ar": "محمد عبد الوهاب لقبه \"موسيقار الأجيال\"."
+  },
+  {
+    "id": "MUS-020-033",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which US band's lead singer Chris Martin is known for songs like \"Fix You\"?",
+    "question_ar": "أنهي فرقة أمريكية-بريطانية مغنيها الرئيسي كريس مارتن معروف بأغاني زي \"Fix You\"؟",
+    "options": [
+      {
+        "en": "Coldplay",
+        "ar": "كولدبلاي"
+      },
+      {
+        "en": "Keane",
+        "ar": "كين"
+      },
+      {
+        "en": "Snow Patrol",
+        "ar": "سنو باترول"
+      },
+      {
+        "en": "Travis",
+        "ar": "ترافيس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Chris Martin is the lead singer of Coldplay.",
+    "explanation_ar": "كريس مارتن هو مطرب فرقة كولدبلاي الرئيسي."
+  },
+  {
+    "id": "MUS-020-034",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What music genre, born in New York in the 1970s, includes rapping, DJing, and breakdancing?",
+    "question_ar": "أنهي نوع موسيقي ظهر في نيويورك في السبعينات وبيضم الراب والديچي والبريك دانس؟",
+    "options": [
+      {
+        "en": "Hip-hop",
+        "ar": "الهيب هوب"
+      },
+      {
+        "en": "Disco",
+        "ar": "الديسكو"
+      },
+      {
+        "en": "Punk",
+        "ar": "البانك"
+      },
+      {
+        "en": "Funk",
+        "ar": "الفانك"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Hip-hop culture, including rap, emerged in 1970s New York.",
+    "explanation_ar": "ثقافة الهيب هوب ومنها الراب ظهرت في نيويورك في السبعينات."
+  },
+  {
+    "id": "MUS-020-035",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which classic Egyptian singer/actor sang \"Zay El Hawa\"?",
+    "question_ar": "أنهي مطرب مصري كلاسيكي غنى \"زي الهوا\"؟",
+    "options": [
+      {
+        "en": "Abdel Halim Hafez",
+        "ar": "عبد الحليم حافظ"
+      },
+      {
+        "en": "Farid El Atrache",
+        "ar": "فريد الأطرش"
+      },
+      {
+        "en": "Mohamed Abdel Wahab",
+        "ar": "محمد عبد الوهاب"
+      },
+      {
+        "en": "Karem Mahmoud",
+        "ar": "كارم محمود"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Zay El Hawa\" is one of Abdel Halim Hafez's classics.",
+    "explanation_ar": "\"زي الهوا\" من كلاسيكيات عبد الحليم حافظ."
+  },
+  {
+    "id": "MUS-020-036",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which US singer, called the \"King of Pop\", released the best-selling album of all time, \"Thriller\"?",
+    "question_ar": "أنهي مطرب أمريكي لقبه \"ملك البوب\" وطرح أكتر ألبوم بيع في التاريخ \"Thriller\"؟",
+    "options": [
+      {
+        "en": "Michael Jackson",
+        "ar": "مايكل جاكسون"
+      },
+      {
+        "en": "Prince",
+        "ar": "برنس"
+      },
+      {
+        "en": "George Michael",
+        "ar": "جورج مايكل"
+      },
+      {
+        "en": "Lionel Richie",
+        "ar": "ليونيل ريتشي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Michael Jackson's \"Thriller\" is the best-selling album of all time.",
+    "explanation_ar": "ألبوم \"Thriller\" لمايكل جاكسون هو الأكتر مبيعًا في التاريخ.",
+    "verified_as_of": "2024-01"
+  },
+  {
+    "id": "MUS-020-037",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which of these is a brass instrument played by buzzing your lips into a mouthpiece?",
+    "question_ar": "أنهي آلة من دول نحاسية وبتتعزف عن طريق الشفايف في فوهة الآلة؟",
+    "options": [
+      {
+        "en": "Trumpet",
+        "ar": "ترومبيت"
+      },
+      {
+        "en": "Flute",
+        "ar": "فلوت"
+      },
+      {
+        "en": "Clarinet",
+        "ar": "كلارينيت"
+      },
+      {
+        "en": "Violin",
+        "ar": "كمان"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The trumpet is a brass instrument played by buzzing the lips.",
+    "explanation_ar": "الترومبيت آلة نحاسية بتتعزف بالنفخ والشفايف."
+  },
+  {
+    "id": "MUS-020-038",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which iconic British band's members include John, Paul, George, and Ringo?",
+    "question_ar": "أنهي فرقة بريطانية أسطورية أعضاؤها جون وبول وجورج ورينجو؟",
+    "options": [
+      {
+        "en": "The Beatles",
+        "ar": "ذا بيتلز"
+      },
+      {
+        "en": "The Rolling Stones",
+        "ar": "ذا رولينج ستونز"
+      },
+      {
+        "en": "The Who",
+        "ar": "ذا هو"
+      },
+      {
+        "en": "Queen",
+        "ar": "كوين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "John Lennon, Paul McCartney, George Harrison, and Ringo Starr were The Beatles.",
+    "explanation_ar": "جون لينون وبول مكارتني وجورج هاريسون ورينجو ستار هما فرقة البيتلز."
+  },
+  {
+    "id": "MUS-020-039",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which of these Egyptian singers is known for the patriotic-style ballad \"Khaly El Donia Tighanni\"?",
+    "question_ar": "أنهي مطرب مصري معروف بأغنية \"خلي الدنيا تغني\"؟",
+    "options": [
+      {
+        "en": "Mohamed Mounir",
+        "ar": "محمد منير"
+      },
+      {
+        "en": "Ali El Haggar",
+        "ar": "علي الحجار"
+      },
+      {
+        "en": "Hany Shaker",
+        "ar": "هاني شاكر"
+      },
+      {
+        "en": "Medhat Saleh",
+        "ar": "مدحت صالح"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Khaly El Donia Tighanni\" is one of Mohamed Mounir's well-known songs.",
+    "explanation_ar": "\"خلي الدنيا تغني\" من أشهر أغاني محمد منير."
+  },
+  {
+    "id": "MUS-020-040",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which of these terms describes music played at a fast tempo, energetic pace?",
+    "question_ar": "أنهي مصطلح بيوصف الموسيقى اللي بتتعزف بسرعة وإيقاع حماسي؟",
+    "options": [
+      {
+        "en": "Upbeat",
+        "ar": "أبتيت"
+      },
+      {
+        "en": "Ballad",
+        "ar": "بالاد"
+      },
+      {
+        "en": "Lullaby",
+        "ar": "تهويدة"
+      },
+      {
+        "en": "Dirge",
+        "ar": "مرثية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Fast, energetic music is often described as upbeat.",
+    "explanation_ar": "الموسيقى السريعة والحماسية بيتقال عليها \"أبتيت\"."
+  },
+  {
+    "id": "MUS-020-041",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian singer known as \"El Kabtin\" for a hit song sang \"Wala Ala Baly\"?",
+    "question_ar": "أنهي مطرب مصري لقبه مرتبط بأغنية \"ولا على بالي\"؟",
+    "options": [
+      {
+        "en": "Amr Diab",
+        "ar": "عمرو دياب"
+      },
+      {
+        "en": "Ehab Tawfik",
+        "ar": "إيهاب توفيق"
+      },
+      {
+        "en": "Hisham Abbas",
+        "ar": "هشام عباس"
+      },
+      {
+        "en": "Mostafa Amar",
+        "ar": "مصطفى قمر"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Wala Ala Baly\" is one of Amr Diab's popular songs.",
+    "explanation_ar": "\"ولا على بالي\" من أغاني عمرو دياب المشهورة."
+  },
+  {
+    "id": "MUS-020-042",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which US artist, called \"The Boss\", is known for rock anthems like \"Born to Run\"?",
+    "question_ar": "أنهي فنان أمريكي لقبه \"البوس\" ومعروف بأغاني روك زي \"Born to Run\"؟",
+    "options": [
+      {
+        "en": "Bruce Springsteen",
+        "ar": "بروس سبرينجستين"
+      },
+      {
+        "en": "Tom Petty",
+        "ar": "توم بيتي"
+      },
+      {
+        "en": "Bob Seger",
+        "ar": "بوب سيجر"
+      },
+      {
+        "en": "John Mellencamp",
+        "ar": "جون ميلينكامب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Bruce Springsteen is nicknamed \"The Boss\".",
+    "explanation_ar": "بروس سبرينجستين لقبه \"البوس\"."
+  },
+  {
+    "id": "MUS-020-043",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the term for a song's slower, softer section that provides emotional contrast, often called the \"___\" section?",
+    "question_ar": "بيتقال إيه على الجزء الهادي والمختلف عاطفيًا في الأغنية واللي بيقاطع باقي الأغنية؟",
+    "options": [
+      {
+        "en": "Bridge",
+        "ar": "بريدج"
+      },
+      {
+        "en": "Hook",
+        "ar": "هوك"
+      },
+      {
+        "en": "Outro",
+        "ar": "أوترو"
+      },
+      {
+        "en": "Refrain",
+        "ar": "ريفرين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "This contrasting section of a song is called the bridge.",
+    "explanation_ar": "الجزء اللي بيقاطع باقي الأغنية بشكل مختلف اسمه \"بريدج\"."
+  },
+  {
+    "id": "MUS-020-044",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which US singer is known for the song \"Shake It Off\" and switching from country to pop music?",
+    "question_ar": "أنهي مطربة أمريكية معروفة بأغنية \"Shake It Off\" وانتقلت من الكانتري للبوب؟",
+    "options": [
+      {
+        "en": "Taylor Swift",
+        "ar": "تايلور سويفت"
+      },
+      {
+        "en": "Miley Cyrus",
+        "ar": "مايلي سايرس"
+      },
+      {
+        "en": "Carrie Underwood",
+        "ar": "كاري أندروود"
+      },
+      {
+        "en": "Kelly Clarkson",
+        "ar": "كيلي كلاركسون"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Taylor Swift moved from country music to pop with songs like \"Shake It Off\".",
+    "explanation_ar": "تايلور سويفت اتنقلت من الكانتري للبوب بأغاني زي \"Shake It Off\"."
+  },
+  {
+    "id": "MUS-020-045",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian singer is known for the romantic hit \"Wehyaty\" and long duets with Amr Diab-era pop stars?",
+    "question_ar": "أنهي مطربة مصرية معروفة بأغنية \"وحياتي\"؟",
+    "options": [
+      {
+        "en": "Angham",
+        "ar": "أنغام"
+      },
+      {
+        "en": "Donia Samir Ghanem",
+        "ar": "دنيا سمير غانم"
+      },
+      {
+        "en": "Latifa",
+        "ar": "لطيفة"
+      },
+      {
+        "en": "Nawal El Zoghbi",
+        "ar": "نوال الزغبي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Wehyaty\" is a well-known Angham song.",
+    "explanation_ar": "\"وحياتي\" من أغاني أنغام المعروفة."
+  },
+  {
+    "id": "MUS-020-046",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which international artist, from Barbados, sang the hit \"Diamonds\"?",
+    "question_ar": "أنهي فنانة عالمية من باربادوس غنت \"Diamonds\"؟",
+    "options": [
+      {
+        "en": "Rihanna",
+        "ar": "ريهانا"
+      },
+      {
+        "en": "Beyoncé",
+        "ar": "بيونسيه"
+      },
+      {
+        "en": "Nicki Minaj",
+        "ar": "نيكي ميناج"
+      },
+      {
+        "en": "Alicia Keys",
+        "ar": "أليشا كيز"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Diamonds\" is a hit song by Rihanna.",
+    "explanation_ar": "\"Diamonds\" أغنية شهيرة لريهانا."
+  },
+  {
+    "id": "MUS-020-047",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Moroccan singer, popular across the Arab world, sang the hit \"Lm3allem\"?",
+    "question_ar": "أنهي مطرب مغربي مشهور في العالم العربي غنى \"لمعلم\"؟",
+    "options": [
+      {
+        "en": "Saad Lamjarred",
+        "ar": "سعد لمجرد"
+      },
+      {
+        "en": "Hatim Ammor",
+        "ar": "حاتم عمور"
+      },
+      {
+        "en": "Zouhair Bahaoui",
+        "ar": "زهير البهاوي"
+      },
+      {
+        "en": "Douzi",
+        "ar": "الدوزي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Lm3allem\" is a major hit by Saad Lamjarred.",
+    "explanation_ar": "\"لمعلم\" أغنية ناجحة جدًا لسعد لمجرد."
+  },
+  {
+    "id": "MUS-020-048",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which Egyptian singer is known for the mega-hit duet \"Alby Etsalab Habibi\" and pop chart success in the 2000s?",
+    "question_ar": "أنهي مطرب مصري كان من أنجح نجوم البوب في الألفينات؟",
+    "options": [
+      {
+        "en": "Tamer Hosny",
+        "ar": "تامر حسني"
+      },
+      {
+        "en": "Amr Mostafa",
+        "ar": "عمرو مصطفى"
+      },
+      {
+        "en": "Ihab Tawfik",
+        "ar": "إيهاب توفيق"
+      },
+      {
+        "en": "Hisham Abbas",
+        "ar": "هشام عباس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Tamer Hosny was one of the biggest pop stars of the 2000s in Egypt.",
+    "explanation_ar": "تامر حسني كان من أنجح نجوم البوب في مصر في الألفينات."
+  },
+  {
+    "id": "MUS-020-049",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which of these Arab pop stars is Iraqi, known as \"Caesar of Arabic Song\"?",
+    "question_ar": "أنهي مطرب عربي عراقي معروف بلقب \"قيصر الأغنية العربية\"؟",
+    "options": [
+      {
+        "en": "Kadim Al Sahir",
+        "ar": "كاظم الساهر"
+      },
+      {
+        "en": "Majid Al Muhandis",
+        "ar": "ماجد المهندس"
+      },
+      {
+        "en": "Rashed Al Majid",
+        "ar": "راشد الماجد"
+      },
+      {
+        "en": "Wael Kfoury",
+        "ar": "وائل كفوري"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Kadim Al Sahir is known as \"Caesar of Arabic Song\".",
+    "explanation_ar": "كاظم الساهر معروف بلقب \"قيصر الأغنية العربية\"."
+  },
+  {
+    "id": "MUS-020-050",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which of these describes music with no copyright, free to use, often called \"___-free\"?",
+    "question_ar": "بيتقال إيه على الموسيقى اللي معملهاش حقوق نشر ومسموح تستخدمها؟",
+    "options": [
+      {
+        "en": "Royalty",
+        "ar": "رويالتي"
+      },
+      {
+        "en": "License",
+        "ar": "لايسنس"
+      },
+      {
+        "en": "Public",
+        "ar": "عام"
+      },
+      {
+        "en": "Copy",
+        "ar": "كوبي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Music free of usage fees is called \"royalty-free\".",
+    "explanation_ar": "الموسيقى اللي مفيهاش حقوق نشر بيتقال عليها \"رويالتي-فري\"."
+  }
+]

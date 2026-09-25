@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "ANM-020-001",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a group of lions called?",
+    "question_ar": "بيتسمى إيه تجمع الأسود؟",
+    "options": [
+      {
+        "en": "Pride",
+        "ar": "زمرة"
+      },
+      {
+        "en": "Herd",
+        "ar": "قطيع"
+      },
+      {
+        "en": "Flock",
+        "ar": "سرب"
+      },
+      {
+        "en": "Pack",
+        "ar": "جماعة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A group of lions is called a pride.",
+    "explanation_ar": "تجمع الأسود بيتسمى \"زمرة\"."
+  },
+  {
+    "id": "ANM-020-002",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a group of wolves called?",
+    "question_ar": "بيتسمى إيه تجمع الذئاب؟",
+    "options": [
+      {
+        "en": "Pride",
+        "ar": "زمرة"
+      },
+      {
+        "en": "Pack",
+        "ar": "جماعة"
+      },
+      {
+        "en": "Herd",
+        "ar": "قطيع"
+      },
+      {
+        "en": "Swarm",
+        "ar": "سرب حشرات"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Wolves live and hunt together in packs.",
+    "explanation_ar": "الذئاب بتعيش وبتصطاد مع بعض في جماعات."
+  },
+  {
+    "id": "ANM-020-003",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a baby kangaroo called?",
+    "question_ar": "بيتسمى إيه ابن الكنجرو الصغير؟",
+    "options": [
+      {
+        "en": "Joey",
+        "ar": "جوي"
+      },
+      {
+        "en": "Cub",
+        "ar": "شبل"
+      },
+      {
+        "en": "Calf",
+        "ar": "عجل"
+      },
+      {
+        "en": "Pup",
+        "ar": "جرو"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A baby kangaroo is called a joey.",
+    "explanation_ar": "ابن الكنجرو الصغير بيتسمى \"جوي\"."
+  },
+  {
+    "id": "ANM-020-004",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a baby cow called?",
+    "question_ar": "بيتسمى إيه ابن البقرة الصغير؟",
+    "options": [
+      {
+        "en": "Foal",
+        "ar": "مهر"
+      },
+      {
+        "en": "Calf",
+        "ar": "عجل"
+      },
+      {
+        "en": "Kid",
+        "ar": "جدي"
+      },
+      {
+        "en": "Fawn",
+        "ar": "خشف"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "A baby cow is called a calf.",
+    "explanation_ar": "ابن البقرة الصغير بيتسمى \"عجل\"."
+  },
+  {
+    "id": "ANM-020-005",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a baby horse called?",
+    "question_ar": "بيتسمى إيه ابن الحصان الصغير؟",
+    "options": [
+      {
+        "en": "Foal",
+        "ar": "مهر"
+      },
+      {
+        "en": "Calf",
+        "ar": "عجل"
+      },
+      {
+        "en": "Kid",
+        "ar": "جدي"
+      },
+      {
+        "en": "Cub",
+        "ar": "شبل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A baby horse is called a foal.",
+    "explanation_ar": "ابن الحصان الصغير بيتسمى \"مهر\"."
+  },
+  {
+    "id": "ANM-020-006",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a baby sheep called?",
+    "question_ar": "بيتسمى إيه ابن الخروف الصغير؟",
+    "options": [
+      {
+        "en": "Lamb",
+        "ar": "حمل"
+      },
+      {
+        "en": "Kid",
+        "ar": "جدي"
+      },
+      {
+        "en": "Calf",
+        "ar": "عجل"
+      },
+      {
+        "en": "Cub",
+        "ar": "شبل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A baby sheep is called a lamb.",
+    "explanation_ar": "ابن الخروف الصغير بيتسمى \"حمل\"."
+  },
+  {
+    "id": "ANM-020-007",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a baby goat called?",
+    "question_ar": "بيتسمى إيه ابن الماعز الصغير؟",
+    "options": [
+      {
+        "en": "Lamb",
+        "ar": "حمل"
+      },
+      {
+        "en": "Kid",
+        "ar": "جدي"
+      },
+      {
+        "en": "Foal",
+        "ar": "مهر"
+      },
+      {
+        "en": "Fawn",
+        "ar": "خشف"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "A baby goat is called a kid.",
+    "explanation_ar": "ابن الماعز الصغير بيتسمى \"جدي\"."
+  },
+  {
+    "id": "ANM-020-008",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a group of fish called?",
+    "question_ar": "بيتسمى إيه تجمع السمك؟",
+    "options": [
+      {
+        "en": "Herd",
+        "ar": "قطيع"
+      },
+      {
+        "en": "Pride",
+        "ar": "زمرة"
+      },
+      {
+        "en": "School",
+        "ar": "سرب"
+      },
+      {
+        "en": "Pack",
+        "ar": "جماعة"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "A group of fish swimming together is called a school.",
+    "explanation_ar": "تجمع السمك اللي بيعوم مع بعض بيتسمى \"سرب\"."
+  },
+  {
+    "id": "ANM-020-009",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a group of birds flying together called?",
+    "question_ar": "بيتسمى إيه تجمع الطيور وهي طايرة مع بعض؟",
+    "options": [
+      {
+        "en": "Flock",
+        "ar": "سرب"
+      },
+      {
+        "en": "Pride",
+        "ar": "زمرة"
+      },
+      {
+        "en": "Pod",
+        "ar": "مجموعة دلافين"
+      },
+      {
+        "en": "Herd",
+        "ar": "قطيع"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A group of birds flying together is called a flock.",
+    "explanation_ar": "تجمع الطيور وهي طايرة مع بعض بيتسمى \"سرب\"."
+  },
+  {
+    "id": "ANM-020-010",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a group of whales or dolphins called?",
+    "question_ar": "بيتسمى إيه تجمع الحيتان أو الدلافين؟",
+    "options": [
+      {
+        "en": "Pod",
+        "ar": "مجموعة"
+      },
+      {
+        "en": "School",
+        "ar": "سرب سمك"
+      },
+      {
+        "en": "Pack",
+        "ar": "جماعة"
+      },
+      {
+        "en": "Herd",
+        "ar": "قطيع"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A group of whales or dolphins is called a pod.",
+    "explanation_ar": "تجمع الحيتان أو الدلافين بيتسمى \"pod\"."
+  },
+  {
+    "id": "ANM-020-011",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which region is the natural habitat of polar bears?",
+    "question_ar": "إيه المنطقة اللي هي الموطن الطبيعي للدببة القطبية؟",
+    "options": [
+      {
+        "en": "Arctic",
+        "ar": "القطب الشمالي"
+      },
+      {
+        "en": "Antarctica",
+        "ar": "القارة القطبية الجنوبية"
+      },
+      {
+        "en": "Sahara Desert",
+        "ar": "الصحرا الكبرى"
+      },
+      {
+        "en": "Amazon rainforest",
+        "ar": "غابات الأمازون"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Polar bears live in the Arctic, in the Northern Hemisphere.",
+    "explanation_ar": "الدببة القطبية بتعيش في القطب الشمالي في نص الكرة الشمالي."
+  },
+  {
+    "id": "ANM-020-012",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Where do most penguin species naturally live?",
+    "question_ar": "إيه المكان اللي بيعيش فيه أغلب أنواع البطريق طبيعيًا؟",
+    "options": [
+      {
+        "en": "Arctic",
+        "ar": "القطب الشمالي"
+      },
+      {
+        "en": "Antarctica",
+        "ar": "القارة القطبية الجنوبية"
+      },
+      {
+        "en": "Sahara Desert",
+        "ar": "الصحرا الكبرى"
+      },
+      {
+        "en": "Amazon rainforest",
+        "ar": "غابات الأمازون"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Most penguin species live in and around Antarctica.",
+    "explanation_ar": "أغلب أنواع البطريق بتعيش في القارة القطبية الجنوبية وحواليها."
+  },
+  {
+    "id": "ANM-020-013",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the natural habitat of camels?",
+    "question_ar": "إيه الموطن الطبيعي للجمل؟",
+    "options": [
+      {
+        "en": "Rainforest",
+        "ar": "الغابة المطيرة"
+      },
+      {
+        "en": "Desert",
+        "ar": "الصحرا"
+      },
+      {
+        "en": "Ocean",
+        "ar": "المحيط"
+      },
+      {
+        "en": "Tundra",
+        "ar": "التندرا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Camels are naturally adapted to live in hot, dry deserts.",
+    "explanation_ar": "الجمل مُتكيّف طبيعيًا عشان يعيش في الصحاري الحارة والجافة."
+  },
+  {
+    "id": "ANM-020-014",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Kangaroos are native to which continent?",
+    "question_ar": "الكنجرو أصله من أنهي قارة؟",
+    "options": [
+      {
+        "en": "Africa",
+        "ar": "أفريقيا"
+      },
+      {
+        "en": "Asia",
+        "ar": "آسيا"
+      },
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      },
+      {
+        "en": "South America",
+        "ar": "أمريكا الجنوبية"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Kangaroos are native to Australia.",
+    "explanation_ar": "الكنجرو أصله من أستراليا."
+  },
+  {
+    "id": "ANM-020-015",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Giant pandas are native to which country?",
+    "question_ar": "الباندا العملاقة أصلها من أنهي دولة؟",
+    "options": [
+      {
+        "en": "Japan",
+        "ar": "اليابان"
+      },
+      {
+        "en": "China",
+        "ar": "الصين"
+      },
+      {
+        "en": "India",
+        "ar": "الهند"
+      },
+      {
+        "en": "Thailand",
+        "ar": "تايلاند"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Giant pandas are native to China.",
+    "explanation_ar": "الباندا العملاقة أصلها من الصين."
+  },
+  {
+    "id": "ANM-020-016",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "On which continent do lions roam free the most today?",
+    "question_ar": "في أنهي قارة الأسود بتعيش حرة بكثرة النهارده؟",
+    "options": [
+      {
+        "en": "Asia",
+        "ar": "آسيا"
+      },
+      {
+        "en": "Africa",
+        "ar": "أفريقيا"
+      },
+      {
+        "en": "Europe",
+        "ar": "أوروبا"
+      },
+      {
+        "en": "South America",
+        "ar": "أمريكا الجنوبية"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Most free-roaming lions today live in Africa.",
+    "explanation_ar": "أغلب الأسود اللي بتعيش حرة النهارده موجودة في أفريقيا."
+  },
+  {
+    "id": "ANM-020-017",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Crocodiles are typically found living in which kind of habitat?",
+    "question_ar": "التماسيح بتتلاقى غالبًا بتعيش في إيه نوع من البيئات؟",
+    "options": [
+      {
+        "en": "Mountains",
+        "ar": "الجبال"
+      },
+      {
+        "en": "Deserts",
+        "ar": "الصحاري"
+      },
+      {
+        "en": "Rivers and lakes",
+        "ar": "الأنهار والبحيرات"
+      },
+      {
+        "en": "Deep ocean",
+        "ar": "أعماق المحيط"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Crocodiles mainly live in freshwater rivers, lakes and swamps.",
+    "explanation_ar": "التماسيح بتعيش أساسًا في الأنهار والبحيرات والمستنقعات العذبة."
+  },
+  {
+    "id": "ANM-020-018",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Animals that eat only plants are called?",
+    "question_ar": "الحيوانات اللي بتاكل نباتات بس بيتقالها إيه؟",
+    "options": [
+      {
+        "en": "Carnivores",
+        "ar": "لاحمة"
+      },
+      {
+        "en": "Herbivores",
+        "ar": "عاشبة"
+      },
+      {
+        "en": "Omnivores",
+        "ar": "آكلة كل شيء"
+      },
+      {
+        "en": "Insectivores",
+        "ar": "آكلة حشرات"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Herbivores are animals whose diet consists only of plants.",
+    "explanation_ar": "الحيوانات العاشبة أكلها كله نباتات."
+  },
+  {
+    "id": "ANM-020-019",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Animals that eat only meat are called?",
+    "question_ar": "الحيوانات اللي بتاكل لحمة بس بيتقالها إيه؟",
+    "options": [
+      {
+        "en": "Herbivores",
+        "ar": "عاشبة"
+      },
+      {
+        "en": "Carnivores",
+        "ar": "لاحمة"
+      },
+      {
+        "en": "Omnivores",
+        "ar": "آكلة كل شيء"
+      },
+      {
+        "en": "Herbivorous",
+        "ar": "نباتية"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Carnivores are animals whose diet consists mainly of meat.",
+    "explanation_ar": "الحيوانات اللاحمة أكلها أساسًا لحمة."
+  },
+  {
+    "id": "ANM-020-020",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "An animal that eats both plants and meat is called?",
+    "question_ar": "الحيوان اللي بياكل نباتات ولحمة مع بعض بيتقاله إيه؟",
+    "options": [
+      {
+        "en": "Herbivore",
+        "ar": "عاشب"
+      },
+      {
+        "en": "Carnivore",
+        "ar": "لاحم"
+      },
+      {
+        "en": "Omnivore",
+        "ar": "آكل كل شيء"
+      },
+      {
+        "en": "Predator",
+        "ar": "مفترس"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Omnivores eat both plant and animal matter.",
+    "explanation_ar": "الحيوانات آكلة كل شيء بتاكل نباتات ولحمة مع بعض."
+  },
+  {
+    "id": "ANM-020-021",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which of these animals hibernates through winter?",
+    "question_ar": "إيه الحيوان من دول اللي بيدخل في سبات شتوي؟",
+    "options": [
+      {
+        "en": "Lion",
+        "ar": "الأسد"
+      },
+      {
+        "en": "Bear",
+        "ar": "الدب"
+      },
+      {
+        "en": "Elephant",
+        "ar": "الفيل"
+      },
+      {
+        "en": "Zebra",
+        "ar": "الحمار الوحشي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Many bear species hibernate to survive the cold winter months.",
+    "explanation_ar": "كتير من أنواع الدببة بتدخل في سبات عشان تعدي شهور الشتا الباردة."
+  },
+  {
+    "id": "ANM-020-022",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which animal is famous for its extremely strong sense of smell used in tracking?",
+    "question_ar": "إيه الحيوان المشهور بحاسة شم قوية جدًا بتتستخدم في التتبع؟",
+    "options": [
+      {
+        "en": "Cat",
+        "ar": "القطة"
+      },
+      {
+        "en": "Dog",
+        "ar": "الكلب"
+      },
+      {
+        "en": "Bird",
+        "ar": "الطائر"
+      },
+      {
+        "en": "Fish",
+        "ar": "السمكة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Dogs have a highly developed sense of smell, used for tracking scents.",
+    "explanation_ar": "الكلب عنده حاسة شم قوية جدًا بتتستخدم في تتبع الروايح."
+  },
+  {
+    "id": "ANM-020-023",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which small desert fox, found in Egypt's Sahara, is known for its unusually large ears?",
+    "question_ar": "إيه نوع الثعلب الصغير اللي بيتلاقى في صحرا مصر ومعروف بودانه الكبيرة جدًا؟",
+    "options": [
+      {
+        "en": "Red fox",
+        "ar": "الثعلب الأحمر"
+      },
+      {
+        "en": "Arctic fox",
+        "ar": "ثعلب القطب"
+      },
+      {
+        "en": "Fennec fox",
+        "ar": "ثعلب الفنك"
+      },
+      {
+        "en": "Grey fox",
+        "ar": "الثعلب الرمادي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The fennec fox has huge ears that help it release heat in the desert.",
+    "explanation_ar": "ثعلب الفنك ودانه كبيرة جدًا بتساعده يتخلص من الحرارة في الصحرا."
+  },
+  {
+    "id": "ANM-020-024",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which big cat cannot roar but purrs instead?",
+    "question_ar": "إيه القط الكبير اللي مايزئرش لكن بيهدهد بدل كده؟",
+    "options": [
+      {
+        "en": "Lion",
+        "ar": "الأسد"
+      },
+      {
+        "en": "Tiger",
+        "ar": "النمر"
+      },
+      {
+        "en": "Cheetah",
+        "ar": "الفهد الصياد"
+      },
+      {
+        "en": "Leopard",
+        "ar": "الفهد المرقط"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Unlike lions and tigers, cheetahs cannot roar; they purr like house cats.",
+    "explanation_ar": "على عكس الأسد والنمر، الفهد الصياد مايزئرش، هو بيهدهد زي القطط العادية."
+  },
+  {
+    "id": "ANM-020-025",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which big cat is the only one that typically lives in social groups called prides?",
+    "question_ar": "إيه القط الكبير الوحيد اللي بيعيش غالبًا في مجموعات اجتماعية اسمها \"الزمر\"؟",
+    "options": [
+      {
+        "en": "Tiger",
+        "ar": "النمر"
+      },
+      {
+        "en": "Lion",
+        "ar": "الأسد"
+      },
+      {
+        "en": "Leopard",
+        "ar": "الفهد المرقط"
+      },
+      {
+        "en": "Jaguar",
+        "ar": "الجاغوار"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Lions are unusual among big cats for living in social groups called prides.",
+    "explanation_ar": "الأسد شاذ بين القطط الكبيرة لأنه بيعيش في مجموعات اجتماعية اسمها \"الزمر\"."
+  },
+  {
+    "id": "ANM-020-026",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which reptile is known for being able to regrow its tail if it loses it?",
+    "question_ar": "إيه الزواحف المعروفة إنها بتقدر تنبت ديلها تاني لو اتقطع؟",
+    "options": [
+      {
+        "en": "Lizard",
+        "ar": "السحلية"
+      },
+      {
+        "en": "Snake",
+        "ar": "الثعبان"
+      },
+      {
+        "en": "Turtle",
+        "ar": "السلحفاة"
+      },
+      {
+        "en": "Crocodile",
+        "ar": "التمساح"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Many lizards can regrow a lost tail as a defense mechanism.",
+    "explanation_ar": "كتير من السحالي بتقدر تنبت ديلها تاني لو اتقطع كوسيلة دفاع."
+  },
+  {
+    "id": "ANM-020-027",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which soft-bodied sea creature squirts ink to escape predators?",
+    "question_ar": "إيه الكائن البحري طري الجسم اللي بيرش حبر عشان يهرب من المفترسين؟",
+    "options": [
+      {
+        "en": "Crab",
+        "ar": "السلطعون"
+      },
+      {
+        "en": "Octopus",
+        "ar": "الأخطبوط"
+      },
+      {
+        "en": "Lobster",
+        "ar": "الكركند"
+      },
+      {
+        "en": "Starfish",
+        "ar": "نجم البحر"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Octopuses release a cloud of ink to confuse predators and escape.",
+    "explanation_ar": "الأخطبوط بيطلق سحابة حبر عشان يلخبط المفترسين ويهرب."
+  },
+  {
+    "id": "ANM-020-028",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a group of elephants called?",
+    "question_ar": "بيتسمى إيه تجمع الفيلة؟",
+    "options": [
+      {
+        "en": "Herd",
+        "ar": "قطيع"
+      },
+      {
+        "en": "Pride",
+        "ar": "زمرة"
+      },
+      {
+        "en": "Pod",
+        "ar": "مجموعة"
+      },
+      {
+        "en": "Flock",
+        "ar": "سرب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A group of elephants is called a herd.",
+    "explanation_ar": "تجمع الفيلة بيتسمى \"قطيع\"."
+  },
+  {
+    "id": "ANM-020-029",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a baby elephant called?",
+    "question_ar": "بيتسمى إيه ابن الفيل الصغير؟",
+    "options": [
+      {
+        "en": "Cub",
+        "ar": "شبل"
+      },
+      {
+        "en": "Calf",
+        "ar": "عجل"
+      },
+      {
+        "en": "Joey",
+        "ar": "جوي"
+      },
+      {
+        "en": "Kid",
+        "ar": "جدي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "A baby elephant is called a calf.",
+    "explanation_ar": "ابن الفيل الصغير بيتسمى \"عجل\"."
+  },
+  {
+    "id": "ANM-020-030",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a baby lion called?",
+    "question_ar": "بيتسمى إيه ابن الأسد الصغير؟",
+    "options": [
+      {
+        "en": "Cub",
+        "ar": "شبل"
+      },
+      {
+        "en": "Calf",
+        "ar": "عجل"
+      },
+      {
+        "en": "Kit",
+        "ar": "جرو ثعلب"
+      },
+      {
+        "en": "Pup",
+        "ar": "جرو"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A baby lion is called a cub.",
+    "explanation_ar": "ابن الأسد الصغير بيتسمى \"شبل\"."
+  },
+  {
+    "id": "ANM-020-031",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a baby fox called?",
+    "question_ar": "بيتسمى إيه ابن الثعلب الصغير؟",
+    "options": [
+      {
+        "en": "Cub",
+        "ar": "شبل"
+      },
+      {
+        "en": "Kit",
+        "ar": "كِت"
+      },
+      {
+        "en": "Joey",
+        "ar": "جوي"
+      },
+      {
+        "en": "Calf",
+        "ar": "عجل"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "A baby fox is called a kit.",
+    "explanation_ar": "ابن الثعلب الصغير بيتسمى \"كِت\"."
+  },
+  {
+    "id": "ANM-020-032",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which crocodile species, found in the Nile and Lake Nasser, is considered Egypt's largest predator?",
+    "question_ar": "إيه نوع التمساح اللي بيتلاقى في النيل وبحيرة ناصر وبيتعتبر أكبر مفترس في مصر؟",
+    "options": [
+      {
+        "en": "Saltwater crocodile",
+        "ar": "التمساح المالح"
+      },
+      {
+        "en": "Nile crocodile",
+        "ar": "تمساح النيل"
+      },
+      {
+        "en": "American alligator",
+        "ar": "التمساح الأمريكي"
+      },
+      {
+        "en": "Gharial",
+        "ar": "تمساح الغاريال"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Nile crocodile is Egypt's largest living predator, found in the Nile and Lake Nasser.",
+    "explanation_ar": "تمساح النيل هو أكبر مفترس حي في مصر، وبيتلاقى في نهر النيل وبحيرة ناصر."
+  },
+  {
+    "id": "ANM-020-033",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What do a camel's humps mainly store?",
+    "question_ar": "إيه اللي سنام الجمل بيخزنه أساسًا؟",
+    "options": [
+      {
+        "en": "Water",
+        "ar": "مية"
+      },
+      {
+        "en": "Fat",
+        "ar": "دهون"
+      },
+      {
+        "en": "Muscle",
+        "ar": "عضلات"
+      },
+      {
+        "en": "Blood",
+        "ar": "دم"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Camel humps store fat, not water, which the camel uses for energy.",
+    "explanation_ar": "سنام الجمل بيخزن دهون مش مية، والجمل بيستخدمها كطاقة."
+  },
+  {
+    "id": "ANM-020-034",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Giraffes have how many bones (vertebrae) in their neck, the same number as humans?",
+    "question_ar": "الزرافة عندها كام فقرة في رقبتها، وهو نفس العدد الموجود عند البني آدمين؟",
+    "options": [
+      {
+        "en": "3",
+        "ar": "3"
+      },
+      {
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "en": "14",
+        "ar": "14"
+      },
+      {
+        "en": "21",
+        "ar": "21"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Despite their long necks, giraffes have 7 neck vertebrae — the same as humans.",
+    "explanation_ar": "برغم رقبتها الطويلة، الزرافة عندها 7 فقرات في رقبتها، زي البني آدمين بالظبط."
+  },
+  {
+    "id": "ANM-020-035",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which bird is known for having the longest migration of any animal, flying between the Arctic and Antarctic each year?",
+    "question_ar": "إيه الطائر المعروف بأطول هجرة بين كل الحيوانات، وبيطير كل سنة بين القطب الشمالي والجنوبي؟",
+    "options": [
+      {
+        "en": "Arctic tern",
+        "ar": "الخرشنة القطبية"
+      },
+      {
+        "en": "Swallow",
+        "ar": "السنونو"
+      },
+      {
+        "en": "Stork",
+        "ar": "اللقلق"
+      },
+      {
+        "en": "Albatross",
+        "ar": "القطرس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Arctic tern migrates further than any other animal, from pole to pole each year.",
+    "explanation_ar": "الخرشنة القطبية بتهاجر مسافة أبعد من أي حيوان تاني، من قطب لقطب كل سنة."
+  },
+  {
+    "id": "ANM-020-036",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which body part do kangaroos use to help balance while hopping?",
+    "question_ar": "إيه جزء الجسم اللي الكنجرو بيستخدمه عشان يحافظ على توازنه وهو بينط؟",
+    "options": [
+      {
+        "en": "Ears",
+        "ar": "الودان"
+      },
+      {
+        "en": "Tail",
+        "ar": "الديل"
+      },
+      {
+        "en": "Front paws",
+        "ar": "الكفوف الأمامية"
+      },
+      {
+        "en": "Nose",
+        "ar": "المخر"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "A kangaroo's strong tail acts like a balance and support while hopping.",
+    "explanation_ar": "ديل الكنجرو القوي بيساعده يحافظ على توازنه وهو بينط."
+  },
+  {
+    "id": "ANM-020-037",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Elephants flap their large ears mainly to do what?",
+    "question_ar": "الفيلة بترفرف بودانها الكبيرة أساسًا عشان تعمل إيه؟",
+    "options": [
+      {
+        "en": "Attract mates",
+        "ar": "تجذب شريك"
+      },
+      {
+        "en": "Cool their body down",
+        "ar": "تبرد جسمها"
+      },
+      {
+        "en": "Scare away insects only",
+        "ar": "تخوّف الحشرات بس"
+      },
+      {
+        "en": "Communicate danger only",
+        "ar": "تنبّه من خطر بس"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Flapping their large ears helps elephants release heat and cool down.",
+    "explanation_ar": "رفرفة الودان الكبيرة بتساعد الفيل يطلع حرارة زيادة ويبرد جسمه."
+  },
+  {
+    "id": "ANM-020-038",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a group of geese on the ground called?",
+    "question_ar": "بيتسمى إيه تجمع الوز وهو ماشي على الأرض؟",
+    "options": [
+      {
+        "en": "Flock",
+        "ar": "سرب"
+      },
+      {
+        "en": "Gaggle",
+        "ar": "تجمع وز"
+      },
+      {
+        "en": "Pride",
+        "ar": "زمرة"
+      },
+      {
+        "en": "Herd",
+        "ar": "قطيع"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "A group of geese on the ground is called a gaggle.",
+    "explanation_ar": "تجمع الوز وهو ماشي على الأرض بيتسمى \"gaggle\"."
+  },
+  {
+    "id": "ANM-020-039",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a baby frog called?",
+    "question_ar": "بيتسمى إيه ابن الضفدع الصغير؟",
+    "options": [
+      {
+        "en": "Tadpole",
+        "ar": "شرغوف"
+      },
+      {
+        "en": "Cub",
+        "ar": "شبل"
+      },
+      {
+        "en": "Kit",
+        "ar": "كِت"
+      },
+      {
+        "en": "Fry",
+        "ar": "زريعة سمك"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A baby frog is called a tadpole before it grows legs.",
+    "explanation_ar": "ابن الضفدع الصغير بيتسمى \"شرغوف\" قبل ما يطلع له رجلين."
+  },
+  {
+    "id": "ANM-020-040",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which unusual mammal lays eggs instead of giving birth to live young?",
+    "question_ar": "إيه الثديي الغريب اللي بيحط بيض بدل ما يولّد؟",
+    "options": [
+      {
+        "en": "Platypus",
+        "ar": "خلد الماء"
+      },
+      {
+        "en": "Kangaroo",
+        "ar": "الكنجرو"
+      },
+      {
+        "en": "Koala",
+        "ar": "الكوالا"
+      },
+      {
+        "en": "Hedgehog",
+        "ar": "القنفذ"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The platypus is one of the very few mammals that lay eggs.",
+    "explanation_ar": "خلد الماء من أقل الثدييات اللي بتحط بيض بدل ما تولّد."
+  },
+  {
+    "id": "ANM-020-041",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "How many eyelids does a camel have on each eye to protect against blowing sand?",
+    "question_ar": "الجمل عنده كام جفن في كل عين عشان يحميه من الرمل المتطاير؟",
+    "options": [
+      {
+        "en": "One",
+        "ar": "واحد"
+      },
+      {
+        "en": "Two",
+        "ar": "اتنين"
+      },
+      {
+        "en": "Three",
+        "ar": "تلاتة"
+      },
+      {
+        "en": "Four",
+        "ar": "أربعة"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Camels have three eyelids per eye to protect against sand and dust.",
+    "explanation_ar": "الجمل عنده تلات جفون في كل عين عشان تحميه من الرمل والتراب."
+  },
+  {
+    "id": "ANM-020-042",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a group of owls called?",
+    "question_ar": "بيتسمى إيه تجمع البوم؟",
+    "options": [
+      {
+        "en": "Parliament",
+        "ar": "برلمان"
+      },
+      {
+        "en": "Herd",
+        "ar": "قطيع"
+      },
+      {
+        "en": "Pod",
+        "ar": "مجموعة"
+      },
+      {
+        "en": "School",
+        "ar": "سرب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A group of owls is called a parliament.",
+    "explanation_ar": "تجمع البوم بيتسمى \"برلمان\"."
+  },
+  {
+    "id": "ANM-020-043",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which animal is known for being able to sleep while standing up?",
+    "question_ar": "إيه الحيوان المعروف إنه بينام وهو واقف؟",
+    "options": [
+      {
+        "en": "Horse",
+        "ar": "الحصان"
+      },
+      {
+        "en": "Dog",
+        "ar": "الكلب"
+      },
+      {
+        "en": "Cat",
+        "ar": "القطة"
+      },
+      {
+        "en": "Rabbit",
+        "ar": "الأرنب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Horses can lock their legs and sleep while standing up.",
+    "explanation_ar": "الحصان يقدر يثبّت رجليه وينام وهو واقف."
+  },
+  {
+    "id": "ANM-020-044",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a group of crocodiles called?",
+    "question_ar": "بيتسمى إيه تجمع التماسيح؟",
+    "options": [
+      {
+        "en": "Bask",
+        "ar": "تجمع تماسيح"
+      },
+      {
+        "en": "Herd",
+        "ar": "قطيع"
+      },
+      {
+        "en": "Pride",
+        "ar": "زمرة"
+      },
+      {
+        "en": "Flock",
+        "ar": "سرب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A group of crocodiles resting together is called a bask.",
+    "explanation_ar": "تجمع التماسيح وهي مستريحة مع بعض بيتسمى \"bask\"."
+  },
+  {
+    "id": "ANM-020-045",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is one widely accepted reason zebras have black and white stripes?",
+    "question_ar": "إيه أحد الأسباب المقبولة إن الحمار الوحشي عنده خطوط سودا وبيضا؟",
+    "options": [
+      {
+        "en": "To store extra fat",
+        "ar": "عشان يخزن دهون زيادة"
+      },
+      {
+        "en": "To help confuse predators",
+        "ar": "عشان يلخبط المفترسين"
+      },
+      {
+        "en": "To attract more rainfall",
+        "ar": "عشان يجذب المطر"
+      },
+      {
+        "en": "To change color with seasons",
+        "ar": "عشان يغيّر لونه مع الفصول"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "One leading theory is that the stripe pattern helps confuse predators, especially in groups.",
+    "explanation_ar": "من أهم النظريات إن الخطوط بتساعد تلخبط المفترسين، خصوصًا لما الحمير الوحشي تكون مع بعض."
+  },
+  {
+    "id": "ANM-020-046",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a group of ants called?",
+    "question_ar": "بيتسمى إيه تجمع النمل؟",
+    "options": [
+      {
+        "en": "Colony",
+        "ar": "مستعمرة"
+      },
+      {
+        "en": "Herd",
+        "ar": "قطيع"
+      },
+      {
+        "en": "Pack",
+        "ar": "جماعة"
+      },
+      {
+        "en": "School",
+        "ar": "سرب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A group of ants living together is called a colony.",
+    "explanation_ar": "تجمع النمل اللي بيعيش مع بعض بيتسمى \"مستعمرة\"."
+  },
+  {
+    "id": "ANM-020-047",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a baby whale called?",
+    "question_ar": "بيتسمى إيه ابن الحوت الصغير؟",
+    "options": [
+      {
+        "en": "Pup",
+        "ar": "جرو"
+      },
+      {
+        "en": "Calf",
+        "ar": "عجل"
+      },
+      {
+        "en": "Cub",
+        "ar": "شبل"
+      },
+      {
+        "en": "Kid",
+        "ar": "جدي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "A baby whale is called a calf.",
+    "explanation_ar": "ابن الحوت الصغير بيتسمى \"عجل\"."
+  },
+  {
+    "id": "ANM-020-048",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which sense do bats mainly rely on to navigate and hunt in the dark?",
+    "question_ar": "إيه الحاسة اللي الخفاش بيعتمد عليها أساسًا عشان يتحرك ويصطاد في الضلمة؟",
+    "options": [
+      {
+        "en": "Smell",
+        "ar": "الشم"
+      },
+      {
+        "en": "Echolocation (sound)",
+        "ar": "تحديد الموقع بالصدى (الصوت)"
+      },
+      {
+        "en": "Taste",
+        "ar": "التذوق"
+      },
+      {
+        "en": "Touch",
+        "ar": "اللمس"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Bats use echolocation, bouncing sound waves off objects, to navigate in darkness.",
+    "explanation_ar": "الخفاش بيستخدم تحديد الموقع بالصدى، وهو ارتداد موجات صوتية عن الأشياء، عشان يتحرك في الضلمة."
+  },
+  {
+    "id": "ANM-020-049",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which marsupial, like the kangaroo, carries its baby in a pouch and lives in Australian trees?",
+    "question_ar": "إيه الحيوان الجرابي اللي زي الكنجرو بيحمل صغيره في جراب وعايش فوق شجر أستراليا؟",
+    "options": [
+      {
+        "en": "Koala",
+        "ar": "الكوالا"
+      },
+      {
+        "en": "Panda",
+        "ar": "الباندا"
+      },
+      {
+        "en": "Sloth",
+        "ar": "الكسلان"
+      },
+      {
+        "en": "Lemur",
+        "ar": "الليمور"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The koala is a marsupial that carries its young in a pouch, like the kangaroo.",
+    "explanation_ar": "الكوالا حيوان جرابي بيحمل صغيره في جراب، زي الكنجرو."
+  },
+  {
+    "id": "ANM-020-050",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is a baby eagle called?",
+    "question_ar": "بيتسمى إيه ابن النسر الصغير؟",
+    "options": [
+      {
+        "en": "Eaglet",
+        "ar": "نسر صغير"
+      },
+      {
+        "en": "Chick",
+        "ar": "كتكوت"
+      },
+      {
+        "en": "Cub",
+        "ar": "شبل"
+      },
+      {
+        "en": "Fledgling",
+        "ar": "فرخ"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A baby eagle is called an eaglet.",
+    "explanation_ar": "ابن النسر الصغير بيتسمى \"eaglet\"."
+  }
+]

@@ -1,0 +1,1502 @@
+[
+{
+"id": "SER-200-001",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actor played the role of Khedive Ismail in the historical series depicting the building of the Suez Canal era?",
+"question_ar": "مين اللي مثل شخصية الخديوي إسماعيل في مسلسل عن حقبة حفر قناة السويس؟",
+"options": [
+{
+"en": "Mahmoud Abdel Aziz",
+"ar": "محمود عبد العزيز"
+},
+{
+"en": "Yehia El Fakharany",
+"ar": "يحيى الفخراني"
+},
+{
+"en": "Ezzat El Alaili",
+"ar": "عزت العلايلي"
+},
+{
+"en": "Khaled El Nabawy",
+"ar": "خالد النبوي"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Yehia El Fakharany portrayed Khedive Ismail in a historical drama about that era.",
+"explanation_ar": "يحيى الفخراني مثل شخصية الخديوي إسماعيل في مسلسل تاريخي عن الحقبة دي."
+},
+{
+"id": "SER-200-002",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Friends', what is the name of the eleventh commandment Joey jokingly cites, and what is the real name of Joey's stage name he almost used, 'Ken Adams'?",
+"question_ar": "إيه الاسم الفني اللي جوي كان هيستخدمه بدل اسمه الحقيقي في مسلسل فريندز؟",
+"options": [
+{
+"en": "Joseph Francis",
+"ar": "جوزيف فرانسيس"
+},
+{
+"en": "Ken Adams",
+"ar": "كين آدامز"
+},
+{
+"en": "Frank Tribbiani",
+"ar": "فرانك تريبياني"
+},
+{
+"en": "Joey Stevens",
+"ar": "جوي ستيفنز"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Joey considers the stage name 'Ken Adams' in a memorable episode.",
+"explanation_ar": "جوي فكر ياخد اسم فني هو كين آدامز في حلقة معروفة."
+},
+{
+"id": "SER-200-003",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actor played the role of Ahmed Orabi in the historical drama about the Orabi Revolution?",
+"question_ar": "مين اللي مثل شخصية أحمد عرابي في مسلسل عن الثورة العرابية؟",
+"options": [
+{
+"en": "Ezzat El Alaili",
+"ar": "عزت العلايلي"
+},
+{
+"en": "Nour El Sherif",
+"ar": "نور الشريف"
+},
+{
+"en": "Mahmoud Yassin",
+"ar": "محمود ياسين"
+},
+{
+"en": "Salah El Saadany",
+"ar": "صلاح السعدني"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Mahmoud Yassin portrayed Ahmed Orabi in a historical TV drama.",
+"explanation_ar": "محمود ياسين مثل شخصية أحمد عرابي في مسلسل تاريخي عن الثورة العرابية."
+},
+{
+"id": "SER-200-004",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Game of Thrones', what is the name of the Valyrian steel sword that Jon Snow wields, gifted by the Night's Watch?",
+"question_ar": "إيه اسم سيف الفاليريان اللي بيستخدمه جون سنو واللي إداله إياه حراس الليل؟",
+"options": [
+{
+"en": "Widow's Wail",
+"ar": "ويدوز وايل"
+},
+{
+"en": "Ice",
+"ar": "آيس"
+},
+{
+"en": "Oathkeeper",
+"ar": "أوث كيبر"
+},
+{
+"en": "Longclaw",
+"ar": "لونج كلو"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Longclaw, previously owned by Jeor Mormont, is given to Jon Snow.",
+"explanation_ar": "سيف لونج كلو كان ملك جيور مورمونت واتدى لجون سنو."
+},
+{
+"id": "SER-200-005",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actor starred in the classic anthology mystery series 'Arabesque', narrating different stories each episode?",
+"question_ar": "مين بطل مسلسل أرابيسك الكلاسيكي اللي كان بيحكي قصص مختلفة كل حلقة؟",
+"options": [
+{
+"en": "Salah El Saadany",
+"ar": "صلاح السعدني"
+},
+{
+"en": "Nour El Sherif",
+"ar": "نور الشريف"
+},
+{
+"en": "Mahmoud Abdel Aziz",
+"ar": "محمود عبد العزيز"
+},
+{
+"en": "Yehia El Fakharany",
+"ar": "يحيى الفخراني"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Yehia El Fakharany starred in the beloved anthology series 'Arabesque'.",
+"explanation_ar": "يحيى الفخراني بطل مسلسل أرابيسك المحبوب."
+},
+{
+"id": "SER-200-006",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Breaking Bad', what car does Walter White famously buy for his son, later ruined in the desert crash scene?",
+"question_ar": "إيه نوع العربية اللي والتر وايت اشتراها لابنه واتحطمت في الصحراء؟",
+"options": [
+{
+"en": "Dodge Challenger",
+"ar": "دودج تشالنجر"
+},
+{
+"en": "Chevrolet Camaro",
+"ar": "شيفروليه كامارو"
+},
+{
+"en": "Pontiac Aztek",
+"ar": "بونتياك أزتيك"
+},
+{
+"en": "Ford Mustang",
+"ar": "فورد موستنج"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Walt buys Walt Jr. a Dodge Challenger, which is destroyed later in the series.",
+"explanation_ar": "والتر اشترى لابنه دودج تشالنجر واللي اتحطمت لاحقًا في المسلسل."
+},
+{
+"id": "SER-200-007",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actor played the role of King Farouk in a biographical drama depicting his downfall after the 1952 revolution?",
+"question_ar": "مين اللي مثل شخصية الملك فاروق في مسلسل عن سقوطه بعد ثورة 1952؟",
+"options": [
+{
+"en": "Mahmoud Hemida",
+"ar": "محمود حميدة"
+},
+{
+"en": "Salah El Saadany",
+"ar": "صلاح السعدني"
+},
+{
+"en": "Tarek Abdel Aziz",
+"ar": "طارق عبد العزيز"
+},
+{
+"en": "Sherif Mounir",
+"ar": "شريف منير"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Tarek Abdel Aziz portrayed King Farouk in historical TV productions.",
+"explanation_ar": "طارق عبد العزيز مثل شخصية الملك فاروق في أعمال درامية تاريخية."
+},
+{
+"id": "SER-200-008",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Peaky Blinders', what is the disease that Tommy Shelby is diagnosed with in the final season?",
+"question_ar": "إيه المرض اللي بيتشخص بيه توماس شيلبي في الموسم الأخير من بيكي بلايندرز؟",
+"options": [
+{
+"en": "Syphilis",
+"ar": "زهري"
+},
+{
+"en": "Cancer",
+"ar": "سرطان"
+},
+{
+"en": "Epilepsy",
+"ar": "صرع"
+},
+{
+"en": "Tuberculosis",
+"ar": "السل"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Tommy is diagnosed with tuberculosis, the same disease that killed his first wife.",
+"explanation_ar": "توماس بيتشخص بمرض السل، نفس المرض اللي مات بيه زوجته الأولى."
+},
+{
+"id": "SER-200-009",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian director is behind the large-scale patriotic action series 'El Ekhteyar', known for big-budget military dramas?",
+"question_ar": "مين المخرج المصري وراء مسلسل الاختيار المعروف بالأعمال العسكرية الضخمة؟",
+"options": [
+{
+"en": "Peter Mimi",
+"ar": "بيتر ميمي"
+},
+{
+"en": "Hady El Bagoury",
+"ar": "هادي الباجوري"
+},
+{
+"en": "Mohamed Samy",
+"ar": "محمد سامي"
+},
+{
+"en": "Tamer Mohsen",
+"ar": "تامر محسن"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Peter Mimi directed 'El Ekhteyar'.",
+"explanation_ar": "بيتر ميمي أخرج مسلسل الاختيار."
+},
+{
+"id": "SER-200-010",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Money Heist', what is the name of the mole police officer planted inside the gang who is later killed?",
+"question_ar": "إيه اسم الجاسوسة اللي زرعتها الشرطة جوه عصابة اللصوص واتقتلت لاحقًا؟",
+"options": [
+{
+"en": "Raquel Murillo (Lisboa)",
+"ar": "راكيل موريو (ليسبوا)"
+},
+{
+"en": "Nairobi",
+"ar": "نيروبي"
+},
+{
+"en": "Amanda",
+"ar": "أماندا"
+},
+{
+"en": "Alicia Sierra",
+"ar": "أليسيا سييرا"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Raquel Murillo, disguised as 'Lisboa', infiltrates the gang from within in Season 3.",
+"explanation_ar": "راكيل موريو، متنكرة باسم ليسبوا، دخلت العصابة من جوه في الموسم التالت."
+},
+{
+"id": "SER-200-011",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actress starred in the rarely-seen but acclaimed drama 'Emraa Men Waraq' (A Woman of Paper), addressing societal issues in the 1990s?",
+"question_ar": "مين بطلة مسلسل امرأة من ورق في التسعينات؟",
+"options": [
+{
+"en": "Yousra",
+"ar": "يسرا"
+},
+{
+"en": "Poussy Shalaby",
+"ar": "بوسي شلبي"
+},
+{
+"en": "Elham Shahin",
+"ar": "إلهام شاهين"
+},
+{
+"en": "Nabila Ebeid",
+"ar": "نبيلة عبيد"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Nabila Ebeid starred in 'Emraa Men Waraq'.",
+"explanation_ar": "نبيلة عبيد بطلة مسلسل امرأة من ورق."
+},
+{
+"id": "SER-200-012",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Game of Thrones', what is the name of the maester who serves as Tyrion's ally and helps cure Jorah's greyscale?",
+"question_ar": "إيه اسم الميستر اللي ساعد في علاج جوراه من مرض السكيل الرمادي؟",
+"options": [
+{
+"en": "Pycelle",
+"ar": "بايسيل"
+},
+{
+"en": "Samwell Tarly",
+"ar": "سامويل تارلي"
+},
+{
+"en": "Qyburn",
+"ar": "كايبورن"
+},
+{
+"en": "Luwin",
+"ar": "لوين"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Samwell Tarly finds the cure for Jorah's greyscale in the Citadel's archives.",
+"explanation_ar": "سامويل تارلي هو اللي لقى علاج السكيل الرمادي بتاع جوراه في أرشيف الستادل."
+},
+{
+"id": "SER-200-013",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian screenwriter wrote both 'Segn El Nesa' and other prison/crime dramas known for gritty realism about women's issues?",
+"question_ar": "مين الكاتب المصري اللي كتب مسلسل سجن النسا؟",
+"options": [
+{
+"en": "Abdel Rahim Kamal",
+"ar": "عبد الرحيم كمال"
+},
+{
+"en": "Belal Fadl",
+"ar": "بلال فضل"
+},
+{
+"en": "Wahid Hamed",
+"ar": "وحيد حامد"
+},
+{
+"en": "Mariam Naoum",
+"ar": "مريم نعوم"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Mariam Naoum wrote 'Segn El Nesa'.",
+"explanation_ar": "مريم نعوم هي كاتبة مسلسل سجن النسا."
+},
+{
+"id": "SER-200-014",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'The Witcher' series, what is the name of the decisive battle at the end of Season 2 involving the Nilfgaardian invasion of Cintra referenced in flashbacks?",
+"question_ar": "إيه اسم المعركة اللي فيها غزو نيلفجارد لسينترا واللي بيتكلموا عنها بفلاش باك؟",
+"options": [
+{
+"en": "Siege of Vengerberg",
+"ar": "حصار فينجربيرج"
+},
+{
+"en": "The Fall of Cintra",
+"ar": "سقوط سينترا"
+},
+{
+"en": "Battle of Sodden Hill",
+"ar": "معركة تل سودين"
+},
+{
+"en": "Battle of Brenna",
+"ar": "معركة برينا"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "The Battle of Sodden Hill is the key mage battle referenced in Season 1's finale.",
+"explanation_ar": "معركة تل سودين هي معركة السحرة الرئيسية في نهاية الموسم الأول."
+},
+{
+"id": "SER-200-015",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actor played the title role in the 1990s series 'Zaman El Aar' (Time of Shame) about a smuggling family across generations?",
+"question_ar": "مين بطل مسلسل زمن العار التسعيني عن عيلة تهريب؟",
+"options": [
+{
+"en": "Nour El Sherif",
+"ar": "نور الشريف"
+},
+{
+"en": "Ahmed Zaki",
+"ar": "أحمد زكي"
+},
+{
+"en": "Mahmoud Abdel Aziz",
+"ar": "محمود عبد العزيز"
+},
+{
+"en": "Yehia El Fakharany",
+"ar": "يحيى الفخراني"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Nour El Sherif starred in 'Zaman El Aar'.",
+"explanation_ar": "نور الشريف بطل مسلسل زمن العار."
+},
+{
+"id": "SER-200-016",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Breaking Bad', what was the occupation of Mike Ehrmantraut before becoming a fixer for the drug operation?",
+"question_ar": "مايك إيرمانتراوت كان شغال إيه قبل ما يبقى مصلح مشاكل العصابة في بريكينج باد؟",
+"options": [
+{
+"en": "Lawyer",
+"ar": "محامي"
+},
+{
+"en": "Bodyguard",
+"ar": "حارس شخصي"
+},
+{
+"en": "Soldier",
+"ar": "جندي"
+},
+{
+"en": "Police officer",
+"ar": "ضابط شرطة"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Mike Ehrmantraut was a Philadelphia police officer before his criminal career.",
+"explanation_ar": "مايك إيرمانتراوت كان ضابط شرطة في فيلادلفيا قبل مساره الإجرامي."
+},
+{
+"id": "SER-200-017",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Game of Thrones', what is the name of the blind assassin faction leader Arya meets in Braavos who tests her with poison and disguises?",
+"question_ar": "إيه اسم زعيمة الرجال بلا وجوه اللي آريا بتقابلها في برافوس واللي بتختبرها بالسم والتنكر؟",
+"options": [
+{
+"en": "Mercy",
+"ar": "ميرسي"
+},
+{
+"en": "Jaqen H'ghar",
+"ar": "جاكن هغار"
+},
+{
+"en": "The Waif",
+"ar": "ذا وايف"
+},
+{
+"en": "Melisandre",
+"ar": "ميليساندر"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "The Waif is Arya's rival trainee who repeatedly tests and fights her at the House of Black and White.",
+"explanation_ar": "ذا وايف هي منافسة آريا في التدريب واللي بتختبرها وتتقاتل معاها في دار الأبيض والأسود."
+},
+{
+"id": "SER-200-018",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Peaky Blinders', what is the name of the horse Tommy Shelby names after his deceased wife?",
+"question_ar": "إيه اسم الحصان اللي توماس شيلبي سماه على اسم زوجته المتوفية؟",
+"options": [
+{
+"en": "Sabini's Pride",
+"ar": "سابينيز برايد"
+},
+{
+"en": "Grace's Secret",
+"ar": "جريس سيكريت"
+},
+{
+"en": "Napoleon",
+"ar": "نابليون"
+},
+{
+"en": "Grace",
+"ar": "جريس"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Tommy names his racehorse 'Grace's Secret' in tribute to his late wife.",
+"explanation_ar": "توماس سمى حصانه جريس سيكريت تكريمًا لزوجته المتوفية."
+},
+{
+"id": "SER-200-019",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Breaking Bad', what is the name of the wheelchair-bound former cartel boss who communicates only by ringing a bell, and later kills himself and Gus Fring with a hidden bomb?",
+"question_ar": "إيه اسم زعيم الكارتل السابق قاعد على كرسي متحرك واللي بيتواصل بس بجرس، وقتل نفسه وجاس فرينج بقنبلة مخبأة؟",
+"options": [
+{
+"en": "Hector Salamanca",
+"ar": "هيكتور سالامانكا"
+},
+{
+"en": "Tio Salamanca's brother",
+"ar": "أخو تيو سالامانكا"
+},
+{
+"en": "Lalo Salamanca",
+"ar": "لالو سالامانكا"
+},
+{
+"en": "Don Eladio",
+"ar": "دون إلاديو"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Hector 'Tio' Salamanca detonates a hidden bomb, killing himself and Gus Fring.",
+"explanation_ar": "هيكتور 'تيو' سالامانكا فجّر قنبلة مخبأة، وقتل نفسه وجاس فرينج."
+},
+{
+"id": "SER-200-020",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Game of Thrones', what is the name of the ancestral Valyrian steel sword of House Stark, later reforged into two swords?",
+"question_ar": "إيه اسم سيف الفاليريان القديم بتاع بيت ستارك اللي اتصهر لسيفين بعدين؟",
+"options": [
+{
+"en": "Blackfyre",
+"ar": "بلاك فاير"
+},
+{
+"en": "Dark Sister",
+"ar": "دارك سيستر"
+},
+{
+"en": "Ice",
+"ar": "آيس"
+},
+{
+"en": "Widow's Wail",
+"ar": "ويدوز وايل"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "'Ice' was reforged into Oathkeeper and Widow's Wail after Ned Stark's death.",
+"explanation_ar": "سيف آيس اتصهر لسيفي أوث كيبر وويدوز وايل بعد إعدام نيد ستارك."
+},
+{
+"id": "SER-200-021",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actress played the lead in the 1970s classic 'Hawa El Horreya' (Air of Freedom), one of the earliest Egyptian TV dramas?",
+"question_ar": "مين بطلة مسلسل هوى الحرية من أوائل الدراما التليفزيونية المصرية في السبعينات؟",
+"options": [
+{
+"en": "Samiha Ayoub",
+"ar": "سميحة أيوب"
+},
+{
+"en": "Faten Hamama",
+"ar": "فاتن حمامة"
+},
+{
+"en": "Magda El Sabahy",
+"ar": "ماجدة الصباحي"
+},
+{
+"en": "Shadia",
+"ar": "شادية"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Samiha Ayoub, a stage legend, starred in this early Egyptian TV drama.",
+"explanation_ar": "سميحة أيوب، أسطورة المسرح، مثلت في العمل الدرامي التليفزيوني المبكر ده."
+},
+{
+"id": "SER-200-022",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Breaking Bad', what is the name of the vacuum cleaner repair shop that serves as a front for 'disappearing' people, run by 'The Disappearer'?",
+"question_ar": "إيه اسم محل إصلاح المكانس اللي بيستخدمه 'المختفي' كواجهة لإخفاء الناس؟",
+"options": [
+{
+"en": "Speed Clean",
+"ar": "سبيد كلين"
+},
+{
+"en": "Best Quality Vacuum",
+"ar": "بيست كواليتي فاكيوم"
+},
+{
+"en": "Vamonos Pest",
+"ar": "فامونوس بيست"
+},
+{
+"en": "Clean Sweep",
+"ar": "كلين سويب"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "'Best Quality Vacuum' is run by Saul's 'disappearer' contact.",
+"explanation_ar": "بيست كواليتي فاكيوم هو المحل اللي بيديره جهة الاختفاء اللي سول عارفها."
+},
+{
+"id": "SER-200-023",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Peaky Blinders', what is the name of the wealthy horse-racing widow who becomes one of Tommy's love interests and business allies in the middle seasons?",
+"question_ar": "إيه اسم الأرملة الغنية صاحبة الخيول اللي بتبقى حبيبة توماس وحليفته في الأعمال في المواسم الوسطى؟",
+"options": [
+{
+"en": "Jessie Eden",
+"ar": "جيسي إيدن"
+},
+{
+"en": "May Carleton",
+"ar": "ماي كارلتون"
+},
+{
+"en": "Diana Mitford",
+"ar": "ديانا ميتفورد"
+},
+{
+"en": "Gina Gray",
+"ar": "جينا جراي"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "May Carleton is the wealthy widow who becomes romantically and professionally involved with Tommy.",
+"explanation_ar": "ماي كارلتون هي الأرملة الغنية اللي بترتبط بتوماس عاطفيًا ومهنيًا."
+},
+{
+"id": "SER-200-024",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Peaky Blinders', what nickname does the IRA give to Tommy Shelby after he double-crosses them in Season 4?",
+"question_ar": "إيه اللقب اللي الجيش الإيرلندي بيطلقه على توماس شيلبي بعد ما خانهم في الموسم الرابع؟",
+"options": [
+{
+"en": "The Devil",
+"ar": "الشيطان"
+},
+{
+"en": "Traitor",
+"ar": "الخاين"
+},
+{
+"en": "Blinder",
+"ar": "بلايندر"
+},
+{
+"en": "The Gypsy",
+"ar": "الغجري"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "The IRA brands Tommy a traitor after his betrayal in Season 4.",
+"explanation_ar": "الجيش الإيرلندي بيلقب توماس بالخاين بعد خيانته في الموسم الرابع."
+},
+{
+"id": "SER-200-025",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actress played the lead in the acclaimed 2000s series 'Ayza Atgawez' (I Want to Get Married) based on the popular blog/book?",
+"question_ar": "مين بطلة مسلسل عايزة أتجوز المأخوذ عن مدونة وكتاب شهير؟",
+"options": [
+{
+"en": "Hend Sabry",
+"ar": "هند صبري"
+},
+{
+"en": "Donia Samir Ghanem",
+"ar": "دنيا سمير غانم"
+},
+{
+"en": "Ghada Adel",
+"ar": "غادة عادل"
+},
+{
+"en": "Yasmine Abdel Aziz",
+"ar": "ياسمين عبد العزيز"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Hend Sabry starred in 'Ayza Atgawez', based on Ghada Abdel Aal's blog.",
+"explanation_ar": "هند صبري بطلة مسلسل عايزة أتجوز المأخوذ عن مدونة غادة عبد العال."
+},
+{
+"id": "SER-200-026",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'The Crown', which actress plays the older Princess Margaret in seasons 3 and 4?",
+"question_ar": "مين مثلت شخصية الأميرة مارجريت الكبيرة في الموسمين التالت والرابع من ذا كراون؟",
+"options": [
+{
+"en": "Helena Bonham Carter",
+"ar": "هيلينا بونهام كارتر"
+},
+{
+"en": "Lesley Manville",
+"ar": "ليزلي مانفيل"
+},
+{
+"en": "Vanessa Kirby",
+"ar": "فانيسا كيربي"
+},
+{
+"en": "Olivia Colman",
+"ar": "أوليفيا كولمان"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Helena Bonham Carter plays the older Princess Margaret in seasons 3-4.",
+"explanation_ar": "هيلينا بونهام كارتر مثلت شخصية الأميرة مارجريت الكبيرة في الموسمين 3 و4."
+},
+{
+"id": "SER-200-027",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actor is credited with writing the dialogue for 'Raafat El Hagan', adapted from Saleh Morsi's novel?",
+"question_ar": "مين اللي كتب سيناريو وحوار مسلسل رأفت الهجان المأخوذ عن رواية صالح مرسي؟",
+"options": [
+{
+"en": "Wahid Hamed",
+"ar": "وحيد حامد"
+},
+{
+"en": "Mostafa Moharram",
+"ar": "مصطفى محرم"
+},
+{
+"en": "Osama Anwar Okasha",
+"ar": "أسامة أنور عكاشة"
+},
+{
+"en": "Saleh Morsi wrote it himself",
+"ar": "صالح مرسي كتبه بنفسه"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Saleh Morsi, the original novelist, also wrote the screenplay for 'Raafat El Hagan'.",
+"explanation_ar": "صالح مرسي، مؤلف الرواية الأصلية، كتب سيناريو مسلسل رأفت الهجان كمان."
+},
+{
+"id": "SER-200-028",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Squid Game', what is revealed to be the true identity of the elderly player known as 'Oh Il-nam' (Player 001)?",
+"question_ar": "مين الشخصية الحقيقية وراء اللاعب العجوز رقم 001 أوه إيل نام؟",
+"options": [
+{
+"en": "A police informant",
+"ar": "مخبر بوليس"
+},
+{
+"en": "The creator/mastermind of the games",
+"ar": "مؤسس اللعبة والعقل المدبر وراها"
+},
+{
+"en": "Gi-hun's father",
+"ar": "أبو جي هون"
+},
+{
+"en": "A former winner of the game",
+"ar": "فايز سابق باللعبة"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Oh Il-nam is revealed as the elderly creator of Squid Game itself.",
+"explanation_ar": "أوه إيل نام بيتكشف إنه مؤسس لعبة سكويد جيم نفسها."
+},
+{
+"id": "SER-200-029",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actress played the lead role in the 1980s pioneering series 'Ahlam El Fatah El Hazina' (Dreams of the Sad Girl) exploring taboo themes for its time?",
+"question_ar": "مين بطلة مسلسل أحلام الفتاة الحزينة اللي تناول قضايا جريئة لوقتها في الثمانينات؟",
+"options": [
+{
+"en": "Athar El Hakim",
+"ar": "أثار الحكيم"
+},
+{
+"en": "Nabila Ebeid",
+"ar": "نبيلة عبيد"
+},
+{
+"en": "Poussy Shalaby",
+"ar": "بوسي شلبي"
+},
+{
+"en": "Sherihan",
+"ar": "شريهان"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Sherihan starred in this pioneering 1980s drama.",
+"explanation_ar": "شريهان بطلة العمل الدرامي الرائد ده في الثمانينات."
+},
+{
+"id": "SER-200-030",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Game of Thrones', which house's words are 'Growing Strong', associated with House Tyrell of Highgarden?",
+"question_ar": "إيه شعار بيت تيريل من هايجاردن اللي بيتقال 'ننمو أقوى'؟",
+"options": [
+{
+"en": "Growing Strong",
+"ar": "ننمو أقوى"
+},
+{
+"en": "Ours is the Fury",
+"ar": "لنا الغضب"
+},
+{
+"en": "Winter is Coming",
+"ar": "الشتاء قادم"
+},
+{
+"en": "Fire and Blood",
+"ar": "نار ودم"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "House Tyrell's words are 'Growing Strong'.",
+"explanation_ar": "شعار بيت تيريل هو ننمو أقوى."
+},
+{
+"id": "SER-200-031",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Money Heist', which member of the gang is killed during the Bank of Spain heist, leading the others to carry out his final wishes with an emotional wedding scene?",
+"question_ar": "مين عضو العصابة اللي بيتقتل خلال سرقة بنك إسبانيا وبيحققوا أمنيته الأخيرة بحفل جواز مؤثر؟",
+"options": [
+{
+"en": "Nairobi",
+"ar": "نيروبي"
+},
+{
+"en": "Marseille",
+"ar": "مارسيليا"
+},
+{
+"en": "Denver",
+"ar": "دنفر"
+},
+{
+"en": "Rio",
+"ar": "ريو"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Nairobi is shot and later dies during the Bank of Spain heist, deeply affecting the gang.",
+"explanation_ar": "نيروبي بتتصاب وبتموت خلال سرقة بنك إسبانيا، وده بيأثر جدًا في العصابة."
+},
+{
+"id": "SER-200-032",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Peaky Blinders', what is the profession of Alfie Solomons's business front in Camden Town before rum-running?",
+"question_ar": "إيه شغل ألفي سولومونز الظاهري في كامدن تاون قبل تهريب الروم؟",
+"options": [
+{
+"en": "Pub owner",
+"ar": "صاحب حانة"
+},
+{
+"en": "Fishmonger",
+"ar": "بياع سمك"
+},
+{
+"en": "Bakery",
+"ar": "مخبز"
+},
+{
+"en": "Tailor",
+"ar": "خياط"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Alfie Solomons runs a bakery as his legitimate front business.",
+"explanation_ar": "ألفي سولومونز بيدير مخبز كواجهة تجارية شرعية."
+},
+{
+"id": "SER-200-033",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Squid Game', what is the name of the guards' rank system, with circle, triangle and square masks denoting their roles?",
+"question_ar": "إيه نظام رتب الحراس في سكويد جيم اللي بيتحدد بماسكات دايرة ومثلث ومربع؟",
+"options": [
+{
+"en": "Circles are managers, triangles are workers, squares are soldiers",
+"ar": "الدايرة مدراء، المثلث عمال، والمربع جنود"
+},
+{
+"en": "Circles are workers, triangles are armed soldiers, squares are managers",
+"ar": "الدايرة عمال، المثلث جنود مسلحين، والمربع مدراء"
+},
+{
+"en": "All guards wear the same mask regardless of rank",
+"ar": "كل الحراس بيلبسوا نفس الماسك بغض النظر عن رتبتهم"
+},
+{
+"en": "Squares are workers, circles are soldiers, triangles are managers",
+"ar": "المربع عمال، الدايرة جنود، والمثلث مدراء"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Circle masks are basic workers, triangles are armed soldiers, and squares are managers overseeing them.",
+"explanation_ar": "ماسك الدايرة للعمال العاديين، المثلث للجنود المسلحين، والمربع للمدراء المشرفين."
+},
+{
+"id": "SER-200-034",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Breaking Bad', what does the acronym 'ABQ' stand for, the city where the series is set?",
+"question_ar": "اختصار ABQ بيرمز لإيه، المدينة اللي بيدور فيها بريكينج باد؟",
+"options": [
+{
+"en": "Amarillo Basin Quarry",
+"ar": "أماريلو باسين كواري"
+},
+{
+"en": "Arizona Border Quarter",
+"ar": "أريزونا بوردر كوارتر"
+},
+{
+"en": "Austin Border Quarter",
+"ar": "أوستن بوردر كوارتر"
+},
+{
+"en": "Albuquerque",
+"ar": "ألباكيركي"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "ABQ is the common abbreviation for Albuquerque, New Mexico, the show's setting.",
+"explanation_ar": "ABQ اختصار شائع لمدينة ألباكيركي في نيو مكسيكو، مكان أحداث المسلسل."
+},
+{
+"id": "SER-200-035",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actress starred in the 1990s series 'Al Shanab' or portrayed a rare cross-dressing/disguise role in a comedic mystery drama with Yehia El Fakharany?",
+"question_ar": "مين شاركت يحيى الفخراني في مسلسل به دور تنكري كوميدي غامض؟",
+"options": [
+{
+"en": "Yousra",
+"ar": "يسرا"
+},
+{
+"en": "Poussy Shalaby",
+"ar": "بوسي شلبي"
+},
+{
+"en": "Athar El Hakim",
+"ar": "أثار الحكيم"
+},
+{
+"en": "Sherihan",
+"ar": "شريهان"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Sherihan co-starred with Yehia El Fakharany in several 1980s-90s mystery/comedy productions.",
+"explanation_ar": "شريهان شاركت يحيى الفخراني في أعمال درامية كوميدية غامضة في الثمانينات والتسعينات."
+},
+{
+"id": "SER-200-036",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Game of Thrones', what is the name of the secret society of assassins based in Braavos that Arya trains with, the 'House of...'?",
+"question_ar": "إيه اسم دار المدربين على الاغتيال في برافوس اللي اتدربت فيها آريا؟",
+"options": [
+{
+"en": "House of Shadows",
+"ar": "دار الظلال"
+},
+{
+"en": "House of Black and White",
+"ar": "دار الأبيض والأسود"
+},
+{
+"en": "House of Faces",
+"ar": "دار الوجوه"
+},
+{
+"en": "House of the Undying",
+"ar": "دار الأحياء الأبديين"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "The House of Black and White trains the Faceless Men, including Arya.",
+"explanation_ar": "دار الأبيض والأسود بتدرب الرجال بلا وجوه، ومنهم آريا."
+},
+{
+"id": "SER-200-037",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actor played the lead role in the acclaimed political drama 'Al Gama'a' portraying the founder of the Muslim Brotherhood's assassination in 1949?",
+"question_ar": "في مسلسل الجماعة، إزاي بيتصور اغتيال حسن البنا سنة 1949؟",
+"options": [
+{
+"en": "Died of natural causes",
+"ar": "مات لأسباب طبيعية"
+},
+{
+"en": "Shot by unidentified gunmen believed linked to the government",
+"ar": "اتقتل برصاص مهاجمين مجهولين متهم فيهم الحكومة"
+},
+{
+"en": "Killed in a car accident",
+"ar": "مات في حادثة عربية"
+},
+{
+"en": "Poisoned",
+"ar": "اتسمم"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "The series depicts Hassan El Banna's 1949 assassination by gunmen, widely believed state-linked.",
+"explanation_ar": "المسلسل بيصور اغتيال حسن البنا سنة 1949 برصاص مهاجمين يعتقد ارتباطهم بالدولة."
+},
+{
+"id": "SER-200-038",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Peaky Blinders', what is the name of the American businesswoman Michael Gray marries, who later becomes a rival to Tommy?",
+"question_ar": "إيه اسم رجلة الأعمال الأمريكية اللي اتجوزها مايكل جراي وبقت خصم لتوماس؟",
+"options": [
+{
+"en": "Gina Gray",
+"ar": "جينا جراي"
+},
+{
+"en": "Diana Mitford",
+"ar": "ديانا ميتفورد"
+},
+{
+"en": "Mary Shelby",
+"ar": "ماري شيلبي"
+},
+{
+"en": "Jessie Eden",
+"ar": "جيسي إيدن"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Gina Gray, Michael's American wife, later opposes Tommy's decisions.",
+"explanation_ar": "جينا جراي، زوجة مايكل الأمريكية، بتعارض قرارات توماس لاحقًا."
+},
+{
+"id": "SER-200-039",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actor is credited as the original screenwriter of 'Layali El Helmeya', a saga spanning Egyptian history from the 1940s to Sadat's era?",
+"question_ar": "مين كاتب مسلسل ليالي الحلمية اللي بيغطي تاريخ مصر من الأربعينات لعصر السادات؟",
+"options": [
+{
+"en": "Wahid Hamed",
+"ar": "وحيد حامد"
+},
+{
+"en": "Mostafa Moharram",
+"ar": "مصطفى محرم"
+},
+{
+"en": "Osama Anwar Okasha",
+"ar": "أسامة أنور عكاشة"
+},
+{
+"en": "Yousri El Gendy",
+"ar": "يسري الجندي"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Osama Anwar Okasha wrote the classic saga 'Layali El Helmeya'.",
+"explanation_ar": "أسامة أنور عكاشة كاتب مسلسل ليالي الحلمية الكلاسيكي."
+},
+{
+"id": "SER-200-040",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'The Witcher', what is the name of the prophecy that foretells Ciri's destiny and importance, referenced throughout the series?",
+"question_ar": "إيه اسم النبوءة اللي بتتكلم عن مصير سيري في ذا ويتشر؟",
+"options": [
+{
+"en": "The Conjunction of the Spheres",
+"ar": "اقتران الأكوان"
+},
+{
+"en": "The Elder Blood prophecy",
+"ar": "نبوءة الدم القديم"
+},
+{
+"en": "Law of Surprise",
+"ar": "قانون المفاجأة"
+},
+{
+"en": "The Prophecy of Ithlinne",
+"ar": "نبوءة إثلين"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Ithlinne's Prophecy foretells the coming of the 'Elder Blood' savior, tied to Ciri.",
+"explanation_ar": "نبوءة إثلين بتتكلم عن قدوم منقذ الدم القديم، ومرتبطة بسيري."
+},
+{
+"id": "SER-200-041",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'The Witcher', what is the name of the coin toss/bathtub song performed by Geralt that became a viral meme, titled 'Toss a Coin to Your...'?",
+"question_ar": "إيه تكملة أغنية چيرالت الشهيرة اللي بقت فيروسية 'ارمي عملة لـ...'؟",
+"options": [
+{
+"en": "Your Monster Hunter",
+"ar": "صياد وحوشك"
+},
+{
+"en": "Your Hero",
+"ar": "بطلك"
+},
+{
+"en": "Your Witcher",
+"ar": "ويتشرك"
+},
+{
+"en": "Your Sorcerer",
+"ar": "ساحرك"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "'Toss a Coin to Your Witcher' became a viral hit after Season 1.",
+"explanation_ar": "أغنية 'ارمي عملة لويتشرك' بقت فيروسية بعد الموسم الأول."
+},
+{
+"id": "SER-200-042",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Money Heist', what university does The Professor's plan reference as the inspiration for the heist's name, tied to a resistance-themed name?",
+"question_ar": "اسم 'لعبة النقود' الأصلي بالإسبانية بيترجم لإيه بالظبط؟",
+"options": [
+{
+"en": "The House of Paper",
+"ar": "دار الورق"
+},
+{
+"en": "The Mint Robbery",
+"ar": "سرقة دار السك"
+},
+{
+"en": "The Bank Job",
+"ar": "عملية البنك"
+},
+{
+"en": "The Great Heist",
+"ar": "السرقة الكبرى"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "'La Casa de Papel' literally translates to 'The House of Paper'.",
+"explanation_ar": "لا كاسا دي بابل بتترجم حرفيًا لدار الورق."
+},
+{
+"id": "SER-200-043",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actor starred in the classic 1990s series 'Al Mal Wal Banoon' about family inheritance disputes?",
+"question_ar": "مين بطل مسلسل المال والبنون التسعيني عن نزاعات الميراث؟",
+"options": [
+{
+"en": "Mahmoud El Guindy",
+"ar": "محمود الجندي"
+},
+{
+"en": "Yehia El Fakharany",
+"ar": "يحيى الفخراني"
+},
+{
+"en": "Salah El Saadany",
+"ar": "صلاح السعدني"
+},
+{
+"en": "Ahmed Bedeir",
+"ar": "أحمد بدير"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Salah El Saadany starred in 'Al Mal Wal Banoon'.",
+"explanation_ar": "صلاح السعدني بطل مسلسل المال والبنون."
+},
+{
+"id": "SER-200-044",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Peaky Blinders', which real historical event does Season 6 partly build towards, referencing the rise of fascism in Britain before WWII?",
+"question_ar": "الموسم السادس من بيكي بلايندرز بيتجه نحو أنهي حدث تاريخي حقيقي قبل الحرب العالمية التانية؟",
+"options": [
+{
+"en": "The Spanish Civil War",
+"ar": "الحرب الأهلية الإسبانية"
+},
+{
+"en": "The rise of British fascism (Mosley's movement)",
+"ar": "صعود الفاشية البريطانية (حركة موزلي)"
+},
+{
+"en": "The Great Depression only",
+"ar": "الكساد الكبير بس"
+},
+{
+"en": "The Irish Civil War",
+"ar": "الحرب الأهلية الأيرلندية"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Season 6 builds toward the looming threat of British fascism under Oswald Mosley before WWII.",
+"explanation_ar": "الموسم السادس بيتجه نحو خطر الفاشية البريطانية بقيادة موزلي قبل الحرب العالمية التانية."
+},
+{
+"id": "SER-200-045",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Breaking Bad', what does Jesse Pinkman call meth cooked to perfect purity, a nickname that becomes their product's trademark?",
+"question_ar": "إيه اللقب اللي جيسي بينكمان بيطلقه على المخدرات المصنعة بنقاء ممتاز وبقى علامة منتجهم؟",
+"options": [
+{
+"en": "Blue Sky",
+"ar": "بلو سكاي"
+},
+{
+"en": "Crystal Blue Persuasion",
+"ar": "كريستال بلو برسويجن"
+},
+{
+"en": "The Blue Stuff",
+"ar": "ذا بلو ستف"
+},
+{
+"en": "Sky Blue",
+"ar": "سكاي بلو"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "The product is nicknamed 'Blue Sky' due to its signature blue color and purity.",
+"explanation_ar": "المنتج بيتلقب ببلو سكاي بسبب لونه الأزرق المميز ونقاوته."
+},
+{
+"id": "SER-200-046",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Game of Thrones', what is the name of the mercenary company Daenerys hires in Essos, later betraying her by allying with the Lannisters?",
+"question_ar": "إيه اسم شركة المرتزقة اللي دينيريس استأجرتها في إسوس وبعدين خانتها وانحازت للانيستر؟",
+"options": [
+{
+"en": "The Windblown",
+"ar": "ذا ويند بلون"
+},
+{
+"en": "The Golden Company",
+"ar": "الشركة الذهبية"
+},
+{
+"en": "The Unsullied",
+"ar": "ذا أنسلايد"
+},
+{
+"en": "The Second Sons",
+"ar": "ذا سيكند سانز"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "The Golden Company allies with Cersei against Daenerys.",
+"explanation_ar": "الشركة الذهبية انحازت لسيرسي ضد دينيريس."
+},
+{
+"id": "SER-200-047",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Peaky Blinders', what is the name of Tommy Shelby's uncle who helps run the family business and is known for his calm, loyal demeanor?",
+"question_ar": "إيه اسم عم توماس شيلبي اللي بيساعده يدير شغل العيلة ومعروف بهدوءه وولاءه؟",
+"options": [
+{
+"en": "Charlie Strong",
+"ar": "تشارلي سترونج"
+},
+{
+"en": "Isiah Jesus",
+"ar": "إسايا چيزس"
+},
+{
+"en": "Michael Gray",
+"ar": "مايكل جراي"
+},
+{
+"en": "Curly",
+"ar": "كيرلي"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Charlie Strong is Tommy's uncle who works with the family's scrap yard and business.",
+"explanation_ar": "تشارلي سترونج هو عم توماس اللي بيشتغل معاه في ورشة الخردة والشغل العيلي."
+},
+{
+"id": "SER-200-048",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'Breaking Bad', what does Walter White's alias license plate read on the RV, referencing his fake business persona 'Vamonos Pest'?",
+"question_ar": "إيه الشركة الوهمية اللي والتر بيستخدمها كواجهة لتغطية عمليات الطبخ المتنقلة؟",
+"options": [
+{
+"en": "A1A Car Wash",
+"ar": "إيه ون إيه كار واش"
+},
+{
+"en": "Los Pollos Hermanos",
+"ar": "لوس بويوس هيرمانوس"
+},
+{
+"en": "Vamonos Pest",
+"ar": "فامونوس بيست"
+},
+{
+"en": "Bogdan's Car Wash",
+"ar": "بوجدانز كار واش"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "'Vamonos Pest' is used as a front to cook meth in tented houses undetected.",
+"explanation_ar": "فامونوس بيست بتتستخدم كواجهة لطبخ المخدرات في بيوت مغطاة بدون ما حد يلاحظ."
+},
+{
+"id": "SER-200-049",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "Which Egyptian actress played the complex role of a woman released from prison rebuilding her life in the acclaimed series 'Segn El Nesa', named 'Rabab'?",
+"question_ar": "مين اللي مثلت شخصية رباب في مسلسل سجن النسا؟",
+"options": [
+{
+"en": "Ghada Abdel Razek",
+"ar": "غادة عبد الرازق"
+},
+{
+"en": "Salwa Mohamed Ali",
+"ar": "سلوى محمد علي"
+},
+{
+"en": "Sherine Reda",
+"ar": "شيرين رضا"
+},
+{
+"en": "Riham Abdel Ghafour",
+"ar": "ريهام عبد الغفور"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Sherine Reda played the character Rabab in 'Segn El Nesa'.",
+"explanation_ar": "شيرين رضا مثلت شخصية رباب في مسلسل سجن النسا."
+},
+{
+"id": "SER-200-050",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 200,
+"difficulty": 5,
+"question_en": "In 'The Crown', which real-life event does the Season 1 finale's 'Smoke and Mirrors' episode center on, involving the Queen's coronation broadcast decision?",
+"question_ar": "حلقة 'سموك آند ميرورز' في نهاية الموسم الأول من ذا كراون بتتمحور حوالين قرار إيه؟",
+"options": [
+{
+"en": "Churchill's resignation",
+"ar": "استقالة تشرشل"
+},
+{
+"en": "The Queen's wedding",
+"ar": "جواز الملكة"
+},
+{
+"en": "Televising the coronation",
+"ar": "قرار بث حفل التتويج على التليفزيون"
+},
+{
+"en": "Margaret's engagement",
+"ar": "خطوبة مارجريت"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "The episode centers on the controversial decision to televise Elizabeth's coronation.",
+"explanation_ar": "الحلقة بتتمحور حوالين القرار المثير للجدل ببث تتويج إليزابيث على التليفزيون."
+}
+]

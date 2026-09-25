@@ -1,0 +1,1502 @@
+[
+{
+"id": "SER-020-001",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which 'Friends' character owns Marcel the monkey?",
+"question_ar": "مين صاحب القرد مارسيل في مسلسل فريندز؟",
+"options": [
+{
+"en": "Joey",
+"ar": "جوي"
+},
+{
+"en": "Monica",
+"ar": "مونيكا"
+},
+{
+"en": "Ross",
+"ar": "روس"
+},
+{
+"en": "Chandler",
+"ar": "تشاندلر"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Ross owned Marcel the monkey in early seasons.",
+"explanation_ar": "روس كان صاحب القرد مارسيل في المواسم الأولى."
+},
+{
+"id": "SER-020-002",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Who played 'El Hagg' Khalaf in 'El Ekhteyar', the martyr sniper?",
+"question_ar": "مين اللي مثل شخصية القناص الشهيد أحمد المنسي؟",
+"options": [
+{
+"en": "Ahmed El Sakka",
+"ar": "أحمد السقا"
+},
+{
+"en": "Asser Yassin",
+"ar": "آسر ياسين"
+},
+{
+"en": "Karim Abdel Aziz",
+"ar": "كريم عبد العزيز"
+},
+{
+"en": "Amir Karara",
+"ar": "أمير كرارة"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Karim Abdel Aziz played Colonel Ahmed El Mansy in 'El Ekhteyar 2'.",
+"explanation_ar": "كريم عبد العزيز مثل العقيد أحمد المنسي في الجزء الثاني."
+},
+{
+"id": "SER-020-003",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "In 'Money Heist', what is the nickname of the mastermind who plans the heists?",
+"question_ar": "إيه اسم العقل المدبر في لعبة النقود اللي بيخطط للسرقات؟",
+"options": [
+{
+"en": "The Professor",
+"ar": "البروفيسور"
+},
+{
+"en": "Tokyo",
+"ar": "طوكيو"
+},
+{
+"en": "Nairobi",
+"ar": "نيروبي"
+},
+{
+"en": "Berlin",
+"ar": "برلين"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "'The Professor' masterminds the heists from outside.",
+"explanation_ar": "البروفيسور هو العقل المدبر من برة."
+},
+{
+"id": "SER-020-004",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actress played the lead role in 'Newton's Game' (Lo'bet Newton)?",
+"question_ar": "مين بطلة مسلسل لعبة نيوتن؟",
+"options": [
+{
+"en": "Menna Shalaby",
+"ar": "منة شلبي"
+},
+{
+"en": "Yousra El Lawzy",
+"ar": "يسرا اللوزي"
+},
+{
+"en": "Nelly Karim",
+"ar": "نيللي كريم"
+},
+{
+"en": "Amina Khalil",
+"ar": "أمينة خليل"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Yousra El Lawzy starred alongside Amr Saad in 'Lo'bet Newton'.",
+"explanation_ar": "يسرا اللوزي مثلت في مسلسل لعبة نيوتن جنب عمرو سعد."
+},
+{
+"id": "SER-020-005",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "What is the name of the diner/coffee shop hangout in 'The Vampire Diaries' town?",
+"question_ar": "إيه اسم البلدة الخيالية اللي بتدور فيها أحداث مسلسل The Vampire Diaries؟",
+"options": [
+{
+"en": "Riverdale",
+"ar": "ريفرديل"
+},
+{
+"en": "Hawkins",
+"ar": "هوكينز"
+},
+{
+"en": "Mystic Falls",
+"ar": "ميستك فولز"
+},
+{
+"en": "Storybrooke",
+"ar": "ستوري بروك"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "'The Vampire Diaries' is set in the fictional Mystic Falls.",
+"explanation_ar": "ذا فامباير دايريز بتدور أحداثه في بلدة ميستك فولز الخيالية."
+},
+{
+"id": "SER-020-006",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actor played the antagonist 'Zafer' in 'El Prince' opposite Mohamed Ramadan?",
+"question_ar": "مين اللي مثل الشرير في مسلسل البرنس قدام محمد رمضان؟",
+"options": [
+{
+"en": "Sayed Ragab",
+"ar": "سيد رجب"
+},
+{
+"en": "Mahmoud Hemida",
+"ar": "محمود حميدة"
+},
+{
+"en": "Khaled El Sawy",
+"ar": "خالد الصاوي"
+},
+{
+"en": "Ezzat Abou Ouf",
+"ar": "عزت أبو العوف"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Mahmoud Hemida played the rival crime lord in 'El Prince'.",
+"explanation_ar": "محمود حميدة مثل زعيم العصابة المنافس في مسلسل البرنس."
+},
+{
+"id": "SER-020-007",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "In 'Breaking Bad', what is the name of Walter White's brother-in-law who works for the DEA?",
+"question_ar": "إيه اسم صهر والتر وايت اللي بيشتغل في مكافحة المخدرات؟",
+"options": [
+{
+"en": "Saul Goodman",
+"ar": "سول جودمان"
+},
+{
+"en": "Hank Schrader",
+"ar": "هانك شريدر"
+},
+{
+"en": "Gus Fring",
+"ar": "جاس فرينج"
+},
+{
+"en": "Jesse Pinkman",
+"ar": "چيسي بينكمان"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Hank Schrader, Walter's brother-in-law, is a DEA agent.",
+"explanation_ar": "هانك شريدر صهر والتر وضابط مكافحة مخدرات."
+},
+{
+"id": "SER-020-008",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actress starred as 'Camelia' in the drama 'Segn El Nesa'?",
+"question_ar": "مين اللي مثلت شخصية كاميليا في مسلسل سجن النسا؟",
+"options": [
+{
+"en": "Nelly Karim",
+"ar": "نيللي كريم"
+},
+{
+"en": "Elham Shahin",
+"ar": "إلهام شاهين"
+},
+{
+"en": "Hend Sabry",
+"ar": "هند صبري"
+},
+{
+"en": "Ghada Abdel Razek",
+"ar": "غادة عبد الرازق"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Ghada Abdel Razek played Camelia in 'Segn El Nesa'.",
+"explanation_ar": "غادة عبد الرازق مثلت شخصية كاميليا في مسلسل سجن النسا."
+},
+{
+"id": "SER-020-009",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "What object does the family in 'Squid Game' use to invite Gi-hun to play?",
+"question_ar": "إيه الحاجة اللي بيستخدموها عشان يدعوا جي هون يلعب في سكويد جيم؟",
+"options": [
+{
+"en": "A letter",
+"ar": "جواب"
+},
+{
+"en": "A text message",
+"ar": "رسالة نصية"
+},
+{
+"en": "A business card",
+"ar": "كارت شغل / بيزنس كارد"
+},
+{
+"en": "A phone call",
+"ar": "مكالمة تليفون"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "A mysterious man gives Gi-hun a business card inviting him to the game.",
+"explanation_ar": "راجل غريب بيدي جي هون كارت شغل بيدعوه للعبة."
+},
+{
+"id": "SER-020-010",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actor played the villain 'Ashraf' in the series 'Al Ekhteyar' as a terrorist leader?",
+"question_ar": "مين اللي مثل شخصية الإرهابي هشام عشماوي في الاختيار؟",
+"options": [
+{
+"en": "Mohamed Lotfy",
+"ar": "محمد لطفي"
+},
+{
+"en": "Ahmed Fahim",
+"ar": "أحمد فهيم"
+},
+{
+"en": "Khaled El Sawy",
+"ar": "خالد الصاوي"
+},
+{
+"en": "Sayed Ragab",
+"ar": "سيد رجب"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Ahmed Fahim portrayed the terrorist Hisham Ashmawy in 'El Ekhteyar'.",
+"explanation_ar": "أحمد فهيم مثل شخصية الإرهابي هشام عشماوي في مسلسل الاختيار."
+},
+{
+"id": "SER-020-011",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which show follows detective Sherlock Holmes in modern-day London, played by Benedict Cumberbatch?",
+"question_ar": "إيه اسم المسلسل اللي بيمثل فيه بينيديكت كمبرباتش شخصية شيرلوك هولمز في لندن الحديثة؟",
+"options": [
+{
+"en": "Luther",
+"ar": "لوثر"
+},
+{
+"en": "Sherlock",
+"ar": "شيرلوك"
+},
+{
+"en": "Broadchurch",
+"ar": "برودتشيرش"
+},
+{
+"en": "Elementary",
+"ar": "إليمنتري"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "'Sherlock' stars Benedict Cumberbatch as a modern-day Holmes.",
+"explanation_ar": "مسلسل شيرلوك بطولة بينيديكت كمبرباتش في دور هولمز الحديث."
+},
+{
+"id": "SER-020-012",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actress played the role of 'Habiba' in the popular series 'Leih La'?",
+"question_ar": "مين بطلة مسلسل ليه لأ؟",
+"options": [
+{
+"en": "Yasmine Sabry",
+"ar": "ياسمين صبري"
+},
+{
+"en": "Amina Khalil",
+"ar": "أمينة خليل"
+},
+{
+"en": "Menna Shalaby",
+"ar": "منة شلبي"
+},
+{
+"en": "Hend Sabry",
+"ar": "هند صبري"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Yasmine Sabry starred in 'Leih La'.",
+"explanation_ar": "ياسمين صبري بطلة مسلسل ليه لأ."
+},
+{
+"id": "SER-020-013",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "In 'Game of Thrones', which house's sigil is a direwolf?",
+"question_ar": "شعار أي بيت في جيم أوف ثرونز عبارة عن ذئب ضخم؟",
+"options": [
+{
+"en": "Targaryen",
+"ar": "تارجيريان"
+},
+{
+"en": "Stark",
+"ar": "ستارك"
+},
+{
+"en": "Baratheon",
+"ar": "باراثيون"
+},
+{
+"en": "Lannister",
+"ar": "لانيستر"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "House Stark's sigil is a direwolf.",
+"explanation_ar": "بيت ستارك شعاره ذئب ضخم."
+},
+{
+"id": "SER-020-014",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actor is known for the role of 'Adham' in the drama 'Kafr Delhab'?",
+"question_ar": "مين بطل مسلسل كفر دلهاب؟",
+"options": [
+{
+"en": "Amir Karara",
+"ar": "أمير كرارة"
+},
+{
+"en": "Asser Yassin",
+"ar": "آسر ياسين"
+},
+{
+"en": "Karim Mahmoud Abdel Aziz",
+"ar": "كريم محمود عبد العزيز"
+},
+{
+"en": "Ahmed Dawoud",
+"ar": "أحمد داود"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Karim Mahmoud Abdel Aziz starred in 'Kafr Delhab'.",
+"explanation_ar": "كريم محمود عبد العزيز بطل مسلسل كفر دلهاب."
+},
+{
+"id": "SER-020-015",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "What is the name of Walter White's meek lab partner in 'Breaking Bad'?",
+"question_ar": "إيه اسم شريك والتر وايت في تصنيع المخدرات في بريكينج باد؟",
+"options": [
+{
+"en": "Gale Boetticher",
+"ar": "جيل بويتيكر"
+},
+{
+"en": "Skyler White",
+"ar": "سكايلر وايت"
+},
+{
+"en": "Hank Schrader",
+"ar": "هانك شريدر"
+},
+{
+"en": "Jesse Pinkman",
+"ar": "جيسي بينكمان"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Jesse Pinkman is Walter's former student and partner.",
+"explanation_ar": "جيسي بينكمان طالب والتر القديم وشريكه."
+},
+{
+"id": "SER-020-016",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actress starred in the historical drama 'Om Kalthoum' as the legendary singer?",
+"question_ar": "مين اللي مثلت شخصية أم كلثوم في مسلسل عن حياتها؟",
+"options": [
+{
+"en": "Sabreen",
+"ar": "صابرين"
+},
+{
+"en": "Nelly Karim",
+"ar": "نيللي كريم"
+},
+{
+"en": "Yousra",
+"ar": "يسرا"
+},
+{
+"en": "Elham Shahin",
+"ar": "إلهام شاهين"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Sabreen portrayed Om Kalthoum in a biographical series.",
+"explanation_ar": "صابرين مثلت شخصية أم كلثوم في مسلسل عن سيرتها."
+},
+{
+"id": "SER-020-017",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which show is set in a dystopian near-future Korea centered on debt and survival games?",
+"question_ar": "إيه اسم مسلسل ألعاب البقاء الكوري اللي بيدور حول الديون؟",
+"options": [
+{
+"en": "The Platform",
+"ar": "ذا بلاتفورم"
+},
+{
+"en": "Kingdom",
+"ar": "كينجدوم"
+},
+{
+"en": "Squid Game",
+"ar": "سكويد جيم"
+},
+{
+"en": "Alice in Borderland",
+"ar": "أليس إن بوردرلاند"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "'Squid Game' centers on indebted players competing for a cash prize.",
+"explanation_ar": "سكويد جيم بيحكي عن لاعبين مديونين بيتنافسوا على جائزة مالية."
+},
+{
+"id": "SER-020-018",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actor starred as 'Naji Atallah' leader of a con-artist gang in a beloved series?",
+"question_ar": "مين بطل مسلسل فرقة ناجي عطا الله؟",
+"options": [
+{
+"en": "Mahmoud Abdel Aziz",
+"ar": "محمود عبد العزيز"
+},
+{
+"en": "Ahmed Zaki",
+"ar": "أحمد زكي"
+},
+{
+"en": "Nour El Sherif",
+"ar": "نور الشريف"
+},
+{
+"en": "Adel Emam",
+"ar": "عادل إمام"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Nour El Sherif starred as Naji Atallah in the classic series.",
+"explanation_ar": "نور الشريف مثل شخصية ناجي عطا الله في المسلسل الكلاسيكي."
+},
+{
+"id": "SER-020-019",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "In 'Peaky Blinders', what is the name of the Shelby family gang leader played by Cillian Murphy?",
+"question_ar": "إيه اسم زعيم عيلة شيلبي اللي بيمثله سيليان ميرفي في بيكي بلايندرز؟",
+"options": [
+{
+"en": "Arthur Shelby",
+"ar": "آرثر شيلبي"
+},
+{
+"en": "Michael Gray",
+"ar": "مايكل جراي"
+},
+{
+"en": "John Shelby",
+"ar": "جون شيلبي"
+},
+{
+"en": "Thomas Shelby",
+"ar": "توماس شيلبي"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Cillian Murphy plays Thomas 'Tommy' Shelby, the family leader.",
+"explanation_ar": "سيليان ميرفي بيمثل توماس شيلبي زعيم العيلة."
+},
+{
+"id": "SER-020-020",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actress played 'Nour' in the classic Turkish-dubbed hit that swept Egypt in the 2000s?",
+"question_ar": "إيه اسم المسلسل التركي المدبلج اللي بطلته نور واتجننت عليه الستات في مصر؟",
+"options": [
+{
+"en": "Noor",
+"ar": "نور"
+},
+{
+"en": "Ihlamurlar Altında",
+"ar": "تحت أشجار الزيزفون"
+},
+{
+"en": "Fatmagul",
+"ar": "فاطمة غل"
+},
+{
+"en": "1001 Nights",
+"ar": "ألف ليلة وليلة"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "'Noor' was a hugely popular Turkish series dubbed into Arabic.",
+"explanation_ar": "مسلسل نور كان مسلسل تركي مدبلج شهير جدًا."
+},
+{
+"id": "SER-020-021",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "In 'The Office' (US), who is the regional manager of the Scranton branch?",
+"question_ar": "مين مدير فرع سكرانتون في ذا أوفيس؟",
+"options": [
+{
+"en": "Jim Halpert",
+"ar": "جيم هالبرت"
+},
+{
+"en": "Michael Scott",
+"ar": "مايكل سكوت"
+},
+{
+"en": "Dwight Schrute",
+"ar": "دوايت شروت"
+},
+{
+"en": "Andy Bernard",
+"ar": "آندي برنارد"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Michael Scott is the regional manager for most of the show.",
+"explanation_ar": "مايكل سكوت هو مدير الفرع لمعظم أجزاء المسلسل."
+},
+{
+"id": "SER-020-022",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actress starred as the lead in the drama 'Kalabsh' opposite Amir Karara?",
+"question_ar": "مين البطلة اللي مثلت قدام أمير كرارة في مسلسل كلبش؟",
+"options": [
+{
+"en": "Yasmine Sabry",
+"ar": "ياسمين صبري"
+},
+{
+"en": "Amina Khalil",
+"ar": "أمينة خليل"
+},
+{
+"en": "Riham Abdel Ghafour",
+"ar": "ريهام عبد الغفور"
+},
+{
+"en": "Menna Shalaby",
+"ar": "منة شلبي"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Riham Abdel Ghafour co-starred in 'Kalabsh'.",
+"explanation_ar": "ريهام عبد الغفور شاركت في بطولة مسلسل كلبش."
+},
+{
+"id": "SER-020-023",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which show follows con artist Joe Goldberg who stalks and kills the women he loves?",
+"question_ar": "إيه اسم المسلسل عن جو جولدبيرج اللي بيطارد ويقتل النساء اللي بيحبهم؟",
+"options": [
+{
+"en": "You",
+"ar": "يو"
+},
+{
+"en": "Killing Eve",
+"ar": "كيلينج إيف"
+},
+{
+"en": "Mindhunter",
+"ar": "مايند هنتر"
+},
+{
+"en": "Dexter",
+"ar": "دكستر"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "'You' follows Joe Goldberg, a stalker who becomes obsessed and violent.",
+"explanation_ar": "مسلسل يو بيحكي عن جو جولدبيرج اللي بيهوس ويقتل."
+},
+{
+"id": "SER-020-024",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actor is famous for playing 'El Sadat' in a biographical series about the former president?",
+"question_ar": "مين اللي مثل شخصية الرئيس أنور السادات في مسلسل عن حياته؟",
+"options": [
+{
+"en": "Ezzat El Alaili",
+"ar": "عزت العلايلي"
+},
+{
+"en": "Mahmoud Yassin",
+"ar": "محمود ياسين"
+},
+{
+"en": "Nour El Sherif",
+"ar": "نور الشريف"
+},
+{
+"en": "Salah El Saadany",
+"ar": "صلاح السعدني"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Ezzat El Alaili portrayed Anwar El Sadat in the classic biopic series.",
+"explanation_ar": "عزت العلايلي مثل شخصية الرئيس أنور السادات في مسلسل عن حياته."
+},
+{
+"id": "SER-020-025",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actress played 'Safeya' in the beloved series 'Hekayet Hayah'?",
+"question_ar": "مين بطلة مسلسل حكاية حياة؟",
+"options": [
+{
+"en": "Ghada Abdel Razek",
+"ar": "غادة عبد الرازق"
+},
+{
+"en": "Hend Sabry",
+"ar": "هند صبري"
+},
+{
+"en": "Yousra",
+"ar": "يسرا"
+},
+{
+"en": "Elham Shahin",
+"ar": "إلهام شاهين"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Yousra starred as Hayah in 'Hekayet Hayah'.",
+"explanation_ar": "يسرا مثلت شخصية حياة في مسلسل حكاية حياة."
+},
+{
+"id": "SER-020-026",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "In 'How I Met Your Mother', what is Barney Stinson's signature catchphrase before something exciting?",
+"question_ar": "إيه الجملة الشهيرة اللي بيقولها بارني في هاو آي ميت يور مازر قبل حاجة مثيرة؟",
+"options": [
+{
+"en": "Challenge accepted",
+"ar": "تشالنج أكسبتد"
+},
+{
+"en": "Legendary",
+"ar": "ليجيندري"
+},
+{
+"en": "Have you met Ted?",
+"ar": "هاف يو ميت تيد"
+},
+{
+"en": "Suit up",
+"ar": "سوت آب"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Barney often says 'legen-wait for it-dary'.",
+"explanation_ar": "بارني بيقول ليجن ويت فور إت ديري باستمرار."
+},
+{
+"id": "SER-020-027",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actor is known for the role of the corrupt businessman in 'Grand Hotel'?",
+"question_ar": "مين مثل شخصية رجل الأعمال في مسلسل جراند أوتيل؟",
+"options": [
+{
+"en": "Khaled El Sawy",
+"ar": "خالد الصاوي"
+},
+{
+"en": "Sayed Ragab",
+"ar": "سيد رجب"
+},
+{
+"en": "Iyad Nassar",
+"ar": "إياد نصار"
+},
+{
+"en": "Ahmed Dawoud",
+"ar": "أحمد داود"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Iyad Nassar co-starred as a key character in 'Grand Hotel'.",
+"explanation_ar": "إياد نصار مثل شخصية رئيسية في مسلسل جراند أوتيل."
+},
+{
+"id": "SER-020-028",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which show follows lawyer Jimmy McGill before he becomes Saul Goodman?",
+"question_ar": "إيه اسم المسلسل اللي بيحكي عن جيمي ماكجيل قبل ما يبقى سول جودمان؟",
+"options": [
+{
+"en": "Suits",
+"ar": "سوتس"
+},
+{
+"en": "Ozark",
+"ar": "أوزارك"
+},
+{
+"en": "Breaking Bad",
+"ar": "بريكينج باد"
+},
+{
+"en": "Better Call Saul",
+"ar": "بيتر كول سول"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "'Better Call Saul' is the prequel/spin-off of 'Breaking Bad'.",
+"explanation_ar": "بيتر كول سول هو الجزء السابق لبريكينج باد."
+},
+{
+"id": "SER-020-029",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actress played the strong role of 'Zeina' in the drama 'Zeina'?",
+"question_ar": "مين اللي مثلت بطولة مسلسل زينة؟",
+"options": [
+{
+"en": "Elham Shahin",
+"ar": "إلهام شاهين"
+},
+{
+"en": "Nelly Karim",
+"ar": "نيللي كريم"
+},
+{
+"en": "Yousra",
+"ar": "يسرا"
+},
+{
+"en": "Ghada Abdel Razek",
+"ar": "غادة عبد الرازق"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Elham Shahin starred in the title role of 'Zeina'.",
+"explanation_ar": "إلهام شاهين بطلة مسلسل زينة."
+},
+{
+"id": "SER-020-030",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "In 'Game of Thrones', who is known as 'The Mother of Dragons'?",
+"question_ar": "مين اللي بيتلقب بأم التنانين في جيم أوف ثرونز؟",
+"options": [
+{
+"en": "Margaery Tyrell",
+"ar": "مارجري تيريل"
+},
+{
+"en": "Cersei Lannister",
+"ar": "سيرسي لانيستر"
+},
+{
+"en": "Sansa Stark",
+"ar": "سانسا ستارك"
+},
+{
+"en": "Daenerys Targaryen",
+"ar": "دينيريس تارجيريان"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Daenerys Targaryen is called the Mother of Dragons.",
+"explanation_ar": "دينيريس تارجيريان ملقبة بأم التنانين."
+},
+{
+"id": "SER-020-031",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actor starred as the lead role in the long-running family series 'El Bab Fel Bab'?",
+"question_ar": "مين بطل مسلسل الباب في الباب الكوميدي؟",
+"options": [
+{
+"en": "Salah Zulfikar",
+"ar": "صلاح ذو الفقار"
+},
+{
+"en": "Fouad El Mohandes",
+"ar": "فؤاد المهندس"
+},
+{
+"en": "Adel Emam",
+"ar": "عادل إمام"
+},
+{
+"en": "Samir Ghanem",
+"ar": "سمير غانم"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Fouad El Mohandes starred in the classic 'El Bab Fel Bab'.",
+"explanation_ar": "فؤاد المهندس بطل مسلسل الباب في الباب الكلاسيكي."
+},
+{
+"id": "SER-020-032",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which show features an Ozark lake-house money-laundering family led by Marty Byrde?",
+"question_ar": "إيه اسم المسلسل عن عيلة بتغسل فلوس في منطقة أوزارك؟",
+"options": [
+{
+"en": "Better Call Saul",
+"ar": "بيتر كول سول"
+},
+{
+"en": "Ozark",
+"ar": "أوزارك"
+},
+{
+"en": "Breaking Bad",
+"ar": "بريكينج باد"
+},
+{
+"en": "Narcos",
+"ar": "نارکوس"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "'Ozark' follows Marty Byrde laundering money in the Ozarks.",
+"explanation_ar": "أوزارك بيحكي عن مارتي بيرد وهو بيغسل فلوس في منطقة أوزارك."
+},
+{
+"id": "SER-020-033",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actress starred in the drama series 'Taht El Wesaya' about guardianship of an inheritance?",
+"question_ar": "مين بطلة مسلسل تحت الوصاية؟",
+"options": [
+{
+"en": "Yousra",
+"ar": "يسرا"
+},
+{
+"en": "Menna Shalaby",
+"ar": "منة شلبي"
+},
+{
+"en": "Ghada Abdel Razek",
+"ar": "غادة عبد الرازق"
+},
+{
+"en": "Nelly Karim",
+"ar": "نيللي كريم"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Yousra starred in 'Taht El Wesaya'.",
+"explanation_ar": "يسرا بطلة مسلسل تحت الوصاية."
+},
+{
+"id": "SER-020-034",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "In 'Breaking Bad', what is the name of Gus Fring's fried chicken restaurant chain used as a front?",
+"question_ar": "إيه اسم سلسلة مطاعم الفراخ اللي بيستخدمها جاس فرينج كواجهة؟",
+"options": [
+{
+"en": "El Pollo Loco",
+"ar": "إل بويو لوكو"
+},
+{
+"en": "KFC",
+"ar": "كنتاكي"
+},
+{
+"en": "Los Pollos Hermanos",
+"ar": "لوس بويوس هيرمانوس"
+},
+{
+"en": "Chicken Bros",
+"ar": "تشيكن بروز"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "'Los Pollos Hermanos' is Gus Fring's front business.",
+"explanation_ar": "لوس بويوس هيرمانوس هي واجهة جاس فرينج."
+},
+{
+"id": "SER-020-035",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actor famously played 'Yehia' the wandering wise man in the hit series 'Wenis'?",
+"question_ar": "مين بطل مسلسل ونيس؟",
+"options": [
+{
+"en": "Yehia El Fakharany",
+"ar": "يحيى الفخراني"
+},
+{
+"en": "Salah El Saadany",
+"ar": "صلاح السعدني"
+},
+{
+"en": "Nour El Sherif",
+"ar": "نور الشريف"
+},
+{
+"en": "Mahmoud Abdel Aziz",
+"ar": "محمود عبد العزيز"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Yehia El Fakharany starred as the beloved character 'Wenis'.",
+"explanation_ar": "يحيى الفخراني مثل شخصية ونيس المحبوبة."
+},
+{
+"id": "SER-020-036",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which show follows detectives investigating a serial killer called 'BTK' inspired case, with agents profiling criminals?",
+"question_ar": "إيه اسم مسلسل عملاء الاف بي آي بيعملوا بروفايل نفسي للمجرمين؟",
+"options": [
+{
+"en": "Criminal Minds",
+"ar": "كريمينال مايندز"
+},
+{
+"en": "Mindhunter",
+"ar": "مايند هنتر"
+},
+{
+"en": "Dexter",
+"ar": "دكستر"
+},
+{
+"en": "True Detective",
+"ar": "ترو ديتيكتيف"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "'Mindhunter' follows FBI agents developing criminal profiling in the 1970s.",
+"explanation_ar": "مايند هنتر بيحكي عن عملاء إف بي آي بيطوروا علم البروفايل الجنائي."
+},
+{
+"id": "SER-020-037",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actress played the lead in 'Awlad El Ghalaba' as a mother raising kids alone?",
+"question_ar": "مين بطلة مسلسل أولاد الغلابة؟",
+"options": [
+{
+"en": "Yousra",
+"ar": "يسرا"
+},
+{
+"en": "Nelly Karim",
+"ar": "نيللي كريم"
+},
+{
+"en": "Ghada Abdel Razek",
+"ar": "غادة عبد الرازق"
+},
+{
+"en": "Elham Shahin",
+"ar": "إلهام شاهين"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "Yousra starred in 'Awlad El Ghalaba'.",
+"explanation_ar": "يسرا بطلة مسلسل أولاد الغلابة."
+},
+{
+"id": "SER-020-038",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which show is about a group of teenagers in a coastal Spanish town solving 'Who Killed Sara'?",
+"question_ar": "إيه اسم المسلسل المكسيكي عن لغز مين قتل سارة؟",
+"options": [
+{
+"en": "Who Killed Sara?",
+"ar": "هو قتل سارة"
+},
+{
+"en": "Elite",
+"ar": "إيليت"
+},
+{
+"en": "Money Heist",
+"ar": "لعبة النقود"
+},
+{
+"en": "Dark Desire",
+"ar": "دارك ديزاير"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "'Who Killed Sara?' is a Mexican mystery-thriller series.",
+"explanation_ar": "هو قتل سارة مسلسل غموض مكسيكي."
+},
+{
+"id": "SER-020-039",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actor is known for playing 'Am Hassan' or old-fashioned patriarch roles alongside Sanaa Younes as his wife in comedy shows?",
+"question_ar": "مين شريك سناء يونس اللي اشتهر بأدوار الأب التقليدي؟",
+"options": [
+{
+"en": "El Sebki",
+"ar": "السبكي"
+},
+{
+"en": "Fouad El Mohandes",
+"ar": "فؤاد المهندس"
+},
+{
+"en": "George Sedhom",
+"ar": "جورج سيدهم"
+},
+{
+"en": "Samir Ghanem",
+"ar": "سمير غانم"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Samir Ghanem and Sanaa Younes were a well-known screen couple.",
+"explanation_ar": "سمير غانم وسناء يونس كانوا ثنائي معروف على الشاشة."
+},
+{
+"id": "SER-020-040",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "In 'Peaky Blinders', which city and country is the Shelby family gang based in?",
+"question_ar": "عيلة شيلبي بتشتغل في أنهي مدينة في بيكي بلايندرز؟",
+"options": [
+{
+"en": "London, England",
+"ar": "لندن، إنجلترا"
+},
+{
+"en": "Dublin, Ireland",
+"ar": "دبلن، أيرلندا"
+},
+{
+"en": "Manchester, England",
+"ar": "مانشستر، إنجلترا"
+},
+{
+"en": "Birmingham, England",
+"ar": "برمنجهام، إنجلترا"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "The Shelby gang operates out of Birmingham.",
+"explanation_ar": "عيلة شيلبي بتشتغل من برمنجهام."
+},
+{
+"id": "SER-020-041",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actress starred as 'Nadia' in the series 'El Rehla' about a journey of self-discovery?",
+"question_ar": "مين بطلة مسلسل الرحلة؟",
+"options": [
+{
+"en": "Amina Khalil",
+"ar": "أمينة خليل"
+},
+{
+"en": "Menna Shalaby",
+"ar": "منة شلبي"
+},
+{
+"en": "Yasmine Sabry",
+"ar": "ياسمين صبري"
+},
+{
+"en": "Hend Sabry",
+"ar": "هند صبري"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Hend Sabry starred in 'El Rehla'.",
+"explanation_ar": "هند صبري بطلة مسلسل الرحلة."
+},
+{
+"id": "SER-020-042",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which show follows time-travel mystery in a small German town called Winden?",
+"question_ar": "إيه اسم المسلسل الألماني عن السفر عبر الزمن في بلدة اسمها فيندن؟",
+"options": [
+{
+"en": "Money Heist",
+"ar": "لعبة النقود"
+},
+{
+"en": "Dark",
+"ar": "دارك"
+},
+{
+"en": "The OA",
+"ar": "ذا أو إيه"
+},
+{
+"en": "1899",
+"ar": "1899"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "'Dark' is set in the fictional German town of Winden.",
+"explanation_ar": "دارك بتدور أحداثه في بلدة فيندن الألمانية الخيالية."
+},
+{
+"id": "SER-020-043",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actor is famous for the role of 'Yousry' in 'Al Kabeer Awy' comedy sketches?",
+"question_ar": "مين شارك عادل إمام كممثل داعم في مسلسل الكبير أوي؟",
+"options": [
+{
+"en": "Mohamed Sobhy",
+"ar": "محمد صبحي"
+},
+{
+"en": "Hassan Hosny",
+"ar": "حسن حسني"
+},
+{
+"en": "Salah Abdallah",
+"ar": "صلاح عبدالله"
+},
+{
+"en": "Ahmed Rateb",
+"ar": "أحمد راتب"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Ahmed Rateb frequently co-starred with Adel Emam in 'El Kabeer Awy'.",
+"explanation_ar": "أحمد راتب شارك عادل إمام كتير في مسلسل الكبير أوي."
+},
+{
+"id": "SER-020-044",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "In 'Stranger Things', what is the name of the alternate dark dimension?",
+"question_ar": "إيه اسم البعد المظلم الموازي في سترينجر ثينجز؟",
+"options": [
+{
+"en": "The Upside Down",
+"ar": "ذا أب سايد داون"
+},
+{
+"en": "The Nether",
+"ar": "ذا نيذر"
+},
+{
+"en": "The Void",
+"ar": "ذا فويد"
+},
+{
+"en": "The Shadow Realm",
+"ar": "ذا شادو ريلم"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "'The Upside Down' is the parallel dark dimension.",
+"explanation_ar": "ذا أب سايد داون هو البعد المظلم الموازي."
+},
+{
+"id": "SER-020-045",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actress played the strong-willed businesswoman lead in 'El Sayeda El Oula' (First Lady)?",
+"question_ar": "مين بطلة مسلسل السيدة الأولى؟",
+"options": [
+{
+"en": "Ghada Abdel Razek",
+"ar": "غادة عبد الرازق"
+},
+{
+"en": "Elham Shahin",
+"ar": "إلهام شاهين"
+},
+{
+"en": "Nelly Karim",
+"ar": "نيللي كريم"
+},
+{
+"en": "Yousra",
+"ar": "يسرا"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Yousra starred as the lead in 'El Sayeda El Oula'.",
+"explanation_ar": "يسرا بطلة مسلسل السيدة الأولى."
+},
+{
+"id": "SER-020-046",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which show is about the Byrde family relocating to the Missouri Ozarks to launder cartel money?",
+"question_ar": "عيلة بيرد بتنقل لمنطقة أوزارك في ميزوري ليه في المسلسل؟",
+"options": [
+{
+"en": "To launder cartel money",
+"ar": "عشان تغسل فلوس عصابة مخدرات"
+},
+{
+"en": "For a new job",
+"ar": "شغلانة جديدة"
+},
+{
+"en": "To hide from police",
+"ar": "يهربوا من البوليس"
+},
+{
+"en": "Family inheritance",
+"ar": "ميراث عيلة"
+}
+],
+"correctAnswer": 0,
+"explanation_en": "They move to launder money for a Mexican cartel.",
+"explanation_ar": "بينقلوا عشان يغسلوا فلوس لعصابة مكسيكية."
+},
+{
+"id": "SER-020-047",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actor starred as the lead detective in 'El Aar' (The Shame/Disgrace)?",
+"question_ar": "مين بطل مسلسل العار؟",
+"options": [
+{
+"en": "Amir Karara",
+"ar": "أمير كرارة"
+},
+{
+"en": "Asser Yassin",
+"ar": "آسر ياسين"
+},
+{
+"en": "Ahmed El Sakka",
+"ar": "أحمد السقا"
+},
+{
+"en": "Karim Abdel Aziz",
+"ar": "كريم عبد العزيز"
+}
+],
+"correctAnswer": 2,
+"explanation_en": "Ahmed El Sakka starred in 'El Aar'.",
+"explanation_ar": "أحمد السقا بطل مسلسل العار."
+},
+{
+"id": "SER-020-048",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "In 'The Witcher', what is the profession of the main character Geralt of Rivia?",
+"question_ar": "إيه مهنة چيرالت أوف ريفيا بطل ذا ويتشر؟",
+"options": [
+{
+"en": "Wizard",
+"ar": "ساحر"
+},
+{
+"en": "Monster hunter",
+"ar": "صياد وحوش"
+},
+{
+"en": "Knight",
+"ar": "فارس"
+},
+{
+"en": "Soldier",
+"ar": "جندي"
+}
+],
+"correctAnswer": 1,
+"explanation_en": "Geralt is a professional monster hunter known as a Witcher.",
+"explanation_ar": "چيرالت صياد وحوش محترف بيسموه ويتشر."
+},
+{
+"id": "SER-020-049",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which Egyptian actress starred in the series 'Harb Ahleya' (Civil War) about family conflict?",
+"question_ar": "مين بطلة مسلسل حرب أهلية؟",
+"options": [
+{
+"en": "Menna Shalaby",
+"ar": "منة شلبي"
+},
+{
+"en": "Nelly Karim",
+"ar": "نيللي كريم"
+},
+{
+"en": "Ghada Abdel Razek",
+"ar": "غادة عبد الرازق"
+},
+{
+"en": "Yousra",
+"ar": "يسرا"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "Yousra starred in 'Harb Ahleya'.",
+"explanation_ar": "يسرا بطلة مسلسل حرب أهلية."
+},
+{
+"id": "SER-020-050",
+"category": "Series",
+"category_ar": "مسلسلات",
+"value": 20,
+"difficulty": 2,
+"question_en": "Which show features assassin Villanelle being chased by MI6 agent Eve Polastri?",
+"question_ar": "إيه اسم المسلسل عن القاتلة فيلانيل وعميلة الاستخبارات إيف بولاستري؟",
+"options": [
+{
+"en": "The Americans",
+"ar": "ذا أمريكانز"
+},
+{
+"en": "Alias",
+"ar": "أليياس"
+},
+{
+"en": "You",
+"ar": "يو"
+},
+{
+"en": "Killing Eve",
+"ar": "كيلينج إيف"
+}
+],
+"correctAnswer": 3,
+"explanation_en": "'Killing Eve' follows Eve's pursuit of assassin Villanelle.",
+"explanation_ar": "كيلينج إيف بيحكي عن مطاردة إيف للقاتلة فيلانيل."
+}
+]

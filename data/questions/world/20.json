@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "WLD-020-001",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of Egypt?",
+    "question_ar": "إيه عملة مصر؟",
+    "options": [
+      {
+        "en": "Egyptian Pound",
+        "ar": "الجنيه المصري"
+      },
+      {
+        "en": "Egyptian Dinar",
+        "ar": "الدينار المصري"
+      },
+      {
+        "en": "Egyptian Riyal",
+        "ar": "الريال المصري"
+      },
+      {
+        "en": "Egyptian Dirham",
+        "ar": "الدرهم المصري"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Egyptian Pound (Genêh) is Egypt's official currency.",
+    "explanation_ar": "الجنيه المصري هو عملة مصر الرسمية."
+  },
+  {
+    "id": "WLD-020-002",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of Saudi Arabia?",
+    "question_ar": "إيه عملة السعودية؟",
+    "options": [
+      {
+        "en": "Dinar",
+        "ar": "دينار"
+      },
+      {
+        "en": "Riyal",
+        "ar": "ريال"
+      },
+      {
+        "en": "Dirham",
+        "ar": "درهم"
+      },
+      {
+        "en": "Pound",
+        "ar": "جنيه"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Saudi Riyal is the official currency of Saudi Arabia.",
+    "explanation_ar": "الريال السعودي هو عملة السعودية الرسمية."
+  },
+  {
+    "id": "WLD-020-003",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of the UAE?",
+    "question_ar": "إيه عملة الإمارات؟",
+    "options": [
+      {
+        "en": "Riyal",
+        "ar": "ريال"
+      },
+      {
+        "en": "Dinar",
+        "ar": "دينار"
+      },
+      {
+        "en": "Dirham",
+        "ar": "درهم"
+      },
+      {
+        "en": "Rial",
+        "ar": "ريال عماني"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The UAE Dirham is the official currency of the United Arab Emirates.",
+    "explanation_ar": "الدرهم الإماراتي هو عملة دولة الإمارات."
+  },
+  {
+    "id": "WLD-020-004",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of Kuwait?",
+    "question_ar": "إيه عملة الكويت؟",
+    "options": [
+      {
+        "en": "Kuwaiti Dinar",
+        "ar": "الدينار الكويتي"
+      },
+      {
+        "en": "Kuwaiti Riyal",
+        "ar": "الريال الكويتي"
+      },
+      {
+        "en": "Kuwaiti Dirham",
+        "ar": "الدرهم الكويتي"
+      },
+      {
+        "en": "Kuwaiti Pound",
+        "ar": "الجنيه الكويتي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Kuwaiti Dinar is one of the highest-valued currencies in the world.",
+    "explanation_ar": "الدينار الكويتي من أعلى العملات قيمة في العالم."
+  },
+  {
+    "id": "WLD-020-005",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of Qatar?",
+    "question_ar": "إيه عملة قطر؟",
+    "options": [
+      {
+        "en": "Dirham",
+        "ar": "درهم"
+      },
+      {
+        "en": "Dinar",
+        "ar": "دينار"
+      },
+      {
+        "en": "Rial",
+        "ar": "ريال عماني"
+      },
+      {
+        "en": "Riyal",
+        "ar": "ريال"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The Qatari Riyal is Qatar's official currency.",
+    "explanation_ar": "الريال القطري هو عملة قطر الرسمية."
+  },
+  {
+    "id": "WLD-020-006",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of Morocco?",
+    "question_ar": "إيه عملة المغرب؟",
+    "options": [
+      {
+        "en": "Moroccan Dirham",
+        "ar": "الدرهم المغربي"
+      },
+      {
+        "en": "Moroccan Dinar",
+        "ar": "الدينار المغربي"
+      },
+      {
+        "en": "Moroccan Riyal",
+        "ar": "الريال المغربي"
+      },
+      {
+        "en": "Moroccan Franc",
+        "ar": "الفرنك المغربي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Moroccan Dirham is Morocco's official currency.",
+    "explanation_ar": "الدرهم المغربي هو عملة المغرب الرسمية."
+  },
+  {
+    "id": "WLD-020-007",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of Jordan?",
+    "question_ar": "إيه عملة الأردن؟",
+    "options": [
+      {
+        "en": "Jordanian Pound",
+        "ar": "الجنيه الأردني"
+      },
+      {
+        "en": "Jordanian Dinar",
+        "ar": "الدينار الأردني"
+      },
+      {
+        "en": "Jordanian Riyal",
+        "ar": "الريال الأردني"
+      },
+      {
+        "en": "Jordanian Dirham",
+        "ar": "الدرهم الأردني"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Jordanian Dinar is Jordan's official currency.",
+    "explanation_ar": "الدينار الأردني هو عملة الأردن الرسمية."
+  },
+  {
+    "id": "WLD-020-008",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of Lebanon?",
+    "question_ar": "إيه عملة لبنان؟",
+    "options": [
+      {
+        "en": "Lebanese Dinar",
+        "ar": "الدينار اللبناني"
+      },
+      {
+        "en": "Lebanese Riyal",
+        "ar": "الريال اللبناني"
+      },
+      {
+        "en": "Lebanese Pound",
+        "ar": "الليرة اللبنانية"
+      },
+      {
+        "en": "Lebanese Dirham",
+        "ar": "الدرهم اللبناني"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Lebanese Pound (Lira) is Lebanon's official currency.",
+    "explanation_ar": "الليرة اللبنانية هي عملة لبنان الرسمية."
+  },
+  {
+    "id": "WLD-020-009",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of Bahrain?",
+    "question_ar": "إيه عملة البحرين؟",
+    "options": [
+      {
+        "en": "Bahraini Dinar",
+        "ar": "الدينار البحريني"
+      },
+      {
+        "en": "Bahraini Riyal",
+        "ar": "الريال البحريني"
+      },
+      {
+        "en": "Bahraini Dirham",
+        "ar": "الدرهم البحريني"
+      },
+      {
+        "en": "Bahraini Pound",
+        "ar": "الجنيه البحريني"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Bahraini Dinar is Bahrain's official currency.",
+    "explanation_ar": "الدينار البحريني هو عملة البحرين الرسمية."
+  },
+  {
+    "id": "WLD-020-010",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of Oman?",
+    "question_ar": "إيه عملة عُمان؟",
+    "options": [
+      {
+        "en": "Omani Dinar",
+        "ar": "الدينار العماني"
+      },
+      {
+        "en": "Omani Dirham",
+        "ar": "الدرهم العماني"
+      },
+      {
+        "en": "Omani Rial",
+        "ar": "الريال العماني"
+      },
+      {
+        "en": "Omani Pound",
+        "ar": "الجنيه العماني"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Omani Rial is Oman's official currency.",
+    "explanation_ar": "الريال العماني هو عملة عُمان الرسمية."
+  },
+  {
+    "id": "WLD-020-011",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Sheikh Zayed Grand Mosque is located in which city?",
+    "question_ar": "جامع الشيخ زايد الكبير موجود في أنهي مدينة؟",
+    "options": [
+      {
+        "en": "Dubai",
+        "ar": "دبي"
+      },
+      {
+        "en": "Sharjah",
+        "ar": "الشارقة"
+      },
+      {
+        "en": "Doha",
+        "ar": "الدوحة"
+      },
+      {
+        "en": "Abu Dhabi",
+        "ar": "أبوظبي"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The Sheikh Zayed Grand Mosque is one of Abu Dhabi's most famous landmarks.",
+    "explanation_ar": "جامع الشيخ زايد الكبير من أشهر معالم أبوظبي."
+  },
+  {
+    "id": "WLD-020-012",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Burj Al Arab hotel is located in which city?",
+    "question_ar": "فندق برج العرب موجود في أنهي مدينة؟",
+    "options": [
+      {
+        "en": "Abu Dhabi",
+        "ar": "أبوظبي"
+      },
+      {
+        "en": "Doha",
+        "ar": "الدوحة"
+      },
+      {
+        "en": "Dubai",
+        "ar": "دبي"
+      },
+      {
+        "en": "Manama",
+        "ar": "المنامة"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The sail-shaped Burj Al Arab is a landmark hotel in Dubai.",
+    "explanation_ar": "فندق برج العرب اللي شكله شراع من أهم معالم دبي."
+  },
+  {
+    "id": "WLD-020-013",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Palm Jumeirah, the famous man-made palm-shaped island, is in which country?",
+    "question_ar": "جزيرة نخلة جميرا الصناعية موجودة في أنهي بلد؟",
+    "options": [
+      {
+        "en": "UAE",
+        "ar": "الإمارات"
+      },
+      {
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
+      },
+      {
+        "en": "Qatar",
+        "ar": "قطر"
+      },
+      {
+        "en": "Bahrain",
+        "ar": "البحرين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Palm Jumeirah is a man-made island off the coast of Dubai, UAE.",
+    "explanation_ar": "نخلة جميرا جزيرة صناعية قبالة سواحل دبي في الإمارات."
+  },
+  {
+    "id": "WLD-020-014",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The ancient rock-carved city of Petra is located in which country?",
+    "question_ar": "مدينة البتراء المنحوتة في الصخر موجودة في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
+      },
+      {
+        "en": "Lebanon",
+        "ar": "لبنان"
+      },
+      {
+        "en": "Syria",
+        "ar": "سوريا"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Petra is a UNESCO World Heritage Site in southern Jordan.",
+    "explanation_ar": "البتراء موقع تراث عالمي موجود في جنوب الأردن."
+  },
+  {
+    "id": "WLD-020-015",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Wadi Rum, a famous desert valley known for its red sand, is located in which country?",
+    "question_ar": "وادي رم، الوادي الصحراوي المشهور برماله الحمرا، موجود في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
+      },
+      {
+        "en": "Jordan",
+        "ar": "الأردن"
+      },
+      {
+        "en": "Oman",
+        "ar": "عُمان"
+      },
+      {
+        "en": "Yemen",
+        "ar": "اليمن"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Wadi Rum is a famous desert valley in southern Jordan.",
+    "explanation_ar": "وادي رم واد صحراوي شهير في جنوب الأردن."
+  },
+  {
+    "id": "WLD-020-016",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Chefchaouen, the city famous for its blue-painted streets, is in which country?",
+    "question_ar": "شفشاون، المدينة الشهيرة بشوارعها الزرقا، موجودة في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Tunisia",
+        "ar": "تونس"
+      },
+      {
+        "en": "Morocco",
+        "ar": "المغرب"
+      },
+      {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Chefchaouen is a mountain town in northern Morocco known for its blue buildings.",
+    "explanation_ar": "شفشاون مدينة جبلية في شمال المغرب مشهورة ببيوتها الزرقا."
+  },
+  {
+    "id": "WLD-020-017",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The ancient ruins of Carthage are located in which country?",
+    "question_ar": "آثار قرطاج القديمة موجودة في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Tunisia",
+        "ar": "تونس"
+      },
+      {
+        "en": "Libya",
+        "ar": "ليبيا"
+      },
+      {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      },
+      {
+        "en": "Morocco",
+        "ar": "المغرب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Carthage, an ancient Phoenician city, was located near modern-day Tunis, Tunisia.",
+    "explanation_ar": "قرطاج مدينة فينيقية قديمة موجودة قرب تونس العاصمة."
+  },
+  {
+    "id": "WLD-020-018",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Kuwait Towers are a famous landmark of which country?",
+    "question_ar": "أبراج الكويت من أهم معالم أنهي دولة؟",
+    "options": [
+      {
+        "en": "Kuwait",
+        "ar": "الكويت"
+      },
+      {
+        "en": "Qatar",
+        "ar": "قطر"
+      },
+      {
+        "en": "Bahrain",
+        "ar": "البحرين"
+      },
+      {
+        "en": "UAE",
+        "ar": "الإمارات"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Kuwait Towers overlook the Gulf in Kuwait City.",
+    "explanation_ar": "أبراج الكويت بتطل على الخليج في مدينة الكويت."
+  },
+  {
+    "id": "WLD-020-019",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Museum of Islamic Art is a famous landmark in which city?",
+    "question_ar": "متحف الفن الإسلامي من أهم المعالم في أنهي مدينة؟",
+    "options": [
+      {
+        "en": "Doha",
+        "ar": "الدوحة"
+      },
+      {
+        "en": "Abu Dhabi",
+        "ar": "أبوظبي"
+      },
+      {
+        "en": "Manama",
+        "ar": "المنامة"
+      },
+      {
+        "en": "Muscat",
+        "ar": "مسقط"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Museum of Islamic Art sits on Doha's waterfront in Qatar.",
+    "explanation_ar": "متحف الفن الإسلامي موجود على كورنيش الدوحة في قطر."
+  },
+  {
+    "id": "WLD-020-020",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Nizwa Fort, one of the most visited landmarks in the Gulf, is located in which country?",
+    "question_ar": "قلعة نزوى، من أكتر المعالم اللي بتتزار في الخليج، موجودة في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Oman",
+        "ar": "عُمان"
+      },
+      {
+        "en": "Yemen",
+        "ar": "اليمن"
+      },
+      {
+        "en": "UAE",
+        "ar": "الإمارات"
+      },
+      {
+        "en": "Bahrain",
+        "ar": "البحرين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Nizwa Fort is a historic fortress in Oman.",
+    "explanation_ar": "قلعة نزوى حصن تاريخي موجود في عُمان."
+  },
+  {
+    "id": "WLD-020-021",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the Dead Sea famous for?",
+    "question_ar": "إيه اللي بيميز البحر الميت؟",
+    "options": [
+      {
+        "en": "Strongest ocean currents",
+        "ar": "أقوى تيارات محيطية"
+      },
+      {
+        "en": "Being the lowest point on Earth's land surface",
+        "ar": "إنه أخفض نقطة على سطح الأرض"
+      },
+      {
+        "en": "Never freezing in winter",
+        "ar": "إنه ما بيتجمدش أبدًا في الشتا"
+      },
+      {
+        "en": "Having the tallest waves",
+        "ar": "إن فيه أعلى موجات"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Dead Sea's shore is the lowest point on Earth's land surface, and its water is extremely salty.",
+    "explanation_ar": "شاطئ البحر الميت هو أخفض نقطة على سطح الأرض، ومياهه مالحة جدًا."
+  },
+  {
+    "id": "WLD-020-022",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Karnak Temple complex, one of Egypt's largest ancient sites, is located in which city?",
+    "question_ar": "معبد الكرنك، من أكبر المواقع الأثرية في مصر، موجود في أنهي مدينة؟",
+    "options": [
+      {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      {
+        "en": "Giza",
+        "ar": "الجيزة"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Karnak Temple complex is located in Luxor, Egypt.",
+    "explanation_ar": "معبد الكرنك موجود في مدينة الأقصر بمصر."
+  },
+  {
+    "id": "WLD-020-023",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The ancient Lighthouse of Alexandria, one of the Seven Wonders of the Ancient World, stood in which country?",
+    "question_ar": "منارة الإسكندرية، إحدى عجائب الدنيا السبع القديمة، كانت موجودة في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Greece",
+        "ar": "اليونان"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Turkey",
+        "ar": "تركيا"
+      },
+      {
+        "en": "Lebanon",
+        "ar": "لبنان"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Lighthouse of Alexandria stood on the coast of Egypt for centuries.",
+    "explanation_ar": "منارة الإسكندرية فضلت واقفة على ساحل مصر لمئات السنين."
+  },
+  {
+    "id": "WLD-020-024",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Statue of Liberty was a gift to the USA from which country?",
+    "question_ar": "تمثال الحرية كان هدية لأمريكا من أنهي بلد؟",
+    "options": [
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "UK",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "France gave the Statue of Liberty to the USA in 1886.",
+    "explanation_ar": "فرنسا أهدت تمثال الحرية لأمريكا سنة 1886."
+  },
+  {
+    "id": "WLD-020-025",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Christ the Redeemer statue overlooks which country's coastline?",
+    "question_ar": "تمثال المسيح الفادي بيطل على ساحل أنهي بلد؟",
+    "options": [
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Chile",
+        "ar": "تشيلي"
+      },
+      {
+        "en": "Peru",
+        "ar": "بيرو"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Christ the Redeemer stands atop a mountain in Rio de Janeiro, Brazil.",
+    "explanation_ar": "تمثال المسيح الفادي واقف فوق جبل في ريو دي جانيرو بالبرازيل."
+  },
+  {
+    "id": "WLD-020-026",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Machu Picchu, the famous ancient Incan city, is located in which country?",
+    "question_ar": "ماتشو بيتشو، المدينة الإنكية القديمة الشهيرة، موجودة في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Peru",
+        "ar": "بيرو"
+      },
+      {
+        "en": "Chile",
+        "ar": "تشيلي"
+      },
+      {
+        "en": "Bolivia",
+        "ar": "بوليفيا"
+      },
+      {
+        "en": "Ecuador",
+        "ar": "الإكوادور"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Machu Picchu is a mountaintop Incan citadel in Peru.",
+    "explanation_ar": "ماتشو بيتشو قلعة إنكية فوق جبل موجودة في بيرو."
+  },
+  {
+    "id": "WLD-020-027",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Sydney Opera House is located in which country?",
+    "question_ar": "أوبرا سيدني موجودة في أنهي بلد؟",
+    "options": [
+      {
+        "en": "New Zealand",
+        "ar": "نيوزيلندا"
+      },
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      },
+      {
+        "en": "UK",
+        "ar": "بريطانيا"
+      },
+      {
+        "en": "South Africa",
+        "ar": "جنوب أفريقيا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Sydney Opera House is one of Australia's most iconic buildings.",
+    "explanation_ar": "أوبرا سيدني من أشهر المباني في أستراليا."
+  },
+  {
+    "id": "WLD-020-028",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Leaning Tower is a famous landmark in which Italian city?",
+    "question_ar": "البرج المائل من أشهر معالم أنهي مدينة إيطالية؟",
+    "options": [
+      {
+        "en": "Rome",
+        "ar": "روما"
+      },
+      {
+        "en": "Venice",
+        "ar": "البندقية"
+      },
+      {
+        "en": "Pisa",
+        "ar": "بيزا"
+      },
+      {
+        "en": "Milan",
+        "ar": "ميلانو"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Leaning Tower of Pisa is located in the city of Pisa, Italy.",
+    "explanation_ar": "برج بيزا المائل موجود في مدينة بيزا الإيطالية."
+  },
+  {
+    "id": "WLD-020-029",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Niagara Falls lies on the border between the USA and which other country?",
+    "question_ar": "شلالات نياجرا موجودة على الحدود بين أمريكا وأنهي دولة تانية؟",
+    "options": [
+      {
+        "en": "Mexico",
+        "ar": "المكسيك"
+      },
+      {
+        "en": "Canada",
+        "ar": "كندا"
+      },
+      {
+        "en": "Cuba",
+        "ar": "كوبا"
+      },
+      {
+        "en": "Greenland",
+        "ar": "جرينلاند"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Niagara Falls straddles the border between the USA and Canada.",
+    "explanation_ar": "شلالات نياجرا موجودة على الحدود بين أمريكا وكندا."
+  },
+  {
+    "id": "WLD-020-030",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Blue Mosque and Hagia Sophia are both located in which city?",
+    "question_ar": "الجامع الأزرق وآيا صوفيا موجودين في أنهي مدينة؟",
+    "options": [
+      {
+        "en": "Istanbul",
+        "ar": "إسطنبول"
+      },
+      {
+        "en": "Ankara",
+        "ar": "أنقرة"
+      },
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      {
+        "en": "Athens",
+        "ar": "أثينا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Both the Blue Mosque and Hagia Sophia stand in Istanbul, Turkey.",
+    "explanation_ar": "الجامع الأزرق وآيا صوفيا موجودين في إسطنبول بتركيا."
+  },
+  {
+    "id": "WLD-020-031",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Alhambra, a famous palace and fortress, is located in which country?",
+    "question_ar": "قصر الحمراء، القصر والحصن الشهير، موجود في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Portugal",
+        "ar": "البرتغال"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      {
+        "en": "Morocco",
+        "ar": "المغرب"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Alhambra is a Moorish palace complex in Granada, Spain.",
+    "explanation_ar": "قصر الحمراء قصر أندلسي موجود في غرناطة بإسبانيا."
+  },
+  {
+    "id": "WLD-020-032",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Mount Fuji, Japan's highest peak, is located near which Japanese city?",
+    "question_ar": "جبل فوجي، أعلى قمة في اليابان، قريب من أنهي مدينة يابانية؟",
+    "options": [
+      {
+        "en": "Tokyo",
+        "ar": "طوكيو"
+      },
+      {
+        "en": "Osaka",
+        "ar": "أوساكا"
+      },
+      {
+        "en": "Kyoto",
+        "ar": "كيوتو"
+      },
+      {
+        "en": "Sapporo",
+        "ar": "سابورو"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mount Fuji is visible from Tokyo on a clear day.",
+    "explanation_ar": "جبل فوجي بيتشاف من طوكيو لما الجو يكون صافي."
+  },
+  {
+    "id": "WLD-020-033",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Golden Gate Bridge is a famous landmark in which US city?",
+    "question_ar": "جسر البوابة الذهبية من أشهر معالم أنهي مدينة أمريكية؟",
+    "options": [
+      {
+        "en": "Los Angeles",
+        "ar": "لوس أنجلوس"
+      },
+      {
+        "en": "San Francisco",
+        "ar": "سان فرانسيسكو"
+      },
+      {
+        "en": "Seattle",
+        "ar": "سياتل"
+      },
+      {
+        "en": "San Diego",
+        "ar": "سان دييجو"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Golden Gate Bridge spans the entrance to San Francisco Bay.",
+    "explanation_ar": "جسر البوابة الذهبية بيعدي على مدخل خليج سان فرانسيسكو."
+  },
+  {
+    "id": "WLD-020-034",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Kremlin, a famous fortified complex, is located in which city?",
+    "question_ar": "الكرملين، المجمع المحصّن الشهير، موجود في أنهي مدينة؟",
+    "options": [
+      {
+        "en": "St. Petersburg",
+        "ar": "سان بطرسبرج"
+      },
+      {
+        "en": "Moscow",
+        "ar": "موسكو"
+      },
+      {
+        "en": "Kyiv",
+        "ar": "كييف"
+      },
+      {
+        "en": "Warsaw",
+        "ar": "وارسو"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Kremlin is located in the heart of Moscow, Russia.",
+    "explanation_ar": "الكرملين موجود في قلب مدينة موسكو الروسية."
+  },
+  {
+    "id": "WLD-020-035",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Acropolis, home to the Parthenon, overlooks which city?",
+    "question_ar": "الأكروبوليس، اللي فيه معبد البارثينون، بيطل على أنهي مدينة؟",
+    "options": [
+      {
+        "en": "Athens",
+        "ar": "أثينا"
+      },
+      {
+        "en": "Rome",
+        "ar": "روما"
+      },
+      {
+        "en": "Sparta",
+        "ar": "إسبرطة"
+      },
+      {
+        "en": "Thessaloniki",
+        "ar": "سالونيك"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Acropolis is a hilltop citadel overlooking Athens, Greece.",
+    "explanation_ar": "الأكروبوليس قلعة فوق تل بتطل على مدينة أثينا اليونانية."
+  },
+  {
+    "id": "WLD-020-036",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Angkor Wat, a massive temple complex, is located in which country?",
+    "question_ar": "أنكور وات، مجمع المعابد الضخم، موجود في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Thailand",
+        "ar": "تايلاند"
+      },
+      {
+        "en": "Vietnam",
+        "ar": "فيتنام"
+      },
+      {
+        "en": "Cambodia",
+        "ar": "كمبوديا"
+      },
+      {
+        "en": "Laos",
+        "ar": "لاوس"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Angkor Wat is the largest religious monument in the world, located in Cambodia.",
+    "explanation_ar": "أنكور وات أكبر مبنى ديني في العالم، وموجود في كمبوديا."
+  },
+  {
+    "id": "WLD-020-037",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Table Mountain, a famous flat-topped mountain, overlooks which city?",
+    "question_ar": "جبل الطاولة، الجبل المسطح الشهير، بيطل على أنهي مدينة؟",
+    "options": [
+      {
+        "en": "Nairobi",
+        "ar": "نيروبي"
+      },
+      {
+        "en": "Cape Town",
+        "ar": "كيب تاون"
+      },
+      {
+        "en": "Johannesburg",
+        "ar": "جوهانسبرج"
+      },
+      {
+        "en": "Lagos",
+        "ar": "لاجوس"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Table Mountain overlooks the city of Cape Town, South Africa.",
+    "explanation_ar": "جبل الطاولة بيطل على مدينة كيب تاون في جنوب أفريقيا."
+  },
+  {
+    "id": "WLD-020-038",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Victoria Falls lies on the border between Zambia and which other country?",
+    "question_ar": "شلالات فيكتوريا موجودة على الحدود بين زامبيا وأنهي دولة تانية؟",
+    "options": [
+      {
+        "en": "Zimbabwe",
+        "ar": "زيمبابوي"
+      },
+      {
+        "en": "Botswana",
+        "ar": "بوتسوانا"
+      },
+      {
+        "en": "Namibia",
+        "ar": "ناميبيا"
+      },
+      {
+        "en": "Malawi",
+        "ar": "مالاوي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Victoria Falls straddles the border between Zambia and Zimbabwe.",
+    "explanation_ar": "شلالات فيكتوريا موجودة على الحدود بين زامبيا وزيمبابوي."
+  },
+  {
+    "id": "WLD-020-039",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Uluru (Ayers Rock), a giant sandstone rock formation, is a famous landmark in which country?",
+    "question_ar": "أولورو (صخرة آيرز)، التكوين الصخري العملاق، من أشهر معالم أنهي بلد؟",
+    "options": [
+      {
+        "en": "New Zealand",
+        "ar": "نيوزيلندا"
+      },
+      {
+        "en": "South Africa",
+        "ar": "جنوب أفريقيا"
+      },
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      },
+      {
+        "en": "Namibia",
+        "ar": "ناميبيا"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Uluru is a massive sandstone rock formation in central Australia.",
+    "explanation_ar": "أولورو تكوين صخري ضخم موجود في وسط أستراليا."
+  },
+  {
+    "id": "WLD-020-040",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Mount Kilimanjaro, Africa's highest peak, is located in which country?",
+    "question_ar": "جبل كليمنجارو، أعلى قمة في أفريقيا، موجود في أنهي بلد؟",
+    "options": [
+      {
+        "en": "Kenya",
+        "ar": "كينيا"
+      },
+      {
+        "en": "Tanzania",
+        "ar": "تنزانيا"
+      },
+      {
+        "en": "Uganda",
+        "ar": "أوغندا"
+      },
+      {
+        "en": "Ethiopia",
+        "ar": "إثيوبيا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Mount Kilimanjaro is located in Tanzania.",
+    "explanation_ar": "جبل كليمنجارو موجود في تنزانيا."
+  },
+  {
+    "id": "WLD-020-041",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of Japan?",
+    "question_ar": "إيه عملة اليابان؟",
+    "options": [
+      {
+        "en": "Yen",
+        "ar": "ين"
+      },
+      {
+        "en": "Won",
+        "ar": "وون"
+      },
+      {
+        "en": "Yuan",
+        "ar": "يوان"
+      },
+      {
+        "en": "Ringgit",
+        "ar": "رينجيت"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Yen is Japan's official currency.",
+    "explanation_ar": "الين هو عملة اليابان الرسمية."
+  },
+  {
+    "id": "WLD-020-042",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of India?",
+    "question_ar": "إيه عملة الهند؟",
+    "options": [
+      {
+        "en": "Rupee",
+        "ar": "روبية"
+      },
+      {
+        "en": "Taka",
+        "ar": "تاكا"
+      },
+      {
+        "en": "Baht",
+        "ar": "بات"
+      },
+      {
+        "en": "Dinar",
+        "ar": "دينار"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Rupee is India's official currency.",
+    "explanation_ar": "الروبية هي عملة الهند الرسمية."
+  },
+  {
+    "id": "WLD-020-043",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of China?",
+    "question_ar": "إيه عملة الصين؟",
+    "options": [
+      {
+        "en": "Won",
+        "ar": "وون"
+      },
+      {
+        "en": "Yen",
+        "ar": "ين"
+      },
+      {
+        "en": "Yuan",
+        "ar": "يوان"
+      },
+      {
+        "en": "Baht",
+        "ar": "بات"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Yuan (Renminbi) is China's official currency.",
+    "explanation_ar": "اليوان (رنمينبي) هو عملة الصين الرسمية."
+  },
+  {
+    "id": "WLD-020-044",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "What is the currency of Russia?",
+    "question_ar": "إيه عملة روسيا؟",
+    "options": [
+      {
+        "en": "Ruble",
+        "ar": "روبل"
+      },
+      {
+        "en": "Zloty",
+        "ar": "زلوتي"
+      },
+      {
+        "en": "Krona",
+        "ar": "كرونة"
+      },
+      {
+        "en": "Franc",
+        "ar": "فرانك"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Ruble is Russia's official currency.",
+    "explanation_ar": "الروبل هو عملة روسيا الرسمية."
+  },
+  {
+    "id": "WLD-020-045",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which city is nicknamed \"the City of Light\"?",
+    "question_ar": "أنهي مدينة معروفة باسم \"مدينة النور\"؟",
+    "options": [
+      {
+        "en": "London",
+        "ar": "لندن"
+      },
+      {
+        "en": "Paris",
+        "ar": "باريس"
+      },
+      {
+        "en": "Rome",
+        "ar": "روما"
+      },
+      {
+        "en": "Vienna",
+        "ar": "فيينا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Paris has long been nicknamed the City of Light.",
+    "explanation_ar": "باريس معروفة من زمان باسم مدينة النور."
+  },
+  {
+    "id": "WLD-020-046",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which city is famous worldwide for its canals and gondolas?",
+    "question_ar": "أنهي مدينة مشهورة عالميًا بالقنوات المائية والجندول؟",
+    "options": [
+      {
+        "en": "Amsterdam",
+        "ar": "أمستردام"
+      },
+      {
+        "en": "Venice",
+        "ar": "البندقية"
+      },
+      {
+        "en": "Bruges",
+        "ar": "بروج"
+      },
+      {
+        "en": "Stockholm",
+        "ar": "ستوكهولم"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Venice, Italy, is famous for its canals and traditional gondolas.",
+    "explanation_ar": "مدينة البندقية الإيطالية مشهورة بقنواتها المائية وقواربها التقليدية."
+  },
+  {
+    "id": "WLD-020-047",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Sagrada Familia, a famous unfinished basilica, is located in which city?",
+    "question_ar": "ساغرادا فاميليا، الكنيسة الشهيرة اللي لسه معملتش، موجودة في أنهي مدينة؟",
+    "options": [
+      {
+        "en": "Madrid",
+        "ar": "مدريد"
+      },
+      {
+        "en": "Barcelona",
+        "ar": "برشلونة"
+      },
+      {
+        "en": "Seville",
+        "ar": "إشبيلية"
+      },
+      {
+        "en": "Valencia",
+        "ar": "فالنسيا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Sagrada Familia is located in Barcelona, Spain.",
+    "explanation_ar": "ساغرادا فاميليا موجودة في مدينة برشلونة الإسبانية."
+  },
+  {
+    "id": "WLD-020-048",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which country is famous worldwide for its tulip fields and windmills?",
+    "question_ar": "أنهي بلد مشهورة عالميًا بحقول التوليب والطواحين؟",
+    "options": [
+      {
+        "en": "Belgium",
+        "ar": "بلجيكا"
+      },
+      {
+        "en": "Netherlands",
+        "ar": "هولندا"
+      },
+      {
+        "en": "Denmark",
+        "ar": "الدنمارك"
+      },
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Netherlands is famous for its tulip fields and traditional windmills.",
+    "explanation_ar": "هولندا مشهورة بحقول التوليب والطواحين التقليدية."
+  },
+  {
+    "id": "WLD-020-049",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "The Great Barrier Reef, the world's largest coral reef system, lies off the coast of which country?",
+    "question_ar": "الحاجز المرجاني العظيم، أكبر نظام شعاب مرجانية في العالم، موجود قبالة سواحل أنهي بلد؟",
+    "options": [
+      {
+        "en": "Indonesia",
+        "ar": "إندونيسيا"
+      },
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      },
+      {
+        "en": "Philippines",
+        "ar": "الفلبين"
+      },
+      {
+        "en": "Thailand",
+        "ar": "تايلاند"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Great Barrier Reef lies off the northeast coast of Australia.",
+    "explanation_ar": "الحاجز المرجاني العظيم موجود قبالة الساحل الشمالي الشرقي لأستراليا."
+  },
+  {
+    "id": "WLD-020-050",
+    "category": "Around the World",
+    "category_ar": "حول العالم",
+    "value": 20,
+    "difficulty": 2,
+    "question_en": "Which island nation in the Indian Ocean is famous for its overwater bungalow resorts?",
+    "question_ar": "أنهي دولة جزيرة في المحيط الهندي مشهورة بمنتجعاتها فوق المياه؟",
+    "options": [
+      {
+        "en": "Maldives",
+        "ar": "المالديف"
+      },
+      {
+        "en": "Seychelles",
+        "ar": "سيشل"
+      },
+      {
+        "en": "Mauritius",
+        "ar": "موريشيوس"
+      },
+      {
+        "en": "Sri Lanka",
+        "ar": "سريلانكا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Maldives is famous worldwide for its overwater bungalow resorts.",
+    "explanation_ar": "جزر المالديف مشهورة عالميًا بمنتجعاتها اللي بتتبني فوق المياه."
+  }
+]

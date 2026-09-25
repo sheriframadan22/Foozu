@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "MUS-100-001",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Umm Kulthum's real full birth name was Fatma Ibrahim El-Sayed El-Beltagi. In which Egyptian governorate was she born?",
+    "question_ar": "أم كلثوم اسمها الحقيقي فاطمة إبراهيم السيد البلتاجي، اتولدت في أنهي محافظة مصرية؟",
+    "options": [
+      {
+        "en": "Daqahliya",
+        "ar": "الدقهلية"
+      },
+      {
+        "en": "Gharbiya",
+        "ar": "الغربية"
+      },
+      {
+        "en": "Sharqiya",
+        "ar": "الشرقية"
+      },
+      {
+        "en": "Beheira",
+        "ar": "البحيرة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Umm Kulthum was born in the village of Tammay El-Zahayra in Daqahliya governorate.",
+    "explanation_ar": "أم كلثوم اتولدت في قرية طماي الزهايرة بمحافظة الدقهلية."
+  },
+  {
+    "id": "MUS-100-002",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian composer wrote the score for Abdel Halim Hafez's iconic film-song \"Sawah\"?",
+    "question_ar": "أنهي ملحن مصري لحن أغنية عبد الحليم حافظ الشهيرة \"الصعيدي شاطر\" المعروفة بـ\"سواح\"؟",
+    "options": [
+      {
+        "en": "Mohamed El Mougy",
+        "ar": "محمد الموجي"
+      },
+      {
+        "en": "Baligh Hamdi",
+        "ar": "بليغ حمدي"
+      },
+      {
+        "en": "Kamal El Taweel",
+        "ar": "كمال الطويل"
+      },
+      {
+        "en": "Mohamed Abdel Wahab",
+        "ar": "محمد عبد الوهاب"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mohamed El Mougy composed \"Sawah\", one of Abdel Halim Hafez's most famous songs.",
+    "explanation_ar": "محمد الموجي هو ملحن أغنية \"سواح\" من أشهر أغاني عبد الحليم حافظ."
+  },
+  {
+    "id": "MUS-100-003",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer/composer, known as \"Musician of the Generations\", also acted in numerous black-and-white films and composed Egypt's presidential anthem?",
+    "question_ar": "أنهي مطرب وملحن مصري لقبه \"موسيقار الأجيال\" ومثل في أفلام أبيض وأسود كتير ولحن نشيد رئاسي؟",
+    "options": [
+      {
+        "en": "Mohamed Abdel Wahab",
+        "ar": "محمد عبد الوهاب"
+      },
+      {
+        "en": "Farid El Atrache",
+        "ar": "فريد الأطرش"
+      },
+      {
+        "en": "Zakaria Ahmed",
+        "ar": "زكريا أحمد"
+      },
+      {
+        "en": "Riad El Sonbati",
+        "ar": "رياض السنباطي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mohamed Abdel Wahab, \"Musician of the Generations\", was also a prolific film actor and composer.",
+    "explanation_ar": "محمد عبد الوهاب، موسيقار الأجيال، كان ممثل ومؤلف موسيقي غزير الإنتاج."
+  },
+  {
+    "id": "MUS-100-004",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US rock band's 1971 untitled fourth album (often called \"Led Zeppelin IV\") features \"Stairway to Heaven\" and four unnamed symbols on its cover?",
+    "question_ar": "أنهي فرقة روك ألبومها الرابع سنة 1971 (المعروف بـ\"Led Zeppelin IV\") فيه \"Stairway to Heaven\" وأربع رموز على الغلاف من غير اسم؟",
+    "options": [
+      {
+        "en": "Led Zeppelin",
+        "ar": "ليد زبلين"
+      },
+      {
+        "en": "Pink Floyd",
+        "ar": "بينك فلويد"
+      },
+      {
+        "en": "Deep Purple",
+        "ar": "ديب بيربل"
+      },
+      {
+        "en": "Black Sabbath",
+        "ar": "بلاك ساباث"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Led Zeppelin's untitled fourth album, known as \"Led Zeppelin IV\", features four member symbols and \"Stairway to Heaven\".",
+    "explanation_ar": "ألبوم ليد زبلين الرابع من غير اسم، المعروف بـ\"Led Zeppelin IV\"، فيه أربع رموز وأغنية \"Stairway to Heaven\"."
+  },
+  {
+    "id": "MUS-100-005",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer, a contemporary rival of Umm Kulthum and famous for the song \"Gafnou El Alil\", passed away in 1974?",
+    "question_ar": "أنهي مطرب مصري، كان منافس لأم كلثوم في وقتها، اشتهر بأغنية \"جفنه علم الغزل\" وتوفي سنة 1974؟",
+    "options": [
+      {
+        "en": "Farid El Atrache",
+        "ar": "فريد الأطرش"
+      },
+      {
+        "en": "Abdel Halim Hafez",
+        "ar": "عبد الحليم حافظ"
+      },
+      {
+        "en": "Karem Mahmoud",
+        "ar": "كارم محمود"
+      },
+      {
+        "en": "Mohamed Fawzi",
+        "ar": "محمد فوزي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Farid El Atrache, known for \"Gafnou El Alil\", passed away in 1974.",
+    "explanation_ar": "فريد الأطرش، صاحب أغنية \"جفنه علم الغزل\"، توفي سنة 1974."
+  },
+  {
+    "id": "MUS-100-006",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US singer's 1982 album held the world record for best-selling album for decades, later surpassed only by streaming-era claims?",
+    "question_ar": "ألبوم أنهي مطرب أمريكي سنة 1982 فضل صاحب رقم أكتر ألبوم مبيعًا في التاريخ لعقود؟",
+    "options": [
+      {
+        "en": "Michael Jackson – Thriller",
+        "ar": "مايكل جاكسون – Thriller"
+      },
+      {
+        "en": "Whitney Houston – Whitney",
+        "ar": "ويتني هيوستن – Whitney"
+      },
+      {
+        "en": "Prince – 1999",
+        "ar": "برنس – 1999"
+      },
+      {
+        "en": "Madonna – Like a Virgin",
+        "ar": "مادونا – Like a Virgin"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Michael Jackson's \"Thriller\" (1982) has long held the record for best-selling album.",
+    "explanation_ar": "ألبوم \"Thriller\" لمايكل جاكسون (1982) فضل صاحب رقم أكتر ألبوم مبيعًا لفترة طويلة."
+  },
+  {
+    "id": "MUS-100-007",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer known for songs like \"Alby Ittahda\" was a major voice of Egyptian classical singing and the daughter of a famous sheikh reciter?",
+    "question_ar": "أنهي مطربة مصرية اشتهرت بأغاني الطرب الأصيل وكانت بنت شيخ قارئ مشهور؟",
+    "options": [
+      {
+        "en": "Umm Kulthum",
+        "ar": "أم كلثوم"
+      },
+      {
+        "en": "Warda",
+        "ar": "وردة"
+      },
+      {
+        "en": "Naima Akef",
+        "ar": "نعيمة عاكف"
+      },
+      {
+        "en": "Shadia",
+        "ar": "شادية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Umm Kulthum's father was a religious reciter (Sheikh), and she began singing religious verse before her rise to fame.",
+    "explanation_ar": "والد أم كلثوم كان شيخ قارئ، وهي بدأت الغناء الديني قبل شهرتها."
+  },
+  {
+    "id": "MUS-100-008",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which pioneering Egyptian composer's operetta \"El Ashara El Tayeba\" is considered a foundational work of modern Egyptian musical theatre, composed in the early 1920s?",
+    "question_ar": "أنهي ملحن مصري رائد ألف أوبريت \"العشرة الطيبة\" المعتبرة من أهم أعمال المسرح الغنائي المصري الحديث في بداية العشرينات؟",
+    "options": [
+      {
+        "en": "Sayed Darwish",
+        "ar": "سيد درويش"
+      },
+      {
+        "en": "Dawoud Hosni",
+        "ar": "داود حسني"
+      },
+      {
+        "en": "Zakaria Ahmed",
+        "ar": "زكريا أحمد"
+      },
+      {
+        "en": "Kamel El Kholai",
+        "ar": "كامل الخلعي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Sayed Darwish composed the operetta \"El Ashara El Tayeba\", a foundational work of Egyptian musical theatre.",
+    "explanation_ar": "سيد درويش لحن أوبريت \"العشرة الطيبة\" من أهم أعمال المسرح الغنائي المصري."
+  },
+  {
+    "id": "MUS-100-009",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US band's members famously feuded over songwriting credit on \"Hotel California\", with Don Felder later suing his bandmates?",
+    "question_ar": "أنهي فرقة أمريكية حصل فيها خلاف شهير على حقوق تأليف أغنية \"Hotel California\" وانتهى بدون فيلدر يرفع قضية على زمايله؟",
+    "options": [
+      {
+        "en": "Eagles",
+        "ar": "إيجلز"
+      },
+      {
+        "en": "Fleetwood Mac",
+        "ar": "فليتوود ماك"
+      },
+      {
+        "en": "Chicago",
+        "ar": "شيكاجو"
+      },
+      {
+        "en": "The Doobie Brothers",
+        "ar": "ذا دوبي براذرز"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Eagles' Don Felder had a well-documented legal dispute with bandmates over \"Hotel California\" royalties/credit.",
+    "explanation_ar": "دون فيلدر من فرقة إيجلز رفع قضية على زمايله بخصوص حقوق أغنية \"Hotel California\"."
+  },
+  {
+    "id": "MUS-100-010",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian-Syrian singer, a rival to Umm Kulthum, died in a mysterious car accident in the Nile in 1944, sparking espionage rumors for decades?",
+    "question_ar": "أنهي مطربة سورية-مصرية، كانت منافسة لأم كلثوم، ماتت في حادثة غامضة في مياه النيل سنة 1944 وأثارت شائعات تجسس لعقود؟",
+    "options": [
+      {
+        "en": "Asmahan",
+        "ar": "أسمهان"
+      },
+      {
+        "en": "Naima Akef",
+        "ar": "نعيمة عاكف"
+      },
+      {
+        "en": "Shadia",
+        "ar": "شادية"
+      },
+      {
+        "en": "Nagat El Saghira",
+        "ar": "نجاة الصغيرة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Asmahan died in a car accident in 1944 under mysterious circumstances that sparked long-running espionage rumors.",
+    "explanation_ar": "أسمهان ماتت في حادثة عربية غامضة سنة 1944 وأثارت شائعات تجسس كتير."
+  },
+  {
+    "id": "MUS-100-011",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US musician, known as \"The King of Rock and Roll\", died in 1977 at his Graceland mansion in Memphis?",
+    "question_ar": "أنهي فنان أمريكي، ملقب بـ\"ملك الروك آند رول\"، مات سنة 1977 في قصره \"جريسلاند\" في ممفيس؟",
+    "options": [
+      {
+        "en": "Elvis Presley",
+        "ar": "إلفيس بريسلي"
+      },
+      {
+        "en": "Chuck Berry",
+        "ar": "تشاك بيري"
+      },
+      {
+        "en": "Little Richard",
+        "ar": "ليتل ريتشارد"
+      },
+      {
+        "en": "Jerry Lee Lewis",
+        "ar": "جيري لي لويس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Elvis Presley died in 1977 at Graceland, his Memphis mansion.",
+    "explanation_ar": "إلفيس بريسلي مات سنة 1977 في قصره جريسلاند في ممفيس."
+  },
+  {
+    "id": "MUS-100-012",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer performed the famous 1967-era patriotic songs and was known as \"Sott Al Arab\" figure alongside Abdel Halim during that period?",
+    "question_ar": "أنهي مطرب مصري غنى أغاني وطنية مشهورة في فترة الستينات وكان من الأصوات المرتبطة بتلك الحقبة جنبًا لجنب مع عبد الحليم؟",
+    "options": [
+      {
+        "en": "Abdel Halim Hafez",
+        "ar": "عبد الحليم حافظ"
+      },
+      {
+        "en": "Karem Mahmoud",
+        "ar": "كارم محمود"
+      },
+      {
+        "en": "Mohamed Kandil",
+        "ar": "محمد قنديل"
+      },
+      {
+        "en": "Fayza Ahmed",
+        "ar": "فايزة أحمد"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Abdel Halim Hafez was closely associated with the patriotic songs of the 1960s era in Egypt.",
+    "explanation_ar": "عبد الحليم حافظ ارتبط بشكل كبير بالأغاني الوطنية في حقبة الستينات."
+  },
+  {
+    "id": "MUS-100-013",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US singer/songwriter released the concept album \"The Wall\" as part of a band, exploring themes of isolation?",
+    "question_ar": "أنهي فرقة روك طرحت ألبوم مفاهيمي اسمه \"The Wall\" بيتكلم عن العزلة؟",
+    "options": [
+      {
+        "en": "Pink Floyd",
+        "ar": "بينك فلويد"
+      },
+      {
+        "en": "Genesis",
+        "ar": "جينيسيس"
+      },
+      {
+        "en": "Yes",
+        "ar": "يس"
+      },
+      {
+        "en": "King Crimson",
+        "ar": "كينج كريمسون"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"The Wall\" is Pink Floyd's landmark 1979 concept album.",
+    "explanation_ar": "\"The Wall\" ألبوم بينك فلويد المفاهيمي الشهير سنة 1979."
+  },
+  {
+    "id": "MUS-100-014",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer is credited with introducing the \"muwashah\" Andalusian singing style into modern Egyptian repertoire revival efforts in the 20th century?",
+    "question_ar": "أنهي مطرب مصري ساهم في إحياء أسلوب الغناء الأندلسي \"الموشح\" في الموسيقى المصرية الحديثة في القرن العشرين؟",
+    "options": [
+      {
+        "en": "Sayed Mekawy",
+        "ar": "سيد مكاوي"
+      },
+      {
+        "en": "Zakaria Ahmed",
+        "ar": "زكريا أحمد"
+      },
+      {
+        "en": "Riad El Sonbati",
+        "ar": "رياض السنباطي"
+      },
+      {
+        "en": "Mohamed El Mougy",
+        "ar": "محمد الموجي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Sayed Mekawy is known for reviving muwashah and traditional Arabic vocal forms in modern settings.",
+    "explanation_ar": "سيد مكاوي معروف بإحياء الموشحات والأشكال الغنائية العربية التراثية بشكل حديث."
+  },
+  {
+    "id": "MUS-100-015",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US band's Freddie Mercury died in 1991, shortly after publicly revealing he had AIDS?",
+    "question_ar": "مطرب أنهي فرقة بريطانية، فريدي ميركوري، مات سنة 1991 بعد ما أعلن إصابته بالإيدز بوقت قصير؟",
+    "options": [
+      {
+        "en": "Queen",
+        "ar": "كوين"
+      },
+      {
+        "en": "Genesis",
+        "ar": "جينيسيس"
+      },
+      {
+        "en": "The Police",
+        "ar": "ذا بوليس"
+      },
+      {
+        "en": "Deep Purple",
+        "ar": "ديب بيربل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Freddie Mercury of Queen died in 1991, a day after announcing he had AIDS.",
+    "explanation_ar": "فريدي ميركوري من فرقة كوين مات سنة 1991 بعد يوم من إعلانه إصابته بالإيدز."
+  },
+  {
+    "id": "MUS-100-016",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian composer's song \"Ana Baghanny\" for Abdel Halim helped pioneer the youthful pop-oriented sound of the 1960s alongside orchestral arrangements?",
+    "question_ar": "أنهي ملحن مصري لحن أغنية \"أنا بغني\" لعبد الحليم وساهم في تقديم صوت شبابي جديد في الستينات مع توزيعات أوركسترالية؟",
+    "options": [
+      {
+        "en": "Mohamed El Mougy",
+        "ar": "محمد الموجي"
+      },
+      {
+        "en": "Baligh Hamdi",
+        "ar": "بليغ حمدي"
+      },
+      {
+        "en": "Kamal El Taweel",
+        "ar": "كمال الطويل"
+      },
+      {
+        "en": "Ahmed Fouad Hassan",
+        "ar": "أحمد فؤاد حسن"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Baligh Hamdi was known for pioneering a youthful, orchestrated pop sound in 1960s Egyptian music.",
+    "explanation_ar": "بليغ حمدي اشتهر بتقديم صوت شبابي جديد مع توزيعات أوركسترالية في الستينات."
+  },
+  {
+    "id": "MUS-100-017",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US artist's 1971 album \"What's Going On\" is considered one of the greatest socially-conscious soul albums ever made?",
+    "question_ar": "ألبوم أنهي فنان أمريكي سنة 1971 اسمه \"What's Going On\" بيتعتبر من أعظم ألبومات السول الاجتماعية في التاريخ؟",
+    "options": [
+      {
+        "en": "Marvin Gaye",
+        "ar": "مارفن جاي"
+      },
+      {
+        "en": "Stevie Wonder",
+        "ar": "ستيفي وندر"
+      },
+      {
+        "en": "Al Green",
+        "ar": "آل جرين"
+      },
+      {
+        "en": "Curtis Mayfield",
+        "ar": "كورتيس مايفيلد"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Marvin Gaye's \"What's Going On\" (1971) is a landmark socially-conscious soul album.",
+    "explanation_ar": "ألبوم \"What's Going On\" لمارفن جاي (1971) من أهم ألبومات السول الاجتماعية."
+  },
+  {
+    "id": "MUS-100-018",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Lebanese composer duo wrote Fairuz's early hit \"Habaytak Bel Sayf\", blending folk Lebanese themes with modern orchestration?",
+    "question_ar": "أنهي ثنائي ملحنين لبنانيين لحنوا أغنية فيروز \"حبيتك بالصيف\" بمزيج من الفلكلور اللبناني والتوزيع الحديث؟",
+    "options": [
+      {
+        "en": "Assi and Mansour Rahbani",
+        "ar": "عاصي ومنصور رحباني"
+      },
+      {
+        "en": "Philemon Wehbe and Zaki Nassif",
+        "ar": "فيلمون وهبة وزكي ناصيف"
+      },
+      {
+        "en": "Elias Rahbani solo",
+        "ar": "إلياس رحباني منفردًا"
+      },
+      {
+        "en": "Wadih El Safi and Toufic Basha",
+        "ar": "وديع الصافي وتوفيق باشا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "\"Habaytak Bel Sayf\" is one of the Rahbani Brothers' early hits for Fairuz.",
+    "explanation_ar": "\"حبيتك بالصيف\" من أوائل أغاني الأخوين رحباني لفيروز."
+  },
+  {
+    "id": "MUS-100-019",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US rapper's debut album \"Ready to Die\" (1994) is considered a landmark East Coast hip-hop record, before his 1997 murder?",
+    "question_ar": "ألبوم أنهي رابر أمريكي الأول \"Ready to Die\" سنة 1994 بيتعتبر من أهم ألبومات الهيب هوب الشرقية قبل مقتله سنة 1997؟",
+    "options": [
+      {
+        "en": "The Notorious B.I.G.",
+        "ar": "ذا نوتوريوس بي آي جي"
+      },
+      {
+        "en": "Tupac Shakur",
+        "ar": "توباك شاكور"
+      },
+      {
+        "en": "Nas",
+        "ar": "ناس"
+      },
+      {
+        "en": "Jay-Z",
+        "ar": "جاي زي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Notorious B.I.G.'s \"Ready to Die\" (1994) is a landmark East Coast hip-hop album.",
+    "explanation_ar": "ألبوم \"Ready to Die\" (1994) لذا نوتوريوس بي آي جي من أهم ألبومات الهيب هوب الشرقية."
+  },
+  {
+    "id": "MUS-100-020",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer known for \"Aeesh W Meen\" was a major voice of 1950s-60s cinema musicals and later became a respected film actress?",
+    "question_ar": "أنهي مطربة مصرية اشتهرت بأغاني السينما الغنائية في الخمسينات والستينات وبعدين بقت ممثلة سينمائية محترمة؟",
+    "options": [
+      {
+        "en": "Shadia",
+        "ar": "شادية"
+      },
+      {
+        "en": "Naima Akef",
+        "ar": "نعيمة عاكف"
+      },
+      {
+        "en": "Faten Hamama",
+        "ar": "فاتن حمامة"
+      },
+      {
+        "en": "Soad Hosny",
+        "ar": "سعاد حسني"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Shadia was a major singing and acting star of Egyptian cinema's golden era.",
+    "explanation_ar": "شادية كانت نجمة غناء وتمثيل كبيرة في العصر الذهبي للسينما المصرية."
+  },
+  {
+    "id": "MUS-100-021",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US singer's 1971 death at age 27 places her in the \"27 Club\" alongside Jimi Hendrix, Jim Morrison, and later Kurt Cobain and Amy Winehouse?",
+    "question_ar": "أنهي مطربة أمريكية توفت وعمرها 27 سنة، وبكده بقت من \"نادي الـ27\" زي جيمي هيندريكس وجيم موريسون وكورت كوبين وإيمي واينهاوس؟",
+    "options": [
+      {
+        "en": "Janis Joplin",
+        "ar": "جانيس جوبلين"
+      },
+      {
+        "en": "Karen Carpenter",
+        "ar": "كارين كاربنتر"
+      },
+      {
+        "en": "Cass Elliot",
+        "ar": "كاس إليوت"
+      },
+      {
+        "en": "Dusty Springfield",
+        "ar": "داستي سبرينجفيلد"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Janis Joplin died in 1970 at age 27, part of the so-called \"27 Club\".",
+    "explanation_ar": "جانيس جوبلين ماتت سنة 1970 وعمرها 27 سنة، وبقت من \"نادي الـ27\"."
+  },
+  {
+    "id": "MUS-100-022",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer known for \"Ahsan Nas\" (composed by Baligh Hamdi) was a top voice of romantic Egyptian pop in the 1970s-80s alongside Warda?",
+    "question_ar": "أنهي مطربة مصرية غنت \"أحسن الناس\" (تلحين بليغ حمدي) وكانت من أهم أصوات الرومانسية في السبعينات والثمانينات؟",
+    "options": [
+      {
+        "en": "Nagat El Saghira",
+        "ar": "نجاة الصغيرة"
+      },
+      {
+        "en": "Faiza Ahmed",
+        "ar": "فايزة أحمد"
+      },
+      {
+        "en": "Warda",
+        "ar": "وردة"
+      },
+      {
+        "en": "Shadia",
+        "ar": "شادية"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Nagat El Saghira sang \"Ahsan Nas\" and was a leading romantic pop voice of her era.",
+    "explanation_ar": "نجاة الصغيرة غنت \"أحسن الناس\" وكانت من أهم أصوات الرومانسية في وقتها."
+  },
+  {
+    "id": "MUS-100-023",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US band's frontman Jim Morrison died in Paris in 1971, also part of the \"27 Club\"?",
+    "question_ar": "أنهي فرقة أمريكية مطربها الرئيسي جيم موريسون مات في باريس سنة 1971 وبقى من \"نادي الـ27\"؟",
+    "options": [
+      {
+        "en": "The Doors",
+        "ar": "ذا دورز"
+      },
+      {
+        "en": "Jefferson Airplane",
+        "ar": "جيفرسون إيربلين"
+      },
+      {
+        "en": "The Grateful Dead",
+        "ar": "ذا جريتفل ديد"
+      },
+      {
+        "en": "The Byrds",
+        "ar": "ذا بيردز"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Jim Morrison of The Doors died in Paris in 1971 at age 27.",
+    "explanation_ar": "جيم موريسون من فرقة ذا دورز مات في باريس سنة 1971 وعمره 27 سنة."
+  },
+  {
+    "id": "MUS-100-024",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian mahraganat/rap artist's 2022 track became an unofficial anthem tied to the FIFA World Cup and topped Arab streaming charts that year?",
+    "question_ar": "أنهي فنان مصري في أغنيته سنة 2022 بقت نشيد غير رسمي مرتبط بكأس العالم وصدرت تشارتات الاستماع العربية في السنة دي؟",
+    "options": [
+      {
+        "en": "Wegz — \"Dorak Gai\"",
+        "ar": "ويجز – \"دورك جاي\""
+      },
+      {
+        "en": "Marwan Pablo — \"El Gamaa\"",
+        "ar": "مروان بابلو – \"الجماعة\""
+      },
+      {
+        "en": "Abyusif — \"Analogy\"",
+        "ar": "أبيوسف – \"أنالوجي\""
+      },
+      {
+        "en": "Afroto — \"Aymen\"",
+        "ar": "أفروتو – \"أيمن\""
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Wegz's \"Dorak Gai\" was tied to the 2022 FIFA World Cup and became one of the year's biggest Arabic tracks.",
+    "explanation_ar": "\"دورك جاي\" لويجز ارتبطت بكأس العالم 2022 وبقت من أنجح الأغاني العربية في السنة دي."
+  },
+  {
+    "id": "MUS-100-025",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US singer's 2016 death shocked fans, having released \"Purple Rain\" and being known for blending rock, funk, and pop?",
+    "question_ar": "أنهي فنان أمريكي مات سنة 2016 وكانت وفاته صدمة كبيرة، واشتهر بأغنية \"Purple Rain\" ومزج الروك والفانك والبوب؟",
+    "options": [
+      {
+        "en": "Prince",
+        "ar": "برنس"
+      },
+      {
+        "en": "David Bowie",
+        "ar": "ديفيد بوي"
+      },
+      {
+        "en": "George Michael",
+        "ar": "جورج مايكل"
+      },
+      {
+        "en": "Chris Cornell",
+        "ar": "كريس كورنيل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Prince, known for \"Purple Rain\", died in 2016.",
+    "explanation_ar": "برنس، صاحب أغنية \"Purple Rain\"، توفي سنة 2016."
+  },
+  {
+    "id": "MUS-100-026",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer known for the smash hit \"Wallahi Sadaa\" was a leading female pop voice of the early-to-mid 2000s?",
+    "question_ar": "أنهي مطربة مصرية اشتهرت بأغنية ناجحة زي \"والله صدق\" وكانت من أهم أصوات البوب النسائية في بداية ومنتصف الألفينات؟",
+    "options": [
+      {
+        "en": "Ruby",
+        "ar": "روبي"
+      },
+      {
+        "en": "Angham",
+        "ar": "أنغام"
+      },
+      {
+        "en": "Latifa",
+        "ar": "لطيفة"
+      },
+      {
+        "en": "Aida El Ayoubi",
+        "ar": "عايدة الأيوبي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ruby was a leading Egyptian female pop star of the 2000s, known for hits like \"Wallahi Sadaa\".",
+    "explanation_ar": "روبي كانت من أهم مطربات البوب المصريات في الألفينات بأغاني زي \"والله صدق\"."
+  },
+  {
+    "id": "MUS-100-027",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US rock band's Chris Cornell, also of Soundgarden, died in 2017 while touring?",
+    "question_ar": "أنهي فرقة روك أمريكية، مطربها كريس كورنيل (اللي كان كمان في ساوندجاردن)، مات سنة 2017 وهو بيعمل جولة حفلات؟",
+    "options": [
+      {
+        "en": "Audioslave",
+        "ar": "أوديوسلاف"
+      },
+      {
+        "en": "Alice in Chains",
+        "ar": "أليس إن تشينز"
+      },
+      {
+        "en": "Stone Temple Pilots",
+        "ar": "ستون تمبل بايلوتس"
+      },
+      {
+        "en": "Rage Against the Machine",
+        "ar": "ريج أجينست ذا ماشين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Chris Cornell, frontman of Soundgarden and Audioslave, died in 2017.",
+    "explanation_ar": "كريس كورنيل، مطرب ساوندجاردن وأوديوسلاف، توفي سنة 2017."
+  },
+  {
+    "id": "MUS-100-028",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian composer known for scoring the golden-era film musicals also composed the iconic \"Enta Omri\" arrangement with Umm Kulthum's orchestra?",
+    "question_ar": "أنهي ملحن مصري اشتهر بتلحين أفلام العصر الذهبي الغنائية وشارك في توزيع أغنية \"إنت عمري\" مع أوركسترا أم كلثوم؟",
+    "options": [
+      {
+        "en": "Mohamed Abdel Wahab",
+        "ar": "محمد عبد الوهاب"
+      },
+      {
+        "en": "Ahmed Sedky",
+        "ar": "أحمد صدقي"
+      },
+      {
+        "en": "Andrea Ryder",
+        "ar": "أندريا رايدر"
+      },
+      {
+        "en": "Ali Ismail",
+        "ar": "علي إسماعيل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mohamed Abdel Wahab both composed and arranged \"Enta Omri\" in collaboration with Umm Kulthum's ensemble.",
+    "explanation_ar": "محمد عبد الوهاب لحن ووزع أغنية \"إنت عمري\" بالتعاون مع فرقة أم كلثوم."
+  },
+  {
+    "id": "MUS-100-029",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US band's Kurt Cobain died in 1994, becoming part of the \"27 Club\" and a symbol of the grunge era's end?",
+    "question_ar": "مطرب أنهي فرقة أمريكية، كورت كوبين، مات سنة 1994 وبقى رمز لنهاية عصر الجرانج و\"نادي الـ27\"؟",
+    "options": [
+      {
+        "en": "Nirvana",
+        "ar": "نيرفانا"
+      },
+      {
+        "en": "Soundgarden",
+        "ar": "ساوندجاردن"
+      },
+      {
+        "en": "Stone Temple Pilots",
+        "ar": "ستون تمبل بايلوتس"
+      },
+      {
+        "en": "Alice in Chains",
+        "ar": "أليس إن تشينز"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Kurt Cobain of Nirvana died in 1994 at age 27.",
+    "explanation_ar": "كورت كوبين من فرقة نيرفانا مات سنة 1994 وعمره 27 سنة."
+  },
+  {
+    "id": "MUS-100-030",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer, famous for \"Set El Habayeb\", was known as a top voice of romantic Egyptian ballads through the 1980s-90s alongside Amr Diab's rise?",
+    "question_ar": "أنهي مطربة مصرية اشتهرت بأغنية \"ست الحبايب\" وكانت من أهم أصوات الأغاني الرومانسية في الثمانينات والتسعينات؟",
+    "options": [
+      {
+        "en": "Mohamed Fouad (male, distractor)",
+        "ar": "محمد فؤاد (ذكر، مموه)"
+      },
+      {
+        "en": "Latifa",
+        "ar": "لطيفة"
+      },
+      {
+        "en": "Aida El Ayoubi",
+        "ar": "عايدة الأيوبي"
+      },
+      {
+        "en": "Iman El Bahr Darwish (distractor)",
+        "ar": "إيمان البحر درويش (مموه)"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Latifa, a Tunisian-born singer popular in Egypt, is known for the hit \"Set El Habayeb\".",
+    "explanation_ar": "لطيفة، المطربة التونسية المشهورة في مصر، معروفة بأغنية \"ست الحبايب\"."
+  },
+  {
+    "id": "MUS-100-031",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which UK singer/songwriter's 2016 death, shortly after releasing \"Blackstar\", came just two days after his 69th birthday?",
+    "question_ar": "أنهي مطرب بريطاني مات سنة 2016 بعد ما طرح ألبوم \"Blackstar\" بيومين بس من عيد ميلاده الـ69؟",
+    "options": [
+      {
+        "en": "David Bowie",
+        "ar": "ديفيد بوي"
+      },
+      {
+        "en": "George Michael",
+        "ar": "جورج مايكل"
+      },
+      {
+        "en": "Freddie Mercury",
+        "ar": "فريدي ميركوري"
+      },
+      {
+        "en": "Ian Curtis",
+        "ar": "إيان كيرتس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "David Bowie died in January 2016, two days after his 69th birthday and the release of \"Blackstar\".",
+    "explanation_ar": "ديفيد بوي توفي في يناير 2016 بعد يومين بس من عيد ميلاده الـ69 وطرح ألبوم \"Blackstar\"."
+  },
+  {
+    "id": "MUS-100-032",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which term describes a distinctive maqam (modal scale) system foundational to Arabic classical music, e.g. Maqam Rast or Maqam Hijaz?",
+    "question_ar": "بيتقال إيه على نظام السلالم اللحنية الأساسي في الموسيقى العربية الكلاسيكية، زي مقام راست أو مقام حجاز؟",
+    "options": [
+      {
+        "en": "Maqam",
+        "ar": "مقام"
+      },
+      {
+        "en": "Iqa",
+        "ar": "إيقاع"
+      },
+      {
+        "en": "Tarab",
+        "ar": "طرب"
+      },
+      {
+        "en": "Sama'i",
+        "ar": "سماعي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The maqam system is the foundational modal scale system of Arabic classical music.",
+    "explanation_ar": "نظام المقامات هو أساس السلالم اللحنية في الموسيقى العربية الكلاسيكية."
+  },
+  {
+    "id": "MUS-100-033",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer known for the 1990s hit \"Alby Ehtar\" became one of the most successful crossover pop-shaabi voices with songs produced by Amr Mostafa?",
+    "question_ar": "أنهي مطرب مصري في التسعينات اشتهر بأغاني بوب-شعبي ناجحة من إنتاج عمرو مصطفى؟",
+    "options": [
+      {
+        "en": "Hisham Abbas",
+        "ar": "هشام عباس"
+      },
+      {
+        "en": "Mostafa Amar",
+        "ar": "مصطفى قمر"
+      },
+      {
+        "en": "Hisham Gamal",
+        "ar": "هشام جمال"
+      },
+      {
+        "en": "Ehab Tawfik",
+        "ar": "إيهاب توفيق"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Mostafa Amar had major 1990s hits produced by composer Amr Mostafa.",
+    "explanation_ar": "مصطفى قمر كان من نجوم التسعينات بأغاني إنتاج عمرو مصطفى."
+  },
+  {
+    "id": "MUS-100-034",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US band's \"Bohemian Rhapsody\" (1975) was unusual for combining ballad, opera, and hard rock sections in one six-minute song?",
+    "question_ar": "أغنية \"Bohemian Rhapsody\" (1975) لأنهي فرقة كانت غريبة لأنها جمعت بالاد وأوبرا وهارد روك في أغنية واحدة طولها 6 دقايق؟",
+    "options": [
+      {
+        "en": "Queen",
+        "ar": "كوين"
+      },
+      {
+        "en": "Genesis",
+        "ar": "جينيسيس"
+      },
+      {
+        "en": "Yes",
+        "ar": "يس"
+      },
+      {
+        "en": "10cc",
+        "ar": "تن سي سي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Queen's \"Bohemian Rhapsody\" famously blends multiple musical styles in one song.",
+    "explanation_ar": "أغنية \"Bohemian Rhapsody\" لكوين مشهورة بمزجها لأساليب موسيقية مختلفة في أغنية واحدة."
+  },
+  {
+    "id": "MUS-100-035",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian oud virtuoso and composer, a longtime accompanist of Umm Kulthum's orchestra, was also renowned as a solo instrumentalist?",
+    "question_ar": "أنهي عازف عود مصري بارع وملحن، كان من عازفي أوركسترا أم كلثوم لفترة طويلة واشتهر كعازف منفرد كمان؟",
+    "options": [
+      {
+        "en": "Riad El Sonbati",
+        "ar": "رياض السنباطي"
+      },
+      {
+        "en": "Mohamed Abdel Wahab",
+        "ar": "محمد عبد الوهاب"
+      },
+      {
+        "en": "Farid El Atrache",
+        "ar": "فريد الأطرش"
+      },
+      {
+        "en": "Ahmed Fouad Hassan",
+        "ar": "أحمد فؤاد حسن"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Riad El Sonbati was both a renowned oud player and Umm Kulthum's longtime composer.",
+    "explanation_ar": "رياض السنباطي كان عازف عود بارع وملحن أم كلثوم لفترة طويلة."
+  },
+  {
+    "id": "MUS-100-036",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US female singer's 2003 duet with her mentor became controversial media coverage, and she's known for \"Genie in a Bottle\" and vocal power?",
+    "question_ar": "أنهي مطربة أمريكية معروفة بأغنية \"Genie in a Bottle\" وبقدرتها الصوتية الكبيرة؟",
+    "options": [
+      {
+        "en": "Christina Aguilera",
+        "ar": "كريستينا أغيليرا"
+      },
+      {
+        "en": "Britney Spears",
+        "ar": "بريتني سبيرز"
+      },
+      {
+        "en": "Jessica Simpson",
+        "ar": "جيسيكا سيمبسون"
+      },
+      {
+        "en": "Mandy Moore",
+        "ar": "ماندي مور"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Christina Aguilera is known for \"Genie in a Bottle\" and her powerful vocals.",
+    "explanation_ar": "كريستينا أغيليرا معروفة بأغنية \"Genie in a Bottle\" وقدرتها الصوتية."
+  },
+  {
+    "id": "MUS-100-037",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which veteran Egyptian singer, famous for romantic ballads since the 1970s, currently serves as the head of Egypt's Musicians Syndicate?",
+    "question_ar": "أنهي مطرب مصري قديم، مشهور بالأغاني الرومانسية من السبعينات، بيشغل حاليًا منصب نقيب المهن الموسيقية في مصر؟",
+    "options": [
+      {
+        "en": "Hany Shaker",
+        "ar": "هاني شاكر"
+      },
+      {
+        "en": "Medhat Saleh",
+        "ar": "مدحت صالح"
+      },
+      {
+        "en": "Ali El Haggar",
+        "ar": "علي الحجار"
+      },
+      {
+        "en": "Mohamed Fouad",
+        "ar": "محمد فؤاد"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Hany Shaker, a veteran romantic singer, has headed Egypt's Musicians Syndicate.",
+    "explanation_ar": "هاني شاكر، المطرب الرومانسي القديم، بيشغل منصب نقيب المهن الموسيقية في مصر."
+  },
+  {
+    "id": "MUS-100-038",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US artist's 2009 death, ruled caused by propofol administered by his physician, ended one of pop music's most legendary careers?",
+    "question_ar": "وفاة أنهي فنان أمريكي سنة 2009، بسبب مادة بروبوفول أداها طبيبه الخاص، أنهت واحدة من أعظم المسيرات الفنية في تاريخ البوب؟",
+    "options": [
+      {
+        "en": "Michael Jackson",
+        "ar": "مايكل جاكسون"
+      },
+      {
+        "en": "Prince",
+        "ar": "برنس"
+      },
+      {
+        "en": "Whitney Houston",
+        "ar": "ويتني هيوستن"
+      },
+      {
+        "en": "George Michael",
+        "ar": "جورج مايكل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Michael Jackson died in 2009 from acute propofol intoxication administered by his physician.",
+    "explanation_ar": "مايكل جاكسون توفي سنة 2009 بسبب جرعة بروبوفول أداها طبيبه الخاص."
+  },
+  {
+    "id": "MUS-100-039",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer's iconic voice was used for the 1960s song \"Ahebbak\" and was known as \"Adnan\" of Egyptian song for her powerful contralto range?",
+    "question_ar": "أنهي مطربة مصرية اشتهرت بأغنية \"أحبك\" في الستينات وبمدى صوتي قوي مميز؟",
+    "options": [
+      {
+        "en": "Fayza Ahmed",
+        "ar": "فايزة أحمد"
+      },
+      {
+        "en": "Naama Akef",
+        "ar": "نعيمة عاكف"
+      },
+      {
+        "en": "Shadia",
+        "ar": "شادية"
+      },
+      {
+        "en": "Warda",
+        "ar": "وردة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Fayza Ahmed was known for her powerful voice and hits like \"Ahebbak\" in the 1960s.",
+    "explanation_ar": "فايزة أحمد اشتهرت بصوتها القوي وأغنية \"أحبك\" في الستينات."
+  },
+  {
+    "id": "MUS-100-040",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which term describes the traditional rhythmic cycle patterns (like maqsoum or saidi) used in Arabic percussion music?",
+    "question_ar": "بيتقال إيه على الأنماط الإيقاعية التقليدية زي المقسوم والصعيدي في الموسيقى العربية الإيقاعية؟",
+    "options": [
+      {
+        "en": "Iqa",
+        "ar": "إيقاع"
+      },
+      {
+        "en": "Maqam",
+        "ar": "مقام"
+      },
+      {
+        "en": "Tarab",
+        "ar": "طرب"
+      },
+      {
+        "en": "Zajal",
+        "ar": "زجل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "These traditional rhythmic patterns are called \"iqa\" in Arabic music theory.",
+    "explanation_ar": "الأنماط الإيقاعية التقليدية دي اسمها \"إيقاع\" في نظرية الموسيقى العربية."
+  },
+  {
+    "id": "MUS-100-041",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US rock band, formed in Seattle, released the seminal grunge album \"Ten\" in 1991, fronted by Eddie Vedder?",
+    "question_ar": "أنهي فرقة روك، اتأسست في سياتل، طرحت ألبوم الجرانج المهم \"Ten\" سنة 1991 بقيادة إيدي فيدر؟",
+    "options": [
+      {
+        "en": "Pearl Jam",
+        "ar": "بيرل جام"
+      },
+      {
+        "en": "Nirvana",
+        "ar": "نيرفانا"
+      },
+      {
+        "en": "Soundgarden",
+        "ar": "ساوندجاردن"
+      },
+      {
+        "en": "Stone Temple Pilots",
+        "ar": "ستون تمبل بايلوتس"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Pearl Jam, fronted by Eddie Vedder, released \"Ten\" in 1991.",
+    "explanation_ar": "فرقة بيرل جام، بقيادة إيدي فيدر، طرحت ألبوم \"Ten\" سنة 1991."
+  },
+  {
+    "id": "MUS-100-042",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer, famous for songs like \"Khalik Fel Bait\", was one of the biggest voices of Egyptian pop in the 1990s alongside Amr Diab and Hisham Abbas?",
+    "question_ar": "أنهي مطرب مصري، معروف بأغاني زي \"خليك في البيت\"، كان من أكبر أصوات البوب المصري في التسعينات جنب عمرو دياب وهشام عباس؟",
+    "options": [
+      {
+        "en": "Mostafa Amar",
+        "ar": "مصطفى قمر"
+      },
+      {
+        "en": "Hisham Gamal",
+        "ar": "هشام جمال"
+      },
+      {
+        "en": "Amr Mostafa",
+        "ar": "عمرو مصطفى"
+      },
+      {
+        "en": "Medhat Saleh",
+        "ar": "مدحت صالح"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mostafa Amar was one of the leading Egyptian pop voices of the 1990s.",
+    "explanation_ar": "مصطفى قمر كان من أكبر أصوات البوب المصري في التسعينات."
+  },
+  {
+    "id": "MUS-100-043",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US singer's 1998 album \"...Baby One More Time\" launched a career that made her a defining pop icon of the late 1990s/early 2000s?",
+    "question_ar": "ألبوم أنهي مطربة أمريكية سنة 1998 \"...Baby One More Time\" بدأ مشوارها كأيقونة بوب أواخر التسعينات وبداية الألفينات؟",
+    "options": [
+      {
+        "en": "Britney Spears",
+        "ar": "بريتني سبيرز"
+      },
+      {
+        "en": "Christina Aguilera",
+        "ar": "كريستينا أغيليرا"
+      },
+      {
+        "en": "Mandy Moore",
+        "ar": "ماندي مور"
+      },
+      {
+        "en": "Jessica Simpson",
+        "ar": "جيسيكا سيمبسون"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Britney Spears' debut album \"...Baby One More Time\" (1998) launched her superstardom.",
+    "explanation_ar": "ألبوم بريتني سبيرز الأول \"...Baby One More Time\" (1998) بدأ نجوميتها الكبيرة."
+  },
+  {
+    "id": "MUS-100-044",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian composer, brother of a famous actress, wrote music blending jazz and Arabic music, and led the band \"Sharkiat\"?",
+    "question_ar": "أنهي ملحن مصري، أخو ممثلة مشهورة، لحن موسيقى بتمزج الجاز بالعربي وأسس فرقة \"شرقيات\"؟",
+    "options": [
+      {
+        "en": "Fathy Salama",
+        "ar": "فتحي سلامة"
+      },
+      {
+        "en": "Yehia Khalil",
+        "ar": "يحيى خليل"
+      },
+      {
+        "en": "Rageh Daoud",
+        "ar": "راجح داود"
+      },
+      {
+        "en": "Helmy Bakr",
+        "ar": "حلمي بكر"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Fathy Salama, a Grammy-winning composer, founded the band Sharkiat blending jazz and Arabic influences.",
+    "explanation_ar": "فتحي سلامة، الملحن الحاصل على جرامي، أسس فرقة شرقيات اللي بتمزج الجاز بالعربي."
+  },
+  {
+    "id": "MUS-100-045",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US band's 1969 performance at Woodstock, including a solo rendition of \"The Star-Spangled Banner\", became legendary?",
+    "question_ar": "أداء أنهي فنان أمريكي في مهرجان وودستوك 1969، وفيه عزف منفرد للنشيد الأمريكي، بقى أسطوريًا؟",
+    "options": [
+      {
+        "en": "Jimi Hendrix",
+        "ar": "جيمي هيندريكس"
+      },
+      {
+        "en": "Santana",
+        "ar": "سانتانا"
+      },
+      {
+        "en": "The Who",
+        "ar": "ذا هو"
+      },
+      {
+        "en": "Janis Joplin",
+        "ar": "جانيس جوبلين"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Jimi Hendrix's Woodstock 1969 rendition of \"The Star-Spangled Banner\" is legendary.",
+    "explanation_ar": "عزف جيمي هيندريكس للنشيد الأمريكي في وودستوك 1969 بقى أسطوريًا."
+  },
+  {
+    "id": "MUS-100-046",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer, known for a gravelly, powerful voice and hits like \"Habibi Wala Ala Baly\", rose to fame through Egyptian cinema in the 1950s-60s?",
+    "question_ar": "أنهي مطرب مصري، بصوته القوي الخشن وأغاني زي \"حبيبي ولا على بالي\"، اشتهر عن طريق السينما المصرية في الخمسينات والستينات؟",
+    "options": [
+      {
+        "en": "Karem Mahmoud",
+        "ar": "كارم محمود"
+      },
+      {
+        "en": "Mohamed Fawzi",
+        "ar": "محمد فوزي"
+      },
+      {
+        "en": "Abdel Aziz Mahmoud",
+        "ar": "عبد العزيز محمود"
+      },
+      {
+        "en": "Mohamed Kandil",
+        "ar": "محمد قنديل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Karem Mahmoud was a prominent singer and film star of that era known for his rich voice.",
+    "explanation_ar": "كارم محمود كان مطرب ونجم سينما بارز في الفترة دي بصوته الغني."
+  },
+  {
+    "id": "MUS-100-047",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US rapper's 1996 murder in Las Vegas remains one of hip-hop's most notorious unsolved cases for decades?",
+    "question_ar": "مقتل أنهي رابر أمريكي في لاس فيجاس سنة 1996 فضل من أشهر قضايا الهيب هوب الغامضة لعقود؟",
+    "options": [
+      {
+        "en": "Tupac Shakur",
+        "ar": "توباك شاكور"
+      },
+      {
+        "en": "The Notorious B.I.G.",
+        "ar": "ذا نوتوريوس بي آي جي"
+      },
+      {
+        "en": "Big L",
+        "ar": "بيج إل"
+      },
+      {
+        "en": "Proof (D12)",
+        "ar": "بروف (دي 12)"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Tupac Shakur was murdered in Las Vegas in 1996 in a case that remained officially unsolved for decades.",
+    "explanation_ar": "توباك شاكور اتقتل في لاس فيجاس سنة 1996 وفضلت القضية غامضة رسميًا لعقود."
+  },
+  {
+    "id": "MUS-100-048",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Egyptian singer's voice is featured on the widely loved children's/patriotic song \"Baba Fen\" alongside a career of romantic hits?",
+    "question_ar": "أنهي مطرب مصري صوته موجود في أغنية شهيرة ومحبوبة للأطفال جنب مشوار حافل بالأغاني الرومانسية؟",
+    "options": [
+      {
+        "en": "Mohamed Fouad",
+        "ar": "محمد فؤاد"
+      },
+      {
+        "en": "Medhat Saleh",
+        "ar": "مدحت صالح"
+      },
+      {
+        "en": "Hany Shaker",
+        "ar": "هاني شاكر"
+      },
+      {
+        "en": "Ehab Tawfik",
+        "ar": "إيهاب توفيق"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Medhat Saleh is known for the beloved song \"Baba Fen\" in addition to his romantic repertoire.",
+    "explanation_ar": "مدحت صالح معروف بأغنية \"بابا فين\" المحبوبة بجانب مشواره في الأغاني الرومانسية."
+  },
+  {
+    "id": "MUS-100-049",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which US artist's 1985 charity single \"We Are the World\" (co-written with Lionel Richie) raised funds for famine relief in Africa?",
+    "question_ar": "أنهي فنان أمريكي شارك في كتابة أغنية \"We Are the World\" الخيرية سنة 1985 مع ليونيل ريتشي لجمع تبرعات للمجاعة في أفريقيا؟",
+    "options": [
+      {
+        "en": "Michael Jackson",
+        "ar": "مايكل جاكسون"
+      },
+      {
+        "en": "Stevie Wonder",
+        "ar": "ستيفي وندر"
+      },
+      {
+        "en": "Prince",
+        "ar": "برنس"
+      },
+      {
+        "en": "Quincy Jones",
+        "ar": "كوينسي جونز"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Michael Jackson co-wrote \"We Are the World\" with Lionel Richie in 1985.",
+    "explanation_ar": "مايكل جاكسون شارك في كتابة \"We Are the World\" مع ليونيل ريتشي سنة 1985."
+  },
+  {
+    "id": "MUS-100-050",
+    "category": "Music",
+    "category_ar": "مزيكا",
+    "value": 100,
+    "difficulty": 4,
+    "question_en": "Which Lebanese-Egyptian composer/oud player, long a key arranger in Fairuz's and other Arab stars' orchestras, is known for blending jazz harmonies into Arabic music?",
+    "question_ar": "أنهي ملحن/عازف عود لبناني اشتهر بمزج هارمونيات الجاز في الموسيقى العربية وشارك في توزيع أعمال فيروز ونجوم عرب؟",
+    "options": [
+      {
+        "en": "Ziad Rahbani",
+        "ar": "زياد رحباني"
+      },
+      {
+        "en": "Marcel Khalife",
+        "ar": "مارسيل خليفة"
+      },
+      {
+        "en": "Toufic Farroukh",
+        "ar": "توفيق فروخ"
+      },
+      {
+        "en": "Issam Rafea",
+        "ar": "عصام رافع"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ziad Rahbani, Fairuz's son, is celebrated for blending jazz harmonies with Arabic music in his compositions.",
+    "explanation_ar": "زياد رحباني، ابن فيروز، معروف بمزج هارمونيات الجاز مع الموسيقى العربية في أعماله."
+  }
+]
