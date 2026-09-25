@@ -9,23 +9,23 @@
     "question_ar": "بيتسمى إيه تجمع الأسود؟",
     "options": [
       {
-        "en": "Pride",
-        "ar": "زمرة"
-      },
-      {
-        "en": "Herd",
-        "ar": "قطيع"
-      },
-      {
         "en": "Flock",
         "ar": "سرب"
       },
       {
         "en": "Pack",
         "ar": "جماعة"
+      },
+      {
+        "en": "Pride",
+        "ar": "زمرة"
+      },
+      {
+        "en": "Herd",
+        "ar": "قطيع"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A group of lions is called a pride.",
     "explanation_ar": "تجمع الأسود بيتسمى \"زمرة\"."
   },
@@ -39,23 +39,23 @@
     "question_ar": "بيتسمى إيه تجمع الذئاب؟",
     "options": [
       {
-        "en": "Pride",
-        "ar": "زمرة"
-      },
-      {
-        "en": "Pack",
-        "ar": "جماعة"
-      },
-      {
         "en": "Herd",
         "ar": "قطيع"
       },
       {
         "en": "Swarm",
         "ar": "سرب حشرات"
+      },
+      {
+        "en": "Pride",
+        "ar": "زمرة"
+      },
+      {
+        "en": "Pack",
+        "ar": "جماعة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Wolves live and hunt together in packs.",
     "explanation_ar": "الذئاب بتعيش وبتصطاد مع بعض في جماعات."
   },
@@ -129,23 +129,23 @@
     "question_ar": "بيتسمى إيه ابن الحصان الصغير؟",
     "options": [
       {
-        "en": "Foal",
-        "ar": "مهر"
-      },
-      {
-        "en": "Calf",
-        "ar": "عجل"
-      },
-      {
         "en": "Kid",
         "ar": "جدي"
       },
       {
         "en": "Cub",
         "ar": "شبل"
+      },
+      {
+        "en": "Foal",
+        "ar": "مهر"
+      },
+      {
+        "en": "Calf",
+        "ar": "عجل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A baby horse is called a foal.",
     "explanation_ar": "ابن الحصان الصغير بيتسمى \"مهر\"."
   },
@@ -159,10 +159,6 @@
     "question_ar": "بيتسمى إيه ابن الخروف الصغير؟",
     "options": [
       {
-        "en": "Lamb",
-        "ar": "حمل"
-      },
-      {
         "en": "Kid",
         "ar": "جدي"
       },
@@ -173,9 +169,13 @@
       {
         "en": "Cub",
         "ar": "شبل"
+      },
+      {
+        "en": "Lamb",
+        "ar": "حمل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "A baby sheep is called a lamb.",
     "explanation_ar": "ابن الخروف الصغير بيتسمى \"حمل\"."
   },
@@ -189,10 +189,6 @@
     "question_ar": "بيتسمى إيه ابن الماعز الصغير؟",
     "options": [
       {
-        "en": "Lamb",
-        "ar": "حمل"
-      },
-      {
         "en": "Kid",
         "ar": "جدي"
       },
@@ -203,9 +199,13 @@
       {
         "en": "Fawn",
         "ar": "خشف"
+      },
+      {
+        "en": "Lamb",
+        "ar": "حمل"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "A baby goat is called a kid.",
     "explanation_ar": "ابن الماعز الصغير بيتسمى \"جدي\"."
   },
@@ -219,10 +219,6 @@
     "question_ar": "بيتسمى إيه تجمع السمك؟",
     "options": [
       {
-        "en": "Herd",
-        "ar": "قطيع"
-      },
-      {
         "en": "Pride",
         "ar": "زمرة"
       },
@@ -233,9 +229,13 @@
       {
         "en": "Pack",
         "ar": "جماعة"
+      },
+      {
+        "en": "Herd",
+        "ar": "قطيع"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "A group of fish swimming together is called a school.",
     "explanation_ar": "تجمع السمك اللي بيعوم مع بعض بيتسمى \"سرب\"."
   },
@@ -249,23 +249,23 @@
     "question_ar": "بيتسمى إيه تجمع الطيور وهي طايرة مع بعض؟",
     "options": [
       {
-        "en": "Flock",
-        "ar": "سرب"
-      },
-      {
-        "en": "Pride",
-        "ar": "زمرة"
-      },
-      {
         "en": "Pod",
         "ar": "مجموعة دلافين"
       },
       {
         "en": "Herd",
         "ar": "قطيع"
+      },
+      {
+        "en": "Flock",
+        "ar": "سرب"
+      },
+      {
+        "en": "Pride",
+        "ar": "زمرة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "A group of birds flying together is called a flock.",
     "explanation_ar": "تجمع الطيور وهي طايرة مع بعض بيتسمى \"سرب\"."
   },
@@ -279,10 +279,6 @@
     "question_ar": "بيتسمى إيه تجمع الحيتان أو الدلافين؟",
     "options": [
       {
-        "en": "Pod",
-        "ar": "مجموعة"
-      },
-      {
         "en": "School",
         "ar": "سرب سمك"
       },
@@ -293,9 +289,13 @@
       {
         "en": "Herd",
         "ar": "قطيع"
+      },
+      {
+        "en": "Pod",
+        "ar": "مجموعة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "A group of whales or dolphins is called a pod.",
     "explanation_ar": "تجمع الحيتان أو الدلافين بيتسمى \"pod\"."
   },
@@ -369,6 +369,10 @@
     "question_ar": "إيه الموطن الطبيعي للجمل؟",
     "options": [
       {
+        "en": "Tundra",
+        "ar": "التندرا"
+      },
+      {
         "en": "Rainforest",
         "ar": "الغابة المطيرة"
       },
@@ -379,13 +383,9 @@
       {
         "en": "Ocean",
         "ar": "المحيط"
-      },
-      {
-        "en": "Tundra",
-        "ar": "التندرا"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Camels are naturally adapted to live in hot, dry deserts.",
     "explanation_ar": "الجمل مُتكيّف طبيعيًا عشان يعيش في الصحاري الحارة والجافة."
   },
@@ -399,6 +399,10 @@
     "question_ar": "الكنجرو أصله من أنهي قارة؟",
     "options": [
       {
+        "en": "South America",
+        "ar": "أمريكا الجنوبية"
+      },
+      {
         "en": "Africa",
         "ar": "أفريقيا"
       },
@@ -409,13 +413,9 @@
       {
         "en": "Australia",
         "ar": "أستراليا"
-      },
-      {
-        "en": "South America",
-        "ar": "أمريكا الجنوبية"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Kangaroos are native to Australia.",
     "explanation_ar": "الكنجرو أصله من أستراليا."
   },
@@ -429,10 +429,6 @@
     "question_ar": "الباندا العملاقة أصلها من أنهي دولة؟",
     "options": [
       {
-        "en": "Japan",
-        "ar": "اليابان"
-      },
-      {
         "en": "China",
         "ar": "الصين"
       },
@@ -443,9 +439,13 @@
       {
         "en": "Thailand",
         "ar": "تايلاند"
+      },
+      {
+        "en": "Japan",
+        "ar": "اليابان"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Giant pandas are native to China.",
     "explanation_ar": "الباندا العملاقة أصلها من الصين."
   },
@@ -519,23 +519,23 @@
     "question_ar": "الحيوانات اللي بتاكل نباتات بس بيتقالها إيه؟",
     "options": [
       {
-        "en": "Carnivores",
-        "ar": "لاحمة"
-      },
-      {
-        "en": "Herbivores",
-        "ar": "عاشبة"
-      },
-      {
         "en": "Omnivores",
         "ar": "آكلة كل شيء"
       },
       {
         "en": "Insectivores",
         "ar": "آكلة حشرات"
+      },
+      {
+        "en": "Carnivores",
+        "ar": "لاحمة"
+      },
+      {
+        "en": "Herbivores",
+        "ar": "عاشبة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Herbivores are animals whose diet consists only of plants.",
     "explanation_ar": "الحيوانات العاشبة أكلها كله نباتات."
   },
@@ -549,10 +549,6 @@
     "question_ar": "الحيوانات اللي بتاكل لحمة بس بيتقالها إيه؟",
     "options": [
       {
-        "en": "Herbivores",
-        "ar": "عاشبة"
-      },
-      {
         "en": "Carnivores",
         "ar": "لاحمة"
       },
@@ -563,9 +559,13 @@
       {
         "en": "Herbivorous",
         "ar": "نباتية"
+      },
+      {
+        "en": "Herbivores",
+        "ar": "عاشبة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Carnivores are animals whose diet consists mainly of meat.",
     "explanation_ar": "الحيوانات اللاحمة أكلها أساسًا لحمة."
   },
@@ -579,10 +579,6 @@
     "question_ar": "الحيوان اللي بياكل نباتات ولحمة مع بعض بيتقاله إيه؟",
     "options": [
       {
-        "en": "Herbivore",
-        "ar": "عاشب"
-      },
-      {
         "en": "Carnivore",
         "ar": "لاحم"
       },
@@ -593,9 +589,13 @@
       {
         "en": "Predator",
         "ar": "مفترس"
+      },
+      {
+        "en": "Herbivore",
+        "ar": "عاشب"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Omnivores eat both plant and animal matter.",
     "explanation_ar": "الحيوانات آكلة كل شيء بتاكل نباتات ولحمة مع بعض."
   },
@@ -609,6 +609,10 @@
     "question_ar": "إيه الحيوان من دول اللي بيدخل في سبات شتوي؟",
     "options": [
       {
+        "en": "Zebra",
+        "ar": "الحمار الوحشي"
+      },
+      {
         "en": "Lion",
         "ar": "الأسد"
       },
@@ -619,13 +623,9 @@
       {
         "en": "Elephant",
         "ar": "الفيل"
-      },
-      {
-        "en": "Zebra",
-        "ar": "الحمار الوحشي"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Many bear species hibernate to survive the cold winter months.",
     "explanation_ar": "كتير من أنواع الدببة بتدخل في سبات عشان تعدي شهور الشتا الباردة."
   },
@@ -639,23 +639,23 @@
     "question_ar": "إيه الحيوان المشهور بحاسة شم قوية جدًا بتتستخدم في التتبع؟",
     "options": [
       {
-        "en": "Cat",
-        "ar": "القطة"
-      },
-      {
-        "en": "Dog",
-        "ar": "الكلب"
-      },
-      {
         "en": "Bird",
         "ar": "الطائر"
       },
       {
         "en": "Fish",
         "ar": "السمكة"
+      },
+      {
+        "en": "Cat",
+        "ar": "القطة"
+      },
+      {
+        "en": "Dog",
+        "ar": "الكلب"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Dogs have a highly developed sense of smell, used for tracking scents.",
     "explanation_ar": "الكلب عنده حاسة شم قوية جدًا بتتستخدم في تتبع الروايح."
   },
@@ -669,23 +669,23 @@
     "question_ar": "إيه نوع الثعلب الصغير اللي بيتلاقى في صحرا مصر ومعروف بودانه الكبيرة جدًا؟",
     "options": [
       {
-        "en": "Red fox",
-        "ar": "الثعلب الأحمر"
-      },
-      {
-        "en": "Arctic fox",
-        "ar": "ثعلب القطب"
-      },
-      {
         "en": "Fennec fox",
         "ar": "ثعلب الفنك"
       },
       {
         "en": "Grey fox",
         "ar": "الثعلب الرمادي"
+      },
+      {
+        "en": "Red fox",
+        "ar": "الثعلب الأحمر"
+      },
+      {
+        "en": "Arctic fox",
+        "ar": "ثعلب القطب"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "The fennec fox has huge ears that help it release heat in the desert.",
     "explanation_ar": "ثعلب الفنك ودانه كبيرة جدًا بتساعده يتخلص من الحرارة في الصحرا."
   },
@@ -699,10 +699,6 @@
     "question_ar": "إيه القط الكبير اللي مايزئرش لكن بيهدهد بدل كده؟",
     "options": [
       {
-        "en": "Lion",
-        "ar": "الأسد"
-      },
-      {
         "en": "Tiger",
         "ar": "النمر"
       },
@@ -713,9 +709,13 @@
       {
         "en": "Leopard",
         "ar": "الفهد المرقط"
+      },
+      {
+        "en": "Lion",
+        "ar": "الأسد"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Unlike lions and tigers, cheetahs cannot roar; they purr like house cats.",
     "explanation_ar": "على عكس الأسد والنمر، الفهد الصياد مايزئرش، هو بيهدهد زي القطط العادية."
   },
@@ -729,6 +729,10 @@
     "question_ar": "إيه القط الكبير الوحيد اللي بيعيش غالبًا في مجموعات اجتماعية اسمها \"الزمر\"؟",
     "options": [
       {
+        "en": "Jaguar",
+        "ar": "الجاغوار"
+      },
+      {
         "en": "Tiger",
         "ar": "النمر"
       },
@@ -739,13 +743,9 @@
       {
         "en": "Leopard",
         "ar": "الفهد المرقط"
-      },
-      {
-        "en": "Jaguar",
-        "ar": "الجاغوار"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Lions are unusual among big cats for living in social groups called prides.",
     "explanation_ar": "الأسد شاذ بين القطط الكبيرة لأنه بيعيش في مجموعات اجتماعية اسمها \"الزمر\"."
   },
@@ -759,10 +759,6 @@
     "question_ar": "إيه الزواحف المعروفة إنها بتقدر تنبت ديلها تاني لو اتقطع؟",
     "options": [
       {
-        "en": "Lizard",
-        "ar": "السحلية"
-      },
-      {
         "en": "Snake",
         "ar": "الثعبان"
       },
@@ -773,9 +769,13 @@
       {
         "en": "Crocodile",
         "ar": "التمساح"
+      },
+      {
+        "en": "Lizard",
+        "ar": "السحلية"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Many lizards can regrow a lost tail as a defense mechanism.",
     "explanation_ar": "كتير من السحالي بتقدر تنبت ديلها تاني لو اتقطع كوسيلة دفاع."
   },
@@ -789,10 +789,6 @@
     "question_ar": "إيه الكائن البحري طري الجسم اللي بيرش حبر عشان يهرب من المفترسين؟",
     "options": [
       {
-        "en": "Crab",
-        "ar": "السلطعون"
-      },
-      {
         "en": "Octopus",
         "ar": "الأخطبوط"
       },
@@ -803,9 +799,13 @@
       {
         "en": "Starfish",
         "ar": "نجم البحر"
+      },
+      {
+        "en": "Crab",
+        "ar": "السلطعون"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Octopuses release a cloud of ink to confuse predators and escape.",
     "explanation_ar": "الأخطبوط بيطلق سحابة حبر عشان يلخبط المفترسين ويهرب."
   },
@@ -819,6 +819,10 @@
     "question_ar": "بيتسمى إيه تجمع الفيلة؟",
     "options": [
       {
+        "en": "Flock",
+        "ar": "سرب"
+      },
+      {
         "en": "Herd",
         "ar": "قطيع"
       },
@@ -829,13 +833,9 @@
       {
         "en": "Pod",
         "ar": "مجموعة"
-      },
-      {
-        "en": "Flock",
-        "ar": "سرب"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "A group of elephants is called a herd.",
     "explanation_ar": "تجمع الفيلة بيتسمى \"قطيع\"."
   },
@@ -849,6 +849,10 @@
     "question_ar": "بيتسمى إيه ابن الفيل الصغير؟",
     "options": [
       {
+        "en": "Kid",
+        "ar": "جدي"
+      },
+      {
         "en": "Cub",
         "ar": "شبل"
       },
@@ -859,13 +863,9 @@
       {
         "en": "Joey",
         "ar": "جوي"
-      },
-      {
-        "en": "Kid",
-        "ar": "جدي"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "A baby elephant is called a calf.",
     "explanation_ar": "ابن الفيل الصغير بيتسمى \"عجل\"."
   },
@@ -879,10 +879,6 @@
     "question_ar": "بيتسمى إيه ابن الأسد الصغير؟",
     "options": [
       {
-        "en": "Cub",
-        "ar": "شبل"
-      },
-      {
         "en": "Calf",
         "ar": "عجل"
       },
@@ -893,9 +889,13 @@
       {
         "en": "Pup",
         "ar": "جرو"
+      },
+      {
+        "en": "Cub",
+        "ar": "شبل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "A baby lion is called a cub.",
     "explanation_ar": "ابن الأسد الصغير بيتسمى \"شبل\"."
   },
@@ -909,10 +909,6 @@
     "question_ar": "بيتسمى إيه ابن الثعلب الصغير؟",
     "options": [
       {
-        "en": "Cub",
-        "ar": "شبل"
-      },
-      {
         "en": "Kit",
         "ar": "كِت"
       },
@@ -923,9 +919,13 @@
       {
         "en": "Calf",
         "ar": "عجل"
+      },
+      {
+        "en": "Cub",
+        "ar": "شبل"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "A baby fox is called a kit.",
     "explanation_ar": "ابن الثعلب الصغير بيتسمى \"كِت\"."
   },
@@ -969,6 +969,10 @@
     "question_ar": "إيه اللي سنام الجمل بيخزنه أساسًا؟",
     "options": [
       {
+        "en": "Blood",
+        "ar": "دم"
+      },
+      {
         "en": "Water",
         "ar": "مية"
       },
@@ -979,13 +983,9 @@
       {
         "en": "Muscle",
         "ar": "عضلات"
-      },
-      {
-        "en": "Blood",
-        "ar": "دم"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Camel humps store fat, not water, which the camel uses for energy.",
     "explanation_ar": "سنام الجمل بيخزن دهون مش مية، والجمل بيستخدمها كطاقة."
   },
@@ -999,23 +999,23 @@
     "question_ar": "الزرافة عندها كام فقرة في رقبتها، وهو نفس العدد الموجود عند البني آدمين؟",
     "options": [
       {
-        "en": "3",
-        "ar": "3"
-      },
-      {
-        "en": "7",
-        "ar": "7"
-      },
-      {
         "en": "14",
         "ar": "14"
       },
       {
         "en": "21",
         "ar": "21"
+      },
+      {
+        "en": "3",
+        "ar": "3"
+      },
+      {
+        "en": "7",
+        "ar": "7"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Despite their long necks, giraffes have 7 neck vertebrae — the same as humans.",
     "explanation_ar": "برغم رقبتها الطويلة، الزرافة عندها 7 فقرات في رقبتها، زي البني آدمين بالظبط."
   },
@@ -1089,6 +1089,10 @@
     "question_ar": "الفيلة بترفرف بودانها الكبيرة أساسًا عشان تعمل إيه؟",
     "options": [
       {
+        "en": "Communicate danger only",
+        "ar": "تنبّه من خطر بس"
+      },
+      {
         "en": "Attract mates",
         "ar": "تجذب شريك"
       },
@@ -1099,13 +1103,9 @@
       {
         "en": "Scare away insects only",
         "ar": "تخوّف الحشرات بس"
-      },
-      {
-        "en": "Communicate danger only",
-        "ar": "تنبّه من خطر بس"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Flapping their large ears helps elephants release heat and cool down.",
     "explanation_ar": "رفرفة الودان الكبيرة بتساعد الفيل يطلع حرارة زيادة ويبرد جسمه."
   },
@@ -1119,23 +1119,23 @@
     "question_ar": "بيتسمى إيه تجمع الوز وهو ماشي على الأرض؟",
     "options": [
       {
-        "en": "Flock",
-        "ar": "سرب"
-      },
-      {
-        "en": "Gaggle",
-        "ar": "تجمع وز"
-      },
-      {
         "en": "Pride",
         "ar": "زمرة"
       },
       {
         "en": "Herd",
         "ar": "قطيع"
+      },
+      {
+        "en": "Flock",
+        "ar": "سرب"
+      },
+      {
+        "en": "Gaggle",
+        "ar": "تجمع وز"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "A group of geese on the ground is called a gaggle.",
     "explanation_ar": "تجمع الوز وهو ماشي على الأرض بيتسمى \"gaggle\"."
   },
@@ -1179,6 +1179,10 @@
     "question_ar": "إيه الثديي الغريب اللي بيحط بيض بدل ما يولّد؟",
     "options": [
       {
+        "en": "Hedgehog",
+        "ar": "القنفذ"
+      },
+      {
         "en": "Platypus",
         "ar": "خلد الماء"
       },
@@ -1189,13 +1193,9 @@
       {
         "en": "Koala",
         "ar": "الكوالا"
-      },
-      {
-        "en": "Hedgehog",
-        "ar": "القنفذ"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The platypus is one of the very few mammals that lay eggs.",
     "explanation_ar": "خلد الماء من أقل الثدييات اللي بتحط بيض بدل ما تولّد."
   },
@@ -1239,10 +1239,6 @@
     "question_ar": "بيتسمى إيه تجمع البوم؟",
     "options": [
       {
-        "en": "Parliament",
-        "ar": "برلمان"
-      },
-      {
         "en": "Herd",
         "ar": "قطيع"
       },
@@ -1253,9 +1249,13 @@
       {
         "en": "School",
         "ar": "سرب"
+      },
+      {
+        "en": "Parliament",
+        "ar": "برلمان"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "A group of owls is called a parliament.",
     "explanation_ar": "تجمع البوم بيتسمى \"برلمان\"."
   },
@@ -1299,6 +1299,10 @@
     "question_ar": "بيتسمى إيه تجمع التماسيح؟",
     "options": [
       {
+        "en": "Flock",
+        "ar": "سرب"
+      },
+      {
         "en": "Bask",
         "ar": "تجمع تماسيح"
       },
@@ -1309,13 +1313,9 @@
       {
         "en": "Pride",
         "ar": "زمرة"
-      },
-      {
-        "en": "Flock",
-        "ar": "سرب"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "A group of crocodiles resting together is called a bask.",
     "explanation_ar": "تجمع التماسيح وهي مستريحة مع بعض بيتسمى \"bask\"."
   },
@@ -1329,6 +1329,10 @@
     "question_ar": "إيه أحد الأسباب المقبولة إن الحمار الوحشي عنده خطوط سودا وبيضا؟",
     "options": [
       {
+        "en": "To change color with seasons",
+        "ar": "عشان يغيّر لونه مع الفصول"
+      },
+      {
         "en": "To store extra fat",
         "ar": "عشان يخزن دهون زيادة"
       },
@@ -1339,13 +1343,9 @@
       {
         "en": "To attract more rainfall",
         "ar": "عشان يجذب المطر"
-      },
-      {
-        "en": "To change color with seasons",
-        "ar": "عشان يغيّر لونه مع الفصول"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "One leading theory is that the stripe pattern helps confuse predators, especially in groups.",
     "explanation_ar": "من أهم النظريات إن الخطوط بتساعد تلخبط المفترسين، خصوصًا لما الحمير الوحشي تكون مع بعض."
   },
@@ -1359,10 +1359,6 @@
     "question_ar": "بيتسمى إيه تجمع النمل؟",
     "options": [
       {
-        "en": "Colony",
-        "ar": "مستعمرة"
-      },
-      {
         "en": "Herd",
         "ar": "قطيع"
       },
@@ -1373,9 +1369,13 @@
       {
         "en": "School",
         "ar": "سرب"
+      },
+      {
+        "en": "Colony",
+        "ar": "مستعمرة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "A group of ants living together is called a colony.",
     "explanation_ar": "تجمع النمل اللي بيعيش مع بعض بيتسمى \"مستعمرة\"."
   },
@@ -1389,10 +1389,6 @@
     "question_ar": "بيتسمى إيه ابن الحوت الصغير؟",
     "options": [
       {
-        "en": "Pup",
-        "ar": "جرو"
-      },
-      {
         "en": "Calf",
         "ar": "عجل"
       },
@@ -1403,9 +1399,13 @@
       {
         "en": "Kid",
         "ar": "جدي"
+      },
+      {
+        "en": "Pup",
+        "ar": "جرو"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "A baby whale is called a calf.",
     "explanation_ar": "ابن الحوت الصغير بيتسمى \"عجل\"."
   },
@@ -1449,23 +1449,23 @@
     "question_ar": "إيه الحيوان الجرابي اللي زي الكنجرو بيحمل صغيره في جراب وعايش فوق شجر أستراليا؟",
     "options": [
       {
-        "en": "Koala",
-        "ar": "الكوالا"
-      },
-      {
-        "en": "Panda",
-        "ar": "الباندا"
-      },
-      {
         "en": "Sloth",
         "ar": "الكسلان"
       },
       {
         "en": "Lemur",
         "ar": "الليمور"
+      },
+      {
+        "en": "Koala",
+        "ar": "الكوالا"
+      },
+      {
+        "en": "Panda",
+        "ar": "الباندا"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The koala is a marsupial that carries its young in a pouch, like the kangaroo.",
     "explanation_ar": "الكوالا حيوان جرابي بيحمل صغيره في جراب، زي الكنجرو."
   },
@@ -1479,10 +1479,6 @@
     "question_ar": "بيتسمى إيه ابن النسر الصغير؟",
     "options": [
       {
-        "en": "Eaglet",
-        "ar": "نسر صغير"
-      },
-      {
         "en": "Chick",
         "ar": "كتكوت"
       },
@@ -1493,9 +1489,13 @@
       {
         "en": "Fledgling",
         "ar": "فرخ"
+      },
+      {
+        "en": "Eaglet",
+        "ar": "نسر صغير"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "A baby eagle is called an eaglet.",
     "explanation_ar": "ابن النسر الصغير بيتسمى \"eaglet\"."
   }

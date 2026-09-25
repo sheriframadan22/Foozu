@@ -39,6 +39,10 @@
     "question_ar": "إيه نوع قنديل البحر المشهور بقدرته إنه يرجع لمرحلة حياة أصغر ويتعتبر \"خالد\" بيولوجيًا؟",
     "options": [
       {
+        "en": "Lion's mane jellyfish",
+        "ar": "قنديل لبدة الأسد"
+      },
+      {
         "en": "Moon jellyfish",
         "ar": "قنديل القمر"
       },
@@ -49,13 +53,9 @@
       {
         "en": "Turritopsis dohrnii",
         "ar": "توريتوبسيس دورنيي"
-      },
-      {
-        "en": "Lion's mane jellyfish",
-        "ar": "قنديل لبدة الأسد"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Turritopsis dohrnii can revert its cells to an earlier polyp stage, effectively resetting its life cycle.",
     "explanation_ar": "توريتوبسيس دورنيي يقدر يرجّع خلاياه لمرحلة أبكر، وده بيعيد ضبط دورة حياته من الأول."
   },
@@ -129,23 +129,23 @@
     "question_ar": "إيه الحيوان الصغير المعروف إنه قدر يعيش لما اتعرض لفراغ الفضا في تجارب علمية؟",
     "options": [
       {
-        "en": "Tardigrade (water bear)",
-        "ar": "دبدوب المية (تارديجريد)"
-      },
-      {
-        "en": "Fruit fly",
-        "ar": "دبانة الفاكهة"
-      },
-      {
         "en": "Ant",
         "ar": "النملة"
       },
       {
         "en": "Nematode worm",
         "ar": "الدودة الخيطية"
+      },
+      {
+        "en": "Tardigrade (water bear)",
+        "ar": "دبدوب المية (تارديجريد)"
+      },
+      {
+        "en": "Fruit fly",
+        "ar": "دبانة الفاكهة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Tardigrades have survived direct exposure to the vacuum and radiation of outer space in experiments.",
     "explanation_ar": "دبدوب المية (التارديجريد) عاش لما اتعرض مباشرة لفراغ وإشعاع الفضا في تجارب علمية."
   },
@@ -159,23 +159,23 @@
     "question_ar": "الفار الأعرى بيتم دراسته من العلما أساسًا عشان عنده مقاومة غريبة لإيه مرض؟",
     "options": [
       {
-        "en": "The common cold",
-        "ar": "الرشح العادي"
-      },
-      {
-        "en": "Cancer",
-        "ar": "السرطان"
-      },
-      {
         "en": "Diabetes",
         "ar": "السكر"
       },
       {
         "en": "Malaria",
         "ar": "الملاريا"
+      },
+      {
+        "en": "The common cold",
+        "ar": "الرشح العادي"
+      },
+      {
+        "en": "Cancer",
+        "ar": "السرطان"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Naked mole rats show remarkable natural resistance to cancer, making them a major subject of medical research.",
     "explanation_ar": "الفار الأعرى عنده مقاومة طبيعية غريبة للسرطان، وده خلاه موضوع بحث طبي مهم."
   },
@@ -189,10 +189,6 @@
     "question_ar": "دبوس جمبري المسدس بيكوّن فقاعة بتنفجر بقوة توصل درجة حرارتها مؤقتًا لحاجة قريبة من إيه؟",
     "options": [
       {
-        "en": "Boiling water",
-        "ar": "مية بتغلي"
-      },
-      {
         "en": "The surface of the sun",
         "ar": "سطح الشمس"
       },
@@ -203,9 +199,13 @@
       {
         "en": "Human body temperature",
         "ar": "حرارة جسم الإنسان"
+      },
+      {
+        "en": "Boiling water",
+        "ar": "مية بتغلي"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The collapsing bubble from a pistol shrimp's snap can briefly reach temperatures close to the sun's surface.",
     "explanation_ar": "الفقاعة اللي بتنفجر من ضربة جمبري المسدس ممكن توصل مؤقتًا لحرارة قريبة من سطح الشمس."
   },
@@ -249,6 +249,10 @@
     "question_ar": "ذكر خلد الماء غريب بين الثدييات لأن عنده إيه في رجليه الخلفيتين؟",
     "options": [
       {
+        "en": "A pouch",
+        "ar": "جراب"
+      },
+      {
         "en": "Extra toes",
         "ar": "أصابع زيادة"
       },
@@ -259,13 +263,9 @@
       {
         "en": "Webbed claws only",
         "ar": "مخالب مكفوفة بس"
-      },
-      {
-        "en": "A pouch",
-        "ar": "جراب"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Male platypuses have venomous spurs on their hind legs, one of the few venomous mammals known.",
     "explanation_ar": "ذكر خلد الماء عنده أشواك سامة في رجليه الخلفيتين، وهو من أقل الثدييات المعروف إنها سامة."
   },
@@ -279,6 +279,10 @@
     "question_ar": "السمكة الرعادة (الأنقليس الكهربائي) تقدر تولّد صدمات كهربائية توصل لحوالي كام فولت؟",
     "options": [
       {
+        "en": "6,000 volts",
+        "ar": "6000 فولت"
+      },
+      {
         "en": "60 volts",
         "ar": "60 فولت"
       },
@@ -289,13 +293,9 @@
       {
         "en": "600 volts",
         "ar": "600 فولت"
-      },
-      {
-        "en": "6,000 volts",
-        "ar": "6000 فولت"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Electric eels can produce electric discharges of up to around 600 volts to stun prey or predators.",
     "explanation_ar": "السمكة الرعادة تقدر تولّد صدمات كهربائية توصل لحوالي 600 فولت عشان تصعق فريستها أو المفترسين."
   },
@@ -309,10 +309,6 @@
     "question_ar": "إيه نوع القرش اللي بقى العلما يعتقدوا إنه من أطول الفقاريات عمرًا، وممكن يعيش لعدة قرون؟",
     "options": [
       {
-        "en": "Whale shark",
-        "ar": "قرش الحوت"
-      },
-      {
         "en": "Greenland shark",
         "ar": "قرش جرينلاند"
       },
@@ -323,9 +319,13 @@
       {
         "en": "Tiger shark",
         "ar": "قرش النمر"
+      },
+      {
+        "en": "Whale shark",
+        "ar": "قرش الحوت"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Studies suggest Greenland sharks may live several hundred years, making them the longest-lived vertebrates known.",
     "explanation_ar": "الدراسات بتقول إن قرش جرينلاند ممكن يعيش لعدة مئات من السنين، وده يخليه من أطول الفقاريات عمرًا معروفة.",
     "verified_as_of": "2016-01"
@@ -340,6 +340,10 @@
     "question_ar": "إيه من دول بيتعتبر من أصغر أنواع القروش المعروفة، وبيوصل بس لحوالي 17-20 سم وهو بالغ؟",
     "options": [
       {
+        "en": "Blacktip reef shark",
+        "ar": "قرش الشعاب أسود الطرف"
+      },
+      {
         "en": "Dwarf lanternshark",
         "ar": "قرش الفانوس القزم"
       },
@@ -350,13 +354,9 @@
       {
         "en": "Bull shark",
         "ar": "قرش الثور"
-      },
-      {
-        "en": "Blacktip reef shark",
-        "ar": "قرش الشعاب أسود الطرف"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The dwarf lanternshark is one of the smallest known shark species, reaching only about 17-20 cm long.",
     "explanation_ar": "قرش الفانوس القزم من أصغر أنواع القروش المعروفة، وبيوصل بس لحوالي 17-20 سم طول."
   },
@@ -370,6 +370,10 @@
     "question_ar": "سمكة الحبار غريبة لإن حدقة عينها شكلها زي إيه حرف؟",
     "options": [
       {
+        "en": "X",
+        "ar": "X"
+      },
+      {
         "en": "O",
         "ar": "O"
       },
@@ -380,13 +384,9 @@
       {
         "en": "S",
         "ar": "S"
-      },
-      {
-        "en": "X",
-        "ar": "X"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Cuttlefish have distinctive W-shaped pupils.",
     "explanation_ar": "سمكة الحبار عندها حدقة عين شكلها مميز زي حرف W."
   },
@@ -400,23 +400,23 @@
     "question_ar": "إيه الأخطبوط الصغير اللي سمّه قوي بما يكفي عشان يقتل كذا بني آدم بالغ، ومفيش له ترياق معروف؟",
     "options": [
       {
-        "en": "Common octopus",
-        "ar": "الأخطبوط العادي"
-      },
-      {
-        "en": "Blue-ringed octopus",
-        "ar": "الأخطبوط ذو الحلقات الزرقاء"
-      },
-      {
         "en": "Giant Pacific octopus",
         "ar": "أخطبوط المحيط الهادي العملاق"
       },
       {
         "en": "Mimic octopus",
         "ar": "الأخطبوط المقلد"
+      },
+      {
+        "en": "Common octopus",
+        "ar": "الأخطبوط العادي"
+      },
+      {
+        "en": "Blue-ringed octopus",
+        "ar": "الأخطبوط ذو الحلقات الزرقاء"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The blue-ringed octopus carries venom potent enough to be lethal to humans, with no known antivenom.",
     "explanation_ar": "الأخطبوط ذو الحلقات الزرقاء سمّه قوي كفاية إنه يكون قاتل للبني آدمين، ومفيش له ترياق معروف."
   },
@@ -430,10 +430,6 @@
     "question_ar": "بعض أنواع القروش اتوثق إنها بتتكاثر من غير ذكر، من خلال عملية اسمها إيه؟",
     "options": [
       {
-        "en": "Cloning",
-        "ar": "استنساخ"
-      },
-      {
         "en": "Parthenogenesis",
         "ar": "تكاثر عذري"
       },
@@ -444,9 +440,13 @@
       {
         "en": "Fragmentation",
         "ar": "التجزؤ"
+      },
+      {
+        "en": "Cloning",
+        "ar": "استنساخ"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Parthenogenesis, or \"virgin birth,\" has been documented in captive female sharks reproducing without a mate.",
     "explanation_ar": "التكاثر العذري، أو \"الولادة البتولية\"، اتوثق عند إناث قروش في الأسر بتتكاثر من غير شريك."
   },
@@ -490,23 +490,23 @@
     "question_ar": "الفار الأعرى غريب بين الثدييات لأنه بيعيش في مستعمرات متنظمة زي إيه حشرات؟",
     "options": [
       {
-        "en": "Bees or ants",
-        "ar": "النحل أو النمل"
-      },
-      {
-        "en": "Butterflies",
-        "ar": "الفراشات"
-      },
-      {
         "en": "Beetles",
         "ar": "الخنافس"
       },
       {
         "en": "Dragonflies",
         "ar": "اليعاسيب"
+      },
+      {
+        "en": "Bees or ants",
+        "ar": "النحل أو النمل"
+      },
+      {
+        "en": "Butterflies",
+        "ar": "الفراشات"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Naked mole rats are one of the very few mammals that live in eusocial colonies, similar to bees or ants.",
     "explanation_ar": "الفار الأعرى من أقل الثدييات اللي بتعيش في مستعمرات اجتماعية منظمة، زي النحل أو النمل."
   },
@@ -520,10 +520,6 @@
     "question_ar": "إيه الثديي من أقل الثدييات المعروف إنه سام، وبيوصّل السم من غدة قريبة من كوعه مخلوطة باللعاب؟",
     "options": [
       {
-        "en": "Slow loris",
-        "ar": "اللوريس البطيء"
-      },
-      {
         "en": "Hedgehog",
         "ar": "القنفذ"
       },
@@ -534,9 +530,13 @@
       {
         "en": "Platypus",
         "ar": "خلد الماء"
+      },
+      {
+        "en": "Slow loris",
+        "ar": "اللوريس البطيء"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The slow loris is one of the few venomous mammals, mixing gland secretions with saliva to deliver toxin.",
     "explanation_ar": "اللوريس البطيء من أقل الثدييات السامة، بيخلط إفرازات غدته مع لعابه عشان يوصّل السم."
   },
@@ -550,10 +550,6 @@
     "question_ar": "خلد النجمة الأنف مميز بقدرته إنه يتعرف على الأكل وياكله أسرع من أي ثديي تاني — في وقت يوصل لحد كام؟",
     "options": [
       {
-        "en": "About 1 second",
-        "ar": "حوالي ثانية"
-      },
-      {
         "en": "About 120 milliseconds",
         "ar": "حوالي 120 ملي ثانية"
       },
@@ -564,9 +560,13 @@
       {
         "en": "About half a minute",
         "ar": "حوالي نص دقيقة"
+      },
+      {
+        "en": "About 1 second",
+        "ar": "حوالي ثانية"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The star-nosed mole can identify and eat prey in as little as about 120 milliseconds, the fastest known among mammals.",
     "explanation_ar": "خلد النجمة الأنف يقدر يتعرف على فريسته وياكلها في وقت يوصل لحوالي 120 ملي ثانية، وده أسرع معدل معروف بين الثدييات."
   },
@@ -610,23 +610,23 @@
     "question_ar": "في بعض أنواع سمك الشيطان في أعماق البحار، إيه الحاجة الغريبة اللي بتحصل بين الذكر الأصغر بكتير والأنثى؟",
     "options": [
       {
-        "en": "The male permanently fuses to the female's body",
-        "ar": "الذكر بيندمج بشكل دائم في جسم الأنثى"
-      },
-      {
-        "en": "The male changes into a female",
-        "ar": "الذكر بيتحول لأنثى"
-      },
-      {
         "en": "The male lives inside the female's mouth permanently",
         "ar": "الذكر بيعيش جوه بق الأنثى بشكل دائم"
       },
       {
         "en": "They never meet after mating",
         "ar": "مابيتقابلوش تاني بعد التزاوج"
+      },
+      {
+        "en": "The male permanently fuses to the female's body",
+        "ar": "الذكر بيندمج بشكل دائم في جسم الأنثى"
+      },
+      {
+        "en": "The male changes into a female",
+        "ar": "الذكر بيتحول لأنثى"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "In several deep-sea anglerfish species, the tiny male permanently fuses to the female, sharing her bloodstream.",
     "explanation_ar": "في كذا نوع من سمك الشيطان في أعماق البحار، الذكر الصغير بيندمج بشكل دائم في جسم الأنثى وبيشارك دمها."
   },
@@ -640,23 +640,23 @@
     "question_ar": "الفيلة تقدر تحس بالخطر أو تتواصل لمسافات بعيدة عن طريق إحساسها بإيه من خلال رجليها؟",
     "options": [
       {
-        "en": "Changes in air temperature",
-        "ar": "تغيرات درجة حرارة الهوا"
-      },
-      {
-        "en": "Seismic vibrations (ground rumbles)",
-        "ar": "اهتزازات أرضية (رجّات في الأرض)"
-      },
-      {
         "en": "Changes in soil color",
         "ar": "تغيرات لون التربة"
       },
       {
         "en": "Magnetic fields only",
         "ar": "مجالات مغناطيسية بس"
+      },
+      {
+        "en": "Changes in air temperature",
+        "ar": "تغيرات درجة حرارة الهوا"
+      },
+      {
+        "en": "Seismic vibrations (ground rumbles)",
+        "ar": "اهتزازات أرضية (رجّات في الأرض)"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Elephants can sense low-frequency seismic vibrations through their feet, picking up rumbles from kilometers away.",
     "explanation_ar": "الفيلة تقدر تحس باهتزازات أرضية منخفضة التردد من خلال رجليها، وتلتقط رجّات من على بعد كيلومترات."
   },
@@ -670,10 +670,6 @@
     "question_ar": "الآي-آي، وهو ليمور ليلي من مدغشقر، بيستخدم أصبعه الأوسط الطويل بشكل غير عادي أساسًا عشان يعمل إيه؟",
     "options": [
       {
-        "en": "Groom its fur",
-        "ar": "ينضف فروه"
-      },
-      {
         "en": "Tap on wood to find and pull out grubs",
         "ar": "يدق على الخشب عشان يلاقي ويسحب الديدان"
       },
@@ -684,9 +680,13 @@
       {
         "en": "Signal to other lemurs",
         "ar": "يبعت إشارة لليموريات التانية"
+      },
+      {
+        "en": "Groom its fur",
+        "ar": "ينضف فروه"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The aye-aye taps on wood to locate hidden grubs, then uses its long finger to extract them.",
     "explanation_ar": "الآي-آي بيدق على الخشب عشان يلاقي الديدان المخبية، وبعدين بيستخدم أصبعه الطويل عشان يسحبها."
   },
@@ -730,6 +730,10 @@
     "question_ar": "كتير من الطيور، ومنها الحمام، بيتصور إنها بتتنقل لمسافات بعيدة باستخدام إيه حاسة خاصة؟",
     "options": [
       {
+        "en": "Ultrasonic hearing only",
+        "ar": "السمع فوق الصوتي بس"
+      },
+      {
         "en": "Echolocation",
         "ar": "تحديد الموقع بالصدى"
       },
@@ -740,13 +744,9 @@
       {
         "en": "Infrared vision",
         "ar": "الرؤية بالأشعة تحت الحمرا"
-      },
-      {
-        "en": "Ultrasonic hearing only",
-        "ar": "السمع فوق الصوتي بس"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Pigeons and many other birds are thought to sense the Earth's magnetic field to help navigate long distances.",
     "explanation_ar": "الحمام وكتير من الطيور التانية بيتصور إنها بتحس بالمجال المغناطيسي للأرض عشان تساعدها تتنقل لمسافات بعيدة."
   },
@@ -760,23 +760,23 @@
     "question_ar": "خنفسة صحراوية من صحرا ناميب في أفريقيا مشهورة إنها بتعيش عن طريق تجميع المية إزاي؟",
     "options": [
       {
-        "en": "Digging deep underground wells",
-        "ar": "بتحفر آبار عميقة تحت الأرض"
-      },
-      {
-        "en": "Condensing fog droplets on bumps on its back",
-        "ar": "بتكثف قطرات الضباب على نتوءات في ضهرها"
-      },
-      {
         "en": "Drinking only from rare rainstorms",
         "ar": "بتشرب بس من عواصف مطر نادرة"
       },
       {
         "en": "Extracting water from sand grains",
         "ar": "بتستخرج مية من حبات الرملة"
+      },
+      {
+        "en": "Digging deep underground wells",
+        "ar": "بتحفر آبار عميقة تحت الأرض"
+      },
+      {
+        "en": "Condensing fog droplets on bumps on its back",
+        "ar": "بتكثف قطرات الضباب على نتوءات في ضهرها"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "This beetle tilts its bumpy back into fog so water droplets condense and roll down into its mouth.",
     "explanation_ar": "الخنفسة دي بتميل ضهرها المليان نتوءات في اتجاه الضباب عشان قطرات المية تتكثف وتنزل لبقها."
   },
@@ -790,10 +790,6 @@
     "question_ar": "نسر مصر من أقل الطيور المعروفة إنها بتستخدم أدوات، وبالتحديد بتعمل إيه؟",
     "options": [
       {
-        "en": "Building nests from metal wire",
-        "ar": "بتبني عش من سلك معدني"
-      },
-      {
         "en": "Throwing rocks at ostrich eggs to crack them open",
         "ar": "بترمي حجارة على بيض النعام عشان تكسره"
       },
@@ -804,9 +800,13 @@
       {
         "en": "Digging with sticks for insects",
         "ar": "بتحفر بعصايات عشان تدور على حشرات"
+      },
+      {
+        "en": "Building nests from metal wire",
+        "ar": "بتبني عش من سلك معدني"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The Egyptian vulture is famous for using rocks as tools to crack open thick ostrich eggs.",
     "explanation_ar": "نسر مصر مشهور باستخدام الحجارة كأداة عشان يكسر بيض النعام السميك."
   },
@@ -850,6 +850,10 @@
     "question_ar": "دم الجمل عنده خلايا شكلها مختلف عن أغلب الثدييات، وده بيساعده يقاوم الجفاف. إيه شكل الخلايا؟",
     "options": [
       {
+        "en": "Star-shaped",
+        "ar": "نجمي"
+      },
+      {
         "en": "Round",
         "ar": "دائري"
       },
@@ -860,13 +864,9 @@
       {
         "en": "Square",
         "ar": "مربع"
-      },
-      {
-        "en": "Star-shaped",
-        "ar": "نجمي"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Camel red blood cells are oval-shaped rather than round, letting them keep flowing even when the camel is very dehydrated.",
     "explanation_ar": "خلايا دم الجمل الحمرا شكلها بيضاوي مش دائري، وده بيخليها تفضل سايلة حتى لما الجمل يكون عطشان جدًا."
   },
@@ -880,23 +880,23 @@
     "question_ar": "الكسلان معروف إنه بينزل من الشجرة عشان يقضي حاجته بس كل قد إيه؟",
     "options": [
       {
-        "en": "Every day",
-        "ar": "كل يوم"
-      },
-      {
-        "en": "Once a week",
-        "ar": "مرة في الأسبوع"
-      },
-      {
         "en": "Once a month",
         "ar": "مرة في الشهر"
       },
       {
         "en": "Every few hours",
         "ar": "كل كام ساعة"
+      },
+      {
+        "en": "Every day",
+        "ar": "كل يوم"
+      },
+      {
+        "en": "Once a week",
+        "ar": "مرة في الأسبوع"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Sloths typically climb down to the ground to defecate only about once a week.",
     "explanation_ar": "الكسلان عادةً بينزل الأرض عشان يقضي حاجته بس مرة في الأسبوع تقريبًا."
   },
@@ -910,10 +910,6 @@
     "question_ar": "خنفسة القصف بتدافع عن نفسها إزاي؟",
     "options": [
       {
-        "en": "Spitting acid from its mouth",
-        "ar": "بترش حمض من بقها"
-      },
-      {
         "en": "Spraying a boiling-hot chemical mixture from its abdomen",
         "ar": "بترش خليط كيميائي مغلي من بطنها"
       },
@@ -924,9 +920,13 @@
       {
         "en": "Producing a loud ultrasonic scream",
         "ar": "بتصدر صرخة فوق صوتية عالية"
+      },
+      {
+        "en": "Spitting acid from its mouth",
+        "ar": "بترش حمض من بقها"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The bombardier beetle mixes chemicals in its body to spray a boiling-hot, irritating liquid at attackers.",
     "explanation_ar": "خنفسة القصف بتخلط مواد كيميائية في جسمها عشان ترش سائل مغلي ومهيّج على اللي بيهاجمها."
   },
@@ -970,6 +970,10 @@
     "question_ar": "بعض أنواع النمل اللي بتتصاب بفطر معين بيتحكم فيها فتطلع تعض على ورق الشجر قبل ما تموت — إيه اللقب الشائع لهذا الفطر؟",
     "options": [
       {
+        "en": "The \"sweet tooth\" fungus",
+        "ar": "فطر \"حب الحلويات\""
+      },
+      {
         "en": "The \"sleeping\" fungus",
         "ar": "فطر \"النوم\""
       },
@@ -980,13 +984,9 @@
       {
         "en": "The \"golden\" fungus",
         "ar": "الفطر \"الدهبي\""
-      },
-      {
-        "en": "The \"sweet tooth\" fungus",
-        "ar": "فطر \"حب الحلويات\""
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Ophiocordyceps fungus controls infected ants' behavior before killing them, earning it the nickname the \"zombie ant\" fungus.",
     "explanation_ar": "فطر أوفيوكورديسيبس بيتحكم في سلوك النمل المصاب قبل ما يقتله، وده خلاه ياخد لقب فطر \"النمل الزومبي\"."
   },
@@ -1000,23 +1000,23 @@
     "question_ar": "لسان الحوت الأزرق لوحده ممكن يوصل وزنه لحاجة قريبة من إيه من دول؟",
     "options": [
       {
-        "en": "A car tire",
-        "ar": "إطار عربية"
-      },
-      {
-        "en": "An elephant",
-        "ar": "فيل"
-      },
-      {
         "en": "A large dog",
         "ar": "كلب كبير"
       },
       {
         "en": "A grown man",
         "ar": "راجل بالغ"
+      },
+      {
+        "en": "A car tire",
+        "ar": "إطار عربية"
+      },
+      {
+        "en": "An elephant",
+        "ar": "فيل"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "A blue whale's tongue can weigh as much as an elephant, reflecting the enormous scale of the animal.",
     "explanation_ar": "لسان الحوت الأزرق ممكن يوصل وزنه لوزن فيل كامل، وده بيعكس ضخامة حجم الحيوان."
   },
@@ -1120,23 +1120,23 @@
     "question_ar": "التماسيح، بما فيها تمساح النيل، مميزة لأن أسنانها بتعمل إيه طول حياتها؟",
     "options": [
       {
-        "en": "They stop growing after birth",
-        "ar": "بتوقف عن النمو بعد الولادة"
-      },
-      {
-        "en": "They are continuously replaced, sometimes thousands of times",
-        "ar": "بيتم استبدالها باستمرار، أحيانًا آلاف المرات"
-      },
-      {
         "en": "They turn a different color with age",
         "ar": "بتغيّر لونها مع العمر"
       },
       {
         "en": "They fall out permanently after adulthood",
         "ar": "بتقع نهائيًا بعد سن البلوغ"
+      },
+      {
+        "en": "They stop growing after birth",
+        "ar": "بتوقف عن النمو بعد الولادة"
+      },
+      {
+        "en": "They are continuously replaced, sometimes thousands of times",
+        "ar": "بيتم استبدالها باستمرار، أحيانًا آلاف المرات"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Crocodiles continuously replace their teeth throughout life, potentially going through thousands of teeth.",
     "explanation_ar": "التماسيح بتستبدل أسنانها باستمرار طول حياتها، وممكن تستخدم آلاف الأسنان على مدار عمرها."
   },
@@ -1150,10 +1150,6 @@
     "question_ar": "إيه سلالة القطط اللي يُعتقد إن أصلها من مصر، وغالبًا بيتقال عنها إنها أسرع سلالة قطط أليفة؟",
     "options": [
       {
-        "en": "Persian",
-        "ar": "الفارسي"
-      },
-      {
         "en": "Egyptian Mau",
         "ar": "الماو المصري"
       },
@@ -1164,9 +1160,13 @@
       {
         "en": "Sphynx",
         "ar": "السفينكس"
+      },
+      {
+        "en": "Persian",
+        "ar": "الفارسي"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The Egyptian Mau is native to Egypt and often described as the fastest domestic cat breed.",
     "explanation_ar": "الماو المصري أصله من مصر وغالبًا بيوصف بإنه أسرع سلالة قطط أليفة."
   },
@@ -1180,10 +1180,6 @@
     "question_ar": "إيه نوع الأخطبوط المعروف بتقليده لشكل وحركة أكتر من اتناشر حيوان بحري تاني عشان يتفادى المفترسين؟",
     "options": [
       {
-        "en": "Giant Pacific octopus",
-        "ar": "أخطبوط المحيط الهادي العملاق"
-      },
-      {
         "en": "Common octopus",
         "ar": "الأخطبوط العادي"
       },
@@ -1194,9 +1190,13 @@
       {
         "en": "Blue-ringed octopus",
         "ar": "الأخطبوط ذو الحلقات الزرقاء"
+      },
+      {
+        "en": "Giant Pacific octopus",
+        "ar": "أخطبوط المحيط الهادي العملاق"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "The mimic octopus can impersonate the appearance and behavior of over a dozen different sea creatures.",
     "explanation_ar": "الأخطبوط المقلد يقدر يقلد شكل وسلوك أكتر من اتناشر كائن بحري مختلف."
   },
@@ -1210,6 +1210,10 @@
     "question_ar": "دودة بومباي، اللي بتعيش جنب فتحات حرارية عميقة في قاع البحر، مميزة لأنها بتتحمل إيه؟",
     "options": [
       {
+        "en": "Very high air pressure on land",
+        "ar": "ضغط هوا عالي جدًا على اليابسة"
+      },
+      {
         "en": "Total darkness only",
         "ar": "الظلام التام بس"
       },
@@ -1220,13 +1224,9 @@
       {
         "en": "Freezing arctic water",
         "ar": "مياه القطب المتجمدة"
-      },
-      {
-        "en": "Very high air pressure on land",
-        "ar": "ضغط هوا عالي جدًا على اليابسة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "The Pompeii worm can tolerate extremely high temperatures near hydrothermal vents, among the most heat-tolerant animals known.",
     "explanation_ar": "دودة بومباي تقدر تتحمل درجات حرارة عالية جدًا جنب الفتحات الحرارية، وده يخليها من أكتر الحيوانات تحملًا للحرارة."
   },
@@ -1240,10 +1240,6 @@
     "question_ar": "خيار البحر عنده وسيلة دفاع غريبة بيقدر يعملها عشان يهرب من المفترسين، وهي إيه؟",
     "options": [
       {
-        "en": "Expel some of their internal organs",
-        "ar": "بيطرد بعض أعضائه الداخلية"
-      },
-      {
         "en": "Inflate to ten times their size",
         "ar": "بينفخ نفسه لعشرة أضعاف حجمه"
       },
@@ -1254,9 +1250,13 @@
       {
         "en": "Change into a hard shell instantly",
         "ar": "بيتحول لقوقعة صلبة فورًا"
+      },
+      {
+        "en": "Expel some of their internal organs",
+        "ar": "بيطرد بعض أعضائه الداخلية"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Some sea cucumbers can expel part of their internal organs to confuse or deter predators, then regenerate them.",
     "explanation_ar": "بعض أنواع خيار البحر تقدر تطرد جزء من أعضائها الداخلية عشان تلخبط أو تبعد المفترسين، وبعدين تنبتها تاني."
   },
@@ -1330,6 +1330,10 @@
     "question_ar": "الومبات معروف بإنتاج فضلات شكلها غريب. إيه الشكل ده؟",
     "options": [
       {
+        "en": "Flat and thin",
+        "ar": "مسطح ورفيع"
+      },
+      {
         "en": "Perfectly round",
         "ar": "دائري تمامًا"
       },
@@ -1340,13 +1344,9 @@
       {
         "en": "Star-shaped",
         "ar": "نجمي"
-      },
-      {
-        "en": "Flat and thin",
-        "ar": "مسطح ورفيع"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Wombats produce distinctly cube-shaped droppings, a result of the unique structure of their intestines.",
     "explanation_ar": "الومبات بينتج فضلات شكلها مكعب بشكل واضح، وده نتيجة تركيب مميز في أمعائه."
   },
@@ -1360,23 +1360,23 @@
     "question_ar": "أخطبوط المحيط الهادي العملاق بيتعتبر من أذكى اللافقاريات لإنه بيتلاحظ في الأسر وهو بيعمل إيه؟",
     "options": [
       {
-        "en": "Sleeping for months without moving",
-        "ar": "بينام شهور من غير ما يتحرك"
-      },
-      {
-        "en": "Solving mazes and opening jars to get food",
-        "ar": "بيحل المتاهات ويفتح البرطمانات عشان ياخد الأكل"
-      },
-      {
         "en": "Building complex coral reefs",
         "ar": "بيبني شعاب مرجانية معقدة"
       },
       {
         "en": "Singing to attract mates",
         "ar": "بيغني عشان يجذب شريك"
+      },
+      {
+        "en": "Sleeping for months without moving",
+        "ar": "بينام شهور من غير ما يتحرك"
+      },
+      {
+        "en": "Solving mazes and opening jars to get food",
+        "ar": "بيحل المتاهات ويفتح البرطمانات عشان ياخد الأكل"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Giant Pacific octopuses have been observed solving mazes and unscrewing jar lids to reach food, showing strong problem-solving skills.",
     "explanation_ar": "أخطبوط المحيط الهادي العملاق اتلاحظ وهو بيحل متاهات وبيفتح براطم عشان يوصل للأكل، وده بيدل على قدرة قوية في حل المشاكل."
   },
@@ -1390,10 +1390,6 @@
     "question_ar": "ضفادع سهم السم لما بتترّبى في الأسر على أكل مضبوط، بتبقى إيه غالبًا؟",
     "options": [
       {
-        "en": "Even more toxic",
-        "ar": "أكتر سمّية"
-      },
-      {
         "en": "Non-toxic or far less toxic",
         "ar": "غير سامة أو أقل سمّية بكتير"
       },
@@ -1404,9 +1400,13 @@
       {
         "en": "Unable to reproduce",
         "ar": "مش قادرة تتكاثر"
+      },
+      {
+        "en": "Even more toxic",
+        "ar": "أكتر سمّية"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Poison dart frogs get their toxins from specific insects in the wild; in captivity with a different diet, they lose most of their toxicity.",
     "explanation_ar": "ضفادع سهم السم بتاخد سمّها من حشرات معينة في البرية؛ وفي الأسر لما بتاكل أكل مختلف، بتفقد أغلب سمّيتها."
   },
@@ -1481,23 +1481,23 @@
     "question_ar": "بعض السلاحف المائية العذبة بتعيش شتاوي طويلة تحت المية جزئيًا عن طريق التنفس من إيه جزء في جسمها؟",
     "options": [
       {
-        "en": "Their skin only",
-        "ar": "جلدها بس"
-      },
-      {
-        "en": "Their cloaca (rear vent)",
-        "ar": "فتحتها الخلفية (المجمع)"
-      },
-      {
         "en": "Their eyes",
         "ar": "عينيها"
       },
       {
         "en": "Their tail",
         "ar": "ديلها"
+      },
+      {
+        "en": "Their skin only",
+        "ar": "جلدها بس"
+      },
+      {
+        "en": "Their cloaca (rear vent)",
+        "ar": "فتحتها الخلفية (المجمع)"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Some turtles can absorb oxygen from water through their cloaca, helping them survive long periods underwater in winter.",
     "explanation_ar": "بعض السلاحف تقدر تمتص أكسجين من المية من خلال فتحتها الخلفية، وده بيساعدها تعيش فترات طويلة تحت المية في الشتا."
   }

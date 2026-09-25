@@ -1415,29 +1415,29 @@
     "category_ar": "خمن العلم",
     "value": 50,
     "difficulty": 3,
-    "question_en": "What is the largest hot desert in the world?",
-    "question_ar": "إيه أكبر صحرا حارة في العالم؟",
+    "question_en": "Which blood type is known as the 'universal donor'?",
+    "question_ar": "أنهي فصيلة دم بتتسمى \"المتبرع العام\"؟",
     "options": [
       {
-        "en": "The Arabian Desert",
-        "ar": "الصحراء العربية"
+        "en": "O negative",
+        "ar": "O سالب"
       },
       {
-        "en": "The Gobi Desert",
-        "ar": "صحراء جوبي"
+        "en": "AB positive",
+        "ar": "AB موجب"
       },
       {
-        "en": "The Sahara",
-        "ar": "الصحرا الكبرى"
+        "en": "A positive",
+        "ar": "A موجب"
       },
       {
-        "en": "The Kalahari Desert",
-        "ar": "صحراء كالاهاري"
+        "en": "B negative",
+        "ar": "B سالب"
       }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "The Sahara, covering much of North Africa, is the world's largest hot desert.",
-    "explanation_ar": "الصحرا الكبرى، اللي بتغطي جزء كبير من شمال أفريقيا، هي أكبر صحرا حارة في العالم."
+    "correctAnswer": 0,
+    "explanation_en": "O negative blood lacks A, B and Rh antigens, so it can be given to almost anyone.",
+    "explanation_ar": "دم O سالب مفيهوش مستضدات A أو B أو Rh، فبيتدي لأي حد تقريبًا."
   },
   {
     "id": "SCI-050-049",

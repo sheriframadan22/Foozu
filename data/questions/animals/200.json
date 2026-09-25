@@ -1,0 +1,1513 @@
+[
+  {
+    "id": "ANM-200-001",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which mammal is known to have more teeth than any other land mammal, with close to 100 small peg-like teeth?",
+    "question_ar": "إيه الثديي المعروف إن عنده أسنان أكتر من أي ثديي بري تاني، بحوالي 100 سن صغير شكله زي الوتد؟",
+    "options": [
+      {
+        "en": "Giant armadillo",
+        "ar": "المدرع العملاق"
+      },
+      {
+        "en": "Walrus",
+        "ar": "الفظ"
+      },
+      {
+        "en": "Hippopotamus",
+        "ar": "فرس النهر"
+      },
+      {
+        "en": "Sperm whale",
+        "ar": "حوت العنبر"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The giant armadillo has close to 100 small peg-like teeth, more than any other land mammal.",
+    "explanation_ar": "المدرع العملاق عنده حوالي 100 سن صغير شكله زي الوتد، أكتر من أي ثديي بري تاني."
+  },
+  {
+    "id": "ANM-200-002",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Almost all mammals, including giraffes, have exactly 7 neck vertebrae. Which aquatic mammal is a well-known exception, having only 6?",
+    "question_ar": "كل الثدييات تقريبًا، بما فيها الزرافة، عندها بالظبط 7 فقرات رقبة. إيه الثديي المائي اللي بيعتبر استثناء معروف وعنده 6 بس؟",
+    "options": [
+      {
+        "en": "Dolphin",
+        "ar": "الدولفين"
+      },
+      {
+        "en": "Manatee",
+        "ar": "خروف البحر"
+      },
+      {
+        "en": "Seal",
+        "ar": "الفقمة"
+      },
+      {
+        "en": "Otter",
+        "ar": "القندس"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Manatees are a rare exception among mammals, having only 6 neck vertebrae instead of the usual 7.",
+    "explanation_ar": "خروف البحر استثناء نادر بين الثدييات، عنده 6 فقرات رقبة بس بدل الـ 7 المعتادة."
+  },
+  {
+    "id": "ANM-200-003",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Adult mayflies are famous for having among the shortest lifespans of any insect, sometimes living for less than how long?",
+    "question_ar": "الذباب الشهر مشهور بإن عمره كبالغ من أقصر الأعمار بين الحشرات، وأحيانًا بيعيش أقل من قد إيه؟",
+    "options": [
+      {
+        "en": "1 month",
+        "ar": "شهر"
+      },
+      {
+        "en": "6 months",
+        "ar": "6 شهور"
+      },
+      {
+        "en": "24 hours",
+        "ar": "24 ساعة"
+      },
+      {
+        "en": "1 week",
+        "ar": "أسبوع"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Some mayfly species live as adults for less than 24 hours, just long enough to mate and lay eggs.",
+    "explanation_ar": "بعض أنواع الذباب الشهر بتعيش كبالغة أقل من 24 ساعة، بالكفاية عشان تتزاوج وتحط بيضها."
+  },
+  {
+    "id": "ANM-200-004",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "The smallest hummingbird species can flap their wings up to roughly how many times per second?",
+    "question_ar": "أصغر أنواع الطائر الطنان يقدر يرفرف بجناحيه لحد كام مرة في الثانية تقريبًا؟",
+    "options": [
+      {
+        "en": "150",
+        "ar": "150"
+      },
+      {
+        "en": "20",
+        "ar": "20"
+      },
+      {
+        "en": "50",
+        "ar": "50"
+      },
+      {
+        "en": "80",
+        "ar": "80"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The smallest hummingbirds can flap their wings up to around 80 times per second.",
+    "explanation_ar": "أصغر أنواع الطائر الطنان يقدر يرفرف بجناحيه لحد حوالي 80 مرة في الثانية."
+  },
+  {
+    "id": "ANM-200-005",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "An elephant's trunk is estimated to contain roughly how many individual muscles?",
+    "question_ar": "خرطوم الفيل مقدّر إن فيه حوالي كام عضلة منفصلة؟",
+    "options": [
+      {
+        "en": "40,000",
+        "ar": "40000"
+      },
+      {
+        "en": "400,000",
+        "ar": "400000"
+      },
+      {
+        "en": "4 million",
+        "ar": "4 مليون"
+      },
+      {
+        "en": "4,000",
+        "ar": "4000"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "An elephant's trunk is estimated to contain around 40,000 individual muscles, giving it incredible dexterity.",
+    "explanation_ar": "خرطوم الفيل مقدّر إن فيه حوالي 40,000 عضلة منفصلة، وده بيديه مرونة وحركة رهيبة."
+  },
+  {
+    "id": "ANM-200-006",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "The peregrine falcon holds the record for the fastest recorded diving speed of any bird, reaching approximately what speed?",
+    "question_ar": "صقر الشاهين عنده الرقم القياسي لأسرع سرعة انقضاض مسجلة لأي طائر، بتوصل تقريبًا لكام؟",
+    "options": [
+      {
+        "en": "240 km/h",
+        "ar": "240 كم/الساعة"
+      },
+      {
+        "en": "390 km/h",
+        "ar": "390 كم/الساعة"
+      },
+      {
+        "en": "600 km/h",
+        "ar": "600 كم/الساعة"
+      },
+      {
+        "en": "150 km/h",
+        "ar": "150 كم/الساعة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Peregrine falcons have been recorded diving at speeds of around 390 km/h, the fastest of any animal.",
+    "explanation_ar": "صقر الشاهين اتسجل وهو بينقض بسرعة حوالي 390 كم/الساعة، وهي أسرع سرعة لأي حيوان."
+  },
+  {
+    "id": "ANM-200-007",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Gray whales undertake one of the longest migrations of any mammal, with a round trip covering roughly how far?",
+    "question_ar": "حيتان جراي بتقوم برحلة من أطول الهجرات لأي ثديي، برحلة ذهاب وعودة بتغطي تقريبًا قد إيه؟",
+    "options": [
+      {
+        "en": "2,000 km",
+        "ar": "2000 كم"
+      },
+      {
+        "en": "8,000 km",
+        "ar": "8000 كم"
+      },
+      {
+        "en": "20,000 km",
+        "ar": "20000 كم"
+      },
+      {
+        "en": "50,000 km",
+        "ar": "50000 كم"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Gray whales migrate a round trip of roughly 20,000 km between Arctic feeding grounds and Mexican breeding lagoons.",
+    "explanation_ar": "حيتان جراي بتهاجر رحلة ذهاب وعودة بتوصل لحوالي 20,000 كم بين مناطق التغذية القطبية ومناطق التكاثر في المكسيك."
+  },
+  {
+    "id": "ANM-200-008",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which deep-sea animal is known to have the largest eyes in the entire animal kingdom, reportedly up to around 27 cm across?",
+    "question_ar": "إيه الحيوان في أعماق البحار المعروف إن عنده أكبر عيون في المملكة الحيوانية كلها، وصلت لحوالي 27 سم؟",
+    "options": [
+      {
+        "en": "Blue whale",
+        "ar": "الحوت الأزرق"
+      },
+      {
+        "en": "Sperm whale",
+        "ar": "حوت العنبر"
+      },
+      {
+        "en": "Giant squid",
+        "ar": "الحبار العملاق"
+      },
+      {
+        "en": "Colossal squid",
+        "ar": "الحبار الضخم"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The colossal squid has the largest eyes recorded in the animal kingdom, reaching about 27 cm across.",
+    "explanation_ar": "الحبار الضخم عنده أكبر عيون اتسجلت في المملكة الحيوانية، وصلت لحوالي 27 سم.",
+    "verified_as_of": "2007-01"
+  },
+  {
+    "id": "ANM-200-009",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which small mammal is frequently cited by scientists as having one of the highest brain-to-body-mass ratios of any mammal?",
+    "question_ar": "إيه الثديي الصغير اللي بيتم ذكره كتير من العلما كواحد من أعلى الثدييات في نسبة حجم المخ لحجم الجسم؟",
+    "options": [
+      {
+        "en": "Tree shrew",
+        "ar": "زبابة الشجر"
+      },
+      {
+        "en": "Rabbit",
+        "ar": "الأرنب"
+      },
+      {
+        "en": "Squirrel",
+        "ar": "السنجاب"
+      },
+      {
+        "en": "Hedgehog",
+        "ar": "القنفذ"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The tree shrew is often cited for having one of the highest known brain-to-body-mass ratios among mammals.",
+    "explanation_ar": "زبابة الشجر بيتم ذكرها كتير كواحدة من أعلى الثدييات المعروفة في نسبة حجم المخ لحجم الجسم."
+  },
+  {
+    "id": "ANM-200-010",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which bird holds the record for the largest nest ever documented, built by a pair in Florida and weighing over two metric tons?",
+    "question_ar": "إيه الطائر اللي عنده الرقم القياسي لأكبر عش اتوثق، وبناه زوج في فلوريدا ووزنه أكتر من طنين متريين؟",
+    "options": [
+      {
+        "en": "Osprey",
+        "ar": "العقاب الصياد"
+      },
+      {
+        "en": "Bald eagle",
+        "ar": "النسر الأصلع"
+      },
+      {
+        "en": "Stork",
+        "ar": "اللقلق"
+      },
+      {
+        "en": "Golden eagle",
+        "ar": "النسر الذهبي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "A bald eagle pair in Florida built a nest that grew to weigh over two metric tons, the largest ever documented.",
+    "explanation_ar": "زوج نسور صلعا في فلوريدا بنوا عش وزنه وصل لأكتر من طنين متريين، وهو أكبر عش اتوثق."
+  },
+  {
+    "id": "ANM-200-011",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which fish is traditionally cited as the fastest in the ocean, with reported burst speeds of over 100 km/h?",
+    "question_ar": "إيه السمكة اللي بيتقال عنها تقليديًا إنها أسرع سمكة في المحيط، وسرعتها في الاندفاع بتزيد عن 100 كم/الساعة؟",
+    "options": [
+      {
+        "en": "Barracuda",
+        "ar": "سمك البراكودة"
+      },
+      {
+        "en": "Tuna",
+        "ar": "التونة"
+      },
+      {
+        "en": "Sailfish",
+        "ar": "سمك الشراع"
+      },
+      {
+        "en": "Swordfish",
+        "ar": "سمك أبو سيف"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The sailfish is traditionally cited as the fastest fish in the ocean, with burst speeds reported over 100 km/h.",
+    "explanation_ar": "سمك الشراع بيتقال عنه تقليديًا إنه أسرع سمكة في المحيط، وسرعته في الاندفاع بتتعدى 100 كم/الساعة."
+  },
+  {
+    "id": "ANM-200-012",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which snake species is widely considered the longest in the world?",
+    "question_ar": "إيه نوع الثعبان اللي بيتعتبر بشكل واسع أطول ثعبان في العالم؟",
+    "options": [
+      {
+        "en": "Black mamba",
+        "ar": "المامبا السودا"
+      },
+      {
+        "en": "Green anaconda",
+        "ar": "الأناكوندا الخضرا"
+      },
+      {
+        "en": "King cobra",
+        "ar": "الكوبرا الملكية"
+      },
+      {
+        "en": "Reticulated python",
+        "ar": "الثعبان الشبكي"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The reticulated python is widely considered the longest snake species in the world.",
+    "explanation_ar": "الثعبان الشبكي بيتعتبر بشكل واسع أطول نوع ثعبان في العالم."
+  },
+  {
+    "id": "ANM-200-013",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which snake species is considered the heaviest in the world, capable of weighing over 200 kg?",
+    "question_ar": "إيه نوع الثعبان اللي بيتعتبر أتقل ثعبان في العالم، وممكن يوصل وزنه لأكتر من 200 كيلو؟",
+    "options": [
+      {
+        "en": "Green anaconda",
+        "ar": "الأناكوندا الخضرا"
+      },
+      {
+        "en": "King cobra",
+        "ar": "الكوبرا الملكية"
+      },
+      {
+        "en": "Boa constrictor",
+        "ar": "ثعبان البوا"
+      },
+      {
+        "en": "Reticulated python",
+        "ar": "الثعبان الشبكي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The green anaconda is considered the heaviest snake species, sometimes weighing over 200 kg.",
+    "explanation_ar": "الأناكوندا الخضرا بتعتبر أتقل نوع ثعبان، وأحيانًا بيوصل وزنها لأكتر من 200 كيلو."
+  },
+  {
+    "id": "ANM-200-014",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Tracking studies found that the Alpine swift can remain continuously airborne, without landing, for periods of up to roughly how long?",
+    "question_ar": "دراسات التتبع لقت إن السنونو الألبي يقدر يفضل طاير باستمرار من غير ما ينزل لفترات توصل تقريبًا لحد إيه؟",
+    "options": [
+      {
+        "en": "A few days",
+        "ar": "كام يوم"
+      },
+      {
+        "en": "About 6 months",
+        "ar": "حوالي 6 شهور"
+      },
+      {
+        "en": "Several years",
+        "ar": "كذا سنة"
+      },
+      {
+        "en": "A few hours",
+        "ar": "كام ساعة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Tracking studies showed Alpine swifts can stay airborne without landing for roughly 6 months at a time.",
+    "explanation_ar": "دراسات التتبع أظهرت إن السنونو الألبي يقدر يفضل طاير من غير ما ينزل لحوالي 6 شهور في المرة الواحدة.",
+    "verified_as_of": "2013-01"
+  },
+  {
+    "id": "ANM-200-015",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which mammal is documented to have the longest tongue relative to its body length of any mammal, at about 1.5 times its body size?",
+    "question_ar": "إيه الثديي الموثق إن عنده أطول لسان بالنسبة لطول جسمه بين كل الثدييات، بحوالي 1.5 ضعف حجم جسمه؟",
+    "options": [
+      {
+        "en": "Chameleon",
+        "ar": "الحرباية"
+      },
+      {
+        "en": "Anteater",
+        "ar": "آكل النمل"
+      },
+      {
+        "en": "Tube-lipped nectar bat",
+        "ar": "خفاش الرحيق ذو الشفة الأنبوبية"
+      },
+      {
+        "en": "Giraffe",
+        "ar": "الزرافة"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The tube-lipped nectar bat has the longest tongue relative to body length of any mammal, about 1.5 times its body size.",
+    "explanation_ar": "خفاش الرحيق ذو الشفة الأنبوبية عنده أطول لسان بالنسبة لطول جسمه بين كل الثدييات، حوالي 1.5 ضعف حجم جسمه."
+  },
+  {
+    "id": "ANM-200-016",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which seabird has the largest wingspan of any living bird, reaching around 3.5 meters?",
+    "question_ar": "إيه الطائر البحري اللي عنده أكبر باع جناح بين كل الطيور الحية، بيوصل لحوالي 3.5 متر؟",
+    "options": [
+      {
+        "en": "Pelican",
+        "ar": "البجعة"
+      },
+      {
+        "en": "Golden eagle",
+        "ar": "النسر الذهبي"
+      },
+      {
+        "en": "Andean condor",
+        "ar": "النسر الأنديزي"
+      },
+      {
+        "en": "Wandering albatross",
+        "ar": "القطرس الهائم"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The wandering albatross has the largest wingspan of any living bird, reaching around 3.5 meters.",
+    "explanation_ar": "القطرس الهائم عنده أكبر باع جناح بين كل الطيور الحية، بيوصل لحوالي 3.5 متر."
+  },
+  {
+    "id": "ANM-200-017",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which penguin species holds the record for being the fastest swimmer among all penguins, reaching around 36 km/h?",
+    "question_ar": "إيه نوع البطريق اللي عنده الرقم القياسي لأسرع بطريق في السباحة بين كل أنواع البطريق، بيوصل لحوالي 36 كم/الساعة؟",
+    "options": [
+      {
+        "en": "Gentoo penguin",
+        "ar": "بطريق الجنتو"
+      },
+      {
+        "en": "King penguin",
+        "ar": "بطريق الملك"
+      },
+      {
+        "en": "Adelie penguin",
+        "ar": "بطريق أديلي"
+      },
+      {
+        "en": "Emperor penguin",
+        "ar": "بطريق الإمبراطور"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The gentoo penguin is the fastest-swimming penguin species, reaching speeds around 36 km/h.",
+    "explanation_ar": "بطريق الجنتو هو أسرع نوع بطريق في السباحة، بيوصل لسرعات حوالي 36 كم/الساعة."
+  },
+  {
+    "id": "ANM-200-018",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which continent has no native species of ants?",
+    "question_ar": "إيه القارة اللي مفيهاش أنواع أصلية من النمل؟",
+    "options": [
+      {
+        "en": "Australia",
+        "ar": "أستراليا"
+      },
+      {
+        "en": "Antarctica",
+        "ar": "القارة القطبية الجنوبية"
+      },
+      {
+        "en": "South America",
+        "ar": "أمريكا الجنوبية"
+      },
+      {
+        "en": "Asia",
+        "ar": "آسيا"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Antarctica's harsh climate means it has no native ant species, unlike every other continent.",
+    "explanation_ar": "مناخ القارة القطبية الجنوبية القاسي معناه إنه مفيهاش نمل أصلي، على عكس كل القارات التانية."
+  },
+  {
+    "id": "ANM-200-019",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which shark species is well known for being able to tolerate freshwater and has been found far up rivers such as the Mississippi and Amazon?",
+    "question_ar": "إيه نوع القرش المعروف بقدرته إنه يتحمل المية العذبة، واتلاقى داخل أنهار زي المسيسيبي والأمازون على بعد كبير؟",
+    "options": [
+      {
+        "en": "Hammerhead shark",
+        "ar": "قرش المطرقة"
+      },
+      {
+        "en": "Great white shark",
+        "ar": "القرش الأبيض الكبير"
+      },
+      {
+        "en": "Bull shark",
+        "ar": "قرش الثور"
+      },
+      {
+        "en": "Tiger shark",
+        "ar": "قرش النمر"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Bull sharks can tolerate freshwater and have been found far up rivers like the Mississippi and Amazon.",
+    "explanation_ar": "قرش الثور يقدر يتحمل المية العذبة واتلاقى داخل أنهار زي المسيسيبي والأمازون على بعد كبير."
+  },
+  {
+    "id": "ANM-200-020",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which is the only marsupial species native to the wild in North America (north of Mexico)?",
+    "question_ar": "إيه النوع الوحيد من الحيوانات الجرابية اللي أصله موجود بريًا في أمريكا الشمالية (شمال المكسيك)؟",
+    "options": [
+      {
+        "en": "Koala",
+        "ar": "الكوالا"
+      },
+      {
+        "en": "Wombat",
+        "ar": "الومبات"
+      },
+      {
+        "en": "Kangaroo",
+        "ar": "الكنجرو"
+      },
+      {
+        "en": "Virginia opossum",
+        "ar": "الأبوسوم الفيرجيني"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The Virginia opossum is the only marsupial species native to the wild in North America.",
+    "explanation_ar": "الأبوسوم الفيرجيني هو النوع الوحيد من الجرابيات اللي أصله موجود بريًا في أمريكا الشمالية."
+  },
+  {
+    "id": "ANM-200-021",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which venomous snake is known for producing the largest volume of venom in a single bite of any snake, though not the most toxic drop for drop?",
+    "question_ar": "إيه الثعبان السام المعروف بإنتاجه أكبر كمية سم في اللسعة الواحدة بين كل الثعابين، لكنه مش الأسم قطرة بقطرة؟",
+    "options": [
+      {
+        "en": "King cobra",
+        "ar": "الكوبرا الملكية"
+      },
+      {
+        "en": "Coral snake",
+        "ar": "ثعبان المرجان"
+      },
+      {
+        "en": "Black mamba",
+        "ar": "المامبا السودا"
+      },
+      {
+        "en": "Inland taipan",
+        "ar": "تايبان الداخل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The king cobra produces the largest volume of venom per bite of any venomous snake.",
+    "explanation_ar": "الكوبرا الملكية بتنتج أكبر كمية سم في اللسعة الواحدة بين كل الثعابين السامة."
+  },
+  {
+    "id": "ANM-200-022",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Due to the position of their eyes, horses have a field of vision covering nearly how many degrees around them?",
+    "question_ar": "بسبب وضع عيون الحصان، مجال رؤيته بيغطي حوالي كام درجة حواليه؟",
+    "options": [
+      {
+        "en": "270 degrees",
+        "ar": "270 درجة"
+      },
+      {
+        "en": "350 degrees",
+        "ar": "350 درجة"
+      },
+      {
+        "en": "A full 360 degrees",
+        "ar": "360 درجة كاملة"
+      },
+      {
+        "en": "180 degrees",
+        "ar": "180 درجة"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Horses have a field of vision of nearly 350 degrees due to the placement of their eyes on the sides of their head.",
+    "explanation_ar": "الحصان عنده مجال رؤية حوالي 350 درجة بسبب وضع عيونه على جانبي راسه."
+  },
+  {
+    "id": "ANM-200-023",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which tiny mammal has the fastest recorded heart rate of any mammal, reaching up to around 1,200 beats per minute?",
+    "question_ar": "إيه الثديي الصغير جدًا اللي عنده أسرع معدل نبض قلب مسجل بين كل الثدييات، بيوصل لحوالي 1,200 نبضة في الدقيقة؟",
+    "options": [
+      {
+        "en": "Bat",
+        "ar": "الخفاش"
+      },
+      {
+        "en": "Hummingbird",
+        "ar": "الطائر الطنان"
+      },
+      {
+        "en": "Etruscan shrew",
+        "ar": "الزبابة الإتروسكانية"
+      },
+      {
+        "en": "Mouse",
+        "ar": "الفار"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The Etruscan shrew, one of the smallest mammals, has a heart rate that can reach around 1,200 beats per minute.",
+    "explanation_ar": "الزبابة الإتروسكانية، من أصغر الثدييات، معدل نبض قلبها ممكن يوصل لحوالي 1,200 نبضة في الدقيقة."
+  },
+  {
+    "id": "ANM-200-024",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Studies on blue whales found their heart rate can drop to as low as about how many beats per minute during deep dives?",
+    "question_ar": "دراسات على الحوت الأزرق لقت إن معدل نبض قلبه ممكن ينزل لحوالي كام نبضة في الدقيقة أثناء الغوص العميق؟",
+    "options": [
+      {
+        "en": "20 beats per minute",
+        "ar": "20 نبضة في الدقيقة"
+      },
+      {
+        "en": "60 beats per minute",
+        "ar": "60 نبضة في الدقيقة"
+      },
+      {
+        "en": "100 beats per minute",
+        "ar": "100 نبضة في الدقيقة"
+      },
+      {
+        "en": "2 beats per minute",
+        "ar": "نبضتين في الدقيقة"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "A tagging study found blue whale heart rates can drop to as low as about 2 beats per minute during deep dives.",
+    "explanation_ar": "دراسة بحطت جهاز تتبع لقت إن نبض قلب الحوت الأزرق ممكن ينزل لحوالي نبضتين بس في الدقيقة أثناء الغوص العميق.",
+    "verified_as_of": "2019-01"
+  },
+  {
+    "id": "ANM-200-025",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "In 2022, a bird called a bar-tailed godwit set a record for the longest non-stop flight ever tracked, covering roughly how far?",
+    "question_ar": "في 2022، طائر اسمه \"جودويت ذو الديل المخطط\" سجل رقم قياسي لأطول رحلة طيران متواصلة اتتبعت، بمسافة قد إيه تقريبًا؟",
+    "options": [
+      {
+        "en": "13,500 km",
+        "ar": "13500 كم"
+      },
+      {
+        "en": "25,000 km",
+        "ar": "25000 كم"
+      },
+      {
+        "en": "3,000 km",
+        "ar": "3000 كم"
+      },
+      {
+        "en": "7,500 km",
+        "ar": "7500 كم"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A tracked bar-tailed godwit flew nonstop for about 13,500 km from Alaska to Australia in 2022.",
+    "explanation_ar": "طائر جودويت متتبع طار من غير توقف مسافة حوالي 13,500 كم من ألاسكا لأستراليا في 2022.",
+    "verified_as_of": "2022-01"
+  },
+  {
+    "id": "ANM-200-026",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which whale species holds the record for the deepest and longest dive ever documented by a marine mammal, at nearly 3 km deep and over 3.5 hours?",
+    "question_ar": "إيه نوع الحوت اللي عنده الرقم القياسي لأعمق وأطول غطسة اتوثقت لثديي بحري، بعمق يقرب من 3 كم ولمدة أكتر من 3.5 ساعة؟",
+    "options": [
+      {
+        "en": "Sperm whale",
+        "ar": "حوت العنبر"
+      },
+      {
+        "en": "Cuvier's beaked whale",
+        "ar": "حوت كوفييه ذو المنقار"
+      },
+      {
+        "en": "Blue whale",
+        "ar": "الحوت الأزرق"
+      },
+      {
+        "en": "Humpback whale",
+        "ar": "الحوت الأحدب"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Cuvier's beaked whale holds the record for the deepest and longest dive documented, reaching nearly 3 km deep for over 3.5 hours.",
+    "explanation_ar": "حوت كوفييه ذو المنقار عنده الرقم القياسي لأعمق وأطول غطسة اتوثقت، بعمق يقرب من 3 كم ولمدة أكتر من 3.5 ساعة.",
+    "verified_as_of": "2020-01"
+  },
+  {
+    "id": "ANM-200-027",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which primate is the only one documented to enter a true, prolonged hibernation lasting weeks at a time?",
+    "question_ar": "إيه الرئيسيات (القرود) الوحيدة الموثقة إنها بتدخل في سبات حقيقي طويل بيستمر أسابيع في المرة؟",
+    "options": [
+      {
+        "en": "Baboon",
+        "ar": "القرد البابون"
+      },
+      {
+        "en": "Slow loris",
+        "ar": "اللوريس البطيء"
+      },
+      {
+        "en": "Fat-tailed dwarf lemur",
+        "ar": "الليمور القزم ذو الديل السمين"
+      },
+      {
+        "en": "Chimpanzee",
+        "ar": "الشمبانزي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The fat-tailed dwarf lemur is the only primate documented to enter a true, prolonged hibernation of several weeks.",
+    "explanation_ar": "الليمور القزم ذو الديل السمين هو الرئيسي الوحيد الموثق إنه بيدخل في سبات حقيقي طويل لكذا أسبوع."
+  },
+  {
+    "id": "ANM-200-028",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which bird species has been documented with more feathers counted on its body than any other bird, over 25,000?",
+    "question_ar": "إيه نوع الطائر اللي اتوثق إن عنده ريش أكتر من أي طائر تاني لما اتعد، أكتر من 25,000 ريشة؟",
+    "options": [
+      {
+        "en": "Bald eagle",
+        "ar": "النسر الأصلع"
+      },
+      {
+        "en": "Peacock",
+        "ar": "الطاووس"
+      },
+      {
+        "en": "Ostrich",
+        "ar": "النعامة"
+      },
+      {
+        "en": "Tundra swan",
+        "ar": "بجعة التندرا"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "A tundra swan was documented with over 25,000 feathers, the most ever counted on a single bird.",
+    "explanation_ar": "بجعة التندرا اتوثق إن عندها أكتر من 25,000 ريشة، وهو أكبر عدد اتعد على طائر واحد."
+  },
+  {
+    "id": "ANM-200-029",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Roughly one in every four known animal species on Earth belongs to which single insect order?",
+    "question_ar": "حوالي واحد من كل أربعة أنواع حيوانات معروفة على الأرض بينتمي لإيه رتبة حشرات واحدة؟",
+    "options": [
+      {
+        "en": "Beetles",
+        "ar": "الخنافس"
+      },
+      {
+        "en": "Ants and bees",
+        "ar": "النمل والنحل"
+      },
+      {
+        "en": "Flies",
+        "ar": "الدبان"
+      },
+      {
+        "en": "Butterflies and moths",
+        "ar": "الفراشات والعث"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Beetles make up roughly a quarter of all known animal species, more than any other insect order.",
+    "explanation_ar": "الخنافس بتمثل تقريبًا ربع كل أنواع الحيوانات المعروفة، أكتر من أي رتبة حشرات تانية."
+  },
+  {
+    "id": "ANM-200-030",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which group of fish is unique among vertebrates for lacking red blood cells and hemoglobin entirely?",
+    "question_ar": "إيه مجموعة الأسماك الفريدة بين الفقاريات لإنها من غير خلايا دم حمرا وهيموجلوبين خالص؟",
+    "options": [
+      {
+        "en": "Anglerfish",
+        "ar": "سمك الشيطان"
+      },
+      {
+        "en": "Antarctic icefish",
+        "ar": "سمك الجليد القطبي الجنوبي"
+      },
+      {
+        "en": "Eels",
+        "ar": "الأنقليس"
+      },
+      {
+        "en": "Flying fish",
+        "ar": "السمك الطاير"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Antarctic icefish are the only known vertebrates that lack red blood cells and hemoglobin entirely.",
+    "explanation_ar": "سمك الجليد القطبي الجنوبي هو الفقاري الوحيد المعروف اللي من غير خلايا دم حمرا وهيموجلوبين خالص."
+  },
+  {
+    "id": "ANM-200-031",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which insect is among the fastest flying insects, reaching top speeds of around 54 km/h?",
+    "question_ar": "إيه الحشرة اللي من أسرع الحشرات في الطيران، بتوصل لسرعات قصوى حوالي 54 كم/الساعة؟",
+    "options": [
+      {
+        "en": "Wasp",
+        "ar": "الدبور"
+      },
+      {
+        "en": "Housefly",
+        "ar": "الدبانة المنزلية"
+      },
+      {
+        "en": "Dragonfly",
+        "ar": "اليعسوب"
+      },
+      {
+        "en": "Mosquito",
+        "ar": "الناموسة"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Dragonflies are among the fastest-flying insects, reaching top speeds of around 54 km/h.",
+    "explanation_ar": "اليعسوب من أسرع الحشرات في الطيران، بيوصل لسرعات قصوى حوالي 54 كم/الساعة."
+  },
+  {
+    "id": "ANM-200-032",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which shark species is documented to have the longest known gestation (pregnancy) period of any vertebrate, at around 3.5 years?",
+    "question_ar": "إيه نوع القرش الموثق إن عنده أطول فترة حمل معروفة لأي فقاري، بحوالي 3.5 سنة؟",
+    "options": [
+      {
+        "en": "Great white shark",
+        "ar": "القرش الأبيض الكبير"
+      },
+      {
+        "en": "Basking shark",
+        "ar": "قرش الشمس"
+      },
+      {
+        "en": "Whale shark",
+        "ar": "قرش الحوت"
+      },
+      {
+        "en": "Frilled shark",
+        "ar": "القرش المتجعد"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The frilled shark has an estimated gestation period of about 3.5 years, the longest known among vertebrates.",
+    "explanation_ar": "القرش المتجعد فترة حمله المقدرة حوالي 3.5 سنة، وهي أطول فترة معروفة بين الفقاريات.",
+    "verified_as_of": "2007-01"
+  },
+  {
+    "id": "ANM-200-033",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which bird is unusual for having a highly developed sense of smell that it uses to locate carrion, unlike most birds which rely mainly on sight?",
+    "question_ar": "إيه الطائر الغريب لإن عنده حاسة شم متطورة جدًا بيستخدمها عشان يلاقي الجيف، على عكس أغلب الطيور اللي بتعتمد على البصر أساسًا؟",
+    "options": [
+      {
+        "en": "Turkey vulture",
+        "ar": "النسر الرومي"
+      },
+      {
+        "en": "Golden eagle",
+        "ar": "النسر الذهبي"
+      },
+      {
+        "en": "Owl",
+        "ar": "البومة"
+      },
+      {
+        "en": "Falcon",
+        "ar": "الصقر"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Turkey vultures have an unusually strong sense of smell, which they use to locate carrion from great distances.",
+    "explanation_ar": "النسر الرومي عنده حاسة شم قوية بشكل غير عادي، بيستخدمها عشان يلاقي الجيف من مسافات بعيدة."
+  },
+  {
+    "id": "ANM-200-034",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "A species discovered in California in 2021 became the first true \"millipede\" ever confirmed to have over 1,000 legs. How many legs did it have?",
+    "question_ar": "نوع اتكشف في كاليفورنيا سنة 2021 بقى أول \"ألفية أرجل\" حقيقية اتأكد إن عندها أكتر من 1,000 رجل. كام رجل كان عندها؟",
+    "options": [
+      {
+        "en": "Over 750 legs",
+        "ar": "أكتر من 750 رجل"
+      },
+      {
+        "en": "Over 1,300 legs",
+        "ar": "أكتر من 1,300 رجل"
+      },
+      {
+        "en": "Over 3,000 legs",
+        "ar": "أكتر من 3,000 رجل"
+      },
+      {
+        "en": "Over 300 legs",
+        "ar": "أكتر من 300 رجل"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The species Eumillipes persephone was found with over 1,300 legs, the most of any animal ever documented.",
+    "explanation_ar": "النوع Eumillipes persephone اتلاقى عنده أكتر من 1,300 رجل، وهو أكبر عدد أرجل اتوثق لأي حيوان.",
+    "verified_as_of": "2021-01"
+  },
+  {
+    "id": "ANM-200-035",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which simple freshwater organism shows negligible signs of biological aging and is considered a candidate for \"biological immortality\"?",
+    "question_ar": "إيه الكائن المائي العذب البسيط اللي بيظهر علامات ضعيفة جدًا من الشيخوخة البيولوجية وبيعتبر مرشح لـ \"الخلود البيولوجي\"؟",
+    "options": [
+      {
+        "en": "Planarian flatworm",
+        "ar": "الدودة المفلطحة"
+      },
+      {
+        "en": "Sea sponge",
+        "ar": "الإسفنج البحري"
+      },
+      {
+        "en": "Hydra",
+        "ar": "الهيدرا"
+      },
+      {
+        "en": "Amoeba",
+        "ar": "الأميبا"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The hydra shows almost no signs of aging and is a key model organism for studying biological immortality.",
+    "explanation_ar": "الهيدرا بتظهر تقريبًا مفيش علامات شيخوخة، وهي كائن نموذجي مهم في دراسة الخلود البيولوجي."
+  },
+  {
+    "id": "ANM-200-036",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Echidnas are unusual mammals because they lay eggs and also feed their young milk, but without having what body part that most mammals have?",
+    "question_ar": "خلد الشوك (الإكيدنا) ثديي غريب لأنه بيحط بيض وفي نفس الوقت بيرضّع صغاره لبن، لكن من غير إيه جزء موجود عند أغلب الثدييات؟",
+    "options": [
+      {
+        "en": "Fur",
+        "ar": "فرو"
+      },
+      {
+        "en": "A skull",
+        "ar": "جمجمة"
+      },
+      {
+        "en": "A tail",
+        "ar": "ديل"
+      },
+      {
+        "en": "Nipples",
+        "ar": "حلمات"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Echidnas secrete milk through skin patches, since they have no nipples, unlike most other mammals.",
+    "explanation_ar": "خلد الشوك بيفرز اللبن من خلال رقع في جلده، لأنه من غير حلمات، على عكس أغلب الثدييات التانية."
+  },
+  {
+    "id": "ANM-200-037",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "A 2018 study found that a species of ant can snap its jaws shut faster than any other recorded animal movement. Which ant?",
+    "question_ar": "دراسة سنة 2018 لقت إن نوع من النمل يقدر يقفل فكوكه أسرع من أي حركة حيوان اتسجلت. إيه النمل ده؟",
+    "options": [
+      {
+        "en": "Dracula ant",
+        "ar": "نملة دراكيولا"
+      },
+      {
+        "en": "Weaver ant",
+        "ar": "النمل النساج"
+      },
+      {
+        "en": "Fire ant",
+        "ar": "النمل الناري"
+      },
+      {
+        "en": "Bullet ant",
+        "ar": "نملة الرصاصة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Dracula ant's mandible snap was recorded as the fastest known animal movement in a 2018 study.",
+    "explanation_ar": "حركة فكوك نملة دراكيولا اتسجلت كأسرع حركة حيوان معروفة في دراسة سنة 2018.",
+    "verified_as_of": "2018-01"
+  },
+  {
+    "id": "ANM-200-038",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "A cockatoo named Cookie became famous for living to an age of 83, one of the longest confirmed lifespans of any captive bird. Which zoo held Cookie?",
+    "question_ar": "ببغاء كوكاتو اسمه \"كوكي\" بقى مشهور إنه عاش لعمر 83 سنة، وهو من أطول الأعمار المؤكدة لأي طائر في الأسر. إيه الحديقة اللي كانت محتفظة بيه؟",
+    "options": [
+      {
+        "en": "San Diego Zoo",
+        "ar": "حديقة سان دييجو"
+      },
+      {
+        "en": "Brookfield Zoo",
+        "ar": "حديقة بروكفيلد"
+      },
+      {
+        "en": "London Zoo",
+        "ar": "حديقة لندن"
+      },
+      {
+        "en": "Berlin Zoo",
+        "ar": "حديقة برلين"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Cookie the cockatoo lived at Brookfield Zoo in Illinois, reaching a confirmed age of 83 before passing away.",
+    "explanation_ar": "كوكي الكوكاتو عاش في حديقة بروكفيلد في إلينوي، ووصل لعمر مؤكد 83 سنة قبل ما يموت.",
+    "verified_as_of": "2016-01"
+  },
+  {
+    "id": "ANM-200-039",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Blue whale calls have been measured at up to around 188 decibels, making them among the loudest sounds produced by which of the following?",
+    "question_ar": "نداءات الحوت الأزرق اتقاست بحوالي 188 ديسيبل، وده بيخليها من أعلى الأصوات اللي بينتجها إيه من دول؟",
+    "options": [
+      {
+        "en": "Only fish",
+        "ar": "الأسماك بس"
+      },
+      {
+        "en": "Any land animal",
+        "ar": "أي حيوان بري"
+      },
+      {
+        "en": "Any animal on Earth",
+        "ar": "أي حيوان على وجه الأرض"
+      },
+      {
+        "en": "Only aquatic mammals under 10 meters",
+        "ar": "بس الثدييات المائية اللي طولها أقل من 10 أمتار"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Blue whale calls, at up to 188 decibels, are among the loudest sounds produced by any animal on Earth.",
+    "explanation_ar": "نداءات الحوت الأزرق، بحوالي 188 ديسيبل، من أعلى الأصوات اللي بينتجها أي حيوان على وجه الأرض."
+  },
+  {
+    "id": "ANM-200-040",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Hummingbirds are unique among all birds for being the only ones able to do what?",
+    "question_ar": "الطائر الطنان فريد بين كل الطيور لإنه الوحيد القادر يعمل إيه؟",
+    "options": [
+      {
+        "en": "Live without drinking water",
+        "ar": "يعيش من غير ما يشرب مية"
+      },
+      {
+        "en": "Change the color of its feathers instantly",
+        "ar": "يغيّر لون ريشه فورًا"
+      },
+      {
+        "en": "Fly at night only",
+        "ar": "يطير بالليل بس"
+      },
+      {
+        "en": "Sustain hovering flight and fly backward",
+        "ar": "يحافظ على طيران التحويم ويطير للخلف"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Hummingbirds are the only birds able to sustain hovering flight and fly backward.",
+    "explanation_ar": "الطائر الطنان هو الطائر الوحيد القادر يحافظ على طيران التحويم ويطير للخلف."
+  },
+  {
+    "id": "ANM-200-041",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "In 2015, researchers confirmed which fish species to be the first known to be fully warm-blooded throughout its entire body?",
+    "question_ar": "في 2015، الباحثين أكدوا إن إيه نوع السمك أول نوع معروف يكون دافئ الدم بالكامل في كل جسمه؟",
+    "options": [
+      {
+        "en": "Opah (moonfish)",
+        "ar": "سمكة القمر (الأوپاه)"
+      },
+      {
+        "en": "Swordfish",
+        "ar": "سمك أبو سيف"
+      },
+      {
+        "en": "Great white shark",
+        "ar": "القرش الأبيض الكبير"
+      },
+      {
+        "en": "Tuna",
+        "ar": "التونة"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "In 2015, researchers confirmed the opah to be the first fish known to be fully warm-blooded throughout its body.",
+    "explanation_ar": "في 2015، الباحثين أكدوا إن سمكة القمر (الأوپاه) هي أول سمكة معروفة دافئة الدم بالكامل في كل جسمها.",
+    "verified_as_of": "2015-01"
+  },
+  {
+    "id": "ANM-200-042",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Lions, tigers, jaguars and leopards can all roar due to a flexible structure in their throat. Which big cat in the same genus is famously unable to roar?",
+    "question_ar": "الأسد والنمر والجاجوار والفهد المرقط كلهم يقدروا يزأروا بسبب تركيب مرن في حلقهم. إيه القط الكبير من نفس الفصيلة اللي معروف إنه مايقدرش يزأر؟",
+    "options": [
+      {
+        "en": "Cheetah",
+        "ar": "الفهد الصياد"
+      },
+      {
+        "en": "Snow leopard",
+        "ar": "نمر الثلج"
+      },
+      {
+        "en": "Cougar",
+        "ar": "الكوجر"
+      },
+      {
+        "en": "Caracal",
+        "ar": "الكاراكال"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Despite being in the same genus as the roaring big cats, the snow leopard cannot roar due to a different larynx structure.",
+    "explanation_ar": "برغم إن نمر الثلج من نفس فصيلة القطط اللي بتزأر، إلا إنه مايقدرش يزأر بسبب اختلاف تركيب حنجرته."
+  },
+  {
+    "id": "ANM-200-043",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Today, how many living species of egg-laying mammals (monotremes) are recognized — the platypus plus how many echidna species?",
+    "question_ar": "النهارده، كام نوع حي معترف بيه من الثدييات اللي بتحط بيض (المونوتريمات) — خلد الماء زائد كام نوع من الإكيدنا؟",
+    "options": [
+      {
+        "en": "Only the platypus, with no echidna species",
+        "ar": "خلد الماء بس، من غير أي نوع إكيدنا"
+      },
+      {
+        "en": "Platypus plus 1 echidna species (2 total)",
+        "ar": "خلد الماء زائد نوع إكيدنا واحد (2 إجمالي)"
+      },
+      {
+        "en": "Platypus plus 4 echidna species (5 total)",
+        "ar": "خلد الماء زائد 4 أنواع إكيدنا (5 إجمالي)"
+      },
+      {
+        "en": "Platypus plus 10 echidna species (11 total)",
+        "ar": "خلد الماء زائد 10 أنواع إكيدنا (11 إجمالي)"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Today's monotremes are usually classified as the platypus plus four echidna species, five living species in total.",
+    "explanation_ar": "المونوتريمات النهارده بتتصنف عادةً كـ خلد الماء زائد أربعة أنواع إكيدنا، يعني خمسة أنواع حية إجمالًا.",
+    "verified_as_of": "2023-01"
+  },
+  {
+    "id": "ANM-200-044",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Several shark species, including some hammerheads, are unusual for giving birth to live young connected to the mother through what?",
+    "question_ar": "كذا نوع قرش، ومنهم بعض أنواع قرش المطرقة، غريبين لإنهم بيولّدوا صغار أحياء متصلين بالأم من خلال إيه؟",
+    "options": [
+      {
+        "en": "A silk cocoon",
+        "ar": "شرنقة حرير"
+      },
+      {
+        "en": "A protective mucus bubble",
+        "ar": "فقاعة مخاطية واقية"
+      },
+      {
+        "en": "An eggshell",
+        "ar": "قشرة بيضة"
+      },
+      {
+        "en": "A placental-like structure",
+        "ar": "تركيب شبيه بالمشيمة"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Some shark species, including certain hammerheads, nourish their young through a placental-like connection, similar to mammals.",
+    "explanation_ar": "بعض أنواع القروش، ومنها بعض قرش المطرقة، بتغذي صغارها من خلال اتصال شبيه بالمشيمة، زي الثدييات."
+  },
+  {
+    "id": "ANM-200-045",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which land mammal undertakes one of the longest annual over-land migrations, with some herds traveling up to around 5,000 km round trip?",
+    "question_ar": "إيه الثديي البري اللي بيقوم بواحدة من أطول الهجرات البرية السنوية، وبعض قطعانه بتقطع رحلة ذهاب وعودة توصل لحوالي 5,000 كم؟",
+    "options": [
+      {
+        "en": "Caribou (reindeer)",
+        "ar": "الرنة (الكاريبو)"
+      },
+      {
+        "en": "Wildebeest",
+        "ar": "التّو الوحشي"
+      },
+      {
+        "en": "Zebra",
+        "ar": "الحمار الوحشي"
+      },
+      {
+        "en": "Elephant",
+        "ar": "الفيل"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Caribou herds undertake some of the longest land migrations of any mammal, with round trips of up to around 5,000 km.",
+    "explanation_ar": "قطعان الرنة بتقوم بواحدة من أطول الهجرات البرية لأي ثديي، برحلات ذهاب وعودة توصل لحوالي 5,000 كم."
+  },
+  {
+    "id": "ANM-200-046",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which fish uses a weak electric field generated by its own body to sense its surroundings in murky water, a process called electrolocation?",
+    "question_ar": "إيه السمكة اللي بتستخدم مجال كهربائي ضعيف بتولّده من جسمها عشان تحس بمحيطها في المية العكرة، في عملية اسمها التموضع الكهربائي؟",
+    "options": [
+      {
+        "en": "Electric eel",
+        "ar": "السمكة الرعادة"
+      },
+      {
+        "en": "Elephantnose fish",
+        "ar": "سمكة خرطوم الفيل"
+      },
+      {
+        "en": "Catfish",
+        "ar": "القرموط"
+      },
+      {
+        "en": "Angler fish",
+        "ar": "سمك الشيطان"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The elephantnose fish generates a weak electric field to sense objects and navigate in murky water, unlike the electric eel's strong shock.",
+    "explanation_ar": "سمكة خرطوم الفيل بتولّد مجال كهربائي ضعيف عشان تحس بالأشيا وتتحرك في المية العكرة، على عكس الصدمة القوية للسمكة الرعادة."
+  },
+  {
+    "id": "ANM-200-047",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which slow-moving mammal is known for having an unusually variable body temperature that can shift with its surroundings, unlike most mammals?",
+    "question_ar": "إيه الثديي بطيء الحركة المعروف بدرجة حرارة جسم متغيرة بشكل غير عادي بتختلف مع محيطه، على عكس أغلب الثدييات؟",
+    "options": [
+      {
+        "en": "Koala",
+        "ar": "الكوالا"
+      },
+      {
+        "en": "Anteater",
+        "ar": "آكل النمل"
+      },
+      {
+        "en": "Sloth",
+        "ar": "الكسلان"
+      },
+      {
+        "en": "Panda",
+        "ar": "الباندا"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Sloths have an unusually variable body temperature, sometimes shifting with the surrounding environment more than most mammals.",
+    "explanation_ar": "الكسلان درجة حرارة جسمه متغيرة بشكل غير عادي، وأحيانًا بتتأثر بالبيئة المحيطة أكتر من أغلب الثدييات."
+  },
+  {
+    "id": "ANM-200-048",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which reptile, found only in New Zealand, is the sole surviving member of an ancient reptile order that predates the dinosaurs?",
+    "question_ar": "إيه الزاحف اللي موجود بس في نيوزيلندا، وهو العضو الوحيد الباقي من رتبة زواحف قديمة سابقة على الديناصورات؟",
+    "options": [
+      {
+        "en": "Komodo dragon",
+        "ar": "تنين كومودو"
+      },
+      {
+        "en": "Gecko",
+        "ar": "أبو بريص"
+      },
+      {
+        "en": "Iguana",
+        "ar": "الإجوانا"
+      },
+      {
+        "en": "Tuatara",
+        "ar": "التواتارا"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The tuatara, found only in New Zealand, is the last living member of an ancient reptile order predating the dinosaurs.",
+    "explanation_ar": "التواتارا، الموجودة بس في نيوزيلندا، هي آخر عضو حي من رتبة زواحف قديمة سابقة على الديناصورات."
+  },
+  {
+    "id": "ANM-200-049",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "In sand tiger sharks, embryos in the womb are known to practice a brutal behavior where the strongest embryo does what?",
+    "question_ar": "في قرش النمر الرملي، الأجنة جوه الرحم معروف عنها سلوك قاسي حيث الجنين الأقوى بيعمل إيه؟",
+    "options": [
+      {
+        "en": "Eats its weaker siblings before birth",
+        "ar": "بياكل إخواته الأضعف قبل الولادة"
+      },
+      {
+        "en": "Shares food equally with the others",
+        "ar": "بيتقاسم الأكل بالتساوي مع الباقيين"
+      },
+      {
+        "en": "Changes color to hide from the mother",
+        "ar": "بيغيّر لونه عشان يختبي من الأم"
+      },
+      {
+        "en": "Leaves the womb early to hunt",
+        "ar": "بيسيب الرحم بدري عشان يصطاد"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "In sand tiger sharks, the strongest embryo often eats its weaker siblings in the womb before birth, a behavior called intrauterine cannibalism.",
+    "explanation_ar": "في قرش النمر الرملي، الجنين الأقوى غالبًا بياكل إخواته الأضعف جوه الرحم قبل الولادة، وده سلوك اسمه أكل الإخوة داخل الرحم."
+  },
+  {
+    "id": "ANM-200-050",
+    "category": "Animals",
+    "category_ar": "حيوانات",
+    "value": 200,
+    "difficulty": 5,
+    "question_en": "Which bird was the first ever documented to be poisonous, carrying toxins in its skin and feathers absorbed from its diet?",
+    "question_ar": "إيه الطائر اللي كان أول طائر يتوثق إنه سام، وبيحمل سموم في جلده وريشه ماخدها من أكله؟",
+    "options": [
+      {
+        "en": "Cockatoo",
+        "ar": "الكوكاتو"
+      },
+      {
+        "en": "Hooded pitohui",
+        "ar": "بيتوهوي ذو القلنسوة"
+      },
+      {
+        "en": "Kingfisher",
+        "ar": "صياد السمك"
+      },
+      {
+        "en": "Cassowary",
+        "ar": "الكاسوري"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The hooded pitohui, from New Guinea, was the first bird documented to carry toxins in its skin and feathers.",
+    "explanation_ar": "بيتوهوي ذو القلنسوة، من غينيا الجديدة، كان أول طائر يتوثق إنه بيحمل سموم في جلده وريشه."
+  }
+]

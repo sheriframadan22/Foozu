@@ -455,29 +455,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US guitarist and singer, central to the British Invasion band The Kinks, wrote the riff-driven hit \"You Really Got Me\"?",
-    "question_ar": "أنهي عازف جيتار ومطرب بريطاني، من فرقة The Kinks، كتب أغنية \"You Really Got Me\" المشهورة بالريف بتاعها؟",
+    "question_en": "Which Egyptian singer had a long, celebrated partnership with Ammar El Sherei, the blind composer known for blending orchestral arrangements with Arabic music in the 1980s-90s?",
+    "question_ar": "أنهي مطرب مصري كان له شراكة طويلة ومحتفى بيها مع عمار الشريعي، الملحن الكفيف اللي اشتهر بمزج التوزيع الأوركسترالي بالموسيقى العربية في الثمانينات والتسعينات؟",
     "options": [
       {
-        "en": "Pete Townshend",
-        "ar": "بيت تاونسند"
+        "en": "Medhat Saleh",
+        "ar": "مدحت صالح"
       },
       {
-        "en": "Keith Richards",
-        "ar": "كيث ريتشاردز"
+        "en": "Mohamed Mounir",
+        "ar": "محمد منير"
       },
       {
-        "en": "Eric Clapton",
-        "ar": "إريك كلابتون"
+        "en": "Hany Shaker",
+        "ar": "هاني شاكر"
       },
       {
-        "en": "Ray Davies",
-        "ar": "راي ديفيز"
+        "en": "Ali El Haggar",
+        "ar": "علي الحجار"
       }
     ],
     "correctAnswer": 3,
-    "explanation_en": "Ray Davies of The Kinks wrote \"You Really Got Me\", an influential riff-driven rock song.",
-    "explanation_ar": "راي ديفيز من فرقة The Kinks كتب أغنية \"You Really Got Me\" المؤثرة."
+    "explanation_en": "Ammar El Sherei, a celebrated blind Egyptian composer, worked closely with singer Ali El Haggar.",
+    "explanation_ar": "عمار الشريعي، الملحن الكفيف المصري الشهير، اشتغل بشكل كبير مع المطرب علي الحجار."
   },
   {
     "id": "MUS-200-017",
@@ -515,29 +515,29 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which US band's Brian Wilson, known for pioneering studio production techniques, led the group behind \"Good Vibrations\" and the album \"Pet Sounds\"?",
-    "question_ar": "أنهي فرقة أمريكية، بقيادة براين ويلسون الرائد في تقنيات إنتاج الاستوديو، غنت \"Good Vibrations\" وألبوم \"Pet Sounds\"؟",
+    "question_en": "Which Egyptian economist and businessman founded \"Studio Misr\" in 1934, the production house central to Egypt's golden-era musical films?",
+    "question_ar": "أنهي اقتصادي ورجل أعمال مصري أسس \"استوديو مصر\" سنة 1934، اللي كان مركز إنتاج الأفلام الغنائية في العصر الذهبي؟",
     "options": [
       {
-        "en": "The Byrds",
-        "ar": "ذا بيردز"
+        "en": "Ahmed Abboud",
+        "ar": "أحمد عبود"
       },
       {
-        "en": "The Beach Boys",
-        "ar": "ذا بيتش بويز"
+        "en": "Talaat Harb",
+        "ar": "طلعت حرب"
       },
       {
-        "en": "The Mamas & the Papas",
-        "ar": "ذا ماماز آند ذا باباز"
+        "en": "Ismail Sidqi",
+        "ar": "إسماعيل صدقي"
       },
       {
-        "en": "Jan and Dean",
-        "ar": "جان آند دين"
+        "en": "Hafez Afifi",
+        "ar": "حافظ عفيفي"
       }
     ],
     "correctAnswer": 1,
-    "explanation_en": "Brian Wilson led The Beach Boys, known for \"Good Vibrations\" and the landmark album \"Pet Sounds\".",
-    "explanation_ar": "براين ويلسون قاد فرقة The Beach Boys صاحبة \"Good Vibrations\" وألبوم \"Pet Sounds\"."
+    "explanation_en": "Talaat Harb, founder of Bank Misr, also established Studio Misr in 1934.",
+    "explanation_ar": "طلعت حرب، مؤسس بنك مصر، أسس كمان استوديو مصر سنة 1934."
   },
   {
     "id": "MUS-200-019",

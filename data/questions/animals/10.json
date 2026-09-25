@@ -99,23 +99,23 @@
     "question_ar": "إيه أطول حيوان؟",
     "options": [
       {
-        "en": "Elephant",
-        "ar": "الفيل"
-      },
-      {
-        "en": "Giraffe",
-        "ar": "الزرافة"
-      },
-      {
         "en": "Camel",
         "ar": "الجمل"
       },
       {
         "en": "Ostrich",
         "ar": "النعامة"
+      },
+      {
+        "en": "Elephant",
+        "ar": "الفيل"
+      },
+      {
+        "en": "Giraffe",
+        "ar": "الزرافة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Giraffes can grow up to 5.5 meters tall.",
     "explanation_ar": "الزرافة ممكن يوصل طولها لـ 5.5 متر."
   },
@@ -129,10 +129,6 @@
     "question_ar": "مين اللي بيتقال له \"ملك الغابة\"؟",
     "options": [
       {
-        "en": "Tiger",
-        "ar": "النمر"
-      },
-      {
         "en": "Lion",
         "ar": "الأسد"
       },
@@ -143,9 +139,13 @@
       {
         "en": "Gorilla",
         "ar": "الغوريلا"
+      },
+      {
+        "en": "Tiger",
+        "ar": "النمر"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The lion has long been nicknamed the king of the jungle.",
     "explanation_ar": "الأسد اتلقب من زمان بـ \"ملك الغابة\"."
   },
@@ -159,6 +159,10 @@
     "question_ar": "البقرة بتعمل صوت إيه؟",
     "options": [
       {
+        "en": "Neigh",
+        "ar": "صهيل"
+      },
+      {
         "en": "Moo",
         "ar": "مووو"
       },
@@ -169,13 +173,9 @@
       {
         "en": "Oink",
         "ar": "خرخور الخنزير"
-      },
-      {
-        "en": "Neigh",
-        "ar": "صهيل"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Cows are known for their \"moo\" sound.",
     "explanation_ar": "البقرة معروفة بصوت \"المووو\"."
   },
@@ -189,6 +189,10 @@
     "question_ar": "مين اللي بيتقال له \"أفضل صديق للإنسان\"؟",
     "options": [
       {
+        "en": "Parrot",
+        "ar": "الببغاء"
+      },
+      {
         "en": "Cat",
         "ar": "القطة"
       },
@@ -199,13 +203,9 @@
       {
         "en": "Horse",
         "ar": "الحصان"
-      },
-      {
-        "en": "Parrot",
-        "ar": "الببغاء"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Dogs have been domesticated companions of humans for thousands of years.",
     "explanation_ar": "الكلب اترّبى مع الإنسان كصاحب من آلاف السنين."
   },
@@ -219,10 +219,6 @@
     "question_ar": "إيه أكبر طائر أفريقي ميعرفش يطير؟",
     "options": [
       {
-        "en": "Ostrich",
-        "ar": "النعامة"
-      },
-      {
         "en": "Eagle",
         "ar": "النسر"
       },
@@ -233,9 +229,13 @@
       {
         "en": "Peacock",
         "ar": "الطاووس"
+      },
+      {
+        "en": "Ostrich",
+        "ar": "النعامة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The ostrich is the world's largest bird and cannot fly.",
     "explanation_ar": "النعامة أكبر طائر في العالم ومش بتطير."
   },
@@ -249,10 +249,6 @@
     "question_ar": "إيه الحيوان اللي ليه خرطوم طويل؟",
     "options": [
       {
-        "en": "Rhino",
-        "ar": "وحيد القرن"
-      },
-      {
         "en": "Elephant",
         "ar": "الفيل"
       },
@@ -263,9 +259,13 @@
       {
         "en": "Giraffe",
         "ar": "الزرافة"
+      },
+      {
+        "en": "Rhino",
+        "ar": "وحيد القرن"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Elephants use their trunk to eat, drink and breathe.",
     "explanation_ar": "الفيل بيستخدم خرطومه عشان ياكل ويشرب ويتنفس."
   },
@@ -279,6 +279,10 @@
     "question_ar": "إيه الحيوان اللي معروف بخطوطه الأبيض والأسود؟",
     "options": [
       {
+        "en": "Tiger",
+        "ar": "النمر"
+      },
+      {
         "en": "Zebra",
         "ar": "الحمار الوحشي"
       },
@@ -289,13 +293,9 @@
       {
         "en": "Skunk",
         "ar": "السقنقور"
-      },
-      {
-        "en": "Tiger",
-        "ar": "النمر"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Zebras have a unique pattern of black and white stripes.",
     "explanation_ar": "الحمار الوحشي بتاعه خطوط سودا وبيضا مميزة."
   },
@@ -309,23 +309,23 @@
     "question_ar": "إيه الحيوان الصحراوي اللي بيتقال له \"سفينة الصحرا\"؟",
     "options": [
       {
-        "en": "Camel",
-        "ar": "الجمل"
-      },
-      {
-        "en": "Horse",
-        "ar": "الحصان"
-      },
-      {
         "en": "Donkey",
         "ar": "الحمار"
       },
       {
         "en": "Goat",
         "ar": "الماعز"
+      },
+      {
+        "en": "Camel",
+        "ar": "الجمل"
+      },
+      {
+        "en": "Horse",
+        "ar": "الحصان"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The camel is nicknamed the ship of the desert for carrying loads across long distances.",
     "explanation_ar": "الجمل بيتقال له سفينة الصحرا لأنه بينقل الحمولة لمسافات طويلة."
   },
@@ -339,10 +339,6 @@
     "question_ar": "إيه الحيوان المشهور إنه بيتحرك ببطء شديد؟",
     "options": [
       {
-        "en": "Sloth",
-        "ar": "الكسلان"
-      },
-      {
         "en": "Rabbit",
         "ar": "الأرنب"
       },
@@ -353,9 +349,13 @@
       {
         "en": "Deer",
         "ar": "الغزال"
+      },
+      {
+        "en": "Sloth",
+        "ar": "الكسلان"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The sloth is one of the slowest-moving mammals on Earth.",
     "explanation_ar": "الكسلان من أبطأ الثدييات في الحركة على الأرض."
   },
@@ -395,29 +395,29 @@
     "category_ar": "حيوانات",
     "value": 10,
     "difficulty": 1,
-    "question_en": "What do bees make?",
-    "question_ar": "النحل بيعمل إيه؟",
+    "question_en": "Which animal is known as the 'King of the Jungle'?",
+    "question_ar": "أنهي حيوان بيتسمى \"ملك الغابة\"؟",
     "options": [
       {
-        "en": "Honey",
-        "ar": "عسل"
+        "en": "Lion",
+        "ar": "الأسد"
       },
       {
-        "en": "Milk",
-        "ar": "لبن"
+        "en": "Tiger",
+        "ar": "النمر"
       },
       {
-        "en": "Silk",
-        "ar": "حرير"
+        "en": "Elephant",
+        "ar": "الفيل"
       },
       {
-        "en": "Butter",
-        "ar": "زبدة"
+        "en": "Gorilla",
+        "ar": "الغوريلا"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Bees produce honey from flower nectar.",
-    "explanation_ar": "النحل بيصنع العسل من رحيق الزهور."
+    "explanation_en": "The lion has been nicknamed the King of the Jungle for centuries, even though it actually lives on grasslands.",
+    "explanation_ar": "الأسد معروف بلقب ملك الغابة، مع إنه فعليًا بيعيش في السافانا مش الغابة."
   },
   {
     "id": "ANM-010-015",
@@ -429,23 +429,23 @@
     "question_ar": "إيه الزواحف اللي بتتلاقى في نهر النيل بكثرة؟",
     "options": [
       {
-        "en": "Crocodile",
-        "ar": "التمساح"
-      },
-      {
-        "en": "Turtle",
-        "ar": "السلحفاة"
-      },
-      {
         "en": "Snake",
         "ar": "الثعبان"
       },
       {
         "en": "Lizard",
         "ar": "السحلية"
+      },
+      {
+        "en": "Crocodile",
+        "ar": "التمساح"
+      },
+      {
+        "en": "Turtle",
+        "ar": "السلحفاة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Nile crocodile is a well-known predator of the Nile River.",
     "explanation_ar": "تمساح النيل من أشهر المفترسين في نهر النيل."
   },
@@ -459,10 +459,6 @@
     "question_ar": "إيه الحيوان اللي بيغيّر لون جلده؟",
     "options": [
       {
-        "en": "Chameleon",
-        "ar": "الحرباية"
-      },
-      {
         "en": "Gecko",
         "ar": "أبو بريص"
       },
@@ -473,9 +469,13 @@
       {
         "en": "Iguana",
         "ar": "الإجوانا"
+      },
+      {
+        "en": "Chameleon",
+        "ar": "الحرباية"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Chameleons change color to blend in or show their mood.",
     "explanation_ar": "الحرباية بتغيّر لونها عشان تندمج مع المكان أو تعبّر عن مزاجها."
   },
@@ -549,23 +549,23 @@
     "question_ar": "إيه الحيوان اللي ليه ودان طويلة وبيتحرك بالنط؟",
     "options": [
       {
-        "en": "Rabbit",
-        "ar": "الأرنب"
-      },
-      {
-        "en": "Squirrel",
-        "ar": "السنجاب"
-      },
-      {
         "en": "Mouse",
         "ar": "الفار"
       },
       {
         "en": "Hedgehog",
         "ar": "القنفذ"
+      },
+      {
+        "en": "Rabbit",
+        "ar": "الأرنب"
+      },
+      {
+        "en": "Squirrel",
+        "ar": "السنجاب"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Rabbits have long ears and hop to move around.",
     "explanation_ar": "الأرنب ليه ودان طويلة وبيتحرك عن طريق النط."
   },
@@ -579,10 +579,6 @@
     "question_ar": "إيه الكائن المعروف بنسج الشِباك؟",
     "options": [
       {
-        "en": "Spider",
-        "ar": "العنكبوت"
-      },
-      {
         "en": "Ant",
         "ar": "النملة"
       },
@@ -593,9 +589,13 @@
       {
         "en": "Fly",
         "ar": "الدبانة"
+      },
+      {
+        "en": "Spider",
+        "ar": "العنكبوت"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Spiders spin silk webs to catch their prey.",
     "explanation_ar": "العنكبوت بينسج شِباك من الحرير عشان يصطاد فريسته."
   },
@@ -639,6 +639,10 @@
     "question_ar": "إيه الحيوان المعروف باللبدة اللي حوالين دماغه؟",
     "options": [
       {
+        "en": "Bear",
+        "ar": "الدب"
+      },
+      {
         "en": "Lion",
         "ar": "الأسد"
       },
@@ -649,13 +653,9 @@
       {
         "en": "Horse",
         "ar": "الحصان"
-      },
-      {
-        "en": "Bear",
-        "ar": "الدب"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Male lions grow a thick mane around their head and neck.",
     "explanation_ar": "ذكر الأسد بينبت له لبدة سميكة حوالين الراس والرقبة."
   },
@@ -669,23 +669,23 @@
     "question_ar": "الكلب بيعمل صوت إيه؟",
     "options": [
       {
-        "en": "Bark",
-        "ar": "نباح"
-      },
-      {
-        "en": "Meow",
-        "ar": "مياو"
-      },
-      {
         "en": "Moo",
         "ar": "مووو"
       },
       {
         "en": "Roar",
         "ar": "زئير"
+      },
+      {
+        "en": "Bark",
+        "ar": "نباح"
+      },
+      {
+        "en": "Meow",
+        "ar": "مياو"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Dogs communicate by barking.",
     "explanation_ar": "الكلب بيتواصل عن طريق النباح."
   },
@@ -699,10 +699,6 @@
     "question_ar": "القطة بتعمل صوت إيه؟",
     "options": [
       {
-        "en": "Meow",
-        "ar": "مياو"
-      },
-      {
         "en": "Bark",
         "ar": "نباح"
       },
@@ -713,9 +709,13 @@
       {
         "en": "Neigh",
         "ar": "صهيل"
+      },
+      {
+        "en": "Meow",
+        "ar": "مياو"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Cats are known for making a \"meow\" sound.",
     "explanation_ar": "القطة معروفة بصوت \"المياو\"."
   },
@@ -729,10 +729,6 @@
     "question_ar": "إيه أكبر حيوان بري في العالم؟",
     "options": [
       {
-        "en": "Giraffe",
-        "ar": "الزرافة"
-      },
-      {
         "en": "African elephant",
         "ar": "الفيل الأفريقي"
       },
@@ -743,9 +739,13 @@
       {
         "en": "Hippo",
         "ar": "فرس النهر"
+      },
+      {
+        "en": "Giraffe",
+        "ar": "الزرافة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The African elephant is the largest living land animal.",
     "explanation_ar": "الفيل الأفريقي هو أكبر حيوان بري حي."
   },
@@ -819,6 +819,10 @@
     "question_ar": "إيه الحشرة اللي بتلسع وكمان بتعمل عسل؟",
     "options": [
       {
+        "en": "Fly",
+        "ar": "الدبانة"
+      },
+      {
         "en": "Wasp",
         "ar": "الدبور"
       },
@@ -829,13 +833,9 @@
       {
         "en": "Bee",
         "ar": "النحلة"
-      },
-      {
-        "en": "Fly",
-        "ar": "الدبانة"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Bees can sting to defend themselves and also produce honey.",
     "explanation_ar": "النحلة ممكن تلسع عشان تدافع عن نفسها وكمان بتنتج العسل."
   },
@@ -849,10 +849,6 @@
     "question_ar": "إيه الكائن البحري المعروف إن ليه ثمانية أدرع؟",
     "options": [
       {
-        "en": "Squid",
-        "ar": "الحبار"
-      },
-      {
         "en": "Octopus",
         "ar": "الأخطبوط"
       },
@@ -863,9 +859,13 @@
       {
         "en": "Starfish",
         "ar": "نجم البحر"
+      },
+      {
+        "en": "Squid",
+        "ar": "الحبار"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The octopus has eight arms lined with suckers.",
     "explanation_ar": "الأخطبوط ليه ثمانية أدرع مليانة أكواب شفط."
   },
@@ -879,6 +879,10 @@
     "question_ar": "إيه حيوان المزرعة اللي بيديلنا الصوف؟",
     "options": [
       {
+        "en": "Horse",
+        "ar": "الحصان"
+      },
+      {
         "en": "Sheep",
         "ar": "الخروف"
       },
@@ -889,13 +893,9 @@
       {
         "en": "Cow",
         "ar": "البقرة"
-      },
-      {
-        "en": "Horse",
-        "ar": "الحصان"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Sheep are raised for their woolly coats.",
     "explanation_ar": "الخروف بيترّبى عشان صوفه."
   },
@@ -909,23 +909,23 @@
     "question_ar": "إيه الزواحف اللي على ضهرها قوقعة صلبة؟",
     "options": [
       {
-        "en": "Turtle",
-        "ar": "السلحفاة"
-      },
-      {
-        "en": "Crocodile",
-        "ar": "التمساح"
-      },
-      {
         "en": "Lizard",
         "ar": "السحلية"
       },
       {
         "en": "Snake",
         "ar": "الثعبان"
+      },
+      {
+        "en": "Turtle",
+        "ar": "السلحفاة"
+      },
+      {
+        "en": "Crocodile",
+        "ar": "التمساح"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Turtles carry a hard protective shell on their backs.",
     "explanation_ar": "السلحفاة بتحمل قوقعة صلبة على ضهرها تحميها."
   },
@@ -939,23 +939,23 @@
     "question_ar": "الخنزير بيعمل صوت إيه؟",
     "options": [
       {
-        "en": "Moo",
-        "ar": "مووو"
-      },
-      {
-        "en": "Oink",
-        "ar": "خرخور"
-      },
-      {
         "en": "Baa",
         "ar": "بعععع"
       },
       {
         "en": "Neigh",
         "ar": "صهيل"
+      },
+      {
+        "en": "Moo",
+        "ar": "مووو"
+      },
+      {
+        "en": "Oink",
+        "ar": "خرخور"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Pigs are known for making an \"oink\" sound.",
     "explanation_ar": "الخنزير معروف بصوت \"الخرخور\"."
   },
@@ -999,6 +999,10 @@
     "question_ar": "إيه الحشرة اللي بتبدأ يرقانة وبعدين بيبقى ليها جناحين ملونين؟",
     "options": [
       {
+        "en": "Dragonfly",
+        "ar": "اليعسوب"
+      },
+      {
         "en": "Butterfly",
         "ar": "الفراشة"
       },
@@ -1009,13 +1013,9 @@
       {
         "en": "Beetle",
         "ar": "الخنفسة"
-      },
-      {
-        "en": "Dragonfly",
-        "ar": "اليعسوب"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "A caterpillar transforms into a butterfly with colorful wings.",
     "explanation_ar": "اليرقانة بتتحول لفراشة ليها جناحين ملونين."
   },
@@ -1029,6 +1029,10 @@
     "question_ar": "السمكة بتعيش فين طبيعي؟",
     "options": [
       {
+        "en": "Sky",
+        "ar": "السما"
+      },
+      {
         "en": "Desert",
         "ar": "الصحرا"
       },
@@ -1039,13 +1043,9 @@
       {
         "en": "Forest",
         "ar": "الغابة"
-      },
-      {
-        "en": "Sky",
-        "ar": "السما"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Fish live and breathe in water.",
     "explanation_ar": "السمك بيعيش ويتنفس في المية."
   },
@@ -1059,23 +1059,23 @@
     "question_ar": "إيه الحيوان اللي بيتصور دايمًا وهو بياكل موز؟",
     "options": [
       {
-        "en": "Elephant",
-        "ar": "الفيل"
-      },
-      {
-        "en": "Monkey",
-        "ar": "القرد"
-      },
-      {
         "en": "Bear",
         "ar": "الدب"
       },
       {
         "en": "Parrot",
         "ar": "الببغاء"
+      },
+      {
+        "en": "Elephant",
+        "ar": "الفيل"
+      },
+      {
+        "en": "Monkey",
+        "ar": "القرد"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Monkeys are commonly shown eating bananas.",
     "explanation_ar": "القرد بيتصور غالبًا وهو بياكل موز."
   },
@@ -1119,6 +1119,10 @@
     "question_ar": "إيه الحيوان الصحراوي اللي يقدر يعيش أيام كتير من غير ما يشرب مية؟",
     "options": [
       {
+        "en": "Goat",
+        "ar": "الماعز"
+      },
+      {
         "en": "Camel",
         "ar": "الجمل"
       },
@@ -1129,13 +1133,9 @@
       {
         "en": "Donkey",
         "ar": "الحمار"
-      },
-      {
-        "en": "Goat",
-        "ar": "الماعز"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Camels can survive long periods without water thanks to their body fat reserves.",
     "explanation_ar": "الجمل يقدر يعيش فترات طويلة من غير مية بفضل مخزون الدهون في جسمه."
   },
@@ -1149,6 +1149,10 @@
     "question_ar": "إيه الثديي البحري المشهور بذكاه واستخدامه لأصوات الطقطقة للتواصل؟",
     "options": [
       {
+        "en": "Turtle",
+        "ar": "السلحفاة"
+      },
+      {
         "en": "Shark",
         "ar": "القرش"
       },
@@ -1159,13 +1163,9 @@
       {
         "en": "Octopus",
         "ar": "الأخطبوط"
-      },
-      {
-        "en": "Turtle",
-        "ar": "السلحفاة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Dolphins are highly intelligent and communicate using clicks and whistles.",
     "explanation_ar": "الدولفين ذكي جدًا وبيتواصل بأصوات طقطقة وصفير."
   },
@@ -1179,10 +1179,6 @@
     "question_ar": "إيه الطائر المعروف كرمز للسلام؟",
     "options": [
       {
-        "en": "Dove",
-        "ar": "الحمامة"
-      },
-      {
         "en": "Owl",
         "ar": "البومة"
       },
@@ -1193,9 +1189,13 @@
       {
         "en": "Crow",
         "ar": "الغراب"
+      },
+      {
+        "en": "Dove",
+        "ar": "الحمامة"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "The white dove is a well-known symbol of peace.",
     "explanation_ar": "الحمامة البيضا رمز معروف للسلام."
   },
@@ -1269,23 +1269,23 @@
     "question_ar": "إيه الزواحف اللي من غير رجلين وبتتحرك بالانزلاق؟",
     "options": [
       {
-        "en": "Snake",
-        "ar": "الثعبان"
-      },
-      {
-        "en": "Lizard",
-        "ar": "السحلية"
-      },
-      {
         "en": "Worm",
         "ar": "الدودة"
       },
       {
         "en": "Eel",
         "ar": "الأنقليس"
+      },
+      {
+        "en": "Snake",
+        "ar": "الثعبان"
+      },
+      {
+        "en": "Lizard",
+        "ar": "السحلية"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Snakes have no legs and move by slithering along the ground.",
     "explanation_ar": "الثعبان من غير رجلين وبيتحرك بالانزلاق على الأرض."
   },
@@ -1299,6 +1299,10 @@
     "question_ar": "إيه نوع الدب الأبيض والأسود اللي أصله من الصين؟",
     "options": [
       {
+        "en": "Koala",
+        "ar": "الكوالا"
+      },
+      {
         "en": "Grizzly bear",
         "ar": "الدب الرمادي"
       },
@@ -1309,13 +1313,9 @@
       {
         "en": "Panda",
         "ar": "الباندا"
-      },
-      {
-        "en": "Koala",
-        "ar": "الكوالا"
       }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "The giant panda is native to China and known for its black and white fur.",
     "explanation_ar": "الباندا العملاقة أصلها من الصين ومعروفة بفروها الأبيض والأسود."
   },
@@ -1329,10 +1329,6 @@
     "question_ar": "إيه الحشرة المشهورة إنها بتبني \"تل النمل\"؟",
     "options": [
       {
-        "en": "Bee",
-        "ar": "النحلة"
-      },
-      {
         "en": "Ant",
         "ar": "النملة"
       },
@@ -1343,9 +1339,13 @@
       {
         "en": "Beetle",
         "ar": "الخنفسة"
+      },
+      {
+        "en": "Bee",
+        "ar": "النحلة"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Ants work together to build anthills as their homes.",
     "explanation_ar": "النمل بيشتغل مع بعض عشان يبني تل النمل كبيت ليه."
   },
@@ -1359,6 +1359,10 @@
     "question_ar": "إيه الكائن البري اللي بيحمل قوقعة حلزونية وبيتحرك ببطء شديد؟",
     "options": [
       {
+        "en": "Slug",
+        "ar": "البزاق"
+      },
+      {
         "en": "Snail",
         "ar": "الحلزون"
       },
@@ -1369,13 +1373,9 @@
       {
         "en": "Turtle",
         "ar": "السلحفاة"
-      },
-      {
-        "en": "Slug",
-        "ar": "البزاق"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Snails carry a hard spiral shell on their backs.",
     "explanation_ar": "الحلزون بيحمل قوقعة حلزونية صلبة على ضهره."
   },
@@ -1419,10 +1419,6 @@
     "question_ar": "إيه الطائر الطويل بريشه الوردي اللي بيقف غالبًا على رجل واحدة؟",
     "options": [
       {
-        "en": "Flamingo",
-        "ar": "الفلامنجو"
-      },
-      {
         "en": "Stork",
         "ar": "اللقلق"
       },
@@ -1433,9 +1429,13 @@
       {
         "en": "Ostrich",
         "ar": "النعامة"
+      },
+      {
+        "en": "Flamingo",
+        "ar": "الفلامنجو"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "Flamingos are known for their pink feathers and standing on one leg.",
     "explanation_ar": "الفلامنجو معروف بريشه الوردي ووقوفه على رجل واحدة."
   },
@@ -1449,10 +1449,6 @@
     "question_ar": "إيه الحشرة اللي بتنتج الحرير المستخدم في عمل قماش الحرير؟",
     "options": [
       {
-        "en": "Spider",
-        "ar": "العنكبوت"
-      },
-      {
         "en": "Silkworm",
         "ar": "دودة القز"
       },
@@ -1463,9 +1459,13 @@
       {
         "en": "Ant",
         "ar": "النملة"
+      },
+      {
+        "en": "Spider",
+        "ar": "العنكبوت"
       }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Silkworm cocoons are unwound to produce natural silk thread.",
     "explanation_ar": "شرنقة دودة القز بتتفك عشان يتصنع منها خيط الحرير الطبيعي."
   },
@@ -1479,6 +1479,10 @@
     "question_ar": "إيه من دول سمكة أليفة معروفة بتترّبى في حوض؟",
     "options": [
       {
+        "en": "Salmon",
+        "ar": "السلمون"
+      },
+      {
         "en": "Goldfish",
         "ar": "السمكة الذهبية"
       },
@@ -1489,13 +1493,9 @@
       {
         "en": "Tuna",
         "ar": "التونة"
-      },
-      {
-        "en": "Salmon",
-        "ar": "السلمون"
       }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "The goldfish is one of the most popular pet fish in the world.",
     "explanation_ar": "السمكة الذهبية من أشهر الأسماك الأليفة في العالم."
   }

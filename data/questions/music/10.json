@@ -275,29 +275,29 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "What do we call a group of people who sing together?",
-    "question_ar": "بيتقال إيه على مجموعة ناس بيغنوا مع بعض؟",
+    "question_en": "Ragheb Alama, a famous singer known for hits like \"Betfaker Fiya\", is from which country?",
+    "question_ar": "راغب علامة، المطرب المشهور بأغاني زي \"بتفكر فيا\"، من أنهي بلد؟",
     "options": [
       {
-        "en": "Orchestra",
-        "ar": "أوركسترا"
+        "en": "Egypt",
+        "ar": "مصر"
       },
       {
-        "en": "Band",
-        "ar": "فرقة"
+        "en": "Syria",
+        "ar": "سوريا"
       },
       {
-        "en": "Choir",
-        "ar": "كورال"
+        "en": "Lebanon",
+        "ar": "لبنان"
       },
       {
-        "en": "Ensemble",
-        "ar": "إنسمبل"
+        "en": "Jordan",
+        "ar": "الأردن"
       }
     ],
     "correctAnswer": 2,
-    "explanation_en": "A group of singers performing together is called a choir.",
-    "explanation_ar": "مجموعة الناس اللي بيغنوا مع بعض بيتقالها كورال."
+    "explanation_en": "Ragheb Alama is a well-known Lebanese singer.",
+    "explanation_ar": "راغب علامة مطرب لبناني معروف."
   },
   {
     "id": "MUS-010-011",
@@ -485,29 +485,29 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Adele's hit song \"Someone Like You\" belongs to which genre?",
-    "question_ar": "أغنية أديل \"Someone Like You\" بتنتمي لأنهي نوع؟",
+    "question_en": "Najwa Karam, a famous Arab singer known as \"Sultanat Al Tarab\", is from which country?",
+    "question_ar": "نجوى كرم، المطربة العربية المشهورة بلقب \"سلطانة الطرب\"، من أنهي بلد؟",
     "options": [
       {
-        "en": "Heavy Metal",
-        "ar": "هيفي ميتال"
+        "en": "Egypt",
+        "ar": "مصر"
       },
       {
-        "en": "Pop/Soul",
-        "ar": "بوب/سول"
+        "en": "Lebanon",
+        "ar": "لبنان"
       },
       {
-        "en": "Reggae",
-        "ar": "ريجي"
+        "en": "Jordan",
+        "ar": "الأردن"
       },
       {
-        "en": "Techno",
-        "ar": "تكنو"
+        "en": "Syria",
+        "ar": "سوريا"
       }
     ],
     "correctAnswer": 1,
-    "explanation_en": "Adele's music is generally pop and soul.",
-    "explanation_ar": "موسيقى أديل غالبًا بوب وسول."
+    "explanation_en": "Najwa Karam is a Lebanese singer nicknamed \"Sultanat Al Tarab\".",
+    "explanation_ar": "نجوى كرم مطربة لبنانية ملقبة بـ\"سلطانة الطرب\"."
   },
   {
     "id": "MUS-010-018",
@@ -875,29 +875,29 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "The Grammy Awards are one of the most famous music award shows in which country?",
-    "question_ar": "جوايز الجرامي من أشهر جوايز الموسيقى في أنهي بلد؟",
+    "question_en": "Assala Nasri, a famous Arab singer with a powerful voice, is originally from which country?",
+    "question_ar": "أصالة نصري، المطربة العربية بصوتها القوي، أصلها من أنهي بلد؟",
     "options": [
       {
-        "en": "USA",
-        "ar": "أمريكا"
+        "en": "Syria",
+        "ar": "سوريا"
       },
       {
-        "en": "UK",
-        "ar": "بريطانيا"
+        "en": "Egypt",
+        "ar": "مصر"
       },
       {
-        "en": "France",
-        "ar": "فرنسا"
+        "en": "Lebanon",
+        "ar": "لبنان"
       },
       {
-        "en": "Canada",
-        "ar": "كندا"
+        "en": "Jordan",
+        "ar": "الأردن"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "The Grammy Awards are the top US music awards.",
-    "explanation_ar": "جوايز الجرامي هي أشهر جوايز موسيقى أمريكية."
+    "explanation_en": "Assala Nasri is a Syrian singer.",
+    "explanation_ar": "أصالة نصري مطربة سورية."
   },
   {
     "id": "MUS-010-031",
@@ -965,29 +965,29 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Coldplay, singers of \"Yellow\", are a band from which country?",
-    "question_ar": "فرقة كولدبلاي مغني \"Yellow\" جاية من أنهي بلد؟",
+    "question_en": "Hussain Al Jassmi, singer of \"Boshret Kheir\", is from which country?",
+    "question_ar": "حسين الجسمي، مغني \"بشرة خير\"، من أنهي بلد؟",
     "options": [
       {
-        "en": "UK",
-        "ar": "بريطانيا"
+        "en": "UAE",
+        "ar": "الإمارات"
       },
       {
-        "en": "USA",
-        "ar": "أمريكا"
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
       },
       {
-        "en": "Ireland",
-        "ar": "إيرلندا"
+        "en": "Qatar",
+        "ar": "قطر"
       },
       {
-        "en": "Australia",
-        "ar": "أستراليا"
+        "en": "Bahrain",
+        "ar": "البحرين"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Coldplay is a British band.",
-    "explanation_ar": "كولدبلاي فرقة بريطانية."
+    "explanation_en": "Hussain Al Jassmi is an Emirati singer.",
+    "explanation_ar": "حسين الجسمي مطرب إماراتي."
   },
   {
     "id": "MUS-010-034",
@@ -1085,29 +1085,29 @@
     "category_ar": "مزيكا",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Which of these bands is famous for the song \"Sugar\"?",
-    "question_ar": "أنهي فرقة من دول مشهورة بأغنية \"Sugar\"؟",
+    "question_en": "Which traditional Arabic wind instrument, a reed flute, is a key part of classical Arabic music ensembles?",
+    "question_ar": "أنهي آلة نفخ عربية تقليدية، عبارة عن ناي من القصب، أساسية في فرق الموسيقى العربية الكلاسيكية؟",
     "options": [
       {
-        "en": "One Direction",
-        "ar": "وان دايركشن"
+        "en": "Oud",
+        "ar": "العود"
       },
       {
-        "en": "Imagine Dragons",
-        "ar": "إيماجن دراجونز"
+        "en": "Qanun",
+        "ar": "القانون"
       },
       {
-        "en": "Maroon 5",
-        "ar": "مارون 5"
+        "en": "Nay",
+        "ar": "الناي"
       },
       {
-        "en": "OneRepublic",
-        "ar": "وان ريببليك"
+        "en": "Darbuka",
+        "ar": "الدربوكة"
       }
     ],
     "correctAnswer": 2,
-    "explanation_en": "\"Sugar\" is a hit by Maroon 5.",
-    "explanation_ar": "أغنية \"Sugar\" من أشهر أغاني مارون 5."
+    "explanation_en": "The nay is a traditional reed flute central to Arabic music.",
+    "explanation_ar": "الناي آلة نفخ تقليدية من القصب وأساسية في الموسيقى العربية."
   },
   {
     "id": "MUS-010-038",

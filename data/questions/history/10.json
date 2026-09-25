@@ -35,29 +35,29 @@
     "category_ar": "تاريخ",
     "value": 10,
     "difficulty": 1,
-    "question_en": "In which country are the Great Pyramids located?",
-    "question_ar": "أهرامات الجيزة موجودة في أنهي بلد؟",
+    "question_en": "Which ancient Egyptian king is famous for his golden burial mask found in 1922?",
+    "question_ar": "أنهي ملك فرعوني مشهور بقناعه الدهب اللي اتلقى سنة 1922؟",
     "options": [
       {
-        "en": "Sudan",
-        "ar": "السودان"
+        "en": "Tutankhamun",
+        "ar": "توت عنخ آمون"
       },
       {
-        "en": "Egypt",
-        "ar": "مصر"
+        "en": "Ramses II",
+        "ar": "رمسيس التاني"
       },
       {
-        "en": "Libya",
-        "ar": "ليبيا"
+        "en": "Khufu",
+        "ar": "خوفو"
       },
       {
-        "en": "Jordan",
-        "ar": "الأردن"
+        "en": "Akhenaten",
+        "ar": "إخناتون"
       }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "The pyramids stand in Giza, Egypt.",
-    "explanation_ar": "الأهرامات موجودة في الجيزة، مصر."
+    "correctAnswer": 0,
+    "explanation_en": "Howard Carter discovered Tutankhamun's tomb and its golden mask in 1922.",
+    "explanation_ar": "هوارد كارتر اكتشف مقبرة توت عنخ آمون وقناعه الدهب سنة 1922."
   },
   {
     "id": "HIS-010-003",
@@ -486,29 +486,29 @@
     "category_ar": "تاريخ",
     "value": 10,
     "difficulty": 1,
-    "question_en": "The Statue of Liberty was a gift to the USA from which country?",
-    "question_ar": "تمثال الحرية كان هدية لأمريكا من أنهي بلد؟",
+    "question_en": "Who is known as the first pharaoh of a unified Egypt?",
+    "question_ar": "مين أول فرعون وحّد مصر؟",
     "options": [
       {
-        "en": "France",
-        "ar": "فرنسا"
+        "en": "Narmer",
+        "ar": "نارمر"
       },
       {
-        "en": "Britain",
-        "ar": "بريطانيا"
+        "en": "Khufu",
+        "ar": "خوفو"
       },
       {
-        "en": "Spain",
-        "ar": "إسبانيا"
+        "en": "Tutankhamun",
+        "ar": "توت عنخ آمون"
       },
       {
-        "en": "Italy",
-        "ar": "إيطاليا"
+        "en": "Ramses II",
+        "ar": "رمسيس التاني"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "France gave the Statue of Liberty to the United States.",
-    "explanation_ar": "فرنسا اهدت تمثال الحرية للولايات المتحدة."
+    "explanation_en": "Narmer is traditionally credited with unifying Upper and Lower Egypt around 3100 BC.",
+    "explanation_ar": "نارمر معروف بإنه وحّد مصر العليا والسفلى حوالي سنة 3100 قبل الميلاد."
   },
   {
     "id": "HIS-010-018",

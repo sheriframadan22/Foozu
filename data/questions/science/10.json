@@ -545,29 +545,29 @@
     "category_ar": "خمن العلم",
     "value": 10,
     "difficulty": 1,
-    "question_en": "How many hours are in one day?",
-    "question_ar": "اليوم فيه كام ساعة؟",
+    "question_en": "Which star is closest to Earth?",
+    "question_ar": "أنهي نجمة أقرب حاجة للأرض؟",
     "options": [
       {
-        "en": "24",
-        "ar": "24"
+        "en": "The Sun",
+        "ar": "الشمس"
       },
       {
-        "en": "20",
-        "ar": "20"
+        "en": "Proxima Centauri",
+        "ar": "بروكسيما سنتوري"
       },
       {
-        "en": "12",
-        "ar": "12"
+        "en": "Sirius",
+        "ar": "الشعرى اليمانية"
       },
       {
-        "en": "30",
-        "ar": "30"
+        "en": "Polaris",
+        "ar": "النجم القطبي"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "A full day-night cycle is 24 hours.",
-    "explanation_ar": "اليوم بالليلة بتاعته 24 ساعة."
+    "explanation_en": "The Sun is the closest star to Earth, about 8 light-minutes away.",
+    "explanation_ar": "الشمس هي أقرب نجمة للأرض، على بعد حوالي 8 دقايق ضوئية."
   },
   {
     "id": "SCI-010-020",
