@@ -1,16 +1,129 @@
 import { useState } from 'react';
+import { playerRegistryStore } from '@/utils/storage';
+import type { PlayerRecord } from '@/types/player';
 
 interface Props {
-  onStart: (name: string) => void;
+  onStart: (name: string, phoneNumber: string, age: number) => void;
+}
+
+const ADMIN_OVERRIDE_PIN = '1234';
+
+function timeAgo(iso: string): string {
+  const d = new Date(iso);
+  return d.toLocaleString([], { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
 }
 
 export default function NameEntry({ onStart }: Props) {
   const [name, setName] = useState('');
+  const [phone, setPhone] = useState('');
+  const [age, setAge] = useState('');
+  const [error, setError] = useState('');
+  const [duplicate, setDuplicate] = useState<PlayerRecord | null>(null);
+  const [overridePin, setOverridePin] = useState('');
+  const [overrideError, setOverrideError] = useState(false);
+
+  const validate = (): string => {
+    if (name.trim().length === 0) return 'Enter the contestant\'s name.';
+    const digits = phone.trim().replace(/\D/g, '');
+    if (digits.length < 8) return 'Enter a valid phone number.';
+    const ageNum = Number(age);
+    if (!age || !Number.isFinite(ageNum) || ageNum < 5 || ageNum > 100) return 'Enter a valid age.';
+    return '';
+  };
 
   const submit = () => {
-    if (name.trim().length === 0) return;
-    onStart(name.trim());
+    const validationError = validate();
+    if (validationError) {
+      setError(validationError);
+      return;
+    }
+    setError('');
+    const existing = playerRegistryStore.find(phone);
+    if (existing) {
+      setDuplicate(existing);
+      return;
+    }
+    onStart(name.trim(), phone.trim(), Number(age));
   };
+
+  const confirmOverride = () => {
+    if (overridePin !== ADMIN_OVERRIDE_PIN) {
+      setOverrideError(true);
+      setOverridePin('');
+      return;
+    }
+    onStart(name.trim(), phone.trim(), Number(age));
+  };
+
+  if (duplicate) {
+    return (
+      <div className="flex flex-col items-center justify-center min-h-[70vh] px-4 text-center animate-popIn">
+        <div className="text-5xl mb-3">⚠️</div>
+        <div className="font-display font-extrabold text-2xl sm:text-3xl text-foozu-yellow mb-2">Already Played</div>
+        <p dir="rtl" className="font-arabic text-lg text-white/80 mb-4">الرقم ده لعب قبل كده</p>
+
+        <div className="w-full max-w-sm bg-white/8 border border-white/15 rounded-2xl p-4 text-left mb-6">
+          <div className="flex justify-between text-sm mb-1">
+            <span className="text-white/50">Name on file</span>
+            <span className="font-semibold">{duplicate.playerName}</span>
+          </div>
+          <div className="flex justify-between text-sm mb-1">
+            <span className="text-white/50">Played on</span>
+            <span className="font-semibold">{timeAgo(duplicate.firstPlayedAt)}</span>
+          </div>
+          <div className="flex justify-between text-sm mb-1">
+            <span className="text-white/50">Times played</span>
+            <span className="font-semibold">{duplicate.timesPlayed}</span>
+          </div>
+          {duplicate.lastPrize !== undefined && (
+            <div className="flex justify-between text-sm">
+              <span className="text-white/50">Last prize</span>
+              <span className="font-semibold text-foozu-yellow">{duplicate.lastPrize} EGP</span>
+            </div>
+          )}
+        </div>
+
+        <div className="w-full max-w-sm">
+          <button
+            onClick={() => {
+              setDuplicate(null);
+              setPhone('');
+            }}
+            className="touch-target w-full rounded-2xl bg-white/15 hover:bg-white/25 font-display font-bold text-lg py-4 active:scale-95 transition mb-3"
+          >
+            USE A DIFFERENT NUMBER
+          </button>
+
+          <details className="text-left">
+            <summary className="text-xs text-white/40 cursor-pointer select-none">Usher override (PIN required)</summary>
+            <div className="mt-3 flex gap-2">
+              <input
+                type="password"
+                inputMode="numeric"
+                maxLength={8}
+                value={overridePin}
+                onChange={(e) => {
+                  setOverrideError(false);
+                  setOverridePin(e.target.value);
+                }}
+                onKeyDown={(e) => e.key === 'Enter' && confirmOverride()}
+                placeholder="PIN"
+                className={`flex-1 rounded-xl bg-white/10 border-2 ${
+                  overrideError ? 'border-foozu-red animate-shake' : 'border-white/20'
+                } focus:border-foozu-pink outline-none px-3 py-2 text-center tracking-widest`}
+              />
+              <button
+                onClick={confirmOverride}
+                className="touch-target rounded-xl bg-foozu-orange px-4 font-display font-bold active:scale-95 transition"
+              >
+                ALLOW
+              </button>
+            </div>
+          </details>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center justify-center min-h-[70vh] px-4 text-center animate-popIn">
@@ -26,19 +139,39 @@ export default function NameEntry({ onStart }: Props) {
         اكسب مع FOOZU
       </p>
 
-      <div className="w-full max-w-sm">
+      <div className="w-full max-w-sm space-y-3">
         <input
           autoFocus
           value={name}
           onChange={(e) => setName(e.target.value)}
-          onKeyDown={(e) => e.key === 'Enter' && submit()}
           placeholder="Contestant name / اسم اللاعب"
           className="w-full rounded-2xl bg-white/10 border-2 border-white/20 focus:border-foozu-pink outline-none px-5 py-4 text-lg text-center placeholder:text-white/40 touch-target"
         />
+        <input
+          value={phone}
+          onChange={(e) => setPhone(e.target.value)}
+          type="tel"
+          inputMode="tel"
+          placeholder="Phone number / رقم الموبايل"
+          className="w-full rounded-2xl bg-white/10 border-2 border-white/20 focus:border-foozu-pink outline-none px-5 py-4 text-lg text-center placeholder:text-white/40 touch-target"
+        />
+        <input
+          value={age}
+          onChange={(e) => setAge(e.target.value.replace(/\D/g, ''))}
+          type="number"
+          inputMode="numeric"
+          min={5}
+          max={100}
+          onKeyDown={(e) => e.key === 'Enter' && submit()}
+          placeholder="Age / السن"
+          className="w-full rounded-2xl bg-white/10 border-2 border-white/20 focus:border-foozu-pink outline-none px-5 py-4 text-lg text-center placeholder:text-white/40 touch-target"
+        />
+
+        {error && <p className="text-foozu-red text-sm">{error}</p>}
+
         <button
           onClick={submit}
-          disabled={name.trim().length === 0}
-          className="touch-target w-full mt-4 rounded-2xl bg-foozu-pink disabled:bg-white/10 disabled:text-white/30 font-display font-bold text-xl py-4 hover:brightness-110 active:scale-95 transition"
+          className="touch-target w-full rounded-2xl bg-foozu-pink font-display font-bold text-xl py-4 hover:brightness-110 active:scale-95 transition"
         >
           START GAME
         </button>

@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { gameStore, questionStatsStore } from '@/utils/storage';
+import { gameStore, questionStatsStore, playerRegistryStore } from '@/utils/storage';
 import { gamesToCsv, downloadCsv } from '@/utils/exportCsv';
 import { MAX_PRIZE } from '@/game/scoring';
 import type { CompletedGame } from '@/types/player';
@@ -89,15 +89,25 @@ function Dashboard() {
   const attempts200 = todayGames.filter((g) => g.highestLevel === 200).length;
   const eliminated100 = todayGames.filter((g) => g.result === 'loss' && g.highestLevel === 100).length;
 
-  const filteredLeaderboard = leaderboard.filter((g) => g.playerName.toLowerCase().includes(query.toLowerCase()));
+  const filteredLeaderboard = leaderboard.filter((g) => {
+    const q = query.trim().toLowerCase();
+    if (!q) return true;
+    return g.playerName.toLowerCase().includes(q) || g.phoneNumber.replace(/\D/g, '').includes(q.replace(/\D/g, ''));
+  });
 
   const handleExport = () => {
     downloadCsv(`foozu-results-${new Date().toISOString().slice(0, 10)}.csv`, gamesToCsv(games));
   };
 
   const handleResetToday = () => {
-    if (!confirm("Reset today's results? This clears the whole local leaderboard and cannot be undone.")) return;
+    if (
+      !confirm(
+        "Reset today's results? This clears the whole local leaderboard AND the \"played before\" phone number list, so everyone could play again. This cannot be undone."
+      )
+    )
+      return;
     gameStore.clearAll();
+    playerRegistryStore.clearAll();
     setTick((t) => t + 1);
   };
 
@@ -128,7 +138,7 @@ function Dashboard() {
         <input
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder="Search contestant…"
+          placeholder="Search name or phone…"
           className="flex-1 min-w-[180px] rounded-xl bg-white/10 border border-white/20 px-4 py-2.5 outline-none focus:border-foozu-pink"
         />
         <button
@@ -151,6 +161,8 @@ function Dashboard() {
             <tr>
               <th className="text-left px-4 py-3">#</th>
               <th className="text-left px-4 py-3">Name</th>
+              <th className="text-left px-4 py-3">Phone</th>
+              <th className="text-right px-4 py-3">Age</th>
               <th className="text-right px-4 py-3">Prize</th>
               <th className="text-right px-4 py-3">Highest Level</th>
               <th className="text-right px-4 py-3">Duration</th>
@@ -158,21 +170,34 @@ function Dashboard() {
             </tr>
           </thead>
           <tbody>
-            {filteredLeaderboard.map((g: CompletedGame, i: number) => (
-              <tr key={g.id} className="border-t border-white/5 hover:bg-white/5">
-                <td className="px-4 py-2.5 text-white/50">{i + 1}</td>
-                <td className="px-4 py-2.5 font-semibold">{g.playerName}</td>
-                <td className="px-4 py-2.5 text-right font-display font-bold text-foozu-yellow">{g.prize} EGP</td>
-                <td className="px-4 py-2.5 text-right text-white/70">{g.highestLevel || '—'}</td>
-                <td className="px-4 py-2.5 text-right text-white/50">{g.durationSeconds}s</td>
-                <td className="px-4 py-2.5 text-right text-white/50">
-                  {new Date(g.endTime).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
-                </td>
-              </tr>
-            ))}
+            {filteredLeaderboard.map((g: CompletedGame, i: number) => {
+              const record = playerRegistryStore.find(g.phoneNumber);
+              const playedMoreThanOnce = (record?.timesPlayed ?? 0) > 1;
+              return (
+                <tr key={g.id} className="border-t border-white/5 hover:bg-white/5">
+                  <td className="px-4 py-2.5 text-white/50">{i + 1}</td>
+                  <td className="px-4 py-2.5 font-semibold">
+                    {g.playerName}
+                    {playedMoreThanOnce && (
+                      <span className="ml-2 text-[10px] uppercase tracking-wide bg-foozu-red/25 text-foozu-red px-1.5 py-0.5 rounded-full align-middle">
+                        played before
+                      </span>
+                    )}
+                  </td>
+                  <td className="px-4 py-2.5 text-white/70">{g.phoneNumber || '—'}</td>
+                  <td className="px-4 py-2.5 text-right text-white/70">{g.age || '—'}</td>
+                  <td className="px-4 py-2.5 text-right font-display font-bold text-foozu-yellow">{g.prize} EGP</td>
+                  <td className="px-4 py-2.5 text-right text-white/70">{g.highestLevel || '—'}</td>
+                  <td className="px-4 py-2.5 text-right text-white/50">{g.durationSeconds}s</td>
+                  <td className="px-4 py-2.5 text-right text-white/50">
+                    {new Date(g.endTime).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                  </td>
+                </tr>
+              );
+            })}
             {filteredLeaderboard.length === 0 && (
               <tr>
-                <td colSpan={6} className="px-4 py-8 text-center text-white/40">
+                <td colSpan={8} className="px-4 py-8 text-center text-white/40">
                   No completed games yet.
                 </td>
               </tr>

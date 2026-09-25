@@ -23,7 +23,8 @@ Open `/` for the game screen and `/#/admin` for the operator dashboard (default 
 ## How the game works
 
 - Every question is worth its level's value; a correct answer **adds** that value to `securedAmount` — it is never overwritten (see `src/game/scoring.ts` for the exact rule this prevents: showing 200 EGP instead of the accumulated 380 EGP).
-- One attempt per question, 10-second timer (`src/game/timer.ts`). A wrong answer *or* a timeout ends the game immediately; the contestant keeps whatever was already secured.
+- One attempt per question, 20-second timer (`src/game/timer.ts`, `QUESTION_SECONDS`). A wrong answer *or* a timeout ends the game immediately; the contestant keeps whatever was already secured.
+- The contestant enters their name, phone number, and age before playing. The phone number is checked against a "played before" registry (`src/utils/storage.ts`, `playerRegistryStore`) so the same person can't play twice — the usher sees a flag with their previous result and can override with the admin PIN if needed (e.g. a shared family phone).
 - At every level the contestant may choose any of the 10 categories, as long as that category hasn't already been played at the *current* value in this game (`src/game/questionSelector.ts`).
 - The correct answer is never rendered in the DOM until the usher taps **REVEAL ANSWER** — see "Answer security" below.
 
@@ -86,15 +87,15 @@ The usher's tablet is the only device in play, so perfect DOM-hiding isn't requi
 
 ## Data storage & future backend
 
-V1 persists completed games and per-question analytics in `localStorage` (`src/utils/storage.ts`), behind a small repository-style API (`gameStore`, `questionStatsStore`). Swapping this for IndexedDB or a real backend (cloud leaderboard, multi-tablet sync, centralized dashboard) later means reimplementing that one file — no other code depends on the storage mechanism.
+V1 persists completed games, the "played before" phone-number registry, and per-question analytics in `localStorage` (`src/utils/storage.ts`), behind a small repository-style API (`gameStore`, `playerRegistryStore`, `questionStatsStore`). Swapping this for IndexedDB or a real backend (cloud leaderboard, multi-tablet sync, centralized dashboard) later means reimplementing that one file — no other code depends on the storage mechanism.
 
 ## Operator dashboard (`/#/admin`)
 
 - PIN-gated (default `1234`).
 - Today's players, total/average payout, 380 EGP winners, 200 EGP attempts, 100 EGP eliminations.
-- Full leaderboard (prize desc, ties broken by earlier completion time), searchable by name.
-- **EXPORT CSV** (name, prize, start/end time, duration, highest level, categories played).
-- **RESET RESULTS** clears today's local leaderboard (confirmation required).
+- Full leaderboard (prize desc, ties broken by earlier completion time), searchable by name or phone number, flags repeat phone numbers.
+- **EXPORT CSV** (name, phone, age, prize, start/end time, duration, highest level, categories played).
+- **RESET RESULTS** clears today's local leaderboard *and* the "played before" registry, so everyone could play again (confirmation required).
 - Question analytics table: times shown / correct / wrong per question ID.
 
 ## Testing

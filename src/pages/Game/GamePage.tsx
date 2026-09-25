@@ -10,7 +10,7 @@ import WinnerScreen from '@/components/WinnerScreen';
 import GameOverScreen from '@/components/GameOverScreen';
 import { LEVELS, type GameState } from '@/types/game';
 import * as engine from '@/game/gameEngine';
-import { gameStore, questionStatsStore } from '@/utils/storage';
+import { gameStore, questionStatsStore, playerRegistryStore } from '@/utils/storage';
 import type { CategorySelection, CompletedGame } from '@/types/player';
 
 const AUTO_ADVANCE_MS = 1600;
@@ -32,6 +32,8 @@ export default function GamePage() {
     const completed: CompletedGame = {
       id: `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
       playerName: finalState.playerName,
+      phoneNumber: finalState.phoneNumber,
+      age: finalState.age,
       prize,
       startTime,
       endTime,
@@ -41,6 +43,7 @@ export default function GamePage() {
       selections: selectionsRef.current
     };
     gameStore.add(completed);
+    playerRegistryStore.recordPrize(finalState.phoneNumber, prize);
   };
 
   const handleSelectCategory = (category: string) => {
@@ -87,9 +90,11 @@ export default function GamePage() {
   const handleCorrect = () => finishOutcome(true);
   const handleWrong = () => finishOutcome(false);
 
-  const handleStart = (name: string) => {
+  const handleStart = (name: string, phoneNumber: string, age: number) => {
     selectionsRef.current = [];
-    setState(engine.startGame(name));
+    const next = engine.startGame(name, phoneNumber, age);
+    playerRegistryStore.register(phoneNumber, name, age);
+    setState(next);
   };
 
   const handlePlayAgain = () => {

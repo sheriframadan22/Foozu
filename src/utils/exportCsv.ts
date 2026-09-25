@@ -7,9 +7,22 @@ function csvEscape(value: string | number): string {
 }
 
 export function gamesToCsv(games: CompletedGame[]): string {
-  const header = ['Name', 'Prize', 'Start Time', 'End Time', 'Duration (s)', 'Highest Level', 'Result', 'Categories Played'];
+  const header = [
+    'Name',
+    'Phone',
+    'Age',
+    'Prize',
+    'Start Time',
+    'End Time',
+    'Duration (s)',
+    'Highest Level',
+    'Result',
+    'Categories Played'
+  ];
   const rows = games.map((g) => [
     g.playerName,
+    g.phoneNumber,
+    g.age,
     g.prize,
     g.startTime,
     g.endTime,
