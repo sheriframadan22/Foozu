@@ -725,8 +725,8 @@
     "category_ar": "مزيكا",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which Egyptian singer's iconic voice performed \"Ahebbak\" and later became a respected member of the People's Assembly (parliament), unusual for an entertainer?",
-    "question_ar": "أنهي مطربة مصرية غنت \"أحبك\" وبعدين بقت عضوة محترمة في مجلس الشعب، وده كان غير معتاد لفنانة؟",
+    "question_en": "Which Egyptian singer and film star later became a respected member of Egypt's People's Assembly (parliament), unusual for an entertainer of her generation?",
+    "question_ar": "أنهي مطربة ونجمة سينما مصرية بقت بعدين عضوة محترمة في مجلس الشعب المصري، وده كان غير معتاد لفنانة في جيلها؟",
     "options": [
       {
         "en": "Shadia",

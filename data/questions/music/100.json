@@ -1145,11 +1145,11 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian singer's iconic voice was used for the 1960s song \"Ahebbak\" and was known as \"Adnan\" of Egyptian song for her powerful contralto range?",
-    "question_ar": "أنهي مطربة مصرية اشتهرت بأغنية \"أحبك\" في الستينات وبمدى صوتي قوي مميز؟",
+    "question_en": "Which Egyptian singer, known for a powerful, distinctive voice and 1960s hits composed by Baligh Hamdi, was often paired with him as a key interpreter of his early melodies?",
+    "question_ar": "أنهي مطربة مصرية، بصوت قوي مميز، غنت أغاني كتير في الستينات من تلحين بليغ حمدي وكانت من أهم مؤديات ألحانه الأولى؟",
     "options": [
       {
-        "en": "Naama Akef",
+        "en": "Naima Akef",
         "ar": "نعيمة عاكف"
       },
       {
@@ -1166,8 +1166,8 @@
       }
     ],
     "correctAnswer": 3,
-    "explanation_en": "Fayza Ahmed was known for her powerful voice and hits like \"Ahebbak\" in the 1960s.",
-    "explanation_ar": "فايزة أحمد اشتهرت بصوتها القوي وأغنية \"أحبك\" في الستينات."
+    "explanation_en": "Fayza Ahmed was known for her powerful voice and was a key early interpreter of Baligh Hamdi's compositions.",
+    "explanation_ar": "فايزة أحمد اشتهرت بصوتها القوي وكانت من أهم مؤديات ألحان بليغ حمدي الأولى."
   },
   {
     "id": "MUS-100-040",
