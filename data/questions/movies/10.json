@@ -815,8 +815,8 @@
     "category_ar": "افلام",
     "value": 10,
     "difficulty": 1,
-    "question_en": "Which of these is a well-known Egyptian actress?",
-    "question_ar": "مين من دول ممثلة مصرية معروفة؟",
+    "question_en": "Which of these is a famous Egyptian TV and film actress?",
+    "question_ar": "مين من دول ممثلة مصرية مشهورة في السينما والتليفزيون؟",
     "options": [
       { "en": "Menna Shalaby", "ar": "منة شلبي" },
       { "en": "Sandra Bullock", "ar": "ساندرا بولوك" },

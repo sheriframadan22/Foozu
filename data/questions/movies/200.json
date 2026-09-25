@@ -5,29 +5,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Youssef Chahine's autobiographical \"Alexandria\" series consists of how many films?",
-    "question_ar": "سلسلة \"إسكندرية\" السيرة الذاتية ليوسف شاهين مكونة من كام فيلم؟",
+    "question_en": "Egyptian documentary \"The Square\" (Al Midan, 2013), about the 2011 revolution, was nominated for which Oscar category?",
+    "question_ar": "الفيلم الوثائقي المصري \"الميدان\" سنة 2013 عن ثورة 2011 اترشح لإيه فئة أوسكار؟",
     "options": [
-      {
-        "en": "Four",
-        "ar": "أربعة"
-      },
-      {
-        "en": "Three",
-        "ar": "تلاتة"
-      },
-      {
-        "en": "Two",
-        "ar": "اتنين"
-      },
-      {
-        "en": "Five",
-        "ar": "خمسة"
-      }
+      { "en": "Best International Feature Film", "ar": "أفضل فيلم دولي" },
+      { "en": "Best Documentary Feature", "ar": "أفضل فيلم وثائقي" },
+      { "en": "Best Original Screenplay", "ar": "أفضل سيناريو أصلي" },
+      { "en": "Best Original Song", "ar": "أفضل أغنية أصلية" }
     ],
-    "correctAnswer": 0,
-    "explanation_en": "The series has four films, from \"Alexandria... Why?\" (1979) to \"Alexandria... New York\" (2004).",
-    "explanation_ar": "السلسلة أربع أفلام، من إسكندرية ليه؟ سنة 1979 لحد إسكندرية نيويورك سنة 2004."
+    "correctAnswer": 1,
+    "explanation_en": "\"The Square\" was nominated for the Oscar for Best Documentary Feature at the 86th Academy Awards.",
+    "explanation_ar": "فيلم الميدان اترشح لأوسكار أفضل فيلم وثائقي في حفل الأوسكار الـ86."
   },
   {
     "id": "MOV-200-002",
@@ -35,29 +23,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Besides his Golden Globe for \"Doctor Zhivago\", Omar Sharif also won a Golden Globe \"New Star of the Year\" for which earlier film?",
-    "question_ar": "غير جولدن جلوب دكتور جيفاجو، عمر الشريف كسب جايزة \"نجم جديد\" عن إيه فيلم قبلها؟",
+    "question_en": "Studio Misr, Egypt's first major film studio founded in 1934, was established by which prominent banker and businessman?",
+    "question_ar": "استوديو مصر، أول استوديو أفلام كبير في مصر اتأسس سنة 1934، مين اللي أسسه من رجال البنوك والأعمال؟",
     "options": [
-      {
-        "en": "Funny Girl",
-        "ar": "فني جيرل"
-      },
-      {
-        "en": "Genghis Khan",
-        "ar": "جنكيز خان"
-      },
-      {
-        "en": "The Yellow Rolls-Royce",
-        "ar": "ذا يلو رولز رويس"
-      },
-      {
-        "en": "Lawrence of Arabia",
-        "ar": "لورانس العرب"
-      }
+      { "en": "Talaat Harb", "ar": "طلعت حرب" },
+      { "en": "Mohamed Abdel Wahab", "ar": "محمد عبدالوهاب" },
+      { "en": "Ahmed Lutfi El Sayed", "ar": "أحمد لطفي السيد" },
+      { "en": "Naguib Mahfouz", "ar": "نجيب محفوظ" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Sharif won a Golden Globe \"New Star of the Year\" for \"Lawrence of Arabia\" (1962).",
-    "explanation_ar": "عمر الشريف كسب جولدن جلوب نجم جديد عن لورانس العرب سنة 1962."
+    "correctAnswer": 0,
+    "explanation_en": "Talaat Harb founded Studio Misr in 1934, launching Egypt's major film industry.",
+    "explanation_ar": "طلعت حرب أسس استوديو مصر سنة 1934 وده بدأ صناعة السينما الكبيرة في مصر."
   },
   {
     "id": "MOV-200-003",
@@ -65,29 +41,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which pioneering Egyptian actress and theatre figure was nicknamed \"Sarah Bernhardt of the East\"?",
-    "question_ar": "مين النجمة المصرية الرائدة اللي اتلقبت بـ\"سارة برنار الشرق\"؟",
+    "question_en": "The real 1920s Alexandria figures who inspired \"Kira & El Gin\" were eventually caught after what?",
+    "question_ar": "الشخصيتين الحقيقيتين من إسكندرية العشرينات اللي استوحى منهم فيلم \"كيرة والجن\" اتقبض عليهم في النهاية بعد إيه؟",
     "options": [
-      {
-        "en": "Assia Dagher",
-        "ar": "آسيا داغر"
-      },
-      {
-        "en": "Bahiga Hafez",
-        "ar": "بهيجة حافظ"
-      },
-      {
-        "en": "Aziza Amir",
-        "ar": "عزيزة أمير"
-      },
-      {
-        "en": "Fatma Rushdi",
-        "ar": "فاطمة رشدي"
-      }
+      { "en": "A massive, highly publicized manhunt", "ar": "مطاردة بوليسية ضخمة اتغطت إعلاميًا بشكل كبير" },
+      { "en": "Turning themselves in voluntarily", "ar": "تسليم نفسهم بمزاجهم" },
+      { "en": "Being betrayed by a family member", "ar": "خيانة فرد من عيلتهم" },
+      { "en": "An accidental car crash", "ar": "حادثة عربية عرضية" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Fatma Rushdi was nicknamed \"Sarah Bernhardt of the East\" for her stage and screen talent.",
-    "explanation_ar": "فاطمة رشدي اتلقبت بسارة برنار الشرق لموهبتها في المسرح والسينما."
+    "correctAnswer": 0,
+    "explanation_en": "Kira and El-Gina were eventually captured after a massive, widely publicized police manhunt.",
+    "explanation_ar": "كيرة والجنة اتقبض عليهم في الآخر بعد مطاردة بوليسية ضخمة اتغطت إعلاميًا."
   },
   {
     "id": "MOV-200-004",
@@ -95,29 +59,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Salah Abu Seif's \"Bidaya wa Nihaya\" (Beginning and End), starring Omar Sharif, is based on a novel by which writer?",
-    "question_ar": "فيلم صلاح أبو سيف \"بداية ونهاية\" بطولة عمر الشريف مأخوذ عن رواية لمين؟",
+    "question_en": "In the Cannes-winning Egyptian film \"Feathers\" (Riche, 2021), a magician's trick accidentally turns the family's father into what?",
+    "question_ar": "في فيلم \"ريش\" المصري الحاصل على جايزة كان سنة 2021، خدعة ساحر بتحول والد العيلة غصب عنه لإيه؟",
     "options": [
-      {
-        "en": "Yusuf Idris",
-        "ar": "يوسف إدريس"
-      },
-      {
-        "en": "Ihsan Abdel Quddous",
-        "ar": "إحسان عبدالقدوس"
-      },
-      {
-        "en": "Naguib Mahfouz",
-        "ar": "نجيب محفوظ"
-      },
-      {
-        "en": "Taha Hussein",
-        "ar": "طه حسين"
-      }
+      { "en": "A chicken", "ar": "فرخة" },
+      { "en": "A statue", "ar": "تمثال" },
+      { "en": "Invisible", "ar": "شخص شفاف" },
+      { "en": "A child again", "ar": "طفل تاني" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "\"Bidaya wa Nihaya\" (1960) is based on Naguib Mahfouz's novel.",
-    "explanation_ar": "فيلم بداية ونهاية سنة 1960 مأخوذ عن رواية نجيب محفوظ."
+    "correctAnswer": 0,
+    "explanation_en": "In \"Feathers\", a magic show mishap turns the father into a chicken.",
+    "explanation_ar": "في فيلم ريش، خدعة ساحر بتفشل وبتحول الأب لفرخة."
   },
   {
     "id": "MOV-200-005",
@@ -125,29 +77,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which pioneering director of Egypt's silent and early sound era directed several classic Mohamed Abdel Wahab musicals?",
-    "question_ar": "مين المخرج الرائد في عصر السينما الصامتة والصوت المبكر اللي أخرج أفلام غنائية كلاسيكية لمحمد عبدالوهاب؟",
+    "question_en": "Novelist Ahmed Mourad, author of \"El Feel El Azraq\", had which unusual earlier career before writing?",
+    "question_ar": "الروائي أحمد مراد، كاتب رواية \"الفيل الأزرق\"، كان شغال إيه مهنة غريبة قبل ما يبقى كاتب؟",
     "options": [
-      {
-        "en": "Kamal Selim",
-        "ar": "كمال سليم"
-      },
-      {
-        "en": "Niazi Mostafa",
-        "ar": "نيازي مصطفى"
-      },
-      {
-        "en": "Ahmed Badrakhan",
-        "ar": "أحمد بدرخان"
-      },
-      {
-        "en": "Mohamed Karim",
-        "ar": "محمد كريم"
-      }
+      { "en": "Personal photographer to President Hosni Mubarak", "ar": "مصور شخصي للرئيس حسني مبارك" },
+      { "en": "A police detective", "ar": "محقق شرطة" },
+      { "en": "A film editor", "ar": "مونتير أفلام" },
+      { "en": "A pharmacist", "ar": "صيدلي" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Mohamed Karim directed several early Mohamed Abdel Wahab musical films.",
-    "explanation_ar": "محمد كريم أخرج أفلام غنائية مبكرة لمحمد عبدالوهاب."
+    "correctAnswer": 0,
+    "explanation_en": "Ahmed Mourad worked as a personal photographer to President Hosni Mubarak before becoming a novelist.",
+    "explanation_ar": "أحمد مراد اشتغل مصور شخصي للرئيس حسني مبارك قبل ما يبقى روائي."
   },
   {
     "id": "MOV-200-006",
@@ -155,29 +95,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Before becoming a film star, actor Ahmed Mazhar had which earlier career?",
-    "question_ar": "قبل ما يبقى نجم سينما، أحمد مظهر كان شغال إيه قبل كده؟",
+    "question_en": "\"The Yacoubian Building\" (2006) held which record for Egyptian cinema at the time of its release?",
+    "question_ar": "فيلم \"عمارة يعقوبيان\" سنة 2006 كسر إيه رقم قياسي في السينما المصرية وقت عرضه؟",
     "options": [
-      {
-        "en": "A lawyer",
-        "ar": "محامي"
-      },
-      {
-        "en": "A schoolteacher",
-        "ar": "مدرس"
-      },
-      {
-        "en": "A military officer",
-        "ar": "ضابط في الجيش"
-      },
-      {
-        "en": "A journalist",
-        "ar": "صحفي"
-      }
+      { "en": "Most expensive Egyptian film ever made", "ar": "أغلى فيلم مصري في تاريخ الإنتاج وقتها" },
+      { "en": "Longest Egyptian film ever released", "ar": "أطول فيلم مصري في تاريخ العرض" },
+      { "en": "First Egyptian film shot entirely abroad", "ar": "أول فيلم مصري متصور بالكامل برة مصر" },
+      { "en": "First Egyptian film in 3D", "ar": "أول فيلم مصري ثلاثي الأبعاد" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Ahmed Mazhar served as a military officer before his acting career.",
-    "explanation_ar": "أحمد مظهر كان ضابط في الجيش قبل ما يشتغل تمثيل."
+    "correctAnswer": 0,
+    "explanation_en": "\"The Yacoubian Building\" was, at the time, the most expensive Egyptian film ever produced.",
+    "explanation_ar": "فيلم عمارة يعقوبيان كان وقتها أغلى فيلم مصري في تاريخ الإنتاج."
   },
   {
     "id": "MOV-200-007",
@@ -188,22 +116,10 @@
     "question_en": "Which 2016 Egyptian film, shot entirely inside a single police truck, opened the Un Certain Regard section at Cannes?",
     "question_ar": "إيه الفيلم المصري سنة 2016 اللي اتصور كله جوه عربية ترحيلات واحدة وافتتح قسم \"نظرة ما\" في مهرجان كان؟",
     "options": [
-      {
-        "en": "Clash (Eshtebak)",
-        "ar": "اشتباك"
-      },
-      {
-        "en": "Asmaa",
-        "ar": "أسماء"
-      },
-      {
-        "en": "Feathers",
-        "ar": "ريش"
-      },
-      {
-        "en": "The Nile Hilton Incident",
-        "ar": "واقعة نايل هيلتون"
-      }
+      { "en": "Clash (Eshtebak)", "ar": "اشتباك" },
+      { "en": "Asmaa", "ar": "أسماء" },
+      { "en": "Feathers", "ar": "ريش" },
+      { "en": "The Nile Hilton Incident", "ar": "واقعة نايل هيلتون" }
     ],
     "correctAnswer": 0,
     "explanation_en": "\"Clash\" (Eshtebak, 2016) opened Cannes' Un Certain Regard section.",
@@ -218,22 +134,10 @@
     "question_en": "Egyptian director Mohamed Diab directed episodes of which Marvel Disney+ series starring Oscar Isaac?",
     "question_ar": "المخرج المصري محمد دياب أخرج حلقات من إيه مسلسل مارفل بطولة أوسكار إسحاق؟",
     "options": [
-      {
-        "en": "Moon Knight",
-        "ar": "مون نايت"
-      },
-      {
-        "en": "WandaVision",
-        "ar": "واندا فيجن"
-      },
-      {
-        "en": "Hawkeye",
-        "ar": "هوك آي"
-      },
-      {
-        "en": "Loki",
-        "ar": "لوكي"
-      }
+      { "en": "Moon Knight", "ar": "مون نايت" },
+      { "en": "WandaVision", "ar": "واندا فيجن" },
+      { "en": "Hawkeye", "ar": "هوك آي" },
+      { "en": "Loki", "ar": "لوكي" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Mohamed Diab directed several episodes of \"Moon Knight\" (2022).",
@@ -248,22 +152,10 @@
     "question_en": "Which Egyptian actor appeared in Hollywood films \"Syriana\" (2005) and \"Lucy\" (2014)?",
     "question_ar": "مين الممثل المصري اللي ظهر في أفلام هوليوود \"سيريانا\" و\"لوسي\"؟",
     "options": [
-      {
-        "en": "Amr Waked",
-        "ar": "عمرو واكد"
-      },
-      {
-        "en": "Khaled El Nabawy",
-        "ar": "خالد النبوي"
-      },
-      {
-        "en": "Amr Youssef",
-        "ar": "عمرو يوسف"
-      },
-      {
-        "en": "Karim Abdel Aziz",
-        "ar": "كريم عبدالعزيز"
-      }
+      { "en": "Amr Waked", "ar": "عمرو واكد" },
+      { "en": "Khaled El Nabawy", "ar": "خالد النبوي" },
+      { "en": "Amr Youssef", "ar": "عمرو يوسف" },
+      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Amr Waked appeared in both \"Syriana\" and \"Lucy\".",
@@ -278,22 +170,10 @@
     "question_en": "Which Egyptian actress played twin sisters Nimah and Raina in the American TV series \"Quantico\"?",
     "question_ar": "مين الممثلة المصرية اللي مثلت دور التوأم نعيمة ورينا في مسلسل \"كوانتيكو\" الأمريكي؟",
     "options": [
-      {
-        "en": "Mona Zaki",
-        "ar": "منى زكي"
-      },
-      {
-        "en": "Hend Sabry",
-        "ar": "هند صبري"
-      },
-      {
-        "en": "Menna Shalaby",
-        "ar": "منة شلبي"
-      },
-      {
-        "en": "Yasmine Al Massri",
-        "ar": "ياسمين المصري"
-      }
+      { "en": "Mona Zaki", "ar": "منى زكي" },
+      { "en": "Hend Sabry", "ar": "هند صبري" },
+      { "en": "Menna Shalaby", "ar": "منة شلبي" },
+      { "en": "Yasmine Al Massri", "ar": "ياسمين المصري" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Yasmine Al Massri played the twin sisters in \"Quantico\".",
@@ -308,22 +188,10 @@
     "question_en": "Which Oscar-winning actor, of Egyptian descent, played Freddie Mercury in \"Bohemian Rhapsody\"?",
     "question_ar": "مين الممثل الحاصل على أوسكار وأصله مصري اللي مثل دور فريدي ميركوري في \"بوهيميان رابسودي\"؟",
     "options": [
-      {
-        "en": "Rami Malek",
-        "ar": "رامي مالك"
-      },
-      {
-        "en": "Riz Ahmed",
-        "ar": "ريز أحمد"
-      },
-      {
-        "en": "Oscar Isaac",
-        "ar": "أوسكار إسحاق"
-      },
-      {
-        "en": "Sacha Baron Cohen",
-        "ar": "ساشا بارون كوهين"
-      }
+      { "en": "Rami Malek", "ar": "رامي مالك" },
+      { "en": "Riz Ahmed", "ar": "ريز أحمد" },
+      { "en": "Oscar Isaac", "ar": "أوسكار إسحاق" },
+      { "en": "Sacha Baron Cohen", "ar": "ساشا بارون كوهين" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Rami Malek, born to Egyptian immigrant parents, won Best Actor for the role.",
@@ -338,22 +206,10 @@
     "question_en": "Which Egyptian actor appeared in Ridley Scott's Hollywood epic \"Kingdom of Heaven\" (2005)?",
     "question_ar": "مين الممثل المصري اللي ظهر في فيلم ريدلي سكوت الملحمي \"كينجدوم أوف هيفن\" سنة 2005؟",
     "options": [
-      {
-        "en": "Hany Salama",
-        "ar": "هاني سلامة"
-      },
-      {
-        "en": "Amr Waked",
-        "ar": "عمرو واكد"
-      },
-      {
-        "en": "Ahmed El Sakka",
-        "ar": "أحمد السقا"
-      },
-      {
-        "en": "Khaled El Nabawy",
-        "ar": "خالد النبوي"
-      }
+      { "en": "Hany Salama", "ar": "هاني سلامة" },
+      { "en": "Amr Waked", "ar": "عمرو واكد" },
+      { "en": "Ahmed El Sakka", "ar": "أحمد السقا" },
+      { "en": "Khaled El Nabawy", "ar": "خالد النبوي" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Khaled El Nabawy appeared in \"Kingdom of Heaven\".",
@@ -368,22 +224,10 @@
     "question_en": "Which Syrian-Egyptian singer and actor frequently starred in musical films alongside dancer Samia Gamal?",
     "question_ar": "مين المطرب والممثل السوري المصري اللي مثل أفلام غنائية كتير مع الراقصة سامية جمال؟",
     "options": [
-      {
-        "en": "Farid Al Atrash",
-        "ar": "فريد الأطرش"
-      },
-      {
-        "en": "Karem Mahmoud",
-        "ar": "كارم محمود"
-      },
-      {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبدالحليم حافظ"
-      },
-      {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبدالوهاب"
-      }
+      { "en": "Farid Al Atrash", "ar": "فريد الأطرش" },
+      { "en": "Karem Mahmoud", "ar": "كارم محمود" },
+      { "en": "Abdel Halim Hafez", "ar": "عبدالحليم حافظ" },
+      { "en": "Mohamed Abdel Wahab", "ar": "محمد عبدالوهاب" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Farid Al Atrash starred in many musical films with Samia Gamal.",
@@ -398,22 +242,10 @@
     "question_en": "Which Egyptian dancer and actress appeared alongside Robert Taylor in the Hollywood film \"Valley of the Kings\" (1954)?",
     "question_ar": "مين الراقصة والممثلة المصرية اللي ظهرت مع روبرت تايلور في فيلم هوليوود \"فالي أوف ذا كينجز\" سنة 1954؟",
     "options": [
-      {
-        "en": "Samia Gamal",
-        "ar": "سامية جمال"
-      },
-      {
-        "en": "Hind Rustom",
-        "ar": "هند رستم"
-      },
-      {
-        "en": "Tahia Carioca",
-        "ar": "تحية كاريوكا"
-      },
-      {
-        "en": "Naima Akef",
-        "ar": "نعيمة عاكف"
-      }
+      { "en": "Samia Gamal", "ar": "سامية جمال" },
+      { "en": "Hind Rustom", "ar": "هند رستم" },
+      { "en": "Tahia Carioca", "ar": "تحية كاريوكا" },
+      { "en": "Naima Akef", "ar": "نعيمة عاكف" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Samia Gamal appeared in the Hollywood production \"Valley of the Kings\".",
@@ -428,22 +260,10 @@
     "question_en": "Which Egyptian director made \"Ehky Ya Scheherazade\" (2009), following a TV host who interviews women about their struggles?",
     "question_ar": "مين المخرج المصري اللي عمل فيلم \"احكي يا شهرزاد\" سنة 2009 عن مذيعة بتقابل ستات وتسمع مشاكلهم؟",
     "options": [
-      {
-        "en": "Mohamed Khan",
-        "ar": "محمد خان"
-      },
-      {
-        "en": "Marwan Hamed",
-        "ar": "مروان حامد"
-      },
-      {
-        "en": "Yousry Nasrallah",
-        "ar": "يسري نصرالله"
-      },
-      {
-        "en": "Khaled Youssef",
-        "ar": "خالد يوسف"
-      }
+      { "en": "Mohamed Khan", "ar": "محمد خان" },
+      { "en": "Marwan Hamed", "ar": "مروان حامد" },
+      { "en": "Yousry Nasrallah", "ar": "يسري نصرالله" },
+      { "en": "Khaled Youssef", "ar": "خالد يوسف" }
     ],
     "correctAnswer": 2,
     "explanation_en": "Yousry Nasrallah directed \"Ehky Ya Scheherazade\" (2009).",
@@ -458,22 +278,10 @@
     "question_en": "The 2011 Egyptian film \"Asmaa\", starring Hend Sabry, tackled the stigma faced by a woman living with what condition?",
     "question_ar": "فيلم \"أسماء\" المصري سنة 2011 بطولة هند صبري بيتكلم عن وصمة ست عايشة بإيه مرض؟",
     "options": [
-      {
-        "en": "Tuberculosis",
-        "ar": "سل"
-      },
-      {
-        "en": "Hepatitis",
-        "ar": "التهاب كبدي"
-      },
-      {
-        "en": "HIV",
-        "ar": "فيروس نقص المناعة (الإيدز)"
-      },
-      {
-        "en": "Cancer",
-        "ar": "سرطان"
-      }
+      { "en": "Tuberculosis", "ar": "سل" },
+      { "en": "Hepatitis", "ar": "التهاب كبدي" },
+      { "en": "HIV", "ar": "فيروس نقص المناعة (الإيدز)" },
+      { "en": "Cancer", "ar": "سرطان" }
     ],
     "correctAnswer": 2,
     "explanation_en": "\"Asmaa\" addresses the stigma faced by an HIV-positive Egyptian woman.",
@@ -485,29 +293,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "In which comedy does Ahmed Helmy play a mild-mannered man who trains to become an action hero, spoofing kung-fu films?",
-    "question_ar": "في إيه فيلم كوميدي أحمد حلمي بيمثل دور راجل هادي بيتدرب يبقى بطل أكشن، فيلم بيسخر من أفلام الكونج فو؟",
+    "question_en": "The Italian film remade in Egypt as \"Ashab Wala Aazz\" (Perfect Strangers) holds a Guinness World Record for what?",
+    "question_ar": "الفيلم الإيطالي اللي اتعمل منه الريميك المصري \"أصحاب ولا أعز\" (بيرفكت سترينجرز) عنده رقم قياسي في جينيس بسبب إيه؟",
     "options": [
-      {
-        "en": "Zaki Chan",
-        "ar": "زكي شان"
-      },
-      {
-        "en": "Sea Cucumber",
-        "ar": "خيار البحر"
-      },
-      {
-        "en": "Sabe' Gar",
-        "ar": "سابع جار"
-      },
-      {
-        "en": "Kaboria",
-        "ar": "كابوريا"
-      }
+      { "en": "The most remakes of any film ever", "ar": "أكتر فيلم اتعمله ريميك في التاريخ" },
+      { "en": "The longest theatrical run ever", "ar": "أطول فترة عرض في السينما" },
+      { "en": "The most languages dubbed into", "ar": "أكتر فيلم اتدبلج بلغات" },
+      { "en": "The fastest-shot film ever", "ar": "أسرع فيلم اتصور في التاريخ" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"Zaki Chan\" (2005) spoofs kung-fu action films.",
-    "explanation_ar": "فيلم زكي شان سنة 2005 بيسخر من أفلام الكونج فو."
+    "explanation_en": "\"Perfect Strangers\" (Perfetti Sconosciuti) holds the Guinness World Record for the most remakes of a single film.",
+    "explanation_ar": "فيلم بيرفكت سترينجرز الإيطالي عنده رقم قياسي في جينيس كأكتر فيلم اتعمله ريميك."
   },
   {
     "id": "MOV-200-018",
@@ -518,22 +314,10 @@
     "question_en": "Which 2021 Egyptian film by Omar El Zohairy won the Grand Prize of Cannes' Critics' Week?",
     "question_ar": "إيه الفيلم المصري سنة 2021 لعمر الزهيري اللي كسب الجايزة الكبرى في أسبوع النقاد بمهرجان كان؟",
     "options": [
-      {
-        "en": "Poisonous Roses",
-        "ar": "ورد مسموم"
-      },
-      {
-        "en": "Feathers (Riche)",
-        "ar": "ريش"
-      },
-      {
-        "en": "Clash",
-        "ar": "اشتباك"
-      },
-      {
-        "en": "The Nile Hilton Incident",
-        "ar": "واقعة نايل هيلتون"
-      }
+      { "en": "Poisonous Roses", "ar": "ورد مسموم" },
+      { "en": "Feathers (Riche)", "ar": "ريش" },
+      { "en": "Clash", "ar": "اشتباك" },
+      { "en": "The Nile Hilton Incident", "ar": "واقعة نايل هيلتون" }
     ],
     "correctAnswer": 1,
     "explanation_en": "\"Feathers\" won the Grand Prize of Cannes' Critics' Week in 2021.",
@@ -548,22 +332,10 @@
     "question_en": "Which 2017 Egyptian-set crime film, directed by Tarik Saleh, won the World Cinema Grand Jury Prize at Sundance?",
     "question_ar": "إيه الفيلم البوليسي المصري سنة 2017 بإخراج طارق صالح اللي كسب جايزة لجنة تحكيم السينما العالمية في مهرجان صندانس؟",
     "options": [
-      {
-        "en": "The Nile Hilton Incident",
-        "ar": "واقعة نايل هيلتون"
-      },
-      {
-        "en": "El Gezira",
-        "ar": "الجزيرة"
-      },
-      {
-        "en": "Feathers",
-        "ar": "ريش"
-      },
-      {
-        "en": "Clash",
-        "ar": "اشتباك"
-      }
+      { "en": "The Nile Hilton Incident", "ar": "واقعة نايل هيلتون" },
+      { "en": "El Gezira", "ar": "الجزيرة" },
+      { "en": "Feathers", "ar": "ريش" },
+      { "en": "Clash", "ar": "اشتباك" }
     ],
     "correctAnswer": 0,
     "explanation_en": "\"The Nile Hilton Incident\" won the Sundance World Cinema Grand Jury Prize.",
@@ -575,29 +347,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which veteran Egyptian actor played the lead farmer Abu Sweilam in Chahine's classic \"Al-Ard\" (The Land, 1969)?",
-    "question_ar": "مين النجم المصري القديم اللي مثل دور الفلاح أبو سويلم في فيلم شاهين الكلاسيكي \"الأرض\" سنة 1969؟",
+    "question_en": "Mid-20th century Cairo's dominant film industry, exporting movies across the Arab world, earned it which popular nickname?",
+    "question_ar": "صناعة السينما المصرية في القاهرة في منتصف القرن العشرين، اللي كانت بتصدر أفلامها للعالم العربي كله، اتلقبت بإيه؟",
     "options": [
-      {
-        "en": "Farid Shawqi",
-        "ar": "فريد شوقي"
-      },
-      {
-        "en": "Yehia Chahine",
-        "ar": "يحيى شاهين"
-      },
-      {
-        "en": "Mahmoud El-Meliguy",
-        "ar": "محمود المليجي"
-      },
-      {
-        "en": "Zaki Rostom",
-        "ar": "زكي رستم"
-      }
+      { "en": "\"Hollywood on the Nile\"", "ar": "\"هوليوود على النيل\"" },
+      { "en": "\"The Silver Pyramid\"", "ar": "\"الهرم الفضي\"" },
+      { "en": "\"The Screen Capital\"", "ar": "\"عاصمة الشاشة\"" },
+      { "en": "\"The Golden Studio\"", "ar": "\"الاستوديو الذهبي\"" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Mahmoud El-Meliguy played the lead farmer Abu Sweilam.",
-    "explanation_ar": "محمود المليجي مثل دور الفلاح أبو سويلم."
+    "correctAnswer": 0,
+    "explanation_en": "Cairo's mid-century film industry was popularly nicknamed \"Hollywood on the Nile\".",
+    "explanation_ar": "صناعة السينما في القاهرة في منتصف القرن العشرين اتلقبت بـ\"هوليوود على النيل\"."
   },
   {
     "id": "MOV-200-021",
@@ -608,22 +368,10 @@
     "question_en": "Which Palestinian-French actress, known internationally for \"Succession\" and \"Munich\", has had a decades-long international film career?",
     "question_ar": "مين الممثلة الفلسطينية الفرنساوية المعروفة عالميًا بمسلسل \"سكسيشن\" وفيلم \"ميونخ\" وليها مسيرة سينمائية عالمية طويلة؟",
     "options": [
-      {
-        "en": "Hiam Abbass",
-        "ar": "هيام عباس"
-      },
-      {
-        "en": "Yasmine Al Massri",
-        "ar": "ياسمين المصري"
-      },
-      {
-        "en": "Golshifteh Farahani",
-        "ar": "جلشيفته فراهاني"
-      },
-      {
-        "en": "Hend Sabry",
-        "ar": "هند صبري"
-      }
+      { "en": "Hiam Abbass", "ar": "هيام عباس" },
+      { "en": "Yasmine Al Massri", "ar": "ياسمين المصري" },
+      { "en": "Golshifteh Farahani", "ar": "جلشيفته فراهاني" },
+      { "en": "Hend Sabry", "ar": "هند صبري" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Hiam Abbass is known for these international roles.",
@@ -635,29 +383,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which 1950 film holds a long-standing record for receiving four Oscar acting-category nominations for a single film?",
-    "question_ar": "إيه الفيلم سنة 1950 اللي كسر رقم قياسي بأربع ترشيحات أوسكار في فئات التمثيل لنفس الفيلم؟",
+    "question_en": "Egyptian-American director Jehane Noujaim, known for \"The Square\", also directed which 2004 documentary about Al Jazeera?",
+    "question_ar": "المخرجة المصرية الأمريكية جيهان نجيم، مخرجة فيلم \"الميدان\"، أخرجت كمان إيه فيلم وثائقي سنة 2004 عن قناة الجزيرة؟",
     "options": [
-      {
-        "en": "Sunset Boulevard",
-        "ar": "صنسيت بوليفارد"
-      },
-      {
-        "en": "All About Eve",
-        "ar": "أول أباوت إيف"
-      },
-      {
-        "en": "Born Yesterday",
-        "ar": "بورن يسترداي"
-      },
-      {
-        "en": "A Streetcar Named Desire",
-        "ar": "إيه ستريتكار نيمد ديزاير"
-      }
+      { "en": "Control Room", "ar": "غرفة التحكم" },
+      { "en": "Startup.com", "ar": "ستارت أب دوت كوم" },
+      { "en": "Pangea Day", "ar": "يوم بانجيا" },
+      { "en": "Rafea: Solar Mama", "ar": "رفيعة: أم الطاقة الشمسية" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "\"All About Eve\" received four acting nominations, a record for decades.",
-    "explanation_ar": "فيلم أول أباوت إيف كسب أربع ترشيحات تمثيل، رقم فضل قياسي لعقود."
+    "correctAnswer": 0,
+    "explanation_en": "Jehane Noujaim directed \"Control Room\" (2004), about Al Jazeera's coverage of the Iraq War.",
+    "explanation_ar": "جيهان نجيم أخرجت فيلم غرفة التحكم سنة 2004 عن تغطية الجزيرة لحرب العراق."
   },
   {
     "id": "MOV-200-023",
@@ -668,22 +404,10 @@
     "question_en": "Two actors have won acting Oscars for playing the same DC villain in different films — which villain?",
     "question_ar": "اتنين ممثلين كسبوا أوسكار عن تمثيل نفس شرير دي سي في فيلمين مختلفين، مين الشرير ده؟",
     "options": [
-      {
-        "en": "The Joker",
-        "ar": "الجوكر"
-      },
-      {
-        "en": "Two-Face",
-        "ar": "تو فيس"
-      },
-      {
-        "en": "Bane",
-        "ar": "بين"
-      },
-      {
-        "en": "Lex Luthor",
-        "ar": "ليكس لوثر"
-      }
+      { "en": "The Joker", "ar": "الجوكر" },
+      { "en": "Two-Face", "ar": "تو فيس" },
+      { "en": "Bane", "ar": "بين" },
+      { "en": "Lex Luthor", "ar": "ليكس لوثر" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Heath Ledger and Joaquin Phoenix both won Oscars playing the Joker.",
@@ -698,22 +422,10 @@
     "question_en": "Which actress won Best Actress for a fully French-language performance in \"La Vie en Rose\", playing Edith Piaf?",
     "question_ar": "مين الممثلة اللي كسبت أوسكار أفضل ممثلة عن دور بالفرنساوي بالكامل في فيلم \"لا في أون روز\" بدور إديت بياف؟",
     "options": [
-      {
-        "en": "Audrey Tautou",
-        "ar": "أودري توتو"
-      },
-      {
-        "en": "Isabelle Huppert",
-        "ar": "إيزابيل هوبير"
-      },
-      {
-        "en": "Marion Cotillard",
-        "ar": "ماريون كوتيار"
-      },
-      {
-        "en": "Juliette Binoche",
-        "ar": "جولييت بينوش"
-      }
+      { "en": "Audrey Tautou", "ar": "أودري توتو" },
+      { "en": "Isabelle Huppert", "ar": "إيزابيل هوبير" },
+      { "en": "Marion Cotillard", "ar": "ماريون كوتيار" },
+      { "en": "Juliette Binoche", "ar": "جولييت بينوش" }
     ],
     "correctAnswer": 2,
     "explanation_en": "Marion Cotillard won for her French-language performance as Edith Piaf.",
@@ -725,29 +437,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Which legendary director was nominated five times for Best Director but never won a competitive Oscar in that category?",
-    "question_ar": "مين المخرج الأسطوري اللي اترشح خمس مرات لأوسكار أفضل مخرج بس ولا مرة كسبها بالتنافس؟",
+    "question_en": "Egyptian actor Amr Waked co-starred alongside Ewan McGregor in which 2011 British comedy-drama?",
+    "question_ar": "الممثل المصري عمرو واكد شارك مع إيوان ماكجريجور في إيه فيلم كوميدي درامي بريطاني سنة 2011؟",
     "options": [
-      {
-        "en": "Alfred Hitchcock",
-        "ar": "ألفريد هيتشكوك"
-      },
-      {
-        "en": "Sidney Lumet",
-        "ar": "سيدني لوميت"
-      },
-      {
-        "en": "Orson Welles",
-        "ar": "أورسون ويلز"
-      },
-      {
-        "en": "Stanley Kubrick",
-        "ar": "ستانلي كوبريك"
-      }
+      { "en": "Salmon Fishing in the Yemen", "ar": "صيد السالمون في اليمن" },
+      { "en": "Trainspotting", "ar": "ترينسبوتينج" },
+      { "en": "Big Fish", "ar": "بيج فيش" },
+      { "en": "The Ghost Writer", "ar": "ذا جوست رايتر" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Hitchcock was nominated five times but never won competitively.",
-    "explanation_ar": "هيتشكوك اترشح خمس مرات بس ولا مرة كسب الأوسكار بالتنافس."
+    "explanation_en": "Amr Waked co-starred with Ewan McGregor in \"Salmon Fishing in the Yemen\" (2011).",
+    "explanation_ar": "عمرو واكد شارك إيوان ماكجريجور بطولة فيلم صيد السالمون في اليمن سنة 2011."
   },
   {
     "id": "MOV-200-026",
@@ -758,22 +458,10 @@
     "question_en": "Which actor reportedly turned down the role of Gandalf before it went to Ian McKellen?",
     "question_ar": "مين النجم اللي اتقال إنه رفض دور جاندالف قبل ما ياخده إيان مكيلين؟",
     "options": [
-      {
-        "en": "Patrick Stewart",
-        "ar": "باتريك ستيوارت"
-      },
-      {
-        "en": "Christopher Lee",
-        "ar": "كريستوفر لي"
-      },
-      {
-        "en": "Anthony Hopkins",
-        "ar": "أنتوني هوبكنز"
-      },
-      {
-        "en": "Sean Connery",
-        "ar": "شون كونري"
-      }
+      { "en": "Patrick Stewart", "ar": "باتريك ستيوارت" },
+      { "en": "Christopher Lee", "ar": "كريستوفر لي" },
+      { "en": "Anthony Hopkins", "ar": "أنتوني هوبكنز" },
+      { "en": "Sean Connery", "ar": "شون كونري" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Sean Connery reportedly turned down the role.",
@@ -788,22 +476,10 @@
     "question_en": "In \"Fight Club\", the film's twist reveals that Tyler Durden is actually what?",
     "question_ar": "في فيلم \"فايت كلوب\"، المفاجأة بتكشف إن تايلر ديردن هو إيه فعلاً؟",
     "options": [
-      {
-        "en": "An undercover detective",
-        "ar": "محقق سري"
-      },
-      {
-        "en": "The narrator's father",
-        "ar": "والد الراوي"
-      },
-      {
-        "en": "A figment of the narrator's mind",
-        "ar": "شخصية وهمية في خيال الراوي"
-      },
-      {
-        "en": "The narrator's twin brother",
-        "ar": "أخو الراوي التوأم"
-      }
+      { "en": "An undercover detective", "ar": "محقق سري" },
+      { "en": "The narrator's father", "ar": "والد الراوي" },
+      { "en": "A figment of the narrator's mind", "ar": "شخصية وهمية في خيال الراوي" },
+      { "en": "The narrator's twin brother", "ar": "أخو الراوي التوأم" }
     ],
     "correctAnswer": 2,
     "explanation_en": "Tyler Durden is a figment of the unnamed narrator's imagination.",
@@ -815,29 +491,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "\"Dog Day Afternoon\" (1975), starring Al Pacino, is based on a real robbery that took place where?",
-    "question_ar": "فيلم \"دوج داي أفتيرنون\" سنة 1975 بطولة آل باتشينو مأخوذ عن سرقة حقيقية حصلت فين؟",
+    "question_en": "Egyptian actor Khaled El Nabawy starred in \"The Physician\" (Der Medicus, 2013), a historical drama produced in which countries?",
+    "question_ar": "الممثل المصري خالد النبوي مثل في فيلم \"دير ميديكوس\" التاريخي سنة 2013، إنتاج مشترك بين إيه دول؟",
     "options": [
-      {
-        "en": "A casino in Las Vegas",
-        "ar": "كازينو في لاس فيجاس"
-      },
-      {
-        "en": "A bank in Brooklyn",
-        "ar": "بنك في بروكلين"
-      },
-      {
-        "en": "A jewelry store in Miami",
-        "ar": "محل مجوهرات في ميامي"
-      },
-      {
-        "en": "A bank in Chicago",
-        "ar": "بنك في شيكاغو"
-      }
+      { "en": "Germany and Britain", "ar": "ألمانيا وبريطانيا" },
+      { "en": "France and Italy", "ar": "فرنسا وإيطاليا" },
+      { "en": "Spain and Portugal", "ar": "إسبانيا والبرتغال" },
+      { "en": "The Netherlands and Belgium", "ar": "هولندا وبلجيكا" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "It's based on a real 1972 Brooklyn bank robbery.",
-    "explanation_ar": "مأخوذ عن سرقة بنك حقيقية في بروكلين سنة 1972."
+    "correctAnswer": 0,
+    "explanation_en": "\"The Physician\" (2013) was a German-British production starring Khaled El Nabawy.",
+    "explanation_ar": "فيلم دير ميديكوس سنة 2013 إنتاج ألماني بريطاني مشترك، وشارك فيه خالد النبوي."
   },
   {
     "id": "MOV-200-029",
@@ -848,22 +512,10 @@
     "question_en": "\"The Blair Witch Project\" (1999) became famous for pioneering which marketing technique?",
     "question_ar": "فيلم \"ذا بلير ويتش بروجيكت\" سنة 1999 اشتهر بابتكار إيه أسلوب تسويقي؟",
     "options": [
-      {
-        "en": "Interactive movie theater seats",
-        "ar": "كراسي سينما تفاعلية"
-      },
-      {
-        "en": "Marketing it as real found footage",
-        "ar": "تسويقه كأنه فوتيج حقيقي"
-      },
-      {
-        "en": "Paying audiences to attend",
-        "ar": "دفع فلوس للجمهور عشان يحضر"
-      },
-      {
-        "en": "A worldwide simultaneous premiere",
-        "ar": "عرض عالمي في نفس اليوم"
-      }
+      { "en": "Interactive movie theater seats", "ar": "كراسي سينما تفاعلية" },
+      { "en": "Marketing it as real found footage", "ar": "تسويقه كأنه فوتيج حقيقي" },
+      { "en": "Paying audiences to attend", "ar": "دفع فلوس للجمهور عشان يحضر" },
+      { "en": "A worldwide simultaneous premiere", "ar": "عرض عالمي في نفس اليوم" }
     ],
     "correctAnswer": 1,
     "explanation_en": "It was marketed as real found footage, a landmark viral campaign.",
@@ -875,29 +527,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Gloria Swanson played faded silent-film star Norma Desmond in which classic Hollywood film?",
-    "question_ar": "جلوريا سوانسون مثلت دور نجمة الأفلام الصامتة المعتزلة نورما ديزموند في إيه فيلم هوليوودي كلاسيكي؟",
+    "question_en": "Egyptian-American actor Rami Malek played the villain Safin in which 2021 James Bond film?",
+    "question_ar": "الممثل المصري الأمريكي رامي مالك مثل دور الشرير سافين في إيه فيلم جيمس بوند سنة 2021؟",
     "options": [
-      {
-        "en": "Now, Voyager",
-        "ar": "ناو، فوياجر"
-      },
-      {
-        "en": "All About Eve",
-        "ar": "أول أباوت إيف"
-      },
-      {
-        "en": "Sunset Boulevard",
-        "ar": "صنسيت بوليفارد"
-      },
-      {
-        "en": "Mildred Pierce",
-        "ar": "ميلدريد بيرس"
-      }
+      { "en": "No Time to Die", "ar": "نو تايم تو داي" },
+      { "en": "Spectre", "ar": "سبيكتر" },
+      { "en": "Skyfall", "ar": "سكاي فول" },
+      { "en": "Quantum of Solace", "ar": "كوانتوم أوف سولاس" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Gloria Swanson played Norma Desmond in \"Sunset Boulevard\" (1950).",
-    "explanation_ar": "جلوريا سوانسون مثلت دور نورما ديزموند في صنسيت بوليفارد سنة 1950."
+    "correctAnswer": 0,
+    "explanation_en": "Rami Malek played the villain Safin in \"No Time to Die\" (2021).",
+    "explanation_ar": "رامي مالك مثل دور الشرير سافين في فيلم نو تايم تو داي سنة 2021."
   },
   {
     "id": "MOV-200-031",
@@ -905,29 +545,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Kubrick's \"2001: A Space Odyssey\" famously ends with the astronaut transforming into what?",
-    "question_ar": "فيلم \"2001: أ سبيس أوديسي\" لكوبريك بينتهي بتحول رائد الفضاء لإيه؟",
+    "question_en": "Mohamed Diab's directorial debut, \"678\" (2010), tackles which social issue affecting women in Cairo?",
+    "question_ar": "فيلم محمد دياب الأول كمخرج \"678\" سنة 2010 بيتكلم عن إيه قضية اجتماعية بتواجه الستات في القاهرة؟",
     "options": [
-      {
-        "en": "A new planet",
-        "ar": "كوكب جديد"
-      },
-      {
-        "en": "A \"star-child\" being",
-        "ar": "كائن \"طفل النجوم\""
-      },
-      {
-        "en": "A robot",
-        "ar": "روبوت"
-      },
-      {
-        "en": "A ghost",
-        "ar": "شبح"
-      }
+      { "en": "Sexual harassment", "ar": "التحرش الجنسي" },
+      { "en": "Workplace discrimination", "ar": "التمييز في العمل" },
+      { "en": "Traffic accidents", "ar": "حوادث المرور" },
+      { "en": "Housing shortages", "ar": "أزمة السكن" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "The astronaut is transformed into an enigmatic \"star-child\".",
-    "explanation_ar": "رائد الفضاء بيتحول لكائن غامض اسمه طفل النجوم."
+    "correctAnswer": 0,
+    "explanation_en": "\"678\" (2010) tackles the issue of sexual harassment faced by women in Cairo.",
+    "explanation_ar": "فيلم 678 سنة 2010 بيتكلم عن التحرش الجنسي اللي بتواجهه الستات في القاهرة."
   },
   {
     "id": "MOV-200-032",
@@ -938,22 +566,10 @@
     "question_en": "Robert De Niro famously gained significant weight to play an aging boxer in which Scorsese film, winning Best Actor?",
     "question_ar": "روبرت دي نيرو زود وزنه بشكل كبير عشان يمثل ملاكم كبير في السن في إيه فيلم لسكورسيزي، وكسب أوسكار أفضل ممثل؟",
     "options": [
-      {
-        "en": "Raging Bull",
-        "ar": "رايجينج بول"
-      },
-      {
-        "en": "Casino",
-        "ar": "كازينو"
-      },
-      {
-        "en": "Taxi Driver",
-        "ar": "تاكسي درايفر"
-      },
-      {
-        "en": "Goodfellas",
-        "ar": "جودفيلاز"
-      }
+      { "en": "Raging Bull", "ar": "رايجينج بول" },
+      { "en": "Casino", "ar": "كازينو" },
+      { "en": "Taxi Driver", "ar": "تاكسي درايفر" },
+      { "en": "Goodfellas", "ar": "جودفيلاز" }
     ],
     "correctAnswer": 0,
     "explanation_en": "De Niro won Best Actor for \"Raging Bull\" (1980).",
@@ -965,29 +581,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Fritz Lang's 1931 film \"M\", one of the first serial-killer thrillers, was also notable as his first what?",
-    "question_ar": "فيلم فريتز لانج \"إم\" سنة 1931، من أول أفلام التشويق عن قاتل متسلسل، كان مميز كمان كأول إيه له؟",
+    "question_en": "Director Yousry Nasrallah worked for years as an assistant to which legendary Egyptian director before his own career?",
+    "question_ar": "المخرج يسري نصرالله اشتغل سنين مساعد مخرج لمين مخرج مصري أسطوري قبل ما يبدأ مسيرته لوحده؟",
     "options": [
-      {
-        "en": "3D film",
-        "ar": "فيلم ثلاثي الأبعاد"
-      },
-      {
-        "en": "American film",
-        "ar": "فيلم أمريكي"
-      },
-      {
-        "en": "Sound film",
-        "ar": "فيلم ناطق"
-      },
-      {
-        "en": "Color film",
-        "ar": "فيلم ملون"
-      }
+      { "en": "Youssef Chahine", "ar": "يوسف شاهين" },
+      { "en": "Salah Abu Seif", "ar": "صلاح أبو سيف" },
+      { "en": "Henry Barakat", "ar": "هنري بركات" },
+      { "en": "Kamal El Sheikh", "ar": "كمال الشيخ" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "\"M\" was Fritz Lang's first sound film.",
-    "explanation_ar": "فيلم إم كان أول فيلم ناطق لفريتز لانج."
+    "correctAnswer": 0,
+    "explanation_en": "Yousry Nasrallah worked for years as an assistant to Youssef Chahine before directing his own films.",
+    "explanation_ar": "يسري نصرالله اشتغل سنين مساعد مخرج ليوسف شاهين قبل ما يخرج أفلامه لوحده."
   },
   {
     "id": "MOV-200-034",
@@ -995,29 +599,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "\"Singin' in the Rain\" (1952) satirizes Hollywood's difficult transition from which era to which?",
-    "question_ar": "فيلم \"سينجين إن ذا رين\" سنة 1952 بيسخر من انتقال هوليوود الصعب من إيه عصر لإيه؟",
+    "question_en": "Naguib Mahfouz, Egypt's only Nobel Literature laureate, had roughly how many of his works adapted into films?",
+    "question_ar": "نجيب محفوظ، الكاتب المصري الوحيد الحاصل على نوبل في الأدب، اتحول له تقريبًا كام عمل لأفلام؟",
     "options": [
-      {
-        "en": "Black and white to color",
-        "ar": "الأبيض والأسود للألوان"
-      },
-      {
-        "en": "Silent films to talkies",
-        "ar": "الأفلام الصامتة للأفلام الناطقة"
-      },
-      {
-        "en": "Film to digital",
-        "ar": "الفيلم للرقمي"
-      },
-      {
-        "en": "Theatres to television",
-        "ar": "السينما للتليفزيون"
-      }
+      { "en": "Dozens (over two dozen)", "ar": "عشرات (أكتر من 24 عمل)" },
+      { "en": "Just one", "ar": "عمل واحد بس" },
+      { "en": "Three", "ar": "تلاتة" },
+      { "en": "Five", "ar": "خمسة" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "The film satirizes the shift from silent films to sound (\"talkies\").",
-    "explanation_ar": "الفيلم بيسخر من انتقال هوليوود من الأفلام الصامتة للناطقة."
+    "correctAnswer": 0,
+    "explanation_en": "Dozens of Naguib Mahfouz's novels and stories have been adapted into films over the decades.",
+    "explanation_ar": "عشرات من روايات وقصص نجيب محفوظ اتحولت لأفلام على مر العصور."
   },
   {
     "id": "MOV-200-035",
@@ -1028,22 +620,10 @@
     "question_en": "In Nolan's \"The Prestige\", Christian Bale's character conceals a twist by secretly being what?",
     "question_ar": "في فيلم \"ذا برستيج\" لنولان، شخصية كريستيان بيل بتخبي مفاجأة إنه فعلاً إيه؟",
     "options": [
-      {
-        "en": "One of a pair of identical twins",
-        "ar": "واحد من توأم متطابق"
-      },
-      {
-        "en": "His own rival in disguise",
-        "ar": "منافسه نفسه متنكر"
-      },
-      {
-        "en": "Already dead the whole film",
-        "ar": "ميت من بداية الفيلم"
-      },
-      {
-        "en": "A robot double",
-        "ar": "نسخة روبوت"
-      }
+      { "en": "One of a pair of identical twins", "ar": "واحد من توأم متطابق" },
+      { "en": "His own rival in disguise", "ar": "منافسه نفسه متنكر" },
+      { "en": "Already dead the whole film", "ar": "ميت من بداية الفيلم" },
+      { "en": "A robot double", "ar": "نسخة روبوت" }
     ],
     "correctAnswer": 0,
     "explanation_en": "His character is secretly one of twin brothers sharing the role.",
@@ -1058,22 +638,10 @@
     "question_en": "\"Birdman\" (2014), which won Best Picture, is famous for appearing to be filmed in what unusual style?",
     "question_ar": "فيلم \"بيردمان\" سنة 2014 اللي كسب أوسكار أفضل فيلم، اشتهر بإنه بيبدو متصور بإيه أسلوب غريب؟",
     "options": [
-      {
-        "en": "Backwards, from end to start",
-        "ar": "بالمقلوب من الآخر للأول"
-      },
-      {
-        "en": "Entirely from one character's POV",
-        "ar": "بالكامل من منظور شخصية واحدة"
-      },
-      {
-        "en": "One continuous unbroken shot",
-        "ar": "لقطة واحدة متواصلة من غير قطع"
-      },
-      {
-        "en": "Entirely in black and white",
-        "ar": "بالكامل بالأبيض والأسود"
-      }
+      { "en": "Backwards, from end to start", "ar": "بالمقلوب من الآخر للأول" },
+      { "en": "Entirely from one character's POV", "ar": "بالكامل من منظور شخصية واحدة" },
+      { "en": "One continuous unbroken shot", "ar": "لقطة واحدة متواصلة من غير قطع" },
+      { "en": "Entirely in black and white", "ar": "بالكامل بالأبيض والأسود" }
     ],
     "correctAnswer": 2,
     "explanation_en": "\"Birdman\" is edited to appear as one continuous take.",
@@ -1088,22 +656,10 @@
     "question_en": "Helen Mirren won the Best Actress Oscar for playing which real-life monarch in \"The Queen\" (2006)?",
     "question_ar": "هيلين ميرين كسبت أوسكار أفضل ممثلة عن دور إيه ملكة حقيقية في فيلم \"ذا كوين\" سنة 2006؟",
     "options": [
-      {
-        "en": "Queen Victoria",
-        "ar": "الملكة فيكتوريا"
-      },
-      {
-        "en": "Queen Elizabeth II",
-        "ar": "الملكة إليزابيث التانية"
-      },
-      {
-        "en": "Queen Elizabeth I",
-        "ar": "الملكة إليزابيث الأولى"
-      },
-      {
-        "en": "Princess Diana",
-        "ar": "الأميرة ديانا"
-      }
+      { "en": "Queen Victoria", "ar": "الملكة فيكتوريا" },
+      { "en": "Queen Elizabeth II", "ar": "الملكة إليزابيث التانية" },
+      { "en": "Queen Elizabeth I", "ar": "الملكة إليزابيث الأولى" },
+      { "en": "Princess Diana", "ar": "الأميرة ديانا" }
     ],
     "correctAnswer": 1,
     "explanation_en": "Helen Mirren won Best Actress for playing Queen Elizabeth II.",
@@ -1115,29 +671,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "\"12 Angry Men\" (1957), set almost entirely in one room, was the feature directing debut of which acclaimed director?",
-    "question_ar": "فيلم \"12 أنجري مان\" سنة 1957، اللي بيدور جوه أوضة واحدة تقريبًا، كان أول فيلم إخراج طويل لمين مخرج كبير؟",
+    "question_en": "Director Mohamed Diab frequently co-writes his films with his wife, who is also a screenwriter — what is her name?",
+    "question_ar": "المخرج محمد دياب بيشارك زوجته كتير في كتابة أفلامه، وهي كاتبة سيناريو معروفة — إيه اسمها؟",
     "options": [
-      {
-        "en": "Stanley Kubrick",
-        "ar": "ستانلي كوبريك"
-      },
-      {
-        "en": "John Frankenheimer",
-        "ar": "جون فرانكنهايمر"
-      },
-      {
-        "en": "Sidney Poitier",
-        "ar": "سيدني بواتييه"
-      },
-      {
-        "en": "Sidney Lumet",
-        "ar": "سيدني لوميت"
-      }
+      { "en": "Sarah Goher", "ar": "سارة جوهر" },
+      { "en": "Mariam Naoum", "ar": "مريم نعوم" },
+      { "en": "Haitham Dabbour", "ar": "هيثم دبور" },
+      { "en": "Nadine Shams", "ar": "ناردين شمس" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "\"12 Angry Men\" was Sidney Lumet's feature directorial debut.",
-    "explanation_ar": "فيلم 12 أنجري مان كان أول فيلم إخراج طويل لسيدني لوميت."
+    "correctAnswer": 0,
+    "explanation_en": "Sarah Goher, Mohamed Diab's wife, co-writes several of his films.",
+    "explanation_ar": "سارة جوهر، زوجة محمد دياب، شاركت في كتابة كتير من أفلامه."
   },
   {
     "id": "MOV-200-039",
@@ -1145,29 +689,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Gregory Peck won Best Actor for playing a Southern lawyer defending a wrongly accused man in which 1962 film?",
-    "question_ar": "جريجوري بيك كسب أوسكار أفضل ممثل عن دور محامي جنوبي بيدافع عن راجل متهم ظلمًا في إيه فيلم سنة 1962؟",
+    "question_en": "Director Peter Mimi, known for \"El Khaleya\", has also directed several action hits for which superstar, including \"El-Ostoura\"?",
+    "question_ar": "المخرج بيتر ميمي، صاحب فيلم \"الخلية\"، أخرج كمان أفلام أكشن ناجحة كتير لمين نجم كبير، منها \"الأسطورة\"؟",
     "options": [
-      {
-        "en": "Judgment at Nuremberg",
-        "ar": "جادجمنت آت نورمبيرج"
-      },
-      {
-        "en": "12 Angry Men",
-        "ar": "12 أنجري مان"
-      },
-      {
-        "en": "Inherit the Wind",
-        "ar": "إنهيريت ذا ويند"
-      },
-      {
-        "en": "To Kill a Mockingbird",
-        "ar": "تو كيل أ موكينج بيرد"
-      }
+      { "en": "Mohamed Ramadan", "ar": "محمد رمضان" },
+      { "en": "Ahmed El Sakka", "ar": "أحمد السقا" },
+      { "en": "Karim Abdel Aziz", "ar": "كريم عبدالعزيز" },
+      { "en": "Ahmed Ezz", "ar": "أحمد عز" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Peck won Best Actor for \"To Kill a Mockingbird\".",
-    "explanation_ar": "جريجوري بيك كسب أوسكار أفضل ممثل عن تو كيل أ موكينج بيرد."
+    "correctAnswer": 0,
+    "explanation_en": "Peter Mimi has directed several Mohamed Ramadan action hits, including \"El-Ostoura\".",
+    "explanation_ar": "بيتر ميمي أخرج أفلام أكشن كتير لمحمد رمضان، منها الأسطورة."
   },
   {
     "id": "MOV-200-040",
@@ -1175,29 +707,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Publisher William Randolph Hearst, angered by \"Citizen Kane\", was the real-life inspiration for which character?",
-    "question_ar": "الناشر ويليام راندولف هيرست اتغاظ من فيلم \"سيتيزن كين\" لإنه كان إلهام حقيقي لإيه شخصية فيه؟",
+    "question_en": "Mohamed Ramadan plays the villain opposite Karim Abdel Aziz's Dr. Yehia in which 2019 sequel?",
+    "question_ar": "محمد رمضان بيمثل دور الشرير قدام دكتور يحيى بطولة كريم عبدالعزيز في إيه جزء تاني سنة 2019؟",
     "options": [
-      {
-        "en": "Walter Thatcher",
-        "ar": "والتر تاتشر"
-      },
-      {
-        "en": "Charles Foster Kane",
-        "ar": "تشارلز فوستر كين"
-      },
-      {
-        "en": "Mr. Bernstein",
-        "ar": "مستر بيرنشتاين"
-      },
-      {
-        "en": "Jedediah Leland",
-        "ar": "جيديديا ليلاند"
-      }
+      { "en": "El Feel El Azraq 2", "ar": "الفيل الأزرق 2" },
+      { "en": "El Gezira 2", "ar": "الجزيرة 2" },
+      { "en": "El Kenz 2", "ar": "الكنز 2" },
+      { "en": "Mafia 2", "ar": "مافيا 2" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Hearst was the real-life inspiration for Charles Foster Kane.",
-    "explanation_ar": "هيرست كان الإلهام الحقيقي لشخصية تشارلز فوستر كين."
+    "correctAnswer": 0,
+    "explanation_en": "Mohamed Ramadan plays the antagonist in \"El Feel El Azraq 2\" (2019).",
+    "explanation_ar": "محمد رمضان مثل دور الشرير في فيلم الفيل الأزرق 2 سنة 2019."
   },
   {
     "id": "MOV-200-041",
@@ -1205,29 +725,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "\"Whatever Happened to Baby Jane?\" (1962) reunited two real-life Hollywood rivals — Bette Davis and which other actress?",
-    "question_ar": "فيلم \"ووتيفر هابند تو بيبي جين؟\" سنة 1962 جمع اتنين منافسات حقيقيين في هوليوود، بيتي ديفيس ومين كمان؟",
+    "question_en": "Actor Ahmed El Fishawy, star of \"Sheikh Jackson\", is the son of which veteran Egyptian actor?",
+    "question_ar": "الممثل أحمد الفيشاوي، بطل فيلم \"شيخ جاكسون\"، هو ابن مين من كبار الممثلين المصريين؟",
     "options": [
-      {
-        "en": "Joan Crawford",
-        "ar": "جوان كروفورد"
-      },
-      {
-        "en": "Katharine Hepburn",
-        "ar": "كاثرين هيبورن"
-      },
-      {
-        "en": "Olivia de Havilland",
-        "ar": "أوليفيا دي هافيلاند"
-      },
-      {
-        "en": "Barbara Stanwyck",
-        "ar": "باربرا ستانويك"
-      }
+      { "en": "Farouk El Fishawy", "ar": "فاروق الفيشاوي" },
+      { "en": "Mahmoud Yassin", "ar": "محمود ياسين" },
+      { "en": "Hussein Fahmy", "ar": "حسين فهمي" },
+      { "en": "Yehia El-Fakharany", "ar": "يحيى الفخراني" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Bette Davis and Joan Crawford, famous real-life rivals, starred together.",
-    "explanation_ar": "بيتي ديفيس وجوان كروفورد، منافسات حقيقيين مشهورين، مثلوا مع بعض في الفيلم."
+    "explanation_en": "Ahmed El Fishawy is the son of veteran actor Farouk El Fishawy.",
+    "explanation_ar": "أحمد الفيشاوي هو ابن الفنان الكبير فاروق الفيشاوي."
   },
   {
     "id": "MOV-200-042",
@@ -1238,22 +746,10 @@
     "question_en": "Which actor was originally cast as Captain Willard in \"Apocalypse Now\" before being replaced by Martin Sheen?",
     "question_ar": "مين النجم اللي كان متعاقد عليه الأول عشان يمثل دور الكابتن ويلارد في \"أبوكاليبس ناو\" قبل ما يتستبدل بمارتن شين؟",
     "options": [
-      {
-        "en": "Jack Nicholson",
-        "ar": "جاك نيكلسون"
-      },
-      {
-        "en": "Robert Duvall",
-        "ar": "روبرت دوفال"
-      },
-      {
-        "en": "Al Pacino",
-        "ar": "آل باتشينو"
-      },
-      {
-        "en": "Harvey Keitel",
-        "ar": "هارفي كيتل"
-      }
+      { "en": "Jack Nicholson", "ar": "جاك نيكلسون" },
+      { "en": "Robert Duvall", "ar": "روبرت دوفال" },
+      { "en": "Al Pacino", "ar": "آل باتشينو" },
+      { "en": "Harvey Keitel", "ar": "هارفي كيتل" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Harvey Keitel was originally cast before Martin Sheen replaced him.",
@@ -1268,22 +764,10 @@
     "question_en": "\"Jaws\" (1975) is widely credited as launching which now-standard Hollywood release strategy?",
     "question_ar": "فيلم \"جوز\" سنة 1975 معروف إنه بدأ إيه أسلوب طرح بقى معتاد في هوليوود؟",
     "options": [
-      {
-        "en": "The wide-release summer blockbuster",
-        "ar": "طرح واسع في الصيف (البلوكباستر)"
-      },
-      {
-        "en": "Sequels released the same year",
-        "ar": "أجزاء تانية في نفس السنة"
-      },
-      {
-        "en": "Streaming-only releases",
-        "ar": "طرح على المنصات بس"
-      },
-      {
-        "en": "Simultaneous global premieres",
-        "ar": "عرض عالمي في نفس اليوم"
-      }
+      { "en": "The wide-release summer blockbuster", "ar": "طرح واسع في الصيف (البلوكباستر)" },
+      { "en": "Sequels released the same year", "ar": "أجزاء تانية في نفس السنة" },
+      { "en": "Streaming-only releases", "ar": "طرح على المنصات بس" },
+      { "en": "Simultaneous global premieres", "ar": "عرض عالمي في نفس اليوم" }
     ],
     "correctAnswer": 0,
     "explanation_en": "\"Jaws\" is considered the first true summer blockbuster.",
@@ -1298,22 +782,10 @@
     "question_en": "Which actor is commonly cited as having turned down playing James Bond in \"Dr. No\" before Sean Connery was cast?",
     "question_ar": "مين النجم اللي بيتقال عنه إنه رفض دور جيمس بوند في \"دكتور نو\" قبل ما شون كونري ياخده؟",
     "options": [
-      {
-        "en": "James Mason",
-        "ar": "جيمس ميسون"
-      },
-      {
-        "en": "Cary Grant",
-        "ar": "كاري جرانت"
-      },
-      {
-        "en": "David Niven",
-        "ar": "ديفيد نيفن"
-      },
-      {
-        "en": "Rock Hudson",
-        "ar": "روك هدسون"
-      }
+      { "en": "James Mason", "ar": "جيمس ميسون" },
+      { "en": "Cary Grant", "ar": "كاري جرانت" },
+      { "en": "David Niven", "ar": "ديفيد نيفن" },
+      { "en": "Rock Hudson", "ar": "روك هدسون" }
     ],
     "correctAnswer": 1,
     "explanation_en": "Cary Grant is commonly cited as having turned down the role.",
@@ -1325,29 +797,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Billy Wilder's \"Sabrina\" (1954), a modern Cinderella-style romance, starred Audrey Hepburn and which leading man?",
-    "question_ar": "فيلم بيلي وايلدر \"سابرينا\" سنة 1954، قصة رومانسية على طريقة سندريلا الحديثة، جمع أودري هيبورن مع مين بطل؟",
+    "question_en": "The title of Yousry Nasrallah's \"Ehky Ya Scheherazade\" references the storyteller from which classic collection of tales?",
+    "question_ar": "عنوان فيلم يسري نصرالله \"احكي يا شهرزاد\" بيشير لراوية القصص بتاعة إيه مجموعة حكايات كلاسيكية؟",
     "options": [
-      {
-        "en": "Cary Grant",
-        "ar": "كاري جرانت"
-      },
-      {
-        "en": "Humphrey Bogart",
-        "ar": "همفري بوجارت"
-      },
-      {
-        "en": "Gregory Peck",
-        "ar": "جريجوري بيك"
-      },
-      {
-        "en": "William Holden",
-        "ar": "ويليام هولدن"
-      }
+      { "en": "One Thousand and One Nights", "ar": "ألف ليلة وليلة" },
+      { "en": "Kalila wa Dimna", "ar": "كليلة ودمنة" },
+      { "en": "The Panchatantra", "ar": "بانشاتانترا" },
+      { "en": "Aesop's Fables", "ar": "حكايات إيسوب" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Audrey Hepburn starred opposite Humphrey Bogart in \"Sabrina\".",
-    "explanation_ar": "أودري هيبورن مثلت مع همفري بوجارت في سابرينا."
+    "correctAnswer": 0,
+    "explanation_en": "Scheherazade is the storyteller of \"One Thousand and One Nights\".",
+    "explanation_ar": "شهرزاد هي راوية الحكايات في ألف ليلة وليلة."
   },
   {
     "id": "MOV-200-046",
@@ -1358,22 +818,10 @@
     "question_en": "Bong Joon-ho's \"Parasite\" won the Palme d'Or at Cannes in 2019 before going on to win which major Oscar the following year?",
     "question_ar": "فيلم بونج جون هو \"باراسايت\" كسب السعفة الذهبية في كان سنة 2019 قبل ما يكسب إيه جايزة أوسكار كبيرة في السنة اللي بعدها؟",
     "options": [
-      {
-        "en": "Best Foreign Language Film only",
-        "ar": "أفضل فيلم أجنبي بس"
-      },
-      {
-        "en": "Best Animated Feature",
-        "ar": "أفضل فيلم رسوم متحركة"
-      },
-      {
-        "en": "Best Picture",
-        "ar": "أفضل فيلم"
-      },
-      {
-        "en": "Best Documentary",
-        "ar": "أفضل فيلم وثائقي"
-      }
+      { "en": "Best Foreign Language Film only", "ar": "أفضل فيلم أجنبي بس" },
+      { "en": "Best Animated Feature", "ar": "أفضل فيلم رسوم متحركة" },
+      { "en": "Best Picture", "ar": "أفضل فيلم" },
+      { "en": "Best Documentary", "ar": "أفضل فيلم وثائقي" }
     ],
     "correctAnswer": 2,
     "explanation_en": "\"Parasite\" went on to win Best Picture at the Oscars.",
@@ -1388,22 +836,10 @@
     "question_en": "Javier Bardem won Best Supporting Actor playing the eerie hitman Anton Chigurh in which Coen Brothers film?",
     "question_ar": "خافيير بارديم كسب أوسكار أفضل ممثل مساعد عن دور القاتل المرعب أنطون تشيجير في إيه فيلم لإخوة كوين؟",
     "options": [
-      {
-        "en": "Fargo",
-        "ar": "فارجو"
-      },
-      {
-        "en": "The Big Lebowski",
-        "ar": "ذا بيج ليبوفسكي"
-      },
-      {
-        "en": "True Grit",
-        "ar": "ترو جريت"
-      },
-      {
-        "en": "No Country for Old Men",
-        "ar": "نو كنتري فور أولد مان"
-      }
+      { "en": "Fargo", "ar": "فارجو" },
+      { "en": "The Big Lebowski", "ar": "ذا بيج ليبوفسكي" },
+      { "en": "True Grit", "ar": "ترو جريت" },
+      { "en": "No Country for Old Men", "ar": "نو كنتري فور أولد مان" }
     ],
     "correctAnswer": 3,
     "explanation_en": "Bardem won for \"No Country for Old Men\" (2007).",
@@ -1418,22 +854,10 @@
     "question_en": "Hitchcock's \"Psycho\" (1960) was notable for being one of the first mainstream Hollywood films to show what on screen?",
     "question_ar": "فيلم هيتشكوك \"سايكو\" سنة 1960 كان مميز كأول فيلم هوليوودي رئيسي يعرض إيه على الشاشة؟",
     "options": [
-      {
-        "en": "A gay couple",
-        "ar": "زوج مثليين"
-      },
-      {
-        "en": "Nudity",
-        "ar": "عري"
-      },
-      {
-        "en": "A flushing toilet",
-        "ar": "مرحاض بيتسحب"
-      },
-      {
-        "en": "A drug injection",
-        "ar": "حقنة مخدرات"
-      }
+      { "en": "A gay couple", "ar": "زوج مثليين" },
+      { "en": "Nudity", "ar": "عري" },
+      { "en": "A flushing toilet", "ar": "مرحاض بيتسحب" },
+      { "en": "A drug injection", "ar": "حقنة مخدرات" }
     ],
     "correctAnswer": 2,
     "explanation_en": "\"Psycho\" was among the first mainstream films to show a flushing toilet.",
@@ -1445,29 +869,17 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "Philip Seymour Hoffman won Best Actor for playing author Truman Capote in which 2005 film?",
-    "question_ar": "فيليب سيمور هوفمان كسب أوسكار أفضل ممثل عن دور الكاتب ترومان كابوتي في إيه فيلم سنة 2005؟",
+    "question_en": "\"The Square\" (Al Midan) documentary is named after which famous Cairo location, the center of the 2011 protests?",
+    "question_ar": "فيلم \"الميدان\" الوثائقي اتسمى على اسم إيه مكان مشهور في القاهرة كان مركز احتجاجات 2011؟",
     "options": [
-      {
-        "en": "Infamous",
-        "ar": "إنفيموس"
-      },
-      {
-        "en": "The Master",
-        "ar": "ذا ماستر"
-      },
-      {
-        "en": "Doubt",
-        "ar": "داوت"
-      },
-      {
-        "en": "Capote",
-        "ar": "كابوتي"
-      }
+      { "en": "Tahrir Square", "ar": "ميدان التحرير" },
+      { "en": "Ramses Square", "ar": "ميدان رمسيس" },
+      { "en": "Al-Attaba Square", "ar": "ميدان العتبة" },
+      { "en": "Sphinx Square", "ar": "ميدان سفنكس" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Hoffman won Best Actor for \"Capote\" (2005).",
-    "explanation_ar": "هوفمان كسب أوسكار أفضل ممثل عن فيلم كابوتي سنة 2005."
+    "correctAnswer": 0,
+    "explanation_en": "\"The Square\" refers to Tahrir Square, the center of Cairo's 2011 protests.",
+    "explanation_ar": "فيلم الميدان بيشير لميدان التحرير، مركز احتجاجات القاهرة سنة 2011."
   },
   {
     "id": "MOV-200-050",
@@ -1475,28 +887,16 @@
     "category_ar": "افلام",
     "value": 200,
     "difficulty": 5,
-    "question_en": "German director Tom Tykwer's \"Run Lola Run\" (1998) tells its story how many times, with different outcomes each time?",
-    "question_ar": "فيلم المخرج الألماني توم تايكوير \"رن لولا رن\" سنة 1998 بيحكي قصته كام مرة، وكل مرة بنتيجة مختلفة؟",
+    "question_en": "Author Ahmed Khaled Tawfik, whose novel inspired \"Hepta\", is often described as the father of which genre in modern Arabic literature?",
+    "question_ar": "الكاتب أحمد خالد توفيق، اللي روايته كانت أساس فيلم \"هيبتا\"، بيتوصف غالبًا بإنه أبو إيه نوع أدبي في الأدب العربي الحديث؟",
     "options": [
-      {
-        "en": "Three times",
-        "ar": "تلات مرات"
-      },
-      {
-        "en": "Two times",
-        "ar": "مرتين"
-      },
-      {
-        "en": "Five times",
-        "ar": "خمس مرات"
-      },
-      {
-        "en": "Four times",
-        "ar": "أربع مرات"
-      }
+      { "en": "Arabic horror and science fiction", "ar": "الرعب والخيال العلمي بالعربي" },
+      { "en": "Arabic historical romance", "ar": "الرومانسية التاريخية بالعربي" },
+      { "en": "Arabic political satire", "ar": "السخرية السياسية بالعربي" },
+      { "en": "Arabic detective fiction", "ar": "أدب الجريمة والتحقيق بالعربي" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "The film retells its 20-minute story three times with different outcomes.",
-    "explanation_ar": "الفيلم بيحكي قصته اللي بتاخد 20 دقيقة تلات مرات بنتايج مختلفة."
+    "explanation_en": "Ahmed Khaled Tawfik is often called the father of modern Arabic horror and science fiction.",
+    "explanation_ar": "أحمد خالد توفيق بيتوصف غالبًا بإنه أبو أدب الرعب والخيال العلمي بالعربي الحديث."
   }
 ]

@@ -8,22 +8,10 @@
     "question_en": "Umm Kulthum's real full birth name was Fatma Ibrahim El-Sayed El-Beltagi. In which Egyptian governorate was she born?",
     "question_ar": "أم كلثوم اسمها الحقيقي فاطمة إبراهيم السيد البلتاجي، اتولدت في أنهي محافظة مصرية؟",
     "options": [
-      {
-        "en": "Daqahliya",
-        "ar": "الدقهلية"
-      },
-      {
-        "en": "Gharbiya",
-        "ar": "الغربية"
-      },
-      {
-        "en": "Beheira",
-        "ar": "البحيرة"
-      },
-      {
-        "en": "Sharqiya",
-        "ar": "الشرقية"
-      }
+      { "en": "Daqahliya", "ar": "الدقهلية" },
+      { "en": "Gharbiya", "ar": "الغربية" },
+      { "en": "Beheira", "ar": "البحيرة" },
+      { "en": "Sharqiya", "ar": "الشرقية" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Umm Kulthum was born in the village of Tammay El-Zahayra in Daqahliya governorate.",
@@ -35,29 +23,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian composer wrote the score for Abdel Halim Hafez's iconic film-song \"Sawah\"?",
-    "question_ar": "أنهي ملحن مصري لحن أغنية عبد الحليم حافظ الشهيرة \"الصعيدي شاطر\" المعروفة بـ\"سواح\"؟",
+    "question_en": "Early in his career, Marwan Pablo was known for hiding which part of his identity from the public?",
+    "question_ar": "في بداية مشواره، مروان بابلو كان معروف بإخفاء إيه عن الجمهور؟",
     "options": [
-      {
-        "en": "Mohamed El Mougy",
-        "ar": "محمد الموجي"
-      },
-      {
-        "en": "Kamal El Taweel",
-        "ar": "كمال الطويل"
-      },
-      {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
-      },
-      {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      }
+      { "en": "His face/identity", "ar": "وشه/هويته" },
+      { "en": "His voice", "ar": "صوته" },
+      { "en": "His nationality", "ar": "جنسيته" },
+      { "en": "His age", "ar": "سنه" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Mohamed El Mougy composed \"Sawah\", one of Abdel Halim Hafez's most famous songs.",
-    "explanation_ar": "محمد الموجي هو ملحن أغنية \"سواح\" من أشهر أغاني عبد الحليم حافظ."
+    "explanation_en": "Marwan Pablo kept his identity and face largely hidden in his early career.",
+    "explanation_ar": "مروان بابلو كان بيخفي هويته ووشه في بداية مشواره الفني."
   },
   {
     "id": "MUS-100-003",
@@ -65,29 +41,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian singer/composer, known as \"Musician of the Generations\", also acted in numerous black-and-white films and composed Egypt's presidential anthem?",
-    "question_ar": "أنهي مطرب وملحن مصري لقبه \"موسيقار الأجيال\" ومثل في أفلام أبيض وأسود كتير ولحن نشيد رئاسي؟",
+    "question_en": "Wegz's breakout song \"Assa7bi\" first went viral after being uploaded to which platform?",
+    "question_ar": "أغنية ويجز \"الصح بي\" بقت فيروسية الأول لما اتنزلت على أنهي منصة؟",
     "options": [
-      {
-        "en": "Riad El Sonbati",
-        "ar": "رياض السنباطي"
-      },
-      {
-        "en": "Farid El Atrache",
-        "ar": "فريد الأطرش"
-      },
-      {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
-      },
-      {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      }
+      { "en": "SoundCloud", "ar": "ساوند كلاود" },
+      { "en": "Spotify", "ar": "سبوتيفاي" },
+      { "en": "TikTok", "ar": "تيك توك" },
+      { "en": "YouTube", "ar": "يوتيوب" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Mohamed Abdel Wahab, \"Musician of the Generations\", was also a prolific film actor and composer.",
-    "explanation_ar": "محمد عبد الوهاب، موسيقار الأجيال، كان ممثل ومؤلف موسيقي غزير الإنتاج."
+    "correctAnswer": 0,
+    "explanation_en": "\"Assa7bi\" first gained traction after being uploaded to SoundCloud.",
+    "explanation_ar": "\"الصح بي\" بدأت تنتشر بعد ما اتنزلت على ساوند كلاود."
   },
   {
     "id": "MUS-100-004",
@@ -95,29 +59,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US rock band's 1971 untitled fourth album (often called \"Led Zeppelin IV\") features \"Stairway to Heaven\" and four unnamed symbols on its cover?",
-    "question_ar": "أنهي فرقة روك ألبومها الرابع سنة 1971 (المعروف بـ\"Led Zeppelin IV\") فيه \"Stairway to Heaven\" وأربع رموز على الغلاف من غير اسم؟",
+    "question_en": "Central Cee's real name is ___?",
+    "question_ar": "الاسم الحقيقي لسنترال سي هو ___؟",
     "options": [
-      {
-        "en": "Deep Purple",
-        "ar": "ديب بيربل"
-      },
-      {
-        "en": "Pink Floyd",
-        "ar": "بينك فلويد"
-      },
-      {
-        "en": "Led Zeppelin",
-        "ar": "ليد زبلين"
-      },
-      {
-        "en": "Black Sabbath",
-        "ar": "بلاك ساباث"
-      }
+      { "en": "Oakley Caesar-Su", "ar": "أوكلي سيزر-سو" },
+      { "en": "Dave Orobosa Omoregie", "ar": "ديف أوروبوسا أوموريجي" },
+      { "en": "Krept Casyo Johnson", "ar": "كريبت كاسيو جونسون" },
+      { "en": "Konan Maynard", "ar": "كونان ماينارد" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Led Zeppelin's untitled fourth album, known as \"Led Zeppelin IV\", features four member symbols and \"Stairway to Heaven\".",
-    "explanation_ar": "ألبوم ليد زبلين الرابع من غير اسم، المعروف بـ\"Led Zeppelin IV\"، فيه أربع رموز وأغنية \"Stairway to Heaven\"."
+    "correctAnswer": 0,
+    "explanation_en": "Central Cee's real name is Oakley Caesar-Su.",
+    "explanation_ar": "الاسم الحقيقي لسنترال سي هو أوكلي سيزر-سو."
   },
   {
     "id": "MUS-100-005",
@@ -128,22 +80,10 @@
     "question_en": "Which Egyptian singer, a contemporary rival of Umm Kulthum and famous for the song \"Gafnou El Alil\", passed away in 1974?",
     "question_ar": "أنهي مطرب مصري، كان منافس لأم كلثوم في وقتها، اشتهر بأغنية \"جفنه علم الغزل\" وتوفي سنة 1974؟",
     "options": [
-      {
-        "en": "Karem Mahmoud",
-        "ar": "كارم محمود"
-      },
-      {
-        "en": "Farid El Atrache",
-        "ar": "فريد الأطرش"
-      },
-      {
-        "en": "Mohamed Fawzi",
-        "ar": "محمد فوزي"
-      },
-      {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبد الحليم حافظ"
-      }
+      { "en": "Karem Mahmoud", "ar": "كارم محمود" },
+      { "en": "Farid El Atrache", "ar": "فريد الأطرش" },
+      { "en": "Mohamed Fawzi", "ar": "محمد فوزي" },
+      { "en": "Abdel Halim Hafez", "ar": "عبد الحليم حافظ" }
     ],
     "correctAnswer": 1,
     "explanation_en": "Farid El Atrache, known for \"Gafnou El Alil\", passed away in 1974.",
@@ -155,29 +95,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US singer's 1982 album held the world record for best-selling album for decades, later surpassed only by streaming-era claims?",
-    "question_ar": "ألبوم أنهي مطرب أمريكي سنة 1982 فضل صاحب رقم أكتر ألبوم مبيعًا في التاريخ لعقود؟",
+    "question_en": "Hamada Helal's wedding-favorite hits include both \"Aa Bali Habibi\" and which other song?",
+    "question_ar": "من أغاني حماده هلال المفضلة في الأفراح \"ع بالي حبيبي\" وكمان ___؟",
     "options": [
-      {
-        "en": "Prince – 1999",
-        "ar": "برنس – 1999"
-      },
-      {
-        "en": "Michael Jackson – Thriller",
-        "ar": "مايكل جاكسون – Thriller"
-      },
-      {
-        "en": "Whitney Houston – Whitney",
-        "ar": "ويتني هيوستن – Whitney"
-      },
-      {
-        "en": "Madonna – Like a Virgin",
-        "ar": "مادونا – Like a Virgin"
-      }
+      { "en": "Aa Wesh El Bahr", "ar": "ع وش البحر" },
+      { "en": "Ya Ya", "ar": "يا يا" },
+      { "en": "Insan", "ar": "إنسان" },
+      { "en": "Assa7bi", "ar": "الصح بي" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Michael Jackson's \"Thriller\" (1982) has long held the record for best-selling album.",
-    "explanation_ar": "ألبوم \"Thriller\" لمايكل جاكسون (1982) فضل صاحب رقم أكتر ألبوم مبيعًا لفترة طويلة."
+    "correctAnswer": 0,
+    "explanation_en": "Hamada Helal is known for both \"Aa Bali Habibi\" and \"Aa Wesh El Bahr\".",
+    "explanation_ar": "حماده هلال معروف بأغنيتي \"ع بالي حبيبي\" و\"ع وش البحر\"."
   },
   {
     "id": "MUS-100-007",
@@ -185,29 +113,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian singer known for songs like \"Alby Ittahda\" was a major voice of Egyptian classical singing and the daughter of a famous sheikh reciter?",
-    "question_ar": "أنهي مطربة مصرية اشتهرت بأغاني الطرب الأصيل وكانت بنت شيخ قارئ مشهور؟",
+    "question_en": "PinkPantheress, known for the viral hit \"Boy's a Liar\", is originally from which country?",
+    "question_ar": "بينك بانثيريس، معروفة بأغنية \"Boy's a Liar\" الفيروسية، من أنهي بلد؟",
     "options": [
-      {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
-      },
-      {
-        "en": "Naima Akef",
-        "ar": "نعيمة عاكف"
-      },
-      {
-        "en": "Shadia",
-        "ar": "شادية"
-      },
-      {
-        "en": "Warda",
-        "ar": "وردة"
-      }
+      { "en": "UK", "ar": "بريطانيا" },
+      { "en": "USA", "ar": "أمريكا" },
+      { "en": "Ireland", "ar": "أيرلندا" },
+      { "en": "Australia", "ar": "أستراليا" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Umm Kulthum's father was a religious reciter (Sheikh), and she began singing religious verse before her rise to fame.",
-    "explanation_ar": "والد أم كلثوم كان شيخ قارئ، وهي بدأت الغناء الديني قبل شهرتها."
+    "explanation_en": "PinkPantheress is a British singer known for blending pop with UK garage/drum and bass.",
+    "explanation_ar": "بينك بانثيريس مطربة بريطانية معروفة بمزج البوب بالجاراج/الدرام آند بيس."
   },
   {
     "id": "MUS-100-008",
@@ -215,29 +131,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which pioneering Egyptian composer's operetta \"El Ashara El Tayeba\" is considered a foundational work of modern Egyptian musical theatre, composed in the early 1920s?",
-    "question_ar": "أنهي ملحن مصري رائد ألف أوبريت \"العشرة الطيبة\" المعتبرة من أهم أعمال المسرح الغنائي المصري الحديث في بداية العشرينات؟",
+    "question_en": "Rema's real name is ___?",
+    "question_ar": "الاسم الحقيقي لريما هو ___؟",
     "options": [
-      {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
-      },
-      {
-        "en": "Sayed Darwish",
-        "ar": "سيد درويش"
-      },
-      {
-        "en": "Kamel El Kholai",
-        "ar": "كامل الخلعي"
-      },
-      {
-        "en": "Dawoud Hosni",
-        "ar": "داود حسني"
-      }
+      { "en": "Divine Ikubor", "ar": "ديفاين إيكوبور" },
+      { "en": "Damini Ogulu", "ar": "داميني أوجولو" },
+      { "en": "Ayodeji Balogun", "ar": "أيوديجي بالوجن" },
+      { "en": "David Adeleke", "ar": "ديفيد أديليكي" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Sayed Darwish composed the operetta \"El Ashara El Tayeba\", a foundational work of Egyptian musical theatre.",
-    "explanation_ar": "سيد درويش لحن أوبريت \"العشرة الطيبة\" من أهم أعمال المسرح الغنائي المصري."
+    "correctAnswer": 0,
+    "explanation_en": "Rema's real name is Divine Ikubor.",
+    "explanation_ar": "الاسم الحقيقي لريما هو ديفاين إيكوبور."
   },
   {
     "id": "MUS-100-009",
@@ -245,29 +149,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US band's members famously feuded over songwriting credit on \"Hotel California\", with Don Felder later suing his bandmates?",
-    "question_ar": "أنهي فرقة أمريكية حصل فيها خلاف شهير على حقوق تأليف أغنية \"Hotel California\" وانتهى بدون فيلدر يرفع قضية على زمايله؟",
+    "question_en": "Karol G's real name is ___?",
+    "question_ar": "الاسم الحقيقي لكارول جي هو ___؟",
     "options": [
-      {
-        "en": "Eagles",
-        "ar": "إيجلز"
-      },
-      {
-        "en": "Chicago",
-        "ar": "شيكاجو"
-      },
-      {
-        "en": "The Doobie Brothers",
-        "ar": "ذا دوبي براذرز"
-      },
-      {
-        "en": "Fleetwood Mac",
-        "ar": "فليتوود ماك"
-      }
+      { "en": "Carolina Giraldo Navarro", "ar": "كارولينا جيرالدو نافارو" },
+      { "en": "Belinda Peregrin", "ar": "بليندا بيريجرين" },
+      { "en": "Natti Natasha", "ar": "ناتي ناتاشا" },
+      { "en": "Becky G", "ar": "بيكي جي" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "The Eagles' Don Felder had a well-documented legal dispute with bandmates over \"Hotel California\" royalties/credit.",
-    "explanation_ar": "دون فيلدر من فرقة إيجلز رفع قضية على زمايله بخصوص حقوق أغنية \"Hotel California\"."
+    "explanation_en": "Karol G's real name is Carolina Giraldo Navarro.",
+    "explanation_ar": "الاسم الحقيقي لكارول جي هو كارولينا جيرالدو نافارو."
   },
   {
     "id": "MUS-100-010",
@@ -278,22 +170,10 @@
     "question_en": "Which Egyptian-Syrian singer, a rival to Umm Kulthum, died in a mysterious car accident in the Nile in 1944, sparking espionage rumors for decades?",
     "question_ar": "أنهي مطربة سورية-مصرية، كانت منافسة لأم كلثوم، ماتت في حادثة غامضة في مياه النيل سنة 1944 وأثارت شائعات تجسس لعقود؟",
     "options": [
-      {
-        "en": "Naima Akef",
-        "ar": "نعيمة عاكف"
-      },
-      {
-        "en": "Asmahan",
-        "ar": "أسمهان"
-      },
-      {
-        "en": "Shadia",
-        "ar": "شادية"
-      },
-      {
-        "en": "Nagat El Saghira",
-        "ar": "نجاة الصغيرة"
-      }
+      { "en": "Naima Akef", "ar": "نعيمة عاكف" },
+      { "en": "Asmahan", "ar": "أسمهان" },
+      { "en": "Shadia", "ar": "شادية" },
+      { "en": "Nagat El Saghira", "ar": "نجاة الصغيرة" }
     ],
     "correctAnswer": 1,
     "explanation_en": "Asmahan died in a car accident in 1944 under mysterious circumstances that sparked long-running espionage rumors.",
@@ -305,29 +185,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US musician, known as \"The King of Rock and Roll\", died in 1977 at his Graceland mansion in Memphis?",
-    "question_ar": "أنهي فنان أمريكي، ملقب بـ\"ملك الروك آند رول\"، مات سنة 1977 في قصره \"جريسلاند\" في ممفيس؟",
+    "question_en": "Mohamed Ramadan built part of his global fame through a flashy persona centered on which repeated catchphrase/branding?",
+    "question_ar": "محمد رمضان بنى جزء من شهرته العالمية على شخصية استعراضية مرتبطة بأنهي شعار متكرر؟",
     "options": [
-      {
-        "en": "Elvis Presley",
-        "ar": "إلفيس بريسلي"
-      },
-      {
-        "en": "Jerry Lee Lewis",
-        "ar": "جيري لي لويس"
-      },
-      {
-        "en": "Little Richard",
-        "ar": "ليتل ريتشارد"
-      },
-      {
-        "en": "Chuck Berry",
-        "ar": "تشاك بيري"
-      }
+      { "en": "Number One", "ar": "نمبر وان" },
+      { "en": "El Hadaba", "ar": "الهضبة" },
+      { "en": "El King", "ar": "الكينج" },
+      { "en": "El Kabtin", "ar": "الكابتن" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Elvis Presley died in 1977 at Graceland, his Memphis mansion.",
-    "explanation_ar": "إلفيس بريسلي مات سنة 1977 في قصره جريسلاند في ممفيس."
+    "explanation_en": "Mohamed Ramadan is closely associated with his \"Number One\" branding and persona.",
+    "explanation_ar": "محمد رمضان مرتبط بشكل كبير بشخصية وشعار \"نمبر وان\"."
   },
   {
     "id": "MUS-100-012",
@@ -335,29 +203,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian singer performed the famous 1967-era patriotic songs and was known as \"Sott Al Arab\" figure alongside Abdel Halim during that period?",
-    "question_ar": "أنهي مطرب مصري غنى أغاني وطنية مشهورة في فترة الستينات وكان من الأصوات المرتبطة بتلك الحقبة جنبًا لجنب مع عبد الحليم؟",
+    "question_en": "Burna Boy's real name is ___?",
+    "question_ar": "الاسم الحقيقي لبيرنا بوي هو ___؟",
     "options": [
-      {
-        "en": "Fayza Ahmed",
-        "ar": "فايزة أحمد"
-      },
-      {
-        "en": "Abdel Halim Hafez",
-        "ar": "عبد الحليم حافظ"
-      },
-      {
-        "en": "Mohamed Kandil",
-        "ar": "محمد قنديل"
-      },
-      {
-        "en": "Karem Mahmoud",
-        "ar": "كارم محمود"
-      }
+      { "en": "Damini Ebunoluwa Ogulu", "ar": "داميني إيبونولوا أوجولو" },
+      { "en": "Divine Ikubor", "ar": "ديفاين إيكوبور" },
+      { "en": "Ayodeji Balogun", "ar": "أيوديجي بالوجن" },
+      { "en": "Folarin Falana", "ar": "فولارين فالانا" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Abdel Halim Hafez was closely associated with the patriotic songs of the 1960s era in Egypt.",
-    "explanation_ar": "عبد الحليم حافظ ارتبط بشكل كبير بالأغاني الوطنية في حقبة الستينات."
+    "correctAnswer": 0,
+    "explanation_en": "Burna Boy's real name is Damini Ebunoluwa Ogulu.",
+    "explanation_ar": "الاسم الحقيقي لبيرنا بوي هو داميني إيبونولوا أوجولو."
   },
   {
     "id": "MUS-100-013",
@@ -365,29 +221,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US singer/songwriter released the concept album \"The Wall\" as part of a band, exploring themes of isolation?",
-    "question_ar": "أنهي فرقة روك طرحت ألبوم مفاهيمي اسمه \"The Wall\" بيتكلم عن العزلة؟",
+    "question_en": "SZA's real name is ___?",
+    "question_ar": "الاسم الحقيقي لـSZA هو ___؟",
     "options": [
-      {
-        "en": "Yes",
-        "ar": "يس"
-      },
-      {
-        "en": "Pink Floyd",
-        "ar": "بينك فلويد"
-      },
-      {
-        "en": "Genesis",
-        "ar": "جينيسيس"
-      },
-      {
-        "en": "King Crimson",
-        "ar": "كينج كريمسون"
-      }
+      { "en": "Solána Imani Rowe", "ar": "سولانا إيماني راو" },
+      { "en": "Sasha Denai", "ar": "ساشا ديناي" },
+      { "en": "Kehlani Parrish", "ar": "كيهلاني باريش" },
+      { "en": "Jhené Aiko", "ar": "جيني أيكو" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "\"The Wall\" is Pink Floyd's landmark 1979 concept album.",
-    "explanation_ar": "\"The Wall\" ألبوم بينك فلويد المفاهيمي الشهير سنة 1979."
+    "correctAnswer": 0,
+    "explanation_en": "SZA's real name is Solána Imani Rowe.",
+    "explanation_ar": "الاسم الحقيقي لـSZA هو سولانا إيماني راو."
   },
   {
     "id": "MUS-100-014",
@@ -395,29 +239,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian singer is credited with introducing the \"muwashah\" Andalusian singing style into modern Egyptian repertoire revival efforts in the 20th century?",
-    "question_ar": "أنهي مطرب مصري ساهم في إحياء أسلوب الغناء الأندلسي \"الموشح\" في الموسيقى المصرية الحديثة في القرن العشرين؟",
+    "question_en": "The traditional small ensemble of oud, qanun, nay, violin and percussion in classical Arabic music is called a ___?",
+    "question_ar": "التخت الموسيقي التقليدي المكون من عود وقانون وناي وكمان وإيقاع بيتسمى ___؟",
     "options": [
-      {
-        "en": "Mohamed El Mougy",
-        "ar": "محمد الموجي"
-      },
-      {
-        "en": "Riad El Sonbati",
-        "ar": "رياض السنباطي"
-      },
-      {
-        "en": "Sayed Mekawy",
-        "ar": "سيد مكاوي"
-      },
-      {
-        "en": "Zakaria Ahmed",
-        "ar": "زكريا أحمد"
-      }
+      { "en": "Takht", "ar": "تخت" },
+      { "en": "Firqa", "ar": "فرقة" },
+      { "en": "Maqam", "ar": "مقام" },
+      { "en": "Sama'i", "ar": "سماعي" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Sayed Mekawy is known for reviving muwashah and traditional Arabic vocal forms in modern settings.",
-    "explanation_ar": "سيد مكاوي معروف بإحياء الموشحات والأشكال الغنائية العربية التراثية بشكل حديث."
+    "correctAnswer": 0,
+    "explanation_en": "A \"takht\" is the traditional small ensemble central to classical Arabic music.",
+    "explanation_ar": "التخت هو الفرقة الموسيقية التقليدية الصغيرة الأساسية في الموسيقى العربية الكلاسيكية."
   },
   {
     "id": "MUS-100-015",
@@ -425,29 +257,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US band's Freddie Mercury died in 1991, shortly after publicly revealing he had AIDS?",
-    "question_ar": "مطرب أنهي فرقة بريطانية، فريدي ميركوري، مات سنة 1991 بعد ما أعلن إصابته بالإيدز بوقت قصير؟",
+    "question_en": "Feid's real name is ___?",
+    "question_ar": "الاسم الحقيقي لفيد هو ___؟",
     "options": [
-      {
-        "en": "Genesis",
-        "ar": "جينيسيس"
-      },
-      {
-        "en": "Queen",
-        "ar": "كوين"
-      },
-      {
-        "en": "The Police",
-        "ar": "ذا بوليس"
-      },
-      {
-        "en": "Deep Purple",
-        "ar": "ديب بيربل"
-      }
+      { "en": "Salomón Villada Hoyos", "ar": "سالومون فيادا هويوس" },
+      { "en": "Anuel AA", "ar": "أنويل إيه إيه" },
+      { "en": "Ozuna", "ar": "أوزونا" },
+      { "en": "J Balvin", "ar": "جي بالفين" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Freddie Mercury of Queen died in 1991, a day after announcing he had AIDS.",
-    "explanation_ar": "فريدي ميركوري من فرقة كوين مات سنة 1991 بعد يوم من إعلانه إصابته بالإيدز."
+    "correctAnswer": 0,
+    "explanation_en": "Feid's real name is Salomón Villada Hoyos.",
+    "explanation_ar": "الاسم الحقيقي لفيد هو سالومون فيادا هويوس."
   },
   {
     "id": "MUS-100-016",
@@ -455,29 +275,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian composer's song \"Ana Baghanny\" for Abdel Halim helped pioneer the youthful pop-oriented sound of the 1960s alongside orchestral arrangements?",
-    "question_ar": "أنهي ملحن مصري لحن أغنية \"أنا بغني\" لعبد الحليم وساهم في تقديم صوت شبابي جديد في الستينات مع توزيعات أوركسترالية؟",
+    "question_en": "Anitta's real name is ___?",
+    "question_ar": "الاسم الحقيقي لأنيتا هو ___؟",
     "options": [
-      {
-        "en": "Baligh Hamdi",
-        "ar": "بليغ حمدي"
-      },
-      {
-        "en": "Ahmed Fouad Hassan",
-        "ar": "أحمد فؤاد حسن"
-      },
-      {
-        "en": "Kamal El Taweel",
-        "ar": "كمال الطويل"
-      },
-      {
-        "en": "Mohamed El Mougy",
-        "ar": "محمد الموجي"
-      }
+      { "en": "Larissa de Macedo Machado", "ar": "لاريسا دي ماسيدو ماتشادو" },
+      { "en": "Giselle Bündchen", "ar": "جيزيل بوندشين" },
+      { "en": "Ivete Sangalo", "ar": "إيفيتي سانجالو" },
+      { "en": "Anitta Ferreira", "ar": "أنيتا فيريرا" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Baligh Hamdi was known for pioneering a youthful, orchestrated pop sound in 1960s Egyptian music.",
-    "explanation_ar": "بليغ حمدي اشتهر بتقديم صوت شبابي جديد مع توزيعات أوركسترالية في الستينات."
+    "explanation_en": "Anitta's real name is Larissa de Macedo Machado.",
+    "explanation_ar": "الاسم الحقيقي لأنيتا هو لاريسا دي ماسيدو ماتشادو."
   },
   {
     "id": "MUS-100-017",
@@ -485,29 +293,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US artist's 1971 album \"What's Going On\" is considered one of the greatest socially-conscious soul albums ever made?",
-    "question_ar": "ألبوم أنهي فنان أمريكي سنة 1971 اسمه \"What's Going On\" بيتعتبر من أعظم ألبومات السول الاجتماعية في التاريخ؟",
+    "question_en": "Mahraganat music originated in the late 2000s primarily from working-class neighborhoods of which Egyptian city?",
+    "question_ar": "موسيقى المهرجانات ظهرت أواخر الألفينات أساسًا من أحياء شعبية في أنهي مدينة مصرية؟",
     "options": [
-      {
-        "en": "Al Green",
-        "ar": "آل جرين"
-      },
-      {
-        "en": "Marvin Gaye",
-        "ar": "مارفن جاي"
-      },
-      {
-        "en": "Stevie Wonder",
-        "ar": "ستيفي وندر"
-      },
-      {
-        "en": "Curtis Mayfield",
-        "ar": "كورتيس مايفيلد"
-      }
+      { "en": "Cairo", "ar": "القاهرة" },
+      { "en": "Alexandria", "ar": "الإسكندرية" },
+      { "en": "Aswan", "ar": "أسوان" },
+      { "en": "Luxor", "ar": "الأقصر" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Marvin Gaye's \"What's Going On\" (1971) is a landmark socially-conscious soul album.",
-    "explanation_ar": "ألبوم \"What's Going On\" لمارفن جاي (1971) من أهم ألبومات السول الاجتماعية."
+    "correctAnswer": 0,
+    "explanation_en": "Mahraganat emerged from working-class Cairo neighborhoods in the late 2000s.",
+    "explanation_ar": "المهرجانات ظهرت من أحياء شعبية في القاهرة أواخر الألفينات."
   },
   {
     "id": "MUS-100-018",
@@ -518,22 +314,10 @@
     "question_en": "Which veteran Lebanese singer, often called the \"Voice of Lebanon\", built a legendary folk-rooted career independent of Fairuz?",
     "question_ar": "أنهي مطرب لبناني قديم، معروف بلقب \"صوت لبنان\"، بنى مشوار فلكلوري أسطوري بعيدًا عن فيروز؟",
     "options": [
-      {
-        "en": "Sabah",
-        "ar": "صباح"
-      },
-      {
-        "en": "Wadih El Safi",
-        "ar": "وديع الصافي"
-      },
-      {
-        "en": "Melhem Barakat",
-        "ar": "ملحم بركات"
-      },
-      {
-        "en": "Ragheb Alama",
-        "ar": "راغب علامة"
-      }
+      { "en": "Sabah", "ar": "صباح" },
+      { "en": "Wadih El Safi", "ar": "وديع الصافي" },
+      { "en": "Melhem Barakat", "ar": "ملحم بركات" },
+      { "en": "Ragheb Alama", "ar": "راغب علامة" }
     ],
     "correctAnswer": 1,
     "explanation_en": "Wadih El Safi, nicknamed the \"Voice of Lebanon\", was a towering figure in Lebanese song, independent of Fairuz's circle.",
@@ -545,29 +329,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US rapper's debut album \"Ready to Die\" (1994) is considered a landmark East Coast hip-hop record, before his 1997 murder?",
-    "question_ar": "ألبوم أنهي رابر أمريكي الأول \"Ready to Die\" سنة 1994 بيتعتبر من أهم ألبومات الهيب هوب الشرقية قبل مقتله سنة 1997؟",
+    "question_en": "Ice Spice's real name is ___?",
+    "question_ar": "الاسم الحقيقي لآيس سبايس هو ___؟",
     "options": [
-      {
-        "en": "Nas",
-        "ar": "ناس"
-      },
-      {
-        "en": "The Notorious B.I.G.",
-        "ar": "ذا نوتوريوس بي آي جي"
-      },
-      {
-        "en": "Jay-Z",
-        "ar": "جاي زي"
-      },
-      {
-        "en": "Tupac Shakur",
-        "ar": "توباك شاكور"
-      }
+      { "en": "Isis Naija Gaston", "ar": "آيسيس نايجا جاستون" },
+      { "en": "Destiny Frasqueri", "ar": "ديستني فراسكيري" },
+      { "en": "Coi Leray", "ar": "كوي ليراي" },
+      { "en": "Latto", "ar": "لاتو" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "The Notorious B.I.G.'s \"Ready to Die\" (1994) is a landmark East Coast hip-hop album.",
-    "explanation_ar": "ألبوم \"Ready to Die\" (1994) لذا نوتوريوس بي آي جي من أهم ألبومات الهيب هوب الشرقية."
+    "correctAnswer": 0,
+    "explanation_en": "Ice Spice's real name is Isis Naija Gaston.",
+    "explanation_ar": "الاسم الحقيقي لآيس سبايس هو آيسيس نايجا جاستون."
   },
   {
     "id": "MUS-100-020",
@@ -578,22 +350,10 @@
     "question_en": "Which Egyptian singer known for \"Aeesh W Meen\" was a major voice of 1950s-60s cinema musicals and later became a respected film actress?",
     "question_ar": "أنهي مطربة مصرية اشتهرت بأغاني السينما الغنائية في الخمسينات والستينات وبعدين بقت ممثلة سينمائية محترمة؟",
     "options": [
-      {
-        "en": "Soad Hosny",
-        "ar": "سعاد حسني"
-      },
-      {
-        "en": "Shadia",
-        "ar": "شادية"
-      },
-      {
-        "en": "Naima Akef",
-        "ar": "نعيمة عاكف"
-      },
-      {
-        "en": "Faten Hamama",
-        "ar": "فاتن حمامة"
-      }
+      { "en": "Soad Hosny", "ar": "سعاد حسني" },
+      { "en": "Shadia", "ar": "شادية" },
+      { "en": "Naima Akef", "ar": "نعيمة عاكف" },
+      { "en": "Faten Hamama", "ar": "فاتن حمامة" }
     ],
     "correctAnswer": 1,
     "explanation_en": "Shadia was a major singing and acting star of Egyptian cinema's golden era.",
@@ -605,29 +365,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US singer's 1971 death at age 27 places her in the \"27 Club\" alongside Jimi Hendrix, Jim Morrison, and later Kurt Cobain and Amy Winehouse?",
-    "question_ar": "أنهي مطربة أمريكية توفت وعمرها 27 سنة، وبكده بقت من \"نادي الـ27\" زي جيمي هيندريكس وجيم موريسون وكورت كوبين وإيمي واينهاوس؟",
+    "question_en": "Mohamed Mounir, known for his Nubian heritage, was born in which Egyptian city?",
+    "question_ar": "محمد منير، المعروف بأصوله النوبية، اتولد في أنهي مدينة مصرية؟",
     "options": [
-      {
-        "en": "Dusty Springfield",
-        "ar": "داستي سبرينجفيلد"
-      },
-      {
-        "en": "Cass Elliot",
-        "ar": "كاس إليوت"
-      },
-      {
-        "en": "Karen Carpenter",
-        "ar": "كارين كاربنتر"
-      },
-      {
-        "en": "Janis Joplin",
-        "ar": "جانيس جوبلين"
-      }
+      { "en": "Aswan", "ar": "أسوان" },
+      { "en": "Luxor", "ar": "الأقصر" },
+      { "en": "Qena", "ar": "قنا" },
+      { "en": "Sohag", "ar": "سوهاج" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Janis Joplin died in 1970 at age 27, part of the so-called \"27 Club\".",
-    "explanation_ar": "جانيس جوبلين ماتت سنة 1970 وعمرها 27 سنة، وبقت من \"نادي الـ27\"."
+    "correctAnswer": 0,
+    "explanation_en": "Mohamed Mounir was born in Aswan, in Egypt's Nubian region.",
+    "explanation_ar": "محمد منير اتولد في أسوان، منطقة النوبة في مصر."
   },
   {
     "id": "MUS-100-022",
@@ -635,29 +383,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian singer known for \"Ahsan Nas\" (composed by Baligh Hamdi) was a top voice of romantic Egyptian pop in the 1970s-80s alongside Warda?",
-    "question_ar": "أنهي مطربة مصرية غنت \"أحسن الناس\" (تلحين بليغ حمدي) وكانت من أهم أصوات الرومانسية في السبعينات والثمانينات؟",
+    "question_en": "Before her music career, Olivia Rodrigo was known as an actress on which Disney show?",
+    "question_ar": "قبل مشوارها الغنائي، أوليفيا رودريجو كانت معروفة كممثلة في أنهي مسلسل ديزني؟",
     "options": [
-      {
-        "en": "Faiza Ahmed",
-        "ar": "فايزة أحمد"
-      },
-      {
-        "en": "Shadia",
-        "ar": "شادية"
-      },
-      {
-        "en": "Warda",
-        "ar": "وردة"
-      },
-      {
-        "en": "Nagat El Saghira",
-        "ar": "نجاة الصغيرة"
-      }
+      { "en": "High School Musical: The Musical: The Series", "ar": "هاي سكول ميوزيكال: ذا ميوزيكال: ذا سيريز" },
+      { "en": "Hannah Montana", "ar": "هانا مونتانا" },
+      { "en": "Wizards of Waverly Place", "ar": "وزاردز أوف وايفرلي بليس" },
+      { "en": "Jessie", "ar": "جيسي" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Nagat El Saghira sang \"Ahsan Nas\" and was a leading romantic pop voice of her era.",
-    "explanation_ar": "نجاة الصغيرة غنت \"أحسن الناس\" وكانت من أهم أصوات الرومانسية في وقتها."
+    "correctAnswer": 0,
+    "explanation_en": "Olivia Rodrigo starred in Disney+'s \"High School Musical: The Musical: The Series\" before her music breakthrough.",
+    "explanation_ar": "أوليفيا رودريجو مثلت في مسلسل ديزني قبل ما تنطلق في الغناء."
   },
   {
     "id": "MUS-100-023",
@@ -665,29 +401,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US band's frontman Jim Morrison died in Paris in 1971, also part of the \"27 Club\"?",
-    "question_ar": "أنهي فرقة أمريكية مطربها الرئيسي جيم موريسون مات في باريس سنة 1971 وبقى من \"نادي الـ27\"؟",
+    "question_en": "Travis Scott's real name is ___?",
+    "question_ar": "الاسم الحقيقي لترافيس سكوت هو ___؟",
     "options": [
-      {
-        "en": "The Byrds",
-        "ar": "ذا بيردز"
-      },
-      {
-        "en": "The Grateful Dead",
-        "ar": "ذا جريتفل ديد"
-      },
-      {
-        "en": "Jefferson Airplane",
-        "ar": "جيفرسون إيربلين"
-      },
-      {
-        "en": "The Doors",
-        "ar": "ذا دورز"
-      }
+      { "en": "Jacques Bermon Webster II", "ar": "چاك بيرمون ويبستر التاني" },
+      { "en": "Aubrey Graham", "ar": "أوبري جراهام" },
+      { "en": "Nayvadius Wilburn", "ar": "نايفاديوس ويلبيرن" },
+      { "en": "Kiari Cephus", "ar": "كياري سيفوس" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Jim Morrison of The Doors died in Paris in 1971 at age 27.",
-    "explanation_ar": "جيم موريسون من فرقة ذا دورز مات في باريس سنة 1971 وعمره 27 سنة."
+    "correctAnswer": 0,
+    "explanation_en": "Travis Scott's real name is Jacques Bermon Webster II.",
+    "explanation_ar": "الاسم الحقيقي لترافيس سكوت هو چاك بيرمون ويبستر التاني."
   },
   {
     "id": "MUS-100-024",
@@ -698,22 +422,10 @@
     "question_en": "Which Egyptian mahraganat/rap artist's 2022 track became an unofficial anthem tied to the FIFA World Cup and topped Arab streaming charts that year?",
     "question_ar": "أنهي فنان مصري في أغنيته سنة 2022 بقت نشيد غير رسمي مرتبط بكأس العالم وصدرت تشارتات الاستماع العربية في السنة دي؟",
     "options": [
-      {
-        "en": "Abyusif — \"Analogy\"",
-        "ar": "أبيوسف – \"أنالوجي\""
-      },
-      {
-        "en": "Wegz — \"Dorak Gai\"",
-        "ar": "ويجز – \"دورك جاي\""
-      },
-      {
-        "en": "Afroto — \"Aymen\"",
-        "ar": "أفروتو – \"أيمن\""
-      },
-      {
-        "en": "Marwan Pablo — \"El Gamaa\"",
-        "ar": "مروان بابلو – \"الجماعة\""
-      }
+      { "en": "Abyusif — \"Analogy\"", "ar": "أبيوسف – \"أنالوجي\"" },
+      { "en": "Wegz — \"Dorak Gai\"", "ar": "ويجز – \"دورك جاي\"" },
+      { "en": "Afroto — \"Aymen\"", "ar": "أفروتو – \"أيمن\"" },
+      { "en": "Marwan Pablo — \"El Gamaa\"", "ar": "مروان بابلو – \"الجماعة\"" }
     ],
     "correctAnswer": 1,
     "explanation_en": "Wegz's \"Dorak Gai\" was tied to the 2022 FIFA World Cup and became one of the year's biggest Arabic tracks.",
@@ -725,29 +437,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US singer's 2016 death shocked fans, having released \"Purple Rain\" and being known for blending rock, funk, and pop?",
-    "question_ar": "أنهي فنان أمريكي مات سنة 2016 وكانت وفاته صدمة كبيرة، واشتهر بأغنية \"Purple Rain\" ومزج الروك والفانك والبوب؟",
+    "question_en": "Massar Egbari's alternative rock sound is often noted for blending Western rock with traditional Arabic ___?",
+    "question_ar": "صوت مسار إجباري الروك البديل غالبًا بيتلاحظ فيه مزج الروك الغربي بأنهي عنصر عربي تقليدي؟",
     "options": [
-      {
-        "en": "George Michael",
-        "ar": "جورج مايكل"
-      },
-      {
-        "en": "Prince",
-        "ar": "برنس"
-      },
-      {
-        "en": "David Bowie",
-        "ar": "ديفيد بوي"
-      },
-      {
-        "en": "Chris Cornell",
-        "ar": "كريس كورنيل"
-      }
+      { "en": "Maqam scales", "ar": "سلالم المقامات" },
+      { "en": "Opera vocals", "ar": "غناء أوبرالي" },
+      { "en": "Gregorian chants", "ar": "تراتيل جريجورية" },
+      { "en": "Flamenco rhythms", "ar": "إيقاعات فلامنكو" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Prince, known for \"Purple Rain\", died in 2016.",
-    "explanation_ar": "برنس، صاحب أغنية \"Purple Rain\"، توفي سنة 2016."
+    "correctAnswer": 0,
+    "explanation_en": "Massar Egbari blends Western rock instrumentation with traditional Arabic maqam scales.",
+    "explanation_ar": "مسار إجباري بتمزج آلات الروك الغربية بسلالم المقامات العربية التقليدية."
   },
   {
     "id": "MUS-100-026",
@@ -755,29 +455,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian singer known for the smash hit \"Wallahi Sadaa\" was a leading female pop voice of the early-to-mid 2000s?",
-    "question_ar": "أنهي مطربة مصرية اشتهرت بأغنية ناجحة زي \"والله صدق\" وكانت من أهم أصوات البوب النسائية في بداية ومنتصف الألفينات؟",
+    "question_en": "Dua Lipa's parents are of which ethnic heritage, reflected in her name (\"Dua\" means \"love\" in Albanian)?",
+    "question_ar": "أهل ديوا ليپا من أصل عرقي إيه، واللي بينعكس في اسمها (\"ديوا\" معناها \"حب\" بالألباني)؟",
     "options": [
-      {
-        "en": "Ruby",
-        "ar": "روبي"
-      },
-      {
-        "en": "Latifa",
-        "ar": "لطيفة"
-      },
-      {
-        "en": "Angham",
-        "ar": "أنغام"
-      },
-      {
-        "en": "Aida El Ayoubi",
-        "ar": "عايدة الأيوبي"
-      }
+      { "en": "Kosovo-Albanian", "ar": "ألباني من كوسوفو" },
+      { "en": "Serbian", "ar": "صربي" },
+      { "en": "Greek", "ar": "يوناني" },
+      { "en": "Turkish", "ar": "تركي" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Ruby was a leading Egyptian female pop star of the 2000s, known for hits like \"Wallahi Sadaa\".",
-    "explanation_ar": "روبي كانت من أهم مطربات البوب المصريات في الألفينات بأغاني زي \"والله صدق\"."
+    "explanation_en": "Dua Lipa's parents are ethnic Albanians from Kosovo.",
+    "explanation_ar": "أهل ديوا ليپا ألبان من كوسوفو."
   },
   {
     "id": "MUS-100-027",
@@ -785,29 +473,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US rock band's Chris Cornell, also of Soundgarden, died in 2017 while touring?",
-    "question_ar": "أنهي فرقة روك أمريكية، مطربها كريس كورنيل (اللي كان كمان في ساوندجاردن)، مات سنة 2017 وهو بيعمل جولة حفلات؟",
+    "question_en": "Peso Pluma's real name is ___?",
+    "question_ar": "الاسم الحقيقي لبيسو بلوما هو ___؟",
     "options": [
-      {
-        "en": "Stone Temple Pilots",
-        "ar": "ستون تمبل بايلوتس"
-      },
-      {
-        "en": "Rage Against the Machine",
-        "ar": "ريج أجينست ذا ماشين"
-      },
-      {
-        "en": "Alice in Chains",
-        "ar": "أليس إن تشينز"
-      },
-      {
-        "en": "Audioslave",
-        "ar": "أوديوسلاف"
-      }
+      { "en": "Hassan Emilio Kabande Laija", "ar": "حسن إميليو كاباندي لايجا" },
+      { "en": "Natanael Cano", "ar": "ناتانايل كانو" },
+      { "en": "Junior H", "ar": "جونيور إتش" },
+      { "en": "Fuerza Regida", "ar": "فويرزا ريجيدا" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Chris Cornell, frontman of Soundgarden and Audioslave, died in 2017.",
-    "explanation_ar": "كريس كورنيل، مطرب ساوندجاردن وأوديوسلاف، توفي سنة 2017."
+    "correctAnswer": 0,
+    "explanation_en": "Peso Pluma's real name is Hassan Emilio Kabande Laija.",
+    "explanation_ar": "الاسم الحقيقي لبيسو بلوما هو حسن إميليو كاباندي لايجا."
   },
   {
     "id": "MUS-100-028",
@@ -815,29 +491,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian singer, known as \"Kokab El Sharq\", performed her farewell concert in 1973 before health issues largely ended her live performances?",
-    "question_ar": "أنهي مطربة مصرية، معروفة بـ\"كوكب الشرق\"، قدمت آخر حفلاتها الكبيرة سنة 1973 قبل ما مشاكلها الصحية توقف ظهورها الحي؟",
+    "question_en": "Before becoming a full-time musician, Hamza Namira studied which field?",
+    "question_ar": "قبل ما يبقى مطرب بدوام كامل، حمزة نمرة درس أنهي تخصص؟",
     "options": [
-      {
-        "en": "Warda",
-        "ar": "وردة"
-      },
-      {
-        "en": "Shadia",
-        "ar": "شادية"
-      },
-      {
-        "en": "Fayza Ahmed",
-        "ar": "فايزة أحمد"
-      },
-      {
-        "en": "Umm Kulthum",
-        "ar": "أم كلثوم"
-      }
+      { "en": "Pharmacy", "ar": "صيدلة" },
+      { "en": "Medicine", "ar": "طب" },
+      { "en": "Engineering", "ar": "هندسة" },
+      { "en": "Law", "ar": "حقوق" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Umm Kulthum's live performing career largely ended around 1973 due to declining health, before her death in 1975.",
-    "explanation_ar": "مشوار أم كلثوم في الغناء الحي توقف تقريبًا حوالين 1973 بسبب تدهور صحتها، قبل وفاتها سنة 1975."
+    "correctAnswer": 0,
+    "explanation_en": "Hamza Namira studied pharmacy before pursuing a full music career.",
+    "explanation_ar": "حمزة نمرة درس صيدلة قبل ما يتفرغ للغناء بالكامل."
   },
   {
     "id": "MUS-100-029",
@@ -845,29 +509,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US band's Kurt Cobain died in 1994, becoming part of the \"27 Club\" and a symbol of the grunge era's end?",
-    "question_ar": "مطرب أنهي فرقة أمريكية، كورت كوبين، مات سنة 1994 وبقى رمز لنهاية عصر الجرانج و\"نادي الـ27\"؟",
+    "question_en": "Billie Eilish's breakout debut single, released in 2016 when she was 14, was called ___?",
+    "question_ar": "أول أغنية لبيلي إيليش سنة 2016 لما كان عمرها 14 سنة اسمها ___؟",
     "options": [
-      {
-        "en": "Alice in Chains",
-        "ar": "أليس إن تشينز"
-      },
-      {
-        "en": "Soundgarden",
-        "ar": "ساوندجاردن"
-      },
-      {
-        "en": "Stone Temple Pilots",
-        "ar": "ستون تمبل بايلوتس"
-      },
-      {
-        "en": "Nirvana",
-        "ar": "نيرفانا"
-      }
+      { "en": "Ocean Eyes", "ar": "أوشن آيز" },
+      { "en": "Bad Guy", "ar": "باد جاي" },
+      { "en": "Bury a Friend", "ar": "بيري أ فريند" },
+      { "en": "Happier Than Ever", "ar": "هابيير ذان إيفر" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Kurt Cobain of Nirvana died in 1994 at age 27.",
-    "explanation_ar": "كورت كوبين من فرقة نيرفانا مات سنة 1994 وعمره 27 سنة."
+    "correctAnswer": 0,
+    "explanation_en": "\"Ocean Eyes\" was Billie Eilish's breakout debut single.",
+    "explanation_ar": "\"أوشن آيز\" كانت أول أغنية أطلقت شهرة بيلي إيليش."
   },
   {
     "id": "MUS-100-030",
@@ -875,29 +527,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian singer, famous for \"Set El Habayeb\", was known as a top voice of romantic Egyptian ballads through the 1980s-90s alongside Amr Diab's rise?",
-    "question_ar": "أنهي مطربة مصرية اشتهرت بأغنية \"ست الحبايب\" وكانت من أهم أصوات الأغاني الرومانسية في الثمانينات والتسعينات؟",
+    "question_en": "Molotof's music is often noted for a darker, more aggressive style within Egypt's ___ scene?",
+    "question_ar": "موسيقى مولوتوف غالبًا بتتلاحظ بأسلوبها الأعتم والأعنف في مشهد الـ ___ المصري؟",
     "options": [
-      {
-        "en": "Iman El Bahr Darwish (distractor)",
-        "ar": "إيمان البحر درويش (مموه)"
-      },
-      {
-        "en": "Mohamed Fouad (male, distractor)",
-        "ar": "محمد فؤاد (ذكر، مموه)"
-      },
-      {
-        "en": "Latifa",
-        "ar": "لطيفة"
-      },
-      {
-        "en": "Aida El Ayoubi",
-        "ar": "عايدة الأيوبي"
-      }
+      { "en": "Trap/Rap", "ar": "تراب/راب" },
+      { "en": "Shaabi wedding music", "ar": "موسيقى أفراح شعبي" },
+      { "en": "Classical tarab", "ar": "طرب كلاسيكي" },
+      { "en": "Sufi inshad", "ar": "إنشاد صوفي" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Latifa, a Tunisian-born singer popular in Egypt, is known for the hit \"Set El Habayeb\".",
-    "explanation_ar": "لطيفة، المطربة التونسية المشهورة في مصر، معروفة بأغنية \"ست الحبايب\"."
+    "correctAnswer": 0,
+    "explanation_en": "Molotof is known for a darker, more intense style within Egypt's trap/rap scene.",
+    "explanation_ar": "مولوتوف معروف بأسلوبه الأعتم والأقوى في مشهد التراب/الراب المصري."
   },
   {
     "id": "MUS-100-031",
@@ -905,29 +545,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which UK singer/songwriter's 2016 death, shortly after releasing \"Blackstar\", came just two days after his 69th birthday?",
-    "question_ar": "أنهي مطرب بريطاني مات سنة 2016 بعد ما طرح ألبوم \"Blackstar\" بيومين بس من عيد ميلاده الـ69؟",
+    "question_en": "Doja Cat is known for blending pop with which other genre, seen in hits like \"Say So\"?",
+    "question_ar": "دوجا كات معروفة بمزج البوب بأنهي نوع تاني، زي ما ظاهر في أغنية \"Say So\"؟",
     "options": [
-      {
-        "en": "David Bowie",
-        "ar": "ديفيد بوي"
-      },
-      {
-        "en": "Ian Curtis",
-        "ar": "إيان كيرتس"
-      },
-      {
-        "en": "Freddie Mercury",
-        "ar": "فريدي ميركوري"
-      },
-      {
-        "en": "George Michael",
-        "ar": "جورج مايكل"
-      }
+      { "en": "Disco/nu-disco", "ar": "ديسكو/نيو ديسكو" },
+      { "en": "Opera", "ar": "أوبرا" },
+      { "en": "Country", "ar": "كانتري" },
+      { "en": "Classical", "ar": "كلاسيك" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "David Bowie died in January 2016, two days after his 69th birthday and the release of \"Blackstar\".",
-    "explanation_ar": "ديفيد بوي توفي في يناير 2016 بعد يومين بس من عيد ميلاده الـ69 وطرح ألبوم \"Blackstar\"."
+    "explanation_en": "\"Say So\" blends pop with a nu-disco/funk influence.",
+    "explanation_ar": "\"Say So\" بتمزج البوب بتأثيرات الديسكو/الفانك."
   },
   {
     "id": "MUS-100-032",
@@ -938,22 +566,10 @@
     "question_en": "Which term describes a distinctive maqam (modal scale) system foundational to Arabic classical music, e.g. Maqam Rast or Maqam Hijaz?",
     "question_ar": "بيتقال إيه على نظام السلالم اللحنية الأساسي في الموسيقى العربية الكلاسيكية، زي مقام راست أو مقام حجاز؟",
     "options": [
-      {
-        "en": "Tarab",
-        "ar": "طرب"
-      },
-      {
-        "en": "Sama'i",
-        "ar": "سماعي"
-      },
-      {
-        "en": "Maqam",
-        "ar": "مقام"
-      },
-      {
-        "en": "Iqa",
-        "ar": "إيقاع"
-      }
+      { "en": "Tarab", "ar": "طرب" },
+      { "en": "Sama'i", "ar": "سماعي" },
+      { "en": "Maqam", "ar": "مقام" },
+      { "en": "Iqa", "ar": "إيقاع" }
     ],
     "correctAnswer": 2,
     "explanation_en": "The maqam system is the foundational modal scale system of Arabic classical music.",
@@ -965,29 +581,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian singer known for the 1990s hit \"Alby Ehtar\" became one of the most successful crossover pop-shaabi voices with songs produced by Amr Mostafa?",
-    "question_ar": "أنهي مطرب مصري في التسعينات اشتهر بأغاني بوب-شعبي ناجحة من إنتاج عمرو مصطفى؟",
+    "question_en": "J Balvin, one of reggaeton's biggest global stars known for \"Mi Gente\", is from which country?",
+    "question_ar": "جي بالفين، واحد من أكبر نجوم الريجيتون العالميين ومعروف بأغنية \"Mi Gente\"، من أنهي بلد؟",
     "options": [
-      {
-        "en": "Hisham Abbas",
-        "ar": "هشام عباس"
-      },
-      {
-        "en": "Hisham Gamal",
-        "ar": "هشام جمال"
-      },
-      {
-        "en": "Ehab Tawfik",
-        "ar": "إيهاب توفيق"
-      },
-      {
-        "en": "Mostafa Amar",
-        "ar": "مصطفى قمر"
-      }
+      { "en": "Colombia", "ar": "كولومبيا" },
+      { "en": "Puerto Rico", "ar": "بورتوريكو" },
+      { "en": "Mexico", "ar": "المكسيك" },
+      { "en": "Venezuela", "ar": "فنزويلا" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Mostafa Amar had major 1990s hits produced by composer Amr Mostafa.",
-    "explanation_ar": "مصطفى قمر كان من نجوم التسعينات بأغاني إنتاج عمرو مصطفى."
+    "correctAnswer": 0,
+    "explanation_en": "J Balvin is a Colombian reggaeton superstar.",
+    "explanation_ar": "جي بالفين نجم ريجيتون كولومبي كبير."
   },
   {
     "id": "MUS-100-034",
@@ -995,29 +599,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US band's \"Bohemian Rhapsody\" (1975) was unusual for combining ballad, opera, and hard rock sections in one six-minute song?",
-    "question_ar": "أغنية \"Bohemian Rhapsody\" (1975) لأنهي فرقة كانت غريبة لأنها جمعت بالاد وأوبرا وهارد روك في أغنية واحدة طولها 6 دقايق؟",
+    "question_en": "The word \"mahraganat\" literally translates from Arabic to which English word, reflecting the genre's street-party origins?",
+    "question_ar": "كلمة \"مهرجانات\" معناها الحرفي في الإنجليزي إيه، وده بيعكس أصل النوع من حفلات الشارع؟",
     "options": [
-      {
-        "en": "Yes",
-        "ar": "يس"
-      },
-      {
-        "en": "Genesis",
-        "ar": "جينيسيس"
-      },
-      {
-        "en": "Queen",
-        "ar": "كوين"
-      },
-      {
-        "en": "10cc",
-        "ar": "تن سي سي"
-      }
+      { "en": "Festivals", "ar": "مهرجانات/احتفالات" },
+      { "en": "Private parties", "ar": "حفلات خاصة" },
+      { "en": "Weddings", "ar": "أفراح" },
+      { "en": "Concerts", "ar": "حفلات موسيقية" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Queen's \"Bohemian Rhapsody\" famously blends multiple musical styles in one song.",
-    "explanation_ar": "أغنية \"Bohemian Rhapsody\" لكوين مشهورة بمزجها لأساليب موسيقية مختلفة في أغنية واحدة."
+    "correctAnswer": 0,
+    "explanation_en": "\"Mahraganat\" literally means \"festivals\" in Arabic.",
+    "explanation_ar": "\"مهرجانات\" معناها الحرفي \"festivals\" بالإنجليزي."
   },
   {
     "id": "MUS-100-035",
@@ -1025,29 +617,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian oud virtuoso and composer, a longtime accompanist of Umm Kulthum's orchestra, was also renowned as a solo instrumentalist?",
-    "question_ar": "أنهي عازف عود مصري بارع وملحن، كان من عازفي أوركسترا أم كلثوم لفترة طويلة واشتهر كعازف منفرد كمان؟",
+    "question_en": "Rauw Alejandro's 2022 album \"Saturno\" was notable for its heavy use of which retro musical aesthetic?",
+    "question_ar": "ألبوم راو أليخاندرو \"Saturno\" سنة 2022 اتميز باستخدامه الكبير لأنهي أسلوب موسيقي قديم؟",
     "options": [
-      {
-        "en": "Farid El Atrache",
-        "ar": "فريد الأطرش"
-      },
-      {
-        "en": "Mohamed Abdel Wahab",
-        "ar": "محمد عبد الوهاب"
-      },
-      {
-        "en": "Riad El Sonbati",
-        "ar": "رياض السنباطي"
-      },
-      {
-        "en": "Ahmed Fouad Hassan",
-        "ar": "أحمد فؤاد حسن"
-      }
+      { "en": "80s synth-pop/futurism", "ar": "سينث بوب الثمانينات/فيوتشريزم" },
+      { "en": "1950s doo-wop", "ar": "دو-وب الخمسينات" },
+      { "en": "Baroque classical", "ar": "باروك كلاسيكي" },
+      { "en": "Bluegrass", "ar": "بلوجراس" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Riad El Sonbati was both a renowned oud player and Umm Kulthum's longtime composer.",
-    "explanation_ar": "رياض السنباطي كان عازف عود بارع وملحن أم كلثوم لفترة طويلة."
+    "correctAnswer": 0,
+    "explanation_en": "\"Saturno\" drew on 80s synth-pop and futuristic aesthetics.",
+    "explanation_ar": "\"Saturno\" استوحى من أسلوب السينث بوب والفيوتشريزم بتاع الثمانينات."
   },
   {
     "id": "MUS-100-036",
@@ -1055,29 +635,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US female singer's 2003 duet with her mentor became controversial media coverage, and she's known for \"Genie in a Bottle\" and vocal power?",
-    "question_ar": "أنهي مطربة أمريكية معروفة بأغنية \"Genie in a Bottle\" وبقدرتها الصوتية الكبيرة؟",
+    "question_en": "Wizkid's 2020 album \"Made in Lagos\" pays tribute to which Nigerian city, also his hometown?",
+    "question_ar": "ألبوم ويزكيد \"Made in Lagos\" سنة 2020 بيحتفي بأنهي مدينة نيجيرية، وهي كمان مسقط رأسه؟",
     "options": [
-      {
-        "en": "Jessica Simpson",
-        "ar": "جيسيكا سيمبسون"
-      },
-      {
-        "en": "Christina Aguilera",
-        "ar": "كريستينا أغيليرا"
-      },
-      {
-        "en": "Mandy Moore",
-        "ar": "ماندي مور"
-      },
-      {
-        "en": "Britney Spears",
-        "ar": "بريتني سبيرز"
-      }
+      { "en": "Lagos", "ar": "لاجوس" },
+      { "en": "Abuja", "ar": "أبوجا" },
+      { "en": "Ibadan", "ar": "إيبادان" },
+      { "en": "Port Harcourt", "ar": "بورت هاركورت" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Christina Aguilera is known for \"Genie in a Bottle\" and her powerful vocals.",
-    "explanation_ar": "كريستينا أغيليرا معروفة بأغنية \"Genie in a Bottle\" وقدرتها الصوتية."
+    "correctAnswer": 0,
+    "explanation_en": "\"Made in Lagos\" pays homage to Lagos, Wizkid's hometown.",
+    "explanation_ar": "\"Made in Lagos\" بتحتفي بمدينة لاجوس، مسقط رأس ويزكيد."
   },
   {
     "id": "MUS-100-037",
@@ -1088,22 +656,10 @@
     "question_en": "Which veteran Egyptian singer, famous for romantic ballads since the 1970s, currently serves as the head of Egypt's Musicians Syndicate?",
     "question_ar": "أنهي مطرب مصري قديم، مشهور بالأغاني الرومانسية من السبعينات، بيشغل حاليًا منصب نقيب المهن الموسيقية في مصر؟",
     "options": [
-      {
-        "en": "Hany Shaker",
-        "ar": "هاني شاكر"
-      },
-      {
-        "en": "Medhat Saleh",
-        "ar": "مدحت صالح"
-      },
-      {
-        "en": "Mohamed Fouad",
-        "ar": "محمد فؤاد"
-      },
-      {
-        "en": "Ali El Haggar",
-        "ar": "علي الحجار"
-      }
+      { "en": "Hany Shaker", "ar": "هاني شاكر" },
+      { "en": "Medhat Saleh", "ar": "مدحت صالح" },
+      { "en": "Mohamed Fouad", "ar": "محمد فؤاد" },
+      { "en": "Ali El Haggar", "ar": "علي الحجار" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Hany Shaker, a veteran romantic singer, has headed Egypt's Musicians Syndicate.",
@@ -1115,29 +671,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US artist's 2009 death, ruled caused by propofol administered by his physician, ended one of pop music's most legendary careers?",
-    "question_ar": "وفاة أنهي فنان أمريكي سنة 2009، بسبب مادة بروبوفول أداها طبيبه الخاص، أنهت واحدة من أعظم المسيرات الفنية في تاريخ البوب؟",
+    "question_en": "\"Sama'i\" is a term in Arabic/Ottoman classical music referring to a specific instrumental ___?",
+    "question_ar": "\"سماعي\" مصطلح في الموسيقى العربية/العثمانية الكلاسيكية بيشير لأنهي حاجة موسيقية آلاتية؟",
     "options": [
-      {
-        "en": "Michael Jackson",
-        "ar": "مايكل جاكسون"
-      },
-      {
-        "en": "George Michael",
-        "ar": "جورج مايكل"
-      },
-      {
-        "en": "Whitney Houston",
-        "ar": "ويتني هيوستن"
-      },
-      {
-        "en": "Prince",
-        "ar": "برنس"
-      }
+      { "en": "Rhythmic musical form/composition", "ar": "شكل/تأليف إيقاعي" },
+      { "en": "Vocal improvisation", "ar": "ارتجال غنائي" },
+      { "en": "Percussion instrument", "ar": "آلة إيقاعية" },
+      { "en": "Singing competition", "ar": "مسابقة غناء" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Michael Jackson died in 2009 from acute propofol intoxication administered by his physician.",
-    "explanation_ar": "مايكل جاكسون توفي سنة 2009 بسبب جرعة بروبوفول أداها طبيبه الخاص."
+    "explanation_en": "A sama'i is a traditional instrumental musical form/composition.",
+    "explanation_ar": "السماعي شكل موسيقي آلاتي تقليدي (تأليف)."
   },
   {
     "id": "MUS-100-039",
@@ -1145,29 +689,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian singer, known for a powerful, distinctive voice and 1960s hits composed by Baligh Hamdi, was often paired with him as a key interpreter of his early melodies?",
-    "question_ar": "أنهي مطربة مصرية، بصوت قوي مميز، غنت أغاني كتير في الستينات من تلحين بليغ حمدي وكانت من أهم مؤديات ألحانه الأولى؟",
+    "question_en": "Central Cee's 2023 collaborative track with Dave, titled \"Sprinter\", broke UK chart records by doing what?",
+    "question_ar": "أغنية سنترال سي مع ديف \"Sprinter\" سنة 2023 كسرت أرقام قياسية في تشارت بريطانيا بإنها عملت إيه؟",
     "options": [
-      {
-        "en": "Shadia",
-        "ar": "شادية"
-      },
-      {
-        "en": "Fayza Ahmed",
-        "ar": "فايزة أحمد"
-      },
-      {
-        "en": "Warda",
-        "ar": "وردة"
-      },
-      {
-        "en": "Naima Akef",
-        "ar": "نعيمة عاكف"
-      }
+      { "en": "Debuted at #1 on the UK Singles Chart", "ar": "دخلت رقم 1 في تشارت السينجلز البريطاني من أول أسبوع" },
+      { "en": "Stayed #1 for a full year", "ar": "فضلت رقم 1 سنة كاملة" },
+      { "en": "Became the best-selling vinyl ever", "ar": "بقت أكتر فينيل مبيعًا" },
+      { "en": "Won a Grammy", "ar": "ياخد جرامي" }
     ],
-    "correctAnswer": 1,
-    "explanation_en": "Fayza Ahmed was known for her powerful voice and was a key early interpreter of Baligh Hamdi's compositions.",
-    "explanation_ar": "فايزة أحمد اشتهرت بصوتها القوي وكانت من أهم مؤديات ألحان بليغ حمدي الأولى."
+    "correctAnswer": 0,
+    "explanation_en": "\"Sprinter\" debuted at number one on the UK Singles Chart in 2023.",
+    "explanation_ar": "\"Sprinter\" دخلت تشارت السينجلز البريطاني في المركز الأول من أول أسبوع سنة 2023."
   },
   {
     "id": "MUS-100-040",
@@ -1178,22 +710,10 @@
     "question_en": "Which term describes the traditional rhythmic cycle patterns (like maqsoum or saidi) used in Arabic percussion music?",
     "question_ar": "بيتقال إيه على الأنماط الإيقاعية التقليدية زي المقسوم والصعيدي في الموسيقى العربية الإيقاعية؟",
     "options": [
-      {
-        "en": "Iqa",
-        "ar": "إيقاع"
-      },
-      {
-        "en": "Tarab",
-        "ar": "طرب"
-      },
-      {
-        "en": "Zajal",
-        "ar": "زجل"
-      },
-      {
-        "en": "Maqam",
-        "ar": "مقام"
-      }
+      { "en": "Iqa", "ar": "إيقاع" },
+      { "en": "Tarab", "ar": "طرب" },
+      { "en": "Zajal", "ar": "زجل" },
+      { "en": "Maqam", "ar": "مقام" }
     ],
     "correctAnswer": 0,
     "explanation_en": "These traditional rhythmic patterns are called \"iqa\" in Arabic music theory.",
@@ -1205,29 +725,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US rock band, formed in Seattle, released the seminal grunge album \"Ten\" in 1991, fronted by Eddie Vedder?",
-    "question_ar": "أنهي فرقة روك، اتأسست في سياتل، طرحت ألبوم الجرانج المهم \"Ten\" سنة 1991 بقيادة إيدي فيدر؟",
+    "question_en": "Which small Arabic percussion instrument, a tambourine with metal cymbals, is often used in classical takht ensembles?",
+    "question_ar": "أنهي آلة إيقاعية عربية صغيرة، عبارة عن دف بيه صنوج معدنية، بتتستخدم كتير في فرق التخت الكلاسيكية؟",
     "options": [
-      {
-        "en": "Soundgarden",
-        "ar": "ساوندجاردن"
-      },
-      {
-        "en": "Stone Temple Pilots",
-        "ar": "ستون تمبل بايلوتس"
-      },
-      {
-        "en": "Nirvana",
-        "ar": "نيرفانا"
-      },
-      {
-        "en": "Pearl Jam",
-        "ar": "بيرل جام"
-      }
+      { "en": "Riq", "ar": "رق" },
+      { "en": "Darbuka", "ar": "دربوكة" },
+      { "en": "Mizmar", "ar": "مزمار" },
+      { "en": "Rababa", "ar": "ربابة" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Pearl Jam, fronted by Eddie Vedder, released \"Ten\" in 1991.",
-    "explanation_ar": "فرقة بيرل جام، بقيادة إيدي فيدر، طرحت ألبوم \"Ten\" سنة 1991."
+    "correctAnswer": 0,
+    "explanation_en": "The riq is a small tambourine with cymbals used in classical Arabic ensembles.",
+    "explanation_ar": "الرق دف صغير بيه صنوج بيتستخدم في فرق الموسيقى العربية الكلاسيكية."
   },
   {
     "id": "MUS-100-042",
@@ -1235,29 +743,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian singer, famous for songs like \"Khalik Fel Bait\", was one of the biggest voices of Egyptian pop in the 1990s alongside Amr Diab and Hisham Abbas?",
-    "question_ar": "أنهي مطرب مصري، معروف بأغاني زي \"خليك في البيت\"، كان من أكبر أصوات البوب المصري في التسعينات جنب عمرو دياب وهشام عباس؟",
+    "question_en": "BTS's 2020 song \"Dynamite\" was significant for being their first song performed almost entirely in which language?",
+    "question_ar": "أغنية BTS \"Dynamite\" سنة 2020 كانت مهمة لأنها كانت أول أغنية ليهم بالكامل تقريبًا بأنهي لغة؟",
     "options": [
-      {
-        "en": "Mostafa Amar",
-        "ar": "مصطفى قمر"
-      },
-      {
-        "en": "Amr Mostafa",
-        "ar": "عمرو مصطفى"
-      },
-      {
-        "en": "Medhat Saleh",
-        "ar": "مدحت صالح"
-      },
-      {
-        "en": "Hisham Gamal",
-        "ar": "هشام جمال"
-      }
+      { "en": "English", "ar": "الإنجليزية" },
+      { "en": "Korean", "ar": "الكورية" },
+      { "en": "Japanese", "ar": "اليابانية" },
+      { "en": "Spanish", "ar": "الإسبانية" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Mostafa Amar was one of the leading Egyptian pop voices of the 1990s.",
-    "explanation_ar": "مصطفى قمر كان من أكبر أصوات البوب المصري في التسعينات."
+    "explanation_en": "\"Dynamite\" was BTS's first all-English single.",
+    "explanation_ar": "\"Dynamite\" كانت أول سينجل بالكامل بالإنجليزي لـ BTS."
   },
   {
     "id": "MUS-100-043",
@@ -1265,29 +761,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US singer's 1998 album \"...Baby One More Time\" launched a career that made her a defining pop icon of the late 1990s/early 2000s?",
-    "question_ar": "ألبوم أنهي مطربة أمريكية سنة 1998 \"...Baby One More Time\" بدأ مشوارها كأيقونة بوب أواخر التسعينات وبداية الألفينات؟",
+    "question_en": "\"Zajal\" is a traditional form of vernacular Arabic poetry often performed in an improvised, rhythmic ___?",
+    "question_ar": "\"الزجل\" شكل تقليدي من الشعر العامي العربي غالبًا بيتقال بأسلوب ___ مرتجل وإيقاعي؟",
     "options": [
-      {
-        "en": "Christina Aguilera",
-        "ar": "كريستينا أغيليرا"
-      },
-      {
-        "en": "Mandy Moore",
-        "ar": "ماندي مور"
-      },
-      {
-        "en": "Jessica Simpson",
-        "ar": "جيسيكا سيمبسون"
-      },
-      {
-        "en": "Britney Spears",
-        "ar": "بريتني سبيرز"
-      }
+      { "en": "Call-and-response verse", "ar": "رد وجواب شعري" },
+      { "en": "Orchestral symphony", "ar": "سيمفونية أوركسترالية" },
+      { "en": "Operatic aria", "ar": "آريا أوبرالية" },
+      { "en": "Electronic beat drops", "ar": "دروبات إلكترونية" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Britney Spears' debut album \"...Baby One More Time\" (1998) launched her superstardom.",
-    "explanation_ar": "ألبوم بريتني سبيرز الأول \"...Baby One More Time\" (1998) بدأ نجوميتها الكبيرة."
+    "correctAnswer": 0,
+    "explanation_en": "Zajal is vernacular Arabic poetry often performed in improvised, rhythmic call-and-response style.",
+    "explanation_ar": "الزجل شعر عامي عربي غالبًا بيتقال بأسلوب رد وجواب مرتجل وإيقاعي."
   },
   {
     "id": "MUS-100-044",
@@ -1298,22 +782,10 @@
     "question_en": "Which Egyptian composer, brother of a famous actress, wrote music blending jazz and Arabic music, and led the band \"Sharkiat\"?",
     "question_ar": "أنهي ملحن مصري، أخو ممثلة مشهورة، لحن موسيقى بتمزج الجاز بالعربي وأسس فرقة \"شرقيات\"؟",
     "options": [
-      {
-        "en": "Fathy Salama",
-        "ar": "فتحي سلامة"
-      },
-      {
-        "en": "Rageh Daoud",
-        "ar": "راجح داود"
-      },
-      {
-        "en": "Yehia Khalil",
-        "ar": "يحيى خليل"
-      },
-      {
-        "en": "Helmy Bakr",
-        "ar": "حلمي بكر"
-      }
+      { "en": "Fathy Salama", "ar": "فتحي سلامة" },
+      { "en": "Rageh Daoud", "ar": "راجح داود" },
+      { "en": "Yehia Khalil", "ar": "يحيى خليل" },
+      { "en": "Helmy Bakr", "ar": "حلمي بكر" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Fathy Salama, a Grammy-winning composer, founded the band Sharkiat blending jazz and Arabic influences.",
@@ -1325,29 +797,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US band's 1969 performance at Woodstock, including a solo rendition of \"The Star-Spangled Banner\", became legendary?",
-    "question_ar": "أداء أنهي فنان أمريكي في مهرجان وودستوك 1969، وفيه عزف منفرد للنشيد الأمريكي، بقى أسطوريًا؟",
+    "question_en": "Feid's hit series named after his nickname \"Ferxxo\" showcases his blend of reggaeton with which style?",
+    "question_ar": "سلسلة أغاني فيد المسماة على لقبه \"فيركسو\" بتوضح مزجه للريجيتون بأنهي أسلوب؟",
     "options": [
-      {
-        "en": "The Who",
-        "ar": "ذا هو"
-      },
-      {
-        "en": "Santana",
-        "ar": "سانتانا"
-      },
-      {
-        "en": "Janis Joplin",
-        "ar": "جانيس جوبلين"
-      },
-      {
-        "en": "Jimi Hendrix",
-        "ar": "جيمي هيندريكس"
-      }
+      { "en": "Trap", "ar": "تراب" },
+      { "en": "Salsa", "ar": "سالسا" },
+      { "en": "Bachata", "ar": "باتشاتا" },
+      { "en": "Cumbia", "ar": "كومبيا" }
     ],
-    "correctAnswer": 3,
-    "explanation_en": "Jimi Hendrix's Woodstock 1969 rendition of \"The Star-Spangled Banner\" is legendary.",
-    "explanation_ar": "عزف جيمي هيندريكس للنشيد الأمريكي في وودستوك 1969 بقى أسطوريًا."
+    "correctAnswer": 0,
+    "explanation_en": "Feid blends reggaeton with trap influences in his \"Ferxxo\" series.",
+    "explanation_ar": "فيد بيمزج الريجيتون بتأثيرات التراب في سلسلة \"فيركسو\"."
   },
   {
     "id": "MUS-100-046",
@@ -1358,22 +818,10 @@
     "question_en": "Which Egyptian singer, known for a gravelly, powerful voice and hits like \"Habibi Wala Ala Baly\", rose to fame through Egyptian cinema in the 1950s-60s?",
     "question_ar": "أنهي مطرب مصري، بصوته القوي الخشن وأغاني زي \"حبيبي ولا على بالي\"، اشتهر عن طريق السينما المصرية في الخمسينات والستينات؟",
     "options": [
-      {
-        "en": "Karem Mahmoud",
-        "ar": "كارم محمود"
-      },
-      {
-        "en": "Abdel Aziz Mahmoud",
-        "ar": "عبد العزيز محمود"
-      },
-      {
-        "en": "Mohamed Fawzi",
-        "ar": "محمد فوزي"
-      },
-      {
-        "en": "Mohamed Kandil",
-        "ar": "محمد قنديل"
-      }
+      { "en": "Karem Mahmoud", "ar": "كارم محمود" },
+      { "en": "Abdel Aziz Mahmoud", "ar": "عبد العزيز محمود" },
+      { "en": "Mohamed Fawzi", "ar": "محمد فوزي" },
+      { "en": "Mohamed Kandil", "ar": "محمد قنديل" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Karem Mahmoud was a prominent singer and film star of that era known for his rich voice.",
@@ -1385,29 +833,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US rapper's 1996 murder in Las Vegas remains one of hip-hop's most notorious unsolved cases for decades?",
-    "question_ar": "مقتل أنهي رابر أمريكي في لاس فيجاس سنة 1996 فضل من أشهر قضايا الهيب هوب الغامضة لعقود؟",
+    "question_en": "Before her music breakthrough, Sabrina Carpenter starred as an actress on which Disney Channel show?",
+    "question_ar": "قبل نجاحها الغنائي، سابرينا كاربنتر مثلت كممثلة في أنهي مسلسل ديزني تشانل؟",
     "options": [
-      {
-        "en": "Big L",
-        "ar": "بيج إل"
-      },
-      {
-        "en": "Proof (D12)",
-        "ar": "بروف (دي 12)"
-      },
-      {
-        "en": "Tupac Shakur",
-        "ar": "توباك شاكور"
-      },
-      {
-        "en": "The Notorious B.I.G.",
-        "ar": "ذا نوتوريوس بي آي جي"
-      }
+      { "en": "Girl Meets World", "ar": "جيرل ميتس وورلد" },
+      { "en": "Jessie", "ar": "جيسي" },
+      { "en": "Austin & Ally", "ar": "أوستن آند آلي" },
+      { "en": "Liv and Maddie", "ar": "ليف آند مادي" }
     ],
-    "correctAnswer": 2,
-    "explanation_en": "Tupac Shakur was murdered in Las Vegas in 1996 in a case that remained officially unsolved for decades.",
-    "explanation_ar": "توباك شاكور اتقتل في لاس فيجاس سنة 1996 وفضلت القضية غامضة رسميًا لعقود."
+    "correctAnswer": 0,
+    "explanation_en": "Sabrina Carpenter starred in Disney Channel's \"Girl Meets World\".",
+    "explanation_ar": "سابرينا كاربنتر مثلت في مسلسل \"Girl Meets World\" بتاع ديزني تشانل."
   },
   {
     "id": "MUS-100-048",
@@ -1415,29 +851,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Egyptian singer's voice is featured on the widely loved children's/patriotic song \"Baba Fen\" alongside a career of romantic hits?",
-    "question_ar": "أنهي مطرب مصري صوته موجود في أغنية شهيرة ومحبوبة للأطفال جنب مشوار حافل بالأغاني الرومانسية؟",
+    "question_en": "A \"qasida\" in Arabic musical tradition refers to a classical poem set to music, typically written in which form of Arabic?",
+    "question_ar": "\"القصيدة\" في التراث الموسيقي العربي بتشير لقصيدة كلاسيكية بتتلحن، وغالبًا بتتكتب بأنهي شكل من العربي؟",
     "options": [
-      {
-        "en": "Medhat Saleh",
-        "ar": "مدحت صالح"
-      },
-      {
-        "en": "Ehab Tawfik",
-        "ar": "إيهاب توفيق"
-      },
-      {
-        "en": "Mohamed Fouad",
-        "ar": "محمد فؤاد"
-      },
-      {
-        "en": "Hany Shaker",
-        "ar": "هاني شاكر"
-      }
+      { "en": "Classical Fusha (formal Arabic)", "ar": "الفصحى الكلاسيكية" },
+      { "en": "Egyptian colloquial only", "ar": "العامية المصرية بس" },
+      { "en": "Andalusian Spanish", "ar": "الإسبانية الأندلسية" },
+      { "en": "Ottoman Turkish", "ar": "التركية العثمانية" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Medhat Saleh is known for the beloved song \"Baba Fen\" in addition to his romantic repertoire.",
-    "explanation_ar": "مدحت صالح معروف بأغنية \"بابا فين\" المحبوبة بجانب مشواره في الأغاني الرومانسية."
+    "explanation_en": "A qasida is typically a classical poem in formal (fusha) Arabic set to music.",
+    "explanation_ar": "القصيدة عادة قصيدة كلاسيكية بالفصحى بتتلحن وتتغنى."
   },
   {
     "id": "MUS-100-049",
@@ -1445,29 +869,17 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which US artist's 1985 charity single \"We Are the World\" (co-written with Lionel Richie) raised funds for famine relief in Africa?",
-    "question_ar": "أنهي فنان أمريكي شارك في كتابة أغنية \"We Are the World\" الخيرية سنة 1985 مع ليونيل ريتشي لجمع تبرعات للمجاعة في أفريقيا؟",
+    "question_en": "SZA's 2022 album \"SOS\" set a Billboard record for a woman by having an unprecedented number of songs debut simultaneously in the top 10 of which chart?",
+    "question_ar": "ألبوم SZA \"SOS\" سنة 2022 كسر رقم قياسي لمطربة بعدد أغاني دخلت مع بعض تصدر أنهي تشارت؟",
     "options": [
-      {
-        "en": "Michael Jackson",
-        "ar": "مايكل جاكسون"
-      },
-      {
-        "en": "Quincy Jones",
-        "ar": "كوينسي جونز"
-      },
-      {
-        "en": "Stevie Wonder",
-        "ar": "ستيفي وندر"
-      },
-      {
-        "en": "Prince",
-        "ar": "برنس"
-      }
+      { "en": "Billboard Hot 100", "ar": "بيلبورد هوت 100" },
+      { "en": "UK Singles Chart", "ar": "تشارت السينجلز البريطاني" },
+      { "en": "Billboard 200 Albums", "ar": "بيلبورد 200 ألبومات" },
+      { "en": "Spotify Global 50", "ar": "سبوتيفاي جلوبال 50" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Michael Jackson co-wrote \"We Are the World\" with Lionel Richie in 1985.",
-    "explanation_ar": "مايكل جاكسون شارك في كتابة \"We Are the World\" مع ليونيل ريتشي سنة 1985."
+    "explanation_en": "\"SOS\" set a record for a woman with multiple simultaneous top-10 Hot 100 debuts.",
+    "explanation_ar": "\"SOS\" كسر رقم قياسي لمطربة بعدد أغاني دخلت مع بعض في أعلى 10 بتشارت الهوت 100."
   },
   {
     "id": "MUS-100-050",
@@ -1478,22 +890,10 @@
     "question_en": "Which Lebanese-Egyptian composer/oud player, long a key arranger in Fairuz's and other Arab stars' orchestras, is known for blending jazz harmonies into Arabic music?",
     "question_ar": "أنهي ملحن/عازف عود لبناني اشتهر بمزج هارمونيات الجاز في الموسيقى العربية وشارك في توزيع أعمال فيروز ونجوم عرب؟",
     "options": [
-      {
-        "en": "Ziad Rahbani",
-        "ar": "زياد رحباني"
-      },
-      {
-        "en": "Toufic Farroukh",
-        "ar": "توفيق فروخ"
-      },
-      {
-        "en": "Marcel Khalife",
-        "ar": "مارسيل خليفة"
-      },
-      {
-        "en": "Issam Rafea",
-        "ar": "عصام رافع"
-      }
+      { "en": "Ziad Rahbani", "ar": "زياد رحباني" },
+      { "en": "Toufic Farroukh", "ar": "توفيق فروخ" },
+      { "en": "Marcel Khalife", "ar": "مارسيل خليفة" },
+      { "en": "Issam Rafea", "ar": "عصام رافع" }
     ],
     "correctAnswer": 0,
     "explanation_en": "Ziad Rahbani, Fairuz's son, is celebrated for blending jazz harmonies with Arabic music in his compositions.",
