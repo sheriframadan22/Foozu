@@ -599,17 +599,17 @@
     "category_ar": "افلام",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Amr Youssef stars in \"Hepta: The Last Lecture\" (2016), based on a novel by which author?",
-    "question_ar": "عمرو يوسف بطل فيلم \"هيبتا: الحب في سبع محطات\" سنة 2016، مأخوذ عن رواية لمين؟",
+    "question_en": "Amr Youssef stars in \"Hepta: The Last Lecture\" (2016), based on a bestselling novel by which author?",
+    "question_ar": "عمرو يوسف بطل فيلم \"هيبتا: الحب في سبع محطات\" سنة 2016، مأخوذ عن رواية بيست سيلر لمين؟",
     "options": [
-      { "en": "Ahmed Khaled Tawfik", "ar": "أحمد خالد توفيق" },
+      { "en": "Mohamed Sadek", "ar": "محمد صادق" },
       { "en": "Ahmed Mourad", "ar": "أحمد مراد" },
       { "en": "Alaa Al Aswany", "ar": "علاء الأسواني" },
       { "en": "Youssef Ziedan", "ar": "يوسف زيدان" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"Hepta\" is based on the novel by Ahmed Khaled Tawfik.",
-    "explanation_ar": "فيلم هيبتا مأخوذ عن رواية أحمد خالد توفيق."
+    "explanation_en": "\"Hepta\" is based on the bestselling novel by psychologist Mohamed Sadek.",
+    "explanation_ar": "فيلم هيبتا مأخوذ عن رواية بيست سيلر للدكتور محمد صادق."
   },
   {
     "id": "MOV-050-035",
@@ -707,17 +707,17 @@
     "category_ar": "افلام",
     "value": 50,
     "difficulty": 3,
-    "question_en": "Who directed \"El Maslaha\" (2012), starring Ahmed El Sakka and Amr Saad?",
-    "question_ar": "مين اللي أخرج فيلم \"المصلحة\" سنة 2012 بطولة أحمد السقا وعمرو سعد؟",
+    "question_en": "Who directed \"El Maslaha\" (2012), starring Ahmed El Sakka and Ahmed Ezz?",
+    "question_ar": "مين اللي أخرج فيلم \"المصلحة\" سنة 2012 بطولة أحمد السقا وأحمد عز؟",
     "options": [
-      { "en": "Sameh Abdel Aziz", "ar": "سامح عبدالعزيز" },
+      { "en": "Sandra Nashaat", "ar": "ساندرا نشأت" },
       { "en": "Sherif Arafa", "ar": "شريف عرفة" },
       { "en": "Marwan Hamed", "ar": "مروان حامد" },
       { "en": "Tarek El Eryan", "ar": "طارق العريان" }
     ],
     "correctAnswer": 0,
-    "explanation_en": "Sameh Abdel Aziz directed \"El Maslaha\" (2012).",
-    "explanation_ar": "سامح عبدالعزيز أخرج فيلم المصلحة سنة 2012."
+    "explanation_en": "Sandra Nashaat directed \"El Maslaha\" (2012).",
+    "explanation_ar": "ساندرا نشأت أخرجت فيلم المصلحة سنة 2012."
   },
   {
     "id": "MOV-050-041",
