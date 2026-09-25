@@ -50,10 +50,6 @@ export default function GamePage() {
     setState((s) => engine.selectCategory(s, category));
   };
 
-  const handleAnswerTap = (index: 0 | 1 | 2 | 3) => {
-    setState((s) => engine.recordAnswer(s, index));
-  };
-
   const handleReveal = () => {
     setState((s) => engine.reveal(s));
   };
@@ -122,9 +118,6 @@ export default function GamePage() {
                 <>
                   <QuestionCard
                     question={state.currentQuestion}
-                    selectedIndex={state.selectedAnswerIndex}
-                    revealed={state.phase === 'reveal'}
-                    onSelect={handleAnswerTap}
                     onTimeExpire={handleTimeExpire}
                     timerActive={state.phase === 'question' && !state.timeUp}
                   />
@@ -139,12 +132,7 @@ export default function GamePage() {
                     </div>
                   )}
                   {state.phase === 'reveal' && !state.timeUp && (
-                    <RevealPanel
-                      question={state.currentQuestion}
-                      selectedIndex={state.selectedAnswerIndex}
-                      onCorrect={handleCorrect}
-                      onWrong={handleWrong}
-                    />
+                    <RevealPanel question={state.currentQuestion} onCorrect={handleCorrect} onWrong={handleWrong} />
                   )}
                   {state.phase === 'reveal' && state.timeUp && (
                     <div className="max-w-3xl mx-auto mt-6 text-center animate-popIn">

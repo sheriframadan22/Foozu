@@ -2,22 +2,21 @@ import type { PreparedQuestion } from '@/types/question';
 
 interface Props {
   question: PreparedQuestion;
-  selectedIndex?: number;
   onCorrect: () => void;
   onWrong: () => void;
 }
 
-const LETTERS = ['A', 'B', 'C', 'D'];
-
-/** Shown once the usher has hit REVEAL ANSWER — offers the final CORRECT / WRONG call. */
-export default function RevealPanel({ question, selectedIndex, onCorrect, onWrong }: Props) {
+/**
+ * Shown once the usher has hit REVEAL ANSWER. The contestant answers verbally (this is
+ * not a multiple-choice game), so this just shows the correct answer and lets the usher
+ * judge what the contestant said against it.
+ */
+export default function RevealPanel({ question, onCorrect, onWrong }: Props) {
   const correctOpt = question.options[question.correctAnswer];
   return (
     <div className="animate-popIn mt-6 sm:mt-8 max-w-3xl mx-auto bg-black/30 border border-white/10 rounded-xl2 p-5 sm:p-6 text-center">
       <div className="text-xs uppercase tracking-widest text-white/50 mb-1">Correct Answer</div>
-      <div className="font-display font-extrabold text-xl sm:text-2xl text-green-400">
-        {LETTERS[question.correctAnswer]}. {correctOpt.en}
-      </div>
+      <div className="font-display font-extrabold text-xl sm:text-2xl text-green-400">{correctOpt.en}</div>
       <div dir="rtl" className="font-arabic text-white/70 mt-1">{correctOpt.ar}</div>
 
       {question.explanation_en && (
@@ -27,9 +26,7 @@ export default function RevealPanel({ question, selectedIndex, onCorrect, onWron
         </p>
       )}
 
-      {selectedIndex === undefined && (
-        <p className="text-sm text-foozu-yellow mt-3">No answer was recorded — usher, confirm the outcome below.</p>
-      )}
+      <p className="text-sm text-foozu-yellow mt-3">Usher: did the contestant say this?</p>
 
       <div className="flex gap-4 justify-center mt-5">
         <button

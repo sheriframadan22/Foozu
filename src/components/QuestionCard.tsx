@@ -1,17 +1,17 @@
 import type { PreparedQuestion } from '@/types/question';
-import AnswerOptions from './AnswerOptions';
 import Timer from './Timer';
 
 interface Props {
   question: PreparedQuestion;
-  selectedIndex?: number;
-  revealed: boolean;
-  onSelect: (index: 0 | 1 | 2 | 3) => void;
   onTimeExpire: () => void;
   timerActive: boolean;
 }
 
-export default function QuestionCard({ question, selectedIndex, revealed, onSelect, onTimeExpire, timerActive }: Props) {
+/**
+ * The contestant answers verbally — no options are ever shown on screen. The usher
+ * listens, then taps REVEAL ANSWER (see RevealPanel) to check the answer and call it.
+ */
+export default function QuestionCard({ question, onTimeExpire, timerActive }: Props) {
   return (
     <div className="animate-slideUp bg-white/6 backdrop-blur border border-white/10 rounded-xl2 shadow-card p-5 sm:p-8 w-full max-w-3xl mx-auto">
       <div className="flex items-start justify-between gap-4 mb-4 sm:mb-6">
@@ -22,21 +22,12 @@ export default function QuestionCard({ question, selectedIndex, revealed, onSele
         <Timer active={timerActive} onExpire={onTimeExpire} resetKey={question.id} />
       </div>
 
-      <div className="mb-6 sm:mb-8">
-        <p className="text-lg sm:text-2xl font-semibold leading-snug">{question.question_en}</p>
-        <p dir="rtl" className="font-arabic text-base sm:text-xl text-white/80 leading-snug mt-2">
+      <div>
+        <p className="text-xl sm:text-3xl font-semibold leading-snug">{question.question_en}</p>
+        <p dir="rtl" className="font-arabic text-lg sm:text-2xl text-white/80 leading-snug mt-3">
           {question.question_ar}
         </p>
       </div>
-
-      <AnswerOptions
-        options={question.options}
-        selectedIndex={selectedIndex}
-        correctIndex={revealed ? question.correctAnswer : undefined}
-        revealed={revealed}
-        disabled={revealed}
-        onSelect={onSelect}
-      />
     </div>
   );
 }
