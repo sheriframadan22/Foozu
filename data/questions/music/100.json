@@ -515,29 +515,29 @@
     "category_ar": "مزيكا",
     "value": 100,
     "difficulty": 4,
-    "question_en": "Which Lebanese composer duo wrote Fairuz's early hit \"Habaytak Bel Sayf\", blending folk Lebanese themes with modern orchestration?",
-    "question_ar": "أنهي ثنائي ملحنين لبنانيين لحنوا أغنية فيروز \"حبيتك بالصيف\" بمزيج من الفلكلور اللبناني والتوزيع الحديث؟",
+    "question_en": "Which veteran Lebanese singer, often called the \"Voice of Lebanon\", built a legendary folk-rooted career independent of Fairuz?",
+    "question_ar": "أنهي مطرب لبناني قديم، معروف بلقب \"صوت لبنان\"، بنى مشوار فلكلوري أسطوري بعيدًا عن فيروز؟",
     "options": [
       {
-        "en": "Assi and Mansour Rahbani",
-        "ar": "عاصي ومنصور رحباني"
+        "en": "Wadih El Safi",
+        "ar": "وديع الصافي"
       },
       {
-        "en": "Philemon Wehbe and Zaki Nassif",
-        "ar": "فيلمون وهبة وزكي ناصيف"
+        "en": "Sabah",
+        "ar": "صباح"
       },
       {
-        "en": "Elias Rahbani solo",
-        "ar": "إلياس رحباني منفردًا"
+        "en": "Melhem Barakat",
+        "ar": "ملحم بركات"
       },
       {
-        "en": "Wadih El Safi and Toufic Basha",
-        "ar": "وديع الصافي وتوفيق باشا"
+        "en": "Ragheb Alama",
+        "ar": "راغب علامة"
       }
     ],
     "correctAnswer": 0,
-    "explanation_en": "\"Habaytak Bel Sayf\" is one of the Rahbani Brothers' early hits for Fairuz.",
-    "explanation_ar": "\"حبيتك بالصيف\" من أوائل أغاني الأخوين رحباني لفيروز."
+    "explanation_en": "Wadih El Safi, nicknamed the \"Voice of Lebanon\", was a towering figure in Lebanese song, independent of Fairuz's circle.",
+    "explanation_ar": "وديع الصافي، ملقب بـ\"صوت لبنان\"، كان من أعمدة الغناء اللبناني، بعيدًا عن دائرة فيروز."
   },
   {
     "id": "MUS-100-019",
