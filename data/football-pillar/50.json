@@ -1,0 +1,905 @@
+[
+  {
+    "id": "FBP-050-001",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "At the 1934 World Cup, Egypt's only match ended in a 4-2 defeat to which European nation?",
+    "question_ar": "في كأس عالم 1934، مصر خسرت مباراتها الوحيدة 4-2 قدام أنهي منتخب أوروبي؟",
+    "options": [
+      {"en": "Austria", "ar": "النمسا"},
+      {"en": "Hungary", "ar": "هنجاريا"},
+      {"en": "Czechoslovakia", "ar": "تشيكوسلوفاكيا"},
+      {"en": "Italy", "ar": "إيطاليا"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Egypt lost 4-2 to Hungary in the first round of the 1934 World Cup, its only match that tournament.",
+    "explanation_ar": "مصر خسرت 4-2 قدام هنجاريا في الدور الأول لكأس عالم 1934، مباراتها الوحيدة في البطولة."
+  },
+  {
+    "id": "FBP-050-002",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Which Northern Irish winger, a European Cup winner with Manchester United in 1968, never played at a World Cup because his country failed to qualify?",
+    "question_ar": "أنهي جناح من أيرلندا الشمالية، فاز بكأس أوروبا مع مانشستر يونايتد 1968، معلعبش كأس عالم أبدًا لأن بلده معتأهلتش؟",
+    "options": [
+      {"en": "George Best", "ar": "جورج بيست"},
+      {"en": "Danny Blanchflower", "ar": "داني بلانشفلاور"},
+      {"en": "Pat Jennings", "ar": "بات جينينجز"},
+      {"en": "Derek Dougan", "ar": "ديريك دوجان"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "George Best is widely considered one of the greatest players never to appear at a World Cup.",
+    "explanation_ar": "جورج بيست بيتعتبر من أعظم اللاعبين اللي محصلوش يلعبوا كأس عالم أبدًا."
+  },
+  {
+    "id": "FBP-050-003",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Who won the first-ever World Cup Golden Boot in 1930, scoring 8 goals for Argentina?",
+    "question_ar": "مين فاز بأول حذاء دهبي في تاريخ كأس العالم سنة 1930، بتسجيله 8 أهداف للأرجنتين؟",
+    "options": [
+      {"en": "Guillermo Stabile", "ar": "جييرمو ستابيلي"},
+      {"en": "Pedro Cea", "ar": "بيدرو سيا"},
+      {"en": "Luis Monti", "ar": "لويس مونتي"},
+      {"en": "Hector Scarone", "ar": "هيكتور سكاروني"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Guillermo Stabile scored 8 goals for Argentina to become the first World Cup top scorer in 1930.",
+    "explanation_ar": "جييرمو ستابيلي سجل 8 أهداف للأرجنتين وبقى أول هداف في تاريخ كأس العالم سنة 1930."
+  },
+  {
+    "id": "FBP-050-004",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "This French defensive midfielder captained France to the 1998 World Cup, then became one of only three men to also win it as a head coach, in 2018. Who is he?",
+    "question_ar": "لاعب الوسط الدفاعي الفرنسي ده كان كابتن فرنسا في كأس عالم 1998، وبقى بعدين من أول 3 ناس يفوزوا بيها كمان كمدرب سنة 2018. مين هو؟",
+    "options": [
+      {"en": "Didier Deschamps", "ar": "ديدييه ديشامب"},
+      {"en": "Marcel Desailly", "ar": "مارسيل ديسايي"},
+      {"en": "Laurent Blanc", "ar": "لوران بلان"},
+      {"en": "Youri Djorkaeff", "ar": "يوري دوركايف"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Didier Deschamps captained France to the 1998 title and coached them to win it again in 2018.",
+    "explanation_ar": "ديدييه ديشامب كان كابتن فرنسا في بطولة 1998 ودرّبها بعدين للفوز بيها تاني سنة 2018."
+  },
+  {
+    "id": "FBP-050-005",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Which law number in football's official 'Laws of the Game' covers the offside rule?",
+    "question_ar": "التسلل مذكور في أنهي رقم قانون من قوانين الكورة الرسمية الـ17؟",
+    "options": [
+      {"en": "Law 9", "ar": "القانون 9"},
+      {"en": "Law 11", "ar": "القانون 11"},
+      {"en": "Law 14", "ar": "القانون 14"},
+      {"en": "Law 3", "ar": "القانون 3"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Offside is covered by Law 11 of the 17 official Laws of the Game.",
+    "explanation_ar": "التسلل مذكور في القانون رقم 11 من قوانين الكورة الـ17 الرسمية."
+  },
+  {
+    "id": "FBP-050-006",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Which Egyptian goalkeeper spent a long and successful club career with Switzerland's FC Sion?",
+    "question_ar": "أنهي جولكيبر مصري قضى مشوار طويل وناجح مع نادي سيون السويسري؟",
+    "options": [
+      {"en": "Essam El-Hadary", "ar": "عصام الحضري"},
+      {"en": "Ahmed Shobeir", "ar": "أحمد شوبير"},
+      {"en": "Mohamed Awad", "ar": "محمد عوض"},
+      {"en": "Mohamed Abou Gabal", "ar": "محمد أبو جبل"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Essam El-Hadary played for FC Sion in Switzerland for many years of his career.",
+    "explanation_ar": "عصام الحضري لعب لنادي سيون السويسري لسنين طويلة في مشواره."
+  },
+  {
+    "id": "FBP-050-007",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Which forward is famously credited with representing three different national teams over his career: Argentina, Colombia and Spain?",
+    "question_ar": "أنهي مهاجم اتسمى تاريخيًا إنه لعب لـ3 منتخبات مختلفة في مشواره: الأرجنتين وكولومبيا وإسبانيا؟",
+    "options": [
+      {"en": "Alfredo Di Stefano", "ar": "ألفريدو دي ستيفانو"},
+      {"en": "Ferenc Puskas", "ar": "فيرنس بوشكاش"},
+      {"en": "Omar Sivori", "ar": "عمر سيفوري"},
+      {"en": "Jose Santamaria", "ar": "خوسيه سانتاماريا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Alfredo Di Stefano is famously associated with Argentina, Colombia and Spain across his career.",
+    "explanation_ar": "ألفريدو دي ستيفانو معروف تاريخيًا بلعبه لـ3 منتخبات: الأرجنتين وكولومبيا وإسبانيا."
+  },
+  {
+    "id": "FBP-050-008",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Unlike every other World Cup, the 1950 tournament's winner was decided not by a single final but by a deciding match in a final group of how many teams?",
+    "question_ar": "على عكس كل نسخ كأس العالم التانية، نسخة 1950 اتحدد بطلها من غير نهائي رسمي، لكن من خلال مجموعة أخيرة فيها كام منتخب؟",
+    "options": [
+      {"en": "3 teams", "ar": "3 منتخبات"},
+      {"en": "4 teams", "ar": "4 منتخبات"},
+      {"en": "6 teams", "ar": "6 منتخبات"},
+      {"en": "2 teams", "ar": "منتخبين بس"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The 1950 World Cup was decided by a final round-robin group of four teams rather than a single final.",
+    "explanation_ar": "كأس عالم 1950 اتحدد بطلها من خلال مجموعة أخيرة من 4 منتخبات مش نهائي رسمي."
+  },
+  {
+    "id": "FBP-050-009",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "This Brazilian was part of the 1958 and 1962 World Cup-winning squads as a player, then coached Brazil to the title in 1970. Who is he?",
+    "question_ar": "اللاعب البرازيلي ده كان جزء من بطولتي كأس عالم 1958 و1962 كلاعب، ودرّب بعدين البرازيل وفاز بيها سنة 1970. مين هو؟",
+    "options": [
+      {"en": "Mario Zagallo", "ar": "ماريو زاجالو"},
+      {"en": "Vicente Feola", "ar": "فيسنتي فيولا"},
+      {"en": "Aymore Moreira", "ar": "أيموري موريرا"},
+      {"en": "Joao Saldanha", "ar": "جواو سالداناه"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mario Zagallo won the World Cup as a player in 1958/1962 and as head coach in 1970, a first in history.",
+    "explanation_ar": "ماريو زاجالو فاز بكأس العالم كلاعب سنة 1958 و1962، وكمدرب سنة 1970، سابقة في تاريخ البطولة."
+  },
+  {
+    "id": "FBP-050-010",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "FIFA's golden goal rule, which ended knockout matches instantly on the first goal in extra time, was abolished in which year?",
+    "question_ar": "قانون 'الهدف الدهبي'، اللي كان بينهي ماتشات الإقصاء فورًا بأول هدف في الوقت الإضافي، اتلغى سنة كام؟",
+    "options": [
+      {"en": "2002", "ar": "2002"},
+      {"en": "2004", "ar": "2004"},
+      {"en": "2010", "ar": "2010"},
+      {"en": "1998", "ar": "1998"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "IFAB abolished the golden goal rule in 2004.",
+    "explanation_ar": "الآيفاب لغى قانون الهدف الدهبي سنة 2004."
+  },
+  {
+    "id": "FBP-050-011",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Which twin brothers both played for Egypt and Al Ahly at the same time during the 1990s?",
+    "question_ar": "أنهي توأم لعب الاتنين مع بعض لمصر والأهلي في نفس الوقت خلال التسعينات؟",
+    "options": [
+      {"en": "Hossam and Ibrahim Hassan", "ar": "حسام وإبراهيم حسن"},
+      {"en": "Ahmed and Mahmoud Fathy", "ar": "أحمد ومحمود فتحي"},
+      {"en": "Gamal and Ihab Abdel Hamid", "ar": "جمال وإيهاب عبد الحميد"},
+      {"en": "Alaa and Emad Ali", "ar": "علاء وعماد علي"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Hossam and Ibrahim Hassan are twin brothers who both starred for Al Ahly and Egypt.",
+    "explanation_ar": "حسام وإبراهيم حسن توأم لعبوا سوا مع الأهلي ومصر."
+  },
+  {
+    "id": "FBP-050-012",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "This Hungarian legend continued his international career for Spain after defecting following the 1956 uprising, playing at the 1962 World Cup. Who is he?",
+    "question_ar": "الأسطورة الهنجارية دي كملت مشوارها الدولي مع إسبانيا بعد هروبها بعد ثورة 1956، ولعبت في كأس عالم 1962. مين هو؟",
+    "options": [
+      {"en": "Ferenc Puskas", "ar": "فيرنس بوشكاش"},
+      {"en": "Sandor Kocsis", "ar": "ساندور كوتشيش"},
+      {"en": "Zoltan Czibor", "ar": "زولتان تشيبور"},
+      {"en": "Laszlo Kubala", "ar": "لاسلو كوبالا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ferenc Puskas later played for Spain at the 1962 World Cup after defecting from Hungary.",
+    "explanation_ar": "فيرنس بوشكاش لعب لإسبانيا في كأس عالم 1962 بعد هروبه من هنجاريا."
+  },
+  {
+    "id": "FBP-050-013",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Yellow and red cards were introduced at the 1970 World Cup, inspired by which everyday system that gave an English referee the idea?",
+    "question_ar": "الكروت الصفرا والحمرا اتقدمت في كأس عالم 1970، باستلهام من أنهي نظام يومي خطر في بال حكم إنجليزي؟",
+    "options": [
+      {"en": "Traffic lights", "ar": "إشارات المرور"},
+      {"en": "Railway signals", "ar": "إشارات القطارات"},
+      {"en": "Boxing referee hand signals", "ar": "إشارات حكم الملاكمة"},
+      {"en": "Postal stamps", "ar": "طوابع البريد"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Referee Ken Aston got the idea for yellow and red cards from a traffic light while driving.",
+    "explanation_ar": "الحكم كين أستون خطرت في باله فكرة الكروت وهو شايف إشارة مرور وهو سايق عربيته."
+  },
+  {
+    "id": "FBP-050-014",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "This Dutch defender played in both the 1974 and 1978 World Cup finals for the Netherlands, losing both as part of the 'Total Football' era. Who is he?",
+    "question_ar": "المدافع الهولندي ده لعب نهائي كأس عالم 1974 و1978 مع هولندا وخسر الاتنين في عصر 'الكورة الشاملة'. مين هو؟",
+    "options": [
+      {"en": "Ruud Krol", "ar": "رود كرول"},
+      {"en": "Wim Suurbier", "ar": "ويم سوربير"},
+      {"en": "Arie Haan", "ar": "آري هان"},
+      {"en": "Wim Jansen", "ar": "ويم يانسن"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Ruud Krol played in both losing Dutch World Cup finals of 1974 and 1978.",
+    "explanation_ar": "رود كرول لعب نهائي كأس عالم 1974 و1978 الاتنين وخسرهم مع هولندا."
+  },
+  {
+    "id": "FBP-050-015",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "The 'silver goal' rule, a short-lived alternative deciding knockout matches by the score after the first half of extra time, was used at which single tournament?",
+    "question_ar": "قانون 'الهدف الفضي'، نظام قصير العمر بيحسم ماتشات الإقصاء بنتيجة أول شوط إضافي، اتستخدم في أنهي بطولة واحدة بس؟",
+    "options": [
+      {"en": "World Cup 2002", "ar": "كأس عالم 2002"},
+      {"en": "Euro 2004", "ar": "يورو 2004"},
+      {"en": "Euro 2000", "ar": "يورو 2000"},
+      {"en": "World Cup 2006", "ar": "كأس عالم 2006"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The silver goal rule was used only at Euro 2004 before being scrapped along with the golden goal.",
+    "explanation_ar": "قانون الهدف الفضي اتستخدم بس في يورو 2004 قبل ما يتلغى مع الهدف الدهبي."
+  },
+  {
+    "id": "FBP-050-016",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Zamalek SC was originally founded in 1911 under which different name, before being renamed Zamalek after the 1952 revolution?",
+    "question_ar": "نادي الزمالك اتأسس سنة 1911 تحت اسم مختلف، وبعدين اتسمى الزمالك بعد ثورة 1952. إيه كان اسمه الأول؟",
+    "options": [
+      {"en": "Qasr El Nil Club", "ar": "نادي قصر النيل"},
+      {"en": "Cairo Athletic Club", "ar": "نادي القاهرة الرياضي"},
+      {"en": "Gezira Sporting Club", "ar": "نادي الجزيرة الرياضي"},
+      {"en": "Egyptian National Club", "ar": "النادي الوطني المصري"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Zamalek was founded in 1911 as Qasr El Nil Club before later being renamed Farouk Club and then Zamalek.",
+    "explanation_ar": "الزمالك اتأسس سنة 1911 باسم 'نادي قصر النيل' قبل ما يتسمى نادي فاروق وبعدين الزمالك."
+  },
+  {
+    "id": "FBP-050-017",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Which English footballer won the first-ever Ballon d'Or award in 1956, while playing for Blackpool?",
+    "question_ar": "أنهي لاعب إنجليزي فاز بأول جايزة بالون دور في التاريخ سنة 1956 وهو بيلعب لبلاكبول؟",
+    "options": [
+      {"en": "Stanley Matthews", "ar": "ستانلي ماثيوز"},
+      {"en": "Tom Finney", "ar": "توم فيني"},
+      {"en": "Billy Wright", "ar": "بيلي رايت"},
+      {"en": "Nat Lofthouse", "ar": "نات لوفتهاوس"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Stanley Matthews won the inaugural Ballon d'Or in 1956 while at Blackpool.",
+    "explanation_ar": "ستانلي ماثيوز فاز بأول بالون دور سنة 1956 وهو لاعب في بلاكبول."
+  },
+  {
+    "id": "FBP-050-018",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Which match remains the highest-scoring in World Cup history, with Austria beating Switzerland 7-5 in 1954?",
+    "question_ar": "أنهي مباراة لسه صاحبة رقم أكتر أهداف في تاريخ كأس العالم، لما النمسا كسبت سويسرا 7-5 سنة 1954؟",
+    "options": [
+      {"en": "Austria 7-5 Switzerland", "ar": "النمسا 7-5 سويسرا"},
+      {"en": "Hungary 8-3 West Germany", "ar": "هنجاريا 8-3 ألمانيا الغربية"},
+      {"en": "Brazil 7-1 Sweden", "ar": "البرازيل 7-1 السويد"},
+      {"en": "France 7-3 Paraguay", "ar": "فرنسا 7-3 باراجواي"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Austria's 7-5 win over Switzerland in the 1954 quarter-final is the highest-scoring World Cup match ever, with 12 goals.",
+    "explanation_ar": "فوز النمسا 7-5 على سويسرا في ربع نهائي 1954 لسه صاحب أكتر أهداف في تاريخ كأس العالم، بمجموع 12 هدف."
+  },
+  {
+    "id": "FBP-050-019",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "This Dutch striker scored an iconic injury-time winner against Argentina at the 1998 World Cup quarter-final, controlling and finishing in one touch. Who is he?",
+    "question_ar": "المهاجم الهولندي ده سجل هدف فوز أيقوني في الوقت الضايع ضد الأرجنتين بربع نهائي كأس عالم 1998. مين هو؟",
+    "options": [
+      {"en": "Dennis Bergkamp", "ar": "دينيس بيركامب"},
+      {"en": "Patrick Kluivert", "ar": "باتريك كلويفرت"},
+      {"en": "Marc Overmars", "ar": "مارك أوفرمارس"},
+      {"en": "Edgar Davids", "ar": "إدجار دافيدز"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Dennis Bergkamp's late winner against Argentina in 1998 is remembered as one of football's greatest goals.",
+    "explanation_ar": "هدف دينيس بيركامب المتأخر ضد الأرجنتين سنة 1998 واحد من أعظم الأهداف في تاريخ الكورة."
+  },
+  {
+    "id": "FBP-050-020",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Starting with the 2022 World Cup, squads could register how many players, up from the previous limit of 23?",
+    "question_ar": "من كأس عالم 2022، المنتخبات بقت تقدر تسجل كام لاعب بدل الـ23 القدامة؟",
+    "options": [
+      {"en": "24", "ar": "24"},
+      {"en": "26", "ar": "26"},
+      {"en": "28", "ar": "28"},
+      {"en": "25", "ar": "25"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "FIFA expanded World Cup squads to 26 players starting at the 2022 tournament.",
+    "explanation_ar": "فيفا وسّعت قوائم كأس العالم لـ26 لاعب بدايةً من بطولة 2022.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "FBP-050-021",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Egypt's long-time national team captain Ahmed Hassan spent a notable spell in Belgium with which club?",
+    "question_ar": "كابتن مصر لسنين طويلة أحمد حسن لعب فترة مهمة في بلجيكا مع أنهي نادي؟",
+    "options": [
+      {"en": "Club Brugge", "ar": "كلوب بروج"},
+      {"en": "Anderlecht", "ar": "أندرلخت"},
+      {"en": "Standard Liege", "ar": "ستاندارد لييج"},
+      {"en": "KAA Gent", "ar": "خينت"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Ahmed Hassan played for Belgian giants Anderlecht during his European career.",
+    "explanation_ar": "أحمد حسن لعب لنادي أندرلخت البلجيكي الكبير خلال مشواره الأوروبي."
+  },
+  {
+    "id": "FBP-050-022",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "In the first-ever European Cup final of 1956, Real Madrid beat which French club 4-3?",
+    "question_ar": "في أول نهائي كأس أوروبا للأندية سنة 1956، ريال مدريد كسب أنهي نادي فرنسي 4-3؟",
+    "options": [
+      {"en": "Stade de Reims", "ar": "ستاد دو ريمس"},
+      {"en": "AS Monaco", "ar": "موناكو"},
+      {"en": "Saint-Etienne", "ar": "سانت إتيان"},
+      {"en": "Olympique Lyonnais", "ar": "أولمبيك ليون"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Real Madrid beat Stade de Reims 4-3 in the first-ever European Cup final in 1956.",
+    "explanation_ar": "ريال مدريد كسب ستاد دو ريمس 4-3 في أول نهائي كأس أوروبا سنة 1956."
+  },
+  {
+    "id": "FBP-050-023",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Which player was sent off in the final match of his career, the 2006 World Cup final, for headbutting Marco Materazzi?",
+    "question_ar": "أنهي لاعب اتطرد في آخر مباراة في مشواره، نهائي كأس عالم 2006، بسبب نطحة في ماركو ماتيرازي؟",
+    "options": [
+      {"en": "Zinedine Zidane", "ar": "زين الدين زيدان"},
+      {"en": "Thierry Henry", "ar": "تييري هنري"},
+      {"en": "Patrick Vieira", "ar": "باتريك فييرا"},
+      {"en": "Claude Makelele", "ar": "كلود ماكيليلي"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Zinedine Zidane was sent off for headbutting Materazzi in his final match, the 2006 World Cup final.",
+    "explanation_ar": "زين الدين زيدان اتطرد بسبب نطحة في ماتيرازي في آخر مباراة ليه، نهائي كأس عالم 2006."
+  },
+  {
+    "id": "FBP-050-024",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "This Danish goalkeeper was part of the squad that won the shock Euro 1992 title as a late replacement entrant, before becoming a Manchester United legend. Who is he?",
+    "question_ar": "الجولكيبر الدنماركي ده كان جزء من منتخب فاز بيورو 1992 كبديل متأخر، وبقى بعدين أسطورة مانشستر يونايتد. مين هو؟",
+    "options": [
+      {"en": "Peter Schmeichel", "ar": "بيتر شمايكل"},
+      {"en": "Kasper Schmeichel", "ar": "كاسبر شمايكل"},
+      {"en": "Thomas Sorensen", "ar": "توماس سورينسن"},
+      {"en": "Henrik Larsen", "ar": "هنريك لارسن"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Peter Schmeichel won Euro 1992 with Denmark before becoming a Manchester United legend.",
+    "explanation_ar": "بيتر شمايكل فاز بيورو 1992 مع الدنمارك قبل ما يبقى أسطورة مانشستر يونايتد."
+  },
+  {
+    "id": "FBP-050-025",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "What is the radius, in meters, of the quarter-circle arc marked at each corner of a football pitch?",
+    "question_ar": "نص قطر ربع الدائرة المرسوم عند كل ركن في ملعب الكورة بيكون قد إيه؟",
+    "options": [
+      {"en": "1 meter", "ar": "متر واحد"},
+      {"en": "2 meters", "ar": "متران"},
+      {"en": "0.5 meters", "ar": "نص متر"},
+      {"en": "9.15 meters", "ar": "9.15 متر"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The corner arc has a radius of 1 meter from the corner flag post.",
+    "explanation_ar": "ربع الدائرة عند الركنية نص قطره متر واحد من علم الركنية."
+  },
+  {
+    "id": "FBP-050-026",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "The Egyptian Football Association, one of the oldest in Africa, was founded in which year?",
+    "question_ar": "اتحاد الكورة المصري، من أقدم الاتحادات في أفريقيا، اتأسس سنة كام؟",
+    "options": [
+      {"en": "1921", "ar": "1921"},
+      {"en": "1934", "ar": "1934"},
+      {"en": "1907", "ar": "1907"},
+      {"en": "1945", "ar": "1945"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Egyptian Football Association was founded in 1921, one of the oldest football federations in Africa.",
+    "explanation_ar": "اتحاد الكورة المصري اتأسس سنة 1921، من أقدم اتحادات الكورة في أفريقيا."
+  },
+  {
+    "id": "FBP-050-027",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "This French striker scored a record 13 goals at the 1958 World Cup alone, a record that still stands today. Who is he?",
+    "question_ar": "المهاجم الفرنسي ده سجل رقم قياسي 13 هدف في كأس عالم 1958 لوحده، ولسه الرقم قايم لحد دلوقتي. مين هو؟",
+    "options": [
+      {"en": "Just Fontaine", "ar": "جوست فونتين"},
+      {"en": "Raymond Kopa", "ar": "ريمون كوبا"},
+      {"en": "Jean Vincent", "ar": "جان فينسان"},
+      {"en": "Roger Piantoni", "ar": "روجيه بيانتوني"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Just Fontaine scored 13 goals at the 1958 World Cup, still the record for a single tournament.",
+    "explanation_ar": "جوست فونتين سجل 13 هدف في كأس عالم 1958، لسه الرقم القياسي لبطولة واحدة."
+  },
+  {
+    "id": "FBP-050-028",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Before the first World Cup in 1930, Uruguay won back-to-back Olympic football gold medals in which two years?",
+    "question_ar": "قبل أول كأس عالم سنة 1930، أوروجواي فازت بميدالية ذهبية أوليمبية في الكورة مرتين متتاليتين، في أنهي سنتين؟",
+    "options": [
+      {"en": "1920 and 1924", "ar": "1920 و1924"},
+      {"en": "1924 and 1928", "ar": "1924 و1928"},
+      {"en": "1928 and 1932", "ar": "1928 و1932"},
+      {"en": "1912 and 1920", "ar": "1912 و1920"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Uruguay won Olympic football gold in 1924 and 1928, before hosting and winning the first World Cup in 1930.",
+    "explanation_ar": "أوروجواي فازت بذهبية الكورة الأوليمبية سنة 1924 و1928، قبل ما تستضيف وتفوز بأول كأس عالم سنة 1930."
+  },
+  {
+    "id": "FBP-050-029",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "This Senegalese forward scored the only goal as Senegal stunned defending champions France in the opening match of the 2002 World Cup. Who is he?",
+    "question_ar": "المهاجم السنغالي ده سجل الهدف الوحيد اللي صدمت بيه السنغال حاملة اللقب فرنسا في افتتاح كأس عالم 2002. مين هو؟",
+    "options": [
+      {"en": "Papa Bouba Diop", "ar": "بابا بوبا ديوب"},
+      {"en": "El Hadji Diouf", "ar": "الحاجي ضيوف"},
+      {"en": "Henri Camara", "ar": "هنري كامارا"},
+      {"en": "Khalilou Fadiga", "ar": "خليلو فاديجا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Papa Bouba Diop scored the winner as Senegal beat France 1-0 in the 2002 World Cup opener.",
+    "explanation_ar": "بابا بوبا ديوب سجل هدف الفوز لما السنغال كسبت فرنسا 1-0 في افتتاح كأس عالم 2002."
+  },
+  {
+    "id": "FBP-050-030",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "A 2019 change to the Laws of the Game allowed a goal kick to be played short to a teammate while the ball was still inside which area?",
+    "question_ar": "تعديل سنة 2019 في قوانين الكورة سمح بتنفيذ ضربة المرمى لزميل جوه أنهي منطقة بالظبط؟",
+    "options": [
+      {"en": "The penalty area", "ar": "منطقة الجزاء"},
+      {"en": "The center circle", "ar": "دائرة الوسط"},
+      {"en": "The technical area", "ar": "منطقة الفنيين"},
+      {"en": "The goal area (six-yard box)", "ar": "منطقة المرمى (الست ياردة)"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Since 2019, the ball is in play from a goal kick even if received by a teammate inside the penalty area.",
+    "explanation_ar": "من 2019، الكورة بتبقى في اللعب من ضربة المرمى حتى لو استلمها زميل جوه منطقة الجزاء."
+  },
+  {
+    "id": "FBP-050-031",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "At the 1990 World Cup, Egypt was eliminated in the group stage despite drawing all three matches. Which rule decided their elimination?",
+    "question_ar": "في كأس عالم 1990، مصر طلعت من دور المجموعات رغم تعادلها في الـ3 مباريات. أنهي معيار حدد خروجها؟",
+    "options": [
+      {"en": "Goal difference", "ar": "فارق الأهداف"},
+      {"en": "Coin toss", "ar": "القرعة"},
+      {"en": "Fair play points", "ar": "نقاط اللعب النظيف"},
+      {"en": "Fewer cards received", "ar": "عدد الكروت الأقل"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Egypt was eliminated at the 1990 World Cup on goal difference despite three draws.",
+    "explanation_ar": "مصر طلعت من كأس عالم 1990 بفارق الأهداف رغم تعادلها في الـ3 مباريات."
+  },
+  {
+    "id": "FBP-050-032",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Who is the all-time leading scorer in World Cup history, with 16 goals scored across four tournaments from 2002 to 2014?",
+    "question_ar": "مين هداف كأس العالم التاريخي بـ16 هدف عبر 4 بطولات من 2002 لـ2014؟",
+    "options": [
+      {"en": "Ronaldo Nazario", "ar": "رونالدو نازاريو"},
+      {"en": "Miroslav Klose", "ar": "ميروسلاف كلوزه"},
+      {"en": "Gerd Muller", "ar": "جيرد مولر"},
+      {"en": "Just Fontaine", "ar": "جوست فونتين"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Miroslav Klose holds the all-time World Cup scoring record with 16 goals.",
+    "explanation_ar": "ميروسلاف كلوزه صاحب رقم أكتر أهداف في تاريخ كأس العالم بـ16 هدف.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "FBP-050-033",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Before the 1966 World Cup in England, the Jules Rimet Trophy was stolen and later found hidden under a hedge by what?",
+    "question_ar": "قبل كأس عالم 1966 بإنجلترا، كأس جول ريميه اتسرق ولقوه مخبي تحت سياج بفضل إيه؟",
+    "options": [
+      {"en": "A dog named Pickles", "ar": "كلب اسمه بيكلز"},
+      {"en": "A metal detector", "ar": "جهاز كشف معادن"},
+      {"en": "A police sniffer dog", "ar": "كلب بوليسي مدرب"},
+      {"en": "A child playing in the street", "ar": "طفل بيلعب في الشارع"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The stolen Jules Rimet Trophy was famously found by a dog named Pickles before the 1966 World Cup.",
+    "explanation_ar": "كأس جول ريميه المسروق اتلاقى بفضل كلب اسمه بيكلز قبل كأس عالم 1966."
+  },
+  {
+    "id": "FBP-050-034",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "This English forward became British football's first £1 million transfer in 1979, moving to Nottingham Forest and scoring that season's European Cup final winner. Who is he?",
+    "question_ar": "المهاجم الإنجليزي ده بقى أول صفقة بمليون جنيه إسترليني في الكورة الإنجليزية سنة 1979 وسجل هدف فوز كأس أوروبا في نفس الموسم. مين هو؟",
+    "options": [
+      {"en": "Trevor Francis", "ar": "تريفور فرانسيس"},
+      {"en": "Kevin Keegan", "ar": "كيفن كيجان"},
+      {"en": "Trevor Brooking", "ar": "تريفور بروكينج"},
+      {"en": "Tony Woodcock", "ar": "توني وودكوك"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Trevor Francis was Britain's first £1 million footballer and scored Nottingham Forest's 1979 European Cup final winner.",
+    "explanation_ar": "تريفور فرانسيس كان أول صفقة بمليون جنيه إسترليني في إنجلترا وسجل هدف فوز نوتينجهام فورست في نهائي كأس أوروبا 1979."
+  },
+  {
+    "id": "FBP-050-035",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "What is the required height, in meters, of a regulation football crossbar above the ground?",
+    "question_ar": "ارتفاع العارضة القانونية في ملعب الكورة عن الأرض بيكون قد إيه بالمتر؟",
+    "options": [
+      {"en": "2.44 meters", "ar": "2.44 متر"},
+      {"en": "2.10 meters", "ar": "2.10 متر"},
+      {"en": "2.75 meters", "ar": "2.75 متر"},
+      {"en": "3.00 meters", "ar": "3.00 متر"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A regulation crossbar must be 2.44 meters (8 feet) above the ground.",
+    "explanation_ar": "ارتفاع العارضة القانونية لازم يكون 2.44 متر (8 أقدام) عن الأرض."
+  },
+  {
+    "id": "FBP-050-036",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Which Egyptian club's name literally translates to 'Army Vanguard', reflecting its ties to the armed forces?",
+    "question_ar": "أنهي نادي مصري اسمه معناه الحرفي 'طلائع الجيش'، نسبة لارتباطه بالقوات المسلحة؟",
+    "options": [
+      {"en": "Haras El Hodoud", "ar": "حرس الحدود"},
+      {"en": "Tala'ea El Gaish", "ar": "طلائع الجيش"},
+      {"en": "National Bank of Egypt", "ar": "بنك الأهلي المصري"},
+      {"en": "Ghazl El Mahalla", "ar": "غزل المحلة"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Tala'ea El Gaish literally means 'Army Vanguard' and is linked to Egypt's armed forces.",
+    "explanation_ar": "طلائع الجيش معناه الحرفي مرتبط بالقوات المسلحة المصرية."
+  },
+  {
+    "id": "FBP-050-037",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Which legendary Liverpool manager won three European Cups (1977, 1978, 1981) during his tenure?",
+    "question_ar": "أنهي مدرب أسطوري لليفربول فاز بـ3 كؤوس أوروبا (1977 و1978 و1981) خلال فترته؟",
+    "options": [
+      {"en": "Bill Shankly", "ar": "بيل شانكلي"},
+      {"en": "Bob Paisley", "ar": "بوب بيزلي"},
+      {"en": "Joe Fagan", "ar": "جو فيجان"},
+      {"en": "Kenny Dalglish", "ar": "كيني دالجليش"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Bob Paisley won three European Cups as Liverpool manager, one of the most successful managers in English history.",
+    "explanation_ar": "بوب بيزلي فاز بـ3 كؤوس أوروبا كمدرب لليفربول، من أنجح المدربين في تاريخ إنجلترا."
+  },
+  {
+    "id": "FBP-050-038",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Brazil is the only nation to have played in every edition of the World Cup finals since the tournament began in which year?",
+    "question_ar": "البرازيل هي الدولة الوحيدة اللي لعبت كل نسخ كأس العالم من ساعة ما البطولة بدأت سنة كام؟",
+    "options": [
+      {"en": "1930", "ar": "1930"},
+      {"en": "1934", "ar": "1934"},
+      {"en": "1950", "ar": "1950"},
+      {"en": "1938", "ar": "1938"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Brazil is the only team to have appeared at every World Cup since the first in 1930.",
+    "explanation_ar": "البرازيل هي الدولة الوحيدة اللي لعبت كل كأس عالم من ساعة ما البطولة بدأت سنة 1930."
+  },
+  {
+    "id": "FBP-050-039",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "This Soviet forward, who played for Dynamo Kyiv, became the first Eastern European to win the Ballon d'Or, in 1975. Who is he?",
+    "question_ar": "المهاجم السوفيتي ده، لعب لديناموا كييف، بقى أول لاعب من أوروبا الشرقية يفوز بالبالون دور سنة 1975. مين هو؟",
+    "options": [
+      {"en": "Oleg Blokhin", "ar": "أوليج بلوخين"},
+      {"en": "Igor Belanov", "ar": "إيجور بيلانوف"},
+      {"en": "Lev Yashin", "ar": "ليف ياشين"},
+      {"en": "Valeriy Lobanovskyi", "ar": "فاليري لوبانوفسكي"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Oleg Blokhin of Dynamo Kyiv won the Ballon d'Or in 1975, the first Eastern European to do so.",
+    "explanation_ar": "أوليج بلوخين من ديناموا كييف فاز بالبالون دور سنة 1975، أول لاعب من أوروبا الشرقية يفوز بيها."
+  },
+  {
+    "id": "FBP-050-040",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Goal-line technology was first used at a FIFA tournament during which 2012 competition in Japan?",
+    "question_ar": "تكنولوجيا خط المرمى اتستخدمت لأول مرة في بطولة فيفا سنة 2012 في اليابان. أنهي بطولة كانت؟",
+    "options": [
+      {"en": "FIFA Club World Cup", "ar": "كأس العالم للأندية"},
+      {"en": "FIFA U-20 World Cup", "ar": "كأس العالم للشباب تحت 20"},
+      {"en": "FIFA Confederations Cup", "ar": "كأس القارات"},
+      {"en": "FIFA Futsal World Cup", "ar": "كأس العالم لكرة الصالات"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Goal-line technology debuted at a FIFA tournament at the 2012 Club World Cup in Japan.",
+    "explanation_ar": "تكنولوجيا خط المرمى ظهرت لأول مرة في بطولة فيفا في كأس العالم للأندية باليابان سنة 2012."
+  },
+  {
+    "id": "FBP-050-041",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Egypt won the very first Africa Cup of Nations in 1957, a tournament contested by only how many teams?",
+    "question_ar": "مصر فازت بأول نسخة من كأس أمم أفريقيا سنة 1957، وكانت البطولة بمشاركة كام منتخب بس؟",
+    "options": [
+      {"en": "3 teams", "ar": "3 منتخبات"},
+      {"en": "4 teams", "ar": "4 منتخبات"},
+      {"en": "6 teams", "ar": "6 منتخبات"},
+      {"en": "8 teams", "ar": "8 منتخبات"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The first AFCON in 1957 had just three teams: Egypt, Sudan, and Ethiopia, with Egypt winning it.",
+    "explanation_ar": "أول نسخة من أمم أفريقيا سنة 1957 كانت بـ3 منتخبات بس: مصر والسودان وإثيوبيا، ومصر فازت بيها."
+  },
+  {
+    "id": "FBP-050-042",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Which manager holds the record for the most UEFA Champions League titles won, across spells at AC Milan and Real Madrid?",
+    "question_ar": "أنهي مدرب صاحب رقم أكتر ألقاب دوري أبطال أوروبا بين فترتيه مع ميلان وريال مدريد؟",
+    "options": [
+      {"en": "Carlo Ancelotti", "ar": "كارلو أنشيلوتي"},
+      {"en": "Pep Guardiola", "ar": "بيب جوارديولا"},
+      {"en": "Zinedine Zidane", "ar": "زين الدين زيدان"},
+      {"en": "Jupp Heynckes", "ar": "يوب هاينكس"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Carlo Ancelotti holds the record for most Champions League titles won by a manager.",
+    "explanation_ar": "كارلو أنشيلوتي صاحب رقم أكتر ألقاب دوري أبطال أوروبا كمدرب.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "FBP-050-043",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "The 1954 World Cup in Switzerland was the first to be broadcast on which medium, reaching a mass audience for the first time?",
+    "question_ar": "كأس عالم 1954 بسويسرا كانت أول نسخة تتنقل على أنهي وسيلة إعلامية، وتوصل لجمهور ضخم لأول مرة؟",
+    "options": [
+      {"en": "Television", "ar": "التليفزيون"},
+      {"en": "Radio", "ar": "الراديو"},
+      {"en": "Newsreel cinema", "ar": "النشرات السينمائية"},
+      {"en": "Telegraph", "ar": "التلغراف"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The 1954 World Cup was the first to be broadcast on television to a mass audience.",
+    "explanation_ar": "كأس عالم 1954 كانت أول نسخة تتنقل على التليفزيون لجمهور ضخم."
+  },
+  {
+    "id": "FBP-050-044",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Nicknamed 'the White Pele', this Brazilian playmaker was the symbol of Flamengo's golden generation in the late 1970s and 1980s. Who is he?",
+    "question_ar": "لقبه 'بيليه الأبيض'، صانع الألعاب البرازيلي ده كان رمز الجيل الدهبي لفلامنجو أواخر السبعينات والثمانينات. مين هو؟",
+    "options": [
+      {"en": "Zico", "ar": "زيكو"},
+      {"en": "Socrates", "ar": "سقراط"},
+      {"en": "Junior", "ar": "جونيور"},
+      {"en": "Falcao", "ar": "فالكاو"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Zico, nicknamed the White Pele, was the icon of Flamengo's golden generation.",
+    "explanation_ar": "زيكو، 'بيليه الأبيض'، كان أيقونة الجيل الدهبي لفلامنجو."
+  },
+  {
+    "id": "FBP-050-045",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "What is the name of the semi-automated technology, introduced at the 2022 World Cup, that uses limb-tracking data to assist VAR with offside calls?",
+    "question_ar": "إيه اسم التكنولوجيا نصف الأوتوماتيكية اللي دخلت كأس عالم 2022 وبتساعد الفار في قرارات التسلل عن طريق تتبع حركة الأطراف؟",
+    "options": [
+      {"en": "Semi-Automated Offside Technology (SAOT)", "ar": "تقنية التسلل نصف الأوتوماتيكية"},
+      {"en": "Hawk-Eye Offside System", "ar": "نظام عين الصقر للتسلل"},
+      {"en": "Goal Decision System", "ar": "نظام قرار الهدف"},
+      {"en": "Virtual Offside Line", "ar": "خط التسلل الافتراضي"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Semi-Automated Offside Technology (SAOT) was introduced at the 2022 World Cup to speed up offside decisions.",
+    "explanation_ar": "تقنية التسلل نصف الأوتوماتيكية دخلت كأس عالم 2022 عشان تسرّع قرارات التسلل."
+  },
+  {
+    "id": "FBP-050-046",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "The Egyptian Premier League, established in 1948, is often cited as which distinction among African football leagues?",
+    "question_ar": "الدوري المصري الممتاز، اتأسس سنة 1948، بيتوصف غالبًا بإيه بين دوريات الكورة الأفريقية؟",
+    "options": [
+      {"en": "The oldest league in Africa", "ar": "أقدم دوري في أفريقيا"},
+      {"en": "The richest league in Africa", "ar": "أغنى دوري في أفريقيا"},
+      {"en": "The first league to use VAR in Africa", "ar": "أول دوري يستخدم الفار في أفريقيا"},
+      {"en": "The largest league by number of clubs", "ar": "أكبر دوري من حيث عدد الأندية"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Egyptian Premier League, founded in 1948, is widely considered the oldest football league in Africa.",
+    "explanation_ar": "الدوري المصري الممتاز، اتأسس سنة 1948، بيتعتبر على نطاق واسع أقدم دوري كورة في أفريقيا."
+  },
+  {
+    "id": "FBP-050-047",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Which country won the first-ever UEFA European Championship in 1960, beating Yugoslavia in the final?",
+    "question_ar": "أنهي دولة فازت بأول نسخة من بطولة أمم أوروبا سنة 1960 وكسبت يوجوسلافيا في النهائي؟",
+    "options": [
+      {"en": "Soviet Union", "ar": "الاتحاد السوفيتي"},
+      {"en": "France", "ar": "فرنسا"},
+      {"en": "Czechoslovakia", "ar": "تشيكوسلوفاكيا"},
+      {"en": "Spain", "ar": "إسبانيا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The Soviet Union won the first European Championship in 1960, beating Yugoslavia in the final.",
+    "explanation_ar": "الاتحاد السوفيتي فاز بأول بطولة أمم أوروبا سنة 1960 وكسب يوجوسلافيا في النهائي."
+  },
+  {
+    "id": "FBP-050-048",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Which Italian club won the first-ever European Cup Winners' Cup in 1961, beating Rangers over two legs?",
+    "question_ar": "أنهي نادي إيطالي فاز بأول نسخة من كأس الكؤوس الأوروبية سنة 1961 وكسب رينجرز على مباراتين؟",
+    "options": [
+      {"en": "Fiorentina", "ar": "فيورنتينا"},
+      {"en": "AS Roma", "ar": "روما"},
+      {"en": "Sampdoria", "ar": "سامبدوريا"},
+      {"en": "Torino", "ar": "تورينو"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Fiorentina won the first European Cup Winners' Cup in 1961 against Rangers.",
+    "explanation_ar": "فيورنتينا فاز بأول نسخة من كأس الكؤوس الأوروبية سنة 1961 ضد رينجرز."
+  },
+  {
+    "id": "FBP-050-049",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "This Italian forward won both the Golden Ball and Golden Boot at the 1982 World Cup, shortly after returning from a match-fixing ban. Who is he?",
+    "question_ar": "المهاجم الإيطالي ده فاز بالكرة الدهبية والحذاء الدهبي في كأس عالم 1982، بعد رجوعه بفترة قصيرة من إيقاف بسبب فضيحة رشاوي. مين هو؟",
+    "options": [
+      {"en": "Paolo Rossi", "ar": "باولو روسي"},
+      {"en": "Marco Tardelli", "ar": "ماركو تارديلي"},
+      {"en": "Bruno Conti", "ar": "برونو كونتي"},
+      {"en": "Francesco Graziani", "ar": "فرانشيسكو جراتسياني"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Paolo Rossi returned from a betting ban to win both the Golden Ball and Golden Boot at the 1982 World Cup.",
+    "explanation_ar": "باولو روسي رجع من إيقاف بسبب فضيحة رشاوي وفاز بالكرة والحذاء الدهبي في كأس عالم 1982."
+  },
+  {
+    "id": "FBP-050-050",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 50,
+    "difficulty": 4,
+    "question_en": "Before VAR, UEFA's top competitions used extra match officials stationed by each goal line, known by what name?",
+    "question_ar": "قبل الفار، بطولات اليويفا الكبرى كانت بتستخدم حكام إضافيين واقفين جنب خطوط المرمى، كانوا معروفين بإيه؟",
+    "options": [
+      {"en": "Additional Assistant Referees", "ar": "الحكام المساعدين الإضافيين"},
+      {"en": "Goal Line Judges", "ar": "حكام خط المرمى"},
+      {"en": "Fourth Officials", "ar": "الحكام الرابعين"},
+      {"en": "Linesmen", "ar": "حكام الراية"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "UEFA used Additional Assistant Referees by the goal lines in its top competitions before VAR.",
+    "explanation_ar": "اليويفا استخدم الحكام المساعدين الإضافيين جنب خطوط المرمى في بطولاته الكبرى قبل الفار."
+  }
+]

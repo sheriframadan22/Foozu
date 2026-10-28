@@ -1,0 +1,903 @@
+[
+  {
+    "id": "FBP-030-001",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Egypt beat which nation on penalties after a 0-0 draw to win the 2006 AFCON final on home soil?",
+    "question_ar": "مصر كسبت أنهي منتخب بركلات الترجيح بعد تعادل 0-0 وفازت بنهائي أمم أفريقيا 2006 على أرضها؟",
+    "options": [
+      {"en": "Senegal", "ar": "السنغال"},
+      {"en": "Cameroon", "ar": "الكاميرون"},
+      {"en": "Ivory Coast", "ar": "ساحل العاج"},
+      {"en": "Nigeria", "ar": "نيجيريا"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Egypt beat Ivory Coast on penalties after a scoreless 2006 AFCON final in Cairo.",
+    "explanation_ar": "مصر كسبت ساحل العاج بركلات الترجيح بعد نهائي 2006 اللي اتعادل 0-0 في القاهرة."
+  },
+  {
+    "id": "FBP-030-002",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Egyptian striker was top scorer of the 2010 AFCON, scoring the winning goal in the final against Ghana?",
+    "question_ar": "أنهي مهاجم مصري كان هداف أمم أفريقيا 2010 وسجل هدف الفوز في النهائي ضد غانا؟",
+    "options": [
+      {"en": "Emad Moteab", "ar": "عماد متعب"},
+      {"en": "Mohamed Nagy 'Gedo'", "ar": "محمد ناجي 'جيدو'"},
+      {"en": "Amr Zaki", "ar": "عمرو زكي"},
+      {"en": "Shikabala", "ar": "شيكابالا"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Mohamed Nagy, known as Gedo, was top scorer of AFCON 2010 and scored the final winner vs Ghana.",
+    "explanation_ar": "محمد ناجي 'جيدو' كان هداف أمم أفريقيا 2010 وسجل هدف الفوز في النهائي ضد غانا."
+  },
+  {
+    "id": "FBP-030-003",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Egyptian defender was one of the first Egyptians to play in Germany's Bundesliga, with VfL Bochum in the 1990s?",
+    "question_ar": "أنهي مدافع مصري كان من أول المصريين اللي لعبوا في البوندسليجا الألماني مع بوخوم في التسعينات؟",
+    "options": [
+      {"en": "Hany Ramzy", "ar": "هاني رمزي"},
+      {"en": "Ibrahim Hassan", "ar": "إبراهيم حسن"},
+      {"en": "Gamal Abdel Hamid", "ar": "جمال عبد الحميد"},
+      {"en": "Yasser Rayan", "ar": "ياسر ريان"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Hany Ramzy played for VfL Bochum, becoming one of the first Egyptians in the Bundesliga.",
+    "explanation_ar": "هاني رمزي لعب لبوخوم وبقى من أول المصريين اللي لعبوا في البوندسليجا."
+  },
+  {
+    "id": "FBP-030-004",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Egyptian club did Mohamed Salah play for before his first move abroad to Swiss side Basel?",
+    "question_ar": "محمد صلاح لعب لأنهي نادي مصري قبل أول انتقال ليه برة مصر لبازل السويسري؟",
+    "options": [
+      {"en": "Al Ahly", "ar": "الأهلي"},
+      {"en": "El Mokawloon Al Arab", "ar": "المقاولون العرب"},
+      {"en": "Ghazl El Mahalla", "ar": "غزل المحلة"},
+      {"en": "Smouha", "ar": "سموحة"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Mohamed Salah came through El Mokawloon Al Arab (Arab Contractors) before joining Basel.",
+    "explanation_ar": "محمد صلاح طلع من نادي المقاولون العرب قبل ما ينتقل لبازل."
+  },
+  {
+    "id": "FBP-030-005",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Despite strong interest from top European clubs, which Egyptian playmaker spent his entire senior career at Al Ahly?",
+    "question_ar": "رغم اهتمام أندية أوروبية كبيرة بيه، أنهي صانع ألعاب مصري قضى مشواره الاحترافي كله مع الأهلي؟",
+    "options": [
+      {"en": "Mohamed Aboutrika", "ar": "محمد أبو تريكة"},
+      {"en": "Hossam Hassan", "ar": "حسام حسن"},
+      {"en": "Mahmoud El Khatib", "ar": "محمود الخطيب"},
+      {"en": "Shikabala", "ar": "شيكابالا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mohamed Aboutrika famously stayed loyal to Al Ahly his whole career despite European offers.",
+    "explanation_ar": "محمد أبو تريكة فضل وفي للأهلي طول مشواره رغم عروض أوروبية."
+  },
+  {
+    "id": "FBP-030-006",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which country beat Egypt in a 2009 World Cup qualifying play-off decided by a single match in Khartoum, Sudan?",
+    "question_ar": "أنهي دولة كسبت مصر في مباراة فاصلة لتصفيات كأس عالم 2009 اتلعبت في الخرطوم بالسودان؟",
+    "options": [
+      {"en": "Nigeria", "ar": "نيجيريا"},
+      {"en": "Algeria", "ar": "الجزائر"},
+      {"en": "Cameroon", "ar": "الكاميرون"},
+      {"en": "Tunisia", "ar": "تونس"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Algeria beat Egypt 1-0 in the decisive Khartoum play-off for 2010 World Cup qualification.",
+    "explanation_ar": "الجزائر كسبت مصر 1-0 في مباراة الخرطوم الفاصلة لتصفيات كأس عالم 2010."
+  },
+  {
+    "id": "FBP-030-007",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "This Egyptian attacking midfielder scored the lone goal to beat Cameroon in the 2008 AFCON final. Who is he?",
+    "question_ar": "لاعب الوسط الهجومي المصري ده سجل هدف الفوز الوحيد ضد الكاميرون في نهائي أمم أفريقيا 2008. مين هو؟",
+    "options": [
+      {"en": "Mohamed Aboutrika", "ar": "محمد أبو تريكة"},
+      {"en": "Amr Zaki", "ar": "عمرو زكي"},
+      {"en": "Ahmed Hassan", "ar": "أحمد حسن"},
+      {"en": "Hosny Abd Rabo", "ar": "حسني عبد ربه"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mohamed Aboutrika scored the only goal as Egypt beat Cameroon 1-0 in the 2008 AFCON final.",
+    "explanation_ar": "محمد أبو تريكة سجل الهدف الوحيد في فوز مصر 1-0 على الكاميرون بنهائي 2008."
+  },
+  {
+    "id": "FBP-030-008",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Egyptian club won the CAF Champions League in both 2012 and 2013, under coach Hossam El Badry and later Manuel Jose spells?",
+    "question_ar": "أنهي نادي مصري فاز بدوري أبطال أفريقيا سنة 2012 و2013؟",
+    "options": [
+      {"en": "Zamalek", "ar": "الزمالك"},
+      {"en": "Al Ahly", "ar": "الأهلي"},
+      {"en": "ENPPI", "ar": "الإنبي"},
+      {"en": "Al Ittihad", "ar": "الاتحاد"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Al Ahly won back-to-back CAF Champions League titles in 2012 and 2013.",
+    "explanation_ar": "الأهلي فاز بدوري أبطال أفريقيا مرتين متتاليتين سنة 2012 و2013."
+  },
+  {
+    "id": "FBP-030-009",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which long-serving Portuguese coach led Al Ahly to multiple CAF Champions League titles in the 2000s and 2010s?",
+    "question_ar": "أنهي مدرب برتغالي قضى سنين طويلة وقاد الأهلي لألقاب كتير في دوري أبطال أفريقيا في الألفينات؟",
+    "options": [
+      {"en": "Jose Peseiro", "ar": "جوزيه بيسيرو"},
+      {"en": "Manuel Jose", "ar": "مانويل جوزيه"},
+      {"en": "Martin Jol", "ar": "مارتن يول"},
+      {"en": "Juan Carlos Garrido", "ar": "خوان كارلوس جاريدو"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Manuel Jose led Al Ahly to several CAF Champions League titles over his long tenure.",
+    "explanation_ar": "مانويل جوزيه قاد الأهلي لألقاب كتير في دوري أبطال أفريقيا خلال فترته الطويلة."
+  },
+  {
+    "id": "FBP-030-010",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which match-fixing-free shock saw North Korea beat Italy 1-0 at the 1966 World Cup in England?",
+    "question_ar": "أنهي مفاجأة كبيرة حصلت لما كوريا الشمالية كسبت إيطاليا 1-0 في كأس عالم 1966 بإنجلترا؟",
+    "options": [
+      {"en": "The Miracle of Middlesbrough", "ar": "معجزة ميدلزبره"},
+      {"en": "The Battle of Santiago", "ar": "معركة سانتياجو"},
+      {"en": "The Shock of Ayresome Park", "ar": "صدمة ملعب أيريسوم بارك"},
+      {"en": "The Wembley Shock", "ar": "صدمة ويمبلي"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "North Korea's win over Italy at Ayresome Park is remembered as one of football's biggest shocks, nicknamed the Miracle of Middlesbrough.",
+    "explanation_ar": "فوز كوريا الشمالية على إيطاليا في ملعب أيريسوم بارك اتسمى 'معجزة ميدلزبره' وهي واحدة من أكبر المفاجآت في تاريخ الكورة."
+  },
+  {
+    "id": "FBP-030-011",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Brazilian forward scored in every single match Brazil played at the 1970 World Cup, a rare feat?",
+    "question_ar": "أنهي مهاجم برازيلي سجل في كل مباراة لعبتها البرازيل في كأس عالم 1970، إنجاز نادر؟",
+    "options": [
+      {"en": "Pele", "ar": "بيليه"},
+      {"en": "Jairzinho", "ar": "جايرزينيو"},
+      {"en": "Tostao", "ar": "توستاو"},
+      {"en": "Rivellino", "ar": "ريفيلينو"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Jairzinho scored in all six of Brazil's matches at the 1970 World Cup.",
+    "explanation_ar": "جايرزينيو سجل في كل الـ6 مباريات اللي لعبتها البرازيل في كأس عالم 1970."
+  },
+  {
+    "id": "FBP-030-012",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Dutch legend chose not to play at the 1978 World Cup despite being at his peak and captaining the 1974 finalists?",
+    "question_ar": "أنهي أسطورة هولندية اختارت متلعبش في كأس عالم 1978 رغم إنها كانت في قمة مستواها وكابتن منتخب 1974 الوصيف؟",
+    "options": [
+      {"en": "Johan Cruyff", "ar": "يوهان كرويف"},
+      {"en": "Johan Neeskens", "ar": "يوهان نيسكنز"},
+      {"en": "Rob Rensenbrink", "ar": "روب رينسنبرينك"},
+      {"en": "Ruud Krol", "ar": "رود كرول"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Johan Cruyff did not play at the 1978 World Cup despite captaining the Netherlands to the 1974 final.",
+    "explanation_ar": "يوهان كرويف مالعبش في كأس عالم 1978 رغم إنه كان كابتن هولندا لنهائي 1974."
+  },
+  {
+    "id": "FBP-030-013",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Argentine legend died in 2020 and had managed, as well as played for, Napoli during their 1980s golden era?",
+    "question_ar": "أنهي أسطورة أرجنتينية توفيت سنة 2020 وكانت لعبت لنابولي في عصره الدهبي بالثمانينات؟",
+    "options": [
+      {"en": "Diego Maradona", "ar": "دييجو مارادونا"},
+      {"en": "Mario Kempes", "ar": "ماريو كيمبيس"},
+      {"en": "Daniel Passarella", "ar": "دانيال باساريلا"},
+      {"en": "Jorge Valdano", "ar": "خورخي فالدانو"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Diego Maradona starred for Napoli in the 1980s, winning two Serie A titles with the club, and died in 2020.",
+    "explanation_ar": "دييجو مارادونا لمع مع نابولي في الثمانينات وفاز بلقبين دوري إيطالي، وتوفي سنة 2020."
+  },
+  {
+    "id": "FBP-030-014",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which West German striker set a Bundesliga single-season scoring record of 40 goals in 1971-72 that stood for nearly 40 years?",
+    "question_ar": "أنهي مهاجم ألماني سجل رقم قياسي 40 هدف في موسم بوندسليجا واحد سنة 1971-72 وفضل رقمه لحوالي 40 سنة؟",
+    "options": [
+      {"en": "Gerd Muller", "ar": "جيرد مولر"},
+      {"en": "Uwe Seeler", "ar": "أوفه زيلر"},
+      {"en": "Klaus Fischer", "ar": "كلاوس فيشر"},
+      {"en": "Karl-Heinz Rummenigge", "ar": "كارل هاينز رومينيجه"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Gerd Muller scored 40 goals in the 1971-72 Bundesliga season, a record that stood until Lewandowski broke it.",
+    "explanation_ar": "جيرد مولر سجل 40 هدف في موسم بوندسليجا 1971-72، رقم فضل لحد ما ليفاندوفسكي كسره."
+  },
+  {
+    "id": "FBP-030-015",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Turkish striker scored the fastest goal in World Cup history, in just 11 seconds against South Korea in 2002?",
+    "question_ar": "أنهي مهاجم تركي سجل أسرع هدف في تاريخ كأس العالم، في 11 ثانية بس ضد كوريا الجنوبية سنة 2002؟",
+    "options": [
+      {"en": "Hakan Sukur", "ar": "حقان شكور"},
+      {"en": "Tuncay Sanli", "ar": "تونجاي شانلي"},
+      {"en": "Ilhan Mansiz", "ar": "إلهان مانسيز"},
+      {"en": "Nihat Kahveci", "ar": "نيهات كاهفيجي"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Hakan Sukur's goal in 11 seconds against South Korea in 2002 remains the fastest in World Cup history.",
+    "explanation_ar": "هدف حقان شكور في 11 ثانية ضد كوريا الجنوبية سنة 2002 لسه أسرع هدف في تاريخ كأس العالم."
+  },
+  {
+    "id": "FBP-030-016",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Real Madrid era won the first five European Cups in a row, from 1956 to 1960, led by Alfredo Di Stefano?",
+    "question_ar": "ريال مدريد فاز بأول 5 كؤوس أوروبا متتالية من 1956 لـ1960 بقيادة أنهي أسطورة؟",
+    "options": [
+      {"en": "Alfredo Di Stefano", "ar": "ألفريدو دي ستيفانو"},
+      {"en": "Ferenc Puskas", "ar": "فيرنس بوشكاش"},
+      {"en": "Raymond Kopa", "ar": "ريمون كوبا"},
+      {"en": "Francisco Gento", "ar": "فرانسيسكو خينتو"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Alfredo Di Stefano led Real Madrid to the first five European Cups from 1956 to 1960.",
+    "explanation_ar": "ألفريدو دي ستيفانو قاد ريال مدريد لأول 5 كؤوس أوروبا متتالية من 1956 لـ1960."
+  },
+  {
+    "id": "FBP-030-017",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which country's 'golden generation' team, starring Ferenc Puskas, went unbeaten for over four years before losing the 1954 World Cup final?",
+    "question_ar": "أنهي منتخب كان ليه 'جيل دهبي' بقيادة فيرنس بوشكاش وفضل من غير هزيمة لأكتر من 4 سنين قبل ما يخسر نهائي 1954؟",
+    "options": [
+      {"en": "Austria", "ar": "النمسا"},
+      {"en": "Hungary", "ar": "هنجاريا"},
+      {"en": "Czechoslovakia", "ar": "تشيكوسلوفاكيا"},
+      {"en": "Yugoslavia", "ar": "يوجوسلافيا"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Hungary's 'Mighty Magyars' were unbeaten for years before a shock loss to West Germany in the 1954 final.",
+    "explanation_ar": "'المجريون الأقوياء' فضلوا من غير هزيمة لسنين قبل ما يخسروا بشكل مفاجئ من ألمانيا الغربية في نهائي 1954."
+  },
+  {
+    "id": "FBP-030-018",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Brazilian winger, nicknamed 'the Angel with Bent Legs', was a star of the 1958 and 1962 World Cup wins?",
+    "question_ar": "أنهي جناح برازيلي، لقبه 'الملاك بالرجل المعوجة'، كان نجم فوز كأس عالم 1958 و1962؟",
+    "options": [
+      {"en": "Garrincha", "ar": "جارينشا"},
+      {"en": "Didi", "ar": "ديدي"},
+      {"en": "Vava", "ar": "فافا"},
+      {"en": "Zito", "ar": "زيتو"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Garrincha, 'the Angel with Bent Legs', starred in Brazil's 1958 and 1962 World Cup triumphs.",
+    "explanation_ar": "جارينشا، 'الملاك بالرجل المعوجة'، كان نجم فوز البرازيل بكأس عالم 1958 و1962."
+  },
+  {
+    "id": "FBP-030-019",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which club, managed by Arrigo Sacchi, won back-to-back European Cups in 1989 and 1990 with a famous pressing style?",
+    "question_ar": "أنهي نادي، بقيادة المدرب أريجو ساكي، فاز بكأس أوروبا مرتين متتاليتين 1989 و1990 بأسلوب ضغط مشهور؟",
+    "options": [
+      {"en": "Juventus", "ar": "يوفنتوس"},
+      {"en": "AC Milan", "ar": "ميلان"},
+      {"en": "Inter Milan", "ar": "إنتر ميلان"},
+      {"en": "Napoli", "ar": "نابولي"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Arrigo Sacchi's AC Milan won consecutive European Cups in 1989 and 1990.",
+    "explanation_ar": "ميلان بقيادة أريجو ساكي فاز بكأس أوروبا مرتين على التوالي سنة 1989 و1990."
+  },
+  {
+    "id": "FBP-030-020",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "At Euro 1992, which team won the title after only being invited as a late replacement for war-banned Yugoslavia?",
+    "question_ar": "في يورو 1992، أنهي منتخب فاز بالبطولة رغم إنه دخلها كبديل متأخر ليوجوسلافيا اللي اتحرمت بسبب الحرب؟",
+    "options": [
+      {"en": "Sweden", "ar": "السويد"},
+      {"en": "Denmark", "ar": "الدنمارك"},
+      {"en": "Netherlands", "ar": "هولندا"},
+      {"en": "Germany", "ar": "ألمانيا"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Denmark were a late replacement for Yugoslavia and shocked everyone by winning Euro 1992.",
+    "explanation_ar": "الدنمارك دخلت كبديل متأخر ليوجوسلافيا وفاجأت الجميع بالفوز ببطولة يورو 1992."
+  },
+  {
+    "id": "FBP-030-021",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Portuguese forward, nicknamed 'the Black Panther', top-scored at the 1966 World Cup with 9 goals?",
+    "question_ar": "أنهي مهاجم برتغالي، لقبه 'الفهد الأسود'، كان هداف كأس عالم 1966 بـ9 أهداف؟",
+    "options": [
+      {"en": "Eusebio", "ar": "يوسيبيو"},
+      {"en": "Jose Torres", "ar": "خوسيه توريس"},
+      {"en": "Antonio Simoes", "ar": "أنطونيو سيمويس"},
+      {"en": "Mario Coluna", "ar": "ماريو كولونا"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Eusebio, the Black Panther, finished as top scorer at the 1966 World Cup with 9 goals.",
+    "explanation_ar": "يوسيبيو 'الفهد الأسود' كان هداف كأس عالم 1966 بـ9 أهداف."
+  },
+  {
+    "id": "FBP-030-022",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which English club, under Brian Clough, won back-to-back European Cups in 1979 and 1980 despite never having won the league before that decade?",
+    "question_ar": "أنهي نادي إنجليزي، بقيادة المدرب براين كلوف، فاز بكأس أوروبا مرتين متتاليتين 1979 و1980 رغم إنه ماكنش فاز بالدوري قبل كده؟",
+    "options": [
+      {"en": "Aston Villa", "ar": "أستون فيلا"},
+      {"en": "Nottingham Forest", "ar": "نوتينجهام فورست"},
+      {"en": "Derby County", "ar": "ديربي كاونتي"},
+      {"en": "Ipswich Town", "ar": "إيبسويتش تاون"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Nottingham Forest, managed by Brian Clough, won successive European Cups in 1979 and 1980.",
+    "explanation_ar": "نوتينجهام فورست بقيادة براين كلوف فاز بكأس أوروبا مرتين متتاليتين 1979 و1980."
+  },
+  {
+    "id": "FBP-030-023",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Away goals used to break ties in two-legged European knockout matches. In which season did UEFA officially abolish this rule?",
+    "question_ar": "قاعدة أهداف خارج الديار كانت بتحسم تعادل مباريات الذهاب والإياب الأوروبية. يويفا لغاها رسميًا في أنهي موسم؟",
+    "options": [
+      {"en": "2018-19", "ar": "2018-19"},
+      {"en": "2021-22", "ar": "2021-22"},
+      {"en": "2015-16", "ar": "2015-16"},
+      {"en": "2023-24", "ar": "2023-24"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "UEFA scrapped the away-goals rule starting from the 2021-22 season.",
+    "explanation_ar": "يويفا لغى قاعدة أهداف خارج الديار بدايةً من موسم 2021-22."
+  },
+  {
+    "id": "FBP-030-024",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which trophy, retired permanently by Brazil after their third World Cup win in 1970, was later stolen and never recovered?",
+    "question_ar": "أنهي كأس، البرازيل احتفظت بيه نهائي بعد فوزها التالت سنة 1970، اتسرق بعدين ومترجعش؟",
+    "options": [
+      {"en": "The Jules Rimet Trophy", "ar": "كأس جول ريميه"},
+      {"en": "The FIFA World Cup Trophy", "ar": "كأس العالم الحالي"},
+      {"en": "The Copa America Trophy", "ar": "كأس كوبا أمريكا"},
+      {"en": "The Victory Trophy", "ar": "كأس النصر"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Brazil kept the Jules Rimet Trophy permanently in 1970; it was later stolen in Brazil and never found.",
+    "explanation_ar": "البرازيل احتفظت بكأس جول ريميه نهائيًا سنة 1970، وبعدين اتسرق في البرازيل ومترجعش."
+  },
+  {
+    "id": "FBP-030-025",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Under current Laws of the Game, from which three restarts can a player never be judged offside, even if in an offside position?",
+    "question_ar": "حسب قانون الكورة، في أنهي 3 أوضاع إعادة لعب اللاعب محدش يحسبله تسلل حتى لو واقف في وضع متسلل؟",
+    "options": [
+      {"en": "Throw-in, goal kick, corner kick", "ar": "رمية تماس، ضربة مرمى، ركنية"},
+      {"en": "Free kick, penalty, kick-off", "ar": "ضربة حرة، جزاء، ضربة بداية"},
+      {"en": "Throw-in, free kick, penalty", "ar": "رمية تماس، ضربة حرة، جزاء"},
+      {"en": "Goal kick, kick-off, penalty", "ar": "ضربة مرمى، ضربة بداية، جزاء"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "A player cannot be offside directly from a throw-in, goal kick, or corner kick.",
+    "explanation_ar": "اللاعب متحسبش عليه تسلل مباشرة من رمية التماس أو ضربة المرمى أو الركنية."
+  },
+  {
+    "id": "FBP-030-026",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "In 1990, the offside law was amended so that an attacker level with the second-last defender is no longer judged offside. What is this rule nicknamed?",
+    "question_ar": "سنة 1990 اتعدل قانون التسلل وبقى اللاعب المتساوي مع آخر مدافع متحسبش عليه تسلل. القاعدة دي معروفة بإيه؟",
+    "options": [
+      {"en": "The daylight rule", "ar": "قاعدة الضوء"},
+      {"en": "The advantage rule", "ar": "قاعدة الأفضلية"},
+      {"en": "The benefit-of-the-doubt rule", "ar": "قاعدة الشك لصالح المهاجم"},
+      {"en": "The level-line rule", "ar": "قاعدة الخط المتساوي"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "The 1990 offside amendment giving attackers the benefit of the doubt is informally called the benefit-of-the-doubt rule.",
+    "explanation_ar": "تعديل التسلل سنة 1990 اللي بيدي الشك لصالح المهاجم معروف بقاعدة 'الشك لصالح المهاجم'."
+  },
+  {
+    "id": "FBP-030-027",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Italian playmaker, nicknamed 'Il Divin Codino', was Italy's talisman and famously missed a penalty in the 1994 World Cup final?",
+    "question_ar": "أنهي لاعب وسط إيطالي، لقبه 'الضفيرة الإلهية'، كان نجم إيطاليا وضيّع ركلة جزاء مشهورة في نهائي كأس عالم 1994؟",
+    "options": [
+      {"en": "Roberto Baggio", "ar": "روبرتو باجيو"},
+      {"en": "Alessandro Del Piero", "ar": "أليساندرو دل بييرو"},
+      {"en": "Gianfranco Zola", "ar": "جيانفرانكو زولا"},
+      {"en": "Francesco Totti", "ar": "فرانشيسكو توتي"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Roberto Baggio, 'Il Divin Codino', missed the decisive penalty in the 1994 World Cup final shoot-out.",
+    "explanation_ar": "روبرتو باجيو، 'الضفيرة الإلهية'، ضيّع ركلة الجزاء الحاسمة في ركلات ترجيح نهائي 1994."
+  },
+  {
+    "id": "FBP-030-028",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which 1980s Egyptian winger, a Zamalek legend, was also a key part of Egypt's 1986 AFCON-winning squad at home?",
+    "question_ar": "أنهي جناح مصري من الثمانينات، أسطورة الزمالك، كان جزء أساسي من منتخب مصر اللي فاز بأمم أفريقيا 1986 على أرضه؟",
+    "options": [
+      {"en": "Taher Abouzaid", "ar": "طاهر أبوزيد"},
+      {"en": "Farouk Jaafar", "ar": "فاروق جعفر"},
+      {"en": "Mahmoud El-Khatib", "ar": "محمود الخطيب"},
+      {"en": "Rabie Yassin", "ar": "ربيع ياسين"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Taher Abouzaid was a Zamalek legend and key player in Egypt's 1986 AFCON title win at home.",
+    "explanation_ar": "طاهر أبوزيد كان أسطورة الزمالك ولاعب أساسي في فوز مصر بأمم أفريقيا 1986 على أرضها."
+  },
+  {
+    "id": "FBP-030-029",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Egyptian club won the 1986 AFCON as hosts, when the tournament was held entirely in Egypt?",
+    "question_ar": "مصر فازت بأمم أفريقيا 1986 وهي مستضيفة البطولة بالكامل. أنهي سنة بالظبط اتلعبت فيها؟",
+    "options": [
+      {"en": "1984", "ar": "1984"},
+      {"en": "1986", "ar": "1986"},
+      {"en": "1988", "ar": "1988"},
+      {"en": "1982", "ar": "1982"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Egypt hosted and won the 1986 Africa Cup of Nations on home soil.",
+    "explanation_ar": "مصر استضافت وفازت بكأس أمم أفريقيا سنة 1986 على أرضها."
+  },
+  {
+    "id": "FBP-030-030",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which legendary Brazilian midfielder, nicknamed 'Doctor', captained Brazil at the 1982 World Cup and was known for his political activism?",
+    "question_ar": "أنهي أسطورة برازيلية في خط الوسط، لقبه 'الدكتور'، كان كابتن البرازيل في كأس عالم 1982 ومعروف بنشاطه السياسي؟",
+    "options": [
+      {"en": "Zico", "ar": "زيكو"},
+      {"en": "Socrates", "ar": "سقراط"},
+      {"en": "Falcao", "ar": "فالكاو"},
+      {"en": "Junior", "ar": "جونيور"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Socrates, nicknamed 'Doctor' since he held a medical degree, captained Brazil's celebrated 1982 team.",
+    "explanation_ar": "سقراط، لقبه 'الدكتور' لأنه كان دكتور فعلاً، كان كابتن منتخب البرازيل المشهور سنة 1982."
+  },
+  {
+    "id": "FBP-030-031",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which English club won the first three editions of the Premier League under Alex Ferguson's early dominance (1993, 1994, 1996)?",
+    "question_ar": "أنهي نادي إنجليزي فاز بـ3 من أول ألقاب البريميرليج في التسعينات بقيادة أليكس فيرجسون؟",
+    "options": [
+      {"en": "Liverpool", "ar": "ليفربول"},
+      {"en": "Blackburn Rovers", "ar": "بلاكبيرن روفرز"},
+      {"en": "Manchester United", "ar": "مانشستر يونايتد"},
+      {"en": "Leeds United", "ar": "ليدز يونايتد"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Manchester United, under Alex Ferguson, won the Premier League in 1993, 1994 and 1996.",
+    "explanation_ar": "مانشستر يونايتد بقيادة أليكس فيرجسون فاز بالبريميرليج سنة 1993 و1994 و1996."
+  },
+  {
+    "id": "FBP-030-032",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which club broke Manchester United's and Arsenal's duopoly by winning the Premier League in 1995 under Kenny Dalglish, then under Howard Wilkinson in the prior era?",
+    "question_ar": "أنهي نادي فاز بلقب الدوري الإنجليزي سنة 1995 بقيادة كيني دالجليش، وكان مفاجأة في وقتها؟",
+    "options": [
+      {"en": "Blackburn Rovers", "ar": "بلاكبيرن روفرز"},
+      {"en": "Newcastle United", "ar": "نيوكاسل يونايتد"},
+      {"en": "Aston Villa", "ar": "أستون فيلا"},
+      {"en": "Everton", "ar": "إيفرتون"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Blackburn Rovers won the 1994-95 Premier League title under Kenny Dalglish, backed by Jack Walker's investment.",
+    "explanation_ar": "بلاكبيرن روفرز فاز بلقب الدوري الإنجليزي موسم 1994-95 بقيادة كيني دالجليش بدعم من جاك ووكر."
+  },
+  {
+    "id": "FBP-030-033",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which trophy is given to the top scorer of each FIFA World Cup tournament?",
+    "question_ar": "أنهي جايزة بتتاخد لهداف كل بطولة كأس عالم؟",
+    "options": [
+      {"en": "Golden Ball", "ar": "الكرة الدهبية"},
+      {"en": "Golden Boot", "ar": "الحذاء الدهبي"},
+      {"en": "Golden Glove", "ar": "القفاز الدهبي"},
+      {"en": "Best Young Player Award", "ar": "جايزة أفضل لاعب شاب"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The Golden Boot is awarded to the top scorer of each World Cup.",
+    "explanation_ar": "الحذاء الدهبي بيتاخد لهداف كل كأس عالم."
+  },
+  {
+    "id": "FBP-030-034",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which award, given by France Football, did Lev Yashin win in 1963 as the only goalkeeper ever to win it?",
+    "question_ar": "أنهي جايزة بتاعة مجلة فرانس فوتبول فاز بيها ليف ياشين سنة 1963 وهو الجولكيبر الوحيد اللي فاز بيها؟",
+    "options": [
+      {"en": "The Golden Ball", "ar": "الكرة الدهبية"},
+      {"en": "The Ballon d'Or", "ar": "الكرة الدهبية (بالون دور)"},
+      {"en": "The World Player of the Year", "ar": "أفضل لاعب في العالم"},
+      {"en": "The European Golden Boot", "ar": "الحذاء الدهبي الأوروبي"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Lev Yashin is the only goalkeeper to ever win the Ballon d'Or, in 1963.",
+    "explanation_ar": "ليف ياشين هو الجولكيبر الوحيد اللي فاز بالبالون دور، سنة 1963."
+  },
+  {
+    "id": "FBP-030-035",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Soviet goalkeeper, nicknamed 'the Black Spider', is widely considered the greatest goalkeeper in football history?",
+    "question_ar": "أنهي جولكيبر سوفيتي، لقبه 'العنكبوت الأسود'، بيتعتبر أعظم جولكيبر في تاريخ الكورة؟",
+    "options": [
+      {"en": "Lev Yashin", "ar": "ليف ياشين"},
+      {"en": "Rinat Dasayev", "ar": "ريمات داساييف"},
+      {"en": "Viktor Chanov", "ar": "فيكتور تشانوف"},
+      {"en": "Anzor Kavazashvili", "ar": "أنزور كافازاشفيلي"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Lev Yashin, the Black Spider, is regarded as the greatest goalkeeper ever.",
+    "explanation_ar": "ليف ياشين، 'العنكبوت الأسود'، بيتعتبر أعظم جولكيبر في التاريخ."
+  },
+  {
+    "id": "FBP-030-036",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "In 1992, which rule change banned goalkeepers from handling deliberate back-passes from teammates' feet?",
+    "question_ar": "سنة 1992 اتغير قانون منع الجولكيبر من إمساك الكورة بإيده من تمريرة متعمدة من زميله. القانون ده اسمه إيه؟",
+    "options": [
+      {"en": "The back-pass rule", "ar": "قانون التمريرة للخلف"},
+      {"en": "The offside rule", "ar": "قانون التسلل"},
+      {"en": "The professional foul rule", "ar": "قانون الفاول الاحترافي"},
+      {"en": "The six-second rule", "ar": "قانون الست ثواني"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The 1992 back-pass rule stopped goalkeepers from handling deliberate passes from teammates.",
+    "explanation_ar": "قانون التمريرة للخلف سنة 1992 منع الجولكيبر من إمساك الكورة بإيده من تمريرة متعمدة من زميله."
+  },
+  {
+    "id": "FBP-030-037",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which African nation's 1990 World Cup run, reaching the quarter-finals as debutants, remains a landmark moment for African football?",
+    "question_ar": "أنهي منتخب أفريقي وصل لربع نهائي كأس عالم 1990 في أول ظهور ليه، ولسه لحد دلوقتي علامة فارقة للكورة الأفريقية؟",
+    "options": [
+      {"en": "Nigeria", "ar": "نيجيريا"},
+      {"en": "Cameroon", "ar": "الكاميرون"},
+      {"en": "Senegal", "ar": "السنغال"},
+      {"en": "Morocco", "ar": "المغرب"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Cameroon reached the 1990 World Cup quarter-finals, a landmark for African football at the time.",
+    "explanation_ar": "الكاميرون وصلت لربع نهائي كأس عالم 1990، علامة فارقة للكورة الأفريقية في وقتها."
+  },
+  {
+    "id": "FBP-030-038",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which club's fans coined the term 'El Clasico' for their rivalry against Real Madrid, a term now used worldwide?",
+    "question_ar": "جماهير أنهي نادي ابتكروا مصطلح 'الكلاسيكو' لديربيهم ضد ريال مدريد، المصطلح اللي بقى معروف عالميًا؟",
+    "options": [
+      {"en": "Atletico Madrid", "ar": "أتلتيكو مدريد"},
+      {"en": "Barcelona", "ar": "برشلونة"},
+      {"en": "Sevilla", "ar": "إشبيلية"},
+      {"en": "Valencia", "ar": "فالنسيا"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The term 'El Clasico' describes the historic Barcelona-Real Madrid rivalry.",
+    "explanation_ar": "مصطلح 'الكلاسيكو' بيوصف ديربي برشلونة وريال مدريد التاريخي."
+  },
+  {
+    "id": "FBP-030-039",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Italian club suffered relegation to Serie B in 2006 due to the Calciopoli match-fixing scandal despite winning the league?",
+    "question_ar": "أنهي نادي إيطالي اتنزل للسيريا بي سنة 2006 بسبب فضيحة 'كالتشوبولي' رغم إنه فاز بالدوري؟",
+    "options": [
+      {"en": "AC Milan", "ar": "ميلان"},
+      {"en": "Juventus", "ar": "يوفنتوس"},
+      {"en": "Fiorentina", "ar": "فيورنتينا"},
+      {"en": "Lazio", "ar": "لاتسيو"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Juventus were stripped of their title and relegated after the 2006 Calciopoli scandal.",
+    "explanation_ar": "يوفنتوس اتسحب منه اللقب واتنزل للسيريا بي بعد فضيحة كالتشوبولي سنة 2006."
+  },
+  {
+    "id": "FBP-030-040",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which 1999 Champions League final saw Manchester United score twice in injury time to beat Bayern Munich 2-1?",
+    "question_ar": "نهائي دوري أبطال 1999، مانشستر يونايتد سجل هدفين في الوقت الضايع وكسب بايرن ميونيخ 2-1. النهائي ده اتلعب في أنهي مدينة؟",
+    "options": [
+      {"en": "Barcelona", "ar": "برشلونة"},
+      {"en": "Rome", "ar": "روما"},
+      {"en": "Munich", "ar": "ميونيخ"},
+      {"en": "Madrid", "ar": "مدريد"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The 1999 Champions League final, won by Manchester United, was played in Barcelona at Camp Nou.",
+    "explanation_ar": "نهائي دوري أبطال 1999 اللي فاز بيه مانشستر يونايتد اتلعب في برشلونة بملعب الكامب نو."
+  },
+  {
+    "id": "FBP-030-041",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which North African nation won the 2004 Africa Cup of Nations on home soil, beating Morocco in the final?",
+    "question_ar": "أنهي دولة شمال أفريقية فازت بأمم أفريقيا 2004 على أرضها وكسبت المغرب في النهائي؟",
+    "options": [
+      {"en": "Cameroon", "ar": "الكاميرون"},
+      {"en": "Tunisia", "ar": "تونس"},
+      {"en": "Nigeria", "ar": "نيجيريا"},
+      {"en": "Morocco", "ar": "المغرب"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Tunisia won the 2004 AFCON on home soil, beating Morocco in the final.",
+    "explanation_ar": "تونس فازت بأمم أفريقيا 2004 على أرضها وكسبت المغرب في النهائي."
+  },
+  {
+    "id": "FBP-030-042",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which legendary Italian defender, famous for never being booked for a reckless tackle in his long career, spent all 25 years at AC Milan?",
+    "question_ar": "أنهي مدافع إيطالي أسطوري، مشهور إنه نادرًا ما كان بياخد كروت، قضى 25 سنة كلهم مع ميلان؟",
+    "options": [
+      {"en": "Franco Baresi", "ar": "فرانكو باريزي"},
+      {"en": "Paolo Maldini", "ar": "باولو مالديني"},
+      {"en": "Alessandro Nesta", "ar": "أليساندرو نيستا"},
+      {"en": "Fabio Cannavaro", "ar": "فابيو كانافارو"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Paolo Maldini played his entire 25-year career for AC Milan.",
+    "explanation_ar": "باولو مالديني لعب كل مشواره الاحترافي، 25 سنة، مع ميلان."
+  },
+  {
+    "id": "FBP-030-043",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Italian central defender, and Juventus captain, was the first defender to win the Ballon d'Or in over four decades when he won it in 2006?",
+    "question_ar": "أنهي مدافع إيطالي، كابتن يوفنتوس، كان أول مدافع يفوز بالبالون دور من أكتر من 40 سنة لما فاز بيها سنة 2006؟",
+    "options": [
+      {"en": "Fabio Cannavaro", "ar": "فابيو كانافارو"},
+      {"en": "Giorgio Chiellini", "ar": "جورجيو كيليني"},
+      {"en": "Andrea Barzagli", "ar": "أندريا بارزالي"},
+      {"en": "Gianluigi Buffon", "ar": "جانلويجي بوفون"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Fabio Cannavaro won the 2006 Ballon d'Or after captaining Italy to the World Cup.",
+    "explanation_ar": "فابيو كانافارو فاز بالبالون دور سنة 2006 بعد ما كان كابتن إيطاليا في فوزها بكأس العالم."
+  },
+  {
+    "id": "FBP-030-044",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Egyptian club's Ultras group, 'Ultras Ahlawy', was heavily involved in events surrounding the 2012 Port Said stadium disaster?",
+    "question_ar": "ألترا أنهي نادي مصري، 'ألتراس أهلاوي'، كان ليهم دور كبير في الأحداث اللي حصلت حوالين كارثة استاد بورسعيد 2012؟",
+    "options": [
+      {"en": "Zamalek", "ar": "الزمالك"},
+      {"en": "Al Ahly", "ar": "الأهلي"},
+      {"en": "Al Masry", "ar": "المصري"},
+      {"en": "Ismaily", "ar": "الإسماعيلي"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Al Ahly's Ultras Ahlawy were the victims and central figures of the 2012 Port Said tragedy.",
+    "explanation_ar": "ألتراس أهلاوي، جماهير الأهلي، كانوا الضحايا والطرف الأساسي في مأساة بورسعيد 2012."
+  },
+  {
+    "id": "FBP-030-045",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which attacking move, where the ball is flicked over an opponent's head and chased, is nicknamed 'the Panenka' in the context of penalties?",
+    "question_ar": "إيه اسم ركلة الجزاء اللي بتتسجل بكورة لطيفة في النص بعد ما الجولكيبر يرمي نفسه، نسبة للاعب تشيكي؟",
+    "options": [
+      {"en": "A chip shot", "ar": "ضربة شبيكة"},
+      {"en": "A Panenka", "ar": "بانينكا"},
+      {"en": "A Rabona", "ar": "رابونا"},
+      {"en": "A Cruyff turn", "ar": "لفة كرويف"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "A Panenka is a gently chipped penalty down the middle, named after Antonin Panenka.",
+    "explanation_ar": "'البانينكا' هي ركلة جزاء بتتسجل بلطف في النص، سميت على اسم أنطونين بانينكا."
+  },
+  {
+    "id": "FBP-030-046",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Czech player famously scored a Panenka-style penalty to win Euro 1976 for Czechoslovakia against West Germany?",
+    "question_ar": "أنهي لاعب تشيكي سجل ركلة جزاء بطريقة البانينكا وفاز بيها بيورو 1976 لتشيكوسلوفاكيا ضد ألمانيا الغربية؟",
+    "options": [
+      {"en": "Antonin Panenka", "ar": "أنطونين بانينكا"},
+      {"en": "Zdenek Nehoda", "ar": "زدينيك نيهودا"},
+      {"en": "Jan Svehlik", "ar": "يان سفيهليك"},
+      {"en": "Karol Dobias", "ar": "كارول دوبياش"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Antonin Panenka's chipped penalty won Euro 1976 for Czechoslovakia, giving the technique its name.",
+    "explanation_ar": "ركلة أنطونين بانينكا الملعوبة بلطف فازت بيورو 1976 لتشيكوسلوفاكيا، وسميت الطريقة على اسمه."
+  },
+  {
+    "id": "FBP-030-047",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which Egyptian club was the first to win the CAF Confederation Cup (second-tier African club trophy) after it replaced the Cup Winners' Cup in 2004?",
+    "question_ar": "أنهي نادي مصري كان أول نادي يفوز بكأس الكونفدرالية الأفريقية بعد ما حلت محل كأس الكؤوس سنة 2004؟",
+    "options": [
+      {"en": "Al Ahly", "ar": "الأهلي"},
+      {"en": "Zamalek", "ar": "الزمالك"},
+      {"en": "ENPPI", "ar": "الإنبي"},
+      {"en": "Al Ittihad", "ar": "الاتحاد"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "ENPPI were the first-ever winners of the newly formed CAF Confederation Cup in 2004.",
+    "explanation_ar": "الإنبي كان أول فريق يفوز بكأس الكونفدرالية الأفريقية الجديدة سنة 2004."
+  },
+  {
+    "id": "FBP-030-048",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which French forward, a World Cup winner in 1998, later managed Arsenal's academy and is their all-time top scorer?",
+    "question_ar": "أنهي مهاجم فرنسي، بطل كأس عالم 1998، درّب أكاديمية أرسنال بعدين وهو هداف أرسنال التاريخي؟",
+    "options": [
+      {"en": "Nicolas Anelka", "ar": "نيكولا أنيلكا"},
+      {"en": "Thierry Henry", "ar": "تييري هنري"},
+      {"en": "Sylvain Wiltord", "ar": "سيلفان ويلتور"},
+      {"en": "David Trezeguet", "ar": "ديفيد تريزيجيه"}
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Thierry Henry is Arsenal's all-time top scorer and won the 1998 World Cup with France.",
+    "explanation_ar": "تييري هنري هو هداف أرسنال التاريخي وفاز بكأس عالم 1998 مع فرنسا."
+  },
+  {
+    "id": "FBP-030-049",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Which South American nation has won the Copa America title more times than any other country?",
+    "question_ar": "أنهي دولة في أمريكا الجنوبية فازت بكوبا أمريكا أكتر من أي دولة تانية؟",
+    "options": [
+      {"en": "Brazil", "ar": "البرازيل"},
+      {"en": "Uruguay", "ar": "أوروجواي"},
+      {"en": "Argentina", "ar": "الأرجنتين"},
+      {"en": "Chile", "ar": "تشيلي"}
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Argentina and Uruguay share the most Copa America titles, with Argentina edging ahead after 2024.",
+    "explanation_ar": "الأرجنتين وأوروجواي من أكتر الدول فوزًا بكوبا أمريكا، والأرجنتين سبقت شوية بعد 2024.",
+    "verified_as_of": "2025-06"
+  },
+  {
+    "id": "FBP-030-050",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 30,
+    "difficulty": 3,
+    "question_en": "Since which year has the CAF Champions League final been decided by a two-legged, home-and-away format?",
+    "question_ar": "دوري أبطال أفريقيا بيتحدد بطله حاليًا بنظام نهائي من مباراتين ذهاب وإياب من أنهي سنة؟",
+    "options": [
+      {"en": "1997", "ar": "1997"},
+      {"en": "2004", "ar": "2004"},
+      {"en": "2010", "ar": "2010"},
+      {"en": "1992", "ar": "1992"}
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The CAF Champions League final has been a two-legged home-and-away tie since 1997.",
+    "explanation_ar": "نهائي دوري أبطال أفريقيا بقى بنظام الذهاب والإياب بدايةً من سنة 1997."
+  }
+]
