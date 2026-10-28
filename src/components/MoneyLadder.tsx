@@ -3,10 +3,12 @@ import { LEVELS } from '@/types/game';
 interface Props {
   currentLevelIndex: number;
   securedAmount: number;
+  /** Defaults to the classic 10/20/50/100/200 ladder — pass a different set for other game modes (e.g. the football pillar). */
+  levels?: number[];
 }
 
-export default function MoneyLadder({ currentLevelIndex, securedAmount }: Props) {
-  const rows = LEVELS.map((value, index) => ({ value, index })).reverse();
+export default function MoneyLadder({ currentLevelIndex, securedAmount, levels = LEVELS }: Props) {
+  const rows = levels.map((value, index) => ({ value, index })).reverse();
 
   return (
     <div className="w-full">

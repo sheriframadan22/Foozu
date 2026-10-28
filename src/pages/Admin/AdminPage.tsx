@@ -193,6 +193,12 @@ function Dashboard() {
             <span>U</span> <span className="text-white/50 text-base ml-1">Activation Dashboard</span>
           </div>
         </div>
+        <button
+          onClick={() => navigate('/football')}
+          className="text-xs text-white/50 hover:text-white/80 border border-white/15 rounded-full px-3 py-1.5"
+        >
+          ⚽ open football game
+        </button>
       </div>
 
       <div className="text-xs uppercase tracking-widest text-white/40 mb-2">Today</div>
@@ -233,6 +239,7 @@ function Dashboard() {
           <thead className="bg-white/10 text-white/60 text-xs uppercase tracking-wider">
             <tr>
               <th className="text-left px-4 py-3">#</th>
+              <th className="text-left px-4 py-3">Game</th>
               <th className="text-left px-4 py-3">Raffle #</th>
               <th className="text-left px-4 py-3">Name</th>
               <th className="text-left px-4 py-3">Phone</th>
@@ -250,6 +257,15 @@ function Dashboard() {
               return (
                 <tr key={g.id} className="border-t border-white/5 hover:bg-white/5">
                   <td className="px-4 py-2.5 text-white/50">{i + 1}</td>
+                  <td className="px-4 py-2.5">
+                    <span
+                      className={`text-[10px] uppercase tracking-wide px-1.5 py-0.5 rounded-full ${
+                        g.mode === 'football' ? 'bg-foozu-teal/25 text-foozu-teal' : 'bg-foozu-pink/25 text-foozu-pink'
+                      }`}
+                    >
+                      {g.mode === 'football' ? '⚽ Football' : 'Classic'}
+                    </span>
+                  </td>
                   <td className="px-4 py-2.5 font-mono text-foozu-cyan">#{formatRaffleNumber(g.raffleNumber)}</td>
                   <td className="px-4 py-2.5 font-semibold">
                     {g.playerName}
@@ -272,7 +288,7 @@ function Dashboard() {
             })}
             {filteredLeaderboard.length === 0 && (
               <tr>
-                <td colSpan={9} className="px-4 py-8 text-center text-white/40">
+                <td colSpan={10} className="px-4 py-8 text-center text-white/40">
                   No completed games yet.
                 </td>
               </tr>

@@ -41,7 +41,8 @@ export default function GamePage() {
       durationSeconds: Math.max(0, Math.round((new Date(endTime).getTime() - new Date(startTime).getTime()) / 1000)),
       highestLevel,
       result,
-      selections: selectionsRef.current
+      selections: selectionsRef.current,
+      mode: 'classic'
     };
     gameStore.add(completed);
     playerRegistryStore.recordPrize(finalState.phoneNumber, prize);
@@ -195,7 +196,10 @@ export default function GamePage() {
         )}
       </main>
 
-      <footer className="text-center pb-3">
+      <footer className="text-center pb-3 flex items-center justify-center gap-4">
+        <Link to="/football" className="text-[11px] text-white/25 hover:text-white/50 transition">
+          ⚽ football-only game
+        </Link>
         <Link to="/admin" className="text-[11px] text-white/25 hover:text-white/50 transition">
           usher / admin
         </Link>

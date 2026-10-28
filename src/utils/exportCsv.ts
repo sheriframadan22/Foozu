@@ -9,6 +9,7 @@ function csvEscape(value: string | number): string {
 
 export function gamesToCsv(games: CompletedGame[]): string {
   const header = [
+    'Game',
     'Raffle #',
     'Name',
     'Phone',
@@ -22,6 +23,7 @@ export function gamesToCsv(games: CompletedGame[]): string {
     'Categories Played'
   ];
   const rows = games.map((g) => [
+    g.mode === 'football' ? 'Football' : 'Classic',
     formatRaffleNumber(g.raffleNumber),
     g.playerName,
     g.phoneNumber,

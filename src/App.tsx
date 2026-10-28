@@ -1,5 +1,6 @@
 import { HashRouter, Routes, Route } from 'react-router-dom';
 import GamePage from './pages/Game/GamePage';
+import FootballGamePage from './pages/Football/FootballGamePage';
 import AdminPage from './pages/Admin/AdminPage';
 
 export default function App() {
@@ -7,6 +8,7 @@ export default function App() {
     <HashRouter>
       <Routes>
         <Route path="/" element={<GamePage />} />
+        <Route path="/football" element={<FootballGamePage />} />
         <Route path="/admin" element={<AdminPage />} />
       </Routes>
     </HashRouter>

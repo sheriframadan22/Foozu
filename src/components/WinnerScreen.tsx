@@ -5,20 +5,22 @@ import { formatRaffleNumber } from '@/utils/storage';
 interface Props {
   playerName: string;
   raffleNumber?: number;
+  /** Defaults to the classic 380 EGP top prize — pass a different value for other game modes. */
+  maxPrize?: number;
   onPlayAgain: () => void;
 }
 
-export default function WinnerScreen({ playerName, raffleNumber, onPlayAgain }: Props) {
+export default function WinnerScreen({ playerName, raffleNumber, maxPrize = MAX_PRIZE, onPlayAgain }: Props) {
   return (
     <div className="relative flex flex-col items-center justify-center min-h-[80vh] text-center px-4">
       <Confetti />
       <div className="animate-popIn">
         <div className="font-display font-extrabold text-4xl sm:text-6xl text-foozu-yellow mb-2">YOU DID IT!</div>
         <div className="text-lg sm:text-xl text-white/80 mb-4">{playerName}</div>
-        <div className="font-display font-black text-6xl sm:text-8xl text-foozu-pink drop-shadow-lg">{MAX_PRIZE}</div>
+        <div className="font-display font-black text-6xl sm:text-8xl text-foozu-pink drop-shadow-lg">{maxPrize}</div>
         <div className="text-xl sm:text-2xl font-bold text-white/80 -mt-1">EGP</div>
         <p dir="rtl" className="font-arabic text-2xl sm:text-3xl font-bold text-foozu-teal mt-4">
-          كسبت الـ {MAX_PRIZE} جنيه!
+          كسبت الـ {maxPrize} جنيه!
         </p>
 
         {!!raffleNumber && (
