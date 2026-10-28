@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "FBP-100-001",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Which Cameroonian club won the first-ever African Cup of Champions Clubs in 1964, the forerunner of today's CAF Champions League?",
+    "question_ar": "أنهي نادي كاميروني فاز بأول نسخة من كأس الأندية الأفريقية البطلة سنة 1964، نواة دوري أبطال أفريقيا الحالي؟",
+    "options": [
+      {
+        "en": "Oryx Douala",
+        "ar": "أوريكس دوالا"
+      },
+      {
+        "en": "Stade Malien",
+        "ar": "ستاد مالي"
+      },
+      {
+        "en": "Real Bamako",
+        "ar": "ريال باماكو"
+      },
+      {
+        "en": "Tonnerre Yaounde",
+        "ar": "تونير ياوندي"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Oryx Douala of Cameroon won the first African Champions Clubs' Cup in 1964.",
+    "explanation_ar": "أوريكس دوالا الكاميروني فاز بأول نسخة من كأس الأندية الأفريقية البطلة سنة 1964."
+  },
+  {
+    "id": "FBP-100-002",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Which Egyptian forward was the first African to win the African Footballer of the Year award, in 1970?",
+    "question_ar": "أنهي مهاجم مصري كان أول أفريقي يفوز بجايزة أفضل لاعب في أفريقيا سنة 1970؟",
+    "options": [
+      {
+        "en": "Mahmoud El Khatib",
+        "ar": "محمود الخطيب"
+      },
+      {
+        "en": "Ibrahim Youssef",
+        "ar": "إبراهيم يوسف"
+      },
+      {
+        "en": "Taha Ismail",
+        "ar": "طه إسماعيل"
+      },
+      {
+        "en": "Hassan El-Shazly",
+        "ar": "حسن الشاذلي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Ibrahim Youssef of Egypt won the first-ever African Footballer of the Year award in 1970.",
+    "explanation_ar": "إبراهيم يوسف المصري فاز بأول جايزة أفضل لاعب في أفريقيا سنة 1970."
+  },
+  {
+    "id": "FBP-100-003",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "In the 1934 World Cup, which Egyptian scored twice against Hungary to become the first African and Arab player ever to score at a World Cup finals?",
+    "question_ar": "في كأس عالم 1934، أنهي لاعب مصري سجل هدفين ضد هنجاريا وبقى أول لاعب أفريقي وعربي يسجل في تاريخ نهائيات كأس العالم؟",
+    "options": [
+      {
+        "en": "Ali Riad",
+        "ar": "علي رياض"
+      },
+      {
+        "en": "Mustafa Mansour",
+        "ar": "مصطفى منصور"
+      },
+      {
+        "en": "Abdulrahman Fawzi",
+        "ar": "عبد الرحمن فوزي"
+      },
+      {
+        "en": "Hassan Rida",
+        "ar": "حسن رضا"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Abdulrahman Fawzi scored twice for Egypt in 1934, becoming the first African and Arab World Cup scorer.",
+    "explanation_ar": "عبد الرحمن فوزي سجل هدفين لمصر سنة 1934، أول هداف أفريقي وعربي في تاريخ كأس العالم."
+  },
+  {
+    "id": "FBP-100-004",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Which Egyptian goalkeeper was the first-choice keeper for Al Ahly through most of the 1990s before Nader El-Sayed's era?",
+    "question_ar": "أنهي جولكيبر مصري كان حارس مرمى الأهلي الأساسي في معظم التسعينات قبل عصر نادر السيد؟",
+    "options": [
+      {
+        "en": "Mohamed Abou Gabal",
+        "ar": "محمد أبو جبل"
+      },
+      {
+        "en": "Ahmed Shobeir",
+        "ar": "أحمد شوبير"
+      },
+      {
+        "en": "Essam El-Hadary",
+        "ar": "عصام الحضري"
+      },
+      {
+        "en": "Mohsen Saleh",
+        "ar": "محسن صالح"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Mohsen Saleh was Al Ahly's first-choice goalkeeper through much of the 1990s.",
+    "explanation_ar": "محسن صالح كان حارس مرمى الأهلي الأساسي في معظم فترة التسعينات."
+  },
+  {
+    "id": "FBP-100-005",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Which Egyptian club won the first-ever African Cup Winners' Cup in 1975, a competition Zamalek would later dominate?",
+    "question_ar": "أنهي نادي مصري فاز بأول نسخة من كأس الكؤوس الأفريقية سنة 1975، البطولة اللي سيطر عليها الزمالك بعد كده؟",
+    "options": [
+      {
+        "en": "Tonnerre Yaounde",
+        "ar": "تونير ياوندي"
+      },
+      {
+        "en": "Al Ahly",
+        "ar": "الأهلي"
+      },
+      {
+        "en": "Zamalek",
+        "ar": "الزمالك"
+      },
+      {
+        "en": "Enugu Rangers",
+        "ar": "إينوجو رينجرز"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Cameroon's Tonnerre Yaounde won the first African Cup Winners' Cup in 1975, before Zamalek's later dominance.",
+    "explanation_ar": "تونير ياوندي الكاميروني فاز بأول نسخة من كأس الكؤوس الأفريقية سنة 1975، قبل سيطرة الزمالك بعد كده."
+  },
+  {
+    "id": "FBP-100-006",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Egypt won its fourth Africa Cup of Nations title in 1998, hosted by Burkina Faso, by beating which nation 2-0 in the final?",
+    "question_ar": "مصر فازت بلقبها الرابع في أمم أفريقيا سنة 1998، اللي استضافتها بوركينا فاسو، بالفوز 2-0 على أنهي منتخب في النهائي؟",
+    "options": [
+      {
+        "en": "Burkina Faso",
+        "ar": "بوركينا فاسو"
+      },
+      {
+        "en": "South Africa",
+        "ar": "جنوب أفريقيا"
+      },
+      {
+        "en": "Ghana",
+        "ar": "غانا"
+      },
+      {
+        "en": "Ivory Coast",
+        "ar": "ساحل العاج"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Egypt beat South Africa 2-0 in the 1998 AFCON final, held in Burkina Faso, for its fourth title.",
+    "explanation_ar": "مصر كسبت جنوب أفريقيا 2-0 في نهائي أمم أفريقيا 1998 اللي استضافتها بوركينا فاسو، وحققت لقبها الرابع."
+  },
+  {
+    "id": "FBP-100-007",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Al Ahly's first-ever CAF Champions League title, in 1982, was won against which Ghanaian club in the final?",
+    "question_ar": "أول لقب لدوري أبطال أفريقيا فاز بيه الأهلي سنة 1982 كان في مواجهة أنهي نادي غاني في النهائي؟",
+    "options": [
+      {
+        "en": "Sekondi Hasaacas",
+        "ar": "سيكوندي هاساكاس"
+      },
+      {
+        "en": "Hearts of Oak",
+        "ar": "هارتس أوف أوك"
+      },
+      {
+        "en": "Asante Kotoko",
+        "ar": "أسانتي كوتوكو"
+      },
+      {
+        "en": "Great Olympics",
+        "ar": "جريت أوليمبيكس"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Al Ahly beat Ghana's Asante Kotoko to win their first CAF Champions League title in 1982.",
+    "explanation_ar": "الأهلي كسب أسانتي كوتوكو الغاني وفاز بأول لقب له في دوري أبطال أفريقيا سنة 1982."
+  },
+  {
+    "id": "FBP-100-008",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Which Egyptian-born forward, a long-serving Al Ahly number 9 of the 1990s, was the club's top scorer before Mohamed Aboutrika's era?",
+    "question_ar": "أنهي مهاجم مصري، صاحب قميص رقم 9 الأهلي لسنين في التسعينات، كان هداف النادي قبل عصر أبو تريكة؟",
+    "options": [
+      {
+        "en": "Tarek El Sayed",
+        "ar": "طارق السيد"
+      },
+      {
+        "en": "Khaled Bibo",
+        "ar": "خالد بيبو"
+      },
+      {
+        "en": "Yasser Rayan",
+        "ar": "ياسر ريان"
+      },
+      {
+        "en": "Hossam Hassan",
+        "ar": "حسام حسن"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Hossam Hassan was Al Ahly's prolific number 9 through the 1990s.",
+    "explanation_ar": "حسام حسن كان صاحب قميص رقم 9 الأهلي الهداف خلال التسعينات."
+  },
+  {
+    "id": "FBP-100-009",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Egypt beat which nation in the final to win the very first AFCON in 1957, after Ethiopia and Sudan completed the three-team field?",
+    "question_ar": "مصر كسبت أنهي منتخب في نهائي أول نسخة من أمم أفريقيا سنة 1957؟",
+    "options": [
+      {
+        "en": "Sudan",
+        "ar": "السودان"
+      },
+      {
+        "en": "Ethiopia",
+        "ar": "إثيوبيا"
+      },
+      {
+        "en": "South Africa",
+        "ar": "جنوب أفريقيا"
+      },
+      {
+        "en": "Uganda",
+        "ar": "أوغندا"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Egypt beat Sudan 4-0 in the deciding match to win the first AFCON in 1957.",
+    "explanation_ar": "مصر كسبت السودان 4-0 في المباراة الحاسمة وفازت بأول أمم أفريقيا سنة 1957."
+  },
+  {
+    "id": "FBP-100-010",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Which French football legend began his professional career at his hometown club AS Cannes, before his rise at Bordeaux and beyond?",
+    "question_ar": "أنهي أسطورة فرنسية بدأت مشوارها الاحترافي مع نادي مدينتها كان، قبل صعودها مع بوردو وبعد كده؟",
+    "options": [
+      {
+        "en": "Thierry Henry",
+        "ar": "تييري هنري"
+      },
+      {
+        "en": "Zinedine Zidane",
+        "ar": "زين الدين زيدان"
+      },
+      {
+        "en": "Patrick Vieira",
+        "ar": "باتريك فييرا"
+      },
+      {
+        "en": "Marcel Desailly",
+        "ar": "مارسيل ديسايي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Zinedine Zidane began his professional career at AS Cannes before moving to Bordeaux.",
+    "explanation_ar": "زين الدين زيدان بدأ مشواره الاحترافي مع نادي كان قبل ما ينتقل لبوردو."
+  },
+  {
+    "id": "FBP-100-011",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Which country's forward, playing at just 17 years old, became the youngest-ever World Cup goalscorer in 1958, netting for Brazil?",
+    "question_ar": "أنهي لاعب برازيلي سجل هدف في كأس عالم 1958 وهو عنده 17 سنة بس، وبقى أصغر هداف في تاريخ البطولة؟",
+    "options": [
+      {
+        "en": "Vava",
+        "ar": "فافا"
+      },
+      {
+        "en": "Garrincha",
+        "ar": "جارينشا"
+      },
+      {
+        "en": "Pele",
+        "ar": "بيليه"
+      },
+      {
+        "en": "Didi",
+        "ar": "ديدي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Pele, aged 17, became the youngest World Cup scorer in 1958, a record that still stands.",
+    "explanation_ar": "بيليه وهو عنده 17 سنة بقى أصغر هداف في تاريخ كأس العالم سنة 1958، رقم لسه قايم."
+  },
+  {
+    "id": "FBP-100-012",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Which goalkeeper played every minute of Spain's triumphant Euro 2008, World Cup 2010 and Euro 2012 campaigns without ever conceding in a final?",
+    "question_ar": "أنهي جولكيبر إسباني لعب كل دقيقة في فوز إسبانيا بيورو 2008 وكأس عالم 2010 ويورو 2012 من غير ما ياخد هدف في أي نهائي؟",
+    "options": [
+      {
+        "en": "David de Gea",
+        "ar": "ديفيد دي خيا"
+      },
+      {
+        "en": "Victor Valdes",
+        "ar": "فيكتور فالديس"
+      },
+      {
+        "en": "Pepe Reina",
+        "ar": "بيبي رينا"
+      },
+      {
+        "en": "Iker Casillas",
+        "ar": "إيكر كاسياس"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Iker Casillas captained and kept goal for Spain through their historic 2008-2012 trophy run.",
+    "explanation_ar": "إيكر كاسياس كان كابتن وحارس مرمى إسبانيا خلال مشوارها التاريخي من 2008 لـ2012."
+  },
+  {
+    "id": "FBP-100-013",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Cameroon's shock 1990 World Cup run featured which veteran 38-year-old super-sub scoring four goals off the bench?",
+    "question_ar": "في مفاجأة الكاميرون بكأس عالم 1990، أنهي لاعب مخضرم عنده 38 سنة سجل 4 أهداف من دكة البدلاء؟",
+    "options": [
+      {
+        "en": "Roger Milla",
+        "ar": "روجيه ميلا"
+      },
+      {
+        "en": "Thomas N'Kono",
+        "ar": "توماس نكونو"
+      },
+      {
+        "en": "Emmanuel Kunde",
+        "ar": "إيمانويل كوندي"
+      },
+      {
+        "en": "Francois Omam-Biyik",
+        "ar": "فرانسوا أومام بييك"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Roger Milla, coming off the bench at age 38, scored four goals during Cameroon's famous 1990 World Cup run.",
+    "explanation_ar": "روجيه ميلا، وهو عنده 38 سنة ونازل من دكة البدلاء، سجل 4 أهداف خلال مشوار الكاميرون المفاجئ في كأس عالم 1990."
+  },
+  {
+    "id": "FBP-100-014",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Which American club introduced MLS's 'Designated Player Rule' in 2007 to sign David Beckham, informally nicknamed 'the Beckham Rule'?",
+    "question_ar": "أنهي نادي أمريكي قدّم قاعدة 'اللاعب المميز' في الدوري الأمريكي سنة 2007 عشان يجيب ديفيد بيكهام، ولقبوها 'قاعدة بيكهام'؟",
+    "options": [
+      {
+        "en": "New York Red Bulls",
+        "ar": "نيويورك ريد بولز"
+      },
+      {
+        "en": "LA Galaxy",
+        "ar": "إل إيه جالاكسي"
+      },
+      {
+        "en": "DC United",
+        "ar": "دي سي يونايتد"
+      },
+      {
+        "en": "Chicago Fire",
+        "ar": "شيكاجو فاير"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "LA Galaxy signed David Beckham in 2007 under MLS's new Designated Player Rule, nicknamed the Beckham Rule.",
+    "explanation_ar": "إل إيه جالاكسي وقّع ديفيد بيكهام سنة 2007 تحت قاعدة 'اللاعب المميز' الجديدة، اللي اتلقبت 'قاعدة بيكهام'."
+  },
+  {
+    "id": "FBP-100-015",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "This Hungarian-born forward, later a Real Madrid icon, had already won a Ballon d'Or-equivalent recognition for Honved before his 1956 defection. What club was Honved based in?",
+    "question_ar": "فيرنس بوشكاش كان لاعب أساسي لأنهي نادي هنجاري قبل هروبه سنة 1956؟",
+    "options": [
+      {
+        "en": "Ujpest",
+        "ar": "أويبست"
+      },
+      {
+        "en": "Ferencvaros",
+        "ar": "فيرينتسفاروش"
+      },
+      {
+        "en": "Honved Budapest",
+        "ar": "هونفيد بودابست"
+      },
+      {
+        "en": "MTK Budapest",
+        "ar": "إم تي كيه بودابست"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Ferenc Puskas starred for Honved Budapest before defecting following the 1956 Hungarian uprising.",
+    "explanation_ar": "فيرنس بوشكاش لمع مع هونفيد بودابست قبل هروبه بعد ثورة هنجاريا سنة 1956."
+  },
+  {
+    "id": "FBP-100-016",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "The 1950 Maracana match that decided the tournament drew an attendance estimated at over how many spectators, a record never matched?",
+    "question_ar": "مباراة الماراكانازو سنة 1950 حضرها جمهور بيتقدر بأكتر من كام متفرج، رقم محدش كسره؟",
+    "options": [
+      {
+        "en": "100,000",
+        "ar": "100 ألف"
+      },
+      {
+        "en": "60,000",
+        "ar": "60 ألف"
+      },
+      {
+        "en": "250,000",
+        "ar": "250 ألف"
+      },
+      {
+        "en": "173,000",
+        "ar": "173 ألف"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The 1950 Maracanazo match drew an estimated attendance of around 173,000-200,000, a record never officially matched.",
+    "explanation_ar": "مباراة الماراكانازو سنة 1950 حضرها جمهور اتقدر بحوالي 173 لـ200 ألف متفرج، رقم محدش كسره رسميًا."
+  },
+  {
+    "id": "FBP-100-017",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "As of the 1990s, how many non-national ('foreign') players were African clubs typically allowed to field in CAF competitions?",
+    "question_ar": "في التسعينات، كام لاعب أجنبي كان مسموح للأندية الأفريقية تشركه في بطولات الكاف عادةً؟",
+    "options": [
+      {
+        "en": "3 players",
+        "ar": "3 لاعبين"
+      },
+      {
+        "en": "4 players",
+        "ar": "4 لاعبين"
+      },
+      {
+        "en": "5 players",
+        "ar": "5 لاعبين"
+      },
+      {
+        "en": "No limit existed",
+        "ar": "مفيش حد أقصى"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "CAF competitions historically limited clubs to around 3 foreign (non-national) players on the pitch.",
+    "explanation_ar": "بطولات الكاف كانت بتحدد تاريخيًا حوالي 3 لاعبين أجانب للنادي في الملعب."
+  },
+  {
+    "id": "FBP-100-018",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Which legendary Al Ahly and Egypt defender of the 1970s, a teammate of Mahmoud El Khatib, was known as 'the Wall of Africa'?",
+    "question_ar": "أنهي مدافع أهلاوي مصري من السبعينات، زميل محمود الخطيب، كان لقبه 'حيطة أفريقيا'؟",
+    "options": [
+      {
+        "en": "Ahmed Mortada",
+        "ar": "أحمد مرتضى"
+      },
+      {
+        "en": "Mahmoud Hassan Bakdash",
+        "ar": "محمود حسن بقدش"
+      },
+      {
+        "en": "Khalil Ahmed",
+        "ar": "خليل أحمد"
+      },
+      {
+        "en": "Mohamed Youssef",
+        "ar": "محمد يوسف"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Mahmoud Hassan 'Bakdash' was a famed Al Ahly defender of the 1970s, part of its golden generation.",
+    "explanation_ar": "محمود حسن 'بقدش' كان مدافع الأهلي الشهير في السبعينات، جزء من الجيل الدهبي."
+  },
+  {
+    "id": "FBP-100-019",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "North Korea's shock 1966 World Cup win over Italy came thanks to a goal scored by which midfielder?",
+    "question_ar": "هدف كوريا الشمالية التاريخي ضد إيطاليا سنة 1966 سجله أنهي لاعب وسط؟",
+    "options": [
+      {
+        "en": "Li Dong-un",
+        "ar": "لي دونج أون"
+      },
+      {
+        "en": "Pak Seung-zin",
+        "ar": "باك سونج زين"
+      },
+      {
+        "en": "Pak Doo-ik",
+        "ar": "باك دو إيك"
+      },
+      {
+        "en": "Han Bong-jin",
+        "ar": "هان بونج جين"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Pak Doo-ik scored North Korea's famous winning goal against Italy at the 1966 World Cup.",
+    "explanation_ar": "باك دو إيك سجل هدف كوريا الشمالية التاريخي ضد إيطاليا في كأس عالم 1966."
+  },
+  {
+    "id": "FBP-100-020",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "The first official international football match, in 1872, was played between Scotland and which nation, ending 0-0?",
+    "question_ar": "أول مباراة دولية رسمية في تاريخ الكورة سنة 1872 كانت بين اسكتلندا وأنهي دولة، وخلصت 0-0؟",
+    "options": [
+      {
+        "en": "Netherlands",
+        "ar": "هولندا"
+      },
+      {
+        "en": "Wales",
+        "ar": "ويلز"
+      },
+      {
+        "en": "Ireland",
+        "ar": "أيرلندا"
+      },
+      {
+        "en": "England",
+        "ar": "إنجلترا"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The first official international match was Scotland vs England in 1872, ending 0-0.",
+    "explanation_ar": "أول مباراة دولية رسمية كانت اسكتلندا ضد إنجلترا سنة 1872، وخلصت 0-0."
+  },
+  {
+    "id": "FBP-100-021",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "The Cairo Derby's biggest officially recorded attendance exceeded how many spectators at Cairo International Stadium?",
+    "question_ar": "أكبر حضور جماهيري رسمي مسجل في ديربي القاهرة تخطى كام متفرج في استاد القاهرة الدولي؟",
+    "options": [
+      {
+        "en": "100,000",
+        "ar": "100 ألف"
+      },
+      {
+        "en": "120,000",
+        "ar": "120 ألف"
+      },
+      {
+        "en": "75,000",
+        "ar": "75 ألف"
+      },
+      {
+        "en": "150,000",
+        "ar": "150 ألف"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Cairo Derby matches have historically drawn crowds exceeding 100,000 at Cairo International Stadium.",
+    "explanation_ar": "مباريات ديربي القاهرة شهدت تاريخيًا حضور جماهيري تخطى الـ100 ألف متفرج في استاد القاهرة الدولي."
+  },
+  {
+    "id": "FBP-100-022",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "In which year did Egypt become the first African nation to officially join FIFA?",
+    "question_ar": "مصر بقت أول دولة أفريقية تنضم لفيفا رسميًا في أنهي سنة؟",
+    "options": [
+      {
+        "en": "1934",
+        "ar": "1934"
+      },
+      {
+        "en": "1923",
+        "ar": "1923"
+      },
+      {
+        "en": "1908",
+        "ar": "1908"
+      },
+      {
+        "en": "1957",
+        "ar": "1957"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Egypt joined FIFA in 1923, the first African nation to become a member.",
+    "explanation_ar": "مصر انضمت لفيفا سنة 1923، أول دولة أفريقية تنضم للاتحاد الدولي."
+  },
+  {
+    "id": "FBP-100-023",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Before 1995, the Ballon d'Or award was restricted to players of which nationality or continent only?",
+    "question_ar": "قبل سنة 1995، جايزة البالون دور كانت مقتصرة بس على لاعبين من أنهي قارة أو جنسية؟",
+    "options": [
+      {
+        "en": "World Cup winners only",
+        "ar": "أبطال كأس العالم بس"
+      },
+      {
+        "en": "Players under 23 only",
+        "ar": "اللاعبين تحت 23 سنة بس"
+      },
+      {
+        "en": "European players only",
+        "ar": "اللاعبين الأوروبيين بس"
+      },
+      {
+        "en": "Players based in Europe regardless of nationality",
+        "ar": "اللاعبين اللي بيلعبوا في أوروبا بغض النظر عن جنسيتهم"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Before 1995, the Ballon d'Or was restricted to European players only, later expanded to all nationalities.",
+    "explanation_ar": "قبل 1995، البالون دور كانت مقتصرة على اللاعبين الأوروبيين بس، وبعدين اتوسعت لكل الجنسيات."
+  },
+  {
+    "id": "FBP-100-024",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Which George Weah fact is lesser known: before his 1995 Ballon d'Or, which club did he play for when he first moved to Europe from Cameroon's Tonnerre Yaounde?",
+    "question_ar": "جورج ويا انتقل لأوروبا لأول مرة من تونير ياوندي الكاميروني لصالح أنهي نادي فرنسي؟",
+    "options": [
+      {
+        "en": "AS Saint-Etienne",
+        "ar": "سانت إتيان"
+      },
+      {
+        "en": "Paris Saint-Germain",
+        "ar": "باريس سان جيرمان"
+      },
+      {
+        "en": "Olympique Marseille",
+        "ar": "أولمبيك مارسيليا"
+      },
+      {
+        "en": "AS Monaco",
+        "ar": "موناكو"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "George Weah's first European club was AS Monaco, where he was signed by Arsene Wenger.",
+    "explanation_ar": "جورج ويا انضم لأول نادي أوروبي ليه موناكو، بتوقيع أرسين فينجر."
+  },
+  {
+    "id": "FBP-100-025",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Brazil's legendary 1970 squad beat Italy 4-1 in the World Cup final, played in which host-nation stadium in Mexico City?",
+    "question_ar": "منتخب البرازيل الأسطوري 1970 كسب إيطاليا 4-1 في نهائي كأس العالم، واللي اتلعب في أنهي استاد بمكسيكو سيتي؟",
+    "options": [
+      {
+        "en": "Estadio Azteca",
+        "ar": "استاد أزتيكا"
+      },
+      {
+        "en": "Estadio Olimpico Universitario",
+        "ar": "استاد الجامعة الأوليمبي"
+      },
+      {
+        "en": "Estadio Jalisco",
+        "ar": "استاد خاليسكو"
+      },
+      {
+        "en": "Estadio Nou Camp Leon",
+        "ar": "استاد نو كامب ليون"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The 1970 World Cup final was played at the Estadio Azteca in Mexico City.",
+    "explanation_ar": "نهائي كأس عالم 1970 اتلعب في استاد أزتيكا بمكسيكو سيتي."
+  },
+  {
+    "id": "FBP-100-026",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "The first FIFA World Cup, in 1930, featured how many European teams making the long voyage to Uruguay by boat?",
+    "question_ar": "أول كأس عالم سنة 1930 شاركت فيها كام منتخب أوروبي، وده بعد رحلة طويلة بالبحر لأوروجواي؟",
+    "options": [
+      {
+        "en": "7 teams",
+        "ar": "7 منتخبات"
+      },
+      {
+        "en": "4 teams",
+        "ar": "4 منتخبات"
+      },
+      {
+        "en": "2 teams",
+        "ar": "منتخبين بس"
+      },
+      {
+        "en": "9 teams",
+        "ar": "9 منتخبات"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Only four European teams made the voyage to Uruguay for the first World Cup in 1930: France, Belgium, Romania, and Yugoslavia.",
+    "explanation_ar": "4 منتخبات أوروبية بس عملت الرحلة لأوروجواي في أول كأس عالم 1930: فرنسا وبلجيكا ورومانيا ويوجوسلافيا."
+  },
+  {
+    "id": "FBP-100-027",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Which Egyptian club has won the CAF Confederation Cup the most times, with multiple titles since its 2004 creation?",
+    "question_ar": "أنهي نادي مصري فاز بكأس الكونفدرالية الأفريقية أكتر عدد مرات منذ إنشائها سنة 2004؟",
+    "options": [
+      {
+        "en": "Al Ittihad Alexandria",
+        "ar": "الاتحاد السكندري"
+      },
+      {
+        "en": "ENPPI",
+        "ar": "الإنبي"
+      },
+      {
+        "en": "Ismaily",
+        "ar": "الإسماعيلي"
+      },
+      {
+        "en": "Zamalek",
+        "ar": "الزمالك"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Ismaily SC has won the CAF Confederation Cup multiple times since its 2004 creation, more than any other Egyptian club.",
+    "explanation_ar": "الإسماعيلي فاز بكأس الكونفدرالية الأفريقية أكتر من مرة منذ إنشائها سنة 2004، أكتر من أي نادي مصري تاني."
+  },
+  {
+    "id": "FBP-100-028",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Lev Yashin's nickname 'the Black Spider' came partly from the all-black kit he insisted on wearing, a choice meant to do what psychologically?",
+    "question_ar": "ليف ياشين كان مصر على لبس طقم أسود بالكامل، ليه؟",
+    "options": [
+      {
+        "en": "It was required by Soviet football rules",
+        "ar": "كان مطلوب حسب قوانين الكورة السوفيتية"
+      },
+      {
+        "en": "Because it was his club's official color",
+        "ar": "لأنه لون ناديه الرسمي"
+      },
+      {
+        "en": "To hide dirt from training",
+        "ar": "عشان يخبي اتساخ التمرين"
+      },
+      {
+        "en": "To intimidate strikers and appear larger",
+        "ar": "عشان يرعب المهاجمين ويبان أكبر حجمًا"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Lev Yashin's all-black kit was partly meant to intimidate strikers, adding to his imposing presence in goal.",
+    "explanation_ar": "طقم ليف ياشين الأسود كان جزء من محاولته يرعب المهاجمين ويزود من هيبته في المرمى."
+  },
+  {
+    "id": "FBP-100-029",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Before losing the 1954 World Cup final, Hungary had already beaten West Germany in the group stage by what scoreline?",
+    "question_ar": "هنجاريا كانت كسبت ألمانيا الغربية قبل النهائي في نفس بطولة 1954 بنتيجة كام؟",
+    "options": [
+      {
+        "en": "8-3",
+        "ar": "8-3"
+      },
+      {
+        "en": "5-2",
+        "ar": "5-2"
+      },
+      {
+        "en": "3-1",
+        "ar": "3-1"
+      },
+      {
+        "en": "6-1",
+        "ar": "6-1"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Hungary thrashed West Germany 8-3 in the group stage of the 1954 World Cup, before losing the final to the same opponent.",
+    "explanation_ar": "هنجاريا كسبت ألمانيا الغربية 8-3 في دور المجموعات بكأس عالم 1954، قبل ما تخسر النهائي قدام نفس الخصم."
+  },
+  {
+    "id": "FBP-100-030",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "The away-goals rule, used for decades in two-legged European ties, was first introduced by UEFA in which decade?",
+    "question_ar": "قاعدة أهداف خارج الديار اتقدمت لأول مرة من اليويفا في أنهي عقد؟",
+    "options": [
+      {
+        "en": "1970s",
+        "ar": "السبعينات"
+      },
+      {
+        "en": "1960s",
+        "ar": "الستينات"
+      },
+      {
+        "en": "1950s",
+        "ar": "الخمسينات"
+      },
+      {
+        "en": "1980s",
+        "ar": "الثمانينات"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "UEFA introduced the away-goals rule in 1965, in the 1960s.",
+    "explanation_ar": "اليويفا قدّمت قاعدة أهداف خارج الديار سنة 1965، في الستينات."
+  },
+  {
+    "id": "FBP-100-031",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Egypt, as 1986 AFCON hosts, beat which nation on penalties in the final after a goalless draw?",
+    "question_ar": "مصر، باستضافتها، كسبت أنهي منتخب بركلات الترجيح في نهائي أمم أفريقيا 1986 بعد تعادل سلبي؟",
+    "options": [
+      {
+        "en": "Nigeria",
+        "ar": "نيجيريا"
+      },
+      {
+        "en": "Morocco",
+        "ar": "المغرب"
+      },
+      {
+        "en": "Cameroon",
+        "ar": "الكاميرون"
+      },
+      {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Egypt beat Cameroon on penalties after a 0-0 draw to win the 1986 AFCON final at home.",
+    "explanation_ar": "مصر كسبت الكاميرون بركلات الترجيح بعد تعادل سلبي وفازت بنهائي أمم أفريقيا 1986 على أرضها."
+  },
+  {
+    "id": "FBP-100-032",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "The first player ever sent off in World Cup history, at the very first edition in 1930, played for which nation?",
+    "question_ar": "أول لاعب يتطرد في تاريخ كأس العالم، في أول نسخة سنة 1930، كان بيلعب لأنهي منتخب؟",
+    "options": [
+      {
+        "en": "Mexico",
+        "ar": "المكسيك"
+      },
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      {
+        "en": "Chile",
+        "ar": "تشيلي"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Chile's Alberto Buscaglia Lopez was the first player sent off in World Cup history, at the 1930 tournament.",
+    "explanation_ar": "التشيلي ألبيرتو بوسكاليا لوبيز كان أول لاعب يتطرد في تاريخ كأس العالم، في نسخة 1930."
+  },
+  {
+    "id": "FBP-100-033",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Diego Maradona's 1984 transfer from Barcelona to Napoli was a then world-record fee, reported at around how much in British pounds?",
+    "question_ar": "انتقال مارادونا من برشلونة لنابولي سنة 1984 كان برقم قياسي عالمي، كان قد كام تقريبًا بالجنيه الإسترليني؟",
+    "options": [
+      {
+        "en": "Around 5 million pounds",
+        "ar": "حوالي 5 مليون جنيه إسترليني"
+      },
+      {
+        "en": "Around 10 million pounds",
+        "ar": "حوالي 10 مليون جنيه إسترليني"
+      },
+      {
+        "en": "Around 2 million pounds",
+        "ar": "حوالي 2 مليون جنيه إسترليني"
+      },
+      {
+        "en": "Around 15 million pounds",
+        "ar": "حوالي 15 مليون جنيه إسترليني"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Maradona's 1984 move to Napoli was a then world-record fee, reported around 5 million pounds equivalent.",
+    "explanation_ar": "انتقال مارادونا لنابولي سنة 1984 كان رقم قياسي عالمي في وقته، اتقدر بحوالي 5 مليون جنيه إسترليني."
+  },
+  {
+    "id": "FBP-100-034",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Antonin Panenka revealed he had practiced his famous chipped penalty for years against whom in training?",
+    "question_ar": "أنطونين بانينكا كان بيتمرن على ركلته الشهيرة لسنين ضد أنهي جولكيبر في التدريب؟",
+    "options": [
+      {
+        "en": "A national team goalkeeper",
+        "ar": "جولكيبر المنتخب"
+      },
+      {
+        "en": "His own club's backup goalkeeper",
+        "ar": "جولكيبر الاحتياطي في ناديه"
+      },
+      {
+        "en": "His younger brother",
+        "ar": "أخوه الصغير"
+      },
+      {
+        "en": "A random amateur player",
+        "ar": "لاعب هاوي عشوائي"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Panenka practiced his chipped penalty technique extensively against his club's backup goalkeeper in training.",
+    "explanation_ar": "بانينكا اتمرن على ركلته المميزة كتير ضد جولكيبر ناديه الاحتياطي في التدريب."
+  },
+  {
+    "id": "FBP-100-035",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Al Ahly was originally founded in 1907 primarily for which purpose, before football became its focus?",
+    "question_ar": "الأهلي اتأسس سنة 1907 في الأساس لهدف تاني قبل ما يركز على الكورة. إيه كان الهدف ده؟",
+    "options": [
+      {
+        "en": "As a rowing club on the Nile",
+        "ar": "كنادي تجديف على النيل"
+      },
+      {
+        "en": "As a purely social tennis club",
+        "ar": "كنادي اجتماعي للتنس بس"
+      },
+      {
+        "en": "As a club for Egyptian students and nationalists under British rule",
+        "ar": "كنادي للطلبة المصريين والوطنيين في ظل الاحتلال البريطاني"
+      },
+      {
+        "en": "As a cricket club for British residents",
+        "ar": "كنادي كريكيت للمقيمين البريطانيين"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Al Ahly was founded in 1907 as a club for Egyptian students, with strong links to the nationalist movement under British occupation.",
+    "explanation_ar": "الأهلي اتأسس سنة 1907 كنادي للطلبة المصريين وكان مرتبط بالحركة الوطنية في ظل الاحتلال البريطاني."
+  },
+  {
+    "id": "FBP-100-036",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Zamalek was founded in 1911 by a Belgian lawyer named George Merzbach, originally serving mostly which community?",
+    "question_ar": "الزمالك اتأسس سنة 1911 على يد محامي بلجيكي اسمه جورج ميرزباخ، وكان بيخدم في الأول أنهي جالية؟",
+    "options": [
+      {
+        "en": "Railway workers",
+        "ar": "عمال السكة الحديد"
+      },
+      {
+        "en": "Egyptian army officers",
+        "ar": "ضباط الجيش المصري"
+      },
+      {
+        "en": "Al-Azhar students",
+        "ar": "طلاب الأزهر"
+      },
+      {
+        "en": "Foreign residents in Cairo",
+        "ar": "الجالية الأجنبية في القاهرة"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Zamalek was founded by Belgian lawyer George Merzbach in 1911, initially serving foreign residents before opening to Egyptians.",
+    "explanation_ar": "الزمالك اتأسس على يد المحامي البلجيكي جورج ميرزباخ سنة 1911، وكان بيخدم الجالية الأجنبية الأول قبل ما يفتح للمصريين."
+  },
+  {
+    "id": "FBP-100-037",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "The first Ballon d'Or winner from outside Europe, after the 1995 rule change, was a forward from which nation?",
+    "question_ar": "أول لاعب خارج أوروبا يفوز بالبالون دور بعد تغيير القاعدة سنة 1995 كان مهاجم من أنهي دولة؟",
+    "options": [
+      {
+        "en": "Liberia (George Weah)",
+        "ar": "ليبيريا (جورج ويا)"
+      },
+      {
+        "en": "Brazil (Ronaldo)",
+        "ar": "البرازيل (رونالدو)"
+      },
+      {
+        "en": "Argentina (Gabriel Batistuta)",
+        "ar": "الأرجنتين (جابرييل باتيستوتا)"
+      },
+      {
+        "en": "Nigeria (Nwankwo Kanu)",
+        "ar": "نيجيريا (نوانكو كانو)"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "George Weah of Liberia was the first winner after the Ballon d'Or opened to all nationalities in 1995.",
+    "explanation_ar": "جورج ويا من ليبيريا كان أول فائز بعد ما البالون دور اتفتحت لكل الجنسيات سنة 1995."
+  },
+  {
+    "id": "FBP-100-038",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "In 1950, Brazil built the Maracana Stadium specifically to host the World Cup, with an original capacity estimated at over how many?",
+    "question_ar": "البرازيل بنت استاد الماراكانا خصيصًا عشان تستضيف كأس عالم 1950، وكانت سعته الأصلية بتتقدر بأكتر من كام متفرج؟",
+    "options": [
+      {
+        "en": "150,000",
+        "ar": "150 ألف"
+      },
+      {
+        "en": "200,000",
+        "ar": "200 ألف"
+      },
+      {
+        "en": "80,000",
+        "ar": "80 ألف"
+      },
+      {
+        "en": "60,000",
+        "ar": "60 ألف"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "The original Maracana Stadium had an estimated capacity of around 200,000 for the 1950 World Cup.",
+    "explanation_ar": "استاد الماراكانا الأصلي كانت سعته متقدرة بحوالي 200 ألف متفرج لكأس عالم 1950."
+  },
+  {
+    "id": "FBP-100-039",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Just Fontaine's 13-goal haul at the 1958 World Cup came while he was only a backup, playing due to an injury to which usual starter?",
+    "question_ar": "جوست فونتين سجل 13 هدف في كأس عالم 1958 وهو أصلاً احتياطي، ولعب بسبب إصابة أنهي أساسي؟",
+    "options": [
+      {
+        "en": "Jean Vincent",
+        "ar": "جان فينسان"
+      },
+      {
+        "en": "Raymond Kopa",
+        "ar": "ريمون كوبا"
+      },
+      {
+        "en": "Rene Bliard",
+        "ar": "رينيه بليار"
+      },
+      {
+        "en": "Maryan Wisnieski",
+        "ar": "ماريان فيسنيسكي"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Just Fontaine got his chance at the 1958 World Cup after an injury to intended starter Rene Bliard.",
+    "explanation_ar": "جوست فونتين لعب أساسي في كأس عالم 1958 بعد إصابة الأساسي رينيه بليار."
+  },
+  {
+    "id": "FBP-100-040",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "The first-ever World Cup match, played on 13 July 1930, was between France and which nation?",
+    "question_ar": "أول مباراة في تاريخ كأس العالم، يوم 13 يوليو 1930، كانت بين فرنسا وأنهي منتخب؟",
+    "options": [
+      {
+        "en": "USA",
+        "ar": "أمريكا"
+      },
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Mexico",
+        "ar": "المكسيك"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "The first-ever World Cup match was France beating Mexico 4-1 on 13 July 1930.",
+    "explanation_ar": "أول مباراة في تاريخ كأس العالم كانت فرنسا كسبت المكسيك 4-1 يوم 13 يوليو 1930."
+  },
+  {
+    "id": "FBP-100-041",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Mohamed Salah's move to Chelsea in 2014 was for a reported fee of around how many million pounds?",
+    "question_ar": "انتقال محمد صلاح لتشيلسي سنة 2014 كان برسوم اتقدرت بحوالي كام مليون جنيه إسترليني؟",
+    "options": [
+      {
+        "en": "About 11 million pounds",
+        "ar": "حوالي 11 مليون جنيه إسترليني"
+      },
+      {
+        "en": "About 20 million pounds",
+        "ar": "حوالي 20 مليون جنيه إسترليني"
+      },
+      {
+        "en": "About 5 million pounds",
+        "ar": "حوالي 5 مليون جنيه إسترليني"
+      },
+      {
+        "en": "About 30 million pounds",
+        "ar": "حوالي 30 مليون جنيه إسترليني"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "Mohamed Salah's 2014 move to Chelsea from Basel was reported at around 11 million pounds.",
+    "explanation_ar": "انتقال محمد صلاح لتشيلسي سنة 2014 من بازل كان بحوالي 11 مليون جنيه إسترليني."
+  },
+  {
+    "id": "FBP-100-042",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Liverpool's 2017 signing of Mohamed Salah from Roma, then a club-record fee, was reported at around how many million pounds?",
+    "question_ar": "ليفربول جاب محمد صلاح من روما سنة 2017 برقم قياسي للنادي، اتقدر بحوالي كام مليون جنيه إسترليني؟",
+    "options": [
+      {
+        "en": "About 50 million pounds",
+        "ar": "حوالي 50 مليون جنيه إسترليني"
+      },
+      {
+        "en": "About 36.9 million pounds",
+        "ar": "حوالي 36.9 مليون جنيه إسترليني"
+      },
+      {
+        "en": "About 25 million pounds",
+        "ar": "حوالي 25 مليون جنيه إسترليني"
+      },
+      {
+        "en": "About 60 million pounds",
+        "ar": "حوالي 60 مليون جنيه إسترليني"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Liverpool signed Mohamed Salah from Roma in 2017 for a then club-record fee of around 36.9 million pounds.",
+    "explanation_ar": "ليفربول جاب محمد صلاح من روما سنة 2017 برقم قياسي للنادي، حوالي 36.9 مليون جنيه إسترليني."
+  },
+  {
+    "id": "FBP-100-043",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Before Liverpool, Mohamed Salah had an unsuccessful spell at Chelsea under which manager, who rarely gave him first-team chances?",
+    "question_ar": "قبل ليفربول، محمد صلاح كان ليه فترة مش ناجحة في تشيلسي تحت قيادة أنهي مدرب كان نادرًا ما بيشركه؟",
+    "options": [
+      {
+        "en": "Carlo Ancelotti",
+        "ar": "كارلو أنشيلوتي"
+      },
+      {
+        "en": "Antonio Conte",
+        "ar": "أنطونيو كونتي"
+      },
+      {
+        "en": "Jose Mourinho",
+        "ar": "جوزيه مورينيو"
+      },
+      {
+        "en": "Rafael Benitez",
+        "ar": "رافائيل بينيتيز"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Mohamed Salah struggled for game time under Jose Mourinho at Chelsea before being loaned out and eventually sold.",
+    "explanation_ar": "محمد صلاح عانى من قلة الفرص تحت قيادة جوزيه مورينيو في تشيلسي قبل ما يتعار وبعدين يتباع."
+  },
+  {
+    "id": "FBP-100-044",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Al Ahly's record appearance holder, with hundreds of matches for the club, is which long-serving defender?",
+    "question_ar": "صاحب رقم أكتر مشاركات في تاريخ الأهلي بأكتر من 500 مباراة هو أنهي مدافع أقل شهرة؟",
+    "options": [
+      {
+        "en": "Islam Gamal",
+        "ar": "إسلام جمال"
+      },
+      {
+        "en": "Ahmed Fathy",
+        "ar": "أحمد فتحي"
+      },
+      {
+        "en": "Saad Samir",
+        "ar": "سعد سمير"
+      },
+      {
+        "en": "Wael Gomaa",
+        "ar": "وائل جمعة"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Wael Gomaa holds Al Ahly's all-time appearance record with hundreds of matches across his long career.",
+    "explanation_ar": "وائل جمعة صاحب رقم أكتر مشاركات في تاريخ الأهلي عبر مشواره الطويل."
+  },
+  {
+    "id": "FBP-100-045",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "The original Africa Cup of Nations trophy was named after which figure, CAF's first-ever president, an Egyptian lawyer?",
+    "question_ar": "كأس أمم أفريقيا الأصلي كان مسمى على اسم أنهي شخصية، أول رئيس للكاف، وكان محامي مصري؟",
+    "options": [
+      {
+        "en": "Abdel Aziz Abdallah Salem",
+        "ar": "عبد العزيز عبد الله سالم"
+      },
+      {
+        "en": "Mahmoud El-Gohary",
+        "ar": "محمود الجوهري"
+      },
+      {
+        "en": "Yidnekatchew Tessema",
+        "ar": "يدنكاتشو تيسيما"
+      },
+      {
+        "en": "Hassan Moustafa",
+        "ar": "حسن مصطفى"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The original AFCON trophy was named after Abdel Aziz Abdallah Salem, CAF's first president, an Egyptian.",
+    "explanation_ar": "الكأس الأصلي لأمم أفريقيا كان مسمى على اسم عبد العزيز عبد الله سالم، أول رئيس للكاف، وكان مصري."
+  },
+  {
+    "id": "FBP-100-046",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Egypt's only goal in the 2010 AFCON final against Ghana, scored by Gedo, came in which half of the match?",
+    "question_ar": "هدف مصر الوحيد في نهائي أمم أفريقيا 2010 ضد غانا، اللي سجله جيدو، كان في أنهي شوط؟",
+    "options": [
+      {
+        "en": "The first half",
+        "ar": "الشوط الأول"
+      },
+      {
+        "en": "The second half",
+        "ar": "الشوط الثاني"
+      },
+      {
+        "en": "Extra time",
+        "ar": "الوقت الإضافي"
+      },
+      {
+        "en": "Injury time of the first half",
+        "ar": "الوقت بدل الضايع في الشوط الأول"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Gedo's winning goal for Egypt against Ghana in the 2010 AFCON final came in the second half.",
+    "explanation_ar": "هدف جيدو الفوز لمصر ضد غانا في نهائي 2010 اتسجل في الشوط الثاني."
+  },
+  {
+    "id": "FBP-100-047",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "The Egyptian Premier League's first-ever champion, in the 1948-49 season, was which club?",
+    "question_ar": "أول بطل للدوري المصري الممتاز في موسمه الأول 1948-49 كان أنهي نادي؟",
+    "options": [
+      {
+        "en": "Tersana",
+        "ar": "الترسانة"
+      },
+      {
+        "en": "Zamalek (then Farouk El Awal)",
+        "ar": "الزمالك (وقتها فاروق الأول)"
+      },
+      {
+        "en": "Al Ahly",
+        "ar": "الأهلي"
+      },
+      {
+        "en": "Al Masry",
+        "ar": "المصري"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation_en": "Al Ahly won the first Egyptian league championship in the 1948-49 season.",
+    "explanation_ar": "الأهلي فاز بأول بطولة دوري مصري في موسمه الأول 1948-49."
+  },
+  {
+    "id": "FBP-100-048",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Mahmoud El Khatib made his international debut for Egypt at what unusually young age, years before his Al Ahly stardom peaked?",
+    "question_ar": "محمود الخطيب لعب أول مباراة دولية ليه مع مصر وهو عنده كام سنة تقريبًا؟",
+    "options": [
+      {
+        "en": "22 years old",
+        "ar": "22 سنة"
+      },
+      {
+        "en": "25 years old",
+        "ar": "25 سنة"
+      },
+      {
+        "en": "17 years old",
+        "ar": "17 سنة"
+      },
+      {
+        "en": "19 years old",
+        "ar": "19 سنة"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation_en": "Mahmoud El Khatib made his international debut as a teenager, around 19 years old.",
+    "explanation_ar": "محمود الخطيب لعب أول مباراة دولية ليه وهو لسه مراهق، حوالي 19 سنة."
+  },
+  {
+    "id": "FBP-100-049",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Goalkeepers could once handle the ball anywhere in their own half, before this right was restricted to the penalty area in which year?",
+    "question_ar": "في الأول الجولكيبر كان يقدر يمسك الكورة بإيده في كل نص ملعبه، قبل ما القانون يتقيد لمنطقة الجزاء بس في أنهي عقد؟",
+    "options": [
+      {
+        "en": "1912",
+        "ar": "1912"
+      },
+      {
+        "en": "1950s",
+        "ar": "الخمسينات"
+      },
+      {
+        "en": "1930s",
+        "ar": "الثلاثينات"
+      },
+      {
+        "en": "1890s",
+        "ar": "التسعينات من القرن التاسع عشر"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation_en": "The goalkeeper's handling rights were restricted to the penalty area in 1912, having previously covered the whole half.",
+    "explanation_ar": "حق الجولكيبر في إمساك الكورة بإيده اتقيد لمنطقة الجزاء بس سنة 1912، بعد ما كان شامل نص الملعب كله."
+  },
+  {
+    "id": "FBP-100-050",
+    "category": "Football",
+    "category_ar": "كرة قدم",
+    "value": 100,
+    "difficulty": 5,
+    "question_en": "Elite long-throw specialists in professional football, like Rory Delap, have been recorded throwing the ball over roughly how many meters?",
+    "question_ar": "لاعبين متخصصين في الرمية الطويلة زي روري ديلاب سجلوا رميات توصل لحوالي كام متر؟",
+    "options": [
+      {
+        "en": "Over 15 meters",
+        "ar": "أكتر من 15 متر"
+      },
+      {
+        "en": "Over 35 meters",
+        "ar": "أكتر من 35 متر"
+      },
+      {
+        "en": "Over 55 meters",
+        "ar": "أكتر من 55 متر"
+      },
+      {
+        "en": "Over 25 meters",
+        "ar": "أكتر من 25 متر"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation_en": "Elite long-throw specialists have been recorded throwing the ball over 35 meters in professional matches.",
+    "explanation_ar": "لاعبين متخصصين في الرمية الطويلة سجلوا رميات تخطت 35 متر في مباريات احترافية."
+  }
+]

@@ -8,12 +8,24 @@
     "question_en": "Which Egyptian club holds the record for the most CAF Champions League titles?",
     "question_ar": "أنهي نادي مصري عنده أكتر ألقاب في دوري أبطال أفريقيا؟",
     "options": [
-      {"en": "Zamalek", "ar": "الزمالك"},
-      {"en": "Al Ahly", "ar": "الأهلي"},
-      {"en": "Ismaily", "ar": "الإسماعيلي"},
-      {"en": "Pyramids FC", "ar": "بيراميدز"}
+      {
+        "en": "Al Ahly",
+        "ar": "الأهلي"
+      },
+      {
+        "en": "Zamalek",
+        "ar": "الزمالك"
+      },
+      {
+        "en": "Ismaily",
+        "ar": "الإسماعيلي"
+      },
+      {
+        "en": "Pyramids FC",
+        "ar": "بيراميدز"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Al Ahly has won the CAF Champions League more times than any other club in Africa.",
     "explanation_ar": "الأهلي عنده أكتر ألقاب في دوري أبطال أفريقيا من أي نادي تاني.",
     "verified_as_of": "2025-06"
@@ -27,12 +39,24 @@
     "question_en": "Which club has won the most Premier League titles since it began in 1992?",
     "question_ar": "أنهي فريق عنده أكتر ألقاب في الدوري الإنجليزي الممتاز من ساعة ما اتأسس سنة 1992؟",
     "options": [
-      {"en": "Chelsea", "ar": "تشيلسي"},
-      {"en": "Manchester City", "ar": "مانشستر سيتي"},
-      {"en": "Manchester United", "ar": "مانشستر يونايتد"},
-      {"en": "Arsenal", "ar": "أرسنال"}
+      {
+        "en": "Chelsea",
+        "ar": "تشيلسي"
+      },
+      {
+        "en": "Manchester United",
+        "ar": "مانشستر يونايتد"
+      },
+      {
+        "en": "Manchester City",
+        "ar": "مانشستر سيتي"
+      },
+      {
+        "en": "Arsenal",
+        "ar": "أرسنال"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Manchester United have won 13 Premier League titles, more than any other club.",
     "explanation_ar": "مانشستر يونايتد فاز بـ13 لقب في البريميرليج، أكتر من أي فريق تاني.",
     "verified_as_of": "2025-06"
@@ -46,12 +70,24 @@
     "question_en": "Which country hosted and won the first-ever FIFA World Cup in 1930?",
     "question_ar": "أنهي دولة استضافت وفازت بأول كأس عالم سنة 1930؟",
     "options": [
-      {"en": "Argentina", "ar": "الأرجنتين"},
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Italy", "ar": "إيطاليا"},
-      {"en": "Uruguay", "ar": "أوروجواي"}
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Uruguay",
+        "ar": "أوروجواي"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Uruguay hosted the first World Cup in 1930 and beat Argentina in the final to win it.",
     "explanation_ar": "أوروجواي استضافت أول كأس عالم سنة 1930 وفازت على الأرجنتين في النهائي."
   },
@@ -64,12 +100,24 @@
     "question_en": "This Egyptian goalkeeper became the oldest player ever to appear at a World Cup, at 45 in 2018. Who is he?",
     "question_ar": "الجولكيبر المصري ده بقى أكبر لاعب يلعب في تاريخ كأس العالم وهو عنده 45 سنة سنة 2018. مين هو؟",
     "options": [
-      {"en": "Ahmed El Shenawy", "ar": "أحمد الشناوي"},
-      {"en": "Sherif Ekramy", "ar": "شريف إكرامي"},
-      {"en": "Essam El-Hadary", "ar": "عصام الحضري"},
-      {"en": "Wael Gomaa", "ar": "وائل جمعة"}
+      {
+        "en": "Ahmed El Shenawy",
+        "ar": "أحمد الشناوي"
+      },
+      {
+        "en": "Sherif Ekramy",
+        "ar": "شريف إكرامي"
+      },
+      {
+        "en": "Wael Gomaa",
+        "ar": "وائل جمعة"
+      },
+      {
+        "en": "Essam El-Hadary",
+        "ar": "عصام الحضري"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Essam El-Hadary played at the 2018 World Cup for Egypt at age 45, a record.",
     "explanation_ar": "عصام الحضري لعب في كأس عالم 2018 مع مصر وهو عنده 45 سنة، رقم قياسي."
   },
@@ -82,12 +130,24 @@
     "question_en": "Since the rule change, how many substitutions can each team make in 90 minutes in the Premier League?",
     "question_ar": "بعد تغيير القانون، كل فريق بيغيّر كام لاعب في الـ90 دقيقة بالدوري الإنجليزي؟",
     "options": [
-      {"en": "3", "ar": "3"},
-      {"en": "5", "ar": "5"},
-      {"en": "6", "ar": "6"},
-      {"en": "4", "ar": "4"}
+      {
+        "en": "5",
+        "ar": "5"
+      },
+      {
+        "en": "3",
+        "ar": "3"
+      },
+      {
+        "en": "6",
+        "ar": "6"
+      },
+      {
+        "en": "4",
+        "ar": "4"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "The Premier League allows 5 substitutions per team in normal time.",
     "explanation_ar": "الدوري الإنجليزي بيسمح بـ5 تبديلات لكل فريق في الوقت الأصلي.",
     "verified_as_of": "2025-06"
@@ -101,12 +161,24 @@
     "question_en": "Which country has won the Africa Cup of Nations more times than any other?",
     "question_ar": "أنهي دولة فازت بكأس أمم أفريقيا أكتر من أي دولة تانية؟",
     "options": [
-      {"en": "Cameroon", "ar": "الكاميرون"},
-      {"en": "Ghana", "ar": "غانا"},
-      {"en": "Egypt", "ar": "مصر"},
-      {"en": "Nigeria", "ar": "نيجيريا"}
+      {
+        "en": "Cameroon",
+        "ar": "الكاميرون"
+      },
+      {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      {
+        "en": "Ghana",
+        "ar": "غانا"
+      },
+      {
+        "en": "Nigeria",
+        "ar": "نيجيريا"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Egypt has won the Africa Cup of Nations 7 times, the most of any nation.",
     "explanation_ar": "مصر فازت بكأس الأمم الأفريقية 7 مرات، أكتر من أي دولة.",
     "verified_as_of": "2025-06"
@@ -120,12 +192,24 @@
     "question_en": "Which club has won the most UEFA Champions League titles in history?",
     "question_ar": "أنهي نادي عنده أكتر ألقاب في دوري أبطال أوروبا في التاريخ؟",
     "options": [
-      {"en": "AC Milan", "ar": "ميلان"},
-      {"en": "Bayern Munich", "ar": "بايرن ميونيخ"},
-      {"en": "Liverpool", "ar": "ليفربول"},
-      {"en": "Real Madrid", "ar": "ريال مدريد"}
+      {
+        "en": "AC Milan",
+        "ar": "ميلان"
+      },
+      {
+        "en": "Bayern Munich",
+        "ar": "بايرن ميونيخ"
+      },
+      {
+        "en": "Real Madrid",
+        "ar": "ريال مدريد"
+      },
+      {
+        "en": "Liverpool",
+        "ar": "ليفربول"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "explanation_en": "Real Madrid have won the Champions League/European Cup more than any other club.",
     "explanation_ar": "ريال مدريد عنده أكتر ألقاب في دوري الأبطال من أي نادي تاني.",
     "verified_as_of": "2025-06"
@@ -139,12 +223,24 @@
     "question_en": "This Al Ahly legend, nicknamed 'Bibo', was named African Footballer of the Year in 1983. Who is he?",
     "question_ar": "أسطورة الأهلي ده، لقبه 'بيبو'، اتسمى أفضل لاعب في أفريقيا سنة 1983. مين هو؟",
     "options": [
-      {"en": "Hossam Hassan", "ar": "حسام حسن"},
-      {"en": "Mahmoud El Khatib", "ar": "محمود الخطيب"},
-      {"en": "Taher Abouzaid", "ar": "طاهر أبوزيد"},
-      {"en": "Ahmed Mortada", "ar": "أحمد مرتضى"}
+      {
+        "en": "Hossam Hassan",
+        "ar": "حسام حسن"
+      },
+      {
+        "en": "Ahmed Mortada",
+        "ar": "أحمد مرتضى"
+      },
+      {
+        "en": "Taher Abouzaid",
+        "ar": "طاهر أبوزيد"
+      },
+      {
+        "en": "Mahmoud El Khatib",
+        "ar": "محمود الخطيب"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Mahmoud El Khatib, nicknamed Bibo, is an Al Ahly and Egypt legend and 1983 African Player of the Year.",
     "explanation_ar": "محمود الخطيب 'بيبو' أسطورة الأهلي ومصر واتسمى أفضل لاعب أفريقي سنة 1983."
   },
@@ -157,12 +253,24 @@
     "question_en": "In football, what is the penalty for a player receiving two yellow cards in the same match?",
     "question_ar": "لو اللاعب أخد كارت أصفر تاني في نفس المباراة، بيحصله إيه؟",
     "options": [
-      {"en": "A one-match ban only", "ar": "إيقاف مباراة واحدة بس"},
-      {"en": "Nothing extra happens", "ar": "مفيش حاجة بتحصل"},
-      {"en": "A direct free kick to the opponent", "ar": "ضربة حرة مباشرة للخصم"},
-      {"en": "A red card and sending off", "ar": "كارت أحمر وطرد"}
+      {
+        "en": "A red card and sending off",
+        "ar": "كارت أحمر وطرد"
+      },
+      {
+        "en": "Nothing extra happens",
+        "ar": "مفيش حاجة بتحصل"
+      },
+      {
+        "en": "A direct free kick to the opponent",
+        "ar": "ضربة حرة مباشرة للخصم"
+      },
+      {
+        "en": "A one-match ban only",
+        "ar": "إيقاف مباراة واحدة بس"
+      }
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation_en": "Two yellow cards in one match automatically become a red card and the player is sent off.",
     "explanation_ar": "لما اللاعب ياخد كارتين أصفر في نفس المباراة بيتحول أوتوماتيك لكارت أحمر وبيتطرد."
   },
@@ -175,12 +283,24 @@
     "question_en": "Which African player is the only one in history to win the Ballon d'Or, in 1995?",
     "question_ar": "أنهي لاعب أفريقي هو الوحيد في التاريخ اللي فاز بالكرة الدهبية، سنة 1995؟",
     "options": [
-      {"en": "Didier Drogba", "ar": "ديدييه دروجبا"},
-      {"en": "Samuel Eto'o", "ar": "صامويل إيتو"},
-      {"en": "George Weah", "ar": "جورج ويا"},
-      {"en": "Yaya Toure", "ar": "يايا توريه"}
+      {
+        "en": "Didier Drogba",
+        "ar": "ديدييه دروجبا"
+      },
+      {
+        "en": "George Weah",
+        "ar": "جورج ويا"
+      },
+      {
+        "en": "Samuel Eto'o",
+        "ar": "صامويل إيتو"
+      },
+      {
+        "en": "Yaya Toure",
+        "ar": "يايا توريه"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "George Weah of Liberia won the Ballon d'Or in 1995, the only African to do so.",
     "explanation_ar": "جورج ويا من ليبيريا فاز بالكرة الدهبية سنة 1995، وهو الأفريقي الوحيد اللي فاز بيها."
   },
@@ -193,10 +313,22 @@
     "question_en": "Which Egyptian club was the first African club ever to win the CAF Champions League, in 1969?",
     "question_ar": "أنهي نادي مصري كان أول نادي أفريقي يفوز بدوري أبطال أفريقيا سنة 1969؟",
     "options": [
-      {"en": "Al Ahly", "ar": "الأهلي"},
-      {"en": "Zamalek", "ar": "الزمالك"},
-      {"en": "Ismaily", "ar": "الإسماعيلي"},
-      {"en": "Al Masry", "ar": "المصري"}
+      {
+        "en": "Al Ahly",
+        "ar": "الأهلي"
+      },
+      {
+        "en": "Zamalek",
+        "ar": "الزمالك"
+      },
+      {
+        "en": "Ismaily",
+        "ar": "الإسماعيلي"
+      },
+      {
+        "en": "Al Masry",
+        "ar": "المصري"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Ismaily SC won the inaugural African Champions Clubs' Cup in 1969.",
@@ -211,12 +343,24 @@
     "question_en": "Which country won the 2018 FIFA World Cup, held in Russia?",
     "question_ar": "أنهي دولة فازت بكأس العالم 2018 في روسيا؟",
     "options": [
-      {"en": "Croatia", "ar": "كرواتيا"},
-      {"en": "Belgium", "ar": "بلجيكا"},
-      {"en": "France", "ar": "فرنسا"},
-      {"en": "England", "ar": "إنجلترا"}
+      {
+        "en": "Croatia",
+        "ar": "كرواتيا"
+      },
+      {
+        "en": "Belgium",
+        "ar": "بلجيكا"
+      },
+      {
+        "en": "England",
+        "ar": "إنجلترا"
+      },
+      {
+        "en": "France",
+        "ar": "فرنسا"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "France beat Croatia 4-2 in the final to win the 2018 World Cup.",
     "explanation_ar": "فرنسا فازت على كرواتيا 4-2 في النهائي وكسبت كأس عالم 2018."
   },
@@ -229,10 +373,22 @@
     "question_en": "This Egyptian winger, a Liverpool and Al Ahly product, is nicknamed 'Trezeguet' after a French star. Who is he?",
     "question_ar": "الجناح المصري ده، طلع من الأهلي، لقبه 'تريزيجيه' على اسم لاعب فرنسي شهير. مين هو؟",
     "options": [
-      {"en": "Mahmoud Hassan", "ar": "محمود حسن"},
-      {"en": "Omar Marmoush", "ar": "عمر مرموش"},
-      {"en": "Mostafa Mohamed", "ar": "مصطفى محمد"},
-      {"en": "Amr Warda", "ar": "عمرو وردة"}
+      {
+        "en": "Mahmoud Hassan",
+        "ar": "محمود حسن"
+      },
+      {
+        "en": "Omar Marmoush",
+        "ar": "عمر مرموش"
+      },
+      {
+        "en": "Mostafa Mohamed",
+        "ar": "مصطفى محمد"
+      },
+      {
+        "en": "Amr Warda",
+        "ar": "عمرو وردة"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "Mahmoud Hassan is nicknamed Trezeguet after French striker David Trezeguet.",
@@ -247,10 +403,22 @@
     "question_en": "Which governing body organizes football competitions across the African continent?",
     "question_ar": "أنهي اتحاد هو المسؤول عن بطولات الكورة في قارة أفريقيا؟",
     "options": [
-      {"en": "UEFA", "ar": "يويفا"},
-      {"en": "CAF", "ar": "الكاف"},
-      {"en": "CONMEBOL", "ar": "الكونميبول"},
-      {"en": "AFC", "ar": "الـ AFC"}
+      {
+        "en": "UEFA",
+        "ar": "يويفا"
+      },
+      {
+        "en": "CAF",
+        "ar": "الكاف"
+      },
+      {
+        "en": "CONMEBOL",
+        "ar": "الكونميبول"
+      },
+      {
+        "en": "AFC",
+        "ar": "الـ AFC"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "CAF, the Confederation of African Football, governs football in Africa.",
@@ -265,12 +433,24 @@
     "question_en": "In the 2005 Champions League final, which club came back from 3-0 down at half-time to beat AC Milan on penalties?",
     "question_ar": "في نهائي دوري الأبطال 2005، أنهي فريق رجع من 3-0 في الشوط الأول وكسب ميلان بركلات الترجيح؟",
     "options": [
-      {"en": "Chelsea", "ar": "تشيلسي"},
-      {"en": "Liverpool", "ar": "ليفربول"},
-      {"en": "Manchester United", "ar": "مانشستر يونايتد"},
-      {"en": "Juventus", "ar": "يوفنتوس"}
+      {
+        "en": "Chelsea",
+        "ar": "تشيلسي"
+      },
+      {
+        "en": "Manchester United",
+        "ar": "مانشستر يونايتد"
+      },
+      {
+        "en": "Liverpool",
+        "ar": "ليفربول"
+      },
+      {
+        "en": "Juventus",
+        "ar": "يوفنتوس"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Liverpool's 'Miracle of Istanbul' saw them beat AC Milan on penalties after trailing 3-0.",
     "explanation_ar": "ليفربول عمل 'معجزة إسطنبول' وكسب ميلان بركلات الترجيح بعد ما كان متأخر 3-0."
   },
@@ -283,12 +463,24 @@
     "question_en": "A throw-in is awarded when the ball fully crosses which line, last touched by the opposing team?",
     "question_ar": "الرمية الجانبية بتتحسب لما الكورة تعدي بالكامل أنهي خط، وتبقى آخر لمسة لفريق الخصم؟",
     "options": [
-      {"en": "The goal line", "ar": "خط المرمى"},
-      {"en": "The touchline", "ar": "الخط الجانبي"},
-      {"en": "The halfway line", "ar": "خط النص"},
-      {"en": "The penalty area line", "ar": "خط منطقة الجزاء"}
+      {
+        "en": "The goal line",
+        "ar": "خط المرمى"
+      },
+      {
+        "en": "The penalty area line",
+        "ar": "خط منطقة الجزاء"
+      },
+      {
+        "en": "The halfway line",
+        "ar": "خط النص"
+      },
+      {
+        "en": "The touchline",
+        "ar": "الخط الجانبي"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "A throw-in is given when the ball crosses the touchline, the side boundary of the pitch.",
     "explanation_ar": "الرمية الجانبية بتتحسب لما الكورة تعدي الخط الجانبي، حدود الملعب من الجنب."
   },
@@ -301,12 +493,24 @@
     "question_en": "Which Egyptian league club is nicknamed 'The Horsemen' or 'The White Knights'?",
     "question_ar": "أنهي نادي مصري لقبه 'الفرسان البيض'؟",
     "options": [
-      {"en": "Al Ahly", "ar": "الأهلي"},
-      {"en": "Pyramids FC", "ar": "بيراميدز"},
-      {"en": "Zamalek", "ar": "الزمالك"},
-      {"en": "Al Masry", "ar": "المصري"}
+      {
+        "en": "Zamalek",
+        "ar": "الزمالك"
+      },
+      {
+        "en": "Pyramids FC",
+        "ar": "بيراميدز"
+      },
+      {
+        "en": "Al Ahly",
+        "ar": "الأهلي"
+      },
+      {
+        "en": "Al Masry",
+        "ar": "المصري"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Zamalek are nicknamed the White Knights (Al Fursan Al Bid).",
     "explanation_ar": "الزمالك لقبه 'الفرسان البيض'."
   },
@@ -319,12 +523,24 @@
     "question_en": "Which Dutch legend popularized the attacking philosophy known as 'Total Football' in the 1970s?",
     "question_ar": "أنهي أسطورة هولندية نشرت فلسفة اللعب الهجومي اللي اسمها 'الكورة الشاملة' في السبعينات؟",
     "options": [
-      {"en": "Johan Cruyff", "ar": "يوهان كرويف"},
-      {"en": "Ruud Gullit", "ar": "رود خوليت"},
-      {"en": "Marco van Basten", "ar": "ماركو فان باستن"},
-      {"en": "Dennis Bergkamp", "ar": "دينيس بيركامب"}
+      {
+        "en": "Ruud Gullit",
+        "ar": "رود خوليت"
+      },
+      {
+        "en": "Johan Cruyff",
+        "ar": "يوهان كرويف"
+      },
+      {
+        "en": "Marco van Basten",
+        "ar": "ماركو فان باستن"
+      },
+      {
+        "en": "Dennis Bergkamp",
+        "ar": "دينيس بيركامب"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Johan Cruyff was the icon of Total Football with Ajax and the Netherlands.",
     "explanation_ar": "يوهان كرويف كان أيقونة 'الكورة الشاملة' مع أياكس ومنتخب هولندا."
   },
@@ -337,12 +553,24 @@
     "question_en": "This Egyptian midfielder captained the Pharaohs to three straight AFCON titles from 2006 to 2010. Who is he?",
     "question_ar": "لاعب الوسط المصري ده كان كابتن الفراعنة في 3 بطولات أمم أفريقيا متتالية من 2006 لـ2010. مين هو؟",
     "options": [
-      {"en": "Ahmed Hassan", "ar": "أحمد حسن"},
-      {"en": "Mohamed Aboutrika", "ar": "محمد أبو تريكة"},
-      {"en": "Ahmed Fathy", "ar": "أحمد فتحي"},
-      {"en": "Mohamed Barakat", "ar": "محمد بركات"}
+      {
+        "en": "Ahmed Fathy",
+        "ar": "أحمد فتحي"
+      },
+      {
+        "en": "Mohamed Aboutrika",
+        "ar": "محمد أبو تريكة"
+      },
+      {
+        "en": "Ahmed Hassan",
+        "ar": "أحمد حسن"
+      },
+      {
+        "en": "Mohamed Barakat",
+        "ar": "محمد بركات"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "Ahmed Hassan captained Egypt through its historic 2006-2010 AFCON three-peat.",
     "explanation_ar": "أحمد حسن كان كابتن مصر في هاتريك بطولات أمم أفريقيا من 2006 لـ2010."
   },
@@ -355,12 +583,24 @@
     "question_en": "What competition did Leicester City famously win in the 2015-16 season as 5000-1 underdogs?",
     "question_ar": "أنهي بطولة فاز بيها ليستر سيتي في موسم 2015-16 وهو كان فريق تحت التوقعات خالص؟",
     "options": [
-      {"en": "FA Cup", "ar": "كأس الاتحاد الإنجليزي"},
-      {"en": "Premier League", "ar": "الدوري الإنجليزي الممتاز"},
-      {"en": "League Cup", "ar": "كأس الرابطة"},
-      {"en": "Championship", "ar": "التشامبيونشيب"}
+      {
+        "en": "FA Cup",
+        "ar": "كأس الاتحاد الإنجليزي"
+      },
+      {
+        "en": "Championship",
+        "ar": "التشامبيونشيب"
+      },
+      {
+        "en": "League Cup",
+        "ar": "كأس الرابطة"
+      },
+      {
+        "en": "Premier League",
+        "ar": "الدوري الإنجليزي الممتاز"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Leicester City won the 2015-16 Premier League title in one of football's biggest shocks.",
     "explanation_ar": "ليستر سيتي فاز بالدوري الإنجليزي موسم 2015-16 في واحدة من أكبر مفاجآت الكورة."
   },
@@ -373,12 +613,24 @@
     "question_en": "Which Egyptian club was founded in 1907 and is often called 'the Club of the Century' by CAF?",
     "question_ar": "أنهي نادي مصري اتأسس سنة 1907 والكاف بتسميه 'نادي القرن'؟",
     "options": [
-      {"en": "Zamalek", "ar": "الزمالك"},
-      {"en": "Al Ahly", "ar": "الأهلي"},
-      {"en": "Al Ittihad", "ar": "الاتحاد"},
-      {"en": "Smouha", "ar": "سموحة"}
+      {
+        "en": "Al Ahly",
+        "ar": "الأهلي"
+      },
+      {
+        "en": "Zamalek",
+        "ar": "الزمالك"
+      },
+      {
+        "en": "Al Ittihad",
+        "ar": "الاتحاد"
+      },
+      {
+        "en": "Smouha",
+        "ar": "سموحة"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Al Ahly, founded in 1907, was named CAF's Club of the Century.",
     "explanation_ar": "الأهلي، اتأسس سنة 1907، واتسمى 'نادي القرن' من الكاف."
   },
@@ -391,12 +643,24 @@
     "question_en": "At the 1986 World Cup, which player scored the controversial 'Hand of God' goal against England?",
     "question_ar": "في كأس عالم 1986، أنهي لاعب سجل هدف 'يد الإله' المثير للجدل ضد إنجلترا؟",
     "options": [
-      {"en": "Diego Maradona", "ar": "دييجو مارادونا"},
-      {"en": "Jorge Valdano", "ar": "خورخي فالدانو"},
-      {"en": "Mario Kempes", "ar": "ماريو كيمبيس"},
-      {"en": "Gary Lineker", "ar": "جاري لينيكر"}
+      {
+        "en": "Jorge Valdano",
+        "ar": "خورخي فالدانو"
+      },
+      {
+        "en": "Diego Maradona",
+        "ar": "دييجو مارادونا"
+      },
+      {
+        "en": "Mario Kempes",
+        "ar": "ماريو كيمبيس"
+      },
+      {
+        "en": "Gary Lineker",
+        "ar": "جاري لينيكر"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Diego Maradona punched the ball into the net in the 1986 quarter-final vs England.",
     "explanation_ar": "دييجو مارادونا خبط الكورة بإيده في الشباك في ربع نهائي 1986 ضد إنجلترا."
   },
@@ -409,12 +673,24 @@
     "question_en": "Which trophy do the top two teams in Egypt's Premier League and Cup competitions contest, as a season curtain-raiser?",
     "question_ar": "أنهي بطولة بيلعبها بطل الدوري وبطل كأس مصر في بداية الموسم؟",
     "options": [
-      {"en": "Egyptian Super Cup", "ar": "كأس السوبر المصري"},
-      {"en": "CAF Super Cup", "ar": "السوبر الأفريقي"},
-      {"en": "Egyptian League Cup", "ar": "كأس رابطة الأندية المصرية"},
-      {"en": "Confederation Cup", "ar": "كأس الكونفدرالية"}
+      {
+        "en": "Egyptian League Cup",
+        "ar": "كأس رابطة الأندية المصرية"
+      },
+      {
+        "en": "CAF Super Cup",
+        "ar": "السوبر الأفريقي"
+      },
+      {
+        "en": "Egyptian Super Cup",
+        "ar": "كأس السوبر المصري"
+      },
+      {
+        "en": "Confederation Cup",
+        "ar": "كأس الكونفدرالية"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "The Egyptian Super Cup pits the league champion against the cup winner.",
     "explanation_ar": "كأس السوبر المصري بيجمع بطل الدوري مع بطل كأس مصر."
   },
@@ -427,12 +703,24 @@
     "question_en": "This Ivorian striker became a Chelsea legend and famously scored the equalizer in the 2012 Champions League final. Who is he?",
     "question_ar": "المهاجم الإيفواري ده بقى أسطورة تشيلسي وسجل هدف التعادل الشهير في نهائي دوري أبطال 2012. مين هو؟",
     "options": [
-      {"en": "Yaya Toure", "ar": "يايا توريه"},
-      {"en": "Salomon Kalou", "ar": "سالومون كالو"},
-      {"en": "Didier Drogba", "ar": "ديدييه دروجبا"},
-      {"en": "Kolo Toure", "ar": "كولو توريه"}
+      {
+        "en": "Yaya Toure",
+        "ar": "يايا توريه"
+      },
+      {
+        "en": "Salomon Kalou",
+        "ar": "سالومون كالو"
+      },
+      {
+        "en": "Kolo Toure",
+        "ar": "كولو توريه"
+      },
+      {
+        "en": "Didier Drogba",
+        "ar": "ديدييه دروجبا"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Didier Drogba scored a late header to equalize before Chelsea won the 2012 final on penalties.",
     "explanation_ar": "ديدييه دروجبا سجل هدف تعادل بالراس في الوقت الضايع قبل ما تشيلسي يكسب نهائي 2012 بركلات الترجيح."
   },
@@ -445,10 +733,22 @@
     "question_en": "Which trophy is awarded to the winner of the match between the Champions League and Europa League champions?",
     "question_ar": "أنهي كأس بتتاخد في المباراة بين بطل دوري الأبطال وبطل الدوري الأوروبي؟",
     "options": [
-      {"en": "UEFA Super Cup", "ar": "السوبر الأوروبي"},
-      {"en": "FIFA Club World Cup", "ar": "كأس العالم للأندية"},
-      {"en": "UEFA Nations League", "ar": "دوري الأمم الأوروبي"},
-      {"en": "Community Shield", "ar": "درع المجتمع"}
+      {
+        "en": "UEFA Super Cup",
+        "ar": "السوبر الأوروبي"
+      },
+      {
+        "en": "FIFA Club World Cup",
+        "ar": "كأس العالم للأندية"
+      },
+      {
+        "en": "UEFA Nations League",
+        "ar": "دوري الأمم الأوروبي"
+      },
+      {
+        "en": "Community Shield",
+        "ar": "درع المجتمع"
+      }
     ],
     "correctAnswer": 0,
     "explanation_en": "The UEFA Super Cup is contested by the Champions League and Europa League winners.",
@@ -463,10 +763,22 @@
     "question_en": "Egypt's run to the 2018 World Cup ended its absence from the tournament of how many years?",
     "question_ar": "تأهل مصر لكأس عالم 2018 كان بعد غياب قد إيه عن البطولة؟",
     "options": [
-      {"en": "20 years", "ar": "20 سنة"},
-      {"en": "28 years", "ar": "28 سنة"},
-      {"en": "40 years", "ar": "40 سنة"},
-      {"en": "12 years", "ar": "12 سنة"}
+      {
+        "en": "20 years",
+        "ar": "20 سنة"
+      },
+      {
+        "en": "28 years",
+        "ar": "28 سنة"
+      },
+      {
+        "en": "40 years",
+        "ar": "40 سنة"
+      },
+      {
+        "en": "12 years",
+        "ar": "12 سنة"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Egypt last played at the World Cup in 1990, so 2018 ended a 28-year absence.",
@@ -481,12 +793,24 @@
     "question_en": "Which Brazilian is the only player to win the FIFA World Cup three times, in 1958, 1962 and 1970?",
     "question_ar": "أنهي لاعب برازيلي هو الوحيد اللي فاز بكأس العالم 3 مرات، سنة 1958 و1962 و1970؟",
     "options": [
-      {"en": "Garrincha", "ar": "جارينشا"},
-      {"en": "Pele", "ar": "بيليه"},
-      {"en": "Zico", "ar": "زيكو"},
-      {"en": "Rivelino", "ar": "ريفيلينو"}
+      {
+        "en": "Garrincha",
+        "ar": "جارينشا"
+      },
+      {
+        "en": "Zico",
+        "ar": "زيكو"
+      },
+      {
+        "en": "Pele",
+        "ar": "بيليه"
+      },
+      {
+        "en": "Rivelino",
+        "ar": "ريفيلينو"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Pele won the World Cup with Brazil in 1958, 1962 and 1970.",
     "explanation_ar": "بيليه فاز بكأس العالم مع البرازيل سنة 1958 و1962 و1970."
   },
@@ -499,12 +823,24 @@
     "question_en": "In a standard football match, how long is each half before stoppage time is added?",
     "question_ar": "كل شوط في المباراة الأصلية بيكون طوله كام دقيقة قبل ما يتزود الوقت الضايع؟",
     "options": [
-      {"en": "40 minutes", "ar": "40 دقيقة"},
-      {"en": "50 minutes", "ar": "50 دقيقة"},
-      {"en": "45 minutes", "ar": "45 دقيقة"},
-      {"en": "35 minutes", "ar": "35 دقيقة"}
+      {
+        "en": "40 minutes",
+        "ar": "40 دقيقة"
+      },
+      {
+        "en": "50 minutes",
+        "ar": "50 دقيقة"
+      },
+      {
+        "en": "35 minutes",
+        "ar": "35 دقيقة"
+      },
+      {
+        "en": "45 minutes",
+        "ar": "45 دقيقة"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "A standard football match has two 45-minute halves before stoppage time.",
     "explanation_ar": "المباراة الأصلية بتتكون من شوطين 45 دقيقة لكل واحد قبل الوقت الضايع."
   },
@@ -517,12 +853,24 @@
     "question_en": "Which Egyptian striker is Zamalek's all-time top scorer and a long-serving captain of the club?",
     "question_ar": "أنهي مهاجم مصري هو أكتر هداف في تاريخ الزمالك وكابتنه لسنين طويلة؟",
     "options": [
-      {"en": "Shikabala", "ar": "شيكابالا"},
-      {"en": "Hazem Emam", "ar": "حازم إمام"},
-      {"en": "Mahmoud Fathallah", "ar": "محمود فتح الله"},
-      {"en": "Farouk Jaafar", "ar": "فاروق جعفر"}
+      {
+        "en": "Mahmoud Fathallah",
+        "ar": "محمود فتح الله"
+      },
+      {
+        "en": "Hazem Emam",
+        "ar": "حازم إمام"
+      },
+      {
+        "en": "Shikabala",
+        "ar": "شيكابالا"
+      },
+      {
+        "en": "Farouk Jaafar",
+        "ar": "فاروق جعفر"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Mahmoud Fathallah is Zamalek's all-time leading scorer in the club's history.",
     "explanation_ar": "محمود فتح الله هو هداف الزمالك التاريخي."
   },
@@ -535,10 +883,22 @@
     "question_en": "Which country won the UEFA Euro 2016 final by beating hosts France 1-0 after extra time?",
     "question_ar": "أنهي منتخب فاز بنهائي يورو 2016 على فرنسا المستضيفة 1-0 في الوقت الإضافي؟",
     "options": [
-      {"en": "Germany", "ar": "ألمانيا"},
-      {"en": "Portugal", "ar": "البرتغال"},
-      {"en": "Wales", "ar": "ويلز"},
-      {"en": "Spain", "ar": "إسبانيا"}
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      },
+      {
+        "en": "Portugal",
+        "ar": "البرتغال"
+      },
+      {
+        "en": "Wales",
+        "ar": "ويلز"
+      },
+      {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Portugal beat France 1-0 in extra time to win Euro 2016.",
@@ -553,12 +913,24 @@
     "question_en": "Which Egyptian forward plays for Eintracht Frankfurt and later Manchester City after a breakout 2023-24 season?",
     "question_ar": "أنهي مهاجم مصري لعب لأينتراخت فرانكفورت وبعدين انتقل لمانشستر سيتي بعد موسم 2023-24 القوي؟",
     "options": [
-      {"en": "Mostafa Mohamed", "ar": "مصطفى محمد"},
-      {"en": "Omar Marmoush", "ar": "عمر مرموش"},
-      {"en": "Zizo", "ar": "زيزو"},
-      {"en": "Ahmed Sayed Zizo", "ar": "أحمد سيد زيزو"}
+      {
+        "en": "Mostafa Mohamed",
+        "ar": "مصطفى محمد"
+      },
+      {
+        "en": "Zizo",
+        "ar": "زيزو"
+      },
+      {
+        "en": "Omar Marmoush",
+        "ar": "عمر مرموش"
+      },
+      {
+        "en": "Ahmed Sayed Zizo",
+        "ar": "أحمد سيد زيزو"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Omar Marmoush starred for Eintracht Frankfurt before joining Manchester City.",
     "explanation_ar": "عمر مرموش لمع مع أينتراخت فرانكفورت قبل ما ينتقل لمانشستر سيتي.",
     "verified_as_of": "2025-06"
@@ -572,12 +944,24 @@
     "question_en": "A corner kick is awarded when the ball goes out of play over the goal line, last touched by which side?",
     "question_ar": "ركلة الركنية بتتحسب لما الكورة تخرج من خط المرمى وتبقى آخر لمسة لأنهي فريق؟",
     "options": [
-      {"en": "The attacking team", "ar": "الفريق المهاجم"},
-      {"en": "The defending team", "ar": "الفريق المدافع"},
-      {"en": "The referee's assistant", "ar": "الحكم المساعد"},
-      {"en": "Either team equally", "ar": "أي فريق من الاتنين"}
+      {
+        "en": "The attacking team",
+        "ar": "الفريق المهاجم"
+      },
+      {
+        "en": "Either team equally",
+        "ar": "أي فريق من الاتنين"
+      },
+      {
+        "en": "The referee's assistant",
+        "ar": "الحكم المساعد"
+      },
+      {
+        "en": "The defending team",
+        "ar": "الفريق المدافع"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "A corner is given to the attacking side when the ball last touches a defender before going out.",
     "explanation_ar": "الركنية بتتحسب للفريق المهاجم لما آخر لمسة تكون من لاعب مدافع."
   },
@@ -590,12 +974,24 @@
     "question_en": "Which Argentine great started his European career at Barcelona before ever playing for another club?",
     "question_ar": "أنهي أسطورة أرجنتينية بدأت مشوارها الأوروبي مع برشلونة قبل ما تلعب لأي نادي تاني؟",
     "options": [
-      {"en": "Diego Maradona", "ar": "دييجو مارادونا"},
-      {"en": "Lionel Messi", "ar": "ليونيل ميسي"},
-      {"en": "Sergio Aguero", "ar": "سيرجيو أجويرو"},
-      {"en": "Angel Di Maria", "ar": "أنخل دي ماريا"}
+      {
+        "en": "Lionel Messi",
+        "ar": "ليونيل ميسي"
+      },
+      {
+        "en": "Diego Maradona",
+        "ar": "دييجو مارادونا"
+      },
+      {
+        "en": "Sergio Aguero",
+        "ar": "سيرجيو أجويرو"
+      },
+      {
+        "en": "Angel Di Maria",
+        "ar": "أنخل دي ماريا"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Lionel Messi's entire European career before PSG was spent at Barcelona.",
     "explanation_ar": "ليونيل ميسي قضى مشواره الأوروبي كله قبل باريس سان جيرمان في برشلونة."
   },
@@ -608,12 +1004,24 @@
     "question_en": "Which Egyptian club is based in Port Said and is nicknamed 'Al Dakhleya'?",
     "question_ar": "أنهي نادي مصري مقره بورسعيد ولقبه 'الدخلاوية'؟",
     "options": [
-      {"en": "Al Masry", "ar": "المصري"},
-      {"en": "Ismaily", "ar": "الإسماعيلي"},
-      {"en": "Al Ittihad", "ar": "الاتحاد"},
-      {"en": "ENPPI", "ar": "الإنبي"}
+      {
+        "en": "Ismaily",
+        "ar": "الإسماعيلي"
+      },
+      {
+        "en": "Al Masry",
+        "ar": "المصري"
+      },
+      {
+        "en": "Al Ittihad",
+        "ar": "الاتحاد"
+      },
+      {
+        "en": "ENPPI",
+        "ar": "الإنبي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Al Masry SC, based in Port Said, is nicknamed Al Dakhleya.",
     "explanation_ar": "نادي المصري، ومقره بورسعيد، لقبه 'الدخلاوية'."
   },
@@ -626,10 +1034,22 @@
     "question_en": "Who is the all-time top scorer in Champions League history (group stage era onward)?",
     "question_ar": "مين هداف دوري أبطال أوروبا التاريخي؟",
     "options": [
-      {"en": "Lionel Messi", "ar": "ليونيل ميسي"},
-      {"en": "Karim Benzema", "ar": "كريم بنزيما"},
-      {"en": "Cristiano Ronaldo", "ar": "كريستيانو رونالدو"},
-      {"en": "Robert Lewandowski", "ar": "روبرت ليفاندوفسكي"}
+      {
+        "en": "Lionel Messi",
+        "ar": "ليونيل ميسي"
+      },
+      {
+        "en": "Karim Benzema",
+        "ar": "كريم بنزيما"
+      },
+      {
+        "en": "Cristiano Ronaldo",
+        "ar": "كريستيانو رونالدو"
+      },
+      {
+        "en": "Robert Lewandowski",
+        "ar": "روبرت ليفاندوفسكي"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Cristiano Ronaldo is the all-time top scorer in Champions League history.",
@@ -645,12 +1065,24 @@
     "question_en": "Which West African nation's 'Black Stars' is the national team nickname?",
     "question_ar": "أنهي دولة غرب أفريقية منتخبها القومي لقبه 'النجوم السودا'؟",
     "options": [
-      {"en": "Senegal", "ar": "السنغال"},
-      {"en": "Ivory Coast", "ar": "ساحل العاج"},
-      {"en": "Ghana", "ar": "غانا"},
-      {"en": "Mali", "ar": "مالي"}
+      {
+        "en": "Senegal",
+        "ar": "السنغال"
+      },
+      {
+        "en": "Ivory Coast",
+        "ar": "ساحل العاج"
+      },
+      {
+        "en": "Mali",
+        "ar": "مالي"
+      },
+      {
+        "en": "Ghana",
+        "ar": "غانا"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation_en": "Ghana's national team is nicknamed the Black Stars.",
     "explanation_ar": "منتخب غانا لقبه 'النجوم السودا'."
   },
@@ -663,12 +1095,24 @@
     "question_en": "At the 2021 AFCON final, Egypt lost on penalties to which eventual champions?",
     "question_ar": "في نهائي أمم أفريقيا 2021، مصر خسرت بركلات الترجيح قدام أنهي منتخب بطل؟",
     "options": [
-      {"en": "Cameroon", "ar": "الكاميرون"},
-      {"en": "Senegal", "ar": "السنغال"},
-      {"en": "Ivory Coast", "ar": "ساحل العاج"},
-      {"en": "Algeria", "ar": "الجزائر"}
+      {
+        "en": "Senegal",
+        "ar": "السنغال"
+      },
+      {
+        "en": "Cameroon",
+        "ar": "الكاميرون"
+      },
+      {
+        "en": "Ivory Coast",
+        "ar": "ساحل العاج"
+      },
+      {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Senegal beat Egypt on penalties in the 2021 AFCON final, played in 2022.",
     "explanation_ar": "السنغال كسبت مصر بركلات الترجيح في نهائي أمم أفريقيا 2021 اللي اتلعب فعليًا 2022."
   },
@@ -681,10 +1125,22 @@
     "question_en": "Which European league does Juventus, AC Milan and Inter Milan compete in?",
     "question_ar": "أنهي دوري أوروبي بيلعب فيه يوفنتوس وميلان وإنتر ميلان؟",
     "options": [
-      {"en": "La Liga", "ar": "الليجا"},
-      {"en": "Serie A", "ar": "الدوري الإيطالي"},
-      {"en": "Ligue 1", "ar": "الدوري الفرنسي"},
-      {"en": "Bundesliga", "ar": "البوندسليجا"}
+      {
+        "en": "La Liga",
+        "ar": "الليجا"
+      },
+      {
+        "en": "Serie A",
+        "ar": "الدوري الإيطالي"
+      },
+      {
+        "en": "Ligue 1",
+        "ar": "الدوري الفرنسي"
+      },
+      {
+        "en": "Bundesliga",
+        "ar": "البوندسليجا"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "Juventus, AC Milan and Inter Milan all play in Italy's Serie A.",
@@ -699,12 +1155,24 @@
     "question_en": "This Egyptian midfielder, 'the Smiling Assassin', scored a famous late winner against Algeria to send Egypt to 2010 AFCON final qualification. Who is he?",
     "question_ar": "لاعب الوسط المصري ده، لقبه 'القاتل الصامت'، سجل هدف فوز شهير في الوقت الضايع ضد الجزائر. مين هو؟",
     "options": [
-      {"en": "Emad Moteab", "ar": "عماد متعب"},
-      {"en": "Mohamed Aboutrika", "ar": "محمد أبو تريكة"},
-      {"en": "Amr Zaki", "ar": "عمرو زكي"},
-      {"en": "Mohamed Homos", "ar": "محمد حمص"}
+      {
+        "en": "Emad Moteab",
+        "ar": "عماد متعب"
+      },
+      {
+        "en": "Amr Zaki",
+        "ar": "عمرو زكي"
+      },
+      {
+        "en": "Mohamed Aboutrika",
+        "ar": "محمد أبو تريكة"
+      },
+      {
+        "en": "Mohamed Homos",
+        "ar": "محمد حمص"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation_en": "Mohamed Aboutrika, nicknamed the Smiling Assassin, scored the famous 2009 winner against Algeria.",
     "explanation_ar": "محمد أبو تريكة، 'القاتل الصامت'، سجل هدف الفوز الشهير ضد الجزائر سنة 2009."
   },
@@ -717,12 +1185,24 @@
     "question_en": "Which country won the 2022 FIFA World Cup in Qatar, beating France on penalties in the final?",
     "question_ar": "أنهي منتخب فاز بكأس عالم 2022 في قطر وكسب فرنسا بركلات الترجيح في النهائي؟",
     "options": [
-      {"en": "Brazil", "ar": "البرازيل"},
-      {"en": "Argentina", "ar": "الأرجنتين"},
-      {"en": "Morocco", "ar": "المغرب"},
-      {"en": "Croatia", "ar": "كرواتيا"}
+      {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      {
+        "en": "Croatia",
+        "ar": "كرواتيا"
+      },
+      {
+        "en": "Morocco",
+        "ar": "المغرب"
+      },
+      {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "Argentina won the 2022 World Cup final against France on penalties.",
     "explanation_ar": "الأرجنتين فازت بنهائي كأس عالم 2022 ضد فرنسا بركلات الترجيح."
   },
@@ -735,12 +1215,24 @@
     "question_en": "Which Moroccan team became the first African nation to reach a World Cup semi-final, in 2022?",
     "question_ar": "أنهي منتخب مغربي بقى أول منتخب أفريقي يوصل نص نهائي كأس عالم سنة 2022؟",
     "options": [
-      {"en": "Tunisia", "ar": "تونس"},
-      {"en": "Morocco", "ar": "المغرب"},
-      {"en": "Senegal", "ar": "السنغال"},
-      {"en": "Algeria", "ar": "الجزائر"}
+      {
+        "en": "Morocco",
+        "ar": "المغرب"
+      },
+      {
+        "en": "Tunisia",
+        "ar": "تونس"
+      },
+      {
+        "en": "Senegal",
+        "ar": "السنغال"
+      },
+      {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "Morocco made history by reaching the 2022 World Cup semi-finals.",
     "explanation_ar": "المغرب كتبت التاريخ ووصلت لنص نهائي كأس عالم 2022."
   },
@@ -753,12 +1245,24 @@
     "question_en": "Which club is Al Ahly's historic rival in the 'Cairo Derby', one of Africa's biggest club matches?",
     "question_ar": "أنهي نادي هو غريم الأهلي التاريخي في 'ديربي القاهرة'، واحد من أكبر الماتشات في أفريقيا؟",
     "options": [
-      {"en": "Ismaily", "ar": "الإسماعيلي"},
-      {"en": "Al Masry", "ar": "المصري"},
-      {"en": "Zamalek", "ar": "الزمالك"},
-      {"en": "Al Ittihad", "ar": "الاتحاد"}
+      {
+        "en": "Ismaily",
+        "ar": "الإسماعيلي"
+      },
+      {
+        "en": "Zamalek",
+        "ar": "الزمالك"
+      },
+      {
+        "en": "Al Masry",
+        "ar": "المصري"
+      },
+      {
+        "en": "Al Ittihad",
+        "ar": "الاتحاد"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation_en": "Al Ahly and Zamalek contest the Cairo Derby, one of the fiercest rivalries in world football.",
     "explanation_ar": "الأهلي والزمالك بيلعبوا ديربي القاهرة، واحد من أشرس ديربيهات الكورة العالمية."
   },
@@ -771,10 +1275,22 @@
     "question_en": "Which Spanish club is traditionally associated with the motto 'Mes que un club' (more than a club)?",
     "question_ar": "أنهي نادي إسباني شعاره التقليدي 'أكتر من نادي'؟",
     "options": [
-      {"en": "Atletico Madrid", "ar": "أتلتيكو مدريد"},
-      {"en": "Real Madrid", "ar": "ريال مدريد"},
-      {"en": "Barcelona", "ar": "برشلونة"},
-      {"en": "Sevilla", "ar": "إشبيلية"}
+      {
+        "en": "Atletico Madrid",
+        "ar": "أتلتيكو مدريد"
+      },
+      {
+        "en": "Real Madrid",
+        "ar": "ريال مدريد"
+      },
+      {
+        "en": "Barcelona",
+        "ar": "برشلونة"
+      },
+      {
+        "en": "Sevilla",
+        "ar": "إشبيلية"
+      }
     ],
     "correctAnswer": 2,
     "explanation_en": "Barcelona's motto is 'Mes que un club' - more than a club.",
@@ -789,12 +1305,24 @@
     "question_en": "In football terminology, what do you call a goal scored directly from a corner kick?",
     "question_ar": "إيه اسم الهدف اللي بيتسجل من ركلة ركنية مباشرة من غير لمس حد؟",
     "options": [
-      {"en": "An Olympic goal", "ar": "هدف أوليمبي"},
-      {"en": "A panenka", "ar": "بانينكا"},
-      {"en": "A rabona", "ar": "رابونا"},
-      {"en": "A scissor kick", "ar": "مقصية"}
+      {
+        "en": "A scissor kick",
+        "ar": "مقصية"
+      },
+      {
+        "en": "A panenka",
+        "ar": "بانينكا"
+      },
+      {
+        "en": "A rabona",
+        "ar": "رابونا"
+      },
+      {
+        "en": "An Olympic goal",
+        "ar": "هدف أوليمبي"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation_en": "A goal scored direct from a corner is known as an Olympic goal.",
     "explanation_ar": "الهدف اللي بيتسجل مباشرة من الركنية اسمه 'هدف أوليمبي'."
   },
@@ -807,12 +1335,24 @@
     "question_en": "Which country's domestic league is home to Bayern Munich and Borussia Dortmund?",
     "question_ar": "أنهي دولة دوريها المحلي فيه بايرن ميونيخ وبوروسيا دورتموند؟",
     "options": [
-      {"en": "Austria", "ar": "النمسا"},
-      {"en": "Switzerland", "ar": "سويسرا"},
-      {"en": "Germany", "ar": "ألمانيا"},
-      {"en": "Netherlands", "ar": "هولندا"}
+      {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      },
+      {
+        "en": "Switzerland",
+        "ar": "سويسرا"
+      },
+      {
+        "en": "Austria",
+        "ar": "النمسا"
+      },
+      {
+        "en": "Netherlands",
+        "ar": "هولندا"
+      }
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation_en": "Bayern Munich and Borussia Dortmund play in Germany's Bundesliga.",
     "explanation_ar": "بايرن ميونيخ وبوروسيا دورتموند بيلعبوا في البوندسليجا الألماني."
   },
@@ -825,10 +1365,22 @@
     "question_en": "Which 1950 World Cup match shocked the host nation when Uruguay beat Brazil in the decisive final game?",
     "question_ar": "أنهي ماتش في كأس عالم 1950 صدم الدولة المستضيفة لما أوروجواي كسبت البرازيل في الماتش الحاسم؟",
     "options": [
-      {"en": "The Miracle of Bern", "ar": "معجزة برن"},
-      {"en": "The Maracanazo", "ar": "الماراكانازو"},
-      {"en": "The Battle of Santiago", "ar": "معركة سانتياجو"},
-      {"en": "The Hand of God match", "ar": "ماتش يد الإله"}
+      {
+        "en": "The Miracle of Bern",
+        "ar": "معجزة برن"
+      },
+      {
+        "en": "The Maracanazo",
+        "ar": "الماراكانازو"
+      },
+      {
+        "en": "The Battle of Santiago",
+        "ar": "معركة سانتياجو"
+      },
+      {
+        "en": "The Hand of God match",
+        "ar": "ماتش يد الإله"
+      }
     ],
     "correctAnswer": 1,
     "explanation_en": "The 'Maracanazo' saw Uruguay stun hosts Brazil at the Maracana in 1950.",
@@ -843,12 +1395,24 @@
     "question_en": "Which Egyptian club plays its home matches at Petro Sport Stadium and is linked to the petroleum sector?",
     "question_ar": "أنهي نادي مصري بيلعب مبارياته في استاد بتروسبورت ومرتبط بقطاع البترول؟",
     "options": [
-      {"en": "ENPPI", "ar": "الإنبي"},
-      {"en": "Ghazl El Mahalla", "ar": "غزل المحلة"},
-      {"en": "Tala'ea El Gaish", "ar": "طلائع الجيش"},
-      {"en": "Future FC", "ar": "فيوتشر"}
+      {
+        "en": "Tala'ea El Gaish",
+        "ar": "طلائع الجيش"
+      },
+      {
+        "en": "Ghazl El Mahalla",
+        "ar": "غزل المحلة"
+      },
+      {
+        "en": "ENPPI",
+        "ar": "الإنبي"
+      },
+      {
+        "en": "Future FC",
+        "ar": "فيوتشر"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation_en": "ENPPI (Egyptian Petroleum Company) plays at Petro Sport Stadium.",
     "explanation_ar": "الإنبي (الشركة المصرية للبترول) بيلعب في استاد بتروسبورت."
   },
@@ -861,12 +1425,24 @@
     "question_en": "Which award does FIFA give annually to the world's best men's football player?",
     "question_ar": "أنهي جايزة بتديها فيفا كل سنة لأحسن لاعب كورة في العالم؟",
     "options": [
-      {"en": "Golden Boot", "ar": "الحذاء الدهبي"},
-      {"en": "The Best FIFA Men's Player", "ar": "جايزة ذا بيست لأفضل لاعب"},
-      {"en": "Golden Glove", "ar": "القفاز الدهبي"},
-      {"en": "Puskas Award", "ar": "جايزة بوشكاش"}
+      {
+        "en": "Golden Boot",
+        "ar": "الحذاء الدهبي"
+      },
+      {
+        "en": "Puskas Award",
+        "ar": "جايزة بوشكاش"
+      },
+      {
+        "en": "Golden Glove",
+        "ar": "القفاز الدهبي"
+      },
+      {
+        "en": "The Best FIFA Men's Player",
+        "ar": "جايزة ذا بيست لأفضل لاعب"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation_en": "The Best FIFA Men's Player award is given annually to the top player.",
     "explanation_ar": "جايزة 'ذا بيست' من فيفا بتتاخد سنويًا لأفضل لاعب."
   },
@@ -879,12 +1455,24 @@
     "question_en": "In 1966, which host nation won its only World Cup title, with Geoff Hurst scoring a final hat-trick?",
     "question_ar": "سنة 1966، أنهي دولة مستضيفة فازت بكأس عالمها الوحيد، وجيوف هيرست سجل هاتريك في النهائي؟",
     "options": [
-      {"en": "West Germany", "ar": "ألمانيا الغربية"},
-      {"en": "England", "ar": "إنجلترا"},
-      {"en": "Italy", "ar": "إيطاليا"},
-      {"en": "Portugal", "ar": "البرتغال"}
+      {
+        "en": "England",
+        "ar": "إنجلترا"
+      },
+      {
+        "en": "West Germany",
+        "ar": "ألمانيا الغربية"
+      },
+      {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      {
+        "en": "Portugal",
+        "ar": "البرتغال"
+      }
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation_en": "England won the 1966 World Cup on home soil, with Geoff Hurst scoring a final hat-trick.",
     "explanation_ar": "إنجلترا فازت بكأس عالم 1966 على أرضها، وجيوف هيرست سجل هاتريك في النهائي."
   },
@@ -897,12 +1485,24 @@
     "question_en": "What is the maximum number of players a team may have sent off before a match must be abandoned, under IFAB rules?",
     "question_ar": "إيه أقصى عدد لاعبين ممكن يتطردوا من فريق قبل ما الماتش يتوقف نهائي حسب قوانين الآيفاب؟",
     "options": [
-      {"en": "A team must field at least 7 players", "ar": "الفريق لازم يفضل فيه 7 لاعبين على الأقل"},
-      {"en": "A team must field at least 5 players", "ar": "الفريق لازم يفضل فيه 5 لاعبين على الأقل"},
-      {"en": "A team must field at least 9 players", "ar": "الفريق لازم يفضل فيه 9 لاعبين على الأقل"},
-      {"en": "There is no minimum number", "ar": "مفيش حد أدنى للاعبين"}
+      {
+        "en": "A team must field at least 5 players",
+        "ar": "الفريق لازم يفضل فيه 5 لاعبين على الأقل"
+      },
+      {
+        "en": "A team must field at least 7 players",
+        "ar": "الفريق لازم يفضل فيه 7 لاعبين على الأقل"
+      },
+      {
+        "en": "A team must field at least 9 players",
+        "ar": "الفريق لازم يفضل فيه 9 لاعبين على الأقل"
+      },
+      {
+        "en": "There is no minimum number",
+        "ar": "مفيش حد أدنى للاعبين"
+      }
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation_en": "Under the Laws of the Game, a match is abandoned if a team drops below 7 players.",
     "explanation_ar": "حسب قوانين الكورة، الماتش بيتوقف لو فريق نزل عن 7 لاعبين."
   }
