@@ -9,8 +9,7 @@
     "preview": "vite preview --host",
     "test": "vitest run",
     "test:watch": "vitest",
-    "validate": "node scripts/validate-questions.mjs",
-    "build:questions": "node scripts/build-questions.mjs",
+    "validate": "node scripts/validate-football-pillar.mjs",
     "lint": "eslint ."
   },
   "dependencies": {

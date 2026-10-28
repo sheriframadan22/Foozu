@@ -1,9 +1,10 @@
 import type { Question } from '@/types/question';
 
-// Eagerly bundle every category/value question file at build time.
-// Adding more questions later is just editing/adding files under data/questions/<category>/<value>.json —
-// no code changes required here.
-const modules = import.meta.glob('../../data/questions/*/*.json', { eager: true }) as Record<
+// One pillar, one pool: all questions blend Egyptian football, international
+// football, football history, guess-the-player and football knowledge within each
+// money level. Adding more later is just adding objects to these files — no code
+// changes required.
+const modules = import.meta.glob('../../data/football-pillar/*.json', { eager: true }) as Record<
   string,
   { default: Question[] }
 >;
@@ -14,8 +15,8 @@ export function getAllQuestions(): Question[] {
   return ALL_QUESTIONS;
 }
 
-export function getQuestionsFor(categoryName: string, value: number): Question[] {
-  return ALL_QUESTIONS.filter((q) => q.category === categoryName && q.value === value);
+export function getQuestionsFor(value: number): Question[] {
+  return ALL_QUESTIONS.filter((q) => q.value === value);
 }
 
 export function totalQuestionCount(): number {

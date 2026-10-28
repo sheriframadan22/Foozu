@@ -20,8 +20,6 @@ export interface CompletedGame {
   highestLevel: number; // highest money value reached (attempted)
   result: GameResult;
   selections: CategorySelection[];
-  /** Which game they played. Omitted/undefined on older records means the classic game. */
-  mode?: 'classic' | 'football';
 }
 
 /**

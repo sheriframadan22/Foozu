@@ -1,17 +1,13 @@
 import { describe, it, expect } from 'vitest';
 import * as engine from '@/game/gameEngine';
 import { MAX_PRIZE } from '@/game/scoring';
-import { CATEGORIES } from '@/data/categoriesConfig';
+import { LEVELS } from '@/types/game';
 
-const CAT = CATEGORIES.map((c) => c.name_en);
-
-/** Play correctly through `count` levels (0 = none, 5 = all the way to 380). */
+/** Play correctly through `count` levels (0 = none, 5 = all the way to 210). */
 function playCorrectLevels(count: number) {
   let state = engine.startGame('Test Player');
   for (let i = 0; i < count; i++) {
-    const cat = CAT[i % CAT.length];
-    state = engine.selectCategory(state, cat);
-    state = engine.recordAnswer(state, 0);
+    state = engine.beginQuestion(state);
     state = engine.reveal(state);
     state = engine.confirmOutcome(state, true);
   }
@@ -19,29 +15,33 @@ function playCorrectLevels(count: number) {
 }
 
 describe('gameEngine — correct progression', () => {
+  it('matches the 10/20/30/50/100 ladder', () => {
+    expect(LEVELS).toEqual([10, 20, 30, 50, 100]);
+  });
+
+  it('max prize is exactly 210', () => {
+    expect(MAX_PRIZE).toBe(210);
+  });
+
   it('correct at 10 -> secured 10', () => {
-    const s = playCorrectLevels(1);
-    expect(s.securedAmount).toBe(10);
+    expect(playCorrectLevels(1).securedAmount).toBe(10);
   });
 
   it('correct at 10+20 -> secured 30', () => {
-    const s = playCorrectLevels(2);
-    expect(s.securedAmount).toBe(30);
+    expect(playCorrectLevels(2).securedAmount).toBe(30);
   });
 
-  it('correct at 10+20+50 -> secured 80', () => {
-    const s = playCorrectLevels(3);
-    expect(s.securedAmount).toBe(80);
+  it('correct at 10+20+30 -> secured 60', () => {
+    expect(playCorrectLevels(3).securedAmount).toBe(60);
   });
 
-  it('correct through 100 -> secured 180', () => {
-    const s = playCorrectLevels(4);
-    expect(s.securedAmount).toBe(180);
+  it('correct through 50 -> secured 110', () => {
+    expect(playCorrectLevels(4).securedAmount).toBe(110);
   });
 
-  it('correct all five -> secured 380 and phase is win', () => {
+  it('correct all five -> secured 210 and phase is win', () => {
     const s = playCorrectLevels(5);
-    expect(s.securedAmount).toBe(380);
+    expect(s.securedAmount).toBe(210);
     expect(s.securedAmount).toBe(MAX_PRIZE);
     expect(s.phase).toBe('win');
   });
@@ -50,9 +50,7 @@ describe('gameEngine — correct progression', () => {
 describe('gameEngine — wrong progression', () => {
   function playThenWrong(correctCount: number) {
     let state = playCorrectLevels(correctCount);
-    const cat = CAT[correctCount % CAT.length];
-    state = engine.selectCategory(state, cat);
-    state = engine.recordAnswer(state, 1);
+    state = engine.beginQuestion(state);
     state = engine.reveal(state);
     state = engine.confirmOutcome(state, false);
     return state;
@@ -64,86 +62,62 @@ describe('gameEngine — wrong progression', () => {
   it('wrong at 20 -> secured 10', () => {
     expect(playThenWrong(1).securedAmount).toBe(10);
   });
-  it('wrong at 50 -> secured 30', () => {
+  it('wrong at 30 -> secured 30', () => {
     expect(playThenWrong(2).securedAmount).toBe(30);
   });
-  it('wrong at 100 -> secured 80', () => {
-    expect(playThenWrong(3).securedAmount).toBe(80);
+  it('wrong at 50 -> secured 60', () => {
+    expect(playThenWrong(3).securedAmount).toBe(60);
   });
-  it('wrong at 200 -> secured 180', () => {
+  it('wrong at 100 -> secured 110', () => {
     const s = playThenWrong(4);
-    expect(s.securedAmount).toBe(180);
+    expect(s.securedAmount).toBe(110);
     expect(s.phase).toBe('loss');
   });
 });
 
 describe('gameEngine — timeout behaves like a wrong answer', () => {
-  it('timeout at 50 -> secured stays at 30 and game ends', () => {
+  it('timeout at 30 -> secured stays at 30 and game ends', () => {
     let state = playCorrectLevels(2);
-    const cat = CAT[2 % CAT.length];
-    state = engine.selectCategory(state, cat);
-    state = engine.recordAnswer(state, undefined, true); // no answer selected, time expired
-    state = engine.reveal(state);
+    state = engine.beginQuestion(state);
+    state = engine.markTimeUp(state);
     state = engine.confirmOutcome(state, false);
     expect(state.securedAmount).toBe(30);
     expect(state.phase).toBe('loss');
   });
 });
 
-describe('gameEngine — level and category rules', () => {
-  it('cannot select a category before the game has started (wrong phase)', () => {
+describe('gameEngine — level rules', () => {
+  it('cannot begin a question before the game has started (wrong phase)', () => {
     const fresh = engine.resetGame();
-    const after = engine.selectCategory(fresh, CAT[0]);
+    const after = engine.beginQuestion(fresh);
     expect(after).toBe(fresh); // no-op, still name-entry phase
   });
 
   it('cannot skip levels: level index only advances one at a time on correct answers', () => {
     let state = engine.startGame('Skip Test');
     expect(state.currentLevelIndex).toBe(0);
-    state = engine.selectCategory(state, CAT[0]);
-    state = engine.recordAnswer(state, 0);
+    state = engine.beginQuestion(state);
     state = engine.reveal(state);
     state = engine.confirmOutcome(state, true);
-    expect(state.currentLevelIndex).toBe(1); // now at 20 EGP, never jumped to 50/100/200
+    expect(state.currentLevelIndex).toBe(1); // now at 20 EGP
   });
 
-  it('can change category freely at each level (no category lock-in)', () => {
-    let state = engine.startGame('Category Switch');
-    state = engine.selectCategory(state, CAT[0]);
-    state = engine.recordAnswer(state, 0);
+  it('does not reuse a question within the same game', () => {
+    let state = engine.startGame('No Repeat');
+    state = engine.beginQuestion(state);
+    const firstId = state.currentQuestion?.id;
     state = engine.reveal(state);
-    state = engine.confirmOutcome(state, true); // level 0 done with CAT[0]
-
-    // Level 1 (20 EGP): pick a different category than before.
-    state = engine.selectCategory(state, CAT[1]);
-    expect(state.currentCategory).toBe(CAT[1]);
-  });
-
-  it('cannot reuse a category/value slot already answered in this game', () => {
-    let state = engine.startGame('No Reuse');
-    expect(engine.canSelectCategory(state, CAT[0])).toBe(true); // selectable before it's used
-    state = engine.selectCategory(state, CAT[0]);
-    state = engine.recordAnswer(state, 0);
-    state = engine.reveal(state);
-    state = engine.confirmOutcome(state, true);
-
-    // CAT[0] at 10 EGP is now used; at the new level (20 EGP) it's a fresh slot, so it's selectable again.
-    expect(engine.canSelectCategory(state, CAT[0])).toBe(true);
-
-    // But re-selecting the exact same category+value already played should never happen —
-    // simulate by manually checking the used-slots guard directly.
-    const usedTenEgpAgain = state.usedSlots.some((s) => s.category === CAT[0] && s.value === 10);
-    expect(usedTenEgpAgain).toBe(true);
+    state = engine.confirmOutcome(state, true); // moves to level 2
+    expect(state.usedQuestionIds).toContain(firstId);
   });
 
   it('does not overwrite securedAmount with the current question value (additive only)', () => {
-    // Regression test for the exact bug described in the PRD: wrong at 200 must leave 180, not 200.
-    const s = playCorrectLevels(4); // secured 180 after 10+20+50+100
-    let state = engine.selectCategory(s, CAT[4]);
-    state = engine.recordAnswer(state, 2);
+    // Regression test for the exact PRD bug: wrong at 100 must leave 110, not 100.
+    const s = playCorrectLevels(4); // secured 110 after 10+20+30+50
+    let state = engine.beginQuestion(s);
     state = engine.reveal(state);
-    state = engine.confirmOutcome(state, false); // wrong at 200
-    expect(state.securedAmount).toBe(180);
-    expect(state.securedAmount).not.toBe(200);
+    state = engine.confirmOutcome(state, false); // wrong at 100
+    expect(state.securedAmount).toBe(110);
+    expect(state.securedAmount).not.toBe(100);
   });
 });

@@ -5,7 +5,7 @@ import { formatRaffleNumber } from '@/utils/storage';
 interface Props {
   playerName: string;
   raffleNumber?: number;
-  /** Defaults to the classic 380 EGP top prize — pass a different value for other game modes. */
+  /** Defaults to the top prize for the current ladder (see src/game/scoring.ts). */
   maxPrize?: number;
   onPlayAgain: () => void;
 }

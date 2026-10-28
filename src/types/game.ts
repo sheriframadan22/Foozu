@@ -1,26 +1,9 @@
 import type { MoneyValue, PreparedQuestion } from './question';
 
-export const LEVELS: MoneyValue[] = [10, 20, 50, 100, 200];
+/** The game's single money ladder — 5 levels, harder curve, football-only content. */
+export const LEVELS: MoneyValue[] = [10, 20, 30, 50, 100];
 
-/** Cumulative secured amount if the level at this index is answered correctly. */
-export const CUMULATIVE_AT_LEVEL: number[] = (() => {
-  let sum = 0;
-  return LEVELS.map((v) => (sum += v));
-})();
-
-export type GamePhase =
-  | 'name-entry'
-  | 'category-board'
-  | 'question'
-  | 'reveal'
-  | 'win'
-  | 'loss';
-
-export interface UsedSlot {
-  category: string;
-  value: MoneyValue;
-  questionId: string;
-}
+export type GamePhase = 'name-entry' | 'level-ready' | 'question' | 'reveal' | 'win' | 'loss';
 
 export interface GameState {
   phase: GamePhase;
@@ -30,13 +13,10 @@ export interface GameState {
   raffleNumber: number;
   currentLevelIndex: number; // 0..4, index into LEVELS
   securedAmount: number;
-  usedSlots: UsedSlot[];
-  currentCategory?: string;
+  usedQuestionIds: string[]; // one pool, so a flat used-id list is enough
   currentQuestion?: PreparedQuestion;
-  selectedAnswerIndex?: 0 | 1 | 2 | 3;
   timeUp?: boolean;
   startTime?: string;
-  lastAnswerCorrect?: boolean;
 }
 
 export const initialGameState = (): GameState => ({
@@ -47,5 +27,5 @@ export const initialGameState = (): GameState => ({
   raffleNumber: 0,
   currentLevelIndex: 0,
   securedAmount: 0,
-  usedSlots: []
+  usedQuestionIds: []
 });

@@ -19,7 +19,7 @@ export function addLevelValue(securedAmount: number, levelIndex: number): number
   return securedAmount + LEVELS[levelIndex];
 }
 
-export const MAX_PRIZE = cumulativeAfterLevel(LEVELS.length - 1); // 380
+export const MAX_PRIZE = cumulativeAfterLevel(LEVELS.length - 1); // 210
 
 export function isLastLevel(levelIndex: number): boolean {
   return levelIndex === LEVELS.length - 1;

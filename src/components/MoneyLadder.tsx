@@ -3,7 +3,7 @@ import { LEVELS } from '@/types/game';
 interface Props {
   currentLevelIndex: number;
   securedAmount: number;
-  /** Defaults to the classic 10/20/50/100/200 ladder — pass a different set for other game modes (e.g. the football pillar). */
+  /** Defaults to the game's own ladder (see src/types/game.ts). */
   levels?: number[];
 }
 

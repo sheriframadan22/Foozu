@@ -1,6 +1,5 @@
-import type { Question, PreparedQuestion, MoneyValue } from '@/types/question';
+import type { Question, PreparedQuestion } from '@/types/question';
 import { getQuestionsFor } from '@/data/questionBank';
-import type { UsedSlot } from '@/types/game';
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -20,21 +19,13 @@ export function prepareQuestion(q: Question): PreparedQuestion {
 }
 
 /**
- * Pick a random, not-yet-used question for a category/value in this session.
- * Returns undefined if every question in that slot has been used already (should not
- * happen with 50 questions/slot in a single game, but guarded regardless).
+ * Pick a random, not-yet-used question for the given value in this session.
+ * Returns undefined if every question at that level has been used already (should not
+ * happen with 50 questions/level in a single game, but guarded regardless).
  */
-export function pickQuestion(
-  categoryName: string,
-  value: MoneyValue,
-  usedSlots: UsedSlot[]
-): Question | undefined {
-  const usedIds = new Set(usedSlots.map((s) => s.questionId));
-  const pool = getQuestionsFor(categoryName, value).filter((q) => !usedIds.has(q.id));
+export function pickQuestion(value: number, usedQuestionIds: string[]): Question | undefined {
+  const usedIds = new Set(usedQuestionIds);
+  const pool = getQuestionsFor(value).filter((q) => !usedIds.has(q.id));
   if (pool.length === 0) return undefined;
   return pool[Math.floor(Math.random() * pool.length)];
-}
-
-export function isSlotUsed(usedSlots: UsedSlot[], category: string, value: number): boolean {
-  return usedSlots.some((s) => s.category === category && s.value === value);
 }

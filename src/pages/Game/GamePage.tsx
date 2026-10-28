@@ -2,7 +2,6 @@ import { useEffect, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
 import BrandHeader from '@/components/BrandHeader';
 import NameEntry from '@/components/NameEntry';
-import CategoryBoard from '@/components/CategoryBoard';
 import QuestionCard from '@/components/QuestionCard';
 import RevealPanel from '@/components/RevealPanel';
 import MoneyLadder from '@/components/MoneyLadder';
@@ -41,15 +40,14 @@ export default function GamePage() {
       durationSeconds: Math.max(0, Math.round((new Date(endTime).getTime() - new Date(startTime).getTime()) / 1000)),
       highestLevel,
       result,
-      selections: selectionsRef.current,
-      mode: 'classic'
+      selections: selectionsRef.current
     };
     gameStore.add(completed);
     playerRegistryStore.recordPrize(finalState.phoneNumber, prize);
   };
 
-  const handleSelectCategory = (category: string) => {
-    setState((s) => engine.selectCategory(s, category));
+  const handleBeginQuestion = () => {
+    setState((s) => engine.beginQuestion(s));
   };
 
   const handleReveal = () => {
@@ -58,10 +56,7 @@ export default function GamePage() {
 
   const handleTimeExpire = () => {
     // Timeout = automatic wrong answer; the game ends immediately (per PRD §5/§42).
-    setState((s) => {
-      const withAnswer = engine.recordAnswer(s, undefined, true);
-      return engine.reveal(withAnswer);
-    });
+    setState((s) => engine.markTimeUp(s));
     autoTimeoutRef.current = window.setTimeout(() => {
       finishOutcome(false);
     }, AUTO_ADVANCE_MS);
@@ -69,12 +64,12 @@ export default function GamePage() {
 
   const finishOutcome = (correct: boolean) => {
     setState((prev) => {
-      if (prev.phase !== 'reveal' || !prev.currentQuestion || !prev.currentCategory) return prev;
+      if (prev.phase !== 'reveal' || !prev.currentQuestion) return prev;
       selectionsRef.current = [
         ...selectionsRef.current,
-        { category: prev.currentCategory, value: currentValue, correct, questionId: prev.currentQuestion.id }
+        { category: 'Football', value: currentValue, correct, questionId: prev.currentQuestion.id }
       ];
-      questionStatsStore.record(prev.currentQuestion.id, prev.currentCategory, currentValue, correct);
+      questionStatsStore.record(prev.currentQuestion.id, 'Football', currentValue, correct);
 
       const next = engine.confirmOutcome(prev, correct);
 
@@ -101,7 +96,7 @@ export default function GamePage() {
     setState(engine.resetGame());
   };
 
-  /** From the category board: ends the current attempt without recording it (nothing was won yet to lose). */
+  /** From the level-ready screen: ends the current attempt without recording it (nothing was won yet to lose). */
   const handleBackToStart = () => {
     if (state.securedAmount > 0 && !confirm('Go back and end this game? The secured amount will not be awarded.')) {
       return;
@@ -110,16 +105,9 @@ export default function GamePage() {
     setState(engine.resetGame());
   };
 
-  /** From a question/reveal screen: discards the in-flight question (never recorded) and returns to the board. */
-  const handleBackToBoard = () => {
-    setState((s) => ({
-      ...s,
-      phase: 'category-board',
-      currentCategory: undefined,
-      currentQuestion: undefined,
-      selectedAnswerIndex: undefined,
-      timeUp: false
-    }));
+  /** From a question/reveal screen: discards the in-flight question (never recorded) and returns to level-ready. */
+  const handleBackToReady = () => {
+    setState((s) => ({ ...s, phase: 'level-ready', currentQuestion: undefined, timeUp: false }));
   };
 
   return (
@@ -129,10 +117,10 @@ export default function GamePage() {
         securedAmount={state.phase !== 'name-entry' ? state.securedAmount : undefined}
         raffleNumber={state.phase !== 'name-entry' ? state.raffleNumber : undefined}
         onBack={
-          state.phase === 'category-board'
+          state.phase === 'level-ready'
             ? handleBackToStart
             : state.phase === 'question' || state.phase === 'reveal'
-              ? handleBackToBoard
+              ? handleBackToReady
               : state.phase === 'win' || state.phase === 'loss'
                 ? handlePlayAgain
                 : undefined
@@ -142,11 +130,23 @@ export default function GamePage() {
       <main className="flex-1 px-4 sm:px-6 pb-8">
         {state.phase === 'name-entry' && <NameEntry onStart={handleStart} />}
 
-        {(state.phase === 'category-board' || state.phase === 'question' || state.phase === 'reveal') && (
+        {(state.phase === 'level-ready' || state.phase === 'question' || state.phase === 'reveal') && (
           <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-[1fr_220px] gap-6 lg:gap-8 items-start">
             <div>
-              {state.phase === 'category-board' && (
-                <CategoryBoard currentValue={currentValue} usedSlots={state.usedSlots} onSelect={handleSelectCategory} />
+              {state.phase === 'level-ready' && (
+                <div className="flex flex-col items-center justify-center min-h-[50vh] text-center">
+                  <div className="text-5xl mb-3">⚽</div>
+                  <div className="text-xs uppercase tracking-widest text-white/50">Level {state.currentLevelIndex + 1}</div>
+                  <div className="font-display font-extrabold text-4xl sm:text-5xl text-foozu-yellow mb-6">
+                    {currentValue} EGP
+                  </div>
+                  <button
+                    onClick={handleBeginQuestion}
+                    className="touch-target px-10 py-5 rounded-2xl bg-foozu-pink font-display font-bold text-xl active:scale-95 hover:brightness-110 transition"
+                  >
+                    GET QUESTION
+                  </button>
+                </div>
               )}
               {(state.phase === 'question' || state.phase === 'reveal') && state.currentQuestion && (
                 <>
@@ -196,10 +196,7 @@ export default function GamePage() {
         )}
       </main>
 
-      <footer className="text-center pb-3 flex items-center justify-center gap-4">
-        <Link to="/football" className="text-[11px] text-white/25 hover:text-white/50 transition">
-          ⚽ football-only game
-        </Link>
+      <footer className="text-center pb-3">
         <Link to="/admin" className="text-[11px] text-white/25 hover:text-white/50 transition">
           usher / admin
         </Link>

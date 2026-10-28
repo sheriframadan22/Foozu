@@ -1,6 +1,6 @@
 import { LEVELS, type GameState, initialGameState } from '@/types/game';
 import { addLevelValue, isLastLevel } from './scoring';
-import { pickQuestion, prepareQuestion, isSlotUsed } from './questionSelector';
+import { pickQuestion, prepareQuestion } from './questionSelector';
 import type { MoneyValue } from '@/types/question';
 
 /** Pure, side-effect-free reducers for the FOOZU game. Every transition returns a new GameState. */
@@ -8,7 +8,7 @@ import type { MoneyValue } from '@/types/question';
 export function startGame(playerName: string, phoneNumber = '', age = 0, raffleNumber = 0): GameState {
   return {
     ...initialGameState(),
-    phase: 'category-board',
+    phase: 'level-ready',
     playerName: playerName.trim(),
     phoneNumber: phoneNumber.trim(),
     age,
@@ -21,32 +21,13 @@ export function currentValue(state: GameState): MoneyValue {
   return LEVELS[state.currentLevelIndex];
 }
 
-export function canSelectCategory(state: GameState, category: string): boolean {
-  if (state.phase !== 'category-board') return false;
-  return !isSlotUsed(state.usedSlots, category, currentValue(state));
-}
-
-/** Contestant picks a category at the current level; draws a random unused question. */
-export function selectCategory(state: GameState, category: string): GameState {
-  if (!canSelectCategory(state, category)) return state;
+/** Draws a random unused question for the current level and moves to the question phase. */
+export function beginQuestion(state: GameState): GameState {
+  if (state.phase !== 'level-ready') return state;
   const value = currentValue(state);
-  const raw = pickQuestion(category, value, state.usedSlots);
-  if (!raw) return state; // exhausted pool guard; UI should not allow reaching this
-  const prepared = prepareQuestion(raw);
-  return {
-    ...state,
-    phase: 'question',
-    currentCategory: category,
-    currentQuestion: prepared,
-    selectedAnswerIndex: undefined,
-    timeUp: false
-  };
-}
-
-/** Usher records the contestant's verbal answer (or a timeout) before revealing. */
-export function recordAnswer(state: GameState, answerIndex: 0 | 1 | 2 | 3 | undefined, timeUp = false): GameState {
-  if (state.phase !== 'question') return state;
-  return { ...state, selectedAnswerIndex: answerIndex, timeUp };
+  const raw = pickQuestion(value, state.usedQuestionIds);
+  if (!raw) return state; // exhausted pool guard; shouldn't happen with 50 questions/level/session
+  return { ...state, phase: 'question', currentQuestion: prepareQuestion(raw), timeUp: false };
 }
 
 export function reveal(state: GameState): GameState {
@@ -54,35 +35,36 @@ export function reveal(state: GameState): GameState {
   return { ...state, phase: 'reveal' };
 }
 
+export function markTimeUp(state: GameState): GameState {
+  if (state.phase !== 'question') return state;
+  return { ...state, phase: 'reveal', timeUp: true };
+}
+
 /**
  * Usher confirms CORRECT or WRONG after the reveal. This is the single place
  * securedAmount changes, and it only ever ADDS the current level's value — see scoring.ts.
  */
 export function confirmOutcome(state: GameState, correct: boolean): GameState {
-  if (state.phase !== 'reveal' || !state.currentQuestion || !state.currentCategory) return state;
-  const value = currentValue(state);
-  const usedSlots = [...state.usedSlots, { category: state.currentCategory, value, questionId: state.currentQuestion.id }];
+  if (state.phase !== 'reveal' || !state.currentQuestion) return state;
+  const usedQuestionIds = [...state.usedQuestionIds, state.currentQuestion.id];
 
   if (!correct) {
-    return { ...state, phase: 'loss', usedSlots, lastAnswerCorrect: false };
+    return { ...state, phase: 'loss', usedQuestionIds };
   }
 
   const securedAmount = addLevelValue(state.securedAmount, state.currentLevelIndex);
 
   if (isLastLevel(state.currentLevelIndex)) {
-    return { ...state, phase: 'win', usedSlots, securedAmount, lastAnswerCorrect: true };
+    return { ...state, phase: 'win', usedQuestionIds, securedAmount };
   }
 
   return {
     ...state,
-    phase: 'category-board',
-    usedSlots,
+    phase: 'level-ready',
+    usedQuestionIds,
     securedAmount,
     currentLevelIndex: state.currentLevelIndex + 1,
-    currentCategory: undefined,
-    currentQuestion: undefined,
-    selectedAnswerIndex: undefined,
-    lastAnswerCorrect: true
+    currentQuestion: undefined
   };
 }
 
