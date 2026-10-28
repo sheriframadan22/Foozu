@@ -14,6 +14,11 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
+      // Registered manually in main.tsx so we can poll for updates and force an
+      // immediate reload the moment a new deploy is available — this app gets
+      // redeployed frequently during setup, and a tab left open on an old cached
+      // build (showing stale rules/content) has caused real confusion before.
+      injectRegister: false,
       includeAssets: ['icons/*.png', 'brand/*.png'],
       manifest: {
         name: 'FOOZU — Rewarding Every Moment',
