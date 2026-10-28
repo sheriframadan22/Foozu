@@ -1,6 +1,6 @@
 # FOOZU — Football Quiz Game
 
-A *Who Wants to Be a Millionaire*-style football trivia game built for a live Foozu activation. An usher runs the game from a tablet while a contestant plays in front of them, climbing five ascending money levels — **10 → 20 → 30 → 50 → 100 EGP** — for a maximum payout of **210 EGP**.
+A *Who Wants to Be a Millionaire*-style football trivia game built for a live Foozu activation. An usher runs the game from a tablet while a contestant plays in front of them, climbing five ascending money levels — **10 → 20 → 30 → 50 → 100 EGP**. The prize is **not cumulative**: it's the value of the last question answered correctly, up to a maximum of **100 EGP**.
 
 It's football only — no category board. Every question blends five angles: Egyptian football, international football, football history, guess-the-player, and general football knowledge, at a noticeably harder curve than a typical easy-to-hard trivia game.
 
@@ -24,8 +24,8 @@ Open `/` for the game screen and `/#/admin` for the operator dashboard (default 
 
 ## How the game works
 
-- Every question is worth its level's value; a correct answer **adds** that value to `securedAmount` — it is never overwritten (see `src/game/scoring.ts` for the exact rule this prevents: showing 100 EGP instead of the accumulated 210 EGP).
-- One attempt per question, 20-second timer (`src/game/timer.ts`, `QUESTION_SECONDS`). A wrong answer *or* a timeout ends the game immediately; the contestant keeps whatever was already secured.
+- Every question is worth its level's value; a correct answer **sets** `securedAmount` to that value — it is NOT added to what came before (see `src/game/scoring.ts`). The prize is always the value of the last question answered correctly, never a running sum: correct at 10, correct at 20, wrong at 30 pays out **20 EGP**, not 30.
+- One attempt per question, 20-second timer (`src/game/timer.ts`, `QUESTION_SECONDS`). A wrong answer *or* a timeout ends the game immediately; the contestant keeps the value of their last correct answer.
 - Not multiple choice on screen: the contestant answers verbally, the usher taps **REVEAL ANSWER**, then calls it CORRECT or WRONG.
 - The contestant enters their name, phone number, and age before playing. The phone number is checked against a "played before" registry (`src/utils/storage.ts`, `playerRegistryStore`) — a number that already played is a hard block (no override), so nobody can play twice.
 - At every level the usher taps **GET QUESTION** to draw a random unused question from the single football pool for that level (`src/game/questionSelector.ts`) — no category to pick, since it's all one pillar.
@@ -33,13 +33,13 @@ Open `/` for the game screen and `/#/admin` for the operator dashboard (default 
 
 Progression is exactly:
 
-| Level | Value | Secured if correct |
-| ----- | ----: | ------------------: |
+| Level | Value | Prize if this is their last correct answer |
+| ----- | ----: | ------------------------------------------: |
 | 1 | 10 EGP | 10 EGP |
-| 2 | 20 EGP | 30 EGP |
-| 3 | 30 EGP | 60 EGP |
-| 4 | 50 EGP | 110 EGP |
-| 5 | 100 EGP | **210 EGP** |
+| 2 | 20 EGP | 20 EGP |
+| 3 | 30 EGP | 30 EGP |
+| 4 | 50 EGP | 50 EGP |
+| 5 | 100 EGP | **100 EGP** (max prize) |
 
 ## Project structure
 
@@ -98,7 +98,7 @@ Every contestant who starts a game is handed the next sequential raffle number (
 ## Operator dashboard (`/#/admin`)
 
 - PIN-gated (default `1234`).
-- Today's players, total/average payout, 210 EGP winners, 100 EGP attempts, 50 EGP eliminations.
+- Today's players, total/average payout, 100 EGP winners, 100 EGP attempts, 50 EGP eliminations.
 - **Raffle Draw** panel: draws a random winner (raffle #, name, phone) from today's contestants for the end-of-day prize.
 - Full leaderboard (prize desc, ties broken by earlier completion time) with each contestant's raffle #, searchable by name or phone number, flags repeat phone numbers.
 - **EXPORT CSV** (raffle #, name, phone, age, prize, start/end time, duration, highest level, result).
@@ -107,7 +107,7 @@ Every contestant who starts a game is handed the next sequential raffle number (
 
 ## Testing
 
-`npm test` runs the Vitest suite in `src/test/`: correct progression to 10/30/60/110/210, wrong-answer payouts at every level, timeout-as-wrong, "cannot skip levels", and "cannot reuse a question in the same game".
+`npm test` runs the Vitest suite in `src/test/`: the prize equals the value of the last question answered correctly (never a cumulative sum) at every level, wrong-answer payouts, timeout-as-wrong, "cannot skip levels", and "cannot reuse a question in the same game".
 
 ## Offline / PWA
 

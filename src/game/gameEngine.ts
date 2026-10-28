@@ -1,5 +1,5 @@
 import { LEVELS, type GameState, initialGameState } from '@/types/game';
-import { addLevelValue, isLastLevel } from './scoring';
+import { setLevelValue, isLastLevel } from './scoring';
 import { pickQuestion, prepareQuestion } from './questionSelector';
 import type { MoneyValue } from '@/types/question';
 
@@ -42,7 +42,9 @@ export function markTimeUp(state: GameState): GameState {
 
 /**
  * Usher confirms CORRECT or WRONG after the reveal. This is the single place
- * securedAmount changes, and it only ever ADDS the current level's value — see scoring.ts.
+ * securedAmount changes. By design it is NOT cumulative — it is set (not added) to
+ * the value of the level just answered, so the prize is always "the last question
+ * answered correctly," never a running sum. See scoring.ts.
  */
 export function confirmOutcome(state: GameState, correct: boolean): GameState {
   if (state.phase !== 'reveal' || !state.currentQuestion) return state;
@@ -52,7 +54,7 @@ export function confirmOutcome(state: GameState, correct: boolean): GameState {
     return { ...state, phase: 'loss', usedQuestionIds };
   }
 
-  const securedAmount = addLevelValue(state.securedAmount, state.currentLevelIndex);
+  const securedAmount = setLevelValue(state.currentLevelIndex);
 
   if (isLastLevel(state.currentLevelIndex)) {
     return { ...state, phase: 'win', usedQuestionIds, securedAmount };
